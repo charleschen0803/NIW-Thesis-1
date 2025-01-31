@@ -1,0 +1,183 @@
+Thanks, Kris
+Good afternoon, everyone, and thank you for joining us
+We executed well in the third quarter of fiscal year 2017, again delivering solid results with revenue at the midpoint of our guidance range and both operating margin and earnings per share above our guidance
+Our innovation in emerging areas of the market is expanding and creating new growth opportunities for us
+In the quarter, we strengthened our industry-leading portfolio with the introduction of new all-flash arrays and hybrid cloud solutions, positioning us to address a growing set of customer use cases
+With focus and disciplined execution, we are successfully innovating to meet the evolving needs of our growing customer base while at the same time streamlining our business
+As we deliver on our commitment to return the company to revenue growth with improved profitability, cash flow and shareholder returns, we remain focused on three priorities
+First, our Data Fabric platform and the strategic solutions that are built for the opportunities of a data-centric world
+Second, lowering our cost structure and streamlining operations while maintaining our ability to innovate
+And third, a robust capital allocation program, which includes the mix of share buybacks, dividends and investment for the long-term growth of the business
+I'll begin with an update on our first priority
+Ron will update you on the other two
+Our strategic solutions position us to lead in the new era of IT
+These flash-enabled, cloud-integrated offerings provide customers with the future proof solutions required for success in a data-centric world
+In Q3, strategic solutions constituted 65% of net product revenue, up 22% year-over-year
+Net product revenue from our mature solutions declined 18% year-over-year
+As we've said in the past, the headwinds from mature solutions will lessen, allowing the growth of the strategic solutions to return the company to moderated revenue growth in fiscal year 2018. Consistent with the plan we've laid out and as you saw in our Q3 results and Q4 guidance included in our press release, the momentum of our strategic solutions is already delivering top line growth
+Customers are maximizing the value of their data by prioritizing investments to modernize the data centers, increase agility, and integrate cloud resources with on-premises environments
+Clustered ONTAP allows customers to modernize their infrastructure by replacing stand-alone silos of storage and monolithic frame arrays with a scale-out, software-defined shared storage platform
+Uniquely in the storage industry, Clustered ONTAP enables seamless enterprise data management across flash, disk and public and private cloud footprints for enterprise applications with the ability to consolidate multiple workloads into a single repository for improved efficiency
+Clustered ONTAP continues to perform very well
+We are gaining new customers, expanding our footprint with existing customers and successfully migrating our install base
+In Q3, Clustered ONTAP was deployed on over 90% of FAS systems shipped
+Unit shipments of Clustered ONTAP systems grew 24% year-over-year, and the install base of FAS systems continues to grow
+And Clustered ONTAP is now running on approximately 40% of systems in that large and growing install base
+Additionally, we reached an exciting milestone this quarter which underscores the momentum we've had with Clustered ONTAP
+Clustered ONTAP now manages over 50% of the FAS system capacity in our install base
+Flash is the mainstream choice for new on-premises deployments as customers seek to lower total cost of ownership while gaining greater speed and responsiveness from key business applications
+NetApp leads the industry in the transition to flash with cloud-integrated solutions that provide unrivaled efficiency, speed, scale and data management
+Per IDC's calendar Q4, all-flash array market data, we strengthened our number two position
+And our growth in flash continues to outpace both the market and our competition, large and small
+Although NAND supply is tight, we are confident in our ability to meet demand and we expect our share gains to continue
+In our third quarter, our all-flash array business grew 160% year-over-year to an annualized net revenue run rate of almost $1.4 billion, inclusive of all-flash FAS, EF, and SolidFire product and services
+The majority of our all-flash array business is driven by Clustered ONTAP, deployed at both FAS engineered systems and FlexPod converged infrastructure solutions
+This year, we have refreshed our entire all-flash FAS portfolio with the A-Series designed specifically for flash and are experiencing strong adoption of these new products
+The A-Series all-flash systems deliver industry-leading performance, capacity, scalability, security and network connectivity in dense form factors
+In Q3, we introduced a new entry-level system which extends enterprise-grade flash to midsize businesses
+At the start of Q4, we announced a new high-end system which continues NetApp's track record for innovation with an NVMe fabric-ready clustered architecture
+We also enhanced our storage efficiency capabilities and introduced an industry-leading workload-specific guarantee that scales to a 5-to-1 data reduction ratio
+The beginning of February marked the one-year anniversary of our acquisition of SolidFire
+SolidFire creates an avenue of growth for us to address customers' data requirements as they build out next-generation data centers
+We are growing the SolidFire business through the expanded reach of NetApp, acquiring new customers, introducing SolidFire into existing NetApp accounts and bringing NetApp solutions to SolidFire customers
+We are further leveraging our SolidFire investment and expanding our growth potential by developing the next generation of hyper-converged infrastructure built on SolidFire innovation
+We will do what has not yet been done by the immature first generation of hyper-converged solutions, bringing hyper-converged infrastructure to the enterprise by allowing customers the flexibility to run multiple workloads without compromising performance, scale or efficiency
+As part of the data fabric platform, it will also be the first fully cloud-integrated ACI solution, giving customers the ability to leverage their data across on-premises, public cloud and hybrid cloud environments
+With this innovation, we further broaden our industry-leading portfolio with cloud-integrated solutions available in stand-alone, converged, hyper-converged and software-defined offerings
+We will have more information on the development of this exciting new solution for you in the first quarter of fiscal year 2018. The NetApp data fabric enables data management that seamlessly connects disparate systems, software stacks, clouds and data centers
+This allows customers to architect the IT environment that best meets their needs, utilizing a mix of flash, disk and public and private cloud resources
+IT organizations can be more responsive to the needs of the business by leveraging the scale of on-demand cloud capabilities while maintaining data visibility with a single consistent view of data and infrastructure across clouds and on-premises resources
+We continue innovating in this space, and at the start of the third quarter announced new data fabric services
+These as-a-service and consumption-based offerings allow customers to control, manage, secure and move data across on-premises and public cloud resources
+By providing data portability and cloud integration, we are increasing our strategic relevance and expanding our opportunity
+Customers and cloud service providers are choosing NetApp because we enable their hybrid cloud strategies
+A large U.S
+-based insurance company chose NetApp Private Storage for cloud to leverage the elasticity of the cloud to spin up or down computer network as needed for quantitative research and analysis while keeping full control of their data
+A large North American-based retailer selected NetApp all-flash FAS to replace its legacy EMC SAN infrastructure because we solved their current application integration, replication and management challenges with a compelling path to hybrid cloud
+At a cloud-based talent management solution provider, we displaced over 1 petabyte of legacy EMC and HP storage for the company's production and disaster recovery environments
+Our cloud integration and the ability to scale with their business were key factors in the customer's decision for NetApp
+Ron will go into depth about cost savings and capital allocation, and I want to re-emphasize our commitment to both priorities
+We're helping customers transform their businesses for success in the data-powered digital era by enabling their efforts to modernize their infrastructure, build next-generation data centers and harness the power of the hybrid cloud
+With our powerful portfolio of innovative solutions and data fabric strategy, we have enormous opportunity to lead in this next year of IT
+I remain extremely confident in our ability to successfully execute against this opportunity
+The transformation of NetApp is yielding results and has changed the trajectory of our business
+We have a sharp focus on delivering innovation to address an expanding range of customer requirements in the fastest-growing parts of the market, while lowering our cost structure and streamlining the business
+We've improved our agility and are delivering innovation at an accelerated pace
+With continued execution, we're on track to increase shareholder value and return the company to long-term growth and to our target operating margin range
+We will hold an Investor Day in New York on April 5, where we will share more detail on the evolution of NetApp to lead in the data-powered digital era, as well as our multi-year business outlook
+We hope that you'll be able to join us
+I'll now turn the call over to Ron to walk through our Q3 financial performance and expectations for Q4. Ron?
+Our success in all-flash arrays is broad and wide
+We have net new customers, we have new workloads within our existing customers, and upgrades within our install base
+I would tell you that the net new customers and new workloads are materially bigger as a percentage of our all-flash business, reflected, for example, in the market share gains we're seeing in the SAN business, rather than our traditional install base
+As percentage of our install base, all-flash FAS is a very small percentage
+It's less than 10% of the deployed install base
+So we've got lots of headroom to go
+Let me take the first question
+We are seeing momentum both because we have a compellingly differentiated product set
+As we have noted, the all-flash market is now going from early adopter to the mainstream market where customers are moving entire disk-based estates over to solid-state and therefore require the full range of features in their all-flash arrays from a business process, from a data management protection and availability perspective
+Both all-flash FAS, as well as SolidFire give customers a compellingly differentiated platform; and the EF-Series is the fastest performing box in the industry
+I think, in addition, we are clearly seeing disarray at our competitors
+Our leading competitors, neither have the flagship flash product, as well as going through substantial challenges from an integration perspective
+And customers are looking to NetApp to give them a path forward for their all-flash estates, as well as to the hybrid cloud
+I think, first of all, in the competitive landscape, things have not changed substantially
+As we said, the major competitor that we go up for the majority of the deals are the large system manufacturers, most notably EMC and the other high-end SAN arrays that we are displacing with all-flash FAS
+HP has always been the low-price leader, and they lack the feature set in terms of data management services
+So they compete aggressively on price
+And the startups are increasingly challenged to differentiate themselves, and so you see evidence of desperation from various different smaller startup players
+I'll just leave it there
+Overall, strategic products were up 22% year-on-year, so we saw really strong growth
+In terms of the strategic numbers, it's only product revenue that comprises the strategic number
+Our all-flash array number includes products and services, right? I think when you think about all-flash versus hybrid flash arrays, I mean, they're essentially solutions we offer customers
+Some customers, for their workloads, choose all-flash solutions and some customers choose hybrid solutions
+We have a unique advantage in the market that we are able to offer customers choice with the same set of data management capabilities
+So if the price of NAND rises unexpectedly, we can always offer them a hybrid solution which no one else in the market can offer
+We have NVMe support in the flash arrays that we introduced to market, so the flat FAS9000, the 8200, 2600 series all have NVMe integrated onboard for a low latency cash
+We also have in the A700s a NVMe over fabric ready architecture
+NVMe will become just like fiber channel
+It'll take time to get adopted and become deployable widely at customers as a true storage solution
+We're working with the industry to make that available, and it will become part of every platform
+I don't think there is meaningful differentiation from NVMe
+I think, as I've said continuously, proven data management capabilities, integration in the application domain, and delivering business value will be the composition with customers
+NVMe will become a check box that all of us will have, us included
+First of all, in terms of the cost savings that we have taken on, it's a transformation across all aspects of the business
+I would say in the product portfolio, it is to leverage the capabilities that the supply chain has to not only meaningfully reduce the cost of introducing new hardware platforms, but actually accelerate the pace at which we are introducing new hardware platforms
+The recent lineup of FAS hardware platforms were introduced at 3 times lower cost of introduction and three 3 faster
+So we're substantially better in terms of the way we build systems and hardware
+The second is in terms of our shared services environments, we've consolidated the operations of many of our back end functions into a shared services platform
+There's continuing work to be done to complete that transition, but that offers promise of not only savings for this year, but in years to come by being much more efficient
+Things like reporting, payroll administration, various elements of human resources and so on will be delivered from a centralized shared services facility rather than close to the employees, giving us both consistency and operating leverage
+And in the go-to-market area, as you can see, the work that we have done, particularly in the services business, have materially improved the profitability of that line
+We've integrated, for example, self-service support, online chat as opposed to human support
+And you'll see us integrating advances in machine learning so that customers can both get better satisfaction, but at a lower cost
+So we remain committed to doing that
+As we think about the savings that we generate, we'll continue to look at all of the options that are in front of us, right? Returning some of that through improved profitability to shareholders, as well as investing in the long-term growth of the business
+One of the meaningful areas that we've invested in is SolidFire
+And you can see, we're not only leveraging that investment in the all-flash array segment, but to deliver a compellingly differentiated hyper-converged offering to the market
+I think the install base of units is growing at a faster rate now
+I think in terms of the systems, life cycle continues to expand, right? So I think the continued extension of life cycle is what causes the install base to have legs and growth, right, in addition to the product revenue growth that we're seeing now, so
+Okay
+Let me take the first one, and Ron will take the second
+I think in terms of our approach to media prices, we've generally taken the position that we will pass on whatever cost structure being offered to us, benefit or disadvantage, from the media manufacturers to our customers
+I think the caution is really reflecting the dynamic nature of SSD availability and pricing
+As we noted, we've put in place the capability to meet a short supply
+We're wanting to guarantee a short supply to our end customers, and that has been a priority ahead of specific pricing agreements
+From a channel program perspective, we've started to see the beginnings of an integrated channel program from EMC
+I'll just tell you that incentives are just a small part of the total value proposition that a channel partner looks for from their supplier
+I think the competitiveness of the product portfolio, the fact that we enable our channel partners to have a rich base of margin-rich services associated with the business that they're doing with NetApp continues to make us a compelling value proposition to our partners
+So we're going to continue to attack with the full breadth of our channel, and we are making progress as our results note
+They are solutions that are fixed configurations of our Clustered ONTAP and all-flash FAS products that make it easy for the channel to procure, and we did include that in a couple of the past quarters
+So there's a slight adjustment for that
+The second question was on amortization
+We have a broad book of business around the world
+I would just tell you our book of business is affected by GDP outlook, as well as the competitiveness of our portfolio and execution against those opportunities
+We didn't notice any specific change in pattern through the course of the quarter across the broad base of geographies that we serve
+Yeah
+We expect the trend to continue the same
+I think through the course of the quarter, we saw a strong year-end budget flush
+We saw January return to fairly normal patterns of uncertainty across the geographies that we serve and saw linearity similar to normal sort of back end loaded quarters, right? I think in terms of the segments of the market that we serve, I think our pivot is targeting the faster growing parts of the market
+So there's a lot more interest as a share of wallet for the technologies that we're offering today, like solid-state, next-generation data centers, object storage, as well as what we're thinking about delivering to market in the hyper-converged space
+I think in terms of traditional environments, you continue to see people sweat assets trying to get longer lifecycles out of that
+We're benefiting from the fact that we've got a differentiated portfolio
+We're benefiting from the fact that the portfolio is targeting the places where customers are spending
+And, frankly, we're benefiting from the fact that Clustered ONTAP significantly and substantially transforms the cost structure for legacy frame array
+We can go in there at an order of magnitude greater efficiency and enable lots more software features than they've historically had
+We'll give you more details of the long-term outlook at our Analyst Conference
+I can just tell you that we are increasingly seeing wins where people are using NetApp Private Storage solutions connected to public cloud providers
+And what we've always said is we anticipate returning the company to moderated revenue growth
+Our focus on transformation allows that moderated revenue growth to generate substantial returns to shareholders, and we're delivering on that commitment right now
+I think if you look at our results today, we are gaining share in the markets that we serve
+In the all-flash array market, there's no question we're growing faster than competitors, big and small
+I think if you look at the storage and device management market, we took over the number one position from EMC in that market
+We've made solid progress in Clustered ONTAP in terms of transitioning our install base, and are doing so with greater operating margin leverage
+As we indicated on the call, we are working on a next-generation hyper-converged solution which we think will allow us to do to the hyper-converged market what we did to the all-flash array market: serve the needs of mainstream customers with a platform that's differentiated with performance, enterprise data management capabilities, and hybrid cloud integration
+We think that's what the market wants
+And we're focused and going to be delivering that, and you'll see us make some exciting announcements early next fiscal year
+It isn't a net new market that we serve
+It will allow us to serve the system or virtualization administrator at customers rather than the storage administrators
+The hyper-converged market today is sort of a first-generation solution
+The solutions don't have enterprise data management features
+They have challenges with performance consistency, which requires them to become a single workload configuration and are, therefore, addressing the low-end market, the departmental market
+There are few solutions that can really serve anything broader than that market
+What we're trying to bring to customers, just like we did in the all-flash array market, is a solution that allows customers the benefits of ease of administration, but with the unique benefits of performance and scalability, enterprise data management and hybrid cloud integration, which really gives us a net new market to address
+As I've said, as part of our transformation efforts we have continued to leverage the supply chain, the industry supply chain, to build technology for us
+If you look at the recent A700s flash-optimized, NVMe fabric ready architecture, it was sourced by – off the – an ODM model, right? So we are expanding the range of usage of off the line platforms across the range of our business, both in SolidFire as well as in our traditional FAS business
+Could you speak up a little bit, please? Kulbinder S
+Garcha - Credit Suisse Securities (USA) LLC I'm sorry
+A question on gross margins, again
+Did you say that the gross margins between the mature and the strategic segment are pretty similar?
+We've had also been running promotions to get our customer base transitioned from 7-Mode to Clustered ONTAP
+As we announced this quarter, those promotions – we've transitioned 50% of the capacity in our install base to Clustered ONTAP, and so we're seriously evaluating whether we need to continue those promotions
+Kulbinder S
+Garcha - Credit Suisse Securities (USA) LLC And so, would you say we're near the trough on gross margins, then?
+I think in both of those cases, our perspective is the long-term winner, as we have demonstrated in the all-flash array market, is the one that can take an architecture and serve the mainstream customer segment
+There have been lots of companies that have gone after the early-adopter segment with a subset of the features that enterprise customers really want and have failed in the long run
+And so, first to market doesn't necessarily mean the big winner, right? I think what we are trying to do with the hyper-converged segment is the same track record that we've demonstrated with the all-flash array segment, which is customers want mature enterprise data management features
+They want performance consistency and scalability, so that they don't have to have operationally a siloed environment
+And hybrid cloud is really the architecture of the data center going forward, and they want true hybrid cloud integration
+And so, we think that by offering those capabilities to customers, we will redefine the hyper-converged market just like we did to the all-flash array market
+The transformation of NetApp is yielding solid results with the return to top line growth and increasing profitability
+We're expanding our opportunity by addressing an increasing range of strategic customer use cases
+We've completely refreshed our portfolio of hybrid and all-flash arrays, delivered an industry-leading storage efficiency guarantee to the market, expanding our cloud-based services, and soon we will introduce a next-generation Hyper converged solution
+All of this underpins our growing confidence in the future
+We hope to see you in April at our investor event where we will talk more about the evolution of NetApp to lead in the next era of IT

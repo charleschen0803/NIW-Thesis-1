@@ -1,0 +1,1376 @@
+Fortinet, Inc. NasdaqGS:FTNT
+FQ1 2021 Earnings Call Transcripts
+Thursday, April 29, 2021 8:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ1 2021-
+
+-FQ2 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+0.74
+
+0.81
+
+Revenue  (mm)
+
+680.80
+
+710.30
+
+Currency: USD
+Consensus as of  Apr-29-2021 12:27 AM GMT
+
+9.46
+
+4.33
+
+0.89
+
+3.69
+
+4.24
+
+731.40
+
+3056.29
+
+3526.65
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+FQ1 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.65
+
+0.78
+
+0.97
+
+0.74
+
+0.82
+
+0.88
+
+1.06
+
+0.81
+
+26.15 %
+
+12.82 %
+
+9.28 %
+
+9.46 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Ken Xie
+Founder, Chairman & CEO
+
+Peter M. Salkowski
+Vice President of Investor
+Relations
+
+Keith Frances Bachman
+BMO Capital Markets Equity
+Research
+
+ANALYSTS
+
+Adam Tyler Tindle
+Raymond James & Associates,
+Inc., Research Division
+
+Andrew James Nowinski
+D.A. Davidson & Co., Research
+Division
+
+Benjamin James Bollin
+Cleveland Research Company
+
+Brian Lee Essex
+Goldman Sachs Group, Inc.,
+Research Division
+
+Fatima Aslam Boolani
+UBS Investment Bank, Research
+Division
+
+Gray Wilson Powell
+BTIG, LLC, Research Division
+
+Michael Turits
+KeyBanc Capital Markets Inc.,
+Research Division
+
+Patrick Edwin Ronald Colville
+Deutsche Bank AG, Research
+Division
+
+Robbie David Owens
+Piper Sandler & Co., Research
+Division
+
+Saket Kalia
+Barclays Bank PLC, Research
+Division
+
+Shaul Eyal
+Oppenheimer & Co. Inc., Research
+Division
+
+Sterling Auty
+JPMorgan Chase & Co, Research
+Division
+
+Hamza Fodderwala
+Morgan Stanley, Research Division
+
+Tal Liani
+BofA Securities, Research Division
+
+Jonathan Frank Ho
+William Blair & Company L.L.C.,
+Research Division
+
+Jyhhaw Liu
+Evercore ISI Institutional Equities,
+Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+Presentation
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the Fortinet Q1 2021 Earnings
+Announcement Call. [Operator Instructions] Please be advised that today's conference is being recorded.
+[Operator Instructions] I would now like to hand the conference over to your speaker for today, Peter
+Salkowski, Vice President, Investor Relations. You may begin, sir..
+
+Peter M. Salkowski
+Vice President of Investor Relations
+
+Thank you, Tuwanda. Good afternoon, everyone. This is Peter Salkowski, Vice President of Investor
+Relations at Fortinet. I am pleased to welcome everyone to our call to discuss Fortinet's financial results
+for the first quarter of 2021.
+
+Speakers on today's call are Ken Xie, Fortinet's Founder, Chairman and CEO; and Keith Jensen, our Chief
+Financial Officer. This is a live call that will be available for replay via webcast on our Investor Relations
+website.
+
+Ken will begin our call today by providing a high-level perspective on our business. Keith will then review
+our financial and operating results for the first quarter before providing guidance for the second quarter
+and updating the full year. We will then open the call for questions. [Operator Instructions]
+
+Before we begin, I'd like to remind everyone that on today's call, we will be making forward-looking
+statements, and these forward-looking statements are subject to risks and uncertainties, which could
+cause actual results to differ materially from those projected. Please refer to our SEC filings, in particular,
+the risk factors in our most recent Form 10-K and Form 10-Q for more information.
+
+All forward-looking statements reflect our opinions only as of the date of this presentation, and we
+undertake no obligation and specifically disclaim any obligation to update forward-looking statements.
+
+Also, all references to financial metrics that we make on today's call are non-GAAP, unless stated
+otherwise. Our GAAP results and GAAP to non-GAAP reconciliations are located in the earnings press
+release and in the presentation that accompanies today's remarks, both of which are posted on the
+Investor Relations website. Lastly, all references to growth are on a year-over-year basis unless noted
+otherwise.
+
+I'll now turn the call over to Ken.
+
+Ken Xie
+Founder, Chairman & CEO
+
+Thank you, Peter, and thank you to everyone for joining today's call to review our first quarter 2021
+results. We are very pleased with our strong first quarter performance. Billing increased 27% to $851
+million, driven by solid execution across our broad and integrated product and services. Secure SD-WAN
+contributed 14% to first quarter billing.
+
+Total revenue grew 23% to $710 million, with product revenue growth of 25%, the highest quarterly
+product revenue growth in the last 5 years. With strong business momentum and good visibility, we
+remain focused on growth. In the first quarter, we released FortiOS 7.0, which offer the industry's first OS
+level with tight integration of a broad security and network functions, including SASE, SD-WAN, Zero Trust
+Network Access, CASB and 5G capability.
+
+Today, we announced the FortiGate 7121F, the world's fastest next-generation firewall and the only firewall
+with hyperscale 400-gig interface. The 7121F for 5G mobile network operators to secure multiple hedges
+within their infrastructure and enable MSPs to build up scalable security offerings.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+Powered by a new MP7 security process unit, the 7121F delivers Security Compute Rating of 2x to 19x
+greater than competitive solutions. We continue to see momentum and adoption of our SD-WAN SASE and
+Zero Trust Network Access Solution among the world's largest service providers. Today, we announced
+British Telecom, a new managed secure SD-WAN service powered by Fortinet. In March, Fortinet and AT&T
+announced the viability of a new managed SASE solution for enterprise customers.
+
+Increasingly, organizations are consolidating towards a holistic platform approach, delivering integrated
+and automated security to cover on-premise network, endpoint and cloud secure edge. The Fortinet
+Security Fabric is a cybersecurity platform organically built on a broad and a deep set of networking and
+security technology designed to seamlessly operate together.
+
+The high profile of security incident that occurred over the past few months, along with the pandemic,
+has elevated the need for a broad platform that can secure an enterprise and high infrastructure across
+multiple edge in a zero trust environment. We expect companies to increase the percentage of IT spending
+used for security in an effort to address their server security needs.
+
+Our security-driven networking approach is a key growth driver. Additionally, we expect that our significant
+organic product growth will lead to increased service revenue.
+
+Before turning the call over to Keith, I would like to thank our employees, customers, partners worldwide
+for their continued support and hard work.
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Thank you, Ken. And to add to your comment, we should note that billings growth, product revenue
+growth and total revenue growth were each at 5-year highs.
+
+Okay. Let's start the more detailed Q1 discussion with revenue. Total revenue of $710 million was up
+23%, driven by industry-leading product revenue growth of 25%. Product revenue growth was broad-
+based across geographies, security fabric products and use cases, illustrating the market acceptance
+of our integrated single platform security strategy, customer demand for security across their entire
+infrastructure and the diversity of our customer base.
+
+Product revenue growth was over 30% for both infrastructure and cloud fabric products. And all 3
+geographic regions increased 20% or more. Demand for security fabric products was strong across all
+form factors: hardware, software and virtual machines. The growth we experienced for product revenue
+was not the result of a few large deals, lower backlog or higher channel partner inventory levels.
+
+The product revenue growth also enables increases in services billings and future services revenue. In the
+first quarter, service revenue of $470 million was up 22%. Support and related services revenue increased
+23% to $214 million. Security subscription services revenue increased 21% to $255 million, benefiting
+from outsized growth from our cloud provider and SaaS security offerings.
+
+Moving to the mix of FortiGate and non-FortiGate platform revenue. The FortiGate segment of the fabric
+platform saw revenue increase 17%, driven by demand for entry-level and high-end FortiGate products.
+High end includes 10 new NP7 powered FortiGates that were introduced in the past year, which includes
+today's announcement of the 7120F. These new products now represent approximately 20% of high-end
+FortiGate shipments.
+
+Our ASIC-driven FortiGate gives customers 5 to 10x more computing power than firewalls that run on
+common CPUs. The advanced computing power creates not only speed but also the capacity to continue to
+add functionality to our operating system, driving our price for performance advantage. The non-FortiGate
+segment saw revenue grow over 40%, and now accounts for 31% of total revenue, up 4 percentage
+points. The integrated securities fabric solutions consists of the complete range of form factors and
+delivery methods, including physical and virtual appliances, cloud, SaaS and perpetual software as well
+as hosted and nonhosted solutions. Together, they provide a range of security solutions and form factors,
+enabling integrated protection for hybrid environments and the expanding digital attack surface from the
+data center to the endpoint to the cloud.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+Given the strong first quarter performance -- excuse me, revenue performance, we believe our non-
+FortiGate platform is now on a pace to be a $1 billion business this year, representing an acceleration of
+this milestone.
+
+Let's turn to revenue by geographies. A summary is on Slide 5. Revenue in the Asia Pacific area increased
+26%, and media revenue increased 25%, and the Americas posted revenue growth of 20%. As I
+mentioned earlier, all 3 regions experienced product revenue growth of 20% or more.
+
+Moving to billings. The first quarter billings were $851 million, up 27%. We saw strong growth in both the
+FortiGate and non-FortiGate segments of our security fabric platform. The FortiGate segment delivered
+billings growth of 20%, accounting for 70% of total billings. As shown on Slide 6, entry-level FortiGates
+posted very strong billings growth in the quarter. The non-FortiGate segment accounted for 30% of total
+billings and delivered billings growth of 50%, driving a 4-point year-over-year mix shift to non-FortiGate.
+
+Taken together, these data points highlight the market acceptance of our single integrated security
+platform strategy. In terms of billing growth by geos, the APAC outperformed all geos, followed by Europe
+and the Americas. In the Americas, Canada had a very strong quarter, and Latin America rebounded from
+the pandemic-induced slowdown posted billings growth in the mid-20% range.
+
+Moving to billings by customer segments. The small enterprise segment posted solid growth across all
+geos. This segment is driven by new customer acquisitions, customer security fabric expansions, solid
+execution by our channel partners and the large diverse makeup of this international customer segment.
+
+At the same time, we saw strong growth in our larger deals. The number of deals over $1 million grew
+74% to 66 deals in the first quarter. The pipeline for deals over $1 million looks good for the remainder of
+the year. As Ken noted, secure SD-WAN billings were 14% of total billings. SD-WAN is a key functionality
+in an integrated SASE solution.
+
+Moving to worldwide billings by industry verticals. With another strong international performance, the
+worldwide government sector topped all verticals at 19% of total billings and was up 60%. Service
+providers and MSSPs accounted for 16% of total billings. The rebound for education accelerated with
+billings growth of 50%. Retail turned in a solid quarter with billings growth of 21%. Our strong and
+consistent billings and revenue performance over the past several years is testament to our geographic
+and customer diversity, the growing success with a single integrated security platform strategy, and our
+ASIC advantage, which enables a shared operating system across the security fabric platform, drives our
+price for performance advantage, increase the capacity to add features and functions while maintaining
+price points.
+
+Moving back to the income statement. As shown on Slide 4, total gross margin improved 10 basis points
+to 78.9%. Product gross margin improved 120 basis points to 62.6%, benefiting from lower direct product
+costs. The increase in product gross margin offsets the drag on total gross margins from the revenue
+mix shift driven by the strong product revenue growth and a gross margin FX headwind of about 25
+basis points. Operating margin for the first quarter increased 210 basis points to 24.5%, benefiting from
+the strong revenue performance in the quarter. The benefit from lower travel and marketing program
+expenses of approximately 100 basis points was more than offset by an operating margin headwind from
+foreign exchange of about 150 basis points.
+
+To end the quarter -- we ended the quarter with total headcount of 8,615, an increase of 16%.
+
+Moving to the statement of cash flow summarized on Slide 7 and 8. Free cash flow for the first quarter
+came in at $264 million, up $22 million from the first quarter of 2020 despite a $24.5 million year-over-
+year increase in CapEx spending. We ended the year with total cash and investments of $3.1 billion, an
+increase of $1.5 billion. The increase includes the proceeds from our $1 billion investment-grade debt
+issuance during the first quarter. The issuance followed our inaugural strong BBB credit ratings.
+
+Throughout the pandemic, we have leveraged the strength of our balance sheet as a competitive
+advantage to support our partners and customers as they experience geo-specific economic challenges. As
+a result, days sales outstanding increased 7 days to 81 days, in line with our expectations and reflecting
+our earlier decision to provide geographically targeted extended payment terms.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+Compared to the fourth quarter of 2020, DSOs in the first quarter of 2021 decreased 6 days as we saw
+early progress towards returning to pre-pandemic payment terms. Inventory turns declined to 2.1x from
+2.5x, reflecting the efforts we took to mitigate supply chain risk, including increasing our inventory levels
+starting earlier in 2020. We expect extended payment terms and higher inventory balances to be in effect
+as we move through 2021.
+
+Capital expenditures for the first quarter were $52 million, including $38 million related to construction
+and other real estate activity. We expect to begin moving employees over the new Sunnyvale Campus
+building in the middle of the year, although the timing will depend on local pandemic protocols and
+employee safety considerations. We estimate capital expenditures for the second quarter to between
+$30 million and $40 million. And for all of 2021 to between $150 million and $170 million. The average
+contract term in the first quarter was approximately 27 months, up less than 2 months from the first
+quarter of 2020 and down approximately 1 month from the fourth quarter of 2020.
+
+Secure SD-WAN accounted for 15 deals over $1 million versus 4 in the first quarter of 2020 and
+contributed to the increase in average contract term. As we look forward, our goal remains to balance
+growth and profitability. And given the growth opportunities we highlighted during the March Analyst Day
+and as confirmed in our first quarter results, we have tilted our bias towards growth for at least the next
+several quarters. The opportunities we see are supported by a strong pipeline, increased sales capacity
+and our development efforts, which include the NP7 chip and our new FortiOS 7.0 operating system that
+was recently released.
+
+Now I'd like to review our outlook for the second quarter guidance, summarized on Slide 9, which is
+subject to the disclaimers regarding forward-looking information that Peter provided at the beginning of
+the call. For the second quarter, we expect billings in the range of $860 million to $880 million; revenue
+in the range of $733 million to $747 million; non-GAAP gross margin of 78.5% to 79.5%; non-GAAP
+operating margin of 24.5% to 25.5%, which includes an expected 100 to 150 basis point headwind from
+foreign exchange; non-GAAP earnings per share of $0.83 to $0.88, which assumes a share count of
+between 168 million and 170 million.
+
+We expect a non-GAAP tax rate of 21%. Before raising our 2021 guidance, I'd like to congratulate every
+member of the Fortinet team for the truly outstanding start to 2021. With that, for 2021, we expect
+billings in the range of $3.685 billion to $3.745 billion, which at the midpoint represents growth of
+approximately 20%. The revenue in the range of $3.080 billion to $3.130 billion which at the midpoint
+represents growth of approximately 20%. Total service revenue in the range of $2.020 billion to
+$2.050 billion, which represents growth of approximately 21% and implies product revenue growth of
+approximately 17%. Non-GAAP gross margin of 78% to 80%; non-GAAP operating margin of 25% to
+27%. When backing out the 2020 T&E benefit, the midpoint of the guidance represents a 50 to 100 basis
+point increase in 2021 operating margin despite an expected headwind from foreign exchange.
+
+Non-GAAP earnings per share of $3.65 to $3.80, which assumes a share count of between 170 million and
+172 million and about $0.07 per share impact from the debt issuance. We expect our non-GAAP tax rate to
+be 21%. We expect cash taxes to be approximately $80 million.
+
+And along with Ken, I'd like to thank our partners, our customers and the Fortinet team for all their
+support and hard work in these difficult and unique times. And I now hand the call back over to Peter, to
+begin the Q&A.
+
+Peter M. Salkowski
+Vice President of Investor Relations
+Thank you, Keith. [Operator Instructions] Tuwanda, please open the floor for questions.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Rob Owens with Piper Sandler.
+
+Robbie David Owens
+Piper Sandler & Co., Research Division
+
+With a lot of other verticals in the media seeing issues with chip shortages and some supply chain issues,
+is that starting to sneak into the security market relative to firewall appliance shipments? And can you talk
+a little bit about your potential exposure?
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Well, I think the chip shortage is -- this is Keith, Rob. I think the chip shortage that you point out is --
+can touch a lot of different industries. I think one thing about Fortinet, in addition to having different form
+factors, is these inventory balances that we carry. At 2x inventory turns, you're looking at basically 6
+months of inventory that we're carrying on our balance sheet.
+
+I do expect that the supply chain issues will be something, particularly related to chips that will be a
+constant conversation point throughout 2021 and into 2022. But I think in terms of when we sit down and
+talk about our expectations for the year, I think we have a pretty good understanding of how to work that
+in.
+
+Operator
+
+Our next question comes from the line of Brian Essex with Goldman Sachs.
+
+Brian Lee Essex
+Goldman Sachs Group, Inc., Research Division
+
+Ken, I was just wondering, billings commentary, worldwide government up 60%. Some really nice
+acceleration there. And then MSSP and service provider is still 16% of total. Maybe if you can talk about --
+obviously, we know what the secular drivers in MSSP are, how durable is that, maybe the factors that are
+driving that acceleration in government spend?
+
+And then maybe talk a little bit about, particularly on the service provider side, it doesn't seem as though
+we're seeing an acceleration from 5G and IoT yet. Who are the buyers there? How do you anticipate
+that, that segment will play out through the rest of the year as you look to work your way through the
+remainder of the year?
+
+Ken Xie
+Founder, Chairman & CEO
+
+Yes. Carriers and a lot of service provider are starting kind of reshaping their provider security network
+offer, whether it be 5G, SD-WAN and all the SASE and also supporting work from home kind of still in the
+early stage, putting it this way. So that's where we're working very closely with all the service provider like
+the BT we announced today, the AT&T we launched last month and pretty much all the service provider to
+support them on this shifting of the business model.
+
+And let's say it's still early stage, but we do involve a lot of testing trials. And at the same time, I do
+believe eventually, the service provider business will go back up to the #1. It tends to be like a high 20,
+like if you go back 4, 5 years ago but because it's a new kind of shifting. So they are -- they do have some
+work to do. And also some big investments obviously going forward. So we're working together with them
+to keeping growing this business right now.
+
+Operator
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+Our next question comes from the line of Jonathan Ho with William Blair.
+
+Jonathan Frank Ho
+William Blair & Company L.L.C., Research Division
+
+Congratulations on the strong quarter. I just wanted to get a better sense of what you're seeing in terms
+of demand for the SASE and DTNA-oriented products. And are you seeing that pipeline sort of continue
+to rise, especially as we look at sort of replacements for the traditional VPN connections and other sort of
+more legacy technologies?
+
+Ken Xie
+Founder, Chairman & CEO
+
+It's a new fast-growing market, but also they probably replaced some of the traditional approach by some
+other traditional approach also expand inside campus, inside enterprise, inside the data center so it could
+go through the internal segmentation.
+
+On the other side, we do believe whether the SASE network, like we said a few years ago, it's the best
+position probably for the service provider carrier. So we tend to be working with and partner with them,
+and also offer kind of more tightly integrated solution, like we said in the FortiOS 7.0 is really integrated to
+OS level instead of some different vendors using different box, or even kind of a different infrastructure to
+do that.
+
+So that's actually working much better with a wider service provider, with the customer directly. So that's
+why we do see there is some plus growing going forward. But it's just part of the whole infrastructure
+solution will now replace the traditional approach. But also the [indiscernible] security is part of that
+dynamic space. There's a new thing come up and also the that [indiscernible] also now goes away. So
+that's where we try to address this new chain. At the same time, keeping enhance the traditional solution
+and to supporting the customer in a different vertical, different region.
+
+Operator
+
+Our next question comes from the line of Ben Bollin with Cleveland Research.
+
+Benjamin James Bollin
+Cleveland Research Company
+
+I was hoping you could talk a little bit about how you see customer discussions changing or evolving as
+they contemplate and start to return to their offices and to work? And then also hoping you could touch
+on how you view the growth opportunity over time from completely new customers versus wallet share
+expansion with your existing customers.
+
+Ken Xie
+Founder, Chairman & CEO
+
+The customer definitely see security is starting to become more and more important, but also the need
+to cover much broad infrastructure and all edges instead of the traditional security, whatever the border
+or the data in and out of the company. So that's more device, more user more infrastructure need to be
+covered.
+
+So that's -- it's not a simple refresh. It's really changing to the whole infrastructure approach and also
+working together with traditionally like different vendor cover, whether network endpoint or some other
+part of security. Now they're looking for some consolidation. And they prefer when to have a multiple
+cover of different part of infrastructure working together so that you can see the fabric approach we did
+few years ago starting doing quite well.
+
+And almost pretty much every quarter, doubled the growth compared to the traditional network security.
+But on the network security, we also see very healthy growth. And it's very -- not just expanding beyond
+the traditional border security product, but also because the ASIC advantage, which increased the secure
+computing power 5 to 10x compared to the other vendor software load on the traditional CPU. So that's
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+able to add more function and also kind of increase performance, lower the cost and also lower power
+consumption, more green.
+
+So that's actually making this -- like the product growth, like we said, keeping us -- keep doing better and
+better. And we do see this whole infrastructure approach will keeping going for the next, probably, a few
+quarters, even to a few years, and the consolidation will keep it going within the industry.
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Yes. Ben, just to continue on with Ken's comments here. I think the headline that he's talked about
+previously is that back to work really -- the combination of back to work and as many companies being
+in a hybrid model, that the attack surface now seems to be permanently expanded for many, many
+companies.
+
+In terms of growth and how we see it with new logos, expansion opportunities, we easily add several
+thousand new customers every quarter. But if you look at the mix of billings, the mix of billings is going to
+come from our installed base of customers, if you will.
+
+And I think the simple model to look at is from that initial sale of perhaps a firewall or something else,
+there's 2 different ways to expand. One is finding more and more use cases inside organizations for
+firewalls and increasing the displacement opportunities; and then the second is, and this is where Ken
+was going, is the expansion opportunity with those non-FortiGate fabric partner products. And what we're
+seeing there with that mix shift from FortiGates to non-FortiGates and now being 30% of our business or
+31% of our business, I think it's taking as, one, affirmation of the strategy and; two you're seeing it in the
+numbers.
+
+Operator
+
+Our next question comes from the line of Tal Liani with Bank of America.
+
+Tal Liani
+BofA Securities, Research Division
+
+I'm going to take you to the basics with my question. Last year was strong and there was some concern
+that the firewall market is being driven by COVID-related demand just because of work from home. And
+the question is whether you expect any slowdown of demand related to the anniversary of the trends last
+year.
+
+And the second question is your non-FortiGate grew extremely strong again. If you can take us through
+the basics, what are the products that are growing there? Just what are the trends? And what do you
+bring to the market?
+
+Ken Xie
+Founder, Chairman & CEO
+
+I can take the first half, maybe Keith can take the second half. I don't see any slowdown even for the
+FortiGate side. It's -- we're keeping -- gaining market share, like I said, because there's fundamental like
+a technology architecture difference, which we've factored 10x the computing power compared to our
+competitor, we can easily add a function performance. And even for work from home, it's more like a one
+single [ Forti bot ] can replace like 3, 4 different bots from an open SaaS security side like all this part and
+also like a managed home WiFi and the traffic there.
+
+So that's also -- a lot of company also starting to do, this kind of expand the branch to the home called
+the home branch or whatever, to meet working standard like a better networking reliability, security to the
+home environment. So that also needs business solution. That's also one of the reasons we see some of
+the low end side keeping growth pretty fast.
+
+It's work for home actually helping driving some of these FortiGate sales. But also going forward, whether
+the service provider, some other -- I have to say most enterprise, not even kind of changing much of
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+infrastructure to adopt more work from home yet, and they are still in the early stage. So we do see
+there's a big potential going forward.
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Yes. It's Keith. Boy, it's a little tough for me to look back at the second quarter of last year and where the
+billings growth was and the product revenue growth and things that I was getting -- I didn't feel like I was
+getting a tailwind from VPN or something like that in the second quarter of last year.
+
+That said, I think we're very pleased with how the year continued to play out and the growth numbers
+that we've provided. I don't know that early on in the stages of work from home, that was something that
+necessarily that Fortinet participated in. They're the same level that maybe some of the other firewalls
+understand.
+
+And then the second part of your question, you'll be glad to know that Ken and Peter and I sit down every
+quarter and look at the non-FortiGate products and try and find the one that's really distinguishing itself.
+And we keep coming to the same conclusion each quarter. It's a rising tide that's lifting all boats. It's not
+that any one product is really standing out and more so than the other over an extended period of time.
+
+Ken Xie
+Founder, Chairman & CEO
+
+Yes, there -- yes, it's really -- because most of the product we develop internally from day 1 is making
+integrate operate together. So that's probably the key number 1 reason. Customer want to buy it. They try
+to consolidate, make it easy to manage. It's different than some other company when they acquire some
+product company from outside is it takes a long time, more difficult to integrate.
+
+So we have -- if internal developed from day 1, we've been making it working together.
+
+Tal Liani
+BofA Securities, Research Division
+
+Great. So my question was much more basic. What are the key products that are driving up the growth of
+non-FortiGate? So we know it's SD-WAN, what else?
+
+Ken Xie
+Founder, Chairman & CEO
+
+SD-WAN is actually a part of FortiGate this way, so we don't comment the one not on FortiGate, but we
+have like 20, 30 different product, touching all part of the infrastructure. And that Keith said, it's difficult
+to point out which one is ready, yes. It's a pretty -- to say that ties the whole thing.
+
+Operator
+
+Our next question comes from the line of Sterling Auty with JPMorgan.
+
+Sterling Auty
+JPMorgan Chase & Co, Research Division
+
+I wonder if you could help me better understand the disproportionate improvement that you saw
+internationally, especially in EMEA relative to the improvement you saw in the U.S.
+
+Ken Xie
+Founder, Chairman & CEO
+
+I think similar, like we commented in the last couple of quarters, is follow the -- like the pandemic, once
+it's starting -- get improving, they also try to think about how to go back work or some other investing
+infrastructure since we'll be starting to grow. So that's where like APAC and EMEA grow a little bit faster,
+but U.S. catch up more and more quickly.
+
+Keith F. Jensen
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+CFO & Chief Accounting Officer
+
+I'll just add on to that, Sterling. I think the -- certainly for us that the markets are somewhat different,
+and maybe that comes in play a little bit. The European and the international part of the market, we are
+oftentimes have the #1 market share with the incumbent. And particularly during the pandemic, I think
+incumbents had an advantage.
+
+I think in the U.S., perhaps we're a bit more of a challenger, if you will. And I don't know that a lot of CIOs
+and CISOs were focused on firewall refreshes in the second quarter and third quarter of last year and
+going through competitive dynamics.
+
+And I think there's also a bit of the partner ecosystem. When you're the incumbent, you probably have
+more mind share with the partners than when you do with the challengers. Now having said all that, as we
+look forward and we look at our pipeline, particularly in relation to the United States as we go through into
+the second quarter here and through the rest of the year, yes, I think we're feeling very good about the
+direction that, that organization is headed.
+
+Ken Xie
+Founder, Chairman & CEO
+
+Yes, we also were keeping invest more into the U.S. for supporting further growth, like we did for the PGA
+sponsorship and some other things, I think will be helping drive the growth in U.S.
+
+Operator
+
+Our next question comes from the line of Gray Powell with BTIG.
+
+Gray Wilson Powell
+BTIG, LLC, Research Division
+
+Congratulations on the good numbers. So yes, maybe to follow-up on the SASE side of the business. How
+quickly should we think of billings growth ramping on the 40 SASE products?
+
+And then I don't want to get too aggressive, but could it potentially have a similar ramp to what you saw
+in 2018 and 2019 with SD-WAN, back when that product was just getting started? Yes, just how should we
+think about just the overall upsell there?
+
+Ken Xie
+Founder, Chairman & CEO
+
+I also have -- I have to say, a little bit similar question. We're also kind of looking at different market
+study, and also what's the best model to do this with the partner together. It may be similar like SD-WAN,
+but it's -- but also SD-WAN is a part of the part of SASE solution. And also SASE, including some other
+function there, which we also want to have a -- like a better integration and better performance and easy
+to manage. So that's where we take some time to really launch our SASE and also more closely working
+with our partner to do that.
+
+But it's -- the market definitely growing, but we're also closely watching what's the best way to position
+ourselves to catch this trend.
+
+Operator
+
+Our next question comes from the line of Shaul Eyal with Cowen.
+
+Shaul Eyal
+Oppenheimer & Co. Inc., Research Division
+
+Congrats on the strong performance. Keith or Ken, historically the refresh cycle concept used to provide
+some disruption at times, I would even say, some noise around specifically Fortinet's business.
+
+It would appear that over the past probably 18 months or so, there's less discussion and focus around it.
+Do you think that Fortinet is gradually shifting away from it? Or is that there's so many concurrent internal
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+refresh cycles, given the broadening of your platform, that it is becoming less of a relevant issue? What's
+the thinking about it?
+
+Ken Xie
+Founder, Chairman & CEO
+
+I probably happy to use the term refresh compared to last time. You can see the 2012, 2013, and that's
+where is the major firewall replacing the traditional VPN with major firewall had some intrusion prevention,
+antivirus or the other function there, a proxy. But this time, it's expanding into a much broader, bigger
+infrastructure, both internal inside the company and also go to the outside company, the one side, even
+expand work from home. So it's more kind of expanding. And at the same time, different part of security
+also need to be more working together. So that's from a company IT side.
+
+They look if they can consolidate and help them to manage and integrate, automate will be more
+important. So that's where -- like I said, there's more device, more people connected and like
+[ wholesale ] data volume in a zero trust environment.
+
+So this time is a little bit different, and that's where we're making like a very broad integrated approach,
+I feel is more important. And at the same time supporting whether the new technology, the wider 5G
+SD-WAN and also kind of maybe service model also will be important. But we also feel once the product
+get in the customer hand, because of the huge computing power capability, we can also -- will be -- add
+additional service and keeping -- helping customers adopt the new things they need and also the service
+provider. So that's also kind of we're keeping that -- the business keeping growing. I think Keith will
+probably add something.
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Yes, Shaul, I think you and Ken are kind of touching on the same thing, which you made reference to.
+I would say it this way, it's going to get harder and harder, I think, to discern industry refresh cycles
+compared to where it was maybe 5 or 6, 7 years ago for a number of reasons. One, the firewall vendors
+are simply larger. Their footprint is much, much bigger than it was before. Secondly, you have -- some
+of us that are showing success in the platform strategy. When 30% of your billings are coming from the
+platform, again, to your point, it's going to get a little harder to discern it.
+
+And the sheer size, if you will, of the footprint in terms of customers, but also the number of different use
+cases that are starting to evolve and continue to evolve inside those organizations. I think all that comes
+together, it's going to get murkier and murkier as you go forward to find a refresh cycle. You may have
+some individual competitors that maybe have very, very large price points or machines or something like
+that, where they have their own internal refresh cycle that you may see some noise around. But that's
+certainly not the Fortinet approach to firewall refreshes.
+
+Ken Xie
+Founder, Chairman & CEO
+
+Yes. Put in other way, the traditional firewall, all the way where they're being deployed is not going away.
+They also kind of every 5 years probably need to be upgraded to new model to match networking speed or
+some other one. But they're also expanding beyond R1 and also need to be working in that part of security
+infrastructure, put in this way.
+
+Operator
+
+Our next question comes from the line of Adam Tindle with Raymond James.
+
+Adam Tyler Tindle
+Raymond James & Associates, Inc., Research Division
+
+Okay. Maybe one for Keith. You've talked about this being a year to invest for growth. Your Q1 results
+clearly say that's working, billings growth in the high 20s at a scale approaching $1 billion. And doing that
+with healthy profit is pretty unique.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+So for my question, I was just wondering, at this point, if you evaluated whether to lean even more on
+growth, given the early results that you're seeing. And if you could maybe touch on the logic of why not?
+Are there diminishing returns above this level? Is this something you'd consider reevaluating as the year
+progresses?
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Yes. Adam, it sounds like you're listening into some of the conversations that Ken and I have with our
+respective point of view, I think. I think, look, we're really pleased with how the business executed in the
+first quarter, putting up 20% -- 27% billings growth and being 11 or 12 points above. And then raising the
+22%, 3.5 points on the billings line for the year, probably for the quarter. And then taking the year up at
+the same time by about 4 points.
+
+I think the level of execution has shown to be very, very high and the level of success with the firewalls
+and the non-FortiGate products have been -- we're very, very pleased with what's happening there.
+
+I think we'll see how this year plays out. We felt that there were tailwinds coming into the year for us in
+a number of different ways, whether it was GDP, whether it was seamless, whether it was the product
+suite that we had or our sales team's ability to execute. And let's see how we do as we continue on this
+trajectory, hopefully, through the rest of the year.
+
+Operator
+
+Our next question comes from the line of Andrew Nowinski with D.A. Davidson.
+
+Andrew James Nowinski
+D.A. Davidson & Co., Research Division
+
+Congrats on another great quarter. I wanted to ask about the partnerships with some of the MSPs that you
+mentioned, AT&T and BT. Those have been historically strong partnerships for Zscaler. So I'm wondering,
+do you think you're eating into Zscaler's mind share at those partners? Or are they just trying to offer
+their customers maybe another SASE offering?
+
+Ken Xie
+Founder, Chairman & CEO
+
+Let me just say in the last few years, from some point, we move -- we will consider as one of the service
+provider could be partner. And -- but also some of the telecom company, they do have their infrastructure
+and also some of their customer base, which we have been working with them for a long, long time.
+
+So once -- especially during the pandemic, IT is pretty high pressured to supporting whether internal or
+some other need. I think that's where SASE offers certain more service-based approach, which also kind
+of adopt by some customer or subscriber quickly. So that's where we also leverage our kind of relations
+with the partner and also our product technology advantage and offer much tighter integrated across
+SASE network solution is -- so the -- some bigger tariff partner they like it a lot, I put it this way.
+
+So that's what we continue to work with. And so I do believe that the business and the carrier service
+provider will go back to the #1, like we are a few years ago, the high 20. That is also -- have to working
+closely with a partner. And also some other infrastructure, new infrastructure, like I mentioned, whether
+the SD-WAN and the 5G or some other item, blah, blah, blah, TOT or even maybe safety or somethings.
+I think there's a lot of potential working all kind of service provider to keeping expanding the security
+business together.
+
+Operator
+
+Our next question comes from the line of Irvin Liu with Evercore.
+
+Jyhhaw Liu
+Evercore ISI Institutional Equities, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+Congrats on the great quarter. You previously identified continued expansion into large enterprise as
+a key contributor to growth in share gains. Can you talk about whether this was a factor in your Q1
+outperformance?
+
+And also, can you also talk about any key differences when selling to large enterprises versus SME, SMB
+customers? For example, the go-to-market motion and/or timetable required to close a deal. So any color
+here would be helpful.
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Yes. I think we tried to give a little bit of color on that in the script and I view the term before the growth
+being bookend, if you will, through the pandemic quarters where SMB did well. And I think we provided
+some metrics there about large deals, deals over $1 million, which we think is a pretty good proxy for the
+success that we're seeing in the enterprise.
+
+I do think also the mid-segment is coming online for us, a little bit stronger than maybe we saw in
+2020 and continue to believe that 2020 was an unusual year, both geographically and across customer
+segments.
+
+In terms of the cadence, in terms of how to sell the enterprise versus SMB, I would say absolutely. You
+make a large investment, and it plays very well with the channel partners. There's no doubt about that.
+The MSSPs, the carriers, et cetera. And those channel partners oftentimes, particularly distributors play a
+role in the enterprise. But to be successful there, you absolutely have to have a direct sales force that is
+helping to bring deals to those channel partners.
+
+And I kind of made a comment earlier about incumbency versus challenger. I think that's perhaps even
+more important in a geography where you're the challenger, and you're trying to get mind share from
+some of those large key resellers that are linked together with some of the legacy firewall vendors. I
+mean, you've really got to partner with them to bring deals to them and convince them of that strategy.
+And I think we're starting to see that traction take hold for us.
+
+Operator
+
+Our next question comes from the line of Fatima Boolani with UBS.
+
+Fatima Aslam Boolani
+UBS Investment Bank, Research Division
+
+Keith, for you, I was hoping you could share some more details around the expectations of the SD-WAN
+mix that you have embedded in your guidance. How should we think about that? And certainly, how are
+you thinking about it? And where are the incremental areas of budgets or dollars and ultimately share
+gains within SD-WAN/SASE going to come from between the carrier market as well as the enterprise DIY
+market?
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Yes. I think the -- Fatima, nice to hear from you again. Yes, I think in terms of SD-WAN, the way we go
+about budgeting, we would describe SD-WAN if you heard us before, SD-WAN is a use case for the firewall
+similar to OT, micro segmentation, zero trust and et cetera. And we're not necessarily prone to building
+our models, if you will, by use cases for the firewalls, nor similarly necessary by products. We do look at
+our pipeline and we do candidate check that against Gartner projections for growth and things of that
+nature, to make sure that we're in the range, if you will.
+
+So I would expect that -- the other comment I would offer is, Ken has been quite clear. First setting the
+goal early on that he wanted SD-WAN to be 5% of billings. When we got there, he moved it to 10%. And
+we got there and now he's moved it to 15%. So it's a little bit of who moved my cheese, I guess, with Ken
+in terms of setting goals for us. But that's fine. We like that.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+And the -- I think you really kind of answered your own question in terms of growth investments, where
+we spend money. I think the carrier, service provider opportunities for both SD-WAN and SASE are key
+areas for those investments, but I'll hand it back to Ken.
+
+Ken Xie
+Founder, Chairman & CEO
+
+Yes. We do believe SD-WAN will be a bigger long term market, and we want to be the #1. And also, like
+we do see a lot of potential. Even this work from home, a lot of enterprise trying to do a lot of service
+provide, try to support in -- still very small percentage or early stage to use in SD-WAN. So that's where --
+and also we have huge advantage using our SOC 4 chip to supporting this like one box solution, which has
+about 20x better performance and much lower cost compared to the second nearest competitor.
+
+So that's where it's a huge opportunity with the best technology and working closely with the partner
+towards keeping growing SD-WAN. So we do see there's a huge potential, and we also target to be the #1
+soon.
+
+Operator
+
+Our next question comes from the line of Hamza Fodderwala with Morgan Stanley.
+
+Hamza Fodderwala
+Morgan Stanley, Research Division
+
+I was wondering on the core sort of firewalling side. How much of the demand are you seeing come from
+use cases around micro segmentation, particularly given some of these recent cyber attacks?
+
+Ken Xie
+Founder, Chairman & CEO
+
+We do have a lot of asking about how to secure internally whether we did not tamper -- and company or
+within the data center. But I have to say, security still need much more convenient power to process the
+traffic compared to log in switching. My estimate probably like 30, 50, 100x more competent power is
+needed. That's where -- if we cannot solve that speed issue or some other kind of managed deployment
+issue is still more difficult.
+
+That's also the ASIC has more advantage, like 5 to 10x better performance, computing power and costs
+lower than other software-only approach. So it's a lot of requests. But as I have to say, it's not many
+solution can meet some of the requests. Because internal, whether be in the compass of within the data
+center, the network speed tend to be easily 10 to 100x more faster than the WAN approach -- I mean, the
+WAN connection.
+
+So that's where we're working with whether the customer or the partner directly and also combine both
+the WAN security and the LAN security and the [indiscernible] infrastructure is more important. But
+it's today work on home with they call the zero trust network access, so that you have to be the whole
+infrastructure secure. So it's -- we see a huge market potential for the for internal segmentation inside
+data center or campus security. But it's also a challenging job to meet the speed requirement compared to
+networking and also make sure they can easily deploy and easily managed.
+
+Operator
+
+Our next question comes from the line of Saket Kalia with Barclays.
+
+Saket Kalia
+Barclays Bank PLC, Research Division
+
+Keith, maybe for you, just going back to the non-FortiGate part of the business. Do you see any trends in
+perhaps market segment or geography that is adopting non-FortiGate at higher rates? And I only ask that
+because with the growing enterprise business -- with your growing enterprise business, that is, I would
+imagine more of the enterprises would maybe be more willing to work with multiple specialist vendors. So
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+is the non-FortiGate part of the business, perhaps more weighted towards the mid-market? Or perhaps
+international?
+
+And relatedly, just kind of broad brushes, how is that non-FortiGate business sort of split between product
+and services? Sorry, there's a lot there. Does that make sense?
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Yes, there is a lot there. And I'll -- depending on my answer, we'll know if it makes sense, how is that?
+Look, I don't think the product service mix between [indiscernible] talked about previously, the FortiGate
+versus non-FortiGate, the product service mix is not different in any meaningful way, if you will, when you
+look at the mix. And again, we're selling solutions, so you're typically bundling that with a firewall sale.
+
+To see the non-FortiGate billings growth at that 50% number and seeing the mix of the business, I think,
+obviously makes us very excited. It's actually a little bit counterintuitive in terms of where it sells. For the
+last several quarters, the Americas has done very, very well with selling the fabric. And I've been on phone
+calls with very large enterprises that want to know much more about the fabric now that they've become
+comfortable with the firewall.
+
+I probably went into those conversations, Saket, with much the same expectation that you perhaps
+described, which is that may be something that plays more to the SMB part of the business or the mid
+enterprise. And I do think it does. I do think the enterprise willingness -- and in the U.S., to see the
+enterprise willingness to engage on the fabric is probably a sign of a number of things. One is, at the end
+of the day, everybody's got a budget, and this is a more cost-effective way to go about doing it. You can
+manage your infrastructure much, much easier perhaps with a single vendor strategy than you might
+otherwise.
+
+And I think the common operating system with it running on or being integrated to OS 7 is something
+that's very exciting. And then you start talking to the vision about a SASE offering that's running on an
+integrated OS 7 system as well. So I gave you a lot there. But to give color to it, I think the long-winded
+response would be, it has not shown to be unique to a size of customer or to a geography.
+
+Operator
+
+Our next question comes from the line of Keith Bachman with Bank of Montreal.
+
+Keith Frances Bachman
+BMO Capital Markets Equity Research
+
+I'm going to follow on Saket, and I have one question to keep within Peter's rules but I'm going to break it
+into a couple of subparts, on the non-FortiGate side as well. I wanted to break it into: a, is there anything
+over the next 12 months that you look at that you think, in particular, is interesting or exciting; b, Keith, is
+there anything you could break out on attach rates, where you currently stand on the non-FortiGate side
+to attach rates? It would seem to me that there's still a hell of a lot of room to run there just if you look at
+your installed base for some opportunities.
+
+And then c, if you think about -- if you had to partition the non-FortiGate into cloud and noncloud. In other
+words, there's a lot of, I think, FortiGate products that are relevant to on-premise situations versus cloud.
+But is there a way to just kind of break it out in percentage dollar-wise, 50% of it's aligned to on-premise
+deployments versus 50% is cloud deployments. Is there any way to break that out in the non-FortiGate
+side in particular?
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+We'll charge you by the question. I think there was -- I'm going to leave the tough question or the fun
+question for Ken at the end, which is, as you look out over 12 months, what's going to take off in non-
+FortiGate. Keith, I would probably point you back to if we didn't do it in the Analyst Day in March, we did
+do it in Analyst Day in November of '19 where we gave some breakdown of the fabric products between
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+what we call cloud and what we call infrastructure. And you can think of that as being hardware, and then
+I'll kind of help answer your question there.
+
+I think when you use the term attach rate, we may use the term penetration rate. And by that is for a
+customer that's a firewall vendor, how many -- as you start looking at your expansion opportunity, Keith,
+inside these customers, what type of penetration are you seeing and how are you going to market, if you
+will, and encouraging the sales team and the marketing team, to whatever that number is, increasing the
+penetration.
+
+And I would say that's something that's really been an area of focus, I would say, for us more recently
+over the last couple of quarters. And I think that's really, at the moment, more of it. We're pleased with it,
+don't get me wrong. But I think right now, that's more of an internal metric that we're using with our sales
+team and our marketing team and to some extent, with our engineering team.
+
+Ken Xie
+Founder, Chairman & CEO
+
+Yes, great. I think also, I -- probably not to the detail as of the number. So far, the non-FortiGate almost
+doubled the FortiGate growth in the last few quarters or few years. So I don't see any changing of the
+trend right now. But definitely, from a customer angle, we also asked what's the reason is they really need
+to be more consolidate, make the whole infrastructure, manage working together, all these kind of things,
+which are working quite well with us because we designed a product optimum working with FortiGate from
+day 1, and making the whole fabric working together to integrate, automate on the security solution there.
+
+So that's where the -- also we see there's still small percentage customer has a -- FortiGate still a lot
+of room to grow. And at the same time, is -- there's a new product even come up to working with a
+FortiGate. So that's where we do see -- we'll probably keep the trend, the non-FortiGate will keeping grow
+faster and probably eventually, even the business maybe more than FortiGate, maybe within a few years.
+
+Operator
+
+Our next question comes from the line of Michael Turits with KeyBanc.
+
+Michael Turits
+KeyBanc Capital Markets Inc., Research Division
+
+For Ken and Keith, do you see any difference in the type of projects and security that you were seeing last
+year primarily for the move to work from home versus this year when we have worked from home as well
+as back to office?
+
+And as part of that, Keith, you mentioned, I think, saying that you are seeing I think you said more
+willingness to do firewall replacements this year. Is that also a part of it?
+
+Ken Xie
+Founder, Chairman & CEO
+
+Yes. Last year, work from home is more like a patch, whatever they have and to without changing
+model infrastructure. This year, definitely thinking redesign infrastructure, whether leverage like better
+technology like SD-WAN or some other. And at the same time, making, kind of, a better solution in the
+zero trust environment is much more secure.
+
+And so that's probably -- but it's still in the early stage. We do see a lot of growth potential there. But it's
+a whole infrastructure changing compared to kind of last year, the quick make up, patch solution.
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Yes. Michael, I would add to Ken's comments. I think the headline is the tailwinds coming to year.
+Security is top of mind for so many companies right now, some of the CIOs and CISOs and whether that's
+SolarWinds or it's work from home, it was -- Microsoft's little challenge is to ramp-up in ransomware. It's
+just -- it's a year, I think, that a lot of CIOs and CISOs focus on security for a lot of different reasons.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+I do think that there was a -- for us in the U.S. market, if you will, and Ken has talked about this before.
+A little more difficult, say, in the middle part of last year as we kind of through the year to get mind
+share from CIOs and CISOs, to have a conversation about how you can save money while improving
+performance in their firewall. I think those opportunities are starting to appear more in terms of getting
+out and having customers take their prospects, take that meeting, if you will. And I think there's also
+some of these larger deployments that can go on for well over a year or a couple of years.
+
+I think some of those deployments perhaps were a bit stalled, if you will, last year, and they're coming
+back online as we look at 2020 -- 2021.
+
+Michael Turits
+KeyBanc Capital Markets Inc., Research Division
+
+So just to clarify, larger deployments are starting to come back online. And is the answer yes that people
+are more willing to talk about displacements of competitors this year than last year?
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Is it the answer to -- which -- if you're asking me if I'm seeing that, the answer is yes. So if you're asking
+if that's a driver of the business, I would say, yes. If you're asking if that's the driver of the business, I
+don't think so.
+
+Michael Turits
+KeyBanc Capital Markets Inc., Research Division
+
+No. Just if you're seeing more of it.
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Yes.
+
+Ken Xie
+Founder, Chairman & CEO
+
+Yes, there are more that you spend beyond the traditional deployment and also like more device, more
+people and more infrastructure need to be secured.
+
+Operator
+
+Our final question comes from the line of Patrick Colville with Deutsche Bank.
+
+Patrick Edwin Ronald Colville
+Deutsche Bank AG, Research Division
+
+Can I just kind of finish off on a [ multi-parter ]? I guess the first 1 would be just about linearity. Last
+year, the linearity between 1 and 2Q was kind of unusual. So just help us understand how that might play
+out in fiscal '21.
+
+And then I guess my kind of second part, if I may, is product revenue this quarter was phenomenal. Baked
+into guidance, I guess, is that there's a kind of the rest of the year is more like a kind of mid-teens growth
+rate. Just to help us understand, is that -- is there anything that is worth flagging in regards to the kind of
+performance in the rest of the year versus 1Q?
+
+Keith F. Jensen
+CFO & Chief Accounting Officer
+
+Yes. I think that as you get comfortable with the business model, you understand the products and
+services and how very predictable that higher-margin services revenue is. I think that we did take this
+as the opportunity to raise product revenue, the implied product revenue guidance, if you will, when you
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+reverse engineer it after we give the service revenue guidance by about 5 points. And I think that takes
+you to about 17% in terms of our guidance now for the full year.
+
+And we'll see how the year plays out. But I think we feel good about it. In terms of linearity from Q1 to
+Q2, I would probably point you to, one, our actual results that we had last year in Q1 and Q2. And our
+actual results in Q1 of this year and our guidance for Q2.
+
+Operator
+
+I would now like to turn the call back over to Peter for closing remarks.
+
+Peter M. Salkowski
+Vice President of Investor Relations
+
+Thank you, Tuwanda. I'd like to thank everyone for joining the call today. Fortinet will be attending a few
+conferences in the second quarter. We have the JPMorgan conference on May 25, Alliance Bernstein on
+June 2 and then Bank of America, June 8. Then presentations and webcast links are up on our website.
+Thank you very much. Have a great day, and please, reach out if you have any other questions. Have a
+great day. Thank you. Bye-bye.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation. You may
+now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+FORTINET, INC. FQ1 2021 EARNINGS CALL |  APR 29, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+

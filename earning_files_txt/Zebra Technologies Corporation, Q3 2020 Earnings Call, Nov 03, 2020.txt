@@ -1,0 +1,1250 @@
+Zebra Technologies Corporation 
+
+NasdaqGS:ZBRA
+FQ3 2020 Earnings Call Transcripts
+Tuesday, November 03, 2020 1:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2020-
+
+-FQ4 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+2.81
+
+3.27
+
+Revenue  (mm)
+
+1074.20
+
+1132.00
+
+Currency: USD
+Consensus as of  Oct-29-2020 1:04 PM GMT
+
+16.37
+
+5.38
+
+3.29
+
+11.18
+
+13.76
+
+1159.86
+
+4236.47
+
+4676.55
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+3.65
+
+2.64
+
+2.28
+
+2.81
+
+3.56
+
+2.67
+
+2.41
+
+3.27
+
+SURPRISE
+
+(2.47 %)
+
+1.14 %
+
+5.70 %
+
+16.37 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Anders Gustafsson
+CEO & Director
+
+Joachim Heel
+Senior Vice President of Global
+Sales
+
+Michael A. Steele
+Vice President of Investor
+Relations
+
+Nathan Andrew Winters
+Acting Chief Financial Officer
+
+ANALYSTS
+
+Andrew Edouard Buscaglia
+Joh. Berenberg, Gossler & Co. KG,
+Research Division
+
+Richard Charles Eastman
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Blake Geelhoed Gendron
+Wolfe Research, LLC
+
+Thomas Allen Moll
+Stephens Inc., Research Division
+
+Brian Paul Drab
+William Blair & Company L.L.C.,
+Research Division
+
+James Andrew Ricchiuti
+Needham & Company, LLC,
+Research Division
+
+Jeffrey Ted Kessler
+Imperial Capital, LLC, Research
+Division
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+Meta A. Marshall
+Morgan Stanley, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+Presentation
+
+Operator
+
+Good day, and welcome to the Third Quarter 2020 Zebra Technologies Earnings Conference Call. [Operator
+Instructions] Please note, this event is being recorded. I now like to turn the conference over to Mike
+Steele, Vice President, Investor Relations. Please go ahead.
+
+Michael A. Steele
+Vice President of Investor Relations
+
+Good morning, and welcome to Zebra's Third Quarter Conference Call. This presentation is being simulcast
+on our website at investors.zebra.com and will be archived there for at least 1 year.
+
+Slide 2 conveys that the forward-looking statements we make today are based on current expectations
+and assumptions and are subject to risks and uncertainties. Actual results could differ materially due to
+factors discussed in our SEC filings.
+
+During this call, we will reference non-GAAP financial measures as we describe our business performance.
+You can find reconciliations at the end of the slide presentation and in today's earnings press release.
+
+Throughout this presentation, unless otherwise indicated, our references to sales growth are year-over-
+year on a constant currency basis and exclude results from recently acquired businesses for the 12
+months following each acquisition.
+
+This presentation will include prepared remarks from Anders Gustafsson, our Chief Executive Officer;
+and Nathan Winters, our acting Chief Financial Officer. Anders will begin with our third quarter results,
+then Nathan will provide additional detail on the financials and discuss our fourth quarter outlook. Anders
+will conclude with progress on advancing our Enterprise Asset Intelligence vision and trends in our end
+markets. Following the prepared remarks, Joe Heel, our Senior Vice President of Global Sales, will join us
+as we take your questions.
+
+Now let's flip to Slide 4 as I turn the call over to Anders.
+
+Anders Gustafsson
+CEO & Director
+
+Thank you, Mike. Good morning, everyone, and thank you for joining us. We are honored that our
+solutions are empowering frontline workers in the battle against COVID-19. I am proud of our employees'
+resiliency and focus on serving our customers' critical needs during these challenging times. Our top
+priority continues to be protecting the health and well-being of our employees, customers and partners as
+businesses continue to progress with their reopening plans.
+
+In Q3, our results continued to be pressured by the global macro environment. For the quarter, we
+realized net sales growth of 30 basis points; adjusted EBITDA margin of 20.3%, which contracted by 240
+basis points; and non-GAAP diluted earnings per share of $3.27, a 5% decrease from the prior year.
+
+As a result of excellent execution by our teams and a faster than expected recovery in demand, each of
+these measures exceeded our outlook. Demand from our large strategic customers has been at record
+levels, driven by accelerated trends to digitize and automate workflows. Not surprisingly, the pandemic
+has disproportionately impacted our smaller customers in certain end markets, which has resulted in
+a significant shift in business mix. Together with premium shipping costs, this has weighed on gross
+margin. In light of this pressure, we have continued to diligently manage discretionary costs to preserve
+profitability and cash flow.
+
+Despite the challenging environment, our enterprise customers have been prioritizing spend with Zebra,
+and I would like to highlight some notable Q3 success stories. We expanded our relationship with a leading
+e-commerce retailer experiencing significantly increased order volumes. They require trusted technology
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+solutions that enable improved supply chain and order fulfillment execution to empower their labor force.
+We are deploying our mobile computing, scanning and printing solutions across their growing global
+footprint. Innovation, quality and value are critical partner attributes cited by this customer, and we are
+proud that our team is delivering to their high standards.
+
+The hospital system in Denmark has chosen to replace a competitor with our clinical point-of-care
+solution. In Q3, they began a multi-quarter deployment of our health care-purposed TC5 Series mobile
+computers and accessories, which will interface seamlessly with their electronic medical health record
+system. We have continued to deploy TC7 Series mobile computers to USPS postal carriers as planned
+and are now pausing through their peak holiday season, expecting to resume in late Q1 with the goal of
+completion by mid-Q3.
+
+We are proud that we are able to help our customers meet their mission-critical needs in an increasingly
+on-demand economy. We continue to view acquisitions as a vector of profitable growth for Zebra and a
+way to elevate our role as a solutions provider. In early September, we closed on the Reflexis acquisition.
+In a few minutes, I'll elaborate on how this acquisition is synergistic to our offering.
+
+With that, I will now turn the call over to Nathan to review our Q3 financial results and discuss our Q4
+outlook.
+
+Nathan Andrew Winters
+Acting Chief Financial Officer
+
+Thank you, Anders. Let's start with the P&L on Slide 6. Net sales increased 30 basis points before
+the modest net impact of currencies and acquisitions. As Anders mentioned, large order volume was
+much stronger than the prior year. This was offset by a decline in small and midsized business through
+the channel, which disproportionately impacted printing and data capture. Our Enterprise Visibility &
+Mobility segment sales increased 4%, driven by solid growth in mobile computing and services. Our
+Asset Intelligence & Tracking, including printing and supplies, continue to be most impacted by the global
+recessionary environment with sales decreasing 7% from the prior year. This was a notable 18-point
+sequential improvement from the Q2 decline.
+
+We realized solid growth in our managed and professional services and Zebra retail solutions. Location
+solutions declined from last year due to lower project activity during the pandemic. We realized significant
+sequential improvement in each of our regions from Q2 as we continue to recover from the peak of the
+pandemic. In North America, sales increased 6%. Mobile computing and data capture returned to solid
+growth, and services continued to perform well.
+
+EMEA sales were flat. Services and mobile computing were bright spots. We also continued to see
+strength in Central and Northern Europe. Sales in our Asia Pacific region declined 13%. China was a bright
+spot, returning to modest growth. Latin America sales declined 20% with all major product and service
+categories declining.
+
+Adjusted gross margin contracted 390 basis points to 43.8% driven primarily by more than 3 points from
+unfavorable business mix and nearly 1 point from premium freight cost, which was partially offset by
+improved services margin. Underlying margin trends across the business, excluding mix dynamics, remain
+healthy. Adjusted operating expenses declined $17 million from the prior year period and improved 150
+basis points as a percentage of sales. This improvement was primarily due to disciplined cost management
+and lower compensation expense while preserving our planned investments in the business.
+
+Third quarter adjusted EBITDA margin was 20.3%, a 240 basis points decrease from the prior year period,
+driven entirely by lower gross margin. We drove non-GAAP earnings per diluted share of $3.27, a $0.16 or
+5% year-over-year decrease.
+
+Turning now to the balance sheet and cash flow highlights on Slide 7. We generated $482 million of free
+cash flow in the first 9 months of 2020. This was $106 million higher than the prior year period, primarily
+due to a lower use of working capital as well as our expanded accounts receivable factoring program.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+Our balance sheet is strong. From a debt leverage perspective, we ended Q3 at a comfortable 1.8x net
+debt to adjusted EBITDA ratio, 0.5x higher than last quarter, due to financing the acquisition of Reflexis.
+
+Now turning to Slide 8. We have demonstrated that we can deliver solid results in a challenging economic
+environment while continuing to invest in our future. Our consistently strong free cash flow generation
+is driven by our capital-light business model, flexible cost structure, diversified end markets, strong
+execution and disciplined cost management.
+
+Let's now turn to our outlook. We are encouraged by the faster-than-expected recovery with small and
+midsized businesses and are beginning to realize the benefit of pent-up demand from many customers
+who have paused their spending earlier in the year. Based on these trends and our healthy channel
+inventory levels, we expect Q4 adjusted net sales to increase between 3% and 7%. This outlook assumes
+an approximately 150 basis point additive impact from the acquisition of Reflexis and a neutral impact
+from foreign currency changes.
+
+We believe Q4 adjusted EBITDA margin will be between 21% and 22%, which assumes modest operating
+expense leverage from the prior year. Gross margin is expected to be slightly lower than last year,
+reflecting higher large order mix in a soft but improving macro environment as well as an offsetting year-
+on-year impacts of premium freight and tariff expense. Non-GAAP diluted EPS is expected to be in the
+range of $3.70 to $3.90.
+
+You can see other modeling assumptions on Slide 9. Note that we now expect free cash flow to be at least
+$650 million for the year, which is higher than 2019.
+
+With that, I will turn the call back to Anders to discuss how Reflexis is synergistic with our Enterprise Asset
+Intelligence vision as well as trends in our end markets.
+
+Anders Gustafsson
+CEO & Director
+
+Thank you, Nathan. Slide 11 highlights how we are building on our foundational capabilities to elevate our
+value proposition with customers as a solutions provider. Our unmatched access to frontline operational
+data from our vast installed base of products uniquely positions us to solve our customers' complex
+challenges at the edge.
+
+We are investing in emerging technologies that help our customers better orchestrate their workflows
+by leveraging real-time data to gain actionable insights. We are excited to have Reflexis onboard, which
+further helps Zebra bring our Enterprise Asset Intelligence vision to life for retailers and other end
+markets.
+
+Reflexis is a demonstrated leader in intelligent workforce management and task execution. Their platform
+is utilized by hundreds of retailers around the globe to drive employee productivity and retention while
+also improving customer engagement. Reflexis is synergistic with our existing suite of solutions as a
+service.
+
+As you can see on Slide 12, these include: SmartCount, which is an innovative self scan and physical
+inventory management solution; our SmartSite robotic solution, which uses automated intelligence to help
+identify issues on the store shelf in real time; our Workforce Connect data and voice communication and
+collaboration application for mobile workers; and Zebra Prescriptive Analytics, which provides data-driven
+insights and a prioritized list of prescriptive actions that help maximize efficiency and reduce shrinkage.
+
+Zebra's suite of solutions work in unison with our product portfolio to provide real-time contextual tasking.
+This capability is critical for successfully addressing the inevitable unplanned events that occur throughout
+the workday. Over the next few quarters, we will continue to invest in the seamless integration of Reflexis'
+market-leading platform with our complementary software offerings to optimize the experience for
+frontline workers. We are also investing in our go-to-market efforts to drive accelerated traction with our
+unmatched suite of solutions. We believe that our enterprise customers will realize a compelling ROI by
+empowering all of their associates with these solutions.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+On Slide 13, we provide an update regarding the mixed impacts we are currently seeing in the primary
+vertical markets that we serve. We also highlight the exciting longer-term opportunities in our end
+markets as customers invest in our technology in an increasingly on-demand economy. Trends are
+improving since our last quarterly update, although it is still a mixed picture depending on the sector.
+
+In health care, our solutions helped hospitals intelligently flex their capacity to serve patients. There
+was a pause in noncritical care during the peak of the pandemic, straining the budgets of health service
+providers, which is changing now that elective procedures are assuming. Longer term, the need for
+increased real-time visibility into the entire patient journey and the demand for innovative solutions to
+provide safe and efficient care continue to make health care a high-growth end market opportunity.
+
+Retailers are prioritizing investment in our technology for their complex omnichannel fulfillment strategies
+and related warehouse automation needs. Demand from large retailers is at record levels as e-commerce
+and buy online-initiated transactions have increased dramatically through the pandemic. We have also
+begun to resume business with many department stores and specialty retailers that have been reopening
+their doors.
+
+In the transportation and logistics space, strong e-commerce growth continues to drive parcel volumes
+and last-mile delivery, which is favorable to Zebra. Passenger airlines, rental car providers and other
+related businesses remained challenged. The manufacturing sector continues to be most impacted with
+COVID-19 and global trade tensions. Key segments within process manufacturing, such as food and
+pharmaceutical companies, have held up relatively well, continuing to operate through the pandemic.
+We've seen mixed trends in discrete manufacturing with those in aviation and discretionary specialty
+goods, particularly challenged, a bright spot is our solid recovery in Chinese manufacturing.
+
+In closing, we are successfully navigating through this challenging environment while we continue to
+invest in advancing our Enterprise Asset Intelligence vision. This is enabling Zebra to emerge from this
+crisis in a stronger competitive position. We also believe that our longer-term prospects are strengthening
+as secular trends to digitize and automate workflows have accelerated.
+
+Now I'll hand the call back over to Mike.
+
+Michael A. Steele
+Vice President of Investor Relations
+Thanks, Anders. We'll now open the call to Q&A. [Operator Instructions]
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question will come from Tommy Moll with Stephens.
+
+Thomas Allen Moll
+Stephens Inc., Research Division
+
+Anders, I wanted to start on the Reflexis deal. Could you articulate for us how important integrating
+software as part of your revenue mix will be going forward? And what are some of the strategic rationales?
+In other words, what does that allow you to do in terms of increasing stickiness with the customer
+relationship? What are the other advantages it brings to Zebra?
+
+And then as a related point, as you do head into more software-driven sales, should we think about that
+market as one that's more competitive than where you've traditionally competed? Or how do you want to
+frame up the competitive dynamics there?
+
+Anders Gustafsson
+CEO & Director
+
+Yes. That's good. I'll start, and then I'll ask Joe Heel to help out also. First, just -- Reflexis is a great
+company. We're very excited that it's part of our portfolio, part of the Zebra family here now. I mean it's
+been a demonstrated leader in intelligent workforce management and task execution for many years,
+and it's been deployed by hundreds of retailers around the globe to help drive employee productivity and
+retention.
+
+And many, many of those customers are common to Zebra and to -- also to our Zebra Prescriptive
+Analytics solution. So when we look at Reflexis and Zebra Prescriptive Analytics and other software
+solutions we have, we see them as being very synergistic with our overall solution.
+
+If you think of our framework around Sense, Analyze and Act, I think that's probably the easiest way
+maybe to show how we think about creating more complete solutions for our product customers. But we
+have had historically a great strength around the sense and some in the analyze part, but being able to
+sense what's happening in the physical world has been kind of our foundation.
+
+But over the last few years, we have expanded our capabilities around the analyze and the act side quite
+a bit, and both Zebra Prescriptive Analytics and Reflexis are examples of that. And now when we -- prior
+to actually the acquisition of Reflexis, we had a number of customers ask us to do more tight integration
+between Zebra Prescriptive Analytics and Reflexis. They felt that, that would be something that would help
+get more value out of those investments.
+
+Zebra Prescriptive Analytics is going to continue to feed actions into Reflexis' action engine to help
+combine all the different actions that the retailer might do in a prioritized way. And then we look and
+leverage our other software assets like Workforce Connect to be able to let it all tie it back into our mobile
+computers. So our store associates can either scan items in the store or enter other data that can be
+fed into ZPA or into Reflexis but also then be receiving updates or actions from that so that the Reflexis
+system can deliver even greater value by being able to do that.
+
+And for Zebra as a whole, with our suite of solutions as a service, we can become more strategic to our
+customers. We can start enabling them to address more complete workflows. And by that, we can increase
+the ROI of our overall solutions and be a more strategic thought partner as they think about how they
+develop their business. So we definitely feel that this is a very compelling path for us and very excited
+about what we can do with this. Joe, you want to add something?
+
+Joachim Heel
+Senior Vice President of Global Sales
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+Yes. Perhaps I'll underline two things that you touched on. One is the fact that we're synergistic, not
+just on the product level, as Anders described, how we think we can bring together the different product
+capabilities we have, but certainly also on a go-to-market and sales level, where we have a very strong
+share in the retail market already, and bringing Reflexis to those retail customers is immediate cross-sell
+opportunity that we have.
+
+We're actually discovering that it also works the other way around. That Reflexis has some customers that
+they can bring us into and cross-sell that way. And that leads into the strategic opportunity that Anders
+described, right, which is -- Reflexis generally has a strong presence in the operations side of retailers.
+And this now gives us an opportunity to solve their problem strategically. And this perhaps also addresses
+the second part of your question around do we see this as a more competitive space.
+
+Certainly, there are different competitors in the pure workflow software area. However, none of them have
+the capability that we have to bring together the Sense-Analyze-Act part of the EAI vision and to solve the
+problem holistically. So we look at this as a space where we can now differentiate ourselves actually from
+both the traditional competitors that we had and the competitors that Reflexis currently has.
+
+Anders Gustafsson
+CEO & Director
+
+Just to round out, say, I've been on the phone with many of the largest customers of Reflexis over the last
+month or 2, and I'd say that, formally, they are very excited about the combination. They are passionate
+about the Reflexis solution, but they also see the value that a combination with Zebra and the extra
+resources we can have and how -- our vision for how we can continue to add value to their operations. So
+I think so far, it's been a great feedback from the market and from our customers.
+
+Thomas Allen Moll
+Stephens Inc., Research Division
+
+That's all very helpful. As a follow-up, I wanted to shift to some of the end market commentary you
+offered, Anders, specifically within retail and e-comm. It just sounds like some of the larger customers
+have accelerated their plans for the omnichannel integration or leaning into their e-commerce platforms.
+So 2 related questions.
+
+How durable do you see that trend being -- or maybe you could frame up qualitatively, if not
+quantitatively, how far ahead you think your current backlog gives you visibility into maintaining a robust
+pace of sales?
+
+And then moving to the smaller customers or potential new smaller customers, are you seeing anything
+-- not even in terms of order trends, just interest level that suggests that maybe the playing field here
+has expanded? If you just look around the retail landscape, they're a lot more engaged in omnichannel or
+talking about it at least now than there were a year ago. So I just wonder if maybe there's a TAM aspect
+to this dynamic as well where it's shifted in your favor?
+
+Anders Gustafsson
+CEO & Director
+
+Yes. I'll start, and then I'll ask Joe to add a little bit of color to it also. First, I think in this environment,
+our solutions have become even more critical for our customers. We are, I'd say, uniquely positioned to
+empower frontline workers across all our vertical end markets. And COVID-19 has been accelerating a
+number of secular trends around digitization and automation, and it's probably most apparent in retail
+around e-commerce, around omnichannel and buy online pick up at store.
+
+Here, we've seen, particularly around mass merchants, grocers and e-tailers, that they have been the
+most -- the quickest, I guess, to pick up on this, and that's about 2/3 of our business. But I'd say, the
+largest retailers have been the -- mostly been the most aggressive or the earliest to start adopting and
+investing in solutions around omnichannel and e-commerce.
+
+They have seen a great growth in their omnichannel and buy online, pick up at store businesses. And they
+have -- still believe that there's lots of market share that they can continue to grow and take. So they
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+are continuing to invest heavily in building out their capabilities and scaling their capabilities compared to
+where it was, say, just 6 months back.
+
+For smaller retailers, they -- I'd say generalizing a bit now, they were maybe not quite as quick to
+invest in omnichannel capabilities. It's a big investment and a complicated one at times. But I think the
+COVID-19 and the changes in customer buying behaviors and the step-up in change in how comfortable
+consumers are with omnichannel and buy online, pick up at store, as an example, has made it, I think,
+abundantly clear for smaller retailers, too, that if they want to compete, they need to build these types of
+capabilities.
+
+So we see the pipeline of business around these larger trends around digitization, automation and
+particularly in retail as quite robust. And we think that this is a trend that will be going on for quite some
+time. And we're just saying that, I think for now, we see then the pipelines of these types of opportunities
+as we look into 2021 as being as robust as we would have expected them to be in prior years at this time.
+Joe?
+
+Joachim Heel
+Senior Vice President of Global Sales
+
+Yes. I'll add perhaps 2 thoughts. I do think there is a TAM expansion that's going on, but I see it a little
+differently than you were perhaps suggesting. One big area of -- it has to do with the fact that in order to
+enable all of these omnichannel capabilities, you need a deep capability in the company more broadly than
+just at the front where the items are being picked up.
+
+And 2 things in particular that you need to do that, I think, favor us in this case is, number one, you need
+to enable your associates in your store because that's where most of the instant omnichannel capabilities
+is being created. And that means you need to digitize and give every worker a device in some form, and
+we're far from that today. So that's a TAM expansion.
+
+And the second piece is you need to extend that modernization into your supply chain, and we're seeing
+a lot of activity in terms of digitizing and automating the supply chain, and that's clearly related to this
+acceleration of e-commerce.
+
+Operator
+
+Next question comes from Jim Ricchiuti with Needham & Company.
+
+James Andrew Ricchiuti
+Needham & Company, LLC, Research Division
+
+Follow-up on that some of the last commentary that you were making, Anders. And it sounds like you're
+still anticipating a fairly robust environment with your larger customers. So it's not as, potentially, there's
+some digestion from the investments that they have been making. And then as it relates to the small
+medium segment of, it wasn't if -- to what extent you are seeing a recovery there? I mean, is there the
+potential over the next 1 to 2 quarters that you could have both areas of the business, both large accounts
+and the SMB, actually moving in a consistent fashion toward stronger growth?
+
+Anders Gustafsson
+CEO & Director
+
+Yes. First, I think we're seeing a faster-than-expected improvement in our end markets, and we're
+cautiously optimistic about how the economy will recover into 2021. I think here, our industry leadership
+and our investments in our business will also enable us to rebound stronger than our competitors. And to
+that point, that's why we feel confident to guide for a both top and bottom line growth in Q4. When we
+looked at our Q3 performance here, our run rate was improving. It's not back to pre-COVID-19 levels, but
+it is definitely improving and strengthening. And I think that was something we saw globally. And our large
+deals were obviously very strong in Q3, but we still have a good pipeline into our larger customers and
+how they're looking to invest in Q4 and beyond. Joe, do you want to add anything to this also?
+
+Joachim Heel
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+Senior Vice President of Global Sales
+
+Yes, perhaps just 2 things. If you look at our pipeline as an indicator, it's as strong as it was on a relative
+basis a year ago. So we have a strong pipeline that gives us good confidence, and our run rate has been
+recovering. We didn't say that clearly enough, but it's clearly a driver of the growth that we've been
+seeing, and we expect that to continue as well.
+
+James Andrew Ricchiuti
+Needham & Company, LLC, Research Division
+
+Got it. And just as a follow-up question. This relates more to some reports that we've begun to see,
+including one by a large retailer that had been considering deploying in-store robots for inventory analysis
+and has now pulled back apparently on that initiative. And I know you guys have looked at that market.
+But I guess my question is, if you look at the opportunities there, does it appear that it looks like some of
+the major retailers may opt for simply putting more devices in the hands of store personnel as opposed to
+maybe looking at some of in-store automation with robots and things like that?
+
+Anders Gustafsson
+CEO & Director
+
+Yes. First, I'd say that -- I don't think that our customers see one solution as being able to solve all
+problems for them. Deploying more devices or putting more devices in the hands of more associates is
+clearly a trend and something that our customers see as being able to drive a high ROI and enabling all of
+them to be connected to their applications and systems and be able to be fully utilized in that respect.
+
+With respect to the robot solutions, you mentioned also, we believe that there is a good market
+opportunity for those types of solution, in addition to using handheld computers. We have our Smart Sight
+solution for this, and I think that's progressed very nicely since we announced it in -- at NRF this year.
+We've seen an increase in demand and pilots from any customers, particularly, I would say here now in
+the last few months from grocers.
+
+I think so far, our pilots have proven the technology, and we've been able to prove the ROI around -- just
+based on labor savings alone, and the accuracy of our reads have been very strong. And we -- here is
+an area where we leveraged our Cortexica acquisition. So we've employed a lot of the computer vision
+technologies from that into Smart Site, into some of our other solutions to accelerate our ability to extract
+useful information from digital images.
+
+So we see a good, healthy pipeline of customers who are interested in piloting this solution with us.
+And we have pilots in North America and Europe at this stage. Although it's also fair to say that we
+-- COVID-19 has made it harder for us to engage on customer sites, which is making it a little slower
+to ramp these pilots up. But the interest is as high as it was pre-COVID, I would say. Joe, any further
+comments from you?
+
+Joachim Heel
+Senior Vice President of Global Sales
+
+I'd like to add maybe one thing here. Let's remember what were the retailers trying to solve with this
+robotics automation solution. What they're trying to solve is the accuracy of inventory in the store, and
+there are many different capabilities and solutions that solve the inventory accuracy problem in the store,
+and they are suited differently to different types of store formats as well as merchandise assortments.
+
+And while we do believe that there is a place for the robotic inventory accuracy improvement, other
+solutions like RFID or simply using the data from associates' devices like you can do with Zebra
+Prescriptive Analytics are capable solutions for certain store formats and merchandise assortment.
+
+So the key, in our mind, will be having the capability to look at all of these different solutions and
+bring them to a customer. And that's what we're going to be in a position to do, including the robotic
+automation.
+
+Anders Gustafsson
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+CEO & Director
+
+Yes, I think that's a good point just on -- to emphasize, again, from -- going back to the first question we
+had. This is where the breadth of our portfolio enables us to go in and talk to our customers about what is
+the problem you're trying to solve and then look at how can we bring our solutions, our technology to bear
+to best solve the problem they're trying to solve versus coming in and saying, "Okay, I have a -- whatever
+your problem is, my hammer is what's going to solve it." So I think this is a great example of how the
+breadth of our solution plays to our advantage.
+
+Operator
+
+Our next question will come from Meta Marshall with Morgan Stanley.
+
+Meta A. Marshall
+Morgan Stanley, Research Division
+
+Great. Maybe a couple of questions for me. One on the Denmark Healthcare win. Just any context as to
+-- was that your traditional kind of partner ecosystem that brought you into that deal? Was that a more
+health care-focused partner that brought you in? And then just maybe on the improvement that you're
+seeing in SMB. Are there any particular geographies or particular type of customer that you're seeing more
+movement from?
+
+Anders Gustafsson
+CEO & Director
+
+Yes. Again, I'll start and then I'll ask Joe to provide some extra color. So first, on Denmark. The Denmark
+health care win we had, and it's a very exciting win for us. And I would say, almost uniformly, our health
+care partners are uniquely focused on health care. It's very rare that we have partners that are strong in,
+say, retail or manufacturing and also in health care.
+
+Those are very different end markets. The solutions are very different. The problems are very different. So
+it tends to lead to a much more vertically oriented entire value chain for us. Then around SMB, we did see
+improvements in our run rate across all geographies on a sequential basis. I think that this is something
+we expect to -- that we'll continue to see as the economy recovers into Q4. We've certainly seen a good
+progression of the run rate in the SMB business here as we get into Q4 but also as we look further into
+2021. Joe, any more comments from you? Are you muted, Joe?
+
+Joachim Heel
+Senior Vice President of Global Sales
+
+I am. I do apologize. 2 comments. On the health care partners, one particular type of partner that is very
+important for us in the health care space are the electronic medical records companies. We have excellent
+relationships with them, both from an ISV and a resale perspective, and that has been a good source of
+growth for us in the health care market.
+
+In the SMB segment, the one -- other one I would call out, in particular, is China. So in China, we've seen
+a resurgence, I think, of the -- in particular, manufacturing customers that are so essential for our printing
+business, and they have certainly contributed to the return of that business.
+
+Operator
+
+Our next question will come from Richard Eastman with Baird.
+
+Richard Charles Eastman
+Robert W. Baird & Co. Incorporated, Research Division
+
+Yes. I just wanted to explore the gross margin for a minute here, the adjusted gross margin by segment
+here. Both segments were down 300 to 400 basis points. Maybe a little bit surprised around AIT segment
+being down. So my question maybe is two-fold.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+I mean, first of all, around the freight expenses, we're using the term in a premium freight. Is the freight
+expense up structurally, given the realignment around our subcontract manufacturing base? Or is that
+specifically to the urgency around some of these e-commerce large orders and getting to here? What does
+that impact?
+
+Nathan Andrew Winters
+Acting Chief Financial Officer
+
+Yes, Rich, so I'll take this. I want to start by -- I think our teams have been executing well on what we
+can control around gross margin. And if you look at the drivers, it's pretty consistent across both of our
+segments both from an unfavorable business mix as well as the premium freight costs. And if you look at
+the -- one of the 3 points, and again, spread between both segments from both large deal mix as well as
+unfavorable business mix. And just an example, in Q3, the mix of large deals was actually greater than
+what we saw in Q2. Another example, which speaks to the AIT point, if you look at our printer business,
+it has a larger proportion within run rate and exposure to the manufacturing vertical, along with generally
+higher gross margin. And then another point on premium freight costs. And to answer your question,
+really, it's from capacity constraints not so much from the change in our manufacturing footprint. And
+we're seeing our cost per kilo up 2 to 3x from what we saw pre pandemic, so again, just as some of the
+capacities come offline with reduction in air travel internationally.
+
+And I think what's important, if you look at the underlying gross margin trends, excluding the mix
+dynamics, they do remain healthy. And as the economy recovers and our run rate business improves, so
+will gross margin, which you'll begin to see here in Q4.
+
+Richard Charles Eastman
+Robert W. Baird & Co. Incorporated, Research Division
+
+And AIT has the same, again, large order impact on AIT on the printer side of the business as it does on
+the MC and scanning?
+
+Nathan Andrew Winters
+Acting Chief Financial Officer
+
+What I'd say it's less reliant on large deals, but it has a higher proportion within the run rate -- a higher
+proportion of run rate business.
+
+Richard Charles Eastman
+Robert W. Baird & Co. Incorporated, Research Division
+
+Okay. And when you look at -- let's move out when things normalize here around the mix of business
+between the channel and large orders and then this -- kind of this freight, this premium freight starts to
+dissipate, are we still kind of at this normalized gross margin level for Zebra, that's, let's call it, 47% with
+modest upside? Is that still a normalized gross margin here?
+
+Nathan Andrew Winters
+Acting Chief Financial Officer
+
+Yes. So as we get past the pandemic, we do expect to get back to pre pandemic levels for both EBITDA
+rate and gross margin rate. And like I said, the like-for-like margins remain healthy. We also would expect
+the vast majority of our OpEx to return as the environment normalizes. We have, I'd say, some bit of that
+will be permanent savings that we'll look to reinvest around the OpEx side. But again, we do get -- we do
+expect to get back to the pre-pandemic levels, both in EBITDA and gross margin rate.
+
+Anders Gustafsson
+CEO & Director
+
+Maybe just to add one thing to that. We continue to also develop our portfolio. So as you think of our
+-- the software solutions we talked about here earlier, they tend to come with a higher gross margin
+certainly, and scale, we would expect them to have a very attractive EBITDA margin, too.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+Richard Charles Eastman
+Robert W. Baird & Co. Incorporated, Research Division
+
+Understood. Yes. And then just my second follow-up question, just around the sales and sales channel.
+Just a quick question. When we look at the fourth quarter revenue guide of plus 3 to plus 9, is the
+assumption in there that the channel, both North America as well as Europe, is up year-over-year? Is that
+assumption in your guide -- revenue guide for the fourth quarter?
+
+Anders Gustafsson
+CEO & Director
+
+So your question was if the channel is expected to be up year-over-year? Yes.
+
+Richard Charles Eastman
+Robert W. Baird & Co. Incorporated, Research Division
+
+So channel and run rate. I'm sorry.
+
+Anders Gustafsson
+CEO & Director
+
+As in run rate, yes. Okay. So yes. So I'll start here again, and I'll have Joe provide some extra color again.
+But first, we're quite pleased to be able to guide for both top and bottom line growth year-over-year in Q4
+here, but the 3% -- 3% to 7% expectation in growth, and that includes 150 basis points of positive impact
+from Reflexis.
+
+First, the large deal activity remains very strong, but the underlying business is recovering faster than
+we expected, and we are also benefiting from some pent-up demand in Q4. As we entered Q4, though,
+we also had a strong backlog that helped us in this area. The higher large order mix that we've seen
+compared to prior year will continue but not the same degree as in Q3. So we do expect the run rate and
+the channel business to continue to sequentially grow. And Joe, any more color for you?
+
+Joachim Heel
+Senior Vice President of Global Sales
+
+I don't think I have anything to add. You said it.
+
+Operator
+
+Our next question comes from Brian Drab with William Blair.
+
+Brian Paul Drab
+William Blair & Company L.L.C., Research Division
+
+At this point, I guess 2 quick follow-up questions to the recent questions that you were just addressing.
+So I appreciate that gross margin should get back to the pre-pandemic level. I'm wondering if you could
+put a finer point on that. Is that something that we could expect in 2021? Or does the large postal service
+order maybe weigh on that somewhat in the near term? Is that a longer-term expectation? Or is that a
+2021 expectation?
+
+Anders Gustafsson
+CEO & Director
+
+I think it's a little too early for us to give a detailed 2021 guidance at this stage, but we do expect that
+our gross margins will continue to sequentially improve, along with the economy and along with the
+improvement in our run rate business.
+
+Brian Paul Drab
+William Blair & Company L.L.C., Research Division
+
+Okay. And then, Anders, you just highlighted also that the software business, of course, should be a
+tailwind for gross margin as that business grows and which Reflexis, it's obviously a bigger piece of the
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+business. Can you give us any sense for it? How -- what percentage of revenue now we are at in terms of
+software? Is it -- can you even say if it's more or less than 5%?
+
+I know it's not something you've really said in the past, but it's becoming a more meaningful piece, and
+we don't really know how to model the impact on gross margin without some sense for that.
+
+Anders Gustafsson
+CEO & Director
+
+Yes. Obviously we're very excited about the software business, and our software and services business has
+been growing quite nicely. The software business as a whole, I think, is still in the single digits for us, but
+it's been, as I say, has been growing quite, quite nicely. And we would expect it to be a much bigger part
+of our business as we go forward.
+
+Operator
+
+Our next question will come from Keith Housum with Northwest Research.
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+And Nathan, congratulations, and welcome to the call. Guys, want to dig in a little bit further into the U.S.
+postal service. Anders, I think I heard you say that the deal is on a pause until late first quarter, and then
+we will finish up in 3Q of next year. So is the plan still to end, I guess, late summer? I'm just trying to
+get a little bit more idea on the third quarter. And in terms of a pause, are we talking the end of the first
+quarter, so don't expect much in the first quarter of '21 from the U.S. Postal Service?
+
+Anders Gustafsson
+CEO & Director
+
+Yes. First, the pause that we now have is a planned activity from USPS. This was always their intent to not
+deploy new devices during Canada peak season, and it will start ramping up again in the second half of
+the first quarter. So the Q1 would be certainly lower than Q2 and Q3, and we expect that late summer, we
+will be basically wrapping up. And then we'll continue obviously with other projects and expansions of this
+project with USPS.
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+Great. And then just as my follow-up. In terms of the Temptime business, can you just perhaps cover, is
+there an opportunity with that business to take advantage of perhaps COVID-19 vaccine that might be out
+there on the horizon? And how is that business doing? And how does that go to play here?
+
+Anders Gustafsson
+CEO & Director
+
+Sorry. You said Temptime?
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+Correct.
+
+Anders Gustafsson
+CEO & Director
+
+Yes. So Temptime has been doing very well in Q2 and Q3 based on the traditional vaccines that they
+cover, all the vaccine vials that we cover there. We are working with WHO and a number of pharmaceutical
+companies, logistics companies, to ensure that we are well-positioned to provide solutions with respect to
+a COVID vaccine when that becomes available.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+We have received initial orders from people who are kind of proactively looking to build up the -- an
+inventory and capabilities for this, but they have been quite small, but we expect that, that can be a nice
+addition to the business in 2021.
+
+Operator
+
+Our next question will come from Blake Gendron with Wolfe Research.
+
+Blake Geelhoed Gendron
+Wolfe Research, LLC
+
+I do want to circle back on the deal size evolution here. I know we've been talking about it this morning.
+But if you were to quantify the year-over-year impact of deal mix in terms of bps or whatever, that would
+be super helpful.
+
+And then on a scale of 1 to 10, 10 being pre-pandemic normalized mix versus 1 being sort of the trough
+where large deals dominated in the second and third quarter, I would imagine, where do you expect the
+fourth quarter to be just because you do anticipate some of the smaller deal size coming back?
+
+And then as an offshoot to that on working capital, you offset some of the receivables friction with
+payables and things like that. Are the receivables, AR, is that impacted by deal size as well, where we
+should expect maybe a little bit of friction just given the mix?
+
+Nathan Andrew Winters
+Acting Chief Financial Officer
+
+Yes. So to answer your first question around the growth we're seeing in both respect to the large and
+nonlarge deals. So again, just to clarify, when we say large deals, those are greater than $1 million. In
+the third quarter, the large deals grew over 35%, and our nonlarge deals were down over 15%. And that
+-- hard to put a 1 through 10 classification on it. I would say, as we get into Q4, it is going to be slightly
+higher large order mix than the prior year, but definitely not to the same degree as Q3, and we'd expect
+that to continue to maybe go back to pre-pandemic levels as we head into 2021, as we see a gradual
+recovery in the economy.
+
+And on your last question around AR factoring. I wouldn't say that we've seen any additional friction
+relative to deal size. It had a modest impact on our year-to-date cash flow, and we'd expect to see a
+relatively modest impact on our full year guide.
+
+Anders Gustafsson
+CEO & Director
+
+Maybe just one more -- add to this and the prior question. So we've had a lot of focus on investors on
+USPS and the impact of USPS had on our business. And U.S. is obviously a large deal, but it was not what
+drove our Q3 overachievement. USPS came in very much as per our expectations.
+
+Blake Geelhoed Gendron
+Wolfe Research, LLC
+
+Understood. I appreciate that additional color. And then a follow-up, if I could, on the regional growth, you
+broke it out in the slide deck. Looks like North America, Europe, Latin America, kind of trending actually a
+little bit better than maybe some of your indicators would suggest.
+
+APAC was down pretty heavily, maybe more so than other companies have disclosed, at least directionally.
+So on Asia Pacific, is the issue there, just -- first of all, is it a discrepancy? And then is it due to China
+versus non-China?
+
+Is it health of specific end markets or customers? Is there something going on with the channel inventory
+levels there? I'm just trying to get a better feel for, I guess, the weakness in APAC.
+
+Anders Gustafsson
+CEO & Director
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+Well, first, more globally, I'd say what you see globally and also in Asia Pac is some of the secular
+trends that are supporting our business have accelerated as part of COVID. So around omnichannel, the
+digitization and automation, those are all -- those are global trends.
+
+And in Asia Pac, that we have -- our business has been driven more by, say, a run rate business rather
+than large deals. So the run rate business in manufacturing has been larger parts of our Asia Pac business
+than in other areas.
+
+And specifically in Q3, I think the COVID-19 drove bigger declines in Southeast Asia and India, where
+good parts of those countries were more or less shut down. So that was more impactful for Asia Pac. But
+Asia Pac was up from -- sequentially from Q2, and China actually returned to growth.
+
+And as I said, we have new leadership in China, a new General Manager who's doing a great job there for
+us. We did also see some relative strength in Australia in Q3.
+
+Operator
+
+Our next question comes from Andrew Buscaglia with Berenberg.
+
+Andrew Edouard Buscaglia
+Joh. Berenberg, Gossler & Co. KG, Research Division
+
+I just wanted to clarify something on the USPS award. So you said you're going to wrap up most of the
+deal -- or most of that award by end of Q3. I think the deal was -- the award was $570 million in total or
+upwards of. I guess, what portion of that will be fully wrapped up? Because I know there's follow-on stuff
+that is comprised within that $570 million.
+
+Anders Gustafsson
+CEO & Director
+
+Yes. I think the contract award was up to a maximum of $575 -- $570 million. I don't think at this stage,
+we can give you -- I won't break out and say specifically how large the volume for the USPS will be as part
+of this contract.
+
+Andrew Edouard Buscaglia
+Joh. Berenberg, Gossler & Co. KG, Research Division
+
+Okay. Okay. Also in your Q4 guide, it was a nice guide, and I think about 1/3 of your sales is EMEA, which
+didn't quite rebound as much as North America, and now we're starting to see lockdowns again. So I
+guess what have you contemplated in that guide? Is it conservative? And does it take into account, kind of
+what's going on in Europe?
+
+Anders Gustafsson
+CEO & Director
+
+So we feel confident in our sales guide for Q4. It reflects the positive momentum we have in the business.
+We entered the quarter with a strong backlog. We had very healthy levels or lower levels of inventory in
+the channel. So the quarter is actually more front-end loaded than normal. So we do see that has -- as
+giving us great confidence in our guide.
+
+But there's obviously still continued pressures from COVID and some uncertainty around this. I'd say,
+though, with -- specifically to Europe and some of the lockdowns there that I think if you compare this to
+April when -- or end of March when the lockdown started, I think now companies -- most of the first --
+most of the lockdowns are intended to be more on the aspect of the social life rather than enterprises and
+business life.
+
+And I think companies like ourselves we have learned, I think, how to operate much better in this
+environment. So I would expect that the impact of a lockdown would be less severe now, and the
+lockdown would, again, I think, drive some of the trends that we've talked about around omnichannel and
+buy online, pick up in-store and so forth, which would have some offsetting positive impact for us.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+Operator
+
+Our last question today will come from Jeff Kessler with Imperial Capital.
+
+Jeffrey Ted Kessler
+Imperial Capital, LLC, Research Division
+
+What -- when you talk about providing a full, let's call it, recurring revenue SaaS-type of solution that
+you're developing going forward, which vertical markets have been -- which vertical markets do you think
+have been most interested in at least talking about how to get to a, if you want to call it, a full Zebra
+solution for them at this point?
+
+Anders Gustafsson
+CEO & Director
+
+I'm not sure if I can say that any vertical has more -- been more excited about this than others. Maybe
+I can say, though, that our -- if you look at some of our more recent software acquisitions like Reflexis
+and Zebra Prescriptive Analytics or Profitect, as it was previously known, the primary vertical markets that
+they address have been retail. So we're probably further along in retail than we are in other markets. But
+I say I would highlight health care is certainly an industry or a vertical that has a lot of interest in broader
+solutions and acquiring them as a service.
+
+Jeffrey Ted Kessler
+Imperial Capital, LLC, Research Division
+
+Okay. And a follow-up, in terms of what types of services and/or technologies might be add-on to USPS,
+once you've done the first part of the contract? Would that be instructive for other -- for other areas in
+which you might be able to expand your total available market?
+
+Anders Gustafsson
+CEO & Director
+
+Yes. I'm not sure if I want to get ahead of ourselves and talk about what possible business we might win
+from USPS in the future. USPS is a customer of many of our products already, so printing, scanning and
+mobile computing services, some software solutions. So I see opportunities for us to engage across a
+broad suite of solutions, but I don't know that I want to highlight any specific ones for you.
+
+Jeffrey Ted Kessler
+Imperial Capital, LLC, Research Division
+
+Okay. And just quickly, in that line of thinking on new types of technology, with regard to your mobile
+scanners and with the other technologies that you're employing, have you been taking a look at the
+increase in other types of identifiers, such as BLE or NFC? Other types of technologies that may be
+complementary to what you're using right now?
+
+Anders Gustafsson
+CEO & Director
+
+So I guess the broad answer will be yes. We're certainly looking at all sorts of data capture type of
+technologies. And our mobile computers, many of them have NFC already. So we're always looking to see
+how we can provide the right type of functionality to enable our customers to get the best ROI for those
+solutions.
+
+Joachim Heel
+Senior Vice President of Global Sales
+
+Yes. You might -- this is Joe Heel. You might remember that we introduced the proximity monitoring
+solution. That's based on Bluetooth low energy, which is built into our devices. And NFC technologies, for
+example, are used in solutions we have for railway ticketing. So those are all technologies we're already
+using, and we think have more potential in the future.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+Operator
+
+This will conclude our question-and-answer session. I would like to turn the conference back over to Mr.
+Gustafsson for any closing remarks.
+
+Anders Gustafsson
+CEO & Director
+
+Yes. To wrap up, I would just like to thank our employees, customers and partners who are working in the
+frontline during this challenging time. Our team is executing well through the pandemic, and we are proud
+that our technology solutions are helping enterprises navigating through the challenges of COVID-19 as
+the world recovers. Stay safe, everyone.
+
+Operator
+The conference has now concluded. Thank you for attending today's presentation. You may now
+disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+ZEBRA TECHNOLOGIES CORPORATION FQ3 2020 EARNINGS CALL |  NOV 03, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+

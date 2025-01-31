@@ -1,0 +1,167 @@
+Thank you, François
+With François new to F5, my prepared remarks for Q2 are a bit expanded and will flow as follows
+I will open with high-level comments on the quarterly results, next share a number of Q2 customer wins, followed by an update on products for Q2. Then, I will give more detail on revenue and other selected financial results, as is normal, and conclude with commentary on new products and functionality being introduced in Q3, combined with our Q3 outlook
+F5 delivered revenue of $518.2 million in fiscal Q2, reflecting year-over-year revenue growth of 7%
+The majority of this growth came from sales strength in the U.S
+, highlighted by strong enterprise and service provider sales, offset by continued weakness in EMEA and lower-than-expected services revenue
+We were particularly pleased to see product revenue growth accelerate to 7% year-over-year in Q2, up from 2% year-over-year growth in the prior quarter
+GAAP EPS was $1.43 per share for the quarter, while non-GAAP earnings per share was $1.95. During Q2, we had a number of large wins that helped drive product revenue growth and reflect our continuing focus on opportunities in security and the cloud
+To cope with the explosive growth of traffic resulting from its unlimited data plans, a large U.S
+service provider is deploying VIPRION Gi firewalls across mobile switching centers, which will support over 100 million subscribers nationwide
+VIPRION's superior scalability and high-performance enable the customer to replace its existing firewalls on a smaller footprint at significantly lower cost
+As part of its Cloud Edge strategy, a top U.S
+financial institution needed to provide secure access to third-party affiliates such as mortgage companies and credit card processors
+Their decision to deploy VIPRION in an Equinix based co-location facility provided an extensible platform that can be used to lock their third-party affiliates to specific applications
+The VIPRION solution also enables millisecond response times as they build and access applications in the cloud
+In EMEA, a large government agency launched a project that includes plans to go digital in every court and tribunal
+This involves initially moving three key services and later expanding to 20 to the Microsoft Azure Cloud Platform
+The agency has license virtual additions of LTM, AFM and ASM, allowing it to operating applications seamlessly between on-prem and the cloud ensuring the same level of security
+Closer to home, a large beverage retailer and a Silverline DDoS customer expanded its Silverline services with the new three-year contract that includes Silverline's WAF protection as well
+Under the new contract, both the DDoS and WAF services will also be extended to the company's workloads in Azure
+These another major wins during the quarter, as well as significant opportunities in the pipeline continue to validate F5's ability to deliver products that meet the increasingly varied and complex needs of our customers, as they migrate towards hybrid infrastructures
+Contributing to stronger product revenue growth, the entire family of new iSeries appliances was available for the entire quarter
+Customer response has been positive, and we continue to be happy with the uptick of the new platforms which was in line with prior appliance refresh cycles
+We launched TMOS 13.0 during Q2, which includes a number of important new features
+Among them, enhancements to enterprise and service provider protocols, including DNS, HTTP, and TCP and the addition of MQTT support, which is specific for IoT workloads
+We also introduced new security features and functions, including OAuth 2.0 identity support and improvements to Behavioral DDoS, bot detection and fingerprinting
+Also included with the launch of the TMOS 13.0 is the new, high-performance 40-gig version of our Virtual Edition
+In addition, we continue to see steady demand for a 100-gig VIPRION blade, which now includes availability of our vCMP functionality
+Other new security products introduced during the quarter include our new Herculon product family, which allows our sales force to sell DDoS Hybrid Defender and SSL Orchestrator in a stand-alone form factor or as solutions on BIG-IP
+And, finally, we made our WAF solution available as a utility offering in the Microsoft Azure marketplace
+Switching gears to detailed results for the quarter
+Product revenue of $241.1 million grew 7% year-over-year and represented 47% of total revenue
+Service revenue of $277.2 million also grew 7% year-over-year and accounted for 53% of total revenue
+Revenue from the Americas accounted for 56% of total revenue during the quarter, up 7% from the second quarter of 2016. EMEA contributed 24% of revenue, up 4% year-over-year
+While APAC contributed 15% of revenue, reflecting year-over-year growth of 16%
+And Japan, at 5%, was down slightly year-over-year
+Enterprise customers represented 65% of total sales during the quarter
+Service providers accounted for 22%
+And government sales were 13%, including 4% of total sales from U.S
+Federal
+In Q2, we had four greater than 10% distributors: Westcon, which accounted 17.9% of total revenue; Ingram Micro, which represented 16.3% of total revenue; Tech Data, formerly Avnet, representing 12.6%; and Arrow, contributing 10.5%
+Our GAAP gross margin in Q2 was 83%
+Our non-GAAP gross margin was 84.6%
+GAAP operating expenses were $291.8 million
+Non-GAAP operating expenses were $252.8 million
+GAAP operating margin was 26.7%
+Our non-GAAP operating margin was 35.8%
+And our GAAP effective tax rate for Q2 was 33.4%
+Our non-GAAP effective tax rate was 32%
+Turning to the balance sheet
+Cash flow from operations was $175.3 million
+In Q2, we repurchased 1.1 million shares of our common stock at an average price of $138.16 for a total of $150 million
+We ended the quarter with approximately $1.2 billion in cash and investments
+DSO at the end of Q2 was 51 days
+Inventories were $32.5 million
+Capital expenditures for the quarter were $9.6 million
+Deferred revenue increased 10% year-over-year to $929.6 million
+We ended the quarter with approximately 4,515 employees, an increase of 55 from the prior quarter
+Moving on to new products and outlook for Q3. In Q3, we will introduce new products and functionality that further extend our opportunities across on-prem, public cloud and private cloud architectures
+First, we will introduce our support for BIG-IP in the Google public cloud
+We will also be releasing App Connector 1.0, which enables our customers to connect the public and private cloud application infrastructures, effectively extending their private cloud workloads into the public cloud
+In addition, we will launch a set of technologies that enable microservice environments, including our Container Connector, which orchestrates BIG-IPs with microservice environments; and a new Application Services Proxy, which links components within microservice environments
+And we will release the next version of BIG-IQ, which further increases it's scalability and will provide our customers with enhanced visibility and analytics
+As we look to the back half of the year, we continue to foresee momentum from the business drivers we outlined at the beginning of the year
+The continued adoption of our iSeries products, accelerating sales of software solutions and F5's growing relevance in cloud environments, all serve as a foundation for continued product revenue growth
+While, we are pleased with the uptick the products introduced in the first half of the year and excited about the opportunities the continuing influx of new products represent, we feel that the ongoing uncertainty in EMEA merits prudence as we approach our outlook for Q3. With this in mind, our revenue target for the third quarter of fiscal 2017 is $520 million to $530 million
+GAAP gross margin is anticipated to be in the 83% range, including approximately $5.5 million of stock-based compensation expense and $2 million in amortization of purchased intangible assets
+Non-GAAP gross margin is expected to be at or around 84.5%
+We anticipate GAAP operating expenses in the range of $286 million to $296 million
+This includes approximately $38.5 million of stock-based compensation expense, and $0.8 million in amortization of purchased intangible assets
+For Q3, we are forecasting a GAAP effective tax rate of 34% and a non-GAAP effective tax rate of 32%
+Our GAAP EPS target is $1.47 to $1.50 per share
+Our non-GAAP EPS target is $2.01 to $2.04 per share
+We plan to increase our head count by up to 60 employees in the current quarter
+And we believe our cash flow from operations will be at or around $170 million
+We would like to thank the entire F5 team, our partners and customers for their support last quarter
+And with that, we'll now hand the call over for Q&A
+Question-and-Answer Session
+So two things I'd highlight there related to guide
+I'd be reluctant to quantify, but EMEA combined with the shortfall that we saw on services, which – we had talked last quarter about services continuing to decline, but then through the year we'd see it shallow out and then start to grow again
+It ended up dropping a little more than we anticipated, and that was us just misreading the tea leaves on some end-of-life products, so to get that out there
+Coming back to EMEA, the combination of those two, yeah, they would've had impact on the number we think
+So that's why we're highlighting it, and it has our focus
+And then, in terms of what we're seeing there, John, did you want to?
+Yeah
+I'm not sure conservatism is the word I'd use on this, because I think we've been talking with the sales organization, evaluating the pipeline, looking at the business
+We've highlighted this for a number of quarters now
+This really isn't a new dynamic for us
+And I think taking it all in collectively, we looked at the picture that we thought we could expect from the business at this time and factored that into the guidance
+And that's resulted in the guidance we gave you today
+Yeah, Jess
+And you might have to help me if I miss one of your questions, but I think you started with linearity
+And actually, early in the quarter, we felt pretty good about our start in January
+As we got through the first month, we felt pretty good about it and then started to see it taper off
+It was similar to the prior quarter, in that middle month kind of pull back and then landed okay, I would put it
+And then, to your question on our product refresh
+One thing we talk about a lot is the uptake in the product refresh, and I think at times we don't draw the conclusion we want you to draw when we make these comments, because we talk about – in the first full quarter, we want to see roughly 25% and we see that increasing over four quarters to 80%
+And so, when does that really kick in for us is a driver? And if we look back historically, really it's when we start to get into the higher percentages of the sales being represented by those new appliances that we really see the full driver
+So we did feel we saw some good wins this quarter and it did impact the product revenue growth that we saw
+But we think we're going to see that get through Q3 and start to build after that
+So on the average deal size; I think last quarter we were at right around $110,000. This quarter it moved up a little bit, $125,000. So one of the things that is giving us confidence is seeing the average deal size move up a little bit
+But our $1 million plus size deals were actually pretty strong across the rest of the world
+And when we evaluate our business, that's an important metric for that
+And then, for cloud
+Specifically, my in-line was the uptick of the appliances in sales
+So not necessarily the – I don't know that I can verify your 20%
+I mean it definitely did, when it got to full steam, drive very solid revenue growth
+And so, when we look at it internally, we look at the uptick and start to watch when it gets – we're in the second quarter, it's in line in terms of percent with what we've seen previously
+Your comment's very fair, it was more elongated before
+So we're trying to factor that in and then looking at how it's going to drive product
+And as I said, we have our guidance and we think we'll see that really start to kick in as we exit Q3.
+Well, you have our guidance for June, right? So I'm going to let that stand as it is
+Then, I think as we go into Q4, which is our calendar Q4, has its own dynamics
+And I think we'll see it play in there
+And then really as we expand out 18 months to 24 months and if you look historically, that's when we've seen it be a real strong driver
+Yeah
+We always talk about that as software becomes more prominent in our business, that naturally is going to carry up to gross margin
+Historically, we've looked look at that as an opportunity to derive top line growth
+Probably the most prominent example recently is investments in Silverline
+And I think we'll continue to do that and balance that trade-off of investment against higher gross margin
+I think we're right on track
+Yeah
+I think specifically what we say, and this on the October call, is we gave general guidelines of guidance
+And we have said pretty consistently over the last three or four years that we expect op margin with seasonality to pull back in Q1 and Q2, because it's important for us to not slow the machine down on our investing and head count to try to overly – I'll use the term overly manage op margin
+And then, on strength of revenue see that increase in the back half
+So I believe that plays out on revenue strength again
+And you have our guidance, as I said, for Q3. And then, we'll give guidance for Q4 and see where that takes us
+And this is Andy
+Just one thing to add that we're not seeing – and I think it's important to highlight and was within John's comments was, the competitive landscape there for us hasn't changed
+And obviously with the comments we're putting out here just around the theater, I mean we spend a lot of time talking with sales management making sure we understand what's going on
+And the one area that we came away feeling good about is, competitively we feel as strong as ever
+And that's why John was highlighting that we saw deals pushing, not deals losing
+And we think that's important to highlight
+So we are readdressing everything from the structure, and how we're aligning resources and the view of the market coming through in our guidance, but I think that's worth highlighting on a positive note
+Yeah
+So I'll take the first part of that question, which is our view on growth and product
+And, yes, if you back into our guidance with what we give you, that might look like it's pulling back a little bit
+But, broadly, we think we're going to be pushing hard on the top line and we think we have every opportunity with the drivers we have in place
+We're talking about the Shuttle series and a lot of the other products
+Our viewpoint is not that
+I wouldn't comment on next year, up or down, but we believe we're a growth company
+At our scale, what does that mean? We'll see
+We provide guidance quarterly, but that's our number one priority to push the top line, and we're going to focus on execution and work to make that happen
+Yeah
+I think, generally, we look at the broader trends that we're seeing across software security
+François highlighted that our security had strong growth year-over-year, continue to expect that from software
+We're not going to guide it specifically, but the trends are there and we like what we're seeing
+And as it relates to gross margin, we talked about it a little bit earlier
+Yeah, it could push up gross margin
+We're not guiding that
+We talk a lot about reinvesting that back in the business, and we'll continue to evaluate that on a quarterly basis as we see the opportunity present itself to us
+But, broadly, the trends are there going in the right direction, and we like where we sit
+Yeah
+And actually the way to look at this is, we're modeling it is, sequentially it was basically flat, up $0.5 million
+We think off of this new base we start to go to more normal growth rates again
+And really the driver to that is, we did end of life a number of older boxes
+I think they averaged over 7 years old and they did have strong attach rates to them, still renewal rates
+The impact of it, frankly, I just – I missed the modeling on it and the impact was bigger than I anticipated
+So that's where we ended up
+Yeah
+I don't think we're going to see anything in the short-term, and we'd advise you of that
+I would highlight surrounding this discussion that our deferred revenue was pretty strong in the quarter
+So we saw that go up 10%, and the majority of that is annual maintenance
+So I would look at that too to balance the expectations
+But as I said, when we started, we now think, off of this new base, it's a bit of reset, but we're going to start sequentially growing again at least in rough dollar basis consistent with what you've seen in the past
+No
+We didn't break that out

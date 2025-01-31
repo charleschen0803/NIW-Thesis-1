@@ -1,0 +1,1251 @@
+Advanced Micro Devices, Inc. 
+
+NasdaqGS:AMD
+FQ3 2020 Earnings Call Transcripts
+Tuesday, October 27, 2020 12:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2020-
+
+-FQ4 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+GUIDANCE
+
+CONSENSUS
+
+EPS 
+Normalized 
+
+0.36
+
+0.41
+
+13.89
+
+0.39
+
+1.11
+
+-
+
+1.65
+
+Revenue  (mm)
+
+2563.67
+
+2801.00
+
+9.26
+
+2770.38
+
+8989.74
+
+9490.71
+
+10936.29
+
+Currency: USD
+Consensus as of  Oct-27-2020 11:57 AM GMT
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+0.31
+
+0.18
+
+0.17
+
+0.36
+
+0.32
+
+0.18
+
+0.18
+
+0.41
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3.23 %
+
+0.00 %
+
+5.88 %
+
+13.89 %
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Devinder Kumar
+Senior VP, CFO & Treasurer
+
+Lisa T. Su
+President, CEO & Non-Independent
+Director
+
+Ruth Cotter
+Senior Vice President of Worldwide
+Marketing, Human Resources &
+Investor Relations
+
+Victor Peng
+President, CEO & Director
+
+ANALYSTS
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC,
+Research Division
+
+Hans Carl Mosesmann
+Rosenblatt Securities Inc.,
+Research Division
+
+John William Pitzer
+Crédit Suisse AG, Research
+Division
+
+Joseph Lawrence Moore
+Morgan Stanley, Research Division
+
+Mark John Lipacis
+Jefferies LLC, Research Division
+
+Matthew D. Ramsay
+Cowen and Company, LLC,
+Research Division
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+Toshiya Hari
+Goldman Sachs Group, Inc.,
+Research Division
+
+Vivek Arya
+BofA Merrill Lynch, Research
+Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+Presentation
+
+Operator
+
+Greetings, and welcome to the AMD Third Quarter 2020 and Xilinx Acquisition Conference Call. [Operator
+Instructions] As a reminder, this conference is being recorded.
+
+It's now my pleasure to turn the call over to Ruth Cotter, Senior Vice President, Worldwide Marketing,
+Human Resources and Investor Relations. Ruth, please go ahead.
+
+Ruth Cotter
+Senior Vice President of Worldwide Marketing, Human Resources & Investor Relations
+
+Thank you, and good morning everyone joining our call today.
+
+Participants on our conference call are Dr. Lisa Su, our President and Chief Executive Officer; Devinder
+Kumar, our Senior Vice President, Chief Financial Officer and Treasurer; and Victor Peng, President and
+Chief Executive Officer of Xilinx.
+
+This is a live call and will be replayed via webcast on our website, amd.com. We have a content-rich
+call for you this morning, so I refer you to our website, ir.amd.com, for a copy of our third quarter 2020
+financial results, including detailed slideware, our acquisition of Xilinx's announcement and other helpful
+materials, including a presentation outlining the pertinent details of the acquisition.
+
+Before we begin, please note that today's discussion contains forward-looking statements based on
+current beliefs, assumptions and expectations, speak only as of the current date, and as such, involve
+risks and uncertainties that could cause actual results to differ materially from our current expectations.
+Please refer to the cautionary statement in each press release for more information on risks related to any
+forward-looking statements that we may make.
+
+We will refer primarily to non-GAAP financial metrics during this call. The non-GAAP financial measures
+referenced are reconciled to their most directly comparable GAAP financial measures in today's press
+release and slides posted on our website.
+
+Now with that, I'd like to hand the call over to Lisa. Lisa?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Thank you, Ruth, and good morning to all those listening in. Today marks a significant milestone in our
+journey to establish AMD as the industry's high-performance computing leader.
+
+Before going into details on our strategic acquisition of Xilinx, I'd like to start with our very strong financial
+results. Our business accelerated in the third quarter, resulting in record quarterly revenue with net
+income and EPS more than doubling year-over-year. Revenue grew 56% year-over-year to $2.8 billion,
+driven by strong demand for our Ryzen, EPYC and semi-custom processors.
+
+Turning to our Computing and Graphics segment. Third quarter revenue of $1.67 billion grew 31% year-
+over-year as higher Ryzen processor sales more than offset lower graphic sales. Our client processor
+business is performing extremely well. Desktop and notebook processor ASPs increased and total unit
+shipments grew by a strong double-digit percentage, both on a year-over-year and sequential basis. As a
+result, we set a record for quarterly client processor revenue and believe we gained client CPU share for
+the 12th straight quarter.
+
+In mobile, we set records for both quarterly notebook processor unit shipments and revenue as OEM
+sell-through doubled year-over-year. We have the strongest notebook processor portfolio in our history.
+More than 105 AMD-based notebooks have launched in 2020 as we expand our presence in segments like
+gaming, commercial and education, where we have traditionally been underrepresented. In commercial,
+the number of AMD-based business notebooks for major OEMs has doubled year-over-year, and we are
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+building significant momentum based on the superior performance and battery life of our Ryzen PRO
+processors. Our progress in the third quarter was highlighted by winning multiple large-scale deployments
+with Fortune 1000 automotive, banking and pharmaceutical companies.
+
+Earlier this month, we announced our upcoming Ryzen desktop processors would be the first to feature
+our newest Zen 3 core. I'm incredibly proud of what our CPU team has achieved with Zen 3. We have
+significantly enhanced nearly every aspect of the core to deliver a 19% increase in instructions per clock
+compared to Zen 2. As a result, our Ryzen 5000 desktop processors delivered absolute performance
+leadership across gaming, productivity and creative workloads, and are positioned to drive the biggest
+shift in the PC landscape since we launched the original Ryzen processor in 2017.
+
+In Graphics, revenue declined year-over-year and increased sequentially as we prepared to launch our
+next-generation Radeon GPUs this quarter. Mobile GPU sales grew by a double-digit percentage year-
+over-year, led by solid demand for our Radeon PRO 5000 M-Series, powering Apple's MacBook Pro. We
+are very excited about our RDNA 2 graphics architecture launching later this week that delivers significant
+generational increases in both performance and performance per watt. Our next-generation Radeon RX
+6000 graphics cards, powered by RDNA 2, are by far the most powerful gaming GPUs we have ever built
+and will return AMD to the high end of the graphics market.
+
+Data center GPU revenue increased sequentially and year-over-year based on new cloud-based visual
+computing wins. Our Radeon Instinct accelerators continued gaining momentum in the HPC market.
+Recently announced wins include Australia's most powerful supercomputer as well as the new LUMI
+supercomputer in Finland that is expected to deliver over 550 petaflops of peak performance.
+
+Turning to our Enterprise, Embedded and Semi-custom segment. Revenue of $1.13 billion increased 116%
+year-over-year, driven by strong growth in both semi-custom and server processor sales. In semi-custom,
+we ramped production and shipments of our next-generation game console SoCs to support the November
+launches of the PlayStation 5 and Xbox Series X and Series S consoles. We now expect semi-custom
+shipments and revenue to increase sequentially in the fourth quarter based on strong demand.
+
+Turning to server. We set a record for quarterly server processor revenue as sales grew a double-digit
+percentage sequentially and more than doubled year-over-year, driven by growing cloud and enterprise
+adoption.
+
+In cloud, the largest hyperscale customers expanded their second-gen EPYC processor deployments across
+both their internal infrastructures and publicly available instances. In the third quarter, Microsoft Azure
+expanded their AMD offerings to 18 regions and 9 availability zones and launched new data analytics
+services powered by second-gen EPYC processors that deliver 30% better performance than competitive
+offerings. Amazon rolled out multiple new high-performance AMD instances, and Google announced
+general availability of their Cloud confidential virtual machines, powered exclusively by second-gen EPYC
+processors.
+
+Enterprise data center adoption continued to accelerate as well. We added multiple Fortune 1000 customer
+wins in the quarter across key verticals, including financial services, automotive and EDA, based on the
+performance and TCO advantages of EPYC processors.
+
+We are on track to begin volume shipments of our next-generation Milan server processors with Zen 3 to
+cloud and select HPC customers this quarter. We expect Tier 1 OEM platform availability to follow in the
+first quarter of 2021.
+
+Customer interest in Milan is very high. We are seeing hyperscale, HPC and OEM customers engage deeper
+and broader for Milan than they did prior to the launch of our second-gen EPYC processors. We believe
+we are well positioned for continued share gains based on our expanding cloud engagements, strong
+supercomputing wins and the more than 100 new or refreshed Milan platforms in development.
+
+In summary, our strong third quarter results and fourth quarter outlook demonstrate the acceleration in
+our business. We are successfully executing our strategy to drive best-in-class growth based on delivering
+leading-edge CPUs, GPUs and differentiated solutions for the PC, gaming and data center markets. We feel
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+very confident our next-generation Zen 3 CPUs, RDNA 2 GPUs and CDNA accelerators can drive further
+share gains and growth in 2021 and beyond.
+
+Now let's turn to the transaction. Looking out over the next decade, high-performance computing is
+increasingly at the center of nearly every major trend shaping the future. Whether in the cloud, at the
+edge or across the growing number of intelligent end devices, we are seeing increasing demand for high-
+performance computing, which enables a host of new experiences and services. While our CPUs and GPUs
+will remain critical engines for those devices in a world where algorithms are always advancing and new
+standards are continually emerging, we see demand growing for adaptive computing capabilities that can
+accelerate evolving workloads.
+
+That is why today, I'm excited to outline the next leg in our journey with the strategic acquisition of Xilinx.
+Together, we will create the industry's high-performance computing leader and the partner of choice for
+the largest and most important technology companies.
+
+Xilinx is the ideal match for AMD. As the industry's #1 provider of FPGAs in adaptive SoCs, they are the
+market leader. Xilinx is successfully executing multi-generation hardware and software road maps to
+extend that leadership.
+
+Xilinx is a technology leader. Beyond their core innovation in FPGAs and associated software design
+environments, they have industry-leading capabilities in SoC design, SerDes and high-speed IO, mixed-
+signal RF, advanced 2.5 and 3D silicon integration and packaging as well as targeted software stacks for
+key verticals.
+
+Xilinx has also built deep strategic partnerships across a diverse set of growing markets. In 5G
+communications, data center, automotive, industrial, aerospace and defense, Xilinx has established
+themselves as a strategic technology partner to a broad set of industry leaders.
+
+Lastly, Xilinx has a very strong business model, characterized by long product life cycles with a best-in-
+class gross margin profile and significant free cash flow generation.
+
+As we bring AMD and Xilinx together, there are considerable product, technology, market and financial
+benefits. AMD will offer the strongest portfolio of high-performance and adaptive computing products in
+the industry, spanning leadership CPUs, GPUs, FPGAs and adaptive SoCs. This will enable us to take a
+leadership position, accelerating a diverse set of emerging workloads from AI to smart networking and
+software-defined infrastructure.
+
+And while our product portfolios are highly complementary, our approach to technology development is
+actually very similar. Both companies are laser-focused on developing leadership products based on multi-
+generation architectures, modular SoC designs, leading-edge manufacturing and advanced packaging
+technologies.
+
+In manufacturing, we will be able to apply learnings from AMD's early adoption and high-volume
+production ramp of advanced process nodes across Xilinx's products. In packaging, Xilinx has
+demonstrated leadership and significant IP in the 2.5D and 3D die stacking technologies that are becoming
+increasingly important as Moore's law slows.
+
+Looking beyond hardware, we see opportunities to combine our open-source software offerings into a
+unified stack optimized to accelerate computing at the platform and the system level. By combining our
+efforts, we bring together 2 world-class engineering teams with the technology capability and scale to
+build even stronger products and solutions.
+
+From a market perspective, we will cover the most important markets and customers in the world. We will
+have a combined TAM of $110 billion, building on AMD's $80 billion TAM with an additional $30 billion of
+very attractive Xilinx TAM. As we look at growth drivers in the 3- to 5-year time frame, we see significant
+revenue synergy opportunities that can build on AMD's strong organic growth.
+
+In the data center, our EPYC processors have a strong foundation with the largest hyperscale cloud
+providers. We're also gaining significant momentum with enterprise customers and playing a leading role
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+in supercomputing where our products are powering the world's most powerful exascale computers. Xilinx
+has also invested significantly in the data center with leadership in networking, computing and storage
+technologies, notably with significant SmartNIC wins with global hyperscalers. Together, we will be a
+stronger strategic force powering the next-generation data center.
+
+To drive longer-term adoption of our processors in the telecom, edge, industrial and networking markets
+where we have a nascent presence today, we can offer solutions that combine our CPU and GPU compute
+engines with Xilinx's flexible accelerators, SmartNIC products, software stacks and domain expertise to
+unlock additional levels of performance on critical workloads. In telecom, for instance, where Xilinx has
+solutions capabilities and relationships with industry leaders, including Samsung and Ericsson, we will now
+have an accelerated path to market to better address the largely untapped $5 billion market opportunity
+for our EPYC processors.
+
+Financially, the acquisition diversifies our revenue streams and is expected to be immediately accretive to
+margins, EPS and free cash flow generation, all while delivering industry-leading growth.
+
+Finally, I would like to talk about culture. For the last several years, AMD has collaborated with Xilinx as a
+close partner, and I've had the chance to get to know Victor and his leadership team. I can unequivocally
+say that the Xilinx team is one of the best in the industry, and I'm thrilled to welcome them to the AMD
+family. Both AMD and Xilinx share a common culture focused on innovation, execution and collaborating
+deeply with customers.
+
+From a leadership standpoint, Victor and I have a shared vision of where we can take high-performance
+and adaptive computing in the future. And I'm extremely happy that he will be joining AMD as President,
+responsible for the Xilinx business and strategic growth initiatives after the deal closes.
+
+Now I'd like to turn the call over to Devinder to provide some additional color on our third quarter
+performance and some specific financial details of the acquisition. Devinder?
+
+Devinder Kumar
+Senior VP, CFO & Treasurer
+
+Thank you, Lisa. Let me start first with our third quarter results. Third quarter revenue was $2.8 billion,
+up 56% from a year ago, driven by very strong Ryzen and EPYC process sales and the ramp of our new
+semi-custom SoCs. Gross margin was 44%, up 1 percentage point from a year ago, driven by server and
+client processor sales. Operating expenses were $706 million compared to $539 million a year ago, driven
+by increases in R&D and marketing as we accelerated investments in the business to drive future market
+growth and higher variable compensation-related expense. Operating income more than doubled year-
+over-year to $525 million, up $285 million or 119% from a year ago, driven primarily by significantly
+higher revenue. Net income was $501 million, up $282 million or 129% from a year ago, and diluted
+earnings per share was $0.41 per share, more than double the $0.18 per share a year ago.
+
+Turning to the balance sheet. Cash, cash equivalents and short-term investments totaled $1.8 billion.
+We reduced principal debt by $365 million in the quarter, including $200 million of our revolving line of
+credit and $165 million of convertible senior notes. Conversion of the senior notes resulted in a $38 million
+noncash GAAP charge and the issuance of 20 million shares with no impact to diluted share count. Total
+principal debt outstanding was $398 million at the end of the quarter. Free cash flow was $265 million. In
+addition, our senior unsecured credit rating was raised to investment-grade by Moody's investor service in
+the third quarter, reflecting our strong financial results and outlook.
+
+Let me turn to the fourth quarter guidance. Today's outlook is based on current expectations. We expect
+revenue to be approximately $3 billion, plus or minus $100 million, an increase of approximately 41%
+year-over-year and 7% sequentially. In addition, for Q4 2020, we expect non-GAAP gross margin to be
+approximately 45%; non-GAAP operating expenses to be approximately $750 million; non-GAAP interest
+expense, taxes and other to be approximately $30 million; and the diluted share count in the fourth
+quarter is expected to be approximately 1.23 billion shares.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+For the full year 2020, we now expect higher year-over-year revenue growth of approximately 41%,
+driven by the strength of our PC, gaming and data center products. We continue to expect gross margin of
+approximately 45% for the full year, up 1 percentage point from the prior year.
+
+Now I'd like to turn to today's announcement. We have signed a definitive agreement to acquire Xilinx
+in a strategic transaction valued at $35 billion. This is a very compelling transaction from a financial
+perspective. Xilinx has a strong business model characterized by long product life cycles, best-in-class
+margins and strong cash flow, all of which are significantly additive to AMD's financial model. The
+acquisition is expected to be immediately accretive to gross and operating margins, EPS and free cash
+flow generation, and the combined company is expected to continue to deliver industry-leading growth. In
+addition, we believe we can achieve approximately $300 million of overall cost savings on an annualized
+basis within 18 months of closing the transaction. Based on the trailing 12 months, the 2 companies
+combined would have had revenue of $11.6 billion, gross margin of 51%, operating profit of approximately
+21% and generated approximately $1.8 billion of free cash flow.
+
+Turning to the capital structure. The balance sheet of the combined company will be very strong with low
+leverage and an investment-grade profile. On a combined basis, as of the most recent quarter of both
+companies, the total cash balance is $4.9 billion and the debt is $2.4 billion with a gross leverage of 0.85x.
+
+Now let me cover some details of the transaction structure. At close, Xilinx shareholders will receive
+1.7234 shares of AMD for each common share of Xilinx. This represents approximately $143 per share of
+Xilinx based on AMD's VWAP for the 10 trading day period up to and including October 8. The pro forma
+ownership would be approximately 74% for AMD shareholders and 26% for Xilinx shareholders.
+
+We currently expect the acquisition to close by the end of calendar year 2021, subject to required
+approvals and other customary closing conditions. Until then, the 2 companies remain separate and will
+operate independently.
+
+Today is an exciting day for AMD on many fronts. We are very pleased with our market and financial
+momentum. Our strong lineup of products continues to drive strong revenue growth, margin expansion
+and improved profitability. Our acquisition of Xilinx is additive to our financial model and is expected to
+result in meaningful revenue synergy opportunities over the longer term.
+
+Let me now turn it over to Xilinx's CEO, Victor Peng, for some remarks. Victor?
+
+Victor Peng
+President, CEO & Director
+
+Thanks, Devinder. Let me start by echoing Lisa's enthusiasm about the combination of 2 premier
+semiconductor companies and the many opportunities it will create for our customers, our employees
+and for our shareholders. The exponential growth of unstructured data, the rapid expansion of connected
+devices and the plethora of data-intensive applications with embedded AI are driving the need for more
+efficient, high-performance computing solutions. AMD and Xilinx together will accelerate our ability to
+define this new era of computing by providing the most comprehensive product portfolio and computing
+solutions.
+
+Our products will power a wide range of intelligent applications, from the largest data center to the
+edge and to the smallest endpoint. This expanded product portfolio, together with our industry-leading
+engineering capabilities and market expertise, will enable our customers to deploy differentiated solutions
+to market faster.
+
+Our companies share the same vision for transforming people's lives through high-performance
+computing. As Lisa mentioned, we have very similar cultures of innovation, execution excellence and
+collaboration that make this an exciting new chapter for Xilinx employees. I am excited about the future
+of the combined company and accelerating our opportunities to grow the business and lead the new era of
+computing.
+
+And on a personal note, this is my second time joining AMD, and to do that with the Xilinx team just
+couldn't be more thrilling for me. For Xilinx shareholders, this transaction provides a great opportunity for
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+long-term value creation, given the significant diversification benefits they will receive through exposure to
+a broader and much larger growth business when this transaction closes. So I very much look forward to
+bringing our great companies together.
+
+Let me now turn it back to Lisa.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Thanks, Victor. To sum up, we are very pleased with the acceleration of our business in the third quarter.
+We are on track to deliver significant annual revenue growth this year and have never been more
+confident in our trajectory. Our strategic acquisition of Xilinx is compelling for all stakeholders with
+significant value creation for AMD and Xilinx shareholders who will benefit from the future growth and
+upside potential of the combined company.
+
+We have always been very ambitious in our goals. The acquisition of Xilinx is a natural next step in our
+journey. Xilinx is an ideal match for AMD, combining a highly complementary set of products, customers
+and markets with differentiated IP and world-class talent.
+
+With that, let's go to questions, please. Ruth?
+
+Ruth Cotter
+Senior Vice President of Worldwide Marketing, Human Resources & Investor Relations
+Thank you, Lisa. Kevin, if you could poll the audience for questions, please. [Operator Instructions]
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question today is coming from Matt Ramsay from Cowen.
+
+Matthew D. Ramsay
+Cowen and Company, LLC, Research Division
+
+I know a lot of folks will probably say congratulations, but, Lisa, Victor, I really mean it from our end. I
+think a great outcome from all -- everybody's stakeholders.
+
+I guess for my first question, Lisa, on the deal, I noticed in the slides that you guys put together,
+obviously a pro forma model that combines the companies as of the end of the third quarter. But you
+also mentioned, as you did at your Analyst Day back in February, a 20% growth CAGR for the business. I
+wonder if that might apply to the 2 companies after you put them together post-close, and how confident
+you are in that growth rate, given that in the recent times, maybe Xilinx growth has been a little bit slower
+than the core AMD business growth, but obviously there's revenue synergy potential as well. So any
+comments there would be helpful.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Absolutely, Matt. Thanks for the question.
+
+So first of all, we feel -- we're really excited about today. We feel great about our base business. I
+think you can see that in the strength of our results in the third quarter and our full year updated
+guidance. That strategy is playing out very well as we expected, with very strong products driving market
+momentum.
+
+Now all -- as we look forward, at our financial Analyst Day, we talked about 20% CAGR as the right target
+for our company. I think all of that stays on track. We are a high-growth business and we want to remain
+a high-growth business. I think Xilinx brings a lot of opportunities that are additive to that model when
+you look at the markets and the capabilities and just the margins and the free cash flow generation. So
+20% CAGR is the right target for the combined business.
+
+I think we feel very good about the organic growth. And we feel very good about the growth initiatives
+that Victor has started.
+
+Matthew D. Ramsay
+Cowen and Company, LLC, Research Division
+
+My question on sort of the results in the core business. You guys put up server revenue sales that more
+than doubled year-over-year. Your competitor had some -- a rather interesting set of results, some pretty
+disappointing results, I think, from their enterprise and government segments. And they guided for their
+combined data-centric business -- I know that's not exactly the same as server, but they guided for that to
+be down, I think, 25% year-over-year in the fourth quarter. You guys have some momentum. You're going
+to launch Milan. And I think you mentioned in the release some progress on the enterprise side as well.
+But maybe, Lisa, you could back up and give us your context of where the server market is overall right
+now and how it might mean for your revenue into the fourth quarter?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Sure, Matt. So look, the data center business, particularly on the server side, is very important to us.
+We performed very well here in the third quarter, as you said, double from a year-over-year standpoint,
+sequential double-digit growth. We see good momentum across the cloud hyperscalers as well as in the
+enterprise business. We have more platforms that continue to launch here in the third quarter.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+As we look forward from a data center environment, I would say that the overall data center environment
+is actually good. As we go here into the fourth quarter, we are starting to launch Milan in terms of
+shipments to cloud as well as some HPC customers this quarter. OEMs are preparing to launch Milan
+platforms in the first quarter. And I would say it's very much a customer-specific message. Some of our
+cloud customers are going to continue to ramp Rome in the fourth quarter. Several are also preparing for a
+transition from Rome to Milan. But overall, we believe that the demand environment is good.
+
+And the thing that excites us is Milan is just very strong. It's coming in as we expected. Zen 3, we
+previewed some of that performance on the desktop side, but we see a strong translation into TCO
+benefits and performance benefits for our server products. So I mean we look forward to talking about
+that more as we go through the quarter. But yes, so overall, I think the data center business continues to
+be very strategic and performs well for us.
+
+Operator
+
+Our next question today is coming from Vivek Arya from Bank of America.
+
+Vivek Arya
+BofA Merrill Lynch, Research Division
+
+Congratulations on the strong results. I'll actually just focus on the core business.
+
+Lisa, for my first question, you're raising second half sales growth by nearly, I think, about $600 million
+or so. Could you help us dissect and quantify how much of that is coming from the main areas of PCs and
+EPYC servers and semi-custom and GPU? I mean this is a significant guide ahead, and I'm curious what
+created this level of surprise.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. So Vivek, thanks for the question. Our core business is doing very well. I think if you look at some
+of the components of that, the PC market environment is strong. If you look at all the work from home,
+school from home trends, I think that has certainly helped this year. On top of that, our Ryzen 4000 Series
+notebooks are doing very, very well. So we're seeing strong traction in areas that we hadn't been that
+present before like gaming and commercial. So that's one big element. We are ramping our game consoles
+here in the second half of the year. Those are very highly anticipated launches that are coming up shortly,
+and demand for that has been quite strong. And our server business has also performed well.
+
+You'll see us start with the -- you asked about graphics. We'll see gaming graphics here grow sequentially
+in the fourth quarter as we launch our Radeon 6000 Series.
+
+So we just have a combination of a lot of product momentum, product cycles. I will also say that our
+supply situation has also improved as our demand environment has gotten stronger. We've worked closely
+with our suppliers to ensure that we can satisfy as much of that as possible. And so those are all of the
+elements for the strong second half.
+
+Vivek Arya
+BofA Merrill Lynch, Research Division
+
+Got it. And for my follow-up, Lisa, you're now at the 10-ish percent server share mark of the TAM that
+you have identified. Does the next 10% get easier or more difficult? You mentioned you're launching Milan
+soon. Your competitor is launching their Ice Lake. So from the outside, it looks like a like a lot of hand-
+to-hand combat every quarter in the server business. How do we think about the journey for your server
+business from here? Again, does the next 10% become more easier or difficult and why?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Well, I would say it this way, Vivek. I think we have made a tremendous amount of progress in the server
+business. I think the -- if you look at the leadership performance and TCO that we have with Rome, we've
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+seen broad adoption across cloud as well as enterprise, and we've done very, very well in HPC. We think
+that Milan is even better. And our mantra to our customers has been strong road map, you can count on
+us, we will be there when you need us. I think the traction from Milan is stronger than for Rome. I think
+we continue to work hard with our customers to ramp as fast as possible. But you'll see a broader cloud
+adoption. I think you'll see faster cloud adoption. And I think you'll see broader enterprise platforms,
+especially with Zen 3. We talked about some of the single-threaded performance improvements that really
+round out the server portfolio. So I think we're very focused on the data center, and we'll continue to be
+that as a combined company as well.
+
+Operator
+
+Our next question today is coming from Toshiya Hari from Goldman Sachs.
+
+Toshiya Hari
+Goldman Sachs Group, Inc., Research Division
+
+Congrats to both teams. Lisa, as a follow-up to the first question, I wanted to get your view on some of
+the markets within Xilinx. You mentioned in response to the first question that you're comfortable with
+the 20% growth rate for the combined business. We've heard from Victor and his team over the past
+couple of years in terms of how they're thinking about their opportunity set in 5G, data center and the
+core businesses. But how are you thinking about sort of the 3- to 5-year CAGR for data center, comms and
+some of the core markets? Then I've got a follow-up.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Sure, Toshiya. Thanks for the question. So clearly, when we look at our core business or the AMD
+core business, I think we feel very good about the growth in our core markets across PC, gaming and data
+center. I think the product portfolio is very strong.
+
+As we add Xilinx to the portfolio, I think we are -- we've both chosen data center as our strategic focus.
+I think the investments that Victor and the Xilinx team have made are very strategic investments in the
+data center. For us, we have the CPU and GPU strength. Xilinx brings the accelerator capability and very
+strategic SmartNIC technology. I think that's a strong growth vector for the combined company. I think
+the broader markets in communications, in automotive, in industrial and aerospace and defense, those
+are all very attractive markets that can use CPUs and GPUs. And so I think the market presence that Xilinx
+has and the leadership in those markets also help -- sort of have the ability to bring some of the base AMD
+technology in there.
+
+So I think, together, there are a lot of opportunities. I want to be clear, though, first and foremost, both
+businesses are executing very well, and Victor and I intend to keep it that way. So I think the base growth
+profiles of both businesses are very strong. And then we do see significant revenue synergy opportunities
+as we look out into the 3- to 5-year time frame as we bring these portfolios together.
+
+Toshiya Hari
+Goldman Sachs Group, Inc., Research Division
+
+Great. And then as a quick follow-up just on market share trends in both the client business and the
+server CPU business, based on what you're guiding to for Q4 and based on what your competitor is
+guiding to, where do you feel like -- where do you see you guys -- yourselves landing from a market share
+perspective in both the client business and the server business exiting this year? And more importantly,
+based on the design wins that you've already secured, where do you see yourselves kind of in the middle
+part of '21 or exiting '21?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Well, what I would say is, based on our performance in the third quarter and our view for the second half
+of the year, we do believe we'll gain share in both markets. And I think I've always said, this is a journey.
+So the key for us is to continue to execute very well. I think the customer momentum is definitely there
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+and sort of our goal is to continue to delight our customers and execute well. So I do think we're making
+progress on that journey for share gain, and we'll continue to do that.
+
+Operator
+
+Our next question is coming from Stacy Rasgon from Bernstein Research.
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+For my company question or business question, in Q4, you're up 41% year-over-year with the guidance.
+Do you think you can keep that kind of magnitude of growth into the first half of next year, especially as
+the PC market maybe comes under more pressure just given the potential pull forward from the work from
+home dynamics? How should we be thinking about that trajectory?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+So look, I think there's no question, it's a very strong demand environment for us right now. As we look
+into the first half of the year, it's a little bit early to be specific about 2021, but what I will say is that we
+believe there is some market phenomena here, but there's also very AMD-specific product gains that we're
+seeing.
+
+I think our notebook portfolio has never been better. And if I look at the strength of the new platforms
+that are coming up and what we see into 2021, I think we're really excited about that. Our desktop
+products with our recent launch of Ryzen 5000 is very strong. This is the first year of the console cycle.
+So the console cycle is a little bit different in the first year. I think you will see some very strong demand
+there. And then we're right in the middle of launching Milan and EPYC.
+
+So I think we feel good about the growth prospects into 2021. We'll get into a little bit more of the
+quarterly dynamics as we finish out this year. But I think there is market, and then there is just what our
+product portfolio is doing right now.
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Got it. That's helpful. For my Xilinx question, so the idea of a CPU company buying an FPGA company,
+obviously, has been tried before. Your competitor tried this as well. It was not terribly successful to this
+point. How would you say your vision for what you can do with Xilinx is different maybe from what Intel
+might have viewed with Altera? And maybe what lessons have you potentially learned from the issues that
+they've had with that deal?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Absolutely, Stacy. I'll make a few comments, and then I'm sure Victor will have a few comments.
+
+Look, we've been thinking about this for some time. And I think it's actually a very different situation.
+Xilinx is the market leader. I mean, if you look at how their business has grown over the last few years,
+their market share has continued to grow. I think both companies are executing really well.
+
+So you ask why now? I mean why now is actually -- we feel very good about our base businesses. I think
+the -- people look at our businesses and say they're complementary, and they are very complementary
+from a product and market standpoint, but we have sort of important intersections around the data center
+focus and then also around the technology sort of strategy, right?
+
+I mean we're both leading-edge technology users. We both are partnered with TSMC. We both have really
+leaned into this modular design environment and Xilinx is a leader in some of that -- some of the 2.5D,
+3D integration. We're both invested in software and open source. So there are a lot of synergies that are
+sort of under the covers that we see, and we see very strongly, and I think you will see as the road maps
+execute.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+And then the last point I'll mention is I think our cultures are very, very aligned. And we're both -- Victor
+and I are both engineers at heart. We love the technology. We have a common vision. I'm really, really
+happy that he's joining me on this journey. I think we have a bold vision of what we think we can do for
+the industry and for our joint companies. And I think that's what we see as what's different.
+
+And as you know, Stacy, I mean, I haven't been big on M&A. We're not doing M&A for M&A's sake. I mean
+this is such a unique opportunity. There actually is no better match in the industry for us than Xilinx.
+
+So Victor, do you want to add some comments?
+
+Victor Peng
+President, CEO & Director
+
+Yes. I think you put it very well, Lisa. I think this is completely different than that transaction. And I guess
+I'll just lean into the fact that, as Lisa said, we have very common vision for the transformations that
+are happening, not only in the data center, but I would say at the edge and even endpoint applications.
+And I'm super excited about joining back with AMD and with the Xilinx team. And I think we really do
+have very similar cultures, very focused on innovating, very focused on execution and strong teamwork
+culture for both within the company and also with customers. And I think this is what it's all about. We're
+going to create tremendous value for customers. And I'm really excited to bring some of the underlying
+technologies that Lisa talked about to the floor, and you'll see that over time. So -- and personally, I'm all
+in. So we'll make sure that we integrate well.
+
+Operator
+
+Our next question today is coming from Mark Lipacis from Jefferies.
+
+Mark John Lipacis
+Jefferies LLC, Research Division
+
+Congratulations on the announcement. I guess I would like to pick up on Victor's point about computing
+at the edge. It seems like there's a lot of talk at edge computing. It seems like base stations are a logical
+place for that to happen, especially as 5G is deployed. And as you think about delivering a joint solution,
+a joint AMD-Xilinx solution, does the architecture of the compute platform at the edge, is it different from
+-- does it differ from the kind of what we think about today as the core data center? And is the value
+proposition for AMD and Xilinx together, is it particularly advantaged or unique from the other solutions,
+other kind of architectural solutions that have been proposed out there? That's the first question. I have a
+follow-up, too.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Sure, Mark. So look, we'll have a very strong portfolio if you look at all of the elements between
+CPUs, GPUs, the traditional FPGAs as well as the adaptive SSCs that Xilinx has been investing in. I think
+that portfolio lends a lot of solution capability when you look at specific workloads.
+
+So on the accelerator side, as you know, we've been investing on the GPUs with Radeon Instinct. And
+the focus there has been on training and has been on HPC environments. Victor's focus has actually been
+quite a bit at the edge. I think we share the idea that a common software environment is so important to
+try to accelerate the usage of those solutions in the market. And so I think we'll have sort of a basket of
+technology that can be used very well from the infrastructure cloud side to the edge and endpoint.
+
+I don't know, Victor, if you'd like to add anything there?
+
+Victor Peng
+President, CEO & Director
+
+Yes, sure. I mean, I think there is a lot that we can leverage from a technology and architecture
+perspective, but I think some of the differences are, obviously, primarily the workload and also there's
+more element for needing more real-time kind of responses, low latency. I think the fact that the
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+workloads are different and you want to customize some of those things, that's where I think the
+combination of AMD and Xilinx is very powerful because we can handle a lot of the customizations and
+optimizations and fast real-time response. But then for some of the really very heavy compute-intensive
+things, there's a lot of great technology out of AMD. And putting the 2 together seamlessly also with
+software really makes that a powerful solution. And I think that's what this is about, comprehensive and
+powerful solutions, right, tailored to the workloads, whether that's the edge, even endpoints, and of
+course, in the cloud.
+
+Mark John Lipacis
+Jefferies LLC, Research Division
+
+That's very helpful and insightful. The follow-up is, obviously, there's going to be a level of integration with
+AMD and Xilinx products together. Can you help us understand to what extent is the integration happen on
+the hardware side in your kind of vision versus the software? Is it FPGAs and CPUs and GPUs integrated on
+monolithic dies or with the interposers? Or is there -- you have an architecture with a -- you demonstrate
+a successful architecture with Infinity fabric and you stitch them together that way, and then you have a
+software layer also that's integrating these things? If you can provide any color on that vision, that would
+be helpful.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Sure, Mark. Look, I think the days of monolithic integration are probably over. We've been on this chiplet
+methodology because it's the right thing to do. You get the right compute for the right workloads.
+The Xilinx team is also very advanced in thinking on this area. I think there will be some, let's call it,
+opportunities for us to do things on the hardware side, but I view it more as market-specific optimization
+as we think about what customers need. And then certainly, on the software environment, we are very
+focused on doubling down on the software environment because that's really the key to accelerate
+adoption. So lots of opportunities for us to bring the portfolios together, but really, I think the opportunity
+is at the solution level with customers and the important workloads.
+
+Operator
+
+Our next question today is coming from Joe Moore from Morgan Stanley.
+
+Joseph Lawrence Moore
+Morgan Stanley, Research Division
+
+On the deal, you talked about $300 million in cost savings 18 months out. Can you talk about where that
+might come from? And what are the priorities in terms of -- I assume you want to keep the sales force
+intact and things like that. Just how are you going to approach that cost savings?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Sure, Joe. So the majority of those cost savings are really on just the scale of bringing the 2
+companies together, so if you think about our opportunities on the COGS side as well as some of the public
+company functions and those kinds of things. Our intent on R&D is we've been growing, and we're going
+to continue to grow R&D. I think what it will allow us to do is -- actually, there will be some synergy on
+some things that we're both doing like some of the IPs that are just sort of necessary IPs, but it allows us
+to invest more in things like AI and software and so on. So we're not counting on any major changes at all
+to either business from the running of the business. I think the emphasis here is that both companies are
+executing extremely well, and we're going to continue to keep it that way. And so Victor will continue to
+run the Xilinx business. And obviously, we have a lot to execute on the AMD side, but these synergies are
+really more from COGS and just public company type stuff that go on.
+
+Joseph Lawrence Moore
+Morgan Stanley, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+Great. And then in terms of the business, can you talk about data center GPU? You mentioned HPC
+opportunities. Can you give us just a short update on cloud gaming and then the timing of CDNA?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. So you'll hear more about CDNA later this year, so in the -- here in a couple of -- in a month or 2.
+
+As we look at the data center GPU space, I think the cloud opportunities that we have are continuing
+to ramp I would say, but the large HPC opportunities really come into play in 2021. So we should see a
+significant ramp in our data center GPU business in 2021 as some of those wins are publicly announced
+and will ramp next year.
+
+Operator
+
+Our next question today is coming from John Pitzer from Crédit Suisse.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Congratulations, Lisa and Victor, both on the deal and Lisa on the solid results. My first question is just on
+the core business and gross margins. And I apologize because I've been bouncing around a couple of calls
+this morning.
+
+But Lisa, I'm wondering, how much -- there were some news presses in the calendar third quarter that
+perhaps the ramp on the gaming side had incurred some more costs than originally expected. But I guess,
+importantly, when you look at gaming as a percent of mix and the fact that Q3 is kind of the first gaming
+quarter, which just tends to be the lowest gross margin quarter, it strikes me that September should be a
+gross margin bottom for the overall business. I'm wondering if you could just help me understand if that's
+a fair comment and how I should think about improvement in gross margin in gaming over time.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Sure, John. So certainly, we ramped heavily the console business here in the third quarter. I think
+we were right at our margin guidance. As we go sequentially into the fourth quarter, we saw -- we see
+an increase in margins from 44% to 45%. I think there are a couple of aspects there. So we do have the
+console business growing sequentially. And so that is a bit margin decretive. However, we also have our
+other businesses growing as well that offset that. It is true that the early parts of the console ramp are
+-- typically, we're working through some ramp issues. I would say the ramp is going quite well, and the
+demand environment is very strong overall. And we continue to work on satisfying all of the demand.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+That's helpful. And then going back to the deal, the rationale around both the data center and wireless/
+wireline is fairly straightforward and obvious. I'd love to get your view kind of on the broader industrial
+and auto buckets that Xilinx plays in today, the distribution channel, which is not necessarily something
+that you guys deal with in your core business. And specifically, on the auto side, is there incremental
+silicon opportunity for core AMD on the auto side with Xilinx?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Absolutely, John. So clearly, there's a lot of synergy on the data center and the comm side, as you
+mentioned, but that core market business, Xilinx's core market business is a beautiful business. I mean if
+you just look at the product life cycles, the customer diversity and just how those go. So we're very happy
+with adding that to the portfolio. I think it adds sort of a different rhythm to the rest of our business.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+And as I said earlier, we're very cognizant that it's a different business. It will be -- it will continue to
+run as it runs today. I've had some experience in the embedded business before. So we expect that to
+continue to be a very important driver of the overall financial model that we're putting together.
+
+Victor Peng
+President, CEO & Director
+
+And if I could add to that, I definitely see opportunity for AMD's products in the auto business. We do a lot
+there, but if you look at the amount of computing that's being done in the main controller, central units,
+there's a lot of need for some very, very powerful computing. And we handle a lot of the sensor fusion
+or real-time kind of applications. And so I absolutely think that there's opportunity there. And there are
+certainly things, of course, we've learned through the more than 2 decades of servicing the auto business
+that we can have some mutual learnings back and forth and how to go-to-market with that and support
+those customers.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes, absolutely, Victor. That's a great point. I think automotive is a long-term opportunity for us with the
+technology that we have.
+
+Operator
+
+Our next question is coming from Hans Mosesmann from Rosenblatt Securities.
+
+Hans Carl Mosesmann
+Rosenblatt Securities Inc., Research Division
+
+Congrats guys. Good stuff here. A question on capacity. Lisa, you mentioned that it got better here in the
+back half of 2020. But as you look at 2021, the 7-nanometer, and I assume 5-nanometer specifically, it
+was the end, I suppose, how is that capacity looking like? And then I have a follow-up.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Thanks, Hans. So look, our second half has certainly been very strong, and it was stronger than
+we originally planned. And so -- and we've worked closely with our suppliers to improve the supply
+availability. And I would say that even with that, demand still exceeds supply in certain segments.
+
+As we go into 2021, I think we are planning for success. And so we're working very closely across the
+supply chain to ensure that we have enough wafer capacity as well as back end capacity. And we're going
+to continue to work on that. But certainly, there are areas where we would like the supply to be higher,
+and we're working on that.
+
+Hans Carl Mosesmann
+Rosenblatt Securities Inc., Research Division
+
+Okay. And that's for both 7 and 5, just as a general comment, that you're seeing?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Yes, I'm not making a specific technology statement, but other than to say that we believe we will
+have the ability to support our strong growth objectives.
+
+Hans Carl Mosesmann
+Rosenblatt Securities Inc., Research Division
+
+Okay. That's helpful. And then a question on the Xilinx part of this deal. They have, as you know, a very
+good CUDA-like software compiler platform, Vitis. And I believe that AMD would benefit from that. But how
+do you see that kind of being woven into AMD? And does AMD have something like that in the works? How
+would that play out?
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. No, we've both been investing in the software environment to really make our products easier to
+use. I agree with you, I think Xilinx has a very strong software platform. We've also been investing in the
+ROCm platform for our GPUs. And so those will be some of the things that we bring together over time.
+
+Victor Peng
+President, CEO & Director
+
+Yes. On that note, I'd just like to point out, many people may not be aware that we've been collaborating
+on ROCm and some other of the -- HSA in the past and a lot of the other initiatives that AMD has been
+driving in sort of this open development environment.
+
+Operator
+
+Our final question today is coming from Aaron Rakers from Wells Fargo.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+I have one on the business and then one on the acquisition as well. Just real quickly on the business, as
+we think about the EESC segment for the guide into this current quarter, I'm just curious if you can help
+us appreciate how you're looking at the semi-custom business relative to the EPYC server business, and
+what you're necessarily seeing in the competitive landscape right now? And then I have a quick follow-up.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. So I think the -- as I mentioned in the prepared remarks, we're seeing a strong semi-custom
+environment here in the first year. Usually, Q3 is the peak for us in semi-custom. And this year, we'll see
+sequential growth into Q4 just given the strong demand environment, but I think that's a result of the
+product space.
+
+I think at the -- when you talk about the competitive environment, I think the competitive environment,
+I mean, it's about the same. I mean, I think, it's always a competitive environment, but our focus has
+been on our product strategy and working with our customers. So I wouldn't say I've seen a change in
+the dynamic. I think there's a lot of excitement in our server business around Milan and bringing Milan to
+market, even -- ramping that even faster than we ramped Rome. And so yes, that's where the focus is.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+And then on the acquisition side, I'm just curious of how you see or envision the role of SmartNIC? And
+how quickly you see the kind of the portfolios combining with regard to the SmartNIC category with regard
+to the Xilinx and then embedding some of the core AMD compute capabilities along with that SmartNIC?
+I'm just curious on what you see happening, data center architecture-wise, around that evolution.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Look, we -- the SmartNIC, the technology and just the overall acceleration technology in the data
+center, we think, is very important. I think Xilinx has made significant investments there that's additive
+to our data center portfolio today. I think both of us have been very engaged in the top hyperscalers, and
+we will continue to do that. We also see opportunities over time in the enterprise segment as well. So I
+think the relationships that we have across all the top customers can help accelerate some of that solution
+development, and that will be a key focus for the combined company.
+
+Victor Peng
+President, CEO & Director
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+And if I could add, just maybe getting a little bit deeper on the technology side. AMD has been leading in
+core density. And with SmartNICs offloading the cores, it improves the overall throughput and TCO for the
+data center. And again, we also both have very high-speed interconnect leadership. So I think it's really --
+that is a good example of delivering a better overall solution for the data center customers.
+
+Operator
+
+We've reached end of our question-and-answer session. I'd like to turn the floor back over for any further
+closing comments.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Thank you -- yes -- no, I was just going to say so thanks all for joining today. I know we covered a
+tremendous amount of material across our business and the acquisition. We look forward to -- really look
+forward to bringing these 2 companies together. I think it's a very special and unique moment for us, and
+we look forward to talking more about it as we go forward.
+
+Operator
+Thank you. That does conclude today's teleconference. You may disconnect your lines at this time, and
+have a wonderful day. We thank you for your participation today.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+ADVANCED MICRO DEVICES, INC. FQ3 2020 EARNINGS CALL |  OCT 27, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+

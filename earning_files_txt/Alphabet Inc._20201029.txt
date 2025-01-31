@@ -1,0 +1,980 @@
+Alphabet Inc. NasdaqGS:GOOG.L
+FQ3 2020 Earnings Call Transcripts
+Thursday, October 29, 2020 8:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2020-
+
+-FQ4 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+11.20
+
+16.40
+
+Revenue  (mm)
+
+42883.75
+
+46173.00
+
+Currency: USD
+Consensus as of  Oct-29-2020 5:30 AM GMT
+
+46.43
+
+7.67
+
+13.43
+
+44.57
+
+57.04
+
+50750.27
+
+173529.54
+
+207808.93
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+12.59
+
+10.76
+
+8.21
+
+11.20
+
+15.35
+
+9.87
+
+10.13
+
+16.40
+
+21.92 %
+
+(8.27 %)
+
+23.39 %
+
+46.43 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Call Participants
+
+EXECUTIVES
+
+James H. Friedland
+Director of Investor Relations
+
+Mark Stephen F. Mahaney
+RBC Capital Markets, Research
+Division
+
+Ross Adam Sandler
+Barclays Bank PLC, Research
+Division
+
+Ruth M. Porat
+Senior VP & CFO
+
+Sundar Pichai
+CEO & Director
+
+ANALYSTS
+
+Brent John Thill
+Jefferies LLC, Research Division
+
+Brian Thomas Nowak
+Morgan Stanley, Research Division
+
+Colin Alan Sebastian
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Daniel Salmon
+BMO Capital Markets Equity
+Research
+
+Douglas Till Anmuth
+JPMorgan Chase & Co, Research
+Division
+
+Eric James Sheridan
+UBS Investment Bank, Research
+Division
+
+Heather Anne Bellini
+Goldman Sachs Group, Inc.,
+Research Division
+
+Justin Post
+BofA Merrill Lynch, Research
+Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Presentation
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the Alphabet Third Quarter 2020
+Earnings Conference Call. [Operator Instructions]
+
+I'd now like to hand the conference over to your speaker today, Jim Friedland, Director of Investor
+Relations. Please go ahead.
+
+James H. Friedland
+Director of Investor Relations
+
+Thank you. Good afternoon, everyone, and welcome to Alphabet's Third Quarter 2020 Earnings
+Conference Call. With us today are Sundar Pichai and Ruth Porat.
+
+Now I'll quickly cover the safe harbor. Some of the statements that we make today regarding our
+business, operations and financial performance, including the effect of the COVID-19 pandemic on
+those areas, may be considered forward-looking. And such statements involve a number of risks and
+uncertainties that could cause actual results to differ materially. For more information, please refer to
+the risk factors discussed in our most recent Form 10-K filed with the SEC and in our Form 10-Q for the
+quarter ended September 30, 2020, expected to be filed with the SEC later today.
+
+During this call, we will present both GAAP and non-GAAP financial measures. A reconciliation of non-GAAP
+to GAAP measures is included in today's earnings press release, which is distributed and available to the
+public through our Investor Relations website located at abc.xyz/investor.
+
+Given the busy schedule this afternoon, we've shortened our opening remarks so that we can move more
+quickly to take your questions. And now I'll turn the call over to Sundar.
+
+Sundar Pichai
+CEO & Director
+
+Thank you, Jim, and good afternoon, everyone. Thanks for joining us today.
+
+This quarter, our performance was consistent with the broader online environment. It's also a testament to
+the investment we have made to improve Search and deliver a highly relevant experience that people turn
+to for help in moments big and small. We saw an improvement in advertiser spend across all geographies
+and most of our verticals.
+
+With the world accelerating its transition to online and digital services, in Q3 we also saw strength in
+Google Cloud, Play and YouTube subscriptions. This is the third quarter we are reporting earnings during
+the COVID-19 pandemic.
+
+Access to information has never been more important. This year, including this quarter, showed how
+valuable Google's founding product, Search, has been to people. And importantly, our products and
+investments are making a real difference as businesses work to recover and get back on their feet.
+Whether it's finding the latest information on COVID-19 cases in their area, which local businesses are
+open or what online courses will help them prepare for new jobs, people continue to turn to Google
+Search.
+
+You can now find useful information about offerings like no-contact delivery or curbside pickup for 2
+million businesses on Search and Maps. And we have used Google's Duplex AI technology to make calls to
+businesses and confirm things like temporary closures. This has enabled us to make 3 million updates to
+business information globally.
+
+We know that people's expectations for instant perfect searches are high. That's why we continue to invest
+deeply in AI and other technologies to ensure the most helpful search experience possible.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Two weeks ago, we announced a number of Search improvements, including our biggest advancement in
+our spelling systems in over a decade, a new approach to identifying key moments in videos and one of
+people's favorites, hum to search, which will identify a song and artist based only on humming. We also
+announced that Bird, a huge breakthrough in natural language understanding that we introduced last year,
+now improves results for almost every English search query.
+
+We are also investing in improving the shopping experience in Search to help people find the best products
+and prices available from a wide range of merchants. We recently added easy-to-see price comparisons
+to help consumers know if they are getting a good deal. We have also improved our features like price
+tracking so people can request an alert if there is a discount on a product they are following.
+
+These investments are also benefiting merchants and advertisers and helping them recover. As of today,
+merchants can list products for free on our Shopping tab in 48 countries around the world. For advertisers,
+we recently announced a new Insights page in Google Ads to help businesses better understand consumer
+trends and track current search demand for products and services.
+
+We're also investing to create improved search experiences that provide additional value to news
+publishers. We recently committed $1 billion in investments that include licensing content from national,
+regional and local news publishers for Google News Showcase, a new product that features the editorial
+curation of award-winning news shows. We have signed partnerships with nearly 200 publications around
+the world, with more to come.
+
+We know our success in Search is not guaranteed. We are proud that people choose Google Search not
+because they have to but because it's helpful. We remain committed to investing to build the most helpful,
+most trusted search experience, just as we have for the last 22 years.
+
+On that note, regarding the DOJ's lawsuit, we believe that our products are creating significant consumer
+benefits, and we'll confidently make our case. Our company's focus remains on continuing our work to
+build a Search product that people love and value.
+
+Moving on to other parts of our business this quarter. In hardware, we highlighted some great new
+products available for the holidays. Our new Pixel phones bring together the very best of Google's
+hardware, software and AI at an affordable price with new camera and assistant features. And our latest
+Chromecast now comes with Google TV, which brings together movies, shows and live TV from across
+apps and subscriptions and organizes them for you. We are pleased with the positive reviews, and we
+have a terrific product road map ahead.
+
+On to YouTube. People come to YouTube for entertainment, information and opportunities to learn
+something new. As a sign of the times, views for guided meditation videos are up 40% since mid-March,
+while DIY facemask tutorials have been viewed over 1 billion times. YouTube subscriptions also continued
+to grow. YouTube now has over 30 million music and premium paid subscribers and over 35 million
+including those on free trials. YouTube TV now has more than 3 million paid subscribers.
+
+Next, Cloud. Three trends are driving the continued momentum of our Cloud business. First, as the
+shift to digital accelerates, Google Cloud continues to provide a foundation for data processing and
+analytics, one of the fastest-growing segments of the market. BigQuery, which provides real-time
+and predictive analytics, is winning retailers like Best Buy, helping them create better experiences for
+shoppers. Customers value our differentiated AI/ML-based industry-specific solutions. This is leading to
+significant wins with brands like Unilever, Amwell and Reckitt Benckiser.
+
+Additionally, we are working with government agencies like the U.S. Navy to modernize maintenance
+operations for vessels and facilities. We are also partnering with the Defense Innovation Unit, part of the
+U.S. Department of Defense, to help military doctors with cancer detection research. And recently, we
+signed an enterprise agreement with the U.S. Department of Energy to help scale research efforts and
+innovate across national labs and field sites.
+
+Second, customers are increasingly moving to the cloud to drive efficiencies and lower IT costs.
+Our strength in multi-cloud is an advantage here. This is helping us win large data center and IT
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+transformation deals like Nokia, which recently announced it's migrating and modernizing approximately
+30 data centers across 12 countries on to Google Cloud.
+
+And third, the future of work is creating a more collaborative world. Customers are looking to support
+hybrid work environments, and we are seeing significant growth in demand. Earlier this month, we
+announced Google Workspace, which brings together all our communication and collaboration apps
+and ensures they work better together. This is helping organizations like the state of West Virginia and
+shipping company Ocean Network Express improve collaboration and productivity for their employees.
+Google Workspace continues to grow. For example, Google Meet saw a peak in Q3 of 235 million daily
+meeting participants and more than 7.5 billion daily video call minutes.
+
+Finally, in our Other Bets, Waymo announced its fully autonomous ride-hailing service in suburban Phoenix
+will open to the public, making it the only company to offer a fully autonomous service for riders. Waymo
+also entered into a strategic global partnership with Daimler Trucks to enable fully autonomous trucking.
+
+Before I close, I want to reiterate our 4 key areas of focus, which you've heard me talk about all year.
+First, creating the most helpful products for everyone. Our investments in Search, Maps and Shopping
+that I discussed earlier as well as YouTube are prime examples. Second, providing the most trusted
+experiences for our users. We continue to work hard to keep users safe and put them in control of their
+information. Every day, Gmail blocks more than 100 million phishing attempts, and Google Play Protect
+scans over 100 million apps for malware and other issues. Third, executing at scale productively, securely
+and collaboratively; and finally, creating sustainable value, which means creating financially viable and
+self-sustaining products.
+
+Before I hand over to Ruth, one important update. Starting with the results for the fourth quarter of
+2020, we'll break out Google Cloud as a separate reporting segment. I'm working with Ruth and Thomas
+Kurian to make investment decisions to drive progress here. As we have told you on these calls, given
+the progress we are making and the opportunity for Google Cloud in this growing global market, we
+continue to invest aggressively to build our go-to-market capabilities, execute against our product road
+map and extend the global footprint of our infrastructure. With this segmentation, you will additionally see
+information about the scale of our investments, which would help you gauge the progress we are making
+on the multiyear path ahead to create sustainable value.
+
+Thanks to all the Googlers around the world for everything you're doing to help our users and partners. I
+hope everyone stays safe. And let me reiterate my gratitude to essential workers, health care providers,
+first responders, teachers and scientists everywhere.
+
+With that, I'll now turn it over to Ruth.
+
+Ruth M. Porat
+Senior VP & CFO
+
+Thank you, Sundar. We are very pleased by our results in the third quarter, which reflect both broad-based
+increases in advertiser spending in Search and YouTube as well as ongoing strength in our non-advertising
+revenue lines, in particular Google Cloud and Play.
+
+Starting with consolidated Alphabet results, our total revenues in the quarter were $46.2 billion, up
+14% year-on-year and up 15% in constant currency. Our total cost of revenues was $21.1 billion, up
+20% year-on-year, primarily driven by other cost of revenues, which was $13 billion and up 29% year-
+over-year. The biggest factors here again this quarter were costs associated with our data centers and
+other operations including depreciation and then content acquisition costs, primarily driven by costs for
+YouTube's advertising supported content followed by costs for subscription service content.
+
+Operating expenses were $13.8 billion, up 1% year-on-year, reflecting both the impact of actions taken
+earlier in the year as a result of COVID as well as lapping a $554 million legal settlement in the third
+quarter of 2019. In terms of the 3 component parts of OpEx, first, the deceleration in R&D growth was due
+primarily to slower head count. Second, the year-on-year decline in sales and marketing expenses reflects
+a planned reduction in advertising and promotional spend that we implemented toward the end of the first
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+quarter. Third, G&A growth reflects the lapping of the settlement. All 3 categories benefited from lower
+T&E expenses due to COVID.
+
+Head count was up 4,623 from the second quarter. Again, the majority of new hires were engineers and
+product managers. In terms of product areas, the most sizable head count increases were again in Google
+Cloud for both technical and sales roles.
+
+Operating income was $11.2 billion, up 22% year-over-year. And our operating margin in the quarter was
+24%.
+
+Other income and expense was $2.1 billion, which primarily reflects unrealized gains in the value of
+investments in equity securities. Net income was $11.2 billion. Operating cash flow was $17 billion, with
+free cash flow of $11.6 billion in the quarter and $34 billion in the trailing 12 months. We ended the third
+quarter with $133 billion in cash and marketable securities.
+
+Let me now turn to our segment financial results, starting with our Google segment. Total Google
+revenues were $46 billion, up 14% year-over-year. Google Search and other advertising revenues were
+$26.3 billion in the quarter, up 6% year-over-year, as advertiser spend began to pick up in August.
+
+YouTube advertising revenues were $5 billion, up 32% year-on-year driven by ongoing substantial growth
+in direct response followed by a rebound in brand advertising from increased spending by advertisers.
+Network advertising revenues were $5.7 billion, up 9% year-on-year.
+
+Turning to Google Cloud, including GCP and Google Workspace, which was previously known as G Suite.
+Revenues were $3.4 billion for the third quarter, up 45% year-over-year. GCP maintained the very
+strong level of revenue growth it delivered in the second quarter, and its revenue growth rate was again
+meaningfully above Cloud overall. Growth in Google Workspace revenues was driven by seat growth
+followed by growth in average revenue per seat.
+
+Other revenues were $5.5 billion, up 35% year-over-year, primarily driven by growth in Play and YouTube
+non-advertising revenues. Within Play, app revenues in the third quarter benefited primarily from an
+increase in the number of active buyers as well as increased spend per buyer. Within YouTube subscription
+revenues, we continued to benefit from subscriber growth across its various offerings.
+
+Google operating income was $12.6 billion, up 17% versus last year. And the operating margin was 27%.
+
+As to our Other Bets, revenues in the third quarter were $178 million. The operating loss was $1.1 billion.
+
+Let me end with our outlook. Regarding revenues, in the third quarter, we benefited from a broad-based
+improvement in advertiser spend across all geographies and nearly all verticals. This is reflected in both
+search results as well as the rebound in brand advertising spend on YouTube. While we're pleased with our
+performance in the third quarter, there is obviously uncertainty in the external environment.
+
+In terms of Google Cloud, we're pleased with the consistent strong revenue growth that you saw again
+this quarter, reflecting the extraordinary secular trend underway. And with respect to other revenues,
+the primary driver of growth was Play, where revenue growth reflected elevated engagement during the
+pandemic on top of strong underlying growth. There are signs that user behavior is beginning to return to
+normalized levels.
+
+Moving on to profitability. We are pleased with the improvement in profitability versus the prior quarter,
+reflecting both the revenue performance versus Q2 as well as the tactical adjustments we made to slow
+down certain categories of spend in response to COVID. In particular, the deceleration in head count
+growth this quarter reflects the actions we took at the outset of the pandemic to focus hiring on our
+highest-priority areas like Google Cloud. Excluding the impact of closing the pending Fitbit acquisition, we
+expect a moderate further deceleration in the pace of head count growth in the fourth quarter.
+
+We also saw the impact of steps we took to slow down some categories of marketing spend. In the third
+quarter, sales and marketing expenses declined year-on-year, primarily due to a planned slowdown in
+ads and promo. We expect a more moderated year-on-year decline in sales and marketing in the fourth
+quarter as we increase spend sequentially to support product launches and the holiday season.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Turning to Capex. Once again, this quarter we had a year-on-year decline in investments, primarily due to
+a reduced pace of real estate acquisitions, which we implemented at the outset of the pandemic. Servers
+continue to be the largest driver of investment in the third quarter, followed by data centers. Our CapEx
+outlook for the full year has not changed as we continue to expect a modest decrease in 2020 compared
+with last year.
+
+Looking ahead, we remain focused on making the right investments to support growth. As Sundar
+said in his opening comments, we continue to invest where we see the potential to create long-term
+sustainable financial value, including investing aggressively to support growth in Cloud. In addition, given
+the acceleration in digital transformation, we are focused on ensuring that we remain well positioned to
+deliver for users and advertisers in this evolving environment.
+Thank you. Sundar and I will now take your questions.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] And our first question comes from Eric Sheridan from UBS.
+
+Eric James Sheridan
+UBS Investment Bank, Research Division
+
+Maybe I could ask 2 of Sundar on a high level. You called out some of the innovation you're aiming for
+over the medium to long term with respect to Search. Could you take a step back and maybe give us your
+sense of how Search is going to evolve from the product it is today where there's a lot of input by the
+user? Just sort of the push dynamic with the Discover feed and Discovery ads and things that could drive
+both engagement and monetization across your platform.
+
+And the second part of the question was it seems like you're taking a little bit of a different tactic with
+your hardware strategy this year. There was a little bit less of it, and it was more on mid- to lower end of
+the price range of hardware. How does hardware and broadly timely Assistant into the hardware strategy
+fit broadly, Sundar, into your view for where Search is going for the medium to long term?
+
+Sundar Pichai
+CEO & Director
+
+Thanks, Eric. Good questions. On Search, you're right, today particularly with mobile and with ambient
+computing, that is you having access to computing across other form factors, I think information, both you
+go looking for it, and there are times it's important that you have relevant information at your fingertips.
+So I do think about it as a holistic user journey. And obviously in Search, we'll continue to evolve.
+
+Discover has been very good in terms of -- Discover and YouTube both play a role in making sure people
+are getting relevant information. And I think for us, it's important holistically, we are meeting users'
+information needs, and out of which the monetization opportunity also works as well. So long -- this is
+why be it Discover or be it how we pick up on YouTube, all of that matters for us.
+
+On your second question on hardware, I'm excited about the -- we are doing some deeper investments in
+hardware, which are -- some of it takes 2 to 3 years to come together. And so I'm excited at the terrific
+road map ahead. I think we have definitely shown with Pixel 4a, Pixel 5, clear value proposition, and we'll
+build on that.
+
+Our portfolio, we are thoughtfully thinking about what are the important form factors which matters. And
+we do think about it with a view of where Search and Assistant will be important as well. So in many
+ways, hardware is there to strategically benefit both how we guide the Android ecosystem, how do we
+make sure information is right there at users' fingertips. And so those are both strategic views we take
+into it as well.
+
+But I'm excited about the road map ahead. And next year, you will see us lean more into -- some of our
+deeper investments will come into play there.
+
+Operator
+
+And our next question comes from Doug Anmuth from JPMorgan.
+
+Douglas Till Anmuth
+JPMorgan Chase & Co, Research Division
+
+Ruth, we appreciate the incremental color on 3Q and 4Q expenses. I was just hoping that you could help
+us understand the cost structure a little bit more kind of as we're coming out of this and just whether
+you're anticipating any more notable changes just coming out of the pandemic, kind of around the
+sustainability of the margin improvements that you saw in this quarter.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Ruth M. Porat
+Senior VP & CFO
+
+Thanks for that, Doug. So as I said, as a result of COVID, we did make tactical adjustments to slow the
+pace of spend in certain categories. And that started late in the first quarter. And in part, that's what you
+see here, plus the impact from the improvements in revenue performance.
+
+And we do remain focused on optimizing efficiency where we can. We've said that on many prior calls.
+But as we also discussed with you on prior calls, as both Sundar and I noted today, we are committed to
+making the right investments to support long-term profitable growth.
+
+I think what's exciting in this environment, there appears to be an acceleration in digital transformation
+that underscores the importance of the products and services that we provide and the longer-term
+opportunities. So we will continue to invest to best position us for the long-term opportunity.
+
+An obvious example is Cloud. We do intend to maintain a high level of investment given the opportunity
+we see. That includes the ongoing increases in our go-to-market organization, our engineering
+organization as well as the investments to support the necessary CapEx. So hopefully that gives you a bit
+more color there.
+
+Operator
+
+And our next question comes from Heather Bellini from Goldman Sachs.
+
+Heather Anne Bellini
+Goldman Sachs Group, Inc., Research Division
+
+Sundar, I had a question for you. Just Thomas has been the head of Google Cloud now for around 2 years,
+if I remember correctly. I'm just wondering, what do you see as the biggest changes he's put into place
+that has allowed the business to start gaining what appears to be materially more share? And as you
+look ahead to 2021 and what's going on with digital transformation, what would you say his top strategic
+priorities would be?
+
+Sundar Pichai
+CEO & Director
+
+Thanks, Heather. A couple of things stand out for me. I think it's been a very consistent focused strategy.
+So the focus on the 5 major geographies, the 4 customer segments and the 6 priority industries, health
+care, retail, financial services, media and entertainment, manufacturing and public sector, that focus in
+going deeper and scaling our go-to-market both in terms of our people, our partner -- partners, I think
+that's been key.
+
+The second thing I would say is some of the key differentiators are playing out particularly as we have
+taken them deeper as unique industry solutions. So going deeper and having solutions and in some of
+those cases where we are now pricing based on value, I think that kind of deeper play is something I'm
+very excited about, definitely have strength in -- just based on our underlying technology. So we do have
+differentiation in areas like data analytics, AI, et cetera. So that's been huge as well.
+
+But I'm pleased with the execution obviously in the -- in this -- there is a time lag between when you hire
+the sales and when we train and when you enable them to be more productive. And that's the investment
+Ruth has been talking about. And I can see it ramping, and I can see the results come into play. So credit
+towards that focus and execution, and so looking forward to the next phase.
+
+Operator
+
+And our next question comes from Brian Nowak from Morgan Stanley.
+
+Brian Thomas Nowak
+Morgan Stanley, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Sundar, I wanted to ask one about e-commerce specifically. And it seems to become increasingly
+competitive within the e-commerce funnel. So maybe talk to us about, one, what types of consumer
+behavior changes are you seeing within e-commerce search on the platform? And then in your mind, what
+are the key priorities of investment you need to really execute on to ensure you stay at the top of the
+funnel within e-commerce?
+
+Sundar Pichai
+CEO & Director
+
+I think things that stand out, first of all, I'm excited at the set of announcements and progress we've had
+in the last few months. And obviously, we're really focused on the user experience. And we want to make
+sure as a consumer, you have wide, comprehensive, high-quality inventory and offerings and experience
+on the platform.
+
+Our free shopping listings, which we launched in the U.S., is now available in 48 countries around the
+world. Additionally, we eliminated commission fees for the Buy on Google checkout option, opened the
+platform up to PayPal, Shopify for integration as well. So that gives rise to comprehensiveness, and we are
+focused on quality there.
+
+In terms of the funnel and behavior, to me, what's interesting is obviously Search captures the intent
+at the moment. And the breadth of Search, I think, has been a real asset and both -- as users adapt,
+advertisers adapt, too. So you can see the dynamic play in real time.
+
+But you do see, I would say YouTube is an important platform for e-commerce as well. I can see
+advertisers in YouTube at the mid-funnel level, even currently that's not the intent at that moment, invest
+to create demand, create interest and so on. So for us, we see commerce working across the platform,
+and I think it's an opportunity. And then making sure the rest of the experience is good for users is
+something we are deeply focused on.
+
+Operator
+
+And our next question comes from Brent Thill from Jefferies.
+
+Brent John Thill
+Jefferies LLC, Research Division
+
+Ruth, you called out brand advertisers coming back to YouTube. I'm just curious if you could give us a
+sense of where you're seeing that strength. And kind of where are you at relative to pre-COVID levels with
+those advertisers?
+
+Ruth M. Porat
+Senior VP & CFO
+
+So overall, we're pleased at the degree to which advertisers really have reactivated their budgets in the
+third quarter. And they're reacting in part to, I think, evidence that consumers are showing strong demand
+across nearly all verticals. It's everything from home and garden to computer to work from home. And so
+very helpful there.
+
+And then YouTube's strong watch time growth enables advertisers to reach audience that they can't reach
+on TV, as we've often talked about. And so they're increasingly looking to us to help them reach people
+who are going to YouTube to learn new topics and engage with fresh entertaining content, great unique
+content. So it's been an opportunity. We're pleased to have seen the performance in the third quarter
+here.
+
+Operator
+
+And our next question comes from the line of Justin Post from Bank of America.
+
+Justin Post
+BofA Merrill Lynch, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Maybe one for Sundar and one for Ruth. Sundar, thanks for the update on the DOJ. As you think about
+all the regulators all over the world, is there any hope of coming to a middle ground here? How are you
+thinking about how far apart you guys are in different regions?
+
+And then maybe for Ruth. On the YouTube opportunity, if you assume about 2 billion users, you're on a
+run rate of maybe $10 per user. I'm just wondering how you're thinking about the monetization. Are you
+still very early? And if you can give us any help on what the margins might look like.
+
+Sundar Pichai
+CEO & Director
+
+Ruth, why don't you go ahead?
+
+Ruth M. Porat
+Senior VP & CFO
+
+So look, in terms of YouTube, as I said, we are pleased with the ongoing momentum that you see in
+the revenue line. I think as we've talked to you about quite frequently in our ad-supported business
+within YouTube, we do pay out a majority of revenues to all of our content creators. We pay all of the
+infrastructure and networking costs. That's for storing, for serving video, otherwise for running YouTube.
+And that includes marketing, supporting content creators.
+
+There's quite a bit more that we think is invaluable for creators in the overall ecosystem to make sure
+we're creating not only great experiences for users and creators but really the right overall ecosystem.
+And we've talked about that in the context of how we invest to protect the content, that people are seeing
+content moderation investments we view as really an invaluable part of what we're doing and critically
+important. So we're continuing to support that, do view the experience that both creators and users have
+as just really differentiated as a result.
+
+And then on the subscription side, we're continuing to build it out. As Sundar noted in his opening
+comments, both YouTube Music Premium and YouTube TV do have higher content acquisition costs as a
+percentage of revenues than YouTube ads. And we are really there continuing to build out that subscriber
+base.
+
+Sundar Pichai
+CEO & Director
+
+And Justin, on the regulatory front, scrutiny is not new for us. And in some ways, it's now sector-wide and
+not surprisingly so. We will engage constructively where possible. And as we have shown through some of
+the past cases, when there is -- we are confident about the benefits we bring to our users. We'll make our
+case. Where there is feedback or rulings, we'll be flexible and adapt. And so we're building that into it.
+
+I think while there's lot on the legislative and regulatory front, as some of this gets resolved, it also
+creates certainty and in some cases clarity and opportunities as well. And so that's the framework with
+which we approach it, and we'll take a long view towards it. And -- but at the end of the day, what's in our
+control is our ability to relentlessly focus on users and build great products, and that's where most of our
+energy will go into.
+
+Operator
+
+And our next question comes from the line of Mark Mahaney from RBC.
+
+Mark Stephen F. Mahaney
+RBC Capital Markets, Research Division
+
+Two questions, please. It sounds like you're going to provide more disclosure on Google Cloud in the
+fourth quarter. Will that also be on the profitability of Google Cloud? Or could you address the question of
+whether Google Cloud has reached a point of scale where it's no longer dilutive to overall margins?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+And then briefly, 2 new revenue opportunities or growing revenue opportunities over the year, Google
+Maps and the Discover tab. Any update or any new data points that suggest the monetization opportunity
+with those 2 assets?
+
+Ruth M. Porat
+Senior VP & CFO
+
+So thanks for that, Mark. And when we break out Cloud, we will be also reporting not just the fourth
+quarter results, but we'll be providing full year results for 2018, '19 and '20. We'll be providing not just the
+revenue disaggregation data that we expanded earlier this year, but we will be adding operating income
+for each of our segments, which we think is the most relevant data.
+
+And the point that both Sundar and I have underscored is that we are investing aggressively in cloud
+given the opportunity that we see and frankly the fact that we were later relative to peers. We're
+encouraged -- very encouraged by the pace of customer wins and the very strong revenue growth in both
+GCP and Workspace, but we do intend to maintain a high level of investment to best position ourselves.
+
+And I kind of went through some of those items, the go-to-market team, the engineering team and Capex.
+And so we describe this as a multiyear path because we do believe we're still early in this journey.
+
+Sundar Pichai
+CEO & Director
+
+On Maps and Discover, et cetera, again, I think I spoke a little bit earlier about thinking through more
+holistically. An example where we, I think, work well as developers, we're looking to promote apps with
+the Universal App Campaigns, you could really reach across. And it's a good model to think about recently,
+for example, to serve small and medium businesses the expanded Smart Campaigns to 150 countries. And
+if you're a small business owner, you can set up your first campaign, create your first ad in 15 minutes
+from your mobile device.
+
+So for me, thinking about these surfaces as we'll do the hard work to make sure the most relevant
+information gets and thinking about it more holistically and I think gives us a chance to also engage users
+the way they want us to, sometimes when they come looking for it and sometimes when they proactively
+want information given to them. And so that's the overall view. And I think the opportunity is very exciting
+ahead.
+
+Operator
+
+And our next question comes from the line of Dan Salmon from BMO Capital Markets.
+
+Daniel Salmon
+BMO Capital Markets Equity Research
+
+Sundar, in his response to the DOJ's lawsuit, Kent Walker compared your Search partnerships to how a
+cereal brand might pay a supermarket to be at the end of the row or at eye level. We've also heard Philipp
+Schindler talk about your addressable market being potentially twice as large as commonly viewed, and
+maybe that includes things like those payments inside supermarkets.
+
+So my question is 2-part. Firstly, is it fair to tie those 2 types of comments together and assume that
+they're related to each other? And then second, could you maybe talk about how that might matter to
+your bigger-picture thinking about the advertising and commerce opportunity for Google and in particular
+the competitive environment you face?
+
+Sundar Pichai
+CEO & Director
+
+Dan, and at a high level, stepping back from it all, we are -- our mission is to provide information. The
+competitive environment we face is particularly with mobile, and users are looking for information,
+there's so many choices they have. And so the question is making sure Google is a relevant way by
+which they get that information. And you can imagine when people are looking to buy products or the
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+competitors that exist, travel, booking hotels or any category you take. And so for us, that's why I talk
+about holistically competing and making sure we can provide relevant information is both the competition
+we face for mind share, and that's the opportunity we have ahead.
+
+In terms of specifics of the DOJ case and stuff, I'm confident we have approached everything both with
+the view of making sure we create the best user experience; and b, we really want -- we've always built
+Google for everyone. So we wanted to be available on all platforms and be convenient for users to access
+our services, and as part of that, partner with other companies in doing so. And so look forward to making
+our case there, but it's definitely early days. And we are still reviewing and understanding it all, and I'm
+sure we'll update more as time goes by.
+
+Operator
+
+And our next question comes from the line of Colin Sebastian from Baird.
+
+Colin Alan Sebastian
+Robert W. Baird & Co. Incorporated, Research Division
+
+I have a couple here as well. Maybe just a follow-up on the shopping question, specifically on YouTube,
+if you could expand on the role that shopping and shopping ads are now playing in the growth strategy
+there?
+
+And on Google Workspace, it seemed like this is a unique opportunity with work from home to really drive
+adoption and monetization of these services, including Meet as well as bundling with cloud services. So I
+wonder if you could provide any more detail on levels of usage and engagement you're seeing with those
+applications and how you plan to monetize those going forward.
+
+Sundar Pichai
+CEO & Director
+
+Great. On shopping in YouTube, I can definitely say we are on the earlier part of the journey, but we
+have seen the strength in YouTube for direct response and on a few other categories. And I think
+the experiences we see there, I think, can directly carry over to commerce and as we build out the
+experience. So I see that as an opportunity.
+
+I earlier also mentioned about while Search is currently capturing the intent at that given time, YouTube
+advertisers can take a longer-term view, create brand awareness, create interest and so on. So that also
+offers opportunities.
+
+So we today in many, many categories have creators with very compelling content. And I've always felt
+things work well if you match user interest, and it's very relevant to users. And so I think commerce, there
+is a lot of commercial activity on YouTube organically. And so I see it as a long-term opportunity.
+
+On Google Workspace, I'm very excited at the -- we both have strong growth. I mentioned Meet metrics
+earlier that we saw a peak of 235 million daily meeting participants in Q3 and more than 7.5 billion daily
+video call minutes. Definitely significant growth in Meet as well as our other products like Docs, Drive and
+Chat. But Google Workspace also now creates that unified experience, and I think we are definitely seeing
+a lot of interest and demand there.
+
+I do think COVID is really accelerating the future of work, and many of the trends there are -- will last
+through time and I think gives all of us a chance to reimagine this, reimagine what does collaboration and
+productivity at scale, including people working remotely, looks like. And we plan to be at the forefront of it,
+and so I'm excited for the opportunity there.
+
+Operator
+
+And our final question comes from the line of Ross Sandler from Barclays.
+
+Ross Adam Sandler
+Barclays Bank PLC, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Just 2 questions. If we look at Search, your growth rates in January and February compared to today, so
+pre-COVID versus today, I guess how many categories are above the Jan/Feb growth rate? Is travel the
+only large category at this stage that's running below your pre-COVID growth rates in Search?
+
+And then the second question is on the topic of the Apple search agreement. So as you guys said in your
+blog post, based on other agreements where you've seen things change hands, you didn't really lose a lot
+of query volume after the change. So what do you think the recapture rate of queries on Safari toolbar
+would be if that deal were to change hands? Is this really a code red situation? Or is it something that we
+should be able to manage through?
+
+Ruth M. Porat
+Senior VP & CFO
+
+So in terms of your first question, as we've often said, we have a very diverse business globally. And
+that's across sectors, customer size, geographies. And with respect to sectors, we saw broad-based
+improvement across virtually all -- it basically mirrors what you see in the broader economy. And we don't
+break out more than that, but it was quite broad-based.
+
+In terms of your second question, Sundar, do you want to take that?
+
+Sundar Pichai
+CEO & Director
+
+On Search, as I've said for a long time, we work hard to make sure uses can conveniently access us.
+Most of our partners choose us because we are the best search provider. Users find us having the highest
+search quality. And so there's organic demand for it, and we believe in investing in our experience across
+all our platforms. And so we are definitely committed to making sure we can serve our users everywhere,
+and we are really focused on it.
+
+Operator
+
+Thank you. And that concludes our question-and-answer session. I'd like to turn the conference back over
+to Jim Friedland for any closing remarks.
+
+James H. Friedland
+Director of Investor Relations
+
+Thanks, everyone, for joining us today. We know you all have a busy evening. We look forward to speaking
+with you again on our fourth quarter 2020 call. Thank you, and have a good evening.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now
+disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ALPHABET INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+

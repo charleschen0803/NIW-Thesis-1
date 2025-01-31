@@ -1,0 +1,172 @@
+Thank you, Rebecca, and good afternoon, everyone
+I'm pleased to report that Q2 was another strong quarter for the company
+Revenue grew 10% year-over-year to $662 million
+The demand for NovaSeq again surpassed our expectations with orders beating forecast by over 30%
+More than 230 NovaSeq instruments have been ordered since its launch in January
+As expected, we're seeing the beginning of the HiSeq replacement cycle with two-thirds of NovaSeq orders coming from HiSeq and HiSeq X labs accessing NovaSeq's improved sequencing costs and capabilities
+With two quarters behind us, we're still at the very beginning of the HiSeq replacement cycle and our pipeline of NovaSeq opportunities continues to grow
+Equally importantly, we're also seeing the early signs of market elasticity
+As new to sequencing and benchtop only customers accounted for more than one-third of the NovaSeq orders received
+Commercial customers are fueling the early NovaSeq adoption, given the relative flexibility in their capital budgets
+Interests from academic labs continues to build as customers work through the grant application process and this is expected to generate additional demand in the second half of this year and beyond
+I am pleased with the great work by our development and operations organizations in the second quarter, as we successfully tripled our NovaSeq manufacturing capacity compared to Q1, enabling us to ship and install approximately 80 instruments but we're not quite at full capacity yet
+With our success to date, I am confident that the team will make the progress necessary to manufacture its capacity in the third quarter
+After that, it will take a few quarters to work down our healthy backlog of more than 100 instruments, as is typical with our product launches
+Looking ahead our NovaSeq accessory device to enable customers to access each flow cell lane is progressing to our internal timelines and will ship in Q4. S1, S4 flow cell development timelines also remain on track
+We expect S4 will ship in later September to early access customers with full availability of S4 and S1 to follow in October
+As expected, NovaSeq has impacted HiSeq and HiSeq X shipments in the second quarter
+Going forward, our outlook for this family of instruments remains muted, as we expect customers will choose to access our newest high throughput platform
+Moving to our benchtop portfolio, new-to-sequencing customers represented about half of NextSeq, MiniSeq and MiSeq shipments and our win rates remain stable
+Utilization was within each instrument's respective guidance range
+NextSeq pull-through increased compared to the prior year as commercial customers adopted the platform in production settings
+In Q2, microarray revenue including services grew 16% year-over-year to approximately $110 million
+Shipments of array products and services to our direct to consumer customers more than doubled versus the prior year
+Also in the consumer market, Helix launched their online marketplace a few weeks ago, which includes an initial 20 products and services that span entertainment, family, fitness, health, genealogy and nutrition
+As you know, we formed Helix to accelerate the adoption of consumer genomics
+The strong growth of our direct to consumer customers and success of the Helix launch have together further fueled our enthusiasm for the role our technology will play in developing the consumer genomics market
+Moving now to our clinical markets, demand from oncology testing customers continues to be robust, with over 20% shipment growth versus the prior year, primarily driven by commercial molecular diagnostic and liquid biopsy customers
+We reached an important milestone this quarter, when our Extended RAS companion diagnostic kit received FDA approval as the Class III PMA
+This product was developed in partnership with Amgen to identify patients who are eligible for treatment of metastatic colorectal cancer with Vectibix, and is the first oncology IVD, that we have brought to the market
+And lastly in oncology, we are excited about the recent FDA pan cancer approval of Keytruda and the implications for genomics in patient care
+With this landmark approval, for the first time, patients can access treatment based on genomic biomarkers, rather than the anatomic origin of the cancer
+We believe this is the first of many therapies where the genetic profile of the tumor will be a critical component of ensuring the best patient care
+Another recent product announcement was the launch of VeriSeq NIPT, a CE-IVD marked NGS solution
+Since launch, adoption is ahead of our expectations and customer feedback has been very positive
+Reimbursement in Europe is progressing as Belgium recently began covering T21 testing for all women, and the French Health Authority (sic) [French National Authority for Health] recommend NIPT coverage in pregnancies with greater than 1 to 1,000 risks
+In closing, I am pleased with our second quarter results, given the continued progress of our NovaSeq launch, the trends we are witnessing across the rest of our portfolio and market segments, and our team's execution
+I will now turn the call over to Sam for a detailed overview of our second quarter results
+Sure
+There are a number of things that played out from a consumable dynamics perspective in Q2. In the high throughput segments, we did continue to see a decline in the HiSeq consumables as we talked about in Q1 and as we expect it to continue to play out
+On the X side, we did see strength driven by both our customers in China as well as you mentioned and we talked about in the call, our translational liquid biopsy customers
+And in fact as we looked at the X instruments that were connected into BaseSpace, we continued to see our customers running Xs as they usually had
+And so we expect really the transition to happen to NovaSeq as S4 comes out later this year
+But we are seeing customers continue to run their Xs
+And then in terms of consumables, we also saw strength in NextSeq as we continue to see customers looking to standardize on that platform for their production environments
+No, Helix is one of the factors, but it's certainly not the whole factor
+Maybe I'll start with the NovaSeq sort of when we get to – what the pull through rates and sort of how should we think about the ramp
+So, obviously we've started to see a ramp in NovaSeq consumables play out in Q2, but this is sort of the beginning of that ramp
+So, if you look at the high throughput consumable dynamic, as we said, we've already started to see the HiSeq consumables decline quarter-on-quarter
+We, as S4 comes out, we expect to start to see some X customers draw down inventories as they start to move their payloads to NovaSeq as they get them
+That hasn't yet started to play out, again, we expect that to really start to play out when we launch S4. And so, over the next couple of quarters, you will see NovaSeq ramping up, you'll see that being offsetting the decline you expect to see in X and in HiSeq
+And over the longer period, obviously, we expect to see a high-throughput consumables growth
+So, you've covered a lot of ground, not surprising me, and great questions
+I'd start by saying that, yeah, I think we were actually pleasantly surprised to see about a third of the NovaSeq orders came from customers who were either new to sequencing entirely or who are benchtop customers, who didn't have any high throughput instruments at all
+And I can share with you just, anecdotally, some of the examples
+One of the examples is a customer in EMEA that opened up a new lab funded by government research to perform evolutionary genomics work and sort of saw the NovaSeq, as sort of the right price point for them to launch that lab
+Another customer also in the same region, purchased NovaSeq to perform routine reproductive health testing in the country which has been historically underserved in this regard
+So they plan to start offering clinical excellence services to their customers, fundamentally enabled by the pricing of NovaSeq and its lower cost per sample
+The other set of customers that surprised us were customers who were Illumina customers but were benchtop only customers
+And one example is a lab that's projecting to sequence 1,000 genomes and 300 to 400 exomes annually for the next few years
+And they saw NovaSeq as again at the right sort of price point for them to move up from being a benchtop only customer
+So again, the fact that that was a third of the NovaSeq orders was a really good thing from our perspective and a really encouraging sign for the demand from that segment and exceeded our expectations
+In terms of who's not yet bought and how we're thinking about who's bought, again, as I said in the prepared remarks, we are at the very, very beginning of the HiSeq replacement cycle
+Less than 10% of HiSeq customers have ordered a NovaSeq so far
+So the bulk of this wave is still in front of us
+And let me give you some profiles of people that are – will be buying in the future
+For example if you are an academic customer and you came into this year with a fixed budget, what you're doing now in some cases is you are writing your grant applications, and using that to get the budget for NovaSeqs in the future
+And so there are customers like that that want NovaSeq, they expect to get it and are securing the funding now
+As I said in the prepared remarks, a lot of this early interest came from commercial customers
+And as you know, they have more flexibility with their budgets and we're able to move more quickly
+And so then they would be academic customers, a certain segment of them would be example of customers that are planning to get a NovaSeq but haven't pulled the trigger yet
+And then in terms of, you asked about the accessory device, there are customers, the core labs specifically, that are waiting for the accessory device because of how they run their services and they'd like to do the single addressing per lane, whether it's to run a genome per lane
+And so for them, that device will be fundamentally enabling and that doesn't ship as you know till Q4. There are other customers that are looking at S4 the same way, so, other examples of customers that are planning their purchases but haven't pulled the trigger yet
+That's exactly right, Doug
+Hi, Derik
+Yeah
+Sure, Ross, so the feedback we're getting from customers, the high throughput customers, is very positive and generally consistent that they are looking at NovaSeq as fundamentally enabling them to do higher intensity sequencing, so whether it's the move to genomes, much deeper exomes, or high depth oncology, whether it's liquid biopsy or solid tumor screening (27:17)
+So we're definitely having the conversations with those customers who are looking at NovaSeq as enabling those high intensity sequencing applications, and we're very encouraged about what that means in terms of the amount of sequencing that we expect to be generated through the elasticity enabled by NovaSeq
+We are also seeing NovaSeq help push forward some of the population sequencing discussions we've been having around the world
+Those are long-term endeavors and some we've been working for a little while, but I think it leads, in a number of cases, it's pretty fair to say that NovaSeq is catalyzing those conversations to move more quickly than they were before NovaSeq
+Now, that's also dovetailing with some good results that are now coming out of GEL
+And other countries talking to GEL and getting more clarity around what it could do for them
+And so, it's enabled by NovaSeq, but we also have the good timing that GEL is now at a place where they can actually show the output of their sequencing work
+And so, that's helping too
+Philip (sic) [Ross], we started actually last year, and partially in anticipation with NovaSeq, to be more intentional about working with the ecosystem to make sure that our customers had access to the best end-to-end work flows, whether they were Illumina or not
+And so, we have consciously been cultivating more partnerships and deeper relationships with the partners we work with
+So that's going to continue to be part of our strategy going forward
+That will help play out in the population sequencing efforts, where we can start to talk about – first of all, we actually do have a reference architecture that is deployed at GEL
+And while a lot of that is Illumina, we certainly are working with partners at GEL, and we now have a working implementation that we can talk to other countries about
+And you can imagine, from other countries' perspective, it significantly de-risks a deal to have a reference architecture that is already fully implemented
+And a number of them are looking to replicate, in a lot of ways almost exactly, what GEL has done
+So that's been very helpful in terms of creating the ecosystem, and then having an integrated platform like GEL where we can demonstrate it working
+Thank you
+Yeah, and I'll say certainly, we believe that there are customers who haven't ordered yet, that are waiting for S4. But as you point out, there are also customers that have made some initial purchases that are looking to S4 to be a reason why they do a broader rollout across their fleet
+And so there will be both types of customers that really sort of ramp up as S4 comes out
+I am confident in the timelines
+We expect to have early access customers out in September, I feel good about that and we expect to have broad availability starting in October
+Thank you
+So, obviously we know, I can tell you today if it was useful but it isn't
+I'd tell you today we know what our NovaSeq – our early NovaSeq customers are running today in terms of utilization
+But we also know from launching many instruments that the numbers today are not going to be a representative of the ultimate pull through range that you will see in the first set of customers
+You may in fact – you probably will in fact see it go up initially before it settles into a more normal pull through number, and that'll take four to six quarters from launch before we get to a range that that's actually useful from a modeling perspective
+And so we'll continue to watch for that and as we feel like it's settling into a range that that's more normal, that's the stage where we'll come out and share what numbers you should be using from a modeling perspective
+But it's definitely too early for us to call that number yet
+Yeah
+So, initially when we first launched the NovaSeq, as we typically do, we did have a trade-in program and we had, we offered our customers the ability to look at instruments they had ordered that were in our backlog that they hadn't taken yet
+And use those dollars to switch over from an X for example, to NovaSeq
+And so, we did that when we launched
+Going forward, it's going to be less of a trade-in, it's going to be more of a – they decommission and they buy a new instrument
+And so that was very much a launch effect rather than a sort of a permanent offer
+And so that's how we expect it to play out
+And from a customer's perspective, in a lot of cases, the math is pretty compelling
+They know what their run rate is in terms of cost per GI, (36:49) they're on a, one of their HiSeq platforms or in an X
+And they know their sample volumes and so they can figure out the breakeven point pretty quickly
+Yeah
+So I'll tell you what customers are talking to us about, and I'll share some that we're already starting to see
+So, we are definitely having conversations as I said earlier around customers that are looking to do higher intensity sequencing
+So many conversations are happing around deeper exomes, about moving from exomes to genomes
+We are having conversations about doing much, much deeper sequencing in cancer biopsies and then obviously very, very deep sequencing for liquid biopsies
+Those are all very active conversations enabled again fundamentally by the price points associated with NovaSeq
+And then we're seeing – and then across our portfolio so not just NovaSeq, there are other areas where we're seeing the move to sequencing happen in some areas from arrays for example
+We see that happening in the PGS space as we move from microarrays to sequencing
+And so those are some of the areas where we're seeing newer conversations about higher intensity sequencing
+There are customers in both camps
+I mean there are customers depending on the scale of your lab and the number of samples that you're running, there are customers where S2 will be a perfectly fine flow cell
+And we expect to have a set of customers like that
+And S4 is again very, very well suited, if you're doing genomes or deep exomes
+And so for other applications, I fully expect S2 to be a in demand flow cell
+Yeah, we came into this year, with momentum in the consumer market and that momentum has continued to accelerate
+And so, we talked about the fact that our shipments to our direct to consumer customers have doubled from last year
+That's driven by the strength in the ancestry market, driven by the strength in the health traits market
+And that looks like it's going to continue – that momentum
+Now, over time, it's possible that they continue – these customers continue to offer array based services, and we just continue to see that momentum build
+But it's also possible that over time, some of them decided to move to sequencing
+And so, that'll be good for the industry
+That'll be good for Illumina
+But it means that we will see some revenue shift away from arrays into sequencing
+A very small part was arrays
+I mean, it was – yeah – the majority was not
+So, we have really good share in those markets
+I'd say, the big driver there is just market growth
+I mean, we are seeing really strong growth again in the ancestry portion of the market, in the health traits portion of the market, the 23andMe and sort of their ability to offer tests, part of the FDA guidance has been really good for them
+And so, in general, we're seeing really robust demand in the consumer market
+And that's driven the demand from our direct-to-consumer customers
+Yeah, it's hard for us to give you the size of that for us
+What I'll say is look, the – some of the drivers there are just some of the large studies that are happening
+So, not necessarily the diagnostic portion of the market, there's some of that, but some of the big drivers have been just some very large studies that are playing out in liquid biopsy
+I'll start, and then Sam, maybe you can comment too
+I'll say, on the one hand, there are a lot of moving parts, but I'd say a really big driver here of the year is NovaSeq
+And so that's sort of a very big theme, even in the second half
+And I said in Q3, we're going to get to expand our manufacturing capacity a little bit ahead of where we were even in Q2, and so that allows us to ship more NovaSeqs and then start to sort of address some of the backlog as well
+And so I think, while there are a lot of moving parts, I think there's sort of a really big theme around NovaSeq that's pretty straightforward
+So, Sam?
+Yeah
+For the full year, Steve, there's really no material impact, both on revenue and EPS, from currency movements compared to our previous assumptions and overall
+Yeah
+I'd say there are probably a couple of buckets
+So, in services, we already talked about the strength in the microarray services, driven in large part by our direct to consumer customers, so that's sort of one big bucket of strength there
+And then obviously, there are just service contracts associated with more instrument placements, and that's been another driver there
+The team is continuing to make progress on the sequencer, and so we are on track for end of the year, sort of early 2018 launch on the sequencer side
+And then, after the team gets that out, we'll focus on the library prep instrument
+So, good progress, no real news at this point though
+We have done our own internal modeling around what we expect the overall addressable market is for sequencing and for the different parts of our sequencing portfolio
+Those aren't numbers that we have shared externally, but we certainly use them from a modeling the demand perspective
+I'd say though, in Q2, the demand we saw from the new to sequencing and the benchtop only customers exceeded our internal expectations from that part of the market
+And one exercise you can do is, as Rebecca said, look, we said there are 800 HiSeq customers out there
+There are about 2,000 NextSeq customers out there, and about 5,000 MiSeq customers
+So you can do the math that says well, even if there's a full overlap, that means that there are 1,200 NextSeq customers at least that don't have a HiSeq right, so you can start to do some sketching around the boundaries of what that number could be at the low end
+I think there could be a marginal impact there, if you're servicing three different lines
+If you're looking at the HiSeq, the X and the NovaSeq, and it eventually sort of converges to NovaSeq that could be some marginal improvements in terms of margin, but I'd say those are marginal
+The big drivers were our direct to consumer customers
+So they sell into the ancestry space and to the health traits for the consumer market and they are doing well and that's driving the number that you see
+In some cases we run the service for them and so we process the arrays for them and that shows up in the services line

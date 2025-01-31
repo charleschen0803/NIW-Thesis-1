@@ -1,0 +1,1314 @@
+Equinix, Inc. (REIT) NasdaqGS:EQIX
+FQ1 2021 Earnings Call Transcripts
+Wednesday, April 28, 2021 9:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ1 2021-
+
+-FQ2 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+1.74
+
+1.74
+
+0.00
+
+1.90
+
+7.65
+
+9.27
+
+Revenue  (mm)
+
+1596.97
+
+1596.06
+
+(0.06 %)
+
+1635.44
+
+6629.13
+
+7245.75
+
+Currency: USD
+Consensus as of  Apr-27-2021 1:00 AM GMT
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+FQ1 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+1.63
+
+1.71
+
+1.50
+
+1.74
+
+1.52
+
+0.74
+
+0.57
+
+1.74
+
+SURPRISE
+
+(6.75 %)
+
+(56.73 %)
+
+(62.00 %)
+
+0.00 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Charles J. Meyers
+President, CEO & Director
+
+Katrina Rymill
+Vice President of Investor
+Relations
+
+Keith D. Taylor
+Chief Financial Officer
+
+ANALYSTS
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research
+Division
+
+Aryeh Klein
+BMO Capital Markets Equity
+Research
+
+Colby Alexander Synesael
+Cowen and Company, LLC,
+Research Division
+
+David Anthony Guarino
+Green Street Advisors, LLC,
+Research Division
+
+Erik Peter Rasmussen
+Stifel, Nicolaus & Company,
+Incorporated, Research Division
+
+Jonathan Atkin
+RBC Capital Markets, Research
+Division
+
+Michael Ian Rollins
+Citigroup Inc. Exchange Research
+
+Omotayo Tejamude Okusanya
+Mizuho Securities USA LLC,
+Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+Presentation
+
+Operator
+
+Good afternoon, and welcome to the Equinix first quarter earnings conference call. [Operator Instructions]
+Also today's conference is being recorded. [Operator Instructions]
+
+I'd now like to turn the call over to Katrina Rymill, Vice President of Investor Relations and Sustainability.
+You may begin.
+
+Katrina Rymill
+Vice President of Investor Relations
+
+Good afternoon, and welcome to today's conference call. Before we get started, I'd like to remind
+everyone that some of the statements we're making today are forward-looking in nature and involve risks
+and uncertainties. Actual results may vary significantly from those statements and may be affected by the
+risks we identified in today's press release and those identified in our filings with the SEC, including our
+most recent Form 10-K filed on February 19, 2021. Equinix assumes no obligation and does not intend to
+update or comment on forward-looking statements made on this call. In addition, in light of Regulation
+Fair Disclosure, it is Equinix' policy not to comment on its financial guidance during the quarter unless it is
+done through an explicit public disclosure.
+
+In addition, we will provide non-GAAP measures on today's conference call. We provide a reconciliation
+of these measures to the most directly comparable GAAP measures and a list of the reasons why the
+company uses these measures in today's press release on the Equinix IR page at www.equinix.com. We
+have made available on the IR page of our website a presentation designed to accompany this discussion,
+along with certain supplemental financial information and other data.
+
+We'd also like to remind you that we post important information about Equinix in the IR page from time to
+time and encourage you to check our website regularly for the most current available information.
+
+With us today are Charles Meyers, Equinix' CEO and President; and Keith Taylor, Chief Financial Officer.
+Following our prepared remarks, we'll be taking questions from sell-side analysts. [Operator Instructions]
+
+At this time, I'll turn the call over to Charles.
+
+Charles J. Meyers
+President, CEO & Director
+
+Thank you, Katrina. Good afternoon, and welcome to our first quarter earnings call. We had a great
+start to the year, delivering one of the strongest net bookings quarters in our history, fueled by strong
+demand across our platform, our lowest churn quarter in many years and continued momentum in our
+Americas business. With the addition of the Bell Canada assets, we are now the market leader in 19 of the
+26 countries in which we operate. And we are delighted to now be the market leader in retail colocation
+across all 3 regions of the world, taking the #1 spot in Asia Pacific for the first time this quarter.
+
+Our bookings performance continues to highlight the consistency and scale of our go-to-market engine,
+executing 4,300 deals with more than 3,200 customers. We have a robust build pipeline to support this
+demand, including 36 major projects underway across 28 markets in 19 countries, one of our most active
+build years ever.
+
+We fully recognize that COVID remains a very acute issue with continued tragic impacts in key markets
+around the world, including India and Brazil. Our hearts go out to our colleagues and customers in those
+markets, and we are actively taking steps to support those communities. But as we navigate toward
+a post-pandemic world, we believe Equinix remains uniquely well positioned. Digital transformation
+continues to accelerate, and businesses across a broad range of verticals are recognizing that their
+infrastructure can be a key source of competitive advantage in an increasingly digital world.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+Demand is as strong as ever, with global IT spend expected to rebound above pre-pandemic levels as
+enterprises increase hybrid cloud spending and service providers build out their delivery platforms to tap
+into this demand. Against this backdrop, we remain focused on the clear set of priorities I outlined at the
+start of the year: investing in our people and culture, simplifying and scaling our business, accelerating
+our digital services and expanding our global reach, both through our retail footprint and our rapidly
+growing xScale business.
+
+While we're delighted with our business results, we are also highly attuned to our responsibilities as
+a market leader and continue to advance a bold sustainability agenda across all dimensions of ESG.
+Supporting our people and strengthening our culture continue to be foundational to our strategy. And in
+a time where it matters more than ever, our vision remains clear: for Equinix to be a place where every
+employee every day can confidently say, "I'm safe. I belong. And I matter." And for our workforce at all
+levels to better reflect and represent the communities in which we operate.
+
+In early April, we hosted our second annual days of understanding, where thousands of our employees
+around the world attended workshops to listen, learn and promote a culture of mutual understanding and
+inclusion as we continue to build and foster an engaged diverse workforce. Our people show up every day
+inspired by our purpose: to be the platform where the world comes together, enabling the innovations that
+enrich our work, life and planet.
+
+As we pursue this purpose, we are also deeply committed to our role as an important component in
+greening digital infrastructure. We recently published our 2020 corporate sustainability highlights, and I
+am proud that Equinix once again achieved more than 90% renewable energy coverage for our global data
+center footprint and received an A- score for our CDP Climate Change Survey, a leading environmental
+rating system focused on climate-related transparency and action.
+
+In January, we announced, alongside other providers, the formation of the European Climate Neutral Data
+Center Pact, committed to ensuring data centers in Europe are carbon-neutral by 2030. We continue to
+invest significant resources in our ESG leadership, and we'll roll out additional global ambitions over the
+coming quarters in both our environmental and social initiatives.
+
+Now turning to our results as depicted on Slide 3. Revenues for Q1 were $1.6 billion, up 7% year-
+over-year. Adjusted EBITDA was up 10% year-over-year, and AFFO was meaningfully ahead of our
+expectations. These growth rates are all on a normalized and constant currency basis. Our leading
+interconnection franchise continues to perform well with revenues substantially outpacing colocation,
+growing 13% year-over-year, driven by the continued strength of Equinix Fabric. We now have over
+398,000 interconnections and added more organic interconnections year-over-year than the next 10
+competitors combined.
+
+In Q1, we added an incremental 6,700 interconnections, fueled by hyperscaler build-outs and strong
+enterprise demand, offset by a slight seasonal increase in network grooming activity. Internet exchange
+saw peak traffic up 9% quarter-over-quarter and 28% year-over-year, driven by the cloud and network
+segments. Equinix Fabric also saw strong growth driven by expanded use of our inter-metro offering and
+continued diversification of end destinations.
+
+More than 2,500 customers are now on Fabric, and we remain focused on driving higher attach rates for
+this product across our platform. We're also seeing strong customer interest in our Equinix Metal offering
+and continue to deliver on our commitment to expand the availability and feature set of this offering,
+enabling as-a-service consumption of our value proposition across 18 global metros.
+
+On the xScale side of our business, we're accelerating our pace and continue to make meaningful progress
+on our ambitious plans for 2021 as rapid growth of the digital economy drives increased demand for
+global cloud connectivity. With our xScale facilities, hyperscale companies can add large footprint core
+deployments to their existing network and on-ramp footprints at Equinix, enabling faster time to market
+and offering direct interconnection to a vibrant ecosystem with their customers and strategic partners.
+
+Our more than $3 billion program financed with the support of our JV partners will develop over 290
+megawatts across our first 2 JVs with several more already in the works. We are broadening our reach
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+with the first building of our Dublin 5 campus, which is JV-ready and already 100% pre-leased to a major
+hyperscaler. Additionally, after quarter end, we pre-leased our entire London 11 asset. These 2 deals alone
+represent nearly 40 megawatts of capacity fully committed in advance of delivery.
+
+Now let me cover highlights from our verticals. Please note that we updated our customer segmentation
+approach to better reflect industry classifications and use cases as well as combined our financial services
+and enterprise segments to reflect the true scale and momentum of the enterprise opportunity. Going
+forward, we'll report under these 4 key verticals.
+
+Our network vertical saw strong bookings led by the previously mentioned strength in the Americas
+as firms expand their capabilities and capacity for digital business, and momentum begins to build
+for industrial 5G applications. A meaningful part of our network vertical is resale, an indication of the
+momentum of our channel efforts as we work with partners to deliver more complete solutions to support
+enterprise digital transformation.
+
+Expansions this quarter include British Telecom, a leading telecommunications provider, optimizing
+network and connecting to multi-cloud for their global enterprise end customers; and Alestra, one of the
+first Mexican cloud service providers leveraging Equinix Fabric to provide a multi-cloud product offering;
+and SUB.CO, a leading subsea cable system development firm deploying a cable node to establish the first
+route between Oman and Australia.
+
+Content and digital media achieved solid bookings as indoor entertainment continues to drive activity
+in the social media, gaming and streaming platforms. Expansions included marquee wins like Roblox
+expanding across Platform Equinix to support their rapidly growing user base and big data requirements
+as well as a global edge cloud provider expanding capacity and deploying network nodes to support
+accelerating demand for video content.
+
+Our cloud and IT vertical delivered strong bookings led by hyperscalers continuing their global growth. And
+it's worth noting that these bookings results do not include the previously referenced xScale wins, which
+are additive to this strong retail performance. Q1 was also an exceptional quarter in terms of cloud on-
+ramp additions with 21 new on-ramp wins in the quarter, roughly equivalent to our cumulative volume
+over the prior 4 quarters and representing a 75% share of on-ramps launched in our metros. As a result,
+Equinix customers can now enjoy low-latency access to multiple clouds in 31 metros across the globe,
+including 8 of the world's top 10 metros by GDP.
+
+Expansions this quarter included a Fortune 30 software provider deploying infrastructure to support digital
+transformation and IT initiatives; and Everest, an Australian cloud services provider specializing in health
+care, expanding to meet country-specific data compliance requirements and improve user experience.
+
+Our enterprise vertical continued to be a major contributor to overall bookings performance, driven by
+strength in the retail and financial services subsegments as enterprises shift from pandemic initiatives
+such as work from home and collaboration to a broader focus on digital transformation. Expansions
+included CME Group, a top global financial derivatives exchange, expanding their footprint to support
+growing demand of matching engines resulting from a new platform launch; as well as a leading global
+airline re-architecting to connect to their preferred network and cloud partners and tap into our growing
+transportation ecosystem.
+
+And our channel program continues to deliver exceptional results, contributing more than 30% of our
+bookings and accounting for over 60% of our new logos. We had great wins with resellers and alliance
+partners, including AT&T, Dell and IBM, across a wide range of industry segments focused on digital
+transformation efforts and COVID-19 response.
+
+Partner wins included working with Verizon, utilizing their Network-as-a-Service strategy to help a large
+U.S. health care provider modernize their mission-critical contact center and leverage a new cloud
+architecture supporting 12 million members across the U.S.; as well as a win with a global Canadian
+manufacturer deploying in Canada and Germany for WAN optimization and cloud access, utilizing Cisco's
+SD-WAN solution interconnected to Equinix Fabric.
+
+Now let me turn the call over to Keith to cover the results for the quarter.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+Keith D. Taylor
+Chief Financial Officer
+
+Thanks, Charles, and good afternoon to everyone. On the heels of a record end to 2020, we delivered a
+great Q1 with strong gross bookings, in fact, our best Q1 ever and our second best net bookings quarter
+ever with solid performance across virtually all of our key metrics.
+
+Our platform continues to shine with strong inter- and intra-region activity, with a high interest in our
+expanded product and service capabilities further separating us from our peers. Interconnection revenues
+now represent 19% of our recurring revenues, reflecting our continued interconnection momentum.
+With a great start to 2021 and increased visibility over the rest of the year, we're raising our guidance
+substantially across revenues, adjusted EBITDA, AFFO and AFFO per share on a constant currency basis.
+
+Now let me cover the highlights for the quarter. Note that all growth rates in this section are on a
+normalized and constant currency basis. As depicted on Slide 4, global Q1 revenues were $1.596 billion,
+up 7% over the same quarter last year, our 73rd quarter of top line revenue growth, due to strong
+business performance led by the Americas.
+
+As expected, nonrecurring revenue decreased quarter-over-quarter to 5% of revenues. But as noted
+on our last earnings call, we anticipate a meaningful rebound in Q2 NRR due to forecasted custom
+installation work across a number of markets, highlighting the inherent lumpiness of this revenue source.
+Q1 revenues net of our FX hedges included a $6 million headwind when compared to our prior guidance
+rates.
+
+Global Q1 adjusted EBITDA was $773 million or 48% of revenues, up 10% over the same quarter last
+year, significantly outperforming our expectations due to strong operating performance and lower net
+utility costs. Our Q1 adjusted EBITDA performance net of our FX hedges included a $3 million FX headwind
+when compared to our prior guidance rates and $4 million of integration costs.
+
+Global Q1 AFFO was $627 million, meaningfully above our expectations due to strong operating
+performance and lower seasonal recurring capital expenditures. Q1 global MRR churn was 2%, a
+meaningful step-down with lower churn across all 3 regions. This improved churn is a reflection of our
+continued discipline strategy of selling the platform for the right customer with the right application and
+into the right footprint. For 2021, we continue to expect MRR churn to average between 2% and 2.5% per
+quarter.
+
+Turning to our regional highlights whose full results are covered on Slides 5 through 7. APAC and EMEA
+were the fastest MRR-growing regions on a year-over-year normalized basis at 10% and 9%, respectively,
+followed by the Americas region at 4%. The Americas region saw continued momentum with record price-
+adjusted gross and net bookings, firm pricing and a large step-up in cabinets billing. We're seeing good
+momentum across many markets in the region with particular spend in Dallas, New York and the smaller
+metros of Denver and Mexico City.
+
+We have a strong booked but unbilled backlog and continue to expect a large step-up in billing cabinets
+through the first half of 2021, as partially experienced in Q1 and with more to follow in Q2. Based on this
+momentum, we expect the Americas normalized quarterly revenue growth rate for the remainder of the
+year to be at or near 6% or better.
+
+Also, our power hedging strategy minimized the impact to our business from the utility price spikes in
+Texas during the extreme weather situation in February. Our power hedging program, along with our
+world-class operational management, ensured we also protected our customers from these price spikes as
+well. There is no incremental revenue due to this unexpected weather situation. Separately, our Texas and
+Oklahoma wind farm settlements trended positively during this quarter.
+
+Our EMEA region saw strong bookings in the quarter, including healthy exports and record intra-region
+activity. Although our flat markets remain core to the region's booking engine, we're also seeing increased
+customer interest in our edge metros, with strong momentum in Dublin, Madrid and Stockholm and
+our new market of Muscat and our soon-to-be-open Bordeaux facility. Revenue growth remained strong
+although moderated from previous levels, as expected, as we lap past our successful cross-connect
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+repricing initiative. Interconnection revenue stepped up to 13% of recurring revenues, showing continued
+momentum.
+
+And finally, the Asia Pacific region had solid net bookings with good pricing and strong enterprise and
+cloud growth led by our Singapore and Japan businesses. Utilization rates continue to remain high, but
+we've opened capacity in key markets this quarter and will add additional capacity through 2021 to ease
+potential inventory constraints.
+
+I'm now looking at our capital structure. Please refer to Slide 8. We ended the quarter with cash
+of approximately $1.8 billion, an increase over the prior quarter, largely due to our inaugural euro-
+denominated green bond refinancing, which raised EUR 1.1 billion at a weighted average interest rate
+of 66 basis points. As a result, Equinix now has the lowest weighted average cost of debt capital and
+the longest weighted average maturity of any publicly traded data center company. We also expect to
+refinance our remaining U.S. dollar high-yield bond over the near term, further driving down our average
+cost of debt.
+
+Our net debt levels remain low relative to our peers at 3.7x our Q1 annualized adjusted EBITDA. We
+continue to work alongside our credit rating agencies and are pleased to announce that earlier today, S&P
+upgraded Equinix to BBB flat and widened our leverage tolerance to 5x. One, we're very appreciative of
+the continued support we get from S&P, and importantly, we're delighted with this increased financial
+flexibility. Looking forward, as stated previously, we'll continue to take a balanced approach to funding our
+growth opportunities while creating long-term value for our shareholders.
+
+Turning to Slide 9 for the quarter. Capital expenditures were approximately $564 million, including
+recurring CapEx of $20 million. We opened 8 new retail projects this quarter, adding 7,400 cabinets,
+including a new IBX in Milan. On the xScale side of the business, we opened 3 new facilities in London,
+Paris and Tokyo, adding an initial 28 megawatts of capacity in our JVs. All this hyperscale capacity
+has been presold. We also purchased land and buildings for development in Montreal and Mexico City.
+Revenues from owned assets represent 56% of our total revenues now.
+
+Our capital investments delivered strong returns as shown on Slide 10. Our now 154 stabilized assets
+increased recurring revenues by 5% year-over-year on a constant currency basis. Also consistent with
+prior years, during Q1, we completed the annual refresh of our IBX categorization exercise. Our stabilized
+asset count increased by net 7 IBXs. These stabilized assets are collectively 85% utilized and generate a
+27% cash-on-cash return on the gross PP&E invested.
+
+And now please refer to Slides 11 through 15 for an updated summary of 2021 guidance and bridges.
+Do note, our 2021 guidance does not include any financial results related to the pending GPX India
+acquisition, which is expected to close in Q2, nor any future capital market activities.
+
+For the full year 2021, we're raising our underlying revenues guidance by $40 million and adjusted EBITDA
+guidance by $33 million, primarily due to strong operating performance and favorable net utility costs.
+This guidance implies a normalizing constant currency growth rate of 7% to 8% year-over-year and an
+adjusted EBITDA margin of approximately 47%.
+
+And given the operating momentum of the business, we're raising our 2021 AFFO by $26 million to grow
+between 10% and 12% on a normalized and constant currency basis compared to the previous year. We're
+also raising our 2021 AFFO per share to range -- to now grow between 9% and 11% on a normalized and
+constant currency basis.
+
+2021 CapEx is now expected to range between $2.725 billion and $2.975 billion, including approximately
+$180 million of recurring CapEx spend, which represents about 3% of revenues. This guidance also
+includes an incremental $200 million of balance sheet xScale projects, funds that we expect to recover
+after contributing these investments into our current and our future JVs.
+
+So let me stop here. I'll turn the call back to Charles.
+
+Charles J. Meyers
+President, CEO & Director
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+Thanks, Keith. In closing, we had a terrific start to the year. As evidenced by our results, the demand
+backdrop for digital transformation remains strong, and I'm very pleased with our Q1 execution and the
+continued progress against our key areas of focus. As the world's digital infrastructure company, we are
+supporting service providers of every size and shape to build out their infrastructure at the digital edge,
+infrastructure that is more global, more distributed and more cloud connected than ever before.
+
+And together, we're leveraging the power of our platform to cultivate scaled digital ecosystems, enabling
+our enterprise customers to access all the right places, all the right partners and all the right possibilities
+as they transform their businesses and seek to accelerate their digital advantage.
+
+On behalf of the 13,000-plus dedicated members of the Equinix family around the world, I want to say
+thank you to our 10,000 customers for the trust they place in Equinix.
+
+Finally, we look forward to our Analyst Day in June, where we'll continue the discussion of our highly
+differentiated business model, outline the enormous opportunity ahead and discuss the actions we are
+taking and the investments we are making to drive sustained long-term value creation for our investors
+and our customers.
+So let me stop there and open it up for questions.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] And our first question today comes from Aryeh Klein with BMO Capital Markets.
+
+Aryeh Klein
+BMO Capital Markets Equity Research
+
+Can you talk a little bit about the lower churn in the quarter? What specifically is driving that, and whether
+or not maybe longer term, you see a path to maybe coming down from that 8% to 10% range that you
+typically see?
+
+Charles J. Meyers
+President, CEO & Director
+
+Sure, Aryeh. Yes, obviously, a great quarter on churn. Really, as we said in the script, one of the best
+we've had in a number of years. And probably a little bit of timing there, we were -- we had some kind
+of pull forward and we probably pushed a little bit out. But I would say that I think that we are -- we
+continue to believe, and as we've talked about this many times, that the best -- our best way of managing
+churn is to continue to be really disciplined in our targeting and our execution of the go-to-market engine.
+And I think that we're seeing that the mix of business continues to be right on the money for what we
+want.
+
+I think we're selling a lot of business into that -- the sweet spot of sort of small to midsized
+interconnection-heavy applications and use cases. And again, I think that's going to bode well for us
+over time. So I mentioned this in several other forums, which is we have been -- the last 2 quarters,
+up towards the high end of the range and even slightly over in Q4 but now down right at the bottom
+of the range. And I think we're really seeing positive trending on the churn. So -- and we have efforts
+underway to really identify all of the -- really project out and look at churn risk in the business in a very
+sophisticated way, identify, get ahead of it, and I think we're seeing real dividends from that.
+
+Aryeh Klein
+BMO Capital Markets Equity Research
+
+Got it. And then just maybe quickly on the new customer additions, it seems like you're a little bit off the
+recent pace. There's obviously a lot of activity, and you're investing in the go-to-market. Is that an area
+we should expect to see an uptick over the next few quarters?
+
+Charles J. Meyers
+President, CEO & Director
+
+Yes. I mean I think that we're -- our new logo additions continue to be strong. We had good momentum in
+new logos through the course of 2020. Q1 is a little bit of a seasonally soft quarter for new logo additions
+typically, but we saw good results. I think enterprise demand continues to be very strong.
+
+Our aggregate customer count is not going up as fast as our new logos due to a variety of factors,
+including the fact that we are -- we're seeing some consolidation activity at the parent account level. We
+see some other movement in terms of people leaving the system either due to some smaller customers
+that might be leaving the system due to financial constraints or other things.
+
+But I would say overall, we're seeing good healthy new logo adds. And I think we're -- we expect to
+continue to see the new customer count grow.
+
+Operator
+
+The next question comes from Jon Atkin with RBC.
+
+Jonathan Atkin
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+RBC Capital Markets, Research Division
+
+A question about Slide 19 on xScale and then Slide 23 on kind of the lease renewal. So xScale, I'm just
+wondering, you've outlined stuff that's opened up, stuff that's kind of in the pipeline. Is that the right kind
+of cadence to think about going forward? Or could that potentially accelerate? And if you could remind us
+how that translates into fee income. There's like 4 different ways you get paid, but some of that may be
+more front-loaded than others before, where you would get the revenue before -- or recognize revenues
+before the customer actually moves in.
+
+And then on Slide 23, just on the lease renewals, I'm wondering what would be a realistic remaining
+pipeline to think about that would enable you to convert leased properties to owned properties. Or is it
+mainly a matter of managing your renewals going forward?
+
+Charles J. Meyers
+President, CEO & Director
+
+Sure. Jonathan, why don't I start with a little bit of color on xScale at a macro level? And then, Keith, if
+you want to jump in and share a little bit more on the fee streams and their impact and flow-through into
+the business, that would be great. And then we'll pick up the second question.
+
+But look, we're delighted with -- and see efforts of Krupal and the whole xScale team and the group of
+people supporting them from within the core Equinix as well as the support we're getting from our partner,
+GIC, is things are really humming in terms of the xScale business. Obviously, we talked about the fact
+that we've had great pre-leasing activity on the facilities that we've put out there. I think there is an
+opportunity for us to increase the pace, and we're going to come back to you at the Analyst Day and really
+talk about kind of what we would see as the scope of opportunity for xScale going forward.
+
+As you'll recall, we talked about that in 2018 at the Analyst Day. And I think that we were -- we certainly
+-- I said it in a number of other forums that we're trending more towards the high end of that. And I
+think we'll give more clarity on what's possible, we think, in the xScale business. But we're targeting the
+pieces of the pie out there that we think are really strategically important and add to the overall platform
+value. And again, we're seeing really good momentum in the business right now. And I do think there's an
+opportunity for us to continue to pick up the pace.
+
+So Keith, why don't you comment on the fee streams and impact in the flow-through?
+
+Keith D. Taylor
+Chief Financial Officer
+
+Sure. So Jon, as it relates to the fees, there's 4 fee streams: 2 are recurring in nature, and 2 are
+nonrecurring. And then the fifth, if you will, stream of value that comes in is below the line through
+income -- equity through affiliated entities. So basically, that's our equity ownership in the business.
+
+Now having said all of that, you are starting to see the momentum pick up as we announced in our
+prepared remarks. We introduced 3 new assets in this quarter, and all of them are presold. And so it gives
+you a sense that the momentum is picking up quite substantially with a fairly robust opportunity in front
+of us. So what you're going to start to see in the coming quarters is some nonrecurring aspects of the fee
+income, but you're really going to start to see a ramp-up of the recurring fee stream as well.
+
+And again, we'll talk more about it on the June Analyst Day. But suffice it to say, it is exciting to see the
+momentum coming from that team. Yes, so let me just leave it there. I think I -- I think we answered your
+question.
+
+Charles J. Meyers
+President, CEO & Director
+
+Keith, why don't you pick up the lease renewals as well and just what the opportunity might be for us to
+continue to increase ownership?
+
+Keith D. Taylor
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+Chief Financial Officer
+
+Sure. And then the second one, as you're talking about -- Jon, about the leased properties, there's
+a number of transactions that we are currently in the middle of. They are -- we have negotiated the
+purchase price -- the purchase of those acquisitions. It's built into our forward guide, no surprise to you,
+both as it relates to cash but also the anticipated consumption of those lease arrangements inside our
+financials.
+
+So we are continuing to acquire where we can. There are some that clearly are more important than
+others. And so where we can, we will focus on those that are the most important. Yet at the same time,
+as we think about our future growth, I think if my memory serves, roughly 75% of all of our future growth
+right now is on property that is owned or we have a long-term arrangement with for a grand lease. And
+it's -- 75% is going into major metros, notwithstanding the fact that we still have 30-plus -- over 35
+projects underway across the world in many, many metros in many, many countries.
+
+So all that said is you'll start to see that continue to go up. It takes time. And then we'll -- I should say
+we'll answer when we close a bit, suffice it to say there are some transactions that we are anticipating to
+announce over the not-too-distant future.
+
+Jonathan Atkin
+RBC Capital Markets, Research Division
+
+Understood. And then just lastly, if I could squeeze this in. The Americas margins came in a lot higher at
+least than we were expecting. Any kind of drivers of that or color you can provide?
+
+Keith D. Taylor
+Chief Financial Officer
+
+I think one of the prepared remarks that I had and -- like, first and foremost, the business is performing
+extremely well, the Americas business. One of the things when we report, there's 2 aspects to it. There's
+the, if you will, the fundamental business that would compare apple-to-apple versus the APAC region, the
+EMEA region, and then there's the corporate overlay. So if I tell you more specifically about the Americas
+region in and of itself without the corporate overlay, margins are continuing to improve largely because we
+have very strong interconnection activity, where we continue to grow our customer base and our scale and
+we're driving more profitability into the business. So that's the -- if you will, the easy response.
+
+The second part is that just timing of expenses. As you know, between Q3, 4 and then this quarter,
+there have been some movement of costs around different quarters. And as a result, we start to see
+the benefit of those -- of that movement in Q4. And specifically, as it relates to Q1, though, again, one
+of the comments we made was that we have a very strong utility cost of power hedging program. Our
+operational team operate our businesses very, very effectively the assets, particularly in the Americas, in
+this particular case, vis-à-vis Texas. And so we have a strong hedging program that protected us against
+those spikes in price.
+
+But we also have a wind farm arrangement where, both in Texas and in Oklahoma, we have wind farms,
+and so we had some benefit attached to that. And then there's some seasonality around our repairs and
+maintenance expense. But overall, you're seeing fundamentally a U.S. business or Americas business that
+is performing exceedingly well and continue to drive margin into its financials, offset by the corporate
+investments that we've been making.
+
+Charles J. Meyers
+President, CEO & Director
+
+And mix of business was really good in the quarter, too, in terms of strong MRR performance, which
+always helps the margins. So yes, a really good quarter. We are continuing to invest, and we're being
+disciplined about the pace of that. But -- and we obviously were pleased with the margin performance,
+and we do have an eye on margin expansion as a priority for us over time.
+
+Operator
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+The next question is from Sami Badri with Credit Suisse.
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research Division
+
+My first question has to do -- to visit back on xScale. I know you guys have laid out quite a bit of
+information on that recently. But the one thing I think that would be very helpful is when we look at the
+originally published returns that you guys were targeting between 13% and 17%, I believe, from the
+2018 Analyst Day, did that include all the various forms of income that you're going to be generating from
+the xScale venture? And is also that the same yield range we should be thinking about for the xScale
+business?
+
+Charles J. Meyers
+President, CEO & Director
+
+Keith, do you want to take that bit?
+
+Keith D. Taylor
+Chief Financial Officer
+
+Sure. We're letting Charles direct traffic since we're in 2 different places, so pardon the pause. So as it
+relates to xScale, look, number one, it's going to be very market-dependent, right? Some markets are
+more competitive than other markets, and you're looking at unlevered anywhere from sort of unlevered
+returns of 8% to 12% at the project level. We get a fee stream on top of that, and then, of course, we put
+some debt on the business. So as a result, when you look at hopefully, Equinix position, our return profile
+is as good, if not better, than what we've shared.
+
+Now having said all of that, if you ask me on a specific project, there'll be some variation. But the team
+under Krupal's leadership are working really well, not only with our construction team but with our JV
+partners, to make sure that we get the right returns and we're negotiating appropriately with the various
+hyperscalers to get a good long-term contract.
+
+So overall, again, I would just say that there's no material variance from what we said [ depending ]
+it's a little bit better. And as Charles made in his prior comments, in fact, there's probably a broader or
+bigger appetite over the coming quarters and years, given the momentum that we're seeing that you'll see
+maybe us do more than we originally anticipated from the June 2018 Analyst Day.
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research Division
+
+Got it. And then just one quick follow-up for you, Keith, is I know the guide does not include any further
+capital markets activity, and you did mention that you are looking to retire the high-yield debt that you
+have. Are you going to reissue that as green debt or in another region? Are you targeting -- do you have
+something in mind for when you do revisit that?
+
+Keith D. Taylor
+Chief Financial Officer
+
+Yes. Yes. I mean no surprise to you, there'll be an element of green attached to any transaction that
+we do. We do anticipate that we will retire it over the nearer term, as I said. There's a relatively strong
+positive impact associated with that. And again, I'll let everybody do the math on what and why that is.
+But it will be a blend of perhaps 5-, 7-, 10-, maybe even 30-year terms, to the extent that we go out that
+far. Some of it will be green. That would be -- that tends to be on the shorter end of the curve.
+
+And then the only other thing I would say is to the extent that we can, we will take advantage of there's
+-- the opportunity to make sure that we can retire some of our foreign debt where possible and arbitrage
+over a favorable sort of interest rate environment.
+
+And the last thing I'd just want to say is, again, we're delighted with the work that our treasury team has
+been doing under Melanie's leadership to negotiate with S&P and get a favorable upgrade. But what was
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+really important here is more financial flexibility. And as many of you have asked over both in our private
+sessions but also on some of the calls, we've always wanted to have more financial flexibility as it relates
+to debt. And no surprise to everybody, debt's our cheapest source of capital.
+
+And as a result, you will see us continue to focus on refinancing the debt and then also using debt, where
+appropriate, with some balance to equity to make sure that we create this long-term investment portfolio
+that we're -- that we've announced. And from our perspective, I just think it was the best of all situations
+today that not only getting that upgrade but also having the flexibility to drive down our cost of capital.
+
+Operator
+
+And the next question comes from Michael Rollins with Citi.
+
+Michael Ian Rollins
+Citigroup Inc. Exchange Research
+
+First, I was just curious if you can just unpack a little bit more of the organic increase in the annual
+revenue guidance. I think that was about $40 million. And when you consider the size of that change
+on $6 billion of revenue last year, how does that fit into the organic constant currency revenue growth
+guidance range of 7% to 8% for 2021 that was unchanged from when you provided that in the fourth
+quarter?
+
+And then just secondly, just a follow-up on xScale. So it seems that for some of the projects, before they
+enter into the joint venture, you're taking some of this on balance sheet. You're running some of this on
+balance sheet from just a high-level perspective. Can you just help frame how we should think about the
+financial impacts that that's having relative to what's the core operating business and strategy?
+
+Charles J. Meyers
+President, CEO & Director
+
+Sure. Well, Keith, why don't you go ahead and grab the revenue guide and we can pair up on the xScale
+follow-up?
+
+Keith D. Taylor
+Chief Financial Officer
+
+Yes. So Michael, I think there's a couple of things. One, when we do the charts, the charts that we've
+shared in the earnings deck with everybody, we really tried to simplify it. There's 2 aspects to it. One is
+what is -- how is the underlying business performing and is $40 million an uplift. The second part is what
+currency. And based on the forecast rates that we're using, there's a $61 million downdraft.
+
+If I -- frankly, if I took the spot rates from today, which we don't do the day of. We -- obviously, we have
+forecast rates, that $61 million would be cut in half, if not by more, just to give you a perspective. Having
+said all of that, when you look at the fundamental underlying business, it's all about the rounding. Again,
+what you've done -- what we've done is we've taken a step up, added $40 million of revenue on a $6
+billion business. And now you're starting to see us move up into the range in the 7% to 8% range. So
+before, the bottom end of the range was slightly below 7%, now you basically -- you're well into the range
+of the 7% to 8%.
+
+Again, this is the first step that we've made since the Q4 earnings call. Again, there's momentum in the
+business, and we're just delighted by the ability to be able to raise $40 million on the underlying business.
+
+Michael Ian Rollins
+Citigroup Inc. Exchange Research
+
+And where is that $40 million coming from, regionally or activity...
+
+Keith D. Taylor
+Chief Financial Officer
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+Yes. I mean as it relates to our sort of our comments around the Americas business, I'm sure it wasn't lost
+on you. It was very deliberate our comment that the Americas business for the next 3 quarters is going to
+be at or 6%, if not better. And so it gives you a sense of the Americas business that had a record, not only
+a record bookings quarter, certainly, on the net basis.
+
+The churn is moderate. And as a result, you're getting an Americas business continuing to perform. And
+so that's one aspect of it. And then the other 2 regions sort of down the middle, there's some aspect due
+to our prior pricing uplift in Europe, sort of have -- we're lapping through, if you will, those price increases
+and some of the accounting adjustments we made last year. But the reality is that overall, the business is
+performing well across our platform, and that's what excites us most.
+
+But if I was to say one specific thing, it's the Americas business. We're just delighted by the momentum
+that we're seeing. Charles made the comment in his prepared remarks. There's over 4,000 transactions
+with over 3,000 customers in the quarter. We're operating at a scale that is just so substantial. And by the
+way, our pipeline is exceedingly strong. And so you -- it's a combination of all that, that has given us the
+confidence and the visibility to raise our guidance at this juncture, and we still have 3 quarters to go and,
+by the way, an Analyst Day.
+
+Charles J. Meyers
+President, CEO & Director
+
+Yes. And then on the xScale piece, Mike, yes, we are kind of leaning in and moving projects forward even
+in advance of those being into the JV structure because we think the market opportunity kind of is there
+to grab. And as Keith said in his -- in the script that there's a couple of hundred million dollars there that
+we would expect to come out of that sort of macro guide he gave overall, which would come in the form of
+reimbursement once those facilities move into the JV.
+
+And so that's something that we -- and -- but I would say that we -- our preference, obviously, is for
+projects to be into the JV from the beginning. And I think we're now at a point where many of the projects
+we'll be able to do that with, but especially in markets where we are looking to either form new JVs or due
+to other circumstances, we are leaning in, taking advantage of the strength of our balance sheet to move
+those things forward. But then looking to get -- obviously, those things get reimbursed and come back to
+us, given that we're -- again, our capital commitment into those projects is basically 1 year to sort of a
+10:1 ratio since we're 20% owners and we expect leverage on those projects.
+
+Keith D. Taylor
+Chief Financial Officer
+
+And if I can just add on to what Charles said there. I think the most important part is to recognize
+that when we do an uplift, like we said in this particular case of our CapEx spend, unfortunately, when
+you look at our financials, it looks like our CapEx has been elevated. But ultimately, when we get that
+reimbursement from the joint venture, it comes through a different line. And so it will be the sale or
+disposition of that construction and progress into the JV. And so basically, it's a gross-up, if you will.
+
+And so that's how it gets represented. But going forward, as Charles said, our objective is to do most of
+this work inside the JV instead of on our balance sheet. And we're working really hard and we'll probably
+spend some more -- I anticipate we'll spend much more energy talking about this at the Analyst Day
+because I think there's a really good story around that particular topic.
+
+Operator
+
+The next question comes from Omotayo Okusanya from Mizuho.
+
+Omotayo Tejamude Okusanya
+Mizuho Securities USA LLC, Research Division
+
+Congrats on the solid quarter. My question has to do more around some of the effects of the FX impact.
+When I take a look at the new guidance assumptions just around the Singapore dollar or the euro or the
+pound, it seems like there's an assumption here that those currencies are going to get -- that the dollar is
+going to get stronger against those currencies. But all year, we've really seen the dollar get weaker. So I
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+guess, I'm struggling a little bit with why the new FX assumptions are assuming the strength in the dollar,
+which is kind of causing this FX drag on to kind of otherwise kind of stellar quarter and outlook.
+
+Keith D. Taylor
+Chief Financial Officer
+
+Sure. Do you want me to take that, Charles or?
+
+Charles J. Meyers
+President, CEO & Director
+
+You got that. Yes, all yours.
+
+Keith D. Taylor
+Chief Financial Officer
+
+Okay. So one, thank you for the question and sort of thanks for raising it. I think if you were to step
+back and say, what is the overall bias to the U.S. dollar, it's for the U.S. dollar to get weaker. And that is
+something that we anticipate. Having said all of that, when we go through our exercise to forecast and re-
+forecast a given quarter, we have to look at the prevailing rates irrespective of what they might be in the
+future.
+
+And so as a company, when we -- on the Q4 call, if you recall, we took out -- there's $106 million, if
+you will, wind at our back from the weakening of the U.S. dollar versus the basket of currencies that we
+operate in. This quarter, that actually reversed to when we annualized the impact, so there was a $61
+million headwind. But as I said in one of my other responses, that's based on our forecast rates that we
+used when we re-forecasted the year and we're giving you the guidance. If I use the spot rates of today,
+there basically is -- that $61 million would drop actually by $45 million. So it tells you that the U.S. dollar
+weakened again.
+
+So again, we try and bring a lot of discipline to how we message it. It's at the point in time when you
+do the forecast. We are not projecting forward on what might happen. If it does happen, then you'll
+see a benefit, and you'll see that benefit primarily because roughly 60% of our revenues are earned in
+currencies other than the U.S. dollar. And so when the U.S. dollar weakens, again, recognize we do have
+some hedges and they take time to burn off, then you'll see an uplift in revenue accordingly. So hopefully,
+that answers your question. And -- but let me stop there and just see if I did answer your question.
+
+Omotayo Tejamude Okusanya
+Mizuho Securities USA LLC, Research Division
+
+Yes, that's actually very helpful. Now I kind of understand some of the nuances around that. If you could
+just indulge me with one more. I mean when you -- at the beginning of the year, there was a lot of
+concern just around extension of sales cycles, whether it was in the hyperscale side or whether it was on
+the enterprise side. Could you just talk a little bit about -- again, it seems like given your stellar quarter
+and some of the comments you've made about your verticals, that, that really isn't a concern anymore. Is
+that a fair statement?
+
+Charles J. Meyers
+President, CEO & Director
+
+Yes. We -- I mean, honestly, we haven't really experienced that other than, I think, in the very acute
+periods of COVID where people were trying to sort of just figure out how to make the transition to work
+from home and really dealing with matters of survival. We did not see any sort of extension -- significant
+extension of the selling cycle. In fact, I would say that I think what we're finding is that we're improving
+our skill set and capability of delivering the sort of the digital transformation-oriented messaging to our
+enterprise prospects and seeing good momentum in terms of bringing those sales cycles down.
+
+And so we haven't seen that. Hyperscale sales cycles are a little longer, but I wouldn't say they have
+protracted. In fact, I think we've made really good progress with several of our key hyperscale customers
+trying to define more repeatable terms that we can do business under, which is compressing the time
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+frame in which we can get deals done. And it's been -- and that's been an important priority for us and
+one that we have really put a lot of energy into of late, and it's really important to our partners and
+customers.
+
+So I would say no, I feel good about the sales cycle right now. In fact, I think when we're looking at our
+funnel, we're seeing a very deep funnel, and we're feeling like conversion rates and conversion timing
+support optimism about the remainder of the year, which is all kind of reflected in our guidance.
+
+Operator
+
+The next question comes from Colby Synesael from Cowen.
+
+Colby Alexander Synesael
+Cowen and Company, LLC, Research Division
+
+A few questions. So on the 2Q -- yes, on 2Q guidance, you mentioned you're using a wider range, just
+given what could be some, I guess, volatility within the nonrecurring portion. I was wondering if you could
+just give us some sense of what you're thinking NRR might look like. And could we step back up to the
+levels we saw in the fourth quarter? And is that a better assumption going forward?
+
+And then secondly, just a point of clarification on your CapEx guidance. You maintained the guidance at
+$2.125 billion to $2.315 billion for the nonrecurring portion, but is that including the $425 million to $475
+million for xScale? It felt like you were saying in your prepared remarks that it is included, but the way at
+least the press release looks like reads -- at least reads to me like it's excluded. So I just want to get a
+clarification there.
+
+And then just real quickly, as it relates to the Analyst Day, obviously, xScale is going to be a big focus. It's
+been a big focus of questions this evening. What else are you planning? Like what is the big focus? I mean
+where do you think that investors are maybe a little bit off in terms of their thinking of the company and
+really want to make sure you're going to be hitting home on?
+
+Charles J. Meyers
+President, CEO & Director
+
+Okay. Keith, why don't you talk about the Q2 revenue range and NRR and then the xScale CapEx, and I'll
+pick up that last piece on the Analyst Day focus?
+
+Keith D. Taylor
+Chief Financial Officer
+
+Sure. Yes, Colby, as it relates to the nonrecurring, I think what you could see is that meaningfully step up
+to -- if you think about Q4 of '20, you're starting to get to a percentage of nonrecurring revenue that could
+look something like that. As we said in the prepared remarks, and again, I know you know this quite well,
+because of some of the work that we're doing, and I made a reference a couple of quarters back, that
+there were some large installations that were taking place in the first half of the year. It looks like that
+those will close and install in Q2.
+
+As a result, you'll see a step-up. Again, it would be more reflective of what you -- the percent of revenue
+coming from nonrecurring that we saw in Q4. And then it would -- it moderate back down -- higher than
+Q1 but moderate back down more -- to a more reasonable level for Q3 and Q4. So hopefully -- is that
+helpful? I want to make sure I...
+
+Colby Alexander Synesael
+Cowen and Company, LLC, Research Division
+
+Yes, that is perfect.
+
+Keith D. Taylor
+Chief Financial Officer
+
+Okay.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+Charles J. Meyers
+President, CEO & Director
+
+And then on the xScale CapEx, Keith?
+
+Keith D. Taylor
+Chief Financial Officer
+
+Yes. Sorry, pardon me. As it relates to the xScale CapEx, that is included in the number.
+
+Charles J. Meyers
+President, CEO & Director
+
+And then relative to Analyst Day, there'll be a number of things. Yes, we will definitely talk about the
+momentum in the xScale business. Again, it will start flowing through and at least positively impacting
+the overall business. But again, since we don't consolidate revenue there, it's not going to be a major
+driver there other than some very positive flow-through on the fee streams and, of course, the continued
+strategic importance of that to our platform overall.
+
+But I think our focus is going to be speaking about the overall opportunity, giving some additional
+color on our views on the addressable market and how it's expanding and how our relevance to digital
+transformation continues to increase in the eyes of our customers. We'll talk about what we're doing to
+continue to evolve our go-to-market engine to respond to that, including how we're -- what we're doing on
+the channel side of things.
+
+We'll also talk about our road map for digital services and how we're adding to and scaling capabilities
+like Network Edge and Equinix Metal and maybe what we have on the horizon in terms of how those
+digital services are really going to be responsive to how our customers are thinking about consuming and
+adapting their digital infrastructure for the world ahead. And I think that right now, we continue to see
+great momentum, great response from our customers, and we're eager to share those things coming in
+June.
+
+Operator
+
+And the next question comes from David Guarino with Green Street.
+
+David Anthony Guarino
+Green Street Advisors, LLC, Research Division
+
+Last quarter, you guys mentioned development yields for xScale had declined since you initially entered
+the hyperscale space. But can you maybe talk about what's happened to hyperscale cap rates over that
+same time frame and what that might mean for Equinix and their ability to achieve better pricing on JVs
+than the initial ones that were done with GIC?
+
+Charles J. Meyers
+President, CEO & Director
+
+Yes. I mean I would say that we did mention that. And as Keith said, I think that our overall return profile
+continues to look very attractive in terms of what we think post fees and post leverage, the kinds of
+returns that we're going to be getting on those projects. Although, as he also said, it is a wide range
+depending on the digital projects and individual sort of market circumstances.
+
+Because I do think there are markets where we've seen that because I think Keith quoted 8% to 12% as
+sort of yields that we're looking at in terms of a range, and there are markets that are at the -- certainly
+at the low end of that were -- due to a variety of circumstances and just the overall competitive nature of
+the market.
+
+But I think in terms of -- I think we're very pleased with the nature of our relationship with GIC. We
+think that we can continue to extend that and have other JVs of similar ilk around the world under very
+favorable set of terms. We find ourselves to be a very attractive partner based on the engagement that
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+we've had as we've looked at these JVs. And so we expect we're going to be able to get very favorable
+terms for those partnerships and have them be very much a win-win.
+
+So Keith, I don't know if you want to add anything on that last topic relative to the cap rates.
+
+Keith D. Taylor
+Chief Financial Officer
+
+No. I think it's -- that was reflected in the comments. Again, it will be specific to the market. Again, we
+look at the project level, and then there's the fee stream for Equinix and then the leverage that we put
+on the business. And overall, we're pleased with the business. And again, we're going to spend a lot more
+energy talking about this in the June Analyst Day. And we'll be able to break out and give you a little bit
+more color. I think that will make you probably more satisfied with the overall project, David.
+
+David Anthony Guarino
+Green Street Advisors, LLC, Research Division
+
+Okay. No, that's helpful. And then maybe one more question. We haven't really talked about this topic in
+a while, but could you share your thoughts on public-to-public M&A for the data center REIT sector and if
+Equinix could be a potential player on that?
+
+Charles J. Meyers
+President, CEO & Director
+
+Sure. I'll comment. Keith, if you want to add, feel free. We -- again, we have always believed and we've
+been quite successful using M&A as a tool in terms of thinking about how to expand our business and
+create value for our customers and for our shareholders. That hasn't changed. We continue to believe that
+there are opportunities out there.
+
+I would say that probably more of them are aligned around in the private markets, and we've clearly been
+active in that regard, filling out our platform geographically and adding key scale and locations in some
+of our markets around the world. But we're not going to be -- if we felt like there were transactions that
+we would think were highly strategic and were the right economics in terms of how the deal would flow
+through on an accretion basis, that we're going to be open to those things. But I'd say that it's probably a
+little biased right now more towards private opportunities in the -- or opportunities in the private markets,
+but we're going to always be -- have our eyes wide open.
+
+Operator
+
+And the last question comes from Erik Rasmussen from Stifel.
+
+Erik Peter Rasmussen
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Maybe just back on xScale. You've really been leaning into that initiative over the past few quarters. Can
+you just maybe comment on the environment as it relates to the hyperscalers? Is this more concentrated
+with a few of the leaders? Or is it more broad-based?
+
+Charles J. Meyers
+President, CEO & Director
+
+Yes. I mean when we formulated the xScale entity and approach, we talked about a range of players
+there that would be -- that we would pursue relationships with and pursue business with. It is, to some
+degree, concentrated. I think it's just that's the nature of the hyperscale community today is that the
+largest end of that is taking up more of the overall demand or providing more of the overall demand. So
+it's concentrated at some level.
+
+But we have had significant success beyond sort of the 3 or 4 that would pop to mind for people right
+off the top of their head. And so I think we're going to continue to evaluate those opportunities. But I
+-- and I would say that we're really continuing to build on a strong relationship we've had with that full
+hyperscale community for a very long time. Because as I talked about with our -- when I characterized
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+our hyperscale relationships at the Analyst Day in 2018, we -- they are amongst our largest customers,
+many of them. And that is a lot of it on the backs of really the important role that we play in terms of their
+network nodes, their on-ramps and other elements of their infrastructure outside of sort of availability
+zones and really large core deployments that might be more of the focus of xScale.
+
+So it's a very multifaceted relationship that we have with them. They're critical. We believe that as people
+adopt hybrid and multicloud as the architecture of choice, we think doing that at Equinix is really going to
+be a key priority for them in terms of both superior economics and performance. And so the relationships
+that we have with the xScale -- or with the hyperscalers are very important to us. And it's certainly, to
+some degree, concentrated from a demand basis, but we're continuing to strive to extend that to a larger
+portfolio of customers.
+
+Erik Peter Rasmussen
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Okay. Great. Maybe just my last -- my follow-up then. Any change in the competitive environment in
+Europe around DLR and Interxion a year after that deal is closed, especially as it also appears that
+investment activity has picked up and demand still seems to be pretty robust there?
+
+Charles J. Meyers
+President, CEO & Director
+
+Yes. I would say, no, not really. I mean I think we continue to feel very good about our overall competitive
+position in Europe. As I said, Interxion has always been a very critical -- credible pan-European player
+there, and I think that continues to be the case. But we have what we think is a much stronger global
+story and have had great success in the market and are going to continue to build on that success, and we
+feel good about our position there.
+
+Katrina Rymill
+Vice President of Investor Relations
+
+That concludes our Q1 call. Thank you for joining us.
+
+Operator
+Thank you. That does conclude today's conference. And thank you for participating. You may disconnect at
+this time.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+EQUINIX, INC. FQ1 2021 EARNINGS CALL |  APR 28, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+

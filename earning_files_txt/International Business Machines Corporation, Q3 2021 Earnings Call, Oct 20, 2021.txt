@@ -1,0 +1,1180 @@
+International Business Machines Corporation 
+NYSE:IBM
+FQ3 2021 Earnings Call Transcripts
+Wednesday, October 20, 2021 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2021-
+
+-FQ4 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+2.51
+
+2.52
+
+0.40
+
+4.15
+
+10.68
+
+11.83
+
+Revenue  (mm)
+
+17809.84
+
+17618.00
+
+(1.08 %)
+
+20798.36
+
+75207.84
+
+76544.65
+
+Currency: USD
+Consensus as of  Oct-20-2021 3:38 AM GMT
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+FQ3 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+1.88
+
+1.65
+
+2.29
+
+2.51
+
+2.07
+
+1.77
+
+2.33
+
+2.52
+
+SURPRISE
+
+10.11 %
+
+7.27 %
+
+1.75 %
+
+0.40 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+11
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+Call Participants
+
+EXECUTIVES
+
+Arvind Krishna
+CEO & Chairman of the Board
+
+James J. Kavanaugh
+CFO and Senior VP of Finance &
+Operations
+
+Patricia Murphy
+Vice President of Investor
+Relations
+
+ANALYSTS
+
+A.M. Sacconaghi
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+David Michael Grossman
+Stifel, Nicolaus & Company,
+Incorporated, Research Division
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+Kathryn Lynn Huberty
+Morgan Stanley, Research Division
+
+Keith Frances Bachman
+BMO Capital Markets Equity
+Research
+
+Tien-Tsin Huang
+JPMorgan Chase & Co, Research
+Division
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+Presentation
+
+Operator
+
+Welcome, and thank you for standing by. [Operator Instructions] Today's conference is being recorded. If
+you have any objections, you may disconnect at this time. Now I will turn the meeting over to Ms. Patricia
+Murphy with IBM. Ma'am, you may begin.
+
+Patricia Murphy
+Vice President of Investor Relations
+
+Thank you. This is Patricia Murphy, and I'd like to welcome you to IBM's Third Quarter 2021 Earnings
+Presentation. I'm here with Arvind Krishna, IBM's Chairman and Chief Executive Officer; and Jim
+Kavanaugh, IBM's Senior Vice President and Chief Financial Officer. [indiscernible] prepared remarks on
+the IBM investor website within a couple of hours, and a replay will be available by this time tomorrow.
+
+I'll remind you the separation of Kyndryl is expected to be completed at the beginning of December. And
+as a result, our third quarter performance reflects IBM, including the managed infrastructure services
+business and our pre-separation segment structure.
+
+Comments made in this presentation may be considered forward looking under the Private Securities
+Litigation Reform Act of 1995. These statements involve factors that could cause our actual results
+to differ materially. Information about these factors is included in the company's SEC filings. The
+presentation also includes non-GAAP measures to provide additional information to investors.
+
+For example, we present revenue and signings growth in constant currency. In addition, to provide a
+view consistent with our go-forward business, we'll focus on constant currency growth, adjusting for the
+divested businesses for the impacted lines of total revenue, cloud and our geographic performance. We
+provided reconciliation charts for these and other non-GAAP measures at the end of the presentation, 8-K
+submitted to the SEC.
+
+With that, I'll turn the call over to Arvind.
+
+Arvind Krishna
+CEO & Chairman of the Board
+
+Thank you, Patricia, and thanks to all of you for joining us today to discuss our third quarter performance.
+At our recent investor briefing, we laid out our hybrid cloud and AI strategy and our approach to delivering
+strong free cash flow and sustainable mid-single-digit revenue growth starting in 2022.
+
+For the last 1.5 years, we've been taking actions and investing to execute our strategy. This quarter, we
+reported modest revenue growth and delivered solid free cash flow, generated over $11 billion of adjusted
+free cash flow over the last year. We also made tangible progress in our key growth areas of software and
+consulting.
+
+With that, I will acknowledge that in other areas of the business, we fell short of our expectation; systems
+during the end of the z15 cycle and Global Technology Services lines pausing ahead of the public filing of
+the Form 10 and separation of Kyndryl. We have made further progress in the Kyndryl separation in the
+last 2 weeks and announced the distribution date of November 3, which is ahead of our original schedule.
+
+We've done a lot to prepare Kyndryl for this moment. We took structural actions to improve the profit
+profile. The management team is in place. Employee transfers and the vast majority of client contract
+innovations are complete.
+
+We are now even more certain that separating this business creates value through focus. That said, the
+people of GTS have been a part of IBM for a long time. Hence, it is with mixed emotions that we are
+reporting on this segment for the last time.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+And just yesterday, you heard from Martin and his management team improved strategy and value
+proposition. The separation is just one of the many actions we are taking to focus our business on hybrid
+cloud and AI and improve our financial profile.
+
+To give you some color on IBM's performance excluding Kyndryl, we delivered 2% revenue growth this
+quarter. That compares to 1% in the second quarter and minus 1% in the first quarter. These results
+reflect the strong demand for technology products and services that help our clients advance their digital
+transformation.
+
+Our software revenue growth was led by Red Hat, security, automation and Cloud Paks across our
+software. Global Business Services, soon to be IBM Consulting, accelerated revenue growth to a double-
+digit rate. Software and consulting are our 2 main drivers of growth, and this was certainly true this
+quarter.
+
+I will now expand on the progress we made in the third quarter toward our future. As I have described in
+the past, we have a platform-centric approach, trying to meet clients wherever they are in their journey.
+The platform we have built is open, secure and flexible and continues to gain traction in the marketplace.
+We now have more than 3,500 clients using our hybrid cloud platform, not only fuels our Red Hat revenue
+performance but also provides a solid base for the multiplier effect across software and services.
+
+IBM Consulting is helping to drive this platform adoption and this quarter, had over 180 new Red Hat
+engagements. Our teams work alongside our clients to co-create business products and solutions. So far,
+we have done more than 4,000 IBM garage engagements. In the last quarter, more clients are leveraging
+our platform capabilities and our expertise to unlock business value. Announced DISH is using IBM
+software and services to help automate their cloud-native 5G network; Cloud Pak for Network Automation,
+which is used with AI, automation and orchestration capabilities used by DISH to fine-tune speed levels or
+coverage areas depending on the needs of specific clients.
+
+Building on our partnership spanning half a century, we announced Crédit Mutuel is creating an IBM
+technology and skills hub in France. The new hub will help Crédit Mutuel leverage AI, data, cloud and IBM
+Z.
+
+Also announced a new agreement with CaixaBank, one of the largest banks in Europe, to boost its
+digital capabilities with IBM Cloud for Financial Services and the new IBM Cloud Multizone Region in
+Spain. CaixaBank will leverage IBM Consulting industry expertise to move to a hybrid cloud approach for
+modernization.
+
+This quarter, we continued to leverage our ecosystem to drive what we described at our investor briefing
+as a flywheel of growth. That is the more we grow, the more our partners grow and vice versa. We're
+partnering with select GSIs to bring joint solutions to market. This quarter, Atos announced the setup of
+the Atos Cloud Center of Excellence to help financial services customers with their digital transformation
+journey.
+
+Also have continued momentum and revenue growth from our partnership with industry-leading ISVs
+and hyperscalers. [ Quarter ], we are partnering with Adobe to help the British pharmacy chain, Boots,
+transform their e-commerce platform and deliver new digital customer experiences.
+
+While we invest in partnerships, we also invest organically and inorganically to deliver innovation. We
+made 16 acquisitions since April 2020, including BoxBoat and Bluetab in the third quarter. These will
+strengthen our hybrid cloud consulting capability.
+
+In the same manner, we are organically developing new innovations that matter to our clients. I'll mention
+a few new introductions starting with our innovations in software. In the quarter, Red Hat introduced
+a new re-architectured version of the Red Hat Ansible automation platform. Red Hat also launched a
+new version of its advanced cluster management of Kubernetes. These 2 products are now more tightly
+integrated, which helps drive hybrid cloud automation.
+
+In addition, the latest version of Red Hat OpenShift became generally available. IBM Cloud Paks run
+anywhere that OpenShift runs. They use common services such as logging, metering, monitoring and
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+security and are infused with innovations and capabilities from IBM Research to deliver much more value
+than containerized code. In this quarter, we launched Cloud Pak for Security, SaaS as well as new versions
+of Cloud Pak for Integration, Cloud Pak for Network Automation and the Maximo application suite.
+
+Also recently announced, our Environmental Intelligence software suite. Product based on our Cloud
+Pak for Data and leveraging our weather capabilities is designed to help companies measure, monitor
+and predict environmental outcomes but also to help simplify ESG reporting. As you know, we made
+a commitment to be net 0 greenhouse gas emissions by 2030. We will leverage this solution to inform
+management as we take action to reach this goal.
+
+Our Systems business, we recently launched Power10. Power10 has unique hardware innovations,
+including a processor specifically optimized for data-intensive workloads such as SAP S/4HANA.
+
+During the quarter, we also announced a Telum processor. This 7-nanometer microprocessor is engineered
+to help clients gain insights from their data at the speed of the workload. At the same time, we've
+continued to see quantum computing as a promising area of opportunity that will play out in the longer
+term. Our teams are hard at work to move this exciting field forward. Investors will have an opportunity to
+learn more about this within the next month.
+
+Let me quickly highlight one ESG announcement we made recently. To help protect the rights and privacy
+of cloud clients, we have joined other major companies in the tech industry, Amazon, Google, Microsoft,
+Salesforce and SAP, to establish the trusted cloud principles. This initiative is consistent with our long-
+standing focus on trust and transparency.
+
+Before I transition to Jim, let me reiterate 3 messages we conveyed during our investor briefing. First,
+we are optimizing our portfolio to drive mid-single-digit revenue growth starting in 2022. Second, we are
+increasing our focus and agility to better serve clients. Third, we are generating strong free cash flow that
+enables our investments while providing attractive shareholder returns. This quarter, we took another
+step towards this future. While much remains to be done, we are confident we can achieve our midterm
+objectives.
+
+Jim, over to you.
+
+James J. Kavanaugh
+CFO and Senior VP of Finance & Operations
+
+Thanks, Arvind. Over the last year, we have been very clear on the 2 most important measures of success,
+revenue growth and free cash flow generation. I'll start with these key metrics.
+
+In the third quarter, our revenue of $17.6 billion was up as reported and down modestly at constant
+currency. Excluding the content that will go to Kyndryl, IBM's revenue grew 2% with an improving trend
+over the last 3 quarters.
+
+Our cash generation was up for the quarter, year-to-date and trailing 12 months. This excludes the cash
+charges associated with the separation of Kyndryl and the structural actions initiated at the end of last
+year.
+
+Looking at our revenue from a segment perspective, Global Business Services growth accelerated to
+11% and our software revenue was up 2%. [ Businesses ] will be our growth drivers into the future and
+together represent over 70% of our post-separation revenue profile. Systems declined this quarter by
+12%, reflecting product cycle dynamics.
+
+Across our segments, IBM's cloud revenue was up 11% over last year, and it's up 17%, excluding the
+cloud revenue going to Kyndryl. This is led by Global Business Services and Cloud & Cognitive software,
+which are up 27% and 28%, respectively, over that period.
+
+Moving on to the profit dynamics. Pretax margin is up 10 basis points sequentially but down 100 basis
+points year-to-year. As we saw the demand environment improving in the fourth quarter of last year,
+we have been increasing investments in skills, innovation and our ecosystem, organically and through
+acquisition.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+In the third quarter, we continued to aggressively hire, bringing in technical talent in Red Hat and highly
+skilled expertise in Consulting. We're scaling resources in our garages to provide a more experiential
+consulting and sales approach. We're adding client success managers to help clients get the most value
+out of their IBM solution, and we're increasing investments in R&D to deliver innovations in our hybrid
+cloud platform, AI and emerging technologies like Quantum.
+
+The structural actions we initiated at the end of last year are funding some of these investments. Roughly
+2/3 of the savings from these actions address stranded costs from the separation and create financial
+flexibility to be reinvested for growth. The other 1/3 address the Global Technology Services profit profile
+ahead of the separation, and we're seeing improvement in the GTS gross margin.
+
+Our third quarter operating tax rate came in about 5%, which is lower than what we talked about last
+quarter. This was due to discrete tax benefits that occurred earlier than we previously expected as we
+prepare for the Kyndryl separation. It's important to note that our view of the full year operating tax rate
+has not changed since January.
+
+I'll comment on our free cash flow and balance sheet position. We generated $5 billion of adjusted free
+cash flow year-to-date and $11.1 billion over the last year. Both exclude cash impacts of about $1.8 billion
+for the structural actions initiated late last year and transaction charges associated with the separation
+of Kyndryl. Our adjusted free cash flow over the last year is up about $300 million with growth in our
+underlying business performance mitigated by a cash tax headwind.
+
+Our cash balance at the end of September was $8.4 billion, up slightly from June but down about $6 billion
+from year-end. Over the same period, our debt is down $7 billion.
+
+In addition to debt reduction year-to-date, we've used $3 billion for acquisitions and over $4 billion for
+shareholder returns through dividends. Our solid cash generation and disciplined financial management
+provides the fuel to invest in our business and pay an attractive dividend.
+
+Turning to the segments. Cloud & Cognitive Software revenue grew 2%. We have a strong recurring
+revenue base in Software. Renewal rates for subscription and support were up again this quarter,
+contributing to the increase in our software deferred income balance over the last year.
+
+By business area, Cloud & Data Platforms revenue was up 9%, while Cognitive Applications declined 1%,
+and Transaction Processing platforms was down 9%. We recently shared plans to provide new software
+revenue categories starting in the fourth quarter. We will combine our 2 Software growth vectors, Cloud &
+Data platforms and Cognitive Applications and within that, provide greater transparency into performance
+and trends by business area.
+
+Looking across these growth vectors, Red Hat, security and automation fueled revenue growth this
+quarter. Red Hat revenue was up 17% on a historically normalized basis and 23% all-in. Going forward,
+we will focus on this all-in growth given these views will converge over the next year as the impact of the
+deferred revenue impairment dissipates. Red Hat revenue growth was driven by double-digit growth in
+both infrastructure and application development and emerging technology. And we had more than 40%
+growth in OpenShift recurring revenue. Growth in automation was led by key solutions like Cloud Pak for
+Integration, and Cloud Pak for Business Automation as well as a strong start to our recent Instana and
+Turbonomic acquisition.
+
+Our data and AI revenue was down modestly. We had strength in Cloud Pak for Data, Weather and Maximo
+and declines in on-premise data ops portfolio and supply chain as it wrapped on a strong third quarter last
+year.
+
+Security remains a key strategic focus area as we're helping clients adopt zero trust architecture with
+Cloud Pak for Security and export services. Growth in security revenue continued this quarter, led by
+threat management software and services as clients respond to the evolving cybersecurity environment.
+
+In the spirit of transparency, I'll provide a couple of additional metrics into our performance. Our annual
+recurring revenue, or ARR, across these software growth vectors grew 7%. This is a good indication of
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+the progress in our hybrid cloud and AI client adoption. And we now have over $8 billion in software cloud
+revenue over the last year, which is up 28%.
+
+Turning to our software value vector, transaction processing platforms. We provide flexibility to our clients
+and how they purchase this mission-critical software. Over the last 18 months, we've seen a preference
+for OpEx over CapEx. This continues to pressure perpetual licenses in favor of more consumption-
+like model. But importantly, we again had strong renewal rates in our transaction processing platform
+software. This is a solid indication that clients see long-term value in these offerings.
+
+Looking at profit for the Software segment. We expanded pretax margin sequentially, while we continue to
+invest in new innovation and our ecosystem.
+
+Moving to Global Business Services. Revenue growth accelerated to 11%. Even with the strong revenue
+performance, our book-to-bill ratio was greater than 1. Our GBS value proposition is aligned to our clients'
+priorities. We're helping our clients capture new growth opportunities and increase operational flexibility
+and productivity with hybrid cloud and AI. We leverage our incumbency, IBM technology and strategic
+partnerships to modernize their applications and digitally transform their businesses at scale.
+
+GBS revenue growth is led by our cloud offering. GBS cloud revenue now represents more than $7 billion
+of revenue over the last year and is up 27%. This performance reflects the continued investments we are
+making in our Red Hat, Microsoft and AWS practices.
+
+As Arvind said, we added over 180 Red Hat client engagements this quarter. This contributes to total Red
+Hat-related signings of close to $3.5 billion since the acquisition.
+
+Within our 11% revenue growth, consulting was up 16%. There's solid demand here. We're leveraging
+our skills and ecosystem partners to transform our clients' business processes and modernize applications
+based on OpenShift.
+
+Global processing services revenue was up 19%. Our offerings in finance, procurement and talent and
+transformation all grew at double-digit rates. More and more, we're connecting consulting and BPO to
+transform client workflows using hybrid cloud and AI.
+
+Lastly, in Application Management, revenue growth accelerated to 5%, off a prior year that was impacted
+by the pandemic. Growth this quarter was driven by management of applications in a multi-cloud
+environment.
+
+I'll shift to GBS profit profile, where our strong revenue performance drove gross and pretax profit dollar
+growth. Our gross and pretax margins improved sequentially but were down year-to-year. With the market
+opportunity we see, we are making conscious decisions to invest ahead of revenue. We are investing in
+strategic partnerships, new offerings and practices and integrating and scaling out our acquisition.
+
+As I mentioned earlier, we are investing in skills for GBS. In the last several months, we have increased
+our go-to-market resources and scaled our practices built around our ecosystem partners and Red Hat.
+With a competitive labor market, this is putting some pressure on our labor costs, including higher
+acquisition and retention costs, which is not yet reflected in our current pricing. We expect to capture this
+value in future engagements, but it will take time to appear in our margin profile.
+
+So now turning to the Systems segment. Revenue performance was down 12% driven by product cycles
+in IBM Z and Power, mitigated by growth in Storage. In IBM Z, revenue declined 33% in the ninth quarter
+of z15 availability. While z15 program to date continues to exceed the strong z14 cycle, the magnitude of
+that overachievement has come down a couple of points this quarter.
+
+IBM Z is an enduring platform given market needs for scalability, reliability, security and more recently,
+cloud native development. These characteristics, together with our newer flexible consumption offerings,
+further demonstrate the value of IBM Z platform within our hybrid cloud and AI strategy.
+
+Our revenue was down. Late in the quarter, we began the rollout of our next-generation Power10 starting
+with high-end system. As always, new Power technology is introduced over time, and the mid-range and
+low-end Power10 systems will be available during 2022.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+Storage delivered 11% revenue growth driven by demand from hyperscalers for our tape products and
+growth in entry-level all-flash storage following our product refresh earlier this year.
+
+Looking at profit in this segment. Profit margin was down, reflecting where we are in the IBM Z and
+Power10 product cycles.
+
+So now let me turn to Global Technology Services. Revenue was down 5%, which is a 1 point deceleration
+from last quarter. The year-to-year trajectory of revenue generated from the backlog has been improving
+over the last few quarters. In the first half of the year, we also had modest improvements in client-
+based business volumes and project activity, which contributes to in-period revenue. However, this
+quarter, clients paused on new project activity as the separation was imminent, resulting in the revenue
+deceleration.
+
+At the time we decided to separate our managed infrastructure services business, we undertook a series
+of actions to improve the margin, profit and cash generation profile of the business, including a substantial
+charge in the fourth quarter of 2020. The results of these actions can be seen in the margin improvement
+over the last several quarters. And this quarter, we again expanded gross margin, up 120 basis points.
+Kyndryl will take this improved profit profile into the separation.
+
+I'll wrap up with a view of our progress year-to-date and then talk about some of the fourth quarter
+dynamics. As we enter 2021, we laid out our expectations for the year for our 2 most important
+measures: revenue and free cash flow. We expected to grow revenue for IBM at actual rates with
+underlying constant currency performance stronger in the second half than the first. We expected to grow
+revenue for IBM, excluding Kyndryl, at constant currency. And we expected to generate $11 billion to $12
+billion of adjusted free cash flow. That, of course, excludes the cash impacts of the Kyndryl transaction
+costs and the structural actions I'd mentioned earlier.
+
+Now we're 3 quarters into the year, and we just completed the last full quarter of IBM on a pre-separation
+basis. It's a good time to take a snapshot against those objectives. Through the first 3 quarters, our
+revenue at actual rates is up 2%. Our revenue growth trajectory at constant currency has been improving
+throughout the year. And excluding Kyndryl, our third quarter revenue was up 2% year-to-year, and our
+adjusted free cash flow over the last 12 months is $11.1 billion.
+
+Since the beginning of the year, we have streamlined our go to market. We have increased investments
+and closed 10 acquisitions these actions and investments will help drive revenue growth, but it takes time
+to fully realize the benefit.
+
+Overall, our results over the first 3 quarters of 2021 reflect progress we've been making toward our
+midterm model. During the fourth quarter, we will complete the separation of Kyndryl, which is on track
+for November 3. The fourth quarter, therefore, is a major milestone as we transition to the future IBM.
+
+Now let me provide some color on 3 areas for the fourth quarter: first, the revenue trajectory of the new
+segments; second, I'll comment on our tax rate; and third, the impact of the separation of Kyndryl to
+IBM's consolidated results for November and December on an operating basis.
+
+I'll start with the revenue trajectory of our segments as we report them in the fourth quarter. As always,
+I'll talk about it on a constant currency basis. But I'll remind you, the U.S. dollar continues to strengthen
+and would be a 1 to 2 point headwind to growth based on current spot rates. To provide a better view of
+trends, I'll focus on the growth rates before the revenue from incremental sales to Kyndryl.
+
+We see continued momentum in our growth vectors in Software and Consulting. We expect our Software
+revenue growth rate to improve versus the third quarter. And in IBM Consulting, we again expect double-
+digit revenue growth. In infrastructure, given product cycle dynamics, we expect fairly consistent
+performance with the third quarter, which was a high single-digit decline.
+
+Second, tax. I mentioned the timing of discrete tax benefits occurred earlier than we previously
+anticipated as we prepared for the Kyndryl separation. We still expect our full year tax rate to be in the
+low teens range, in line with what we indicated back in January. That's our all-in rate including discrete tax
+items and applies a fourth quarter tax rate in the high teens.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+And then finally, IBM's fourth quarter consolidated results will reflect the Kyndryl separation. I'll frame
+the revenue and earnings per share implications based on the last couple of years. Kyndryl historically
+represented just under $5 billion of revenue in the fourth quarter, with about $3.5 billion of that in
+November and December. At the same time, we estimate we'll get about $350 million from incremental
+sales in those 2 months from the new commercial relationship.
+
+The net impact to IBM consolidated results is a reduction of about $3 billion of revenue for November and
+December due to the separation. And for those 2 months, we estimate an impact of $0.20 to $0.25 of
+earnings per share including the new commercial relationship.
+
+At the time of separation, Kyndryl will be presented in discontinued operation, with the balance of IBM in
+continuing operation. We will provide a historical restatement of continuing operations before the end of
+the year.
+
+We are on the threshold of the future IBM. We expect to exit the fourth quarter in a position to deliver our
+mid-term model, a mid-single-digit revenue growth and cumulative free cash flow of $35 billion in 2022 to
+2024.
+
+So with that, we'll be happy to take your questions.
+
+I'll turn it back to Patricia.
+
+Patricia Murphy
+Vice President of Investor Relations
+
+Thank you, Jim. Before we begin the Q&A, I'd like to mention a few items. First, several references were
+made today to IBM's new segment structure, which will be effective immediately prior to the Kyndryl
+separation. We provided information on the new segment scope and naming in an article posted to our
+investor website at the beginning of this month.
+
+Second, supplemental information is provided at the end of the presentation. [indiscernible] includes the
+schedule of the availability of recast financial information for IBM post separation.
+[Operator Instructions] Operator, let's please open it up for questions.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from Wamsi Mohan with Bank of America.
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+Arvind, there seems to be a lot of concerns around the actual separation in terms of potential disruptions.
+You noted on this call that you saw some hesitation or pause in spending. Do you feel -- given the changes
+that you have put in place also with sales comp, do you feel comfortable about the trajectory of the
+business once you get past this threshold of near-term disruption that you highlighted?
+
+And if I could, Jim, you noted about $2.5 billion onetime bump from Kyndryl in 2022. Can you maybe
+calibrate that number for 2021 as well? That would be helpful.
+
+Arvind Krishna
+CEO & Chairman of the Board
+
+Wamsi, thanks for the question. Look, I'd like to be very clear. I think that any -- and I would not use the
+word disruption, Wamsi. I would use the word that there may be a slight pause, which is the words that
+I used in the -- my prepared remarks. I think there's a slight pause, and it'll be the end of third quarter,
+maybe the beginning of fourth quarter. And we see that fall mostly in hardware and in Kyndryl itself.
+
+By the way, just to add some color, why do you see that? There has been a lot of hardware that actually
+does flow through Kyndryl. And many people, many of our clients think of that as being an alternate way
+that they have procured infrastructure in the past. So it's not a surprise given the size of the relationship
+with all of those clients that we see a pause in some of them. By the way, I think that that's the complete
+nature of it.
+
+When I look at our pipeline, I look at our sales compensation, I look at our executive compensation, I am
+completely confident that this will be well behind us by the beginning of '22, meaning by January, well
+behind us.
+
+And as we also get into a new product cycle on some of the hardware in the first half of '22, I think that'll
+put it completely behind us. And so my view is that we hold firm to our '22 and forward projections. And
+this has actually got no long-term or systemic issues that I see, both in the numbers, in the pipelines and
+in the actual behavior of clients and our people.
+
+James J. Kavanaugh
+CFO and Senior VP of Finance & Operations
+
+Thanks, Wamsi. To your second question, remember back at -- on October 4 at our Investor Day we talked
+about the strong strategic relationship between IBM and Kyndryl going forward, of which I think, at that
+time, we shared about $2.5 billion of annualized business predominantly structured around our high-
+value mission-critical recurring revenue of software and also some in our infrastructure segment around
+hardware purchases and around our infrastructure support. That was a full year annualized view.
+
+If you look at fourth quarter, we're going to have 2 months' worth of that in 2021. And we estimate that,
+that's about $350 million to $400 million overall. So if you go back to what I said on October 4, the 2022
+compared to 2021, 12 months versus 2 months is, give or take, about a little bit over $2 billion. And that
+translates into the 3 points of incremental growth 1x above our mid-single-digit model in midterm.
+
+Operator
+
+Our next question comes from Toni Sacconaghi with Bernstein.
+
+A.M. Sacconaghi
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Yes. And I think, Arvind, you touched on this in the first question, but perhaps let me ask it a little more
+directly. So this quarter, IBM grew at 1.9% for RemainCo versus the comparison of constant currency at
+minus 3.5%. The comparisons get about 2 or 3 points more difficult looking into next year, and you have
+to accelerate your growth rate to get to mid-single digit growth by 2 or 3 points. So effectively, adjusting
+for compares, the growth rate has to improve about 5 percentage points relative to what you did this
+quarter to hit that mid-single-digit target.
+
+Beyond a product cycle in mainframe and UNIX, given you talked about sort of taking time for investments
+to pay off, what is going to seemingly pretty suddenly change the growth profile adjusting for comps by
+potentially 4, 5 or 6 points over the next few quarters? And do -- how long do you continue to expect to
+invest, i.e., have pressure on operating margins, particularly in Software and GBS going forward?
+
+Arvind Krishna
+CEO & Chairman of the Board
+
+Okay. Thanks, Toni. I'll take the first part of that, and then I'll look at Jim for the second part of the
+question. So Toni, there's 3 parts of it. First, let me acknowledge, yes, our growth rates have to improve,
+so no question about it. We are not saying we are done.
+
+The 3 elements that will contribute to the growth rate -- and I think a lot of what you were pointing to
+was towards the software growth rate. I'll say it comes from 3 things. One, we are seeing improvements
+in our organic, meaning the software we already have. We continue to see that. We expect that, that will
+improve the software growth rates by a few points. I won't actually say the upper band because I don't
+expect that the 3 elements I mentioned, all of them, will all return at their upper band. So let's say, 1 or 2
+points from the organic growth rate.
+
+Two, we will continue to make acquisitions. So not only do the ones we have made keep contributing
+because they are growing well into double-digit growth rates or the new ones we make will also contribute
+to that. Think of that to be in the same range.
+
+The third one, as we're making a lot of changes in our sales compensation as well as in the makeup of our
+sales team, we talk about the garages. We talk about client success managers leading to more experiential
+and more technical selling. We believe that'll drive greater deployment and hence, quicker purchases in
+that segment. And so all of those together will contribute towards a much improved growth rate in the
+Software segment up to the mid-single digit as I think you're pointing out in some of your math.
+
+I'm not going to debate is it 3%, 4% or 5%. Happy to do that when we have a bit more time. And I'll pass
+it over to Jim for the second part of the question.
+
+James J. Kavanaugh
+CFO and Senior VP of Finance & Operations
+
+To that point, I can't resist but go into the numbers. So let's just -- Toni, great question. Thank you very
+much. Let's talk about this quarter. Again, IBM ex Kyndryl delivered about 2% growth. By the way, that's
+an accelerating trend as we talked about in the prepared remarks from about flat through the first half to
+now growing 2%. Yes, off an easier compare, we acknowledge that.
+
+But let's take a look at the revenue contribution analysis of what contributed to that 2 points, and now I'll
+tie it back to what we said on October 4 as our mid-single-digit growth rate model. We said across our 3
+segments, first, we have an improving growth profile as we shift to higher value, higher growth markets
+over 70% of our business in Software and in Consulting, which, by the way, also carries a higher value
+recurring revenue stream, that those 2 segments will contribute all 5 points of IBM's growth, by the way,
+with improving operating margins, which I'll get into at the end.
+
+The infrastructure segment, which is high value, mission critical covering our mainframe business and
+infrastructure support business, was projected to be flat over time as it follows innovation cycle. So as we
+bring out innovation next year, we firmly believe and confident that we're going to grow there. But over
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+a 3-year period, that's about flat but a significant cash generator. So you got 2 growth vectors, 1 value
+vector, 2 delivering growth, 1 delivering cash generation.
+
+Now let's look at how the third quarter played out. Against that 70-plus percent of our 2 growth vectors
+that targeted a 5-point contribution, we delivered 4.5 points of revenue growth to IBM. We fell about
+0.5 point short, and that's in the software area because we overachieved in GBS. We have a strong book
+of business in GBS, now IBM Consulting, and we see that continuing to play out. We got work to do on
+Software, but we're making underlying business performance because, as you all know, you see the data.
+Our deferred revenue tailwind dissipates over time. And we lost about 1 point of growth in Software just
+due to the deferred revenue tailwind, which means that the underlying business of our pro forma IBM
+Software continues to improve.
+
+Why do we feel confident moving forward? Just adding to some of the points of Arvind, number one,
+we've been 5 quarters in a row now with strong renewal rates. 80% of our Software business is recurring
+revenue, high-value recurring revenue. And you see that in our deferred income and deferred revenue
+balance up $800 million year-over-year.
+
+Number two, we see nice acceleration in ARR. And by the way, NRR north of 100% again for the third
+consecutive quarter. And we're starting to see nice acceleration in Cloud Paks. And most importantly, as
+we talked about 3 quarters ago, we are now starting to enter the early parts of our ELA cycle. That will
+continue into 2022 and the first half of 2023. So we feel pretty confident about the 2 growth vectors.
+
+Where we missed is, based on being on the back end of a very successful mainframe cycle, the
+infrastructure segment took 2.5 points of growth away from IBM ex Kyndryl. So plus 4.5 points against the
+target of 5%, we lost 2.5 points in infrastructure. And that will moderate out over time as we bring new
+innovation.
+
+And then finally, just wrapping up, on your operating margin comment, we said entering this year, 2 most
+important measures, revenue growth, free cash flow generation. We're achieving on both of those. We
+said that free cash flow generation was going to be important because we needed to fuel investment in
+innovation and in IBM Consulting because we saw robust demand.
+
+We're playing that out consciously. We'll see that improve as we get into 2022, but we're still driving that
+cash. And I'll wrap up, year-to-date through third quarter, growing revenue, growing revenue ex Kyndryl
+at constant currency. We're growing gross and pretax dollars. We're growing pretax margin, and we're
+growing trailing 12 months free cash flow. So that's the model that we put in place, and we feel pretty
+confident as we enter 2022.
+
+Operator
+
+Our next question comes from Katy Huberty with Morgan Stanley.
+
+Kathryn Lynn Huberty
+Morgan Stanley, Research Division
+
+Arvind, you referenced the positives in Kyndryl and hardware in the quarter, but software performance was
+also light of expectations. So can you talk about what drove the shortfall in Cloud & Cognitive Software
+and where you see opportunities for better execution within that Software business?
+
+Arvind Krishna
+CEO & Chairman of the Board
+
+Yes. Thanks, Katy. Yes, certainly, as actually, even Jim acknowledged that we fell maybe 0.5 point short of
+our own expectations, and we could have done better. Here is where I see it doing better.
+
+First, the one that performed exactly according to what we wanted was Red Hat. Red Hat gave us 17%,
+which is pretty much what we wanted and expected.
+
+If I now look at our Transaction Processing Platform, it was a little bit below what we would like because
+we have been saying that, in a long-term model, that should be more mid-single-digit decliner. But
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+this quarter, it was a high single-digit decliner. We think that as we get past, because that is coupled, I
+wouldn't call it identical, but it is coupled to some of the infrastructure cycles, I expect that to come back
+starting in early '22 or maybe late in '21.
+
+Then on our category that is today called AI applications, we were minus 1%. There, I would expect us to
+get back to mid-single-digit growth.
+
+Now you sort of say, if I put it all together, do we expect to see a tiny bit -- I call it a tiny bit of pausing
+from people because of everything going on? Yes.
+
+Two, we are turning our incentive models. I spoke on it on the prior question very briefly. Our incentive
+models for our sales teams are going to be very heavily tuned towards software going forward in '22.
+That, I believe, will result in better -- much better performance because the only way that they will get
+anywhere near the target incentives is to make their software number. That is probably for the first time
+that, that's been true in a long, long time at IBM.
+
+So Katy, that's sort of my view on what happened there and how we will improve going forward.
+
+Operator
+
+Our next question comes from Tien-Tsin Huang with JPMorgan.
+
+Tien-Tsin Huang
+JPMorgan Chase & Co, Research Division
+
+It's good to speak to you all. I wanted to ask on the GBS side. So that did accelerate double-digit revenue
+growth. Sounds like fourth quarter, you expect that, too, but it did come at a higher cost. So I'm just
+curious on the gross margin percentage front. So I'm curious some of the confidence that you can reprice
+to offset the higher cost of delivery. Is there risk that those costs could persist here given all the demand
+side that you're seeing?
+
+James J. Kavanaugh
+CFO and Senior VP of Finance & Operations
+
+Yes. Tien-Tsin, this is Jim. I'll take that as we move forward. As I stated earlier and Arvind commented in
+the prepared remarks, we do see a very robust demand environment out there. We called it -- as we were
+going through fourth quarter, we called a very conscious strategy. GBS, now IBM Consulting, again, plays
+a very integral role to our hybrid cloud platform-centric business model. Why? Because it drives scale and
+adoption to our platform, and it also pulls IBM technology while taking advantage of the ecosystem and
+partnership and skill and capability.
+
+So we started aggressively adding skill, capacity, expertise, ecosystem partnerships and scaling
+acquisitions. I think we just announced today our eighth GBS acquisition in the last 12 months overall.
+So it was a conscious strategy. And we believe that, that flywheel effect of GBS that turns into the
+multiplier of driving our platform, pulling our software and driving a very robust economic equation for our
+ecosystem partners is essential in our long-term strategy.
+
+Now with that said, we saw margins down 310 basis points. We saw pretax margins down 110 basis
+points. Within that, though, we grew gross profit dollars and we grew pretax dollars. We're about
+generating growth in top line and around generating cash contribution. And GBS delivered that today.
+
+I would also mention that GBS accelerated their margins quarter-to-quarter tremendously. Pretax margins
+were up 5 points quarter-to-quarter, and they've been accelerating their gross margins sequentially every
+single quarter this year. So we delivered over 13 points of pretax margin in the third quarter; and our
+model, as we said on October 4, was low teens.
+
+So we feel pretty comfortable. We see a very good book of business, and we continue to see, in fourth
+quarter, IBM Consulting delivering double-digit revenue growth and margin dollar and profit dollar and
+cash dollar contribution while pulling our software and hybrid cloud platform.
+
+Operator
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+Our next question comes from Jim Suva with Citigroup.
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+My question -- since a lot of them have been answered, there's just one of them, and that is the impact
+of higher labor costs. No matter where you look, labor costs are going higher. And I do see that in your
+prepared slides that you did give that your signings were up 3%.
+
+So should we think about, as time rolls forward, you'll implement more labor costs that escalate and go
+higher? Or are they actually material enough so we should be modeling some adjustments into your cash
+flows? Or how should we kind of think about that as you work through the business because it's a pretty
+dynamic and fluid situation with labor costs?
+
+Arvind Krishna
+CEO & Chairman of the Board
+
+So Jim, great question. And by the way, I would tell you that I don't think that this year is unique.
+Maybe there's a touch more issues going on, but I don't think it's unique. I remember 2001 really well. I
+remember 2007 just before the financial crisis. This is a continuous movie in the technology industry.
+
+Now you said the 3% signings growth. I wouldn't look at the 3%. I would look at our book-to-bill ratio,
+which is 1.1. And so book to bill gives a much better signal of what the demand is for our forward-looking
+revenue and demand in our IBM Consulting business.
+
+Now look, labor has to be managed. We have a global labor model. We put people everywhere. And as Jim
+just mentioned in answers to the prior question that, yes, when you do have inflation in your labor cost,
+there is an element of it that's going to price through for that side of the business.
+
+In all the rest of the business, actually, I'm not so worried about labor cost. I'm worried about getting the
+right talent maybe, but that is always a worry that I have, and I've been paranoid about that for 30 years.
+That's not unique. And I think it's similar to many of your businesses, Jim, like not just yours but all of
+your colleagues here on this call.
+
+The right talent is far more important, and our labor cost is important. In the end of the day, it's maybe
+15%, 20% of the total cost and expense that is sort of critical towards the other businesses because you
+can manage the rest.
+
+So net answer to you is, no, it's not something that needs to be modeled in. I don't believe so. But we
+always have to worry about it in terms of how do we price, how do we get the labor pools, where do we
+put the labor pools and all of those elements.
+
+Operator
+
+Our next question comes from Keith Bachman, Bank of Montreal.
+
+Keith Frances Bachman
+BMO Capital Markets Equity Research
+
+I wanted to ask first on Cloud Paks that you seem to be suggesting that this is going to be a key or one of
+the many enablers to drive growth. And I was hoping you could explain a little bit why Cloud Paks because
+it sounds very similar to bundling, which IBM and many companies have been doing for years. So want to
+try to understand a little bit why Cloud Pak is different from the historic bundling that IBM has been doing.
+
+And then second, if I could just ask, Jim, a question I've asked before is on software maintenance. A
+good quarter on easy compares and I just wanted to get your thoughts on the durability of the software
+maintenance, not whether it's important. But is it, in fact, a growth category as we look out within GBS
+over the next 2 years, 3 years?
+
+Arvind Krishna
+CEO & Chairman of the Board
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+So Keith, I'll take the first part of that question on Cloud Paks. So Cloud Paks are not just bundled. They're
+not just containerizing software. I'll tell you right away, if all you do is bundled software, you'll actually get
+a price deflation. If all you do is containerized software, there will be no plus or minus. It's just a different
+way of delivering it.
+
+So I'll take one of the Cloud Paks and maybe use it as a quick example. If I take our Cloud Pak for Data, if
+I now turn around and tell you that whether we take some of our integration software or whether we take
+a database software like Db2, and that's all you provide through that, you're right, that's neither plus nor
+minus. I think it will stay where it is.
+
+However, it's not just putting those in as options. A lot of the Cloud Pak for Data is actually new
+innovation. It includes methods around data fabric. It includes methods around how do you federate
+data both from public clouds and from other repositories that are probably not IBM's inside the client's
+on-premise environment. It contains the data catalog. It contains these ways to be able to do some
+competition without even moving the data.
+
+That new content added to some of the existing content, so we take advantage of our incumbency, but we
+get lift because there is more usage overall for these technologies than there was before, is why we are so
+excited about Cloud Paks and where it gives us both. Yes, some of it is just going to be a movement, but
+a lot of it is actually increased usage. And hopefully, that sort of made the example clear on how we are
+driving innovation into the portfolio with that one example.
+
+So Jim, I'll give it to you to address the -- I don't know whether to raise maintenance in ARR or NRR.
+
+James J. Kavanaugh
+CFO and Senior VP of Finance & Operations
+
+I think, Keith -- and I'm interpreting your question given you applied it to GBS and we've had this
+discussion many quarters appropriately so and you're talking about application management services,
+AMS. If I'm not answering the right question, please get back to Patricia, and we can move forward from
+there.
+
+But AMS, as we've talked about for a handful of quarters, we got back to growth, up 5%, accelerated
+that growth, albeit, as we said in the prepared remarks, off a much easier compare during the height of
+the pandemic last year in third quarter. But it was up this quarter as we had growth in offerings, which
+modernize the client's applications and as we move them to a hybrid cloud.
+
+We talked about our application management having a tremendous incumbency value in a hybrid cloud
+platform-centric model. Why? Because what we've seen and learned over the last 2-plus years after the
+acquisition of Red Hat is that, one, we've built up a $3.5 billion book of business around our Red Hat
+practice in GBS from a dead start during the acquisition. And we built that up. Of that $3.5 billion, over
+3/4 of that book of business is in AMS accounts.
+
+Second, AMS -- excuse me, GBS driving that flywheel effect I talked about earlier is actually -- delivers
+over 1/3 of our cloud revenue -- Cloud Pak revenue growth each quarter, and within that, 80% are AMS
+accounts. So there is a causality and a correlation here between our strong incumbency base, us having
+industry business process knowledge and the technical expertise to be the client's trusted partner. To
+move them along their journey to cloud, AMS is a very integral part. So we saw good growth.
+
+And by the way, our penetration of AMS cloud activity, remember, we talked about in the past this
+predominantly being an on-prem enterprise application concentration issue. We continue to make
+progress. We're -- about close to 40% of our AMS business is now cloud, and we're capitalizing on Red
+Hat. We're catalyzing on application modernization. And we're capitalizing on very strong ecosystem
+partnerships with SAP S/4HANA to name one, as we move forward.
+
+Operator
+
+Certainly, our final question comes from David Grossman with Stifel.
+
+David Michael Grossman
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Just 2 really quick ones. First, how much, if any, of the revenue with Kyndryl is activity-based, which may
+be dependent on their own execution? And then secondly, Jim, you mentioned the ELA cycle starting up,
+I think, early 2022. Perhaps you could share with us just how much of a headwind it's been and which
+segments it's impacted most.
+
+James J. Kavanaugh
+CFO and Senior VP of Finance & Operations
+
+David, thank you very much for the question. I think I'll take both, and then Arvind can wrap it up here
+overall.
+
+First, around Kyndryl. So if you go back to October 4 at the Investor Day, which we were pretty
+transparent, and we said we're going to continue that transparency into 2022 around the external sales
+with the strong strategic relationship between IBM and Kyndryl, we said about, on a full year basis, $2.5
+billion, give or take. And in 2022, when you got 12 months versus 2 months in 2021, it'd be about $2
+billion of incremental or about 3 points.
+
+Within that, David, the majority of that is in software. And a majority of that is annuitized-based high-
+value, mission-critical-based recurring revenue. So if you're thinking about do we have any deflationary
+impacts around that $2-plus billion on the software side, which carries the majority of it, no.
+
+The second component is we have about -- annualized about $0.5 billion with regards to our infrastructure
+support and hardware. On the infrastructure support, it's again an annuitized-based business overall.
+And with regards to hardware, in our strategic relationship, as we set Kyndryl up, we've given them a
+pretty aggressive and component of a aged inventory refresh program, so we have very little hardware
+purchases over probably the next 18 months to 2 years given we just went through a big asset refresh. So
+long answer to your question, but I don't think we have a lot of impact moving forward against that.
+
+Second, around the ELA cycle, you know this quite well. It's typically a 3-plus year. The dynamics of client
+buying behaviors change over time, but we feel very confident. The good news is here is we have a lot of
+headroom. We're just starting the early part of that in fourth quarter. That will predominantly play out in
+2022 and then will also extend early into 2023 as we move forward.
+
+And if you look at our transactional-related activity, we've been making strong performance improvement
+in our annuitized-based business with the renewal rates, and our on-prem transactional business
+has struggled, especially during the pandemic. This will bolster that as we move forward. And most
+importantly, we feel confident in the investments in innovation and what we're bringing to market with our
+modernized and containerized Cloud Pak offerings optimized on top of our hybrid cloud Red Hat platform
+that we're good.
+
+So with that, let me turn it over to Arvind.
+
+Arvind Krishna
+CEO & Chairman of the Board
+
+Thanks, Jim. Look, first, I'd like to thank all of you for your questions. I thought they were really getting
+into the details; and hopefully, it helped -- our answers helped you understand our business a lot better.
+
+Let me just make a couple of comments to wrap it up. I hope you took away is that we continue to make
+this progress this quarter in the key areas. Both myself and Jim highlighted them in our key areas of
+growth and in our value vectors as we go forward, especially looking into '23. But we'll also acknowledge
+that we always have more to do.
+
+Importantly, we are on the threshold of the IBM of the future, and we expect to exit the year in a position
+that delivers on our mid-term model starting in 2022. That is the sustainable mid-single-digit revenue
+growth and the increasing free cash flow that fuels all the investments.
+
+So with that, I look forward to speaking to all of you again.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+Patricia Murphy
+Vice President of Investor Relations
+
+Arvind, thanks. Victor, let me turn it back to you to close out the call.
+
+Operator
+Thank you for participating on today's call. The conference has now ended. You may disconnect at this
+time.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION FQ3 2021 EARNINGS CALL |  OCT 20,
+2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+

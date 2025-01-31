@@ -1,0 +1,1099 @@
+F5 Networks, Inc. NasdaqGS:FFIV
+FQ4 2020 Earnings Call Transcripts
+Monday, October 26, 2020 8:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2020-
+
+-FQ1 2021-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+2.37
+
+2.43
+
+2.53
+
+2.28
+
+9.34
+
+9.37
+
+0.32
+
+9.72
+
+607.12
+
+616.78
+
+1.59
+
+592.11
+
+2347.44
+
+2357.65
+
+0.43
+
+2457.11
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Oct-23-2020 10:34 AM GMT
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+2.43
+
+1.99
+
+2.04
+
+2.37
+
+2.55
+
+2.23
+
+2.18
+
+2.43
+
+4.94 %
+
+12.06 %
+
+6.86 %
+
+2.53 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Francis J. Pelzer
+Executive VP & CFO
+
+François Locoh-Donou
+President, CEO & Director
+
+Suzanne DuLong
+VP, Investor Relations
+
+ANALYSTS
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research
+Division
+
+Alexander Henderson
+Needham & Company, LLC,
+Research Division
+
+Erik Loren Suppiger
+JMP Securities LLC, Research
+Division
+
+James Edward Fish
+Piper Sandler & Co., Research
+Division
+
+Jeffrey Thomas Kvaal
+Wolfe Research, LLC
+
+Roderick B. Hall
+Goldman Sachs Group, Inc.,
+Research Division
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research
+Division
+
+Timothy Patrick Long
+Barclays Bank PLC, Research
+Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+Presentation
+
+Operator
+
+Good afternoon, and welcome to the F5 Fourth Quarter Fiscal 2020 Financial Results Conference Call.
+[Operator Instructions]
+
+Also, today's conference is being recorded. [Operator Instructions]
+
+I'll now turn the call over to Ms. Suzanne DuLong. Ma'am, you may begin.
+
+Suzanne DuLong
+VP, Investor Relations
+
+Hello, and welcome. I'm Suzanne DuLong, F5's Vice President of Investor Relations. François Locoh-
+Donou, F5's President and CEO; and Frank Pelzer, F5's Executive Vice President and CFO, will be making
+prepared remarks on today's call. Other members of the F5 executive team are also on hand to answer
+questions during the Q&A session.
+
+A copy of today's press release is available on our website at f5.com, where an archived version of today's
+call will be available through January 25, 2021.
+
+Today's live discussion is supported by visuals, which are viewable on the webcast and will be posted to
+our IR site at the conclusion of today's discussion.
+
+The replay of today's call will be available through midnight Pacific Time, October 27, by dialing
+(800)-585-8367 or (416)-621-4642. Use meeting ID 6055259. For additional information or follow-up
+questions, please reach out to me directly at s.dulong@f5.com.
+
+Our discussion today will contain forward-looking statements. Which include words such as believe,
+anticipate, expect and target. These forward-looking statements involve uncertainties and risks that may
+cause our actual results to differ materially from those expressed or implied by these statements. Factors
+that may affect our results are summarized in the press release announcing our financial results results
+and described in detail in our SEC filings. Please note that F5 has no duty to update any information
+presented in this call.
+
+With that, I will turn the call over to François.
+
+François Locoh-Donou
+President, CEO & Director
+
+Thank you, Suzanne, and good afternoon, everyone. Thank you for joining us today. While fiscal year 2020
+was not the year that any of us expected, I speak for the entire executive team when I say how proud we
+are of the F5 team for delivering a very strong year under extraordinary circumstances. Our results show
+building momentum in our pivot to a software and subscription driven business. They also show the value
+by our incumbency, the strength of our customer relationships and the stickiness of our solutions. In the
+last several years, we have aligned our investments with our customers' most pressing priorities.
+
+As a result, we have built close to a $450 million software product run rate business, that in FY '20 grew
+52%. With $365 million in fiscal year 2020 revenue, the strength of our software business more than
+offset a decline in our systems business, which was down 10% for the year. Our Services business grew
+5%. For the year, we delivered 5% non-GAAP revenue growth and 5% non-GAAP product revenue growth.
+Today, our customers face exploding application growth and the reality that users expect more than they
+ever have from applications. Our customers' business depends not just on whether they're application
+loads, but how quickly it responds, and whether it and its users are secure. New ways of working and the
+higher expectations for application performance have customers focused on solutions that enable them to
+work smarter and scale faster. We believe we are ideally positioned to serve this demand. Frank will review
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+our fourth quarter and fiscal year financial results and our outlook. I will then speak to our fiscal year 2021
+growth drivers, including some customer highlights from the quarter. Frank?
+
+Francis J. Pelzer
+Executive VP & CFO
+
+Thank you, François, and good afternoon, everyone. I will speak first to our fourth quarter and then
+to our fiscal year results before discussing our outlook for FY '21. We delivered a very strong Q4. On
+a GAAP basis, Q4 revenue was $615 million. Fourth quarter non-GAAP revenue of $617 million was up
+approximately 4% year-over-year and above the high end of our $595 million to $615 million guidance
+range. Please note, as I review our revenue mix, I will be referring to non-GAAP revenue measures.
+
+Q4 product revenue of $280 million was up 6% year-over-year and accounted for approximately 45% of
+total revenue. Software revenue was $113 million growing 36% against a very tough comparison of 91%
+growth in the prior year period. Shape contributed approximately $23 million in the quarter. Excluding
+Shape's contribution, software grew 9%, again, against a very tough comp in the year ago period. As
+we look ahead, we are seeing very positive trends in our software business and expect much stronger
+software growth in Q1. I will speak to that in greater detail when I discuss our Q1 guidance.
+
+Software continues to grow as a percent of product revenue, representing 40% of product revenue in
+Q4, up from 31% in the year ago quarter. We also continue to drive subscription revenue momentum.
+Subscriptions represented 76% of software revenue in the quarter compared to 66% in the year ago
+quarter. Services revenue of $336 million grew 3% year-over-year and represented 55% of revenue.
+Revenue from recurring sources, which includes term subscriptions as a service and utility-based revenue
+as well as the maintenance portion of our services revenue totaled 66% of revenue in the quarter. This is
+up from 63% in the year ago period. The improvement comes largely as a result of the strong subscription
+software momentum I mentioned previously. Systems revenue of $168 million was down 8% compared to
+last year.
+
+On a regional basis, in Q4, Americas delivered 4% revenue growth year-over-year, representing 58% of
+total revenue. EMEA delivered 9% growth, representing 24% of revenue. APAC was down 1% year-over-
+year and accounted for 18% of revenue.
+
+Looking at our bookings by vertical, we saw robust enterprise activity in the quarter, with enterprise
+representing 70% of product bookings. Service providers accounted for 15% and government customers
+represented 16% of product bookings, including 7% from U.S. Federal.
+
+Let me now share our Q4 operating results. GAAP gross margin in Q4 was 81.8%. Non-GAAP gross margin
+was 84.4%. GAAP operating expenses were $404 million. Non-GAAP operating expenses were $335
+million. Our GAAP operating margin in Q4 was 16% and our non-GAAP operating margin was 30.1%. Our
+GAAP effective tax rate for the quarter was 20.4%. Our non-GAAP effective tax rate was 19%. GAAP net
+income for the quarter was $78 million or $1.26 per share. Non-GAAP net income was $150 million or
+$2.43 per share.
+
+I will now turn to the balance sheet. We generated $175 million in cash flow from operations in Q4.
+Cash and investments totaled approximately $1.3 billion at quarter end. We repurchased approximately
+358,000 shares of F5 common stock in the quarter at an average price of $140 per share for a total of
+approximately $50 million. DSO was 43 days, and capital expenditures for the quarter were $12 million.
+Deferred revenue increased 6% year-over-year to $1.3 billion. We ended the quarter with approximately
+6,110 employees, up approximately 90 employees from Q3.
+
+Let me now turn to our full year 2020 results. For the year, GAAP revenue totaled $2.35 billion. Non-GAAP
+revenue grew 5% to $2.36 billion. Non-GAAP product revenue of approximately $1 billion grew 5% from
+the prior year and accounted for 44% of total revenue. Within product revenue, software grew 52%, while
+systems revenue declined 10%. Subscriptions represented 71% of software revenue in fiscal year 2020
+compared to 55% in fiscal year 2019. Revenue from recurring sources totaled 65% of revenue for the
+year, up from 60% in fiscal year 2019. Services revenue of $1.32 billion grew approximately 5% during
+the year and represented 56% of total revenue.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+Our non-GAAP effective tax rate for the year was 20.2%.
+
+GAAP net income for FY '20 was $307 million or $5.01 per share. Non-GAAP net income was $575 million
+or $9.37 per share.
+
+Now let me share our guidance for the first quarter and some high-level modeling assumptions for fiscal
+2021.
+
+Unless otherwise stated, please note that my guidance comments reference non-GAAP metrics.
+
+In our Q1 and fiscal year outlooks, we have attempted to factor in the expected impact of continued global
+uncertainty related to COVID-19 and the broader economic trends as we understand them to date. Let
+me start with sharing our expectations for the first quarter of 2021. Near term, we expect customers will
+continue to prioritize investments that enable them to serve the immediate needs of their customers and
+employees. We also anticipate continued focus on and investment in application security. We expect to
+benefit from being a trusted and operationalized partner of the largest enterprises around the world as
+they continue to drive innovation and agility with their application strategies to increase business value.
+With this in mind, we are targeting Q1 FY '21 non-GAAP revenue in the range of $595 million to $615
+million. We expect Q1 '21 gross margins of 84.5% to 85%, and we estimate operating expenses of $324
+million to $336 million. We anticipate our effective tax rate for Q1 will be in the 21% to 22% range. Our
+Q1 earnings target is $2.26 to $2.38 per share. We expect Q1 share-based compensation expense of
+approximately $56 million to $58 million.
+
+As for our capital deployment, we retain the option to repurchase shares opportunistically in any open
+trading window. Now let me share some of our operating expectations for the full fiscal year of 2021. We
+have made tremendous progress on our software transition and expect momentum to continue as the
+contribution from subscription, software and SaaS grows. Accounting for this progress in FY '21, we expect
+to grow software revenue for the full year by more than 35%.
+
+Based on our strong Q1 software pipeline and increasing momentum from our software subscription
+offerings, we expect a software growth rate of at least 50% in Q1. We expect systems declines will
+moderate slightly compared to FY '20, likely declining high single digits for the year. We anticipate gross
+margins of approximately 85% for the year. We expect to achieve at least 31% non-GAAP operating
+margin for FY '21. We also expect operating margins to move down from Q1 to Q2 and then to increase
+in the second half of fiscal '21, following our typical seasonal pattern. We anticipate our full fiscal year
+effective tax rate to be in the range of 21% to 22% with some fluctuations quarter-to-quarter. We
+expect fiscal year '21 stock-based compensation in the range of $230 million to $240 million and capital
+expenditures in the range of $40 million to $60 million. We expect to update our longer-term outlook at
+our Analyst and Investor meeting, which we will conduct virtually on November 18. Please remember to
+pre register on our Investor Relations site.
+
+With that, I will turn the call back over to François. François?
+
+François Locoh-Donou
+President, CEO & Director
+
+Thank you, Frank. It has been more than 2 years since we unveiled our strategy to transform F5. In the
+process of extending our reach and expanding our role, we have built the broadest available application
+security and delivery portfolio and significantly expanded our addressable market. As a result, the
+foundation of our business has grown stronger, and we are on our way to becoming a predominantly
+software-driven company. Going forward, our software growth will be more diversified, thanks to a
+broader and growing subscription and SaaS base of revenue. We have a renewal flywheel that is starting
+to turn with momentum and true forward revenue opportunities on a sizable portion of our long-term
+subscription contracts.
+
+Demand for subscription-based consumption is growing across all geographies and verticals. As Frank
+mentioned, 71% of our fiscal year 2020 software revenue was subscription-based, up from 55% in 2019.
+We expect continued software momentum in fiscal year 2021, and I will speak to our growth drivers in
+turn.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+First, core BIG-IP software. Much of the software growth we have delivered thus far comes on the back of
+BIG-IP. I have spoken previously about the extensive work we have done to reduce friction in purchasing,
+deploying and managing BIG-IP software. We have focused on flexibility in our commercial models and
+on enhanced automation and central management. During Q4, customers chose BIG-IP to refresh core
+business applications as well as for capacity additions. In 1 instance, a multinational delivery services
+company chose BIG-IP to handle both increased traffic to its consumer-facing dotcom site and to scale
+back-end processing. Looking ahead, we expect continued growth from BIG-IP driven by customers' need
+to support and scale mission-critical traditional applications in hybrid and multi-cloud environment.
+
+Our second growth driver is NGINX. NGINX brings multiple growth vectors to FY '21 and beyond. In
+addition to continuing to expand NGINX Plus instances, we see increasing customer interest in NGINX
+Controller, our modern app orchestration and analytics platform. Controller is complementary to BIG-IP
+and bridges the divide between desk teams building modern apps and the infrastructure teams that need
+to secure, scale and monitor them. We are also opening new application security opportunities with NGINX
+and App Protect our WAF solution for modern applications. NGINX with App Protect enables security
+professionals and developers to introduce application security early in the development life cycle, making
+security part of the modern app stack.
+
+In Q4, we secured an NGINX App Protect win with a major video conferencing and collaboration platform.
+NGINX already is a key technology for this customer, enabling them to scale the platform to meet
+explosive COVID-19 demand. With that explosive growth, however, also came increased security concerns.
+NGINX' ability to scale rapidly with no impact on service delivery was a key differentiator as was our ability
+to meet a wide set of requirements in a cloud agnostic way, including load balancing, caching and security
+with App Protect. Not only did this win expand our existing footprint with the customer, it also positions
+us to capture additional use cases, including protecting log-in pages and preventing credential stuffing
+with Shape solutions. Use cases like this one, enabling best-in-class security on modern application
+architectures are gaining momentum, and we believe, accelerate the appeal of NGINX to large enterprises.
+
+That provides a good transition to our third growth driver, application security. Application security is a
+large and growing focus for customers and understandably so. In the current environment, organizations
+are more reliant than ever on applications to enable employee collaboration and customer engagement. At
+the same time, the attack surface and sophistication of attacks has increased dramatically. During FY '20,
+web application firewalls, remote access, SSL orchestration and fraud protection led customers' security
+demands. As an example, during Q4, we secured a cloud win with a retailer with a significant dotcom
+presence. BIG-IP virtual editions outperformed both a cloud-native load balancing and web application
+firewall solution. As a result, the customer doubled its F5 consumption in just the first year of its multiyear
+term subscription. We expect the application security demands we have seen this year persist and grow in
+FY '21.
+
+As a result, we expect to expand our leadership in the space. Our ability to apply consistent and robust
+security across multi-cloud environments is fulfilling a significant and growing customer need. Within the
+context of application security, we also see Shape as a significant software growth driver. Customers are
+looking to Shape's AI and machine learning enabled defense capabilities to protect against a growing
+number of threats, both bot and human. Shape already has been a strong contributor and a great addition
+to the F5 portfolio. In the roughly 9 months, the Shape team has been part of F5, we have grown even
+more confident in the opportunity it brings to F5 and our customers. Shape's intelligent fraud and bot
+protection value proposition is resonating with customers across multiple verticals. For instance, in Q4, we
+secured a Shape win with one of the world's largest social networking platforms to protect the platform
+and its users from artificially generated influence caused by inauthentic behavior. Shape's ability to deliver
+a high degree of efficacy with high confidence and actionable intelligence was a key differentiator in this
+win.
+
+Shape also is available via our Silverline managed services platform, which allows customers to benefit
+from Shape's capabilities with no integration work. We have secured several wins in a very short time
+frame, thanks to this integration, and the ease of implementation it brings. In fact, 1 recent integrated
+win takes Shape, which is already installed on the majority of the top 10 U.S. banks and extends it to
+thousands of small and mid-sized banks who are using Silverline for their managed security needs. This is
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+an example of one of the core premises of our combination with Shape. We are taking Shape's industry-
+leading anti-fraud solutions and making them available into a much larger customer base at a time when
+customers are facing tremendous increases in both the volume and sophistication of attacks. Our fourth
+growth driver is continued growth in cloud deployments. Our FY '20 cloud business totaled more than
+$100 million. Security use cases are playing an increased role as customers rely on F5 to ensure robust
+and consistent application security.
+
+Our cloud presence has been driven both by our organic investments in F5 Cloud Services and through our
+partnership with the cloud providers. Our strategic collaboration agreement with AWS is just 1 example of
+a highly complementary cloud provider partnership. In addition to a co-selling motion, which is generating
+new leads for F5, AWS and F5 have co-innovated on programs and cloud-native integrated solutions. Just
+last week, we introduced a joint solution combining Amazon CloudFront and F5's essential App Protect.
+CloudFront is a fast content delivery network, or CDN service from AWS. F5's essential App Protect is our
+easy-to-deploy SaaS security solution for protecting web applications. Integrating essential App Protect
+and Amazon CloudFront securely delivers data, videos, applications and APIs to customers globally with
+low latency and high transfer speeds, all within a developer friendly environment.
+
+We are leveraging the power of AWS to provide customers with application caching capabilities that we
+discussed, strengthened security and increased performance. And we are doing this in a single SaaS
+solution, which delivers higher long-term return on customers' application investment and a better
+experience for their users. This integration illustrates the power of our collaboration with AWS, and we
+continue to explore how our 2 companies can come together to help customers deliver more value through
+their cloud applications.
+
+I would be remiss if I did not also speak to the opportunity we see with service providers. In general,
+service provider RFP activity is up from last year and quote requests and informal activities are much
+higher. In addition, following our Rakuten win, we are beginning to see more movement in solid customer
+plans on their 5G strategies. At this point, we are engaged in multiple activities, including trials with
+several customers. We have traditionally played a role as the preferred choice for Gi LAN solutions in 4G
+networks, and we are well positioned to continue to own that segment and grow into new 5G functions.
+In fact, we have already secured multiple design wins in 5G architectures and we expect deployments to
+begin ramping in the second half of 2021.
+
+A few words on our systems business before we wrap up. As Frank noted, we expect our systems decline
+to slow in fiscal year 2021 compared to fiscal year 2020, likely declining in the high single digits. While
+there is a tendency to think that accelerated digital transformation means 100% software deployments, it
+does not always. Our business, whether software or systems, is tied to applications, whether they are in
+the data center, the public cloud or anything in between. We are supporting mission-critical applications
+globally. Many of these applications are experiencing rapid growth because of remote working and rising e-
+commerce demands. With this growth comes escalating application security concerns, including application
+fraud. F5 is there to help with whatever consumption model our customers prefer. As we look ahead, we
+see a significant opportunity to enable our customers to bring extraordinary digital experiences to life. We
+are reducing our customers' operational complexity, improving their application performance, securing all
+apps no matter where they live and unlocking valuable business insights.
+
+F5 has always been about solving our customers' most important application challenges. Over the last 2
+years, we have built the broadest available application security and delivery portfolio for both traditional
+and modern applications. Our understanding and appreciation of our customers' rapidly evolving needs
+has also deepened over the last 2 years. Today, customers face exploding application growth and the
+reality that the baseline of user expectations from applications has been redefined. Think of your own
+experience and how markedly it has changed. The richness of your favorite app experience: it is reliable;
+fast; personalized; and trusted. How long do you wait if the application is slow? What do you do when
+an upgrade degrades your experience, or worst yet, the app fails altogether? Switching brands has never
+been easier. A large insurer, an industry where competitive advantage has not historically been rooted in
+applications, told us that if their home page does not load in under 3 seconds, they lose the customer. A
+fast-based digital world is just as fast to move elsewhere.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+Digital transformation has reset expectations for the experience an application must deliver to be
+compelling, to be competitive. Our customers need F5 to enable these rich experiences. And we have
+a unique position from which to help them to do so. We see a world where our customers' application
+portfolio adapts as needed, where it automates redundant processes for greater efficiencies and it protects
+itself, securing all points of vulnerability, where it expands and contracts based on performance needs and
+where by mining and harnessing application data, it gets smarter, more insightful, becoming self healing
+and evolving more quickly. F5 is uniquely positioned to deliver this vision because of the portfolio and
+capabilities we have assembled.
+
+We are looking forward to speaking more about our vision for adaptive applications and how we are
+making it a reality at our upcoming Analyst and Investor Meeting.
+
+In closing, we have made significant progress pivoting F5 and changing the way customers see us. We
+have built the broadest available set of application security and delivery services, and expanded our total
+addressable market in the process. We are also successfully driving a more software-driven business and
+building a robust and growing base of recurring revenues.
+
+Let me wrap up our prepared remarks by thanking the entire F5 team again as well as our customers and
+partners. We are more confident than ever that our vision, our investments and our innovation are well
+aligned with both near and longer-term customer demand.
+With that, operator, we will now open the call to Q&A.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions]
+
+Your first question comes from the line of Meta Marshall from Morgan Stanley.
+
+Erik Loren Suppiger
+JMP Securities LLC, Research Division
+
+This is Erik on for Meta. Maybe just going back to the comments you made on the service provider side.
+And just on that vertical specifically. Have you seen any change to order behavior that maybe matches
+with some of the other equipment providers have noted? And I know you noted some design wins for 5G,
+but wondering if that near-term has had any impact just being mindful of the percentage of revenue from
+that segment is a little bit lower than it has been traditionally?
+
+François Locoh-Donou
+President, CEO & Director
+
+Erik, the short answer is no. We haven't seen a fundamental change, Erik. The percentage of our revenue
+of our bookings that comes from service providers is basically in the same range it has been for the last
+few quarters. We are seeing momentum in 5G activity. But in terms of when that will turn into kind of
+meaningful contribution to our order book, we think that's more of a second half of 2021. But we are
+seeing continued traction in security use cases with service providers. and specifically, our position as
+a consolidator of multiple functions, which is kind of a unique position that I don't think you necessarily
+would see with other equipment providers in the telco. We have a unique position in consolidating a
+number of functions like CGNAT and DDoS and DNS, TCP optimization. And increasingly, our service
+providers virtualize their infrastructure. Our ability to consolidate all these functions in a software bundle is
+very appealing to them. And so that's a use case that is growing. But overall, the business -- the trends in
+the business have been the same over the last few quarters. So no specific change.
+
+Erik Loren Suppiger
+JMP Securities LLC, Research Division
+
+Got it. That's very helpful. And then if I could sneak in one more, just on kind of the stronger expectations
+on the hardware side, moving forward, what would you guys point to is the strongest reason? Maybe some
+customers are still choosing hardware? Are there any incremental drivers?
+
+François Locoh-Donou
+President, CEO & Director
+
+I think, Erik, the -- we've always said that we have a number of geographies that have continued to
+grow in their consumption in hardware form factors, and also a number of verticals where hardware form
+factors play an important role, including service providers, government, even financial services. But I
+think the difference today is our security has become a more important mix of our hardware business than
+it was say a couple of years ago. And our hardware security business is not declining. And so when you
+factor that in, that leads to a decline in hardware systems, that's abating. And that's largely because of
+the mix of security that's in our hardware business today.
+
+Operator
+
+Your next question comes from the line of James Fish from Piper Sandler.
+
+James Edward Fish
+Piper Sandler & Co., Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+A couple of questions here. You're talking about strength in application security. I guess how do you
+feel about the portfolio as a whole, whether there are areas that you'd want to get at organically or
+inorganically? And any sense to how many customers are now using Shape Security?
+
+François Locoh-Donou
+President, CEO & Director
+
+Jim, so generally, we feel very good about our application security portfolio. We think we are one of the
+very, very few players who provide who can protect an application but also protect how an application is
+used with a combination of F5 security capabilities and now Shape's portfolio. So we feel very good about
+our competitiveness and differentiation in this space. And in fact, our security business had been growing
+healthily. But that has accelerated as well with COVID because the amount of online fraud and attacks on
+digital channels, not just for retailers, but all kinds of companies has continued to increase. And in fact,
+has increased dramatically in the last few months. And that's providing a significant tailwinds for us.
+
+So that's the -- that's where we're at on app security in general. And Jim, we will probably say more about
+that at the Analyst and Investor Meeting.
+
+James Edward Fish
+Piper Sandler & Co., Research Division
+
+Got it. Fair enough. And end of last quarter, you guys noted some weakness in sort of the APAC sales due
+to COVID-19 and not being able to get in front of customers. How did this change as you worked through
+the quarter?
+
+François Locoh-Donou
+President, CEO & Director
+
+I think in Asia Pacific, Jim, we're still -- we still have some geographies that are challenged with
+COVID-19. As you've seen, there's been some second waves and some lockdown. So there are some
+specific geographies where we have been challenged. The comment about some software projects that
+were put on hold. We -- I think that was throughout our Q4. That was still the case. But we're starting to
+see that abate, and we feel very good about the pipeline we now have for the first half of 2021. And in
+fact, we are -- as you saw from the prepared remarks, we think our software business in Q1 of 2021 will
+grow faster than 50% year-on-year. And for the full year, we think it will be greater than 35% year-on-
+year growth.
+
+So we feel that our software business really has -- we think we have turned an inflection point here.
+Where our software business is on a broader base of subscriptions, and it's giving us an opportunity for
+a number of true forward opportunities on renewal. We've got a much broader base of subscription than
+we did a year ago. And as you see, the software business is now more than 40% of our product revenue.
+So we generally feel that we're at an inflection point here where our software is going to continue to have
+very strong growth going into 2021.
+
+Operator
+
+Your next question comes from the line of Rod Hall from Goldman Sachs.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+I wanted to start off. You talked about enterprise order momentum being good. And I wondered if maybe
+you could dig a little bit more into that in terms of size of enterprise. Are you seeing that more in large
+enterprises or medium size? Can you give us some color there? And just kind of how the order momentum
+looks from a verticals point of view, too. And on the growth, my second question is I can calculate based
+on the parameters you gave, growth that's a little slower than '20, but I can also get up above 5%
+growth depending on some minor tweaks to that. And I'm just curious where do you think it's more likely
+growth does accelerate in '21? And then what's your macro assumption there? Are you assuming macro
+improves? Or are you assuming the current environment persists? I mean just curious kind of what you
+guys think the demand environment will do on into '21 in the context of that growth indication?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+François Locoh-Donou
+President, CEO & Director
+
+Rod, there were a number of questions there, so I'll make sure I try and answer.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+Yes. Sorry, François. I'll repeat them if you need.
+
+François Locoh-Donou
+President, CEO & Director
+
+Yes. I'll start from the end. You may need to repeat. Just on the macro to start there, Rod. Our
+assumptions that the environment does not get better than it is today. But we've also assume it doesn't
+get materially worse. So we have been in this environment in the pandemic for the last 3 quarters, and I
+think we've reported now 3 full quarters under this environment. And it's allowed us to take stock of what
+our customers are doing, where their priorities are. And we've taken all of that into account into our 2021
+planning. So basically, we kind of assumed status quo.
+
+Now as to the beginning of your question on enterprise spend. Look, the verticals -- there are 2 things
+that are important. As you saw, our enterprise numbers were actually pretty strong. And I think there are
+2 things that are important there. Number one, the verticals that we are most exposed to as a company
+are, in enterprise, are really financial services, technology and government. And in these verticals, the
+need for more applications, more application security and more multi-cloud deployments of applications
+has continued to be strong. The verticals where we have seen a lot of weakness, which are more the retail
+transportation, the verticals that are directly affected by COVID, they represent less than 10% of our
+business. So yes, they are soft, but the impact on our business has been limited. And generally, we have
+very limited exposure to small and medium businesses. So that's -- in terms of the mix of the business,
+that's the reason. And I think the other reason where you see strong enterprise demand for us is our -- I
+think there still is a perception out there that F5 is really a networking data center company. And so folks
+tend to look at our results and compare us to campus switching or routing-type equipment. But the reality
+is, our spend is more tied to the need for customers to protect their applications with security and the
+need for customers to deploy more and more applications globally in multi-cloud environments. And so we
+-- our business is closely tied to the growth, complexity and security of applications than it is to kind of
+network dynamics. Have I answered it, Rod?
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+Yes. The only other one was the quantification of the growth. If I add up kind of what you guys said, I can
+get to kind of a minimum growth rate of maybe 4%. But probably even a little higher than that, depending
+on what you think services grows. But I'm curious whether you see growth -- you lean toward growth
+accelerating if the environment remains the same off of '20? Or do you think growth just kind of remains
+the same? Or maybe it's a little worse? I'm just curious which direction do you think growth is going in
+'21, if all other things held equal?
+
+François Locoh-Donou
+President, CEO & Director
+
+Look, Rod, I think -- so we're not giving a full year top line guidance here. We will give a view of our
+Horizon 2 guidance in 3 weeks at AIM. So I think you'll get a little more color there. I would just say that
+generally, based upon what we've seen in Q4 and our Q1 guidance, I think we feel good about what we
+could achieve in 2021.
+
+Operator
+
+Your next question comes from the line of Sami Badri from Crédit Suisse.
+
+Ahmed Sami Badri
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+Crédit Suisse AG, Research Division
+
+The first question I have is related to the software strength in the quarter. And I know, François, you made
+a couple of very granular examples and the drivers of cloud that we saw in the quarter that really drove
+solid results and are going to continue to be solid results. But when we think about the composition of
+product revenue and software revenues, were there any high concentrations on specific customers? Or
+was there any lumpy activity in the quarter? And then to take that a step further, does the fiscal 1Q 2021
+also factor in lumpiness or concentrations that are driving these solid results?
+
+François Locoh-Donou
+President, CEO & Director
+
+Sami, the answer is no. And actually, that is precisely why I say that we have reached an inflection point
+in our software. So if you look at our software results a year ago, we had pretty strong growth. If you
+remember, in Q4, we had 91% growth. But that was in part driven by a couple of large transformational
+kind of deals. The results we have this quarter are really not. So it's a broad base of adoption of our
+software and our software subscription. You probably saw that in our results, now more than 3/4 of our
+software revenues. So 76% of our software revenues this quarter came from subscriptions. And so we've
+got a broad base and adoption of our software subscription consumption models across all of our verticals,
+not a specific customer or not a specific vertical. And that's part of why we have confidence in growth in
+our software is because we're seeing now a larger number of customers have reached that point where
+they're taking our software. And it's giving us a broader base of renewal opportunities going into 2021.
+We're starting to see the flywheel that you would see in a subscription business, where for a number of
+our multiyear subscription. We have a true forward opportunity at the end of a 1-year subscription across
+a number of customers, and that's going to start contributing to the growth in our software. So that's what
+I would say about lumpiness.
+
+I would say, though, that we are also seeing a good pipeline of, I would say, these larger projects going
+into the first half of 2021. Some of the projects that had been delayed. We think we'll see some of them in
+the first half of the year.
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research Division
+
+Got it. And then 1 question for Frank. I was hoping you could just help us think about the services growth
+rate in fiscal 1Q 2021. Is there a way we should be thinking about it, something similar to the last 2
+quarters kind of guidance framework? Any kind of real clarification on that would be great.
+
+Francis J. Pelzer
+Executive VP & CFO
+
+Yes. I'm not going to give a specific growth rate number. We'll have more to say, as François said, at AIM.
+I think the trend towards lower single-digit growth though is likely in FY '21. And so this is just consistent
+with the hardware-software attach rates. But we've been seeing consistent pricing. We've been seeing
+an increase in attach rates for all cohorts of the age contracts. And so we're really happy with the overall
+Services business.
+
+Operator
+
+Your next question comes from the line of Alex Henderson from Needham.
+
+Alexander Henderson
+Needham & Company, LLC, Research Division
+
+So we've heard a number of VARs and other people in the industry talk about the emergency-spending
+type orientation to IT spending, particularly around security, particularly around work from home, endpoint
+security and the like. What they've also said though, is that some of the transitional programs, things
+that were strategically important, those programs have been delayed and pushed out somewhat as a
+result of the temporary focus on and got to make sure that everything is secure from work from home.
+Are you starting to see any real clarity around some of those larger projects coming back in, particularly
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+around digital transformations to cloud orchestrated application deployments and Kubernetes adoption? Or
+alternatively, is that still something that's a little further out in the headlights.
+
+François Locoh-Donou
+President, CEO & Director
+
+Alex, I think -- so the large kind of digital transformation projects -- first of all, I would echo what you've
+said. We have seen a delay in some of these transformational projects. But we are also seeing people
+have attended to the immediate priorities, and they are now coming back to these projects and starting to
+reignite them. So I think that's why I think in the first half of 2021, we should start to see some of these
+projects actually come to be realized. And that's what I've said there applies to generally kind of digital
+transformation, movement to cloud, software-first environments, big automation projects. Those types of
+projects. When you speak specifically to Kubernetes environment, I think what we're seeing -- there's a lot
+of kind of excitement around taking these Kubernetes environments in production at scale. I think we're
+still in the very early innings of that.
+
+We've got a very good window into that with NGINX. As you know, NGINX is the #1 egress controller
+into Kubernetes environment and deployment. And so we are seeing demand there, and we're seeing an
+acceleration. But we still think we're in the very early innings of those types of containerized deployments.
+
+Alexander Henderson
+Needham & Company, LLC, Research Division
+
+And then just one last question for me. Just going back to the 35% plus growth in software, can you parse
+that between what portion of that is organic? And what portion of that is inorganic?
+
+François Locoh-Donou
+President, CEO & Director
+
+Well, no. But the -- I think we've given information about the contributions of Shape in Q3 and Q4. So you
+could use some of that information to kind of try and parse out what's organic and inorganic. Remember
+that Shape was not part of F5 in Q1 of 2020. But pretty much from Q2 onwards, they were part of F5
+last year. So the 35% is overall growth rate. We -- and that's kind of the minimum we think we'll do. We
+think it's likely we would do better than that. Overall, given the drivers that I've spoken to on NGINX, the
+acceleration I just mentioned that we're seeing there in this Kubernetes environment. What we're seeing
+in the cloud. Alex, I don't know if you picked that up in our script, but we have a about $100 million --
+our cloud business has now exceeded $100 million. We've got the partnership with AWS, which continues
+to go very well. We announced last week a product integration with AWS and AWS Cloudfront, which we
+think will be a catalyst. And I talked about the broad base of subscriptions that will drive organic growth
+next year. So overall, I think the software business is in an acceleration phase, and we're happy with that.
+
+Operator
+
+Your next question comes from the line of Tim Long from Barclays.
+
+Timothy Patrick Long
+Barclays Bank PLC, Research Division
+
+Yes. 2 quick ones, if I could. First, just curious if you could talk a little bit about revenue synergies from
+both NGINX and Shape. It sounds like Shape had a pretty good quarter, and there's a lot of traction for
+NGINX. But if you can kind of let us know where we are on that synergy basis and how much more room
+there is for cross-selling there? And then second question is, I just want to get into a little bit of the kind
+of the BIG-IP moderate rating on the hardware side, but good traction on the software side. Could you talk
+a little bit about -- yes, I guess, there's been -- there had been cannibalization. So do you think we'll start
+hitting a point where it's a lot more driven by newer workloads on the BIG-IP software side so that the
+sum of those 2 could be more positive than maybe it was when there was just some hardware-to-software
+replacement?
+
+François Locoh-Donou
+President, CEO & Director
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+Tim, thank you. The -- let me start on Shape and NGINX. And Tim, we'll say more about that at AIM in
+a few weeks. But a few highlights for you in terms of the synergies. What we are seeing is that the deal
+sizes on both NGINX -- so NGINX has been part of F5 for 18 months and Shape has been part of F5 for 9
+months. What we are seeing for both is a substantial increase in the average deal size as a result of the
+F5 go-to-market capabilities with NGINX and with Shape, and also an acceleration of essentially new logo
+acquisition for both organizations. And so the combination of NGINX go-to-market and F5 is yielding these
+results. And so the monetization of the platform is better. With Shape, we only have 9 months of runway
+but we're seeing exactly the same trends.
+
+Now in terms of product synergies, as you know, when NGINX came as part of F5, they were really early
+into monetization of the platform, very powerful platform, but early in monetization. We've now just
+released 2 new solutions, the NGINX Controller and the app security called NGINX App Protect. Which are
+in early days but gaining traction and will substantially also increase the deal size with NGINX. So new
+products coming to accelerate monetization. And then on Shape, we have moved extremely quickly to
+build integrations between Shape and BIG-IP and Shape and our Silverline offering. So for example, we
+now offer the Shape bot defense technology as a managed security service on top of the WAF and DDoS
+bundle that already existed in our Silverline managed security service, and that has already accelerated
+the Silverline business in the last quarter. So we're very excited about what's to come there. And I will
+touch on that again in a few weeks.
+
+Now on to your question about BIG-IP. Tim, I think the -- what we are seeing there is, I think the
+hardware -- if you think about it, the hardware and load balancing business, we think that's going to
+continue to decline. But increasingly, our hardware business is driven by either a stand-alone security
+hardware or bundles of security and ADC together. And our stand-alone security hardware business is not
+declining, but it's a bigger mix of our total hardware business. And the result is, you're seeing that decline
+of hardware, which was in the 11%, 12%. We think next year it's going to be in the high single digits.
+So that's where we're at. And then to your point on cannibalization. I think we will continue to see more
+customers that our ADC customers adopt a software-first approach, both on-prem and in the cloud. And
+that's why we're continuing to forecast declines in overall hardware.
+
+Operator
+
+Your next question comes from the line of Samik Chatterjee from JPMorgan.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+François, if I can just start with getting some color from you on the traction you're seeing for Shape. You
+talked about the opportunities that you're seeing. Can you just talk about whether you're seeing kind of
+this adoption happening just because there's more need for security solutions? Or are you replacing any
+existing solutions? And how do we get comfort around not seeing like a wave of vendor consolidation in
+security once we get post kind of COVID planning from the customers? And I have a follow-up.
+
+François Locoh-Donou
+President, CEO & Director
+
+Samik, can you explain that last bit around concern of seeing a wave of consolidation?
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+What I was trying to get to is we've had a lot of momentum here for the security vendors, overall. So once
+we get post-COVID planning from the enterprises, do we see kind of more consolidation in the number of
+security vendors that most enterprises work with?
+
+François Locoh-Donou
+President, CEO & Director
+
+Yes. I think what we're seeing and what you'll continue to see, Samik, is that most large -- so remember
+that F5 really is most exposed to kind of large enterprises. And both large enterprises and service
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+providers increasingly want to use a best-of-suite approach. So our approach to them is to offer a
+combination of application security technologies that allow their applications to stay online, to stay secure
+and allow us to protect the data and logic of these applications. And that overall suite for application
+security, it's not a component. It's not a single slice of application security. It's essentially the broadest
+application security portfolio that you can have, and so [Technical Difficulty]
+
+Operator
+
+Ladies and gentlemen, this is the operator. I apologize, but there will be a slight delay in today's
+conference. Please hold as we reconnect the speakers line. The conference will resume momentarily.
+
+François Locoh-Donou
+President, CEO & Director
+
+Samik, sorry about that. Our line was dropped. Did you hear the first part of the answer?
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+Yes. So overall broad application services. Yes. Yes. So if I can just follow-up, maybe for Frank quickly
+because I know you're also up on the hour here. Just looking at the operating margins here, Frank, when
+the Shape acquisition was announced. But prior to that, you were looking at about 33% to 35% operating
+margin. Now you're guiding to about 31%, I think, for next year. When I think about the delta there, is it
+primarily Shape? Or do you think there's kind of the environment that had an impact on this?
+
+Francis J. Pelzer
+Executive VP & CFO
+
+Sure. Absolutely. So yes, Shape accounted for the large majority of that. And I think post-Shape talked
+about 30% to 32%. We ended up on the low end of that range, Samik. And our goal is to get back above
+31% for fiscal '21.
+
+Operator
+
+And our final question comes from the line of Jeff Kvaal from Wolfe Research.
+
+Jeffrey Thomas Kvaal
+Wolfe Research, LLC
+
+I guess I have a question for you, François and one for you, Frank. François, I'm wondering if you could
+sketch out a little bit for us now that your security portfolio is well integrated. Where do you find yourself
+having the most success in security and where do you find some of your rivals doing well? Do you run into
+Zscaler or, et cetera, et cetera?
+
+And then, Frank, for you, I'm wondering if you could help us a little bit understand sort of the thinking
+behind the buyback, and what we might expect in the coming year from that?
+
+François Locoh-Donou
+President, CEO & Director
+
+Yes. Jeff, so let me frame where we're having success in security. Number one is in application security.
+So we're not -- our focus is not on endpoint security or really network security per se. Our focus is
+on protecting applications. And we're seeing that increasingly, the most sophisticated attacks go to
+application. The sources of more breaches and incidents come from vulnerabilities in applications, and
+that's our focus. And we have now put a portfolio together that is not a single solution for application
+security, it's a suite of solutions for application security. And there are very few players that really provide
+web application, firewall, DDoS, remote access as well as bot and fraud protection and protecting not just
+how an application is accessed, but how the application is used and protecting against fraudulent behavior
+of that. And if you look at where we are having success with that portfolio, it's in the large enterprises. So
+financial services, as you can imagine, a lot of stake in terms of securing these applications and the digital
+interactions with a customer. But the same in technology, some of the largest social media platforms in
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+the world are protected by F5 and Shape, and we're seeing the same kind of success in government and
+service providers. So that's the verticals where we get success and the types of solutions where we get a
+lot of traction.
+
+Francis J. Pelzer
+Executive VP & CFO
+
+And then, Jeff, on the buyback, it's the same as it's been. It's certainly one of the uses of our strategic
+cash that we see. The other 2 uses are potentially M&A as well as paying down our term loan A that
+we took out to acquire Shape. And so those are the 3 things that we're focused on. You saw in the last
+quarter that we did another $50 million of share repurchase, and we'll continue to be opportunistic on that
+going forward.
+
+Operator
+Thank you for attending today's call. You may now disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+F5 NETWORKS, INC. FQ4 2020 EARNINGS CALL |  OCT 26, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+

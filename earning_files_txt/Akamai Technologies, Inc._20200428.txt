@@ -1,0 +1,1290 @@
+Akamai Technologies, Inc. 
+
+NasdaqGS:AKAM
+FQ1 2020 Earnings Call Transcripts
+Tuesday, April 28, 2020 8:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2019-
+
+-FQ1 2020-
+
+-FY 2019-
+
+-FY 2020-
+
+CONSENSUS
+
+CONSENSUS
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+1.13
+
+Revenue  (mm)
+
+749.26
+
+Currency: USD
+Consensus as of  Apr-27-2020 7:31 AM GMT
+
+1.16
+
+749.75
+
+3.45
+
+1.94
+
+4.39
+
+4.90
+
+2870.93
+
+3090.84
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+FQ1 2019
+
+FQ2 2019
+
+FQ3 2019
+
+FQ4 2019
+
+1.02
+
+1.00
+
+1.00
+
+1.13
+
+1.10
+
+1.07
+
+1.10
+
+1.23
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+7.84 %
+
+7.00 %
+
+10.00 %
+
+8.85 %
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Edward J. McGowan
+Executive VP & CFO
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Tom Barth
+Head of Investor Relations
+
+ANALYSTS
+
+Brandon Lee Nispel
+KeyBanc Capital Markets Inc.,
+Research Division
+
+Colby Alexander Synesael
+Cowen and Company, LLC,
+Research Division
+
+James Dennis Breen
+William Blair & Company L.L.C.,
+Research Division
+
+James Edward Fish
+Piper Sandler & Co., Research
+Division
+
+Jeffrey Lee Van Rhee
+Craig-Hallum Capital Group LLC,
+Research Division
+
+Jian Li
+RBC Capital Markets, Research
+Division
+
+Keith Weiss
+Morgan Stanley, Research Division
+
+Lee T. Krowl
+B. Riley FBR, Inc., Research
+Division
+
+Michael Turits
+Raymond James & Associates, Inc.,
+Research Division
+
+Rishi Nitya Jaluria
+D.A. Davidson & Co., Research
+Division
+
+Sterling Auty
+JP Morgan Chase & Co, Research
+Division
+
+Timothy Kelly Horan
+Oppenheimer & Co. Inc., Research
+Division
+
+William Verity Power
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Xiaocon Liu
+Goldman Sachs Group Inc.,
+Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+Presentation
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the First Quarter 2020 Akamai
+Technologies, Inc. Earnings Conference Call. [Operator Instructions] Please be advised that today's
+conference is being recorded. [Operator Instructions]
+
+It is now my pleasure to introduce Head of Investor Relations, Tom Barth.
+
+Tom Barth
+Head of Investor Relations
+
+Thank you, operator. Good afternoon, everyone, and thank you for joining Akamai's First Quarter 2020
+Earnings Conference Call. Speaking today will be Tom Leighton, Akamai's Chief Executive Officer; and Ed
+McGowan, Akamai's Chief Financial Officer.
+
+Before we get started, please note that today's comments include forward-looking statements including
+statements regarding revenue and earnings guidance. These forward-looking statements are subject to
+risks and uncertainties and involve a number of factors that could cause actual results to differ materially
+from those expressed or implied by such statements. Additional information concerning these factors is
+contained in Akamai's filings with the SEC, including our annual report on Form 10-K and quarterly reports
+on Form 10-Q. The forward-looking statements included in this call represent the company's view on
+April 28, 2020. Akamai disclaims any obligation to update these statements to reflect future events or
+circumstances. As a reminder, we will be referring to some non-GAAP financial metrics during today's call.
+A detailed reconciliation of GAAP and non-GAAP metrics can be found under the financial portion of the
+Investor Relations section at akamai.com.
+
+And with that, let me turn the call over to Tom.
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Thanks, Tom, and thank you all for joining us today.
+
+Before I get into the numbers, I want to acknowledge how much the world has been disrupted by the
+COVID-19 pandemic. All of our lives have been impacted in ways that would have been hard to imagine
+only a short while ago. At Akamai, our primary concern is for the health and safety of our employees, their
+loved ones, our customers and partners and the communities where we work and live. Fortunately, we're
+in a position where almost all of our employees can work remotely, and we've been doing that successfully
+for the last 2 months. We've also implemented special measures to protect employees who need to travel,
+for example, to a data or operation center. And we're doing what we can to help employees who face
+especially challenging situations as a result of the pandemic.
+
+As businesses and consumers around the globe adjust their routines in the interest of public health, the
+Internet is being used at a scale that the world has never experienced. In addition to the hundreds of
+millions of people who've been working from home, governments are leveraging the Internet to keep
+citizens informed and to provide economic assistance. Houses of worship are streaming services, and
+communities are engaging online to relieve the social isolation felt by many. And of course, education,
+commerce and entertainment are now almost entirely online.
+
+As much of the world hunkers down in place, Akamai is continuing to work behind the scenes to keep the
+Internet functioning as a lifeline for organizations and people everywhere. I'll talk more in a minute about
+Akamai's unique role during the pandemic and the impact of the pandemic on our business. But first, I'll
+review our Q1 financial performance.
+
+I'm pleased to report that Akamai had a very strong first quarter on both the top and bottom lines.
+Revenue was $764 million, up 8% year-over-year and up 9% in constant currency. Non-GAAP operating
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+margin in Q1 was 30%, up 1 point over Q4 and consistent with Q1 of last year. Non-GAAP EPS in Q1 was
+$1.20 per diluted share, up 9% year-over-year and up 11% in constant currency.
+
+These excellent results were driven by the continued strong performance of our security solutions' greater-
+than-expected traffic levels and by our continued focus on operational efficiency.
+
+As more business is conducted over the Internet, the ability to scale becomes critical. And when it comes
+to scale, Akamai is the clear leader. Traffic on our platform increased dramatically in March as enterprises
+turn to Akamai to move more of their operations online. Despite the cancellation or postponement of
+major sporting events like March Madness and Champions League Soccer, our traffic increased by about
+30% over a 4-week period at the end of Q1. Traffic reached a peak of 167 terabits per second, which was
+more than double the peak in the first quarter of 2019. We're very pleased that the capacity we added to
+the platform last year has enabled us to help our customers when they need us most.
+
+We're also making a big difference when it comes to helping the major carriers handle the explosion in
+demand. That's because we deployed our infrastructure deep into carrier networks and close to end users.
+Thereby offloading an enormous amount of traffic that would otherwise congest core backbones and
+routers.
+
+Of course, performance is also critical as businesses move the majority of their operations online. Although
+some other companies have experienced cases of performance degradation and even extended outages
+in recent months, I'm very happy to report that Akamai's performance has remained consistent and
+strong over the past quarter. In fact, our measurements indicate that the page download times provided
+by our industry-leading Ion service have significantly improved over the past year. This is in spite of the
+large increase in traffic and is the direct result of our relentless efforts to improve the performance of our
+services.
+
+Akamai is also helping to protect many of the world's major enterprises as more employees work from
+home and as IT departments increase their focus on business continuity. We believe that Akamai's market-
+leading security services are needed now more than ever as attackers take advantage of the pandemic to
+ramp up their exploits on enterprises across all verticals.
+
+In Q1, our cloud-based security portfolio generated $240 million in revenue, up 28% year-over-year in
+constant currency. Sales continued to be led by our flagship services for DDoS prevention, application
+layer firewall and bot management. We also saw a strong surge in bookings for our next-gen zero trust
+enterprise security solutions. The strong demand we saw in Q1 for our security and media services more
+than offset the reduced revenue we received from companies that have been hit hardest by the pandemic,
+especially in the travel and hospitality vertical. Where appropriate, we are modifying the terms of these
+customers' contracts to provide them some relief and flexibility often in return for extended contract
+length.
+
+We value our customers and want them to think of Akamai as a supportive and reliable partner for the
+long run. We're fortunate that our financial strength enables us to provide assistance to customers in need
+which we believe will benefit our shareholders and the global economy over the long term.
+
+We've also played an important role in helping to support websites and applications associated with
+response to the pandemic. And the Akamai Foundation is providing substantial financial assistance for
+numerous relief efforts around the world.
+
+Most of all, today, I want to recognize and thank our nearly 7,800 employees for working so hard to serve
+the thousands of organizations and billions of Internet users who rely on us during these very challenging
+times. I couldn't be prouder of the way that our people have stepped up and of what they're managing to
+accomplish despite their own personal challenges in dealing with the pandemic. Their spirit and leadership
+during a time of crisis is a key part of what makes Akamai such a unique and strong company.
+
+Lastly, I want to offer a warm welcome to our Board's newest member, Marianne Brown. Marianne joined
+Akamai's Board last month and brings with her extensive financial and operational expertise as well as
+valuable leadership experience with global technology-driven companies.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+I'll now turn the call over to Ed for more details on our Q1 performance and our outlook for Q2. Ed?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Thank you, Tom. Before I begin, I would also like to thank our fellow employees with their amazing work
+and dedication. And I would like to acknowledge our customers and partners, especially those who have
+been hardest hit by the global pandemic.
+
+Today, I plan to review our Q1 results, discuss the impact the pandemic is having on our business and
+provide Q2 guidance and an update on the full year. As Tom mentioned, we delivered a very strong
+quarter on both the top and bottom line. Q1 revenue was $764 million, up 8% year-over-year or 9%
+in constant currency driven by a significant increase of global traffic as well as continued strong growth
+across our security portfolio.
+
+Revenue from our Media and Carrier Division was $358 million, up 8% year-over-year and 9% in constant
+currency. The outperformance in media was primarily due to the surge in traffic from OTT video, gaming,
+social media and news and information sites as more and more people around the world began to shelter
+in place. Revenue from our Internet Platform Customers was $45 million, in line with our expectation.
+Revenue from our Web Division was $406 million, up 8% year-over-year and 10% in constant currency.
+Revenue growth for this group of customers was again driven by our security business.
+
+Moving on to revenue by geography. International revenue was $335 million, up 16% year-over-year
+or 19% in constant currency. We continue to see very strong international growth especially in APJ.
+Foreign exchange fluctuations had a negative $3 million impact to revenue on a sequential basis and had a
+negative $7 million impact on a year-over-year basis. Sales in our international markets represented 44%
+of total revenue in Q1, up 3 points from Q1 2019 and up 2 points from Q4 levels. Revenue from our U.S.
+markets was $429 million, up 3% year-over-year.
+
+Moving now to costs. Cash gross margin was 77%, consistent with our expectations. GAAP gross margins,
+which includes both depreciation and stock-based compensation, was 65%, down 1 point from Q1 of last
+year.
+
+Non-GAAP cash operating expenses were $260 million, in line with expectations. Adjusted EBITDA was
+$327 million, up $8 million from Q4 and up 9% from the same period in 2019. Our adjusted EBITDA
+margin was 43%, up 2 points from Q4 and up 1 point from Q1 of 2019. Non-GAAP operating income was
+$230 million, up $8 million from Q4 levels and up $20 million or 9% from the same period last year. Non-
+GAAP operating margin was 30%, up 1 point from Q4 levels and consistent with Q1 of last year.
+
+Capital expenditures in Q1, excluding equity compensation and capitalized interest expense, were $136
+million. This was lower than our guidance range given some pandemic-related supply chain disruptions
+and travel restrictions have delayed some planned network buildup. However, thanks in part to the
+capacity work we undertook in 2019, we are very pleased that we've been able to maintain network
+resiliency during this virus outbreak.
+
+Moving on to earnings. GAAP net income for the first quarter was $123 million or $0.75 of earnings per
+diluted share. This included a restructuring charge of about $11 million associated with the prior actions I
+mentioned on our last quarterly call. We did not take any new restructuring actions during Q1.
+
+Non-GAAP net income was $196 million or $1.20 of earnings per diluted share, up 9% year-over-year,
+up 11% in constant currency and $0.02 above the high end of our guidance range due to higher-than-
+expected revenue in the quarter. Taxes included in our non-GAAP earnings were $35 million based on a Q1
+effective tax rate of 15%. This was slightly better than we expected due to stronger-than-expected growth
+outside the U.S.
+
+Now I will turn to some balance sheet items. We believe that our balance sheet is strong, and we
+anticipate that we can maintain this position in the face of the current economic uncertainty. As of March
+31, our cash, cash equivalents and marketable securities totaled $2.2 billion. Our total debt at the end of
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+Q1 remained unchanged at $2.3 billion. As a reminder, our debt is comprised of 2 convertible notes with
+par values of $1.15 billion each and maturities in 2025 and 2027, respectively.
+
+Now I will review our use of capital. During the first quarter, we spent $81 million to repurchase shares,
+buying back approximately 900,000 shares. We have approximately $750 million remaining on our
+previously announced share repurchase authorization. We plan to continue to leverage our share buyback
+program to offset dilution resulting from equity compensation over time and subject to global financial
+conditions. In summary, we are very pleased with our Q1 results.
+
+Given these uncertain times and with the increased volatility we are seeing in global markets, I thought
+it would be helpful to provide some additional context on the impact that the recent elevated traffic levels
+may have on our Media Division and the negative impact the pandemic may have on some key verticals in
+our Web Division.
+
+First, as Tom mentioned, with many countries around the world issuing shelter-in-place orders, we have
+seen a dramatic increase in media traffic across our platform. We expect this elevated traffic to continue to
+have a positive impact on our Q2 results. However, we anticipate that traffic levels may start to moderate
+if life begins to return to normal and as the warmer summer months get underway in our larger markets.
+
+As an aside, some of you may be wondering about live sports. As a reminder, no individual live event has
+a significant impact on our results. And to date, the stronger traffic from shelter-in-place orders has more
+than offset the impact of live sports cancellations and postponements.
+
+Moving now to our Web Division. There are 2 verticals notably impacted by the global pandemic, travel
+and hospitality and commerce and retail. The travel and hospitality vertical accounted for roughly 4% of
+total Akamai revenue in Q1. This vertical is comprised of over 200 customers globally, including some
+of the largest airlines, hotels, cruise lines and travel-related sites. Most of these customers have seen
+sharp declines in demand, a trend that is expected to continue throughout 2020. Our commerce and
+retail vertical is an area we have highlighted for some time as being under financial pressure. This vertical
+includes more than 900 customers globally and represents approximately 16% of Akamai's total revenue.
+While we have seen a recent traffic uptick with some customers, other customers are struggling, especially
+those that rely heavily on brick-and-mortar operations. We believe they could become increasingly
+challenged the longer the shelter-in-place orders continue.
+
+As Tom mentioned, we have already begun to work with many of our customers whose businesses have
+been impacted by the pandemic. Q1 was negatively impacted by approximately $5 million due to a
+combination of contract restructurings and elevated bad debt reserves. While it is difficult for us to project
+the total impact, we do expect to incur additional charges in the coming quarters if the economy continues
+to suffer.
+
+I'd now like to provide our outlook for the second quarter. We are projecting Q2 revenue in the range
+of $752 million to $778 million or up 6% to 12% in constant currency over Q2 2019. Given the COVID-
+related impacts on the business I just discussed, we expect to see continued sequential growth in our
+Media Division and a slight decline sequentially in our Web Division in Q2.
+
+Current spot rates. Foreign exchange is expected to have a negative $7 million impact on Q2 revenue
+compared to Q1 levels and have a negative $11 million impact on a year-over-year basis. At these
+revenue levels, we expect cash gross margins of approximately 76%. Q2 non-GAAP operating expenses
+are projected to be $252 million to $260 million. Factoring in the cash gross margin and operating expense
+expectations I just provided, we anticipate Q2 EBITDA margins of approximately 43%.
+
+Moving now to depreciation. We expect non-GAAP depreciation expense to be between $98 million to $101
+million. We expect non-GAAP operating margins of approximately 30% for Q2.
+
+Moving on to CapEx. We expect to spend approximately $186 million to $206 million, excluding equity
+compensation in the second quarter. This assumes there's not a significant change in the overall economic
+environment and that we will catch up on our CapEx spend the first half of 2020 and Q2.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+With the overall revenue and spend configuration I just outlined, we expect Q2 non-GAAP EPS in the
+range of $1.18 to $1.24 or up 14% to 20% in constant currency. This EPS guidance assumes taxes
+of approximately $34 million to $36 million based on an estimated quarterly non-GAAP tax rate of
+approximately 15%. And it also reflects a fully diluted share count of approximately 164 million shares.
+
+As our Q1 results and Q2 guidance demonstrate, we are optimistic about the continued strength of our
+business even in the light of the pandemic. As you're seeing from other companies reporting, however,
+it has become much more challenging to predict economic conditions, resulting customer impacts in the
+second half of the year. As a result of this uncertainty, especially as it relates to the holiday shopping
+season in Q4, we are withdrawing full year 2020 guidance at this time. We plan to reassess providing
+annual guidance next quarter as we gain additional insights into the direction of the global economy.
+
+We are very thankful for the resiliency of our employees, the diversification of our revenue, the strength of
+our customer relationships and our strong balance sheet. We believe we are well positioned to continue to
+help our customers during this very difficult time by providing them with the best and most secure digital
+experiences around the world.
+Thank you. Tom and I would be happy to take your questions. Operator?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] And our first question comes from the line of Will Power with Baird.
+
+William Verity Power
+Robert W. Baird & Co. Incorporated, Research Division
+
+Great. Okay. Well, I guess, first, I hope everyone in Akamai team is staying as healthy and safe as
+possible. Maybe two quick questions, if I can. First, we'd love to get more granularity if possible on the
+sources of strength in media. Maybe just trying to understand the strength in OTT video versus gaming, if
+there's any way to kind of rank order what you're seeing there.
+
+And the second question is on security. Given the uncertain climate and questions on IT budgets, maybe
+just talk about how you're thinking about security growth going forward and what you're seeing in terms
+of potential lengthened sales cycles versus the need for work-at-home capabilities.
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. Sure. I'll take the first one, Tom, and maybe you take the second one. So the strength in media really
+came -- I mentioned in the earlier remarks, we really saw strength across several different subverticals
+in media. Probably the largest would be in OTT video, but also it was a very, very strong gaming quarter,
+especially in March. And really, we saw a significant uptake in traffic over the last couple of weeks of
+March. And as the shelter-in-place orders came around the world and as we got to places like Europe,
+India and the U.S., we really saw a dramatic increase. So there's pretty much strength across-the-board
+and really across the globe as well.
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Yes. And first, thanks for the concern about Akamai employees. And I'm happy to report that, by and
+large, we're all doing well. In terms of the question on security growth, looking very strong. And partly,
+that's because the attackers aren't held back by the pandemic or working remotely. In fact, we've seen a
+substantial increase in attack activity, and perhaps that -- perhaps, they're doing that because they know
+IT managers have a lot of other things that they got to worry about in terms of supporting their workforce
+remotely. That increases vulnerabilities. And so it's really a perfect storm for the attackers to run their
+exploits. And we have products that are really well designed to help major enterprises deal with that both
+for securing their websites and apps and also for securing access for their employees who are now remote
+all of a sudden. And so we've seen a very strong uptick in bookings for our enterprise security products.
+
+And I guess the last point there is our customer base is the world's major enterprises. And they're going
+to fare better than most through the pandemic, and we have very good relationships. And so we're in a
+better position to provide them with the new security capabilities or the increased capacity that they're
+going to need for their security products. So on balance, I think the security business is looking very
+strong. And of course, we're all hoping that the global recession doesn't really deepen or persist for a long
+time.
+
+Operator
+
+And our next question comes from the line of Keith Weiss with Morgan Stanley.
+
+Keith Weiss
+Morgan Stanley, Research Division
+
+Excellent. Very nice quarter. So two questions. One on -- as we think about Q2, any quantification you
+could give us in terms of kind of the puts and takes and particularly on sort of the drags of having to
+reprice some of those -- or I'm assuming reprice, having to amend some of those contracts on the
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+performance side of the equation? Any sense you could give us and just like what kind of impact that has
+on Q2. And then on the flip side of the equation, is it possible to quantify kind of the -- your expectation
+for how well this sort of up traffic is going to sustain into Q2? Like how much of that did you actually put
+into the guide on a go-forward basis?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. Sure. Keith, it's Ed. So I'll start with the Web Division. Obviously, what I tried to do was call out a
+couple of verticals that our customers are experiencing some significant challenges. So we're dealing with
+those on a case-by-case basis. And in the prepared remarks, I talked a little bit about how we expected
+to see a slight sequential decline in the web business and really, what that's all about. There's a couple of
+things that we have to take in consideration. In some cases, the customers will come direct to us and ask
+us if there's anything we can do to help them during this period of time where there's a lot of uncertainty.
+And in some cases, we'll amend contracts and we'll get something in exchange for that. In other cases,
+we have to assess the ability of the customer to pay us. And so there's some customers, in particular,
+in certain geographic areas of the country that we're more concerned about. And if you don't have -- if
+you have any concern about the customers' ability to pay, you have to reserve that revenue. So there's a
+combination of that going on.
+
+I am encouraged to see that the capital markets have been opened, and we've seen a number of
+customers that have been able to secure funding. There's obviously availability with certain government
+bailout programs and things like that. But it is an area that we're keeping a close eye on.
+
+And then obviously, bankruptcies are another possibility. So what we did is we did run a number of
+different scenarios, and we assumed that we would continue to see additional pressure in the web
+business and we will see a slight decline. Obviously, this is out of control -- out of our control in terms of
+what's going to happen with this pandemic and also out of the control of our customers in many ways.
+
+So then on the web -- on the media side, excuse me, we assume that this continued strong traffic growth
+that we saw in March would continue throughout most of the quarter. We made an assumption that in
+June that we may see a slight decline in the traffic as things hopefully start to get back to normal and the
+warmer months start to hit. We've seen a pretty strong traffic growth here in April.
+
+Keith Weiss
+Morgan Stanley, Research Division
+
+Got it. And just in terms of the nature of the contract negotiations, is it more on billings terms or does
+actual pricing change? Can you give us some color on to what you're willing to give to your customers?
+And is there anything kind of out of bounds in what you're not willing to do in terms of contract
+amendments?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. Sure. I mean you take it case by case. We always take the long-term view. A lot of these customers
+have been with us for 15 or 20 years. And they certainly take the travel and hospitality vertical. That was
+a vertical that I never worried about it. That was a -- it's made up of fantastic, amazing companies. They
+have been -- always pay on time. They're usually folks that are early adopters of our new solutions, et
+cetera. But obviously, they just saw demand evaporate here in the second quarter -- excuse me, in the
+first quarter. So we work with them. Sometimes it could be you enter into a 0-overage contract. A lot
+of customers are asking for extended terms and payments. So we have to take that into consideration.
+And sometimes, it's some credit relief, but we do it case by case. So far, the customers have been pretty
+reasonable. In terms of their ask, there hasn't been things that have been completely outrageous so far.
+
+Operator
+
+And our next question comes from the line of James Fish with Piper Sandler.
+
+James Edward Fish
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+Piper Sandler & Co., Research Division
+
+Glad to hear you guys are doing well from a personal basis and from a business basis during this time.
+Best wishes to you and the rest of the Akamai team. I just want to double-click on Will's question. And
+what are you guys seeing thus far with the security solutions with work from home, specifically more
+about that new cloud web gateway or security solution and the EAA product?
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Yes. So strong bookings there. Now the Secure Web Gateway is just now available in beta and as part of
+our Enterprise Threat Protector solution version 3.0. And I think that really increases the strength of the
+offer. Where we're seeing a lot of the bookings now is in Enterprise Application Access. And you think of
+that as the VPN replacement, think of that as saying that that's all your employees who used to just log in,
+in the physical building now have to do it from home and you need to secure them and you need to scale
+that overnight. And so I think that's why we're seeing a real uptake there.
+
+And in general, I think these are the solutions of the future for enterprise security. They enable the zero
+trust model. They are much more secure than the traditional solutions that enterprises have been using
+now for decades and put -- can put a big dent in enterprise data breaches in the future.
+
+James Edward Fish
+Piper Sandler & Co., Research Division
+
+Got it. And then on the media side, I mean one of your peers in that space get the share loss with some
+of the streaming services. I guess were you guys able to capture some of that share given the Akamai
+network size? Or did you see any specific media share gains with some of the newer OTT services?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. So that's a great question. We did. One of the things that has been a bit of a challenge in the industry
+is that there's been a surge of demand. So capacity becomes a bigger component of the equation. And
+along with that, it becomes performance. So in some cases, we've seen pretty nice share gains across-
+the-board. So we've been very happy with that in Q1.
+
+Operator
+
+And our next question comes from the line of Sterling Auty with JPMorgan.
+
+Sterling Auty
+JP Morgan Chase & Co, Research Division
+
+You mentioned in your prepared remarks that no single live sporting event is a meaningful part of
+revenue. But I think you've talked in the past that things like the Olympics and World Cup that span
+a couple of weeks are more meaningful. So I'm wondering how you quantified or how you gauge the
+potential for a fade off in traffic in June versus the loss of the Olympics this year within the guide and what
+we should be thinking as we go into the back half of the year.
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. Sure, Sterling. So I'll get into a little bit of detail on this one just to help you guys out. So we did talk
+about there's no individual event is material. Take the Olympics, for example. When you think about the
+Olympics, there's obviously the direct right holders. There's the web traffic that can sometimes go along
+with an event of that size, the travel and news and things like that. And then there's also live television.
+We've got several folks that show live television. And then obviously, the duration of the streaming is what
+really matters. We do web delivery, we do services, we do security, et cetera, but it's really the length of
+the streaming. In an event like that, it could be in, let's call it, the $3 million to $5 million range, maybe a
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+few million on a really good year. And if I think about live sports in general, it's probably a little over 1% of
+our total revenue throughout the year.
+
+So right now, you've seen in Q1, we certainly more than offset the lack of live sports, and we expect
+that to happen in Q2. So in terms of what we've built into our guidance, we're assuming that live sports
+is not fully back up and running and that what we're seeing from the OTT and other gaming and other
+subverticals will more than offset that in Q2.
+
+Sterling Auty
+JP Morgan Chase & Co, Research Division
+
+That's great transparency. And then on the security side, can you give us a sense of where the strength
+is coming from this aspect? How much of that strength in spending is new customers coming on to the
+platform versus existing customers either taking more product or existing customers just paying more
+because of either some sort of volume commitment on any of this or -- just help peel back the onion a bit
+on the contributions from the growth in security.
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. Sure. Good question, Sterling. So first of all, I'll take it from a couple of lenses. I'll start off with
+the product side. So we saw great strength with Bot Man, KSD services and EAA and ETP, albeit a bit
+smaller, good uptake of multiple solutions. And I've provided this metric before in terms of the number of
+customers that have purchased a security product. We're up to about 57% now, up from 55% last quarter.
+So we're seeing good uptick in the installed base and growing there. And also, customers taking on more
+than 1 product, customers buying 2 or more, up to about 29%. That's up a point from last quarter as well.
+So we're doing well with the installed base.
+
+And in terms of bookings, we're seeing new customer bookings again being led by security. And again,
+we're seeing some good stuff in installed base. And we're also very excited about page integrity. We came
+up with our limited availability in page integrity. We signed a number of customers this quarter and expect
+to continue to do that throughout the year. Tom mentioned Secure Web Gateway, which is out in beta now,
+and then obviously, enterprise, we've got a long way to go there.
+
+Operator
+
+And our next question comes from the line of Heather Bellini with Goldman Sachs.
+
+Xiaocon Liu
+Goldman Sachs Group Inc., Research Division
+
+This is Caroline on for Heather. First off, I do want to echo the comments that my colleagues on the
+line have already made. I do hope that you and your families are staying safe and healthy. First off, I
+wanted to dive a little bit more into the comments that you made about OTT. I'm curious, how has the
+OTT demand environment trended relative to your expectations? Or I guess put another way, how much of
+the OTT strength would you characterize as due to the new launches, the share gains versus the general
+increase in user traffic that was driven by the shelter-in-place orders?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. Good question. It's one that I challenged my team to come up with a number, and it's a little difficult.
+Times like these tend to accelerate trends we see in the market, OTT growth being one and obviously, cord
+cutting being another. And in March is when we really saw a big uptick in traffic. So there's no doubt that
+the shelter in place really drove a lot of traffic.
+
+But we also had a major customer launch, a new service over in EMEA. And we had our own models
+about what we expected. And I would say, we did a little bit better, could be because of the shelter in
+place. But I'd say, it's kind of a combination of both the shelter in place. But also, we had -- we took some
+share in some places as well. Like I talked about earlier, we have capacity in a lot of places where it really
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+matters. We're able to outperform some of our competitors in certain areas. So it's sort of a combination
+of everything, but I would say that shelter in place certainly did help accelerate the trend that we're seeing
+in the market.
+
+Xiaocon Liu
+Goldman Sachs Group Inc., Research Division
+
+Got it. And can you talk through what the demand was like sort of in the last 2 weeks of March? And what
+are you seeing now especially in areas like APJ where some of those countries have sort of relaxed the
+shelter-in-place orders and people are starting to return back to their workplaces?
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Yes. The demand increased steadily through March and total traffic increasing from March to April. And
+you can see as countries went into shelter in place, you see the traffic increase. And I think most of the
+world is -- or at least the traffic-wise, it's still in that condition of being high. And as we look forward, we
+may see more normal growth from here depending, as Ed said, on live events and OTT launches and so
+forth. So APJ, I would say, also very strong. And as you know, a lot of our -- we've got a lot of strong
+growth there.
+
+Operator
+
+And our next question comes from the line of James Breen with William Blair.
+
+James Dennis Breen
+William Blair & Company L.L.C., Research Division
+
+Just on the CapEx side, you talked about a little bit of delay in sort of the expansion that you had, you
+were prepared for it just because of some of the build-out you did at the end of last year. Are there any
+concerns about those delays continuing and the ability to sort of meet the demand from the customer side
+as we go forward here?
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Yes. We think we're past the delays. We did have about 90 days of delay on delivery of a bunch of servers,
+but we've had -- we have plenty of capacity and as you can tell by hitting a peak, which is really what the
+CapEx governs of doubling year-over-year. And at this point, we think we're in very good shape with the
+supply lines and getting the port capacity we want for the rest of the year. We have the techs in all the
+cities where we need to do that, to do the installation. And we have the approvals from pretty much all the
+major governments that our folks can move around even where it's a very strict lockdown just because
+we're such a critical resource in countries around the world. So we're optimistic, as Ed said, on being able
+to continue to deploy capacity and to stay ahead of the demand.
+
+Operator
+
+And our next question comes from the line of Michael Turits with Raymond James.
+
+Michael Turits
+Raymond James & Associates, Inc., Research Division
+
+Glad to hear everyone's well and best to everyone. With you guys withdrawing guidance, as I think
+through your different segments, I would like to just try to focus on which are the ones that provide that
+uncertainty because it sounds like CDN is strong now and really at worst -- at least on the media side,
+at worst, come back to the level that it was at. Security, it doesn't sound like you think there's some
+uncertainty that's macro related but perhaps there is, and you can tell me if you think there is. And so
+we're left with e-commerce and around travel and retail. So am I right in that, that's really the reason why
+we have an uncertainty that caused you to pull guidance in that segment?
+
+Edward J. McGowan
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+Executive VP & CFO
+
+Yes. Michael, this is Ed. Yes. I mean obviously, we hated to do that. And as we ran our scenarios, there's
+so much that's out of our control and really impacts our customers. For example, if you run into a second
+flare-up of this in the fall and get into another round of shelter in place, what -- how does that impact our
+customers' business, especially in the Web Division? Obviously, it would be bullish for the Media Division
+because we see those elevated traffic levels. But on the web side, it could be considerable. And what's the
+consumer going to do? How is the consumer going to behave? And with Q4 being a very strong seasonal
+quarter for us, you can imagine as you run through a number of scenarios, your range just gets really
+wide. And we just didn't think it would be helpful. That's why we -- I provided some additional color, so
+you guys can run your models by giving you some size, relative size in number of customers, et cetera.
+That's really what's driving it, Michael. It's just the uncertainty around those web -- the Web Division
+customers and more, in particular, to what's happening with the virus. It's just so much that it's out of
+all of our controls and including capital markets, who knows in the second round? Right now, it's good to
+see some of our customers getting funding, but that may close down if second round happens and see
+elevated bankruptcies, consumers may not be spending, may not be traveling. So that's not something
+that we're experts in, and we wanted to give it more time to get some more color rather than providing
+something we felt was unhelpful.
+
+Michael Turits
+Raymond James & Associates, Inc., Research Division
+
+And then if I think about CDN as a division, obviously, the only thing you're guiding to is 2Q. But CDN is
+made up of both the media side as well as the web side. So do you think that there's enough in traffic to
+give you an offset to both live sports and the web that you can see growth in the CDN business year-over-
+year next quarter?
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+So in Q2, yes. I would say right now, there's a good chance that we could see the strength in medium
+more than offset live sports and potentially, the impact on webs. Right now, we have 60 days to go. You'll
+never know what can happen here in the last 60 days, why we've given you a larger-than-normal range,
+but it is possible, and I wouldn't be surprised if we saw CDN grow a bit here in Q2.
+
+Operator
+
+And our next question comes from the line of Tim Horan with Oppenheimer.
+
+Timothy Kelly Horan
+Oppenheimer & Co. Inc., Research Division
+
+Two questions. Tom, can you maybe step back a second and talk about what you kind of expect for secular
+shifts in Internet usage and trends and maybe how COVID here might change what you guys are doing in
+your strategy, if at all? Or maybe other areas that you might want to invest in as a result of all this? And
+then just a quick follow-up on security. On the bookings, can you give us maybe -- just in comparisons of
+past quarters, is this like well, 10%, 20% above trend that you've seen in the last few years? Or any kind
+of color around that would be great.
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Yes. In terms of the secular shifts, I think there's a reasonable prospect that there will be much more use
+of the Internet coming out of this permanently than there was going in. And in many areas, you look at
+e-commerce. And traditionally, that was the penetration of e-commerce and commerce as a whole was
+growing about 2% of the year and low to mid-teens. And pretty much now the large majority of commerce
+is online. And after people get used to doing that for an extended period, a lot of that share gain may
+become permanent. That's really good for Akamai. You look at media and movie releases being done
+online, a lot of consumption now moving online. And that may become permanent, a lot of that as well.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+You look at work from home, there wasn't a lot of that before, but now there's just a ton of it. And after
+you've done it for a while, I think you may see a lot of that become permanent. And so just across-the-
+board, it's not so much new uses of the Internet that weren't done a little bit before, but now they're
+being done at massive scale. And there's a prospect that the scale will be very large coming out. And so
+when we look at the secular tailwinds here, obviously, we're worried about a global recession. As Ed talked
+about, we just have no idea how long or deep that will be. We're hoping we get out of this pandemic
+situation by the end of the year and things are looking better, that's beyond our control. But once we do
+emerge, it does seem like there's a lot of strong tailwinds for Akamai because the things I described are all
+the things that we're really good at and the market leaders at. And so I would say, long-term view, very
+bullish about Akamai.
+
+It's not a major product shift for us obviously in go-to-market now. We're changing how we do that
+because we're not traveling. So the go-to-market motions are all virtual and digital now, and we have
+gotten off to a great start there. I don't know how many of you came to our virtual edge live event, but
+tremendous attendance there and really good feedback. And so how we approach customers, how we talk
+to them physically is changing. And that's fine. We're in good shape there.
+
+In terms of the security bookings, yes, for the enterprise security products, very substantial increase year-
+over-year in Q1, and that seems to be continuing into Q2. So that is good news. Now it takes a while for
+that to turn into revenue, of course. But that's a very positive development.
+
+And I do think that again in the long term with more employees working from home and already the need
+to stop data breaches and protect enterprise applications and data, there is a bright future for our zero
+trust enterprise security products.
+
+Operator
+
+And our next question comes from the line of Colby Synesael with Cowen.
+
+Colby Alexander Synesael
+Cowen and Company, LLC, Research Division
+
+Great. Two questions, if I may. I guess the first one, I just wanted to drill a little bit further down on bad
+debt. Wondering if you could provide any more color as it relates to -- as a percentage of revenue or what
+the actual step-up was in the quarter. And what should we be looking for that could suggest that you
+might have to take it up a little bit further potentially in the second quarter?
+
+And then just real quickly on pricing, I'm just curious with the incremental volumes that you're seeing
+tied to the CDN business, whether it's just the broader OTT trend or CV-19 related, if we're seeing any
+significant or material shift in pricing trends.
+
+Edward J. McGowan
+Executive VP & CFO
+
+Sure. I'll take those. So bad debt was up a couple of million this quarter. There's a new accounting
+standard that we adopted at the beginning of January, ASC 326, which, basically, in the past, you have
+to look at -- sorry to get wonky here. But in the past, you have to look at the historic and anything that
+happens within a quarter, now you have to look at potential future credit losses. So think of it almost like
+you're a bank where you're evaluating trade receivables and having to put up a reserve for potential future
+credit losses. And I mentioned earlier, we'll be extending out, in some cases, some payment terms for
+folks. In some cases, they were just asking for some time. In other cases, in -- like in places like India,
+they physically can't get into the office and they're not set up to do electronic payments. So we'll be
+evaluating that as every company that adopts the standard, we'll be doing the same. So I do expect that
+bad debt expenses will go higher, and we did plan for that in our guidance. So you'll see in the G&A line
+that, that will start to tick up a bit.
+
+On the pricing side, pricing in the CDN market, it's -- I didn't see anything this quarter that was out of
+the ordinary. I will say, though, that we are seeing, as I talked about with capacity, the push for capacity
+reservation fees, which, essentially, is just getting a little on top of what you'd normally get for the cost of
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+bit delivery. Capacity is at a premium at this point. So we are seeing a little bit of a benefit there. But in
+terms of the normal pricing environment, it's still volume-based, and I don't see a lot of difference in the
+market at this point.
+
+Operator
+
+And our next question comes from the line of Jian Li with RBC Capital Markets.
+
+Jian Li
+RBC Capital Markets, Research Division
+
+This is Jian for Mark Mahaney. So maybe just a couple of points. One on the guidance. You mentioned
+the vertical weaknesses in your hospitality, travel, commerce. Can you perhaps ballpark the magnitude
+of the impact? And maybe just like do you bake in a similar impact in Q2? Or do you expect that in your
+Q2 guide? Or do you expect that to kind of be a worsening scenario just given so much of that has just
+happened in the last month of the quarter? And then I have a follow-up.
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. Sure. So in the guide, we did expect that we'd see additional pressure in those verticals. And in my
+prepared remarks, I talked about how we expected the Web Division to decline slightly. It's not usually a
+division that grows very steadily, obviously, with the exception of the seasonally strong Q4 going to Q1.
+So we are anticipating that. So I did bake in some of that. And then included in the range is a various set
+of scenarios in terms of good, better, best, in terms of how we will land. So far, in the first 30 days or the
+28 days of the quarter, I would say we're trending about what I would have expected. But let's see how
+things go here in the next 60 days as we finish up the quarter. Hopefully, as some of these countries and
+states start to come back out of shelter in place, we don't see a panic back to things getting worse and
+there's more consumer confidence, so we don't see as much pressure. But that's how we thought about it.
+
+Jian Li
+RBC Capital Markets, Research Division
+
+Got it. And another question just on security, maybe pre- and post-COVID. Maybe parsing out the COVID
+impact before that really hit and you saw a surge in bookings, how is the growth has been trending versus
+your expectations? And what's kind of the cadence of transition to zero trust. And maybe after the COVID
+impact, you mentioned a few new launches in the past, obviously, page integrity being one, SWG as well.
+That will be a more material revenue driver in the out years. Now do you see any of these new product
+launches actually becoming more meaningful revenue drivers in perhaps this year or next year or sooner
+than projected?
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Yes. Good question. I would say the security growth remains very strong. It's been in the high 20s for
+some time, and we saw that in Q1 as well. And that's going into COVID, I think the pandemic, as we
+talked about, the rate of attacks has increased as bad as that is during the pandemic as the attackers try
+to take advantage of it, I would say. Now the new services like page integrity and Secure Web Gateway
+and enterprise security and the increased bookings around enterprise security, those are things that
+will drive revenue in the future. So there's some time between bookings and growth. I would say that
+the pandemic and the stuff that's happening there helps zero trust because -- in our enterprise security
+because there's even more need for it. And in some cases, it's an urgent need. Whereas before, there was
+a -- I think it was in early days of a trend towards moving to zero trust. So there's an accelerant because
+of the pandemic. I don't think the pandemic yet you've seen any change in revenue because of it in the
+same way you would for traffic. Traffic, you monetize that immediately. As soon as you're delivering more,
+you get the revenue for it. With security products, that more is the bookings and the recurring revenue
+that's generated as customers buying new services or increase the services they have. And so there, I
+think there is benefit in the future, but we haven't experienced that yet in the same way we have with
+traffic.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+Operator
+
+And our next question comes from the line of Rishi Jaluria with D.A. Davidson.
+
+Rishi Nitya Jaluria
+D.A. Davidson & Co., Research Division
+
+Nice quarter and glad to hear everyone is staying safe. Just two from my end. First, I wanted to go back
+to retail and commerce as a vertical. Look, I know it's been under pressure even pre-COVID. It feels
+like certain parts of that vertical, though, might be doing better than others in this environment, right,
+especially those like a Walmart were better selling essential goods and services, and we're seeing pockets
+of e-commerce. So I wanted to get a sense for what are you seeing within that vertical. And as you think
+about your withdrawing of guidance and one of the factors being uncertainty around the holiday shopping
+season, is that a function of just the impact from the fact that we're in a recession, it might take time for
+recovery, so discretionary spending might be down or maybe some more detail around that.
+
+And then the second question I wanted to ask, you talked a little bit about the payment terms and
+restructuring of deals. One of your competitors or peers talked about some customers deferring minimum
+traffic commitments in this environment. Just wanted to get a sense, is that something that you are seeing
+as well?
+
+Edward J. McGowan
+Executive VP & CFO
+
+All right. So I'll start with the second one. So in terms of deferring minimum traffic commitments, we
+haven't gotten to that. As a matter of fact, traffic is up significantly. So that hasn't been an issue for us.
+There are some customers in the Web Division that have opted for the 0 overage, but that's been a normal
+sales motion. So I wouldn't say -- I wouldn't really call it anything there.
+
+On your question about retail and what we're worried about there, you're correct. There's winners
+and losers. Some folks have done very well, and we've seen traffic go higher and their underlying
+businesses are doing well, but there's an awful lot of them that are stressed. And I talked about the size
+of the vertical, 16% of the revenue over 900 customers, and that's global. So really, the big thing that
+we're concerned with, and I think you hit it on the head with, is the depth of this reception and how do
+consumers behave. Are they going to go out and spend? Are they going to go back into stores? What's
+the ability of our customers to be able to raise enough capital to get through this issue? In some cases,
+we're going to see unfortunately some customers go bankrupt. We hate to see it. It does happen. Some
+liquidate, some come out on the other side. But whenever that happens, it's a disruption for us. We
+have to stop taking revenue, write-off revenue in the quarter, take a bad debt hit for some of the older
+receivables. So it just becomes very disruptive. And it's hard for us to really call out what's going to
+happen because I think what's going to drive the depth of this reception is going to be what happens with
+the virus and do people feel comfortable coming out. We never dealt with this before. So it's really hard
+for us to make the call. And just given the size of that vertical, it can swing around quite a bit. So that's
+what our -- that's why we decided to withdraw our guidance.
+
+Operator
+
+And our next question comes from the line of Lee Krowl with B. Riley.
+
+Lee T. Krowl
+B. Riley FBR, Inc., Research Division
+
+Great. And congrats on a solid quarter, all things considered. I wanted to focus first on the security
+business. I think last call, you guys kind of highlighted 20% growth as the baseline for the year. Obviously,
+Q1 is tracking kind of ahead of that, and you're speaking to some momentum with bookings. Is it
+reasonable to say that 20% or possibly higher is still reasonable?
+
+And then second question, just wanted to focus on international. And maybe could you parse out
+contribution of security versus media delivery, especially with the context of some new launches on the
+OTT side?
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+Edward J. McGowan
+Executive VP & CFO
+
+Sure. So I'll start with the security question. Obviously, we're off to a great start here with 28% constant
+currency growth. Feeling pretty good about Q2. Obviously, Q1's bookings were strong. We've signed one
+of our largest security deals in our history with one of our large media companies. So good to see that.
+We'll see the benefit of that in Q2. So I think Q2, we'll see really strong growth, and we did call out 20%.
+It's possible we could do better than that. Obviously, the verticals we called out that are challenged do
+have a big security customers. So to the extent that there's bankruptcies and things like that, that can
+bump you around a little bit. But we're feeling pretty good here in the first half. Certainly, that will be
+growing at greater than 20%, and it's possible for the year. It really just depends on how things go similar
+to the comments I made earlier.
+
+And your second question on international in terms of the strength. I'd say, there, it's similar to what we
+see in the U.S., probably a bit more security adoption, probably more greenfield internationally, especially
+in places like Latin America, pretty low penetration there, which is good. That's part of the reason we
+did the Exceda transaction that gives us a good base to grow the security business there. We are seeing
+similar trends that we saw in the U.S. here where you see security in the verticals like financial services
+and commerce and travel first. And then you're seeing media start to catch up. We've done some pretty
+good deals on the media side as well. So I'd say there's probably more greenfield in -- outside the U.S.,
+but we are seeing very similar trends.
+
+Operator
+
+And our next question comes from the line of Jeff Van Rhee with Craig-Hallum.
+
+Jeffrey Lee Van Rhee
+Craig-Hallum Capital Group LLC, Research Division
+
+Great. I think most of mine have been answered. Just one remaining. I think as you look at the enterprise
+sales effort, and this is a little outside of sort of the COVID environment currently, but I know long term,
+tremendous growth opportunity. When you look at the sales process and where you are at this point, can
+you just talk to your satisfaction with win rates, with process, with just the overall execution effort in sales
+within enterprise and things that are yet to be done to really get that running where you want it, if it isn't?
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Yes. We're pretty happy with where that is now with pretty much everything you mentioned, the people,
+the process, the execution. As you could imagine, this is a difficult time to go out and get bookings.
+You can't physically meet with your account. The buyers out there, the IT folks are just swamped with
+adjusting to the new reality. And yet, we had a great bookings quarter, better than expectation on our
+enterprise security products, much big improvement over last year. And that's -- we're starting off
+the second quarter very well. So I think that's an area where we're very happy. You don't see that in
+generating revenue today, but that will certainly help us going forward.
+
+Operator
+
+And our next question comes from the line of Brandon Nispel with KeyBanc Capital Markets.
+
+Brandon Lee Nispel
+KeyBanc Capital Markets Inc., Research Division
+
+Okay. Great. Wondering if -- one for Ed, maybe both for Ed. Can you give us a sense of -- again, we've
+talked about some customers doing well in e-commerce, some not. Can you give us a sense of, as you
+look at your customer base, what could be a worst-case scenario if we're going into the global recession
+throughout 2020? And what percentage of revenue would be at risk?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+Second, I'm curious, with customers hitting increased traffic during the quarter, how does the pricing
+change? Is it dynamic during the quarter where they hit sort of a new threshold for traffic and they reprice
+to a lower level? I'm just curious how that works.
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Yes. I'll take the first and Ed will probably take the second. As Ed talked about, I think barring some
+kind of deep and long-lasting recession that wipes out major customers and a lot of them or just totally
+wipes out consumer buying, which, of course, hurts the commerce vertical, I think we're in good position.
+We have a really diverse customer base. Our largest vertical is media, which is cranking and actually
+benefiting in many ways from the new reality of what's the pandemic has caused. Our customer base
+tends to be the biggest names in the business. And generally speaking, they're the ones that are going
+to thrive the best even if the global recession deepens and is lengthy. And it's just that I think no one
+really knows what the future holds with the global recession. And if it really is deep at the end of the
+year and it's going to persist into 2021, that could put our commerce customers and companies pretty
+much everywhere under pressure. And it's hard to really know what the impact of that could be. And that
+impacts the potential downside of any guidance we can give.
+
+And on the other side, we've got, as you know, substantial upsides in the media business and in security,
+above where we were thinking. And as Ed talked about, just -- we want to be careful that we don't know
+for sure that just persists and grows from there all year long. And as Ed talked about in June, he even
+-- we put in a dampening there in June on that. And so that's really what's going on in our thinking that
+there's the potential for large upside and the potential for downside that are hard for us to really quantify.
+And it's beyond our control at this point. I would say at a high level, business is very strong as you can tell
+with the strong Q1 and I think a strong guide, albeit with a wider range in Q2. And Ed, do you want to talk
+about pricing with increased traffic?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. Sure. So obviously, customers -- no one size fits all for customer pricing. But what I would say is that
+typically, we do have tiered pricing in most of our contracts, especially the ones with very large volume
+so that as you do clip into new tiers, you do get typically a lower rate for that tier. But again, it does vary
+from customer to customer, but we do, in most cases, have some kind of a tiered pricing structure.
+
+Brandon Lee Nispel
+KeyBanc Capital Markets Inc., Research Division
+
+Great. And I guess just as a follow-up, you guys gave the travel hospitality exposure and sort of talked
+about live events. But could you give us what percentage of revenue is coming from what you would call
+SMB?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Well, it's very small. Yes. We do very little with SMB. We have a couple of partners that work with SMB.
+Like, for example, our carriers will sell some security offerings to small, medium business. So that's a
+small part of our business. We have a few like OVP partners and other partners, but it's not a significant
+part of our business at all.
+
+Tom Barth
+Head of Investor Relations
+
+Okay. Well, thank you, everyone.
+
+In closing, we will be presenting at several virtual investor conferences and events throughout the rest
+of the second quarter. Details of these can be found in the Investor Relations section of akamai.com. We
+want to thank you for joining us and all of us at Akamai wish you continued health and wish you a very
+nice evening. So thank you.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now
+disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  APR 28, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+

@@ -1,0 +1,857 @@
+Fair Isaac Corporation NYSE:FICO
+FQ4 2021 Earnings Call Transcripts
+Wednesday, November 10, 2021 10:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2021-
+
+-FQ4 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+2.81
+
+3.38
+
+Revenue  (mm)
+
+328.56
+
+338.18
+
+Currency: USD
+Consensus as of  Nov-08-2021 5:04 AM GMT
+
+20.28
+
+2.93
+
+3.18
+
+12.35
+
+14.05
+
+346.80
+
+1328.77
+
+1411.32
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+FQ3 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+2.32
+
+2.29
+
+2.59
+
+2.81
+
+3.25
+
+2.74
+
+3.06
+
+3.38
+
+40.09 %
+
+19.65 %
+
+18.15 %
+
+20.28 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+FAIR ISAAC CORPORATION FQ4 2021 EARNINGS CALL |  NOV 10, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+Steven P. Weber
+VP of Investor Relations &
+Treasurer
+
+William J. Lansing
+President, CEO & Director
+
+ANALYSTS
+
+John Peter Bonner Mazzoni
+RBC Capital Markets, Research
+Division
+
+Keen Fai Tong
+Goldman Sachs Group, Inc.,
+Research Division
+
+Kyle David Peterson
+Needham & Company, LLC,
+Research Division
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+FAIR ISAAC CORPORATION FQ4 2021 EARNINGS CALL |  NOV 10, 2021
+
+Presentation
+
+Operator
+
+Greetings, and welcome to the Fair Isaac Corporation quarterly earnings call. [Operator Instructions] As a
+reminder, this conference is being recorded today, Wednesday, November 10, 2021.
+
+I'd now like to turn the conference over to Steve Weber. Please go ahead.
+
+Steven P. Weber
+VP of Investor Relations & Treasurer
+
+Thank you. Good afternoon, everyone, and thank you for joining FICO's fourth quarter earnings call. I'm
+Steve Weber, Vice President of Investor Relations, and I'm joined today by our CEO, Will Lansing; and our
+CFO, Mike McLaughlin.
+
+Today, we issued a press release that describes financial results compared to the prior year. On this call,
+management will also discuss results in comparison to the prior quarter in order to facilitate understanding
+of the run rate of our business.
+
+Certain statements made in this presentation may be characterized as forward-looking under the Private
+Securities Litigation Reform Act of 1995. Those statements involve many uncertainties, including the
+impact of COVID-19 on macroeconomic conditions and the company's business, operations and personnel,
+that could cause actual results to differ materially. Information concerning these uncertainties is contained
+in the company's filings with the SEC, in particular, in the risk factors and forward-looking statements
+portions of such filings. Copies are available from the SEC, from the FICO website or from our Investor
+Relations team.
+
+This call will also include statements regarding certain non-GAAP financial measures. Please refer to the
+company's earnings release and Regulation G schedule issued today for a reconciliation of each of these
+non-GAAP financial measures to the most comparable GAAP measure. The earnings release and Regulation
+G schedule are available on the Investor Relations page of the company's website at fico.com or on the
+SEC's website at sec.gov. A replay of this webcast will be available through November 10, 2022.
+
+And with that, I'll turn the call over to Will Lansing.
+
+William J. Lansing
+President, CEO & Director
+
+Thanks, Steve, and thank you, everyone, for joining us for our fourth quarter earnings call. In the Investor
+Relations section of our website, we posted some slides that we'll be referencing during our presentation
+today.
+
+I'm pleased to report that our Q4 capped another terrific year, a year in which we posted record revenues,
+earnings and cash flows. And we were able to do this despite headwinds in fiscal '21 due to a shift in
+the timing of revenue recognition for term license subscription sales and the sale of 2 product lines in
+our software business and the managed and deliberate decline in our software and professional services
+revenues.
+
+Pages 2 and 3 show some financial highlights from our fourth quarter. We reported revenues of $335
+million in Q4 and $1.32 billion of revenue for the fiscal year. We were able to grow our full year revenue
+despite these negative revenue factors. We delivered $86 million of GAAP net income in the quarter and
+GAAP earnings of $3 per share. For the full fiscal year, we delivered $392 million of GAAP net income and
+$13.40 of earnings per share, which includes the gain of $100 million on product line asset sales and
+business divestiture.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+FAIR ISAAC CORPORATION FQ4 2021 EARNINGS CALL |  NOV 10, 2021
+
+On a non-GAAP basis, Q4 net income was $112 million, up 15%. And earnings per share of $3.92 was
+up 21% from the prior quarter -- prior year quarter. Full year non-GAAP net income was $383 million, up
+31% over last year. And non-GAAP EPS of $13.07 was up 34% over the previous year.
+
+We continue to deliver strong free cash flow growth as well. Q4 free cash flow was $90 million, bringing
+the fiscal year total to $416 million, up 21% from the previous year. In fiscal 2021, we continued our
+commitment to shareholder return, buying back $882 million of stock during the year. We increased our
+leverage by about $425 million compared to year-end fiscal '20, but our adjusted leverage ratio remains
+a modest 2.07x. We view FICO shares as the best use of our excess cash at this time and expect to
+continue to aggressively buy back shares in the coming year. We had another solid year and making
+steady progress on our strategic initiatives.
+
+In our Scores segment, our diversification of verticals has enabled us to continue to drive growth even as
+various sectors slow down. Scores were up 10% in the quarter versus the prior year and up 24% for the
+full year, as you can see on Page 7 of the presentation.
+
+On the B2B side, revenues were up 2% in the quarter versus the prior year, which had a onetime royalty
+true-up. Adjusting for that, revenues were up about 15% for the quarter and 21% for the full year. As
+expected, we saw a slowdown in mortgage origination volumes, and revenues were down about 18%
+year-over-year. Auto origination revenues were up 19%, and card and personal loan origination revenues
+were up 45%. We are seeing particular strength in the card and personal loan space from our customers,
+including fintechs. The year-over-year pricing increases we implemented in fiscal '21 also had a positive
+impact on overall B2B revenues.
+
+Our B2C revenues were up 32% versus the prior year quarter and 42% for the full year compared to
+2020. We saw strong growth through both our own myFICO.com products as well as through our partner
+channels. In next year's guidance, which I'll discuss in greater detail later, we expect the Scores business
+to grow about 6%. There's been no change in our strategy or approach to special pricing. Accordingly,
+special pricing increases consistent with the past several years are not included in this guidance. While we
+expect these price increases to have an impact consistent with those over the last several years, because
+it's difficult to estimate the timing and the magnitude of the impact, we remain conservative in how we
+issue our guidance relative to such increases.
+
+Turning to our Software business. As we have mentioned in recent quarters, we have been developing
+new financial metrics that provide more visibility into the recurring revenue generated by our subscription-
+based SaaS and on-prem software and the retention and growth of our existing software customers.
+Beginning this quarter, we are pleased to unveil our revised software reporting structure and these new
+metrics. Mike McLaughlin will go into much more detail in his remarks, but let me give you just a few
+highlights.
+
+First, we reevaluated our operating segments to better align with how we assess performance and allocate
+resources. We merged our legacy Applications and Decision Management Software segments into a single
+Software segment. We continue to report the Scores segment, which is unchanged from past reporting.
+We also changed the classification of revenue from transactional and maintenance, professional services
+and license to on-premises and SaaS software, professional services and Scores to better align with our
+business strategy and peer reporting practices.
+
+You'll also find in our 10-K this year our first reporting of annual recurring revenue, or ARR, which provides
+visibility into the growth trajectory of our Software business without the variability that comes with the
+upfront revenue recognition required by ASC 606 for on-prem subscription sales. We are also disclosing
+dollar-based net retention rate and annual contract value of software bookings.
+
+Another big change we'll be talking about is the split of our Software revenue between our on-platform
+and off-platform products. We'll give those splits for revenue, for ARR and for dollar-based net retention
+revenue. We believe it's important to focus on the progress of our on-platform offerings as it's the central
+strategy of our Software business.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+FAIR ISAAC CORPORATION FQ4 2021 EARNINGS CALL |  NOV 10, 2021
+
+As in prior years, we will continue to focus on investing in our software platform. In fiscal '21, we divested
+assets that could not be easily migrated to the platform and reallocated resources to accelerate platform
+development and our go-to-market efforts. By allocating the resources strategically and efficiently, we
+expect to spur growth and achieve scale while effectively managing our operating expenses.
+
+I'm happy with the progress we made in 2021, and I'm optimistic about what lies ahead in 2022 and
+beyond. We'll continue to allocate our resources to areas of high strategic importance, and we'll continue
+to focus on long-term shareholder value.
+
+I'll have some final comments in a moment, provide our fiscal '22 guidance then. But first, let me just turn
+the call over to Mike for further financial details.
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+Thanks, Will. And good afternoon, everyone. As you may have already seen in our 10-K and the financial
+highlights presentation posted to the FICO website, we have made significant enhancements to our
+financial reporting this quarter, including the introduction of new metrics in both our Scores and Software
+segments. We'll briefly preview these metrics, and I will take some extra time on this call to provide more
+details on what we are disclosing and what new insights these numbers provide.
+
+As Will said, we have a strong finish to our fiscal year, and we are well positioned as we enter fiscal 2022.
+Total revenue for the fourth quarter was $335 million, a decrease of 11% over the prior year due primarily
+to a reduction in upfront recognition of term license revenues on-prem software sales, the sale of our
+Collections and Recovery product line in June and lower professional services revenue in our Software
+segment. Our full year revenue of $1.32 billion was up 2% over last year.
+
+In our Scores segment, revenues were $169 million, up 10% from the same period last year. B2B revenue
+was up 2% over the prior year. As you may recall, last year's fiscal fourth quarter included a onetime
+royalty true-up that did not recur this year. Adjusting for this onetime true-up, B2B revenue was up about
+15% this quarter. B2C revenues were up 32% from the same period last year. Both myFICO.com and
+partner revenues grew significantly.
+
+One of the new financial metrics we are adding to our 10-K and 10-Q disclosures going forward is the
+breakdown of our Scores segment revenues between B2B and B2C components. For the full year, Scores
+revenues were $654 million, up 24% from last year.
+
+As Will previewed, we have merged our Applications and Decision Management segments into a new
+Software segment. Software segment revenues in the fourth quarter were $166 million, down 25% versus
+the same period last year. Full year Software revenues were $662 million, down 14% from the previous
+year. This quarterly and full year decline was due to reduced upfront license revenue recognition, reduced
+professional services revenue and the divestitures of our Collection Recovery products. I will spend a few
+minutes discussing each of these 3 factors and their impact on FY '21 results.
+
+At the start of fiscal 2021, we shifted the timing of revenue recognition for on-premise term license
+subscription deals. As a result, we now recognize less upfront license revenue and more revenue ratably
+over the term of each contract. The net impact was lower license revenue in our Software segment of
+about $12 million in Q4 and about $34 million for the full year versus what it would have been under
+our prior sales model. To help show the impact of upfront revenue recognition of on-prem term license
+software sales, we have added a new table in the 10-K that breaks out our on-premise and SaaS software
+revenue into revenue recognized at a point in time versus revenue recognized over the contract term.
+
+Turning to professional services. We have previously explained how we are deemphasizing low-margin
+nonstrategic services engagement. As expected, this has resulted in lower PS revenues. Our PS revenues
+were down 35% in Q4 compared to the prior year quarter and 20% for the full year. Professional services
+continued to be an important part of our business, helping our customers implement our software and
+realize the most value from it over time. We expect to see additional modest declines in our services
+revenues over the next few quarters, after which we expect it to return to a growth trajectory in line with
+our on-premise and SaaS revenues.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+FAIR ISAAC CORPORATION FQ4 2021 EARNINGS CALL |  NOV 10, 2021
+
+The third factor negatively impacting reported revenues this period was the divestiture of the Collections
+and Recovery product line in June as well as the sale earlier in the year of our Enterprise Security Score
+and the sale of certain assets to a joint venture we established in China. To help understand the impact
+of these divestitures, we have added additional details to the financial highlights presentation posted on
+our Investor Relations website. In that presentation, you will find reconciliations of our revenue in prior
+periods excluding these divestitures.
+
+This quarter, 81% of our total company revenues were derived from our Americas region. Our EMEA region
+generated 14%, and the remaining 5% was from Asia Pacific. The Americas region, which we will use in
+our financials going forward, is simply a combination of our North America and Latin America regions.
+
+We mentioned in our call last quarter that we are planning -- that we were planning to introduce a number
+of new financial metrics for our Software segment. We are pleased to introduce those metrics this quarter.
+You will find a full description of these new metrics in the 10-K and on Page 8 of our financial highlights
+presentation.
+
+Let me take a few minutes to briefly walk you through each new metric. The first of these is annual
+recurring revenue, or ARR, which measures the underlying performance of our subscription-based
+software contracts. ARR is defined as the annualized revenue run rate of on-premise and SaaS software
+agreements within a quarterly reporting period. And as such, it is different from the timing and amount
+of revenue recognized in any given period. All components of our software licensing and subscription
+arrangements that are not expected to recur, primarily perpetual licenses, are excluded. We calculate ARR
+as the quarterly recurring revenue run rate multiplied by 4.
+
+Second new metric is annual contract value, or ACV, bookings. This replaces our previously disclosed
+bookings metric, which was based on total contract value, including the value of professional services.
+ACV bookings is the average annualized value of software contracts signed in the current reporting period
+that generate current and future on-premise and SaaS software revenue. We only include contracts with
+an initial term of at least 24 months, and we exclude perpetual licenses and other revenues that are
+nonrecurring in nature. We also exclude the value of professional services sales. For renewals of existing
+software subscription contracts, we count only incremental annual revenue expected over the current
+contract as ACV bookings.
+
+The third new metric is dollar-based net retention rate, or DBNRR, a measure of our success in retaining
+and growing revenue from our existing customers. To calculate dollar-based net retention rate for any
+period, we compare the ARR at the end of the prior comparable period, we call it the base ARR, to the ARR
+from that same cohort of customers at the end of the current quarter, retained ARR. Then we divide the
+retained ARR by the base ARR to arrive at the dollar-based net retention rate. Our calculation includes
+the positive impact among this cohort of customers of selling additional products, price increases and
+increases in usage fees and the negative impact of customer attrition, price decreases and decreases in
+usage-based fees during the period.
+
+It is important to note that our disclosed ARR, dollar-based net retention rate and ACV bookings numbers
+for the current quarter and all prior quarters exclude revenues and bookings from our divested assets to
+make period-to-period comparisons more meaningful.
+
+Fourth, as mentioned briefly above, we are disclosing the amount of our Software segment revenue
+that is recognized at a point in time versus recognized over the contract term. This helps provide an
+understanding of a key factor that drives the differences between reported Software revenue and ARR
+from period to period.
+
+And finally, we are breaking out our on-premise and SaaS software revenues, ARR and dollar-based
+net retention rate into platform and non-platform components. The shift of our software solutions and
+capabilities to the FICO platform is our #1 strategic goal in the Software segment. This new disclosure
+provides significant additional visibility into our progress.
+
+Taken together, we believe these metrics significantly enhance investor visibility into our Software
+segment. Specifically, ARR and dollar-based net retention rate show how we are retaining and growing
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+FAIR ISAAC CORPORATION FQ4 2021 EARNINGS CALL |  NOV 10, 2021
+
+our subscription-based customer relationships. And our platform disclosure shows the size, growth and
+expansion potential of the FICO platform.
+
+Now let me give you a few highlights on what these new metrics show this quarter. Our Software ARR in
+the fourth quarter was $524 million, a 7% increase over the prior year. Our platform ARR was $75 million,
+representing 14% of our total fourth quarter ARR and a growth rate of 58% versus the prior year. Our
+non-platform ARR was $449 million in the fourth quarter, which was 1% higher than the prior year.
+
+Our dollar-based net retention rate in the quarter was 106% overall, while our non-platform customers'
+software usage tends to be mature and relatively stable with retention hovering around 100%. Our
+platform customers are showing very strong net expansion from land-and-expand follow-on sales and
+increased usage. The dollar-based net retention rate for platform was 143% in the fourth quarter, up from
+116% in the prior year.
+
+Excluding divested product lines and businesses, our software ACV bookings for the quarter were $25.8
+million versus $28.9 million in the prior year. ACV bookings increased for the full year to $62.8 million
+versus $58.3 million in FY '20, representing growth of about 8% year-over-year. As a reminder, ACV
+bookings include only the annual value of software sales, excluding professional services.
+
+Turning now to our expenses for the quarter. Total operating expenses were $219 million this quarter.
+This included an $8 million restructuring charge primarily associated with reductions in our professional
+services delivery staff and rationalization of resources following our Collections and Recovery divestiture.
+
+Our non-GAAP operating margin, as shown on our Reg G schedule, was 45% for the quarter and 40%
+for the full year. We delivered non-GAAP margin expansion of 600 basis points for the full year. GAAP
+net income this quarter was $86 million, up 45% from the prior year quarter. Our non-GAAP net income
+was $112 million for the quarter, up 15% from the same quarter last year. For the full year, GAAP net
+income was $392 million, which included a gain of $100 million on product line asset sales and business
+divestiture. Non-GAAP net income was $383 million, up 31% from the prior year.
+
+The effective tax rate for the full year was 17%, including $24 million of reduced tax expense from excess
+tax benefits recognized upon the settlement or exercise of employee stock awards. We expect our FY 2021
+recurring tax rate to be approximately 25% to 26%. That expected recurring tax rate is before any excess
+tax benefit and other discrete items. The resulting net effective tax rate is estimated to be about 24% for
+the year.
+
+Free cash flow for the quarter was $90 million. For the full year, free cash flow was $416 million, up 21%
+from last year's $343 million. At the end of the quarter, we had $195 million in cash on the balance sheet.
+Our total debt at quarter end was $1.26 billion with a weighted average interest rate of 3.3%. In October,
+we amended our credit agreement to allow for the issuance of a $300 million term loan with our bank
+group, increasing our total bank capacity to $900 million. We used the proceeds of the term loan to reduce
+the draw on our revolving line of credit.
+
+Turning to return of capital. We bought back 845,000 shares in the fourth quarter at an average price of
+$446 per share. In fiscal 2021, we repurchased a total of 1,877,000 shares at an average price of $470
+per share for a total of $882 million. At the end of September, we had about $173 million remaining on the
+Board repurchase authorization and continue to view share repurchases as an attractive use of cash.
+
+With that, I'll turn it back over to Will for his thoughts on fiscal '22.
+
+William J. Lansing
+President, CEO & Director
+
+Thanks, Mike. As we move into fiscal '22, I believe we are well positioned for the year ahead. In our
+Software business, we continue to solidify and add functional capabilities to our platform. And we remain
+committed to becoming the preeminent provider of decisioning analytics. We are committed to pursuing
+growth opportunities and improving our efficiency. In our Scores business, we continue to innovate and
+find new ways to add value for our customers and benefit from the diversification that comes from the
+broad usage through the various credit verticals.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+FAIR ISAAC CORPORATION FQ4 2021 EARNINGS CALL |  NOV 10, 2021
+
+We entered the new year with more visibility than last year, and as such, are again providing guidance
+for fiscal '22, as shown on Page 15 of the presentation. We are guiding revenues of about $1.35 billion,
+an increase of about 3% versus fiscal '21 on an as-reported basis and about 6% when adjusted for the
+divestitures. We are guiding GAAP net income of approximately $318 million, GAAP earnings per share of
+approximately $11.29, non-GAAP net income of $397 million and non-GAAP earnings per share of $14.12.
+
+I'll turn the call back over to Steve, and then we'll take your questions.
+
+Steven P. Weber
+VP of Investor Relations & Treasurer
+Thanks, Will. This prepares our prepared -- this concludes our prepared remarks, and we're ready now
+take your questions. Operator, please open the lines.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+FAIR ISAAC CORPORATION FQ4 2021 EARNINGS CALL |  NOV 10, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] And our first question comes from George Tong with Goldman Sachs.
+
+Keen Fai Tong
+Goldman Sachs Group, Inc., Research Division
+
+You're guiding to Scores revenue growth up 6% next year. That excludes any special pricing increases.
+Could you talk about what the assumptions are and factors are that go into your 6% growth outlook?
+
+William J. Lansing
+President, CEO & Director
+
+It's a continuation. We break it down into the pieces. And we look at mortgage. We look at auto. We look
+at card. We look at prescreen. So we look at all the pieces and put estimates on that. We use industry
+forecasts to inform those estimates, although we're not always exactly on top, we form our own views.
+And that's basically how we do it. That's how we got to the 6%. I mean it's a combination of -- it combines
+both volume increases based on industry and price increases as well.
+
+Keen Fai Tong
+Goldman Sachs Group, Inc., Research Division
+
+Okay. Got it. So there is some measure of underlying pricing increase in there?
+
+William J. Lansing
+President, CEO & Director
+
+Yes. Just to be clear, it's CPI kinds of increases.
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+Not including the strategic price increases.
+
+William J. Lansing
+President, CEO & Director
+
+Right.
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+And George, I would add to that. I just -- sorry to interrupt, just looking across those segments, we do
+our best to predict volumes for the 3 major parts of our B2B business. Just like you probably do. We don't
+have a crystal ball. But I can say that our expectations for mortgage are in line with what you would find
+from third-party forecasters. And likewise, we expect modest but positive growth in the auto and credit
+card and other segments.
+
+Keen Fai Tong
+Goldman Sachs Group, Inc., Research Division
+
+Okay. Yes. That's helpful. That was the extra color I was hoping to get. And then with the extra Software
+disclosures, I guess if we dive into ARR performance, the percentage of ARR that's on platforms at 14%,
+it's nearly double what it was about 2 years ago. What are your expectations for how that continues to tick
+higher? What's embedded in your 2022 guide? And how would you expect that trajectory to just perform
+in the years ahead?
+
+William J. Lansing
+President, CEO & Director
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+FAIR ISAAC CORPORATION FQ4 2021 EARNINGS CALL |  NOV 10, 2021
+
+We see the platform side of ARR growing at over 50%.
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+And overall, if you just do the math on our guidance, the 6% total revenue growth is approximately equal
+in terms of percentage between the Software and Scores business. So if you expect very strong continued
+growth in the platform business, we think our platform is going to be relatively flat.
+
+Keen Fai Tong
+Goldman Sachs Group, Inc., Research Division
+
+Okay. So 50% is a good run rate growth to apply to the platform piece.
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+That's right.
+
+Operator
+
+Our next question comes from Surinder Thind with Jefferies.
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+As a follow-up to the ARR question and more specifically the net revenue retention rate of 143% for the
+platform, can you talk about the sales process and how that works for the client in terms of what the client
+initially buys and kind of what the upsell is and how the timing of the upsell works?
+
+William J. Lansing
+President, CEO & Director
+
+Sure. And obviously, it varies from client to client. Typically, we put the platform in with a specific number
+of use cases and very specific ideas about how the platform will be used and what problem is being solved.
+But increasingly, it's being put in with a view to being able to provide additional solutions later on. And
+what we're seeing -- a classic land-and-expand strategy. And what we're seeing is that's working with
+our current platform customers and what -- and the ones that have gone in less recently, we're seeing
+expansion. We're seeing new uses, new ways of using the platform, and so -- which is what's really
+informing that 143% retention rate.
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+That's helpful. And then in terms of just bringing on new clients onto the platform, can you talk a little bit
+about the conversations you're having there and what it's kind of taking to get them across the finish line
+and the time lines generally involved?
+
+William J. Lansing
+President, CEO & Director
+
+The time line is a little bit longer than our historic 270-day sales cycle with our older applications. But the
+-- what's happening is it's a bigger deal at the client. It's being brought in as part of a broader strategy.
+It's being brought in with a view to using it to really interact with consumer customers strategically. And
+so it is a bigger, more complicated conversation, but it's -- we're kind of in the middle of it. We're right in
+the middle of the way our clients want to interact with our consumer customers. We're seeing ourselves
+pop up in their strategy presentations.
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+FAIR ISAAC CORPORATION FQ4 2021 EARNINGS CALL |  NOV 10, 2021
+
+Got it. And just kind of a technical question on the accounting part of the ARR maybe. Is there a kind of a
+volume component to it in the sense that there's a head count of the number of people that are on there,
+all else equal, or usage?
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+I'm not following the head count part of it. Are you talking about our contracts that are usage-based as
+opposed to based on minimums per year?
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+Yes, the combination of minimums versus usage base. So let's say a use case has -- a lender has, I don't
+know, 10 million accounts or something like that as a use case or was part of that. And then obviously,
+that number can change. So are there kind of bands? Or how does that work? Just to understand what the
+volatility might be.
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+Yes, it's a good question. So our contracts have both. Many have minimums. Many have usage
+components. Some have minimum with usage if you exceed a certain amount of volume or use cases
+or accounts. What we do is if it's minimums, that's what goes in the ARR unless and until that customer
+exceeds the minimums, and then that additional run rate is added to ARR in the period in which that
+occurs.
+
+If it's a purely usage-based contract, some of our customer communication services contracts, for
+example, are based on the number of messages that are sent in cases where fraud is identified or what
+have you. There, we estimate once the solution has been installed and is running and has shown a
+stabilized usage rate, we then use that as the ARR that we will enter into the quarter's results. If that
+usage goes up or down in future quarters, we adjust ARR accordingly. Does that make sense?
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+Yes. That's actually very helpful. That's it for me.
+
+Operator
+
+Next question comes from Kyle Peterson with Needham.
+
+Kyle David Peterson
+Needham & Company, LLC, Research Division
+
+Just wanted to touch on the margins. Obviously, it came in really strong this quarter. I know there's been
+a lot of moving pieces with deemphasizing professional services and the C&R divestiture. But just wanted
+to get any thoughts on what your assumptions would be on like the sustainability of operating margins in
+line with what we saw this quarter.
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+There isn't anything structural that has changed or we expect to change in the quarters ahead in fiscal '22
+versus what you've seen in recent quarters other than the fact that we expect to return to traveling. So if
+you look at the expense breakdown in our supplemental materials, I think we spent $0.5 million on T&E in
+Q4. That's going to go back up to a more normal rate, or at least that's what we're projecting.
+
+Professional services, as that declines, that's a low gross margin business, therefore, a high cost of goods
+sold business. So the cost of goods sold declines as those revenues go down. But otherwise, in terms of
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+FAIR ISAAC CORPORATION FQ4 2021 EARNINGS CALL |  NOV 10, 2021
+
+what we're investing in R&D and go-to-market and G&A, nothing dramatic has changed in our forecast
+versus our historical other than we've taken out a lot of expense from divestitures.
+
+Kyle David Peterson
+Needham & Company, LLC, Research Division
+
+Got it. That's helpful. And then I guess just a follow-up on the B2C side. The performance continues to be
+really impressive for Scores. Is this something that you guys think you can keep growing kind of above
+trend? It seems like you guys are putting up significantly faster growth than what we're seeing with some
+of the other players in the space.
+
+William J. Lansing
+President, CEO & Director
+
+I think that there's a lot of strength in the FICO brand, and I think that there's a lot of strength in the
+operating and management acumen of our B2C team. So doing better than others, I think you could
+expect that. Will we be able to repeat year-over-year performance in the 30s? I can't promise that. I think
+we're more likely to be on something closer to our quarter-to-quarter growth.
+
+Operator
+
+[Operator Instructions] The next question comes from Ashish Sabadra with RBC Capital Markets.
+
+John Peter Bonner Mazzoni
+RBC Capital Markets, Research Division
+
+This is John Mazzoni filling in for Ashish. Maybe just a quick one on the B2B revenues. I know there was
+a onetime impact that if adjusted, that would be around 15%. How should we think about these moving
+forward, especially going into kind of the '22?
+
+William J. Lansing
+President, CEO & Director
+
+Those kinds of onetimers happen periodically. It is kind of part of the business. We do audits and true-ups
+every few years with different channel partners. And so can you expect them to continue? Yes, there will
+be things like that, that are a little bit unpredictable. But it is part of the business.
+
+John Peter Bonner Mazzoni
+RBC Capital Markets, Research Division
+
+Understood. And then maybe just a quick follow-up. How do you see the Software business evolving over
+time? Maybe of a longer-term perspective, just as we kind of wrap our heads around these new metrics,
+what could be a longer-term growth rate or any type of things that investors should be paying attention
+to?
+
+William J. Lansing
+President, CEO & Director
+
+Okay. With the caveat that this is not guidance, I would say look at our platform growth, 50% platform
+growth, which tells you that we have something there that the market wants. We have a large number --
+a large number -- 19 enterprise customers, large customers who have adopted the platform and many
+more in the pipeline. And what we're seeing is that's a combination of conversion, substitution of platform
+solutions for more historical solutions, but it's also growth. It's also new stuff.
+
+And so over time -- and it could be a very long time. But over time, you'll see our software transition from
+our older solutions to platform solutions and the platform solutions piece is growing a lot faster. So will
+our growth rate go up? Yes, it almost certainly will go up as we do more and more of our total Software
+business on the platform. So if today is 6%, I would just extrapolate out from 6% upward. And I don't
+know how many years it will take, but we will be in double digits eventually.
+
+Operator
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+FAIR ISAAC CORPORATION FQ4 2021 EARNINGS CALL |  NOV 10, 2021
+
+And Mr. Weber, there are no further questions.
+
+Steven P. Weber
+VP of Investor Relations & Treasurer
+
+All right. Thank you all for joining today's call, and we look forward to speaking with you again soon. This
+concludes the call.
+
+Operator
+And that will conclude the conference call for today. We thank you very much for your participation. You
+may now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+FAIR ISAAC CORPORATION FQ4 2021 EARNINGS CALL |  NOV 10, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+

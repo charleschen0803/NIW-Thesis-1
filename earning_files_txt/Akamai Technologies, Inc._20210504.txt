@@ -1,0 +1,1124 @@
+Akamai Technologies, Inc. 
+
+NasdaqGS:AKAM
+FQ1 2021 Earnings Call Transcripts
+Tuesday, May 04, 2021 8:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2020-
+
+-FQ1 2021-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+Revenue  (mm)
+
+1.31
+
+829.46
+
+Currency: USD
+Consensus as of  Apr-30-2021 8:28 AM GMT
+
+1.30
+
+829.77
+
+5.20
+
+3181.43
+
+5.40
+
+3408.86
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.16
+
+1.21
+
+1.23
+
+1.31
+
+1.20
+
+1.38
+
+1.31
+
+1.33
+
+3.45 %
+
+14.05 %
+
+6.50 %
+
+1.53 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Edward J. McGowan
+Executive VP & CFO
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Tom Barth
+Head of Investor Relations
+
+ANALYSTS
+
+Brandon Lee Nispel
+KeyBanc Capital Markets Inc.,
+Research Division
+
+Charles Joseph Erlikh
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+James Dennis Breen
+William Blair & Company L.L.C.,
+Research Division
+
+James Edward Fish
+Piper Sandler & Co., Research
+Division
+
+Keith Weiss
+Morgan Stanley, Research Division
+
+Michael Elias
+Cowen and Company, LLC,
+Research Division
+
+Michael Joseph Cikos
+Needham & Company, LLC,
+Research Division
+
+Robert S. Majek
+Raymond James & Associates,
+Inc., Research Division
+
+Rudy Grayson Kessinger
+Craig-Hallum Capital Group LLC,
+Research Division
+
+Sanjit Kumar Singh
+Morgan Stanley, Research Division
+
+Timothy Kelly Horan
+Oppenheimer & Co. Inc., Research
+Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+Presentation
+
+Operator
+
+Good day, and thank you for standing by. Welcome to the Akamai Technologies First Quarter 2021
+Earnings Call. [Operator Instructions] Please be advised that today's conference may be recorded.
+[Operator Instructions] I'd now like to hand the conference over to your host today, Mr. Tom Barth, Head
+of Investor Relations.
+
+Tom Barth
+Head of Investor Relations
+
+Thank you, operator. Good afternoon, everyone, and thank you for joining Akamai's First Quarter 2021
+Earnings Conference Call. Speaking today will be Tom Leighton, Akamai's Chief Executive Officer; and Ed
+McGowan, Akamai's Chief Financial Officer.
+
+Before we get started, please note that today's comments include forward-looking statements, including
+statements regarding revenue and earnings guidance. These forward-looking statements are subject to
+risks and uncertainties and involve a number of factors that could cause actual results to differ materially
+from those expressed or implied in such statements. The factors include uncertainty stemming from
+COVID-19 pandemic and any impact from unexpected geopolitical developments. Additional information
+concerning these factors is contained in Akamai's filings with the SEC, including our annual report on Form
+10-K and quarterly reports on Form 10-Q.
+
+The forward-looking statements included in this call represent the company's view on May 4, 2021.
+Akamai disclaims any obligation to update these statements to reflect future events or circumstances.
+As a reminder, we will be referring to some non-GAAP financial metrics during today's call. A detailed
+reconciliation of GAAP and non-GAAP metrics can be found under the financial portion of the Investor
+Relations section of akamai.com.
+
+And with that, let me turn the call over to Tom.
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Thanks, Tom, and thank you all for joining us today.
+
+I'm pleased to report that Akamai delivered excellent results in the first quarter. Q1 revenue was $843
+million, up 10% year-over-year and up 8% in constant currency. This strong result was driven by the
+continued rapid growth of our security business, accelerated growth in our edge applications business
+and continued high-traffic levels on our intelligent edge platform. Non-GAAP operating margin in Q1 was
+31% and Q1 non-GAAP EPS was $1.38 per diluted share, up 15% year-over-year and up 11% in constant
+currency. With a strong start to 2021, we're proud that Akamai has continued to enable and to protect
+remote work, home schooling, e-commerce and online entertainment for billions of people around the
+world amidst very challenging circumstances.
+
+Our security solutions portfolio performed especially well in Q1, generating revenue of $310 million, up
+29% year-over-year and up 27% in constant currency. The very strong growth was experienced across
+most of our security products, including our new Page Integrity Manager solution. Page Integrity Manager
+helps enterprises defend against malware and third-party software and applications. Customers that
+adopted Page Integrity Manager in Q1 included Maersk, the world's largest container shipping operator;
+and Groupon, the global e-commerce marketplace.
+
+Maersk uses more than 4,000 scripts, half of which are third-party scripts to drive millions of dollars of
+online business every hour. Managing this complex and dynamic environment had become an increasingly
+difficult security challenge for Maersk and so they now use Page Integrity Manager to improve visibility
+into security threats and to prevent the loss of critical data.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+Our Bot Manager solution also continued to perform very well in Q1. Bot Manager is designed to mitigate
+a wide variety of automated attacks, including account stuffing attacks where credentials stolen from
+one website are checked for validity at thousands of other websites. When valid credentials are found, a
+manual attack is then often used to extract value from the compromised accounts. Losses from account
+takeovers and new account fraud are estimated at over $10 billion annually in the U.S. In order to
+forge such manual attacks, we launched the beta for our new account protector solution in Q1. Account
+protector shields organizations from account takeover and other kinds of fraudulent human activity
+without increasing friction for legitimate customers. Account protector works by detecting in real-time
+whether a user logging into an application is the legitimate account owner or an impostor in possession of
+stolen credentials.
+
+One of our beta customers for this new solution is a well-known restaurant franchise. It was under
+attacked by cyber criminals who were compromising the loyalty accounts of their diners. The criminals
+were stealing loyalty reward points and then reselling them on the dark web. The digital theft outraged
+the diners whose points were stolen and angered restaurant owners who unknowingly provided meals
+to fraudsters. With help from Akamai, the franchise can now identify the situations where humans are
+impersonating valid diners and take action to stop the illicit transfer of loyalty points, thereby stopping the
+fraud and enabling the franchise to focus on accelerating sales.
+
+We're also excited about the success of Akamai's fastest-growing security segment, Access Control,
+which reached an annualized revenue run rate of $100 million in Q1, up more than 170% over Q1 of
+2020 and up over 60% organically. Our Access Control segment provides secure connectivity for users,
+applications, workloads and IoT systems, regardless of their location. Products in this area include
+Enterprise Application Access, Enterprise Threat Protector and our new secure mobile and secure IoT
+solutions that we acquired from Asavie in October. Our secure mobile and secure IoT products provide
+security, visibility and control for mobile devices at the edge. These services deter malicious activity and
+support acceptable use policies without needing to install a client on the device. The solutions are sold
+to our carrier partners such as AT&T, where it forms the basis for their AccessMyLAN solution. These
+capabilities have been especially important in helping school districts secure student devices during the
+pandemic, so that students can learn from home safely.
+
+Our security solutions also continued to gain recognition from the leading analyst firms in Q1. Our market-
+leading web application firewall capabilities earned Gartner Peer Insights Customers' Choice distinction.
+And Forrester named Akamai as a leader in DDoS protection for the third time, saying large enterprise
+clients that want an experienced trusted vendor to make their DDoS problem go away should look to
+Akamai.
+
+Turning to our CDN portfolio. Q1 marked another quarter of very strong traffic growth for Akamai, led by
+OTT video services and downloads of e-gaming software. On March 16, traffic on the Akamai platform
+reached an all-time high of 200 terabits per second. This is 19% higher than the peak in Q1 of last year
+and 2.5x the traffic peak in Q1 of 2019. Daily peaks were also high in Q1, averaging 143 terabits per
+second. In fact, traffic on our platform exceeded 110 terabits per second, pretty much around the clock in
+Q1. Overall, our CDN products and services generated revenue of $532 million in Q1, up 2% year-over-
+year and flat in constant currency.
+
+The Edge Application segment generated $45 million in revenue last quarter, up more than 30% over Q1
+of 2020. As you may recall from the discussion at our Investor Summit in February, this revenue amount
+includes edge computing solutions, such as EdgeWorkers, that we build discreetly, but does not include the
+wide array of services that use our computing capabilities at the edge. As we discussed during our recent
+Investor Summit, we believe that there is the potential for substantial future growth in the area of edge
+computing, as we anticipate more enterprises moving their compute workloads to our edge platform for
+offload, improved performance, security and global scale.
+
+A timely example of such a shift is manifested in our new Vaccine Edge solution, which is enabling over 2
+dozen public health agencies and pharmacy chains around the world to deliver and secure COVID vaccine
+registration sites in the face of extraordinary flash crowds. In multiple instances, Akamai was called in to
+rescue government agencies whose websites had crashed under load, resulting in frustrated citizens who
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+waited for long times before getting kicked out without a reservation. In some cases, these websites have
+been using solutions provided by competitors that were not able to handle the load.
+
+We're pleased to partner on Vaccine Edge with salesforce.com, and we're proud that our EdgeWorkers
+solution has made a real difference to the many millions of citizens trying to get the vaccine as quickly as
+possible.
+
+Our customers are now using EdgeWorkers for a wide range of applications. For example, a leading theme
+park operator is using EdgeWorkers to help manage demand as they plan to reopen parks. A publicly
+traded sports and entertainment company has implemented geofencing using our EdgeKV data store,
+together with EdgeWorkers, to ensure that users access only relevant broadcast content for their location.
+A nationwide home improvement retailer and a global credit card company are using A/B testing logic
+at the edge to deliver fast and personalized user experiences. We're enabling DevOps workflows for our
+global sportswear brand by managing canary releases, where only a targeted group of users can see a
+new experience. And we're enabling a leading global manufacturer of devices to authenticate their users at
+the edge, which improves performance and reduces their cloud costs.
+
+We're also proud of the progress that we're making with our sustainability efforts. In the past year, we
+doubled our platform capacity with no increase at all in our platform's carbon footprint. And just 2 weeks
+ago, on Earth Day, we announced that by 2030, Akamai intends to power 100% of our global operations
+with renewable energy, improve the energy efficiency of our platform by an additional 50%, mitigate
+100% of our platform emissions and continue to recycle 100% of our electronic waste. These goals reflect
+Akamai's commitment to be a responsible, efficient and forward-looking company.
+
+In summary, we're very excited about the innovative technology that we're developing, the strong demand
+from customers for our security and edge computing solutions and our Q1 financial performance on both
+the top and bottom lines. The growth strategy and goals that we outlined to you in our Investor Summit
+on February 25, set our direction for the future, and we believe that our strong Q1 results show that we've
+been executing according to plan.
+
+Now I'll turn the call over to Ed to provide further details on our Q1 results and the outlook for next
+quarter and 2021. Ed?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Thank you, Tom. Before I provide additional details on our Q1 performance, I'd like to remind everyone
+that as a result of the reorganization we announced last quarter, we've refocused the company from a
+vertical-aligned divisional structure to a product-oriented lens. I will therefore be focusing my discussion
+today on our Security Technology Group and our Edge Technology Group. The Security Group, as you
+might imagine, encompasses all of our security solution. The Edge Group includes our media delivery and
+web performance CDN business, along with our edge compute solutions. We plan to provide additional
+revenue detail for the different product lines within our Security Technology Group and Edge Technology
+Group on an annual basis.
+
+However, we might highlight specific subgroup details from time to time on our quarterly earnings calls
+if we feel it will help provide greater context on our results. Finally, as I mentioned on our last call, we
+will continue to report both Web Division and Media and Carrier division results, along with our Internet
+platform customer results on our website for the balance of 2021 to assist with this reporting transition.
+
+So with all that said, as Tom outlined, Akamai delivered another excellent quarter in Q1. We were very
+pleased to exceed the high end of our guidance range on both revenue and earnings. Q1 revenue was
+$843 million, up 10% year-over-year or 8% in constant currency, driven by continued strength across
+most major product areas in our security business, better-than-expected traffic from OTT video and
+gaming customers and very strong performance in our edge applications business.
+
+Revenue from our Security Technology Group was $310 million, up 29% year-over-year or 27% in
+constant currency, driven by broad-based strength across most of our security products. Revenue from
+our Edge Technology Group was $532 million, up 2% year-over-year or flat in constant currency. We
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+benefited from strong traffic growth driven by OTT video and gaming as well as strong growth in our edge
+applications business, as Tom mentioned earlier. As expected, foreign exchange fluctuations had a positive
+impact on revenue of $3 million on a sequential basis and positive $16 million on a year-over-year basis.
+
+International revenue was $380 million, up 13% year-over-year or 8% in constant currency. Sales in our
+international markets represented 45% of total revenue in Q1, up 1 point from Q1 2020 and consistent
+with Q4 levels. Finally, revenue from our U.S. market was $463 million, up 8% year-over-year.
+
+Moving now to costs. Cash gross margin was 76%, in line with our expectations. GAAP gross margin,
+which includes both depreciation and stock-based compensation, was 64%. Non-GAAP cash operating
+expenses were $267 million, in line with our expectations.
+
+Now moving on to profitability. Adjusted EBITDA was $375 million, up $49 million or 15% from the same
+period in 2020. Our adjusted EBITDA margin was 45%, up 2 points from Q1 2020. Non-GAAP operating
+income was $264 million, up $34 million or 15% from the same period last year. Non-GAAP operating
+margin came in at 31%, up 1 point from Q1 last year and above our guidance range due to leverage from
+our revenue outperformance.
+
+Capital expenditures in Q1, excluding equity compensation and capitalized interest expense, were $150
+million, consistent with our guidance range. We continue to expect Q1 CapEx to represent the high
+watermark for quarterly CapEx spending in 2021. GAAP net income for the first quarter was $156 million
+or $0.94 of earnings per diluted share. Our Q1 GAAP results include a $7 million restructuring charge
+related to the company realignment we announced last quarter, which was in line with our expectations.
+Non-GAAP net income was $228 million or $1.38 of earnings per diluted share, up 15% year-over-year,
+up 11% in constant currency and $0.07 above the high end of our guidance range due to our revenue
+outperformance. Taxes included in our non-GAAP earnings were $38 million, based on a Q1 effective tax
+rate of approximately 14%.
+
+Now I will discuss some balance sheet items. As of March 31, our cash, cash equivalents and marketable
+securities totaled approximately $2.5 billion. After accounting for the $2.3 billion of combined principal
+amounts of our 2 convertible notes, net cash was approximately $154 million as of March 31.
+
+Now I will review our use of capital. During the first quarter, we spent $58 million to repurchase shares,
+buying back approximately 600,000 shares. We ended Q1 with approximately $514 million remaining
+on our previously announced share repurchase authorization. Our plan remains to leverage our share
+buyback program to offset dilution resulting from equity compensation over time. As a result, based on
+current market conditions, we expect to spend at least $350 million for the full year 2021.
+
+Moving on to Q2 guidance. We are projecting Q2 revenue in the range of $839 million to $853 million or
+up 6% to 7% as reported or 3% to 5% in constant currency over Q2 2020. There are 2 factors to consider
+as you think about year-over-year comparisons for Q2. First, in 2020, we saw a significant uptick in traffic
+on our network starting at the end of March and continuing through the remainder of the year as a result
+of global lockdowns. As our excellent Q1 results demonstrate, traffic has continued to grow on our network
+this year, but we don't expect to see the same traffic growth rates from a year ago going forward. This
+creates more challenging year-over-year comparisons for our edge delivery business starting in Q2 and
+continuing for the remainder of 2021.
+
+Second, the Q2 year-over-year growth comparison also reflects the continuing ban of some Chinese-based
+apps in India. As a reminder, these apps, which were banned in Q3 of last year, contributed revenue of
+approximately $15 million in Q2 2020.
+
+Foreign exchange fluctuations are expected to have a negative $3 million impact on Q2 revenue compared
+to Q1 levels and a positive $18 million impact year-over-year. At these revenue levels, we expect cash
+gross margins of approximately 76%. Q2 non-GAAP operating expenses are projected to be $261 million
+to $266 million. We anticipate Q2 EBITDA margins of approximately 45%.
+
+Moving now to depreciation. We expect non-GAAP depreciation expense to be between $116 million to
+$117 million. Factoring in this guidance, we expect non-GAAP operating margin of approximately 31% for
+Q2.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+Moving on to CapEx. We expect to spend approximately $133 million to $138 million, excluding equity
+compensation in the second quarter. And with the overall revenue and spend configuration I just outlined,
+we expect Q2 non-GAAP EPS in the range of $1.35 to $1.40. This EPS guidance assumes taxes of $37
+million to $39 million based on an estimated quarterly non-GAAP tax rate of approximately $0.14 --
+excuse me, 14%. It also reflects a fully diluted share count of approximately 165 million shares.
+
+Looking ahead to the full year, we are raising our guidance for both revenue and EPS. We now expect
+revenue of $3.4 billion to $3.435 billion, which is up 6% to 7% year-over-year as reported or up 5% to
+6% in constant currency. We now expect security growth to be in the low 20s for the full year 2021. We
+are estimating non-GAAP operating margin of approximately 30% to 31% and non-GAAP earnings per
+diluted share of $5.45 to $5.52. And this non-GAAP earnings guidance is based on a non-GAAP effective
+tax rate of approximately 14% and a fully diluted share count of approximately 164 million shares.
+
+Moving on to CapEx. Full year CapEx is expected to be approximately 16% of revenue, unchanged from
+our prior outlook.
+We are very pleased to have delivered such strong results in Q1 and to be able to increase our outlook for
+the full year. Thank you. Tom and I would be happy to take your questions. Operator?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from Colby Synesael with Cowen.
+
+Michael Elias
+Cowen and Company, LLC, Research Division
+
+This is Michael on for Colby. Two questions, if I may. First, could you give us an update on your M&A
+pipeline for security and how the number of opportunities you're seeing compares to this time last year?
+And secondly, one of your CDN peers flagged that they saw a loss of market share due to performance.
+Is there anything that you can flag related to market share gains or potentially losses during the quarter?
+That would be helpful.
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Sure. I would say the M&A pipeline is comparable to last year. There's a lot of companies for sale. And
+the pricing for typical companies in the security area remains very high. And I think, in many cases,
+unrealistic. So I think overall, the dynamics there are pretty comparable to where they were last year. As
+you know, Akamai is always looking for opportunities. We're also very disciplined in terms of actually --
+what we end up buying.
+
+In terms of CDN market share, the very large media companies do compare the CDN vendors in terms of
+their traffic share. And if a vendor is doing better than others, they tend to get more share. And that's why
+Akamai has such a large share when it comes to delivery of media traffic. And if a vendor has outages or
+is performing poorly, which we see a fair amount out there among our competition, they can lose share.
+And so that's a very typical dynamic. Nothing new there. It's been that way for several years. And that's
+why Akamai put such an effort to have the world's best performance. And it's why we have so much of the
+traffic.
+
+Operator
+
+Our next question comes from James Fish with Piper Sandler.
+
+James Edward Fish
+Piper Sandler & Co., Research Division
+
+Congrats on the quarter. First, can you just give us more color behind the media CDN business in terms
+of, especially the gaming vertical specifically, just really trying to understand how fast either revenue or
+traffic from gaming itself is growing and what the exposure to gaming overall, given what we're seeing
+with the console cycle as well. And then normally, Ed, you don't typically raise in -- following Q1. I guess
+what gives you the confidence at this point of this -- at this point of the year versus normal?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Jim, so first, I'll take the first question, which was around the media -- it's the gaming growth in particular.
+So we don't break out specific growth rates, but I can say that gaming, in particular, was one of the
+stronger verticals in terms of growth, very pleased with what we saw. The other thing is, I'd say, the
+names of the number of customers that we saw growing. It wasn't just your normal handful of gaming
+customers. So we saw some benefit from the continuation of the gaming console releases we saw in Q4.
+But we also saw a lot of publishers have some pretty significant releases during the quarter. So in general,
+it was a really good gaming quarter. We're off to a pretty good start here in Q2. And as you know, this --
+the gaming release can be a bit seasonal, but so far, it's been a pretty good start to the year. And like I
+said, I'm pretty happy with the performance across many different customers.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+In terms of guidance, yes, we just start off having a great year. Traffic has been very strong. You saw the
+security performance. It's a little bit -- we got a lot of exposure on the FX side. So having one quarter
+down and having the first month of the second quarter down gives you a little bit more confidence going
+into the year. So we felt that we had enough visibility at this point to raise guidance. As you know,
+the second half of the year is always little bit more challenging, where Q3, you tend to see summer
+seasonality. We didn't see that last year because of the pandemic. We'll probably see a little bit of that
+on the media side. And then Q4, obviously, tends to be our strongest seasonal quarter where you have
+strong e-commerce and strong media. So we're feeling pretty confident at this point, so we thought it was
+appropriate to take the guidance up a touch.
+
+Operator
+
+Our next question comes from Keith Weiss with Morgan Stanley.
+
+Keith Weiss
+Morgan Stanley, Research Division
+
+And a very nice quarter. On that last question, and this kind of increased confidence in the year. Is it more
+on the, like, CDN side or more on the security side? Because it does sound like you feel good about some
+of those new products ramping pretty nicely on the security portfolio, and you're talking about the low
+20s growth for the year. So I was hoping you could clarify that. And then I have a follow-up question on
+margins, if we have time.
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Yes. We had a very strong start to the year. It's great to see the security business growing at 29%. And
+as we talked about, it's really across the board. It's not a single product doing well, but just strength
+everywhere in security. And when you see that kind of performance and we look ahead to the back part of
+the year, we are confident that we're going to do better than we had thought coming into the year, the --
+just great performance.
+
+There's also a good performance on the CDN side. Happy to see that up 2%. As Ed talked about, you do
+worry about FX there and what can happen. But on balance, business, very strong and off to a great start.
+Ed, do you want to add any color to that?
+
+Edward J. McGowan
+Executive VP & CFO
+
+No, I think you covered it, Tom. I think, seeing the strength in security and being able to take that up a
+touch. And last quarter, we were in the 18% to 20% range. Now we're in the low 20s. And then on the
+CDN side, we do have some tougher compares, but we're seeing really strong traffic and not seeing any
+decrease from what we've seen over the last year. So we're feeling pretty good about that.
+
+Keith Weiss
+Morgan Stanley, Research Division
+
+Got it. That sounds great. And then on the margin side of the equation. We're past the peak in terms of
+CapEx, sort of spending -- or CapEx intensity, but it's going to take some time for that to flow through to
+gross margin. So that's probably more of like a calendar '22 impact. But you did come in a little bit ahead
+on operating margins this quarter. And next quarter, we're looking for 31%. The expectation that you're
+going to try to sort of kick that up with increased investment in the business? Or is there potential for kind
+of more flow through of upside into better margins for the year?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. Okay, 2 things to think about there. The first one is, we have our -- biggest expense line is our
+payroll. And we have our annual, what we call, our merit increase cycle that kicks in July 1. So you'll see
+a little bit of an increase in our operating expense just for carrying our current employees, but we will be
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+investing in security. So we've got some planned investments in the back half of the year. But we took the
+guidance range up from what we said approximately 30 last time, to 31. So running at 31 here, might be
+a touch under in Q3 as we go through our merit cycle. And then Q4 is always a little bit of a wildcard in
+terms of how strong the revenue performance is. But we want to make sure we're investing back in the
+business. We see really good growth in security, but also in our edge applications business as well.
+
+Keith Weiss
+Morgan Stanley, Research Division
+
+Got it. And is there a potential for gross margins to start to become a little bit of a tailwind into the back
+half of the year?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. I mean, you got to keep in mind the mix there, Keith. Over time, I think as you get into, as we talked
+about in the Investor Relations Day, where you saw our security margins, gross margins are higher. You've
+got your -- media margins are lower. So it really is a mix. And while we're exceeding our plan so far on
+security, it's going to take a bit for that to really manifest itself in higher gross margins. You just need to
+get a bigger percentage of the business coming from security. And if you look at the part of the business
+and media that's growing, it's primarily the high volume, video, high-volume media. That tends to be
+where you have probably the most competition and pricing pressure. So you kind of balance those 2 out
+and you kind of keep the margin -- gross margins flattish year for the year. And then I'd say over time,
+there's a chance that we could see some expansion there, but we're not going to call that out right now.
+
+Operator
+
+Our next question comes from Sterling Auty with JPMorgan.
+
+Sanjit Kumar Singh
+Morgan Stanley, Research Division
+
+This is Sanjit on for Sterling Auty. Can you give color on the organic growth in the security for the quarter?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes, sure. This is Ed. We had about $10 million of contribution from Asavie, which would be about 4
+percentage points. I would say though that when we acquired Asavie, our plan was to do roughly $30
+million in revenue in the first year, and we're obviously exceeding that. So we -- we've been able to take
+that asset and really start to scale it. So while it's technically inorganic, I'd say we deserve some credit for
+being able to significantly accelerate that growth rate. So if you back out the 4%, you'd be -- I said 29%,
+it'd be 25% and 22% on a constant currency basis.
+
+Sanjit Kumar Singh
+Morgan Stanley, Research Division
+
+Okay. And then just to follow-up on that. Like the gross margins and sales and marketing are down
+seasonally. So can you give colors on that as well?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. So on the sales and marketing, what you'll find is, Q4 tends to be our highest quarter for sales and
+marketing expenses where you have, especially last year when we were exceeding our plan, we get into
+accelerators. So you get a reset on the compensation, and then you'll see it spike up again in Q4 of this
+year.
+
+Sanjit Kumar Singh
+Morgan Stanley, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+Good. And on gross margins?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. So gross margins were flat quarter-over-quarter. That's in line with what we expected. So really,
+there's nothing to call out there.
+
+Operator
+
+Our next question comes from Tim Horan with Oppenheimer.
+
+Timothy Kelly Horan
+Oppenheimer & Co. Inc., Research Division
+
+Great security quarter. Was there any onetime items, any license deals or anything else that would
+suggest why the growth would slow down so much after an acceleration like this? And can you comment
+on how enterprise security is doing? Is it meeting your expectations at this point?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes, sure, Tim. I'll take the first one and, Tom, if you want to talk about enterprise afterwards. So yes,
+there was really nothing to call out in terms of license revenue, but I'm glad you reminded me, because
+when you guys are building your model, if you remember last year in Q2, we did have an unusually strong
+license quarter. So as you kind of build your models and look at your compares, just remember, last year,
+we had $7 million of license revenue in Q2. We don't expect that again in Q2 of this year. And in Q1, there
+was really nothing unusual. As Tom said, it was really strength across many different products in security.
+It'd be easy for us to just call out one thing, but the good news for us is we see strength everywhere. And
+Tom, I don't know if you want to talk a bit about enterprise.
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Yes. The Access segment performed very well. As we noted, we're now at $100 million revenue run
+rate. So it's great to start the year in Q1 there. Very strong growth, over 170% over last year. Now of
+course, that includes Asavie. If you take that out, organic growth, still over 60% in that segment. So
+very pleased. And as Ed noted, we're pretty excited about the Asavie acquisition, especially as you get
+the emergence of 5G and you get IoT applications, but the ability to secure enterprise devices across the
+board, I think it's very exciting for the future. And we're really in a unique position to do that, and we
+have great relationships with the carriers. So we think we'll really be able to scale that business to a global
+basis.
+
+Timothy Kelly Horan
+Oppenheimer & Co. Inc., Research Division
+
+And just following up on the M&A question. With new security products, do you think you can shift more to
+internal development from your own R&D as opposed to acquisitions? Or how has that been trending the
+last few years?
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+I think it's a good, healthy mix. As you know, we've made several acquisitions, mostly tech tuck-
+ins, occasionally something a little bit larger. And we do a lot of organic investment in research and
+development, very active. They're very innovative. Maybe a good example is Page Integrity Manager,
+which we launched last year and doing really well in the marketplace. And we did -- that was a blend of a
+tech tuck-in about 7 to 10 employees in the company we acquired and a lot of organic development at the
+same time, to make a very successful product quickly, bring it to market and very strong adoption in early
+days.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+Operator
+
+Our next question comes from Alex Henderson with Needham.
+
+Michael Joseph Cikos
+Needham & Company, LLC, Research Division
+
+You have Mike Cikos on the line here for Alex Henderson. Could you comment on the security growth
+you're experiencing? I'm just trying to, I guess, think about this demand and the increased expectations
+you guys have now. Is any of this at all related to, I guess, budget finally coming to market following the
+headlines that we saw earlier in the year around SolarWinds and the Microsoft [ fixed unit service acts ]?
+And then the second comment on that would be the improved outlook that you have for security. Is it also
+expected to be broad-based on a go-forward basis?
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Yes. Let me take the first question there. And that's a, yes, really good question. The attack landscape
+is just breathtaking. You think you've seen it all. And then next week, you read the next headline. The --
+and the attackers are very powerful. You have nation states, large-scale organized crime, just -- and what
+they're doing is, well, pretty scary. Now the great news for Akamai and our customers is that we have
+solutions that can protect enterprises for a large majority of those attacks.
+
+A great example is the recent exchange server hack, where many thousands of enterprises got hacked,
+lost their e-mails, which is really bad. Akamai, our IT department was running an exchange server, just
+like all those other companies. And the difference is, we didn't get hacked because we use our own
+enterprise security solutions. And we had enterprise application access sitting in front of our exchange
+server. And that meant that the vulnerability couldn't be exploited, because the employee doesn't just
+get to go contact the exchange server. If they did, then somebody can come in. And before you're
+authenticated by the exchange server, you can exploit the vulnerability.
+
+Instead, they got to get to -- they come to Akamai's Enterprise Application Access product, we
+authenticate them, and if it's a bad guy outside trying to do something, no way they get in. And not only
+that, they don't get directly to the exchange server, because they have to pass through our security. So if
+they're trying to do bad things, we'll stop it. And it's all about our approach to Zero Trust. And yes, we can
+protect enterprises from these sorts of things.
+
+And even in zero-day attacks, we didn't know about the exchange hack before other enterprises or
+Microsoft did, and yet we were protected at zero day because of our solutions. So I think as the attacks
+increase, that does increase awareness, and that does help drive our security business. And I see no
+end to the attacks coming. There's more on the way. And we're in a great position to be able to help the
+leading enterprises stay safe against those attacks.
+
+Michael Joseph Cikos
+Needham & Company, LLC, Research Division
+
+Great. And then just following up that broad-based strength that we're talking to in Q1. Is that -- that's
+expected on a go-forward basis with the updated outlook we have today?
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Yes. It was strong across the board, and we're anticipating that through the rest of this year. And of
+course, at our Investor Day, we talked about the 3- to 5-year CAGR goals. And as you go back to that
+material, you'll see it's pretty strong across the board there in terms of our anticipated growth over the
+longer term.
+
+Operator
+
+Our next question comes from James Breen with William Blair.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+James Dennis Breen
+William Blair & Company L.L.C., Research Division
+
+Just wondering if you can give some color on the U.S. versus the international mix. It seemed like U.S.
+had a pretty good acceleration on a year-over-year basis this quarter. Is this pandemic-driven? Or is it
+more around the products that's getting sold? And then just secondly, on the margins thread. EBITDA
+margin is 45%. You've guided to that for the next quarter. Given the business mix now, is that sort of the
+starting point in terms of margin structure, given CapEx coming down and investments, et cetera?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. Hey, Jim. So on the [indiscernible] EBITDA margin question first. Yes. So 45's a good spot for this
+quarter. Obviously, we get a little bit of expense coming in Q3. So 44, 45-ish, but I think you're thinking
+about it in the right range. On the U.S. versus international, yes, U.S. was pretty strong. We've been
+having pretty decent U.S. growth. If you remember, go back in a year or so, a little over a year ago, we
+were kind of flattish and we started to turn things around there. A lot of it has to do with the strength
+that we're seeing in media, a lot of the companies are in the U.S. In terms of international, still having
+very strong growth internationally. We do come up against some tougher compares. There's pretty strong
+media business outside the U.S. So you'll see some tougher compares on the media delivery side. And as
+I called out, from an international perspective, there's -- we're still lapping that $15 million of lost revenue
+associated with the bank apps in India.
+
+James Dennis Breen
+William Blair & Company L.L.C., Research Division
+
+And then just one other question. Are there any sectors that you're seeing that were particularly hit hard
+by the pandemic that are maybe starting to come back a little bit more as the vaccines' gotten rolled out?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. Yes, good question, Jim. So I would say the hotel and travel is probably stabilizing a little bit. I
+wouldn't say we're in the growth phase yet. You're starting to see some early signs. It's probably still a
+few quarters before we start to see that business return to a growth engine for us. On retail, it's still a
+mixed bag. You've got some that are doing well, some that aren't doing well. And just keep in mind that,
+that's 20% of our -- your total business, 40% of your old legacy web business. But it's -- I'd say we're
+optimistic, but still a ways to go before we declare victory there.
+
+Operator
+
+Our next question comes from Brandon Nispel with KeyBanc.
+
+Brandon Lee Nispel
+KeyBanc Capital Markets Inc., Research Division
+
+2 questions for Ed, one for Tom. Ed, could you just outline how we should be thinking about working
+capital for the year? And then for the full year '21, what's embedded in your outlook for FX versus your
+prior expectations? Then for Tom, how should we think about the growth in edge applications sequentially
+as we move throughout the year? I think you mentioned it was about $45 million this quarter.
+
+Edward J. McGowan
+Executive VP & CFO
+
+Hey, Brandon, yes, I'll take the second one first. In terms of FX, so the FX rates, what we do is at the
+beginning of the quarter, we sort of take a look at where the FX rates are, assume that's going to stay
+for the balance of the year. In terms of how it was relative to the beginning of the last quarter, we gave
+guidance, some currencies are up, some are down, but it's roughly somewhat in line. I talk about in the
+prepared remarks that FX sort of came in as expected. We got a little bit of a headwind here quarter-over-
+quarter, mostly weakness in the yen. But I would say just keep an eye on it though. You just -- if you kind
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+of just step back and do the math, we get a little over $1 billion worth of non-U.S.-denominated revenue.
+So to the extent that you get a 1% swing, that can swing you $10 million on an annual basis. The major
+currencies for us are euro, yen, pound, and then it kind of drops off from there. And other currencies
+aren't as impactful, but those are the 3 to keep an eye on.
+
+And then working capital, I'd say, like any other year, you'll see nothing unusual in terms of working
+capital. This year, in Q1, you see us from a cash flow perspective, we pay out our bonuses early in Q1. You
+see cash flow, the working capital pick up a touch. To call out in terms of collections, they've actually been
+fantastic. Nothing on the payable side. It's unusual. And as we talked about, CapEx is already hit its high
+point. So nothing really unusual to call on working capital.
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Yes. And in terms of the edge applications question, you're right, about $45 million in Q1. We don't guide
+separately on an annual basis for that. You just saw over 30% growth in Q1. And at IR Day, we did talk
+about the 3- to 5-year CAGR. Goal there is over 30%. And so I -- at a high level, I'd expect to see us
+continue with very strong growth through the rest of the year in edge applications.
+
+Operator
+
+Our next question comes from Robert Majek with Raymond James.
+
+Robert S. Majek
+Raymond James & Associates, Inc., Research Division
+
+Just 2 questions for me. One, good to see the guide up on the security business to a low 20s rate. But you
+did just report security growth of 29%. So just, how should we read into that? Why should we expect that
+growth rate to decelerate materially? And then two, just what are you seeing on CDN per unit pricing? Is
+the level of price decline getting more steeper than usual as larger customers renegotiate their now larger
+CDN contracts in a clearly boosted traffic environment?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. So I'll take both of those. So on the low 20s, the way to think about it is, I just called out when Tim
+asked the question about license revenue, you've got a tougher compare in Q2 with $7 million of license
+revenue, we don't anticipate repeating in Q2. You also have the Asavie acquisition that will anniversary in
+Q4. So when you take those 2 factors into consideration, you'll see the growth rate come down a touch as
+those sort of work themselves out.
+
+On the CDN pricing environment, nothing really to call out there. I've been in this business for a little
+over 20 years and have sort of gotten numb to pricing at this point. And I don't see anything that is
+unusual. And also, if there was anything in our top -- in our earnings -- Analyst Day, we called out our
+top 8 customers, anyone who's over 1% as a metric. And if there's anything in that group of customers
+worth calling out, I'd certainly do that and there's really nothing at this point to call out. And as far
+as renewals are going, we do a pretty good job of anticipating, what to expect, and there hasn't been
+negative surprises so far.
+
+Operator
+
+[Operator Instructions] Our next question comes from Jeff Van Rhee with Craig-Hallum.
+
+Rudy Grayson Kessinger
+Craig-Hallum Capital Group LLC, Research Division
+
+This is Rudy on for Jeff. I know in security, you've said that there's broad-based strength in the quarter
+and you expect that to continue. Were there any products in there, maybe 1 or 2 that were just a little bit
+weaker or saw some challenges or slowdowns, just anything you'd call out?
+
+F. Thomson Leighton
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+Co-Founder, CEO & Director
+
+I don't think there's anything to call out there, just really is outstanding quarter across the board. We're
+very pleased with how the security business is doing.
+
+Rudy Grayson Kessinger
+Craig-Hallum Capital Group LLC, Research Division
+
+Got it. And then with the sustainability goals by 2030, is there any balance you can put around maybe
+how much expense for those investments there you're factoring in for '21? Or just what the expected
+impact of margins might be from investments there, maybe on the longer term?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. So I tell with the team that went through this, and there's really not any significant expenses that we
+anticipate for several years. And even then, the cost that the team has rolled up is not all that significant.
+We've actually been able to do some pretty creative deals, with certain projects on renewable energy that
+have worked out to be, from a pricing perspective and overall net economics, have been neutral to even
+favorable in some cases. So nothing really there to note. Team's doing a fabulous job on it. And as time
+goes on, if there's anything we need to call out we'll certainly let you know.
+
+Operator
+
+Your next question comes from Charlie Erlikh with Baird.
+
+Charles Joseph Erlikh
+Robert W. Baird & Co. Incorporated, Research Division
+
+It's Chuck Erlikh on for Will Power. I was hoping to dig in a little bit more into the legacy Web Division.
+Could you maybe talk a little bit more about maybe the puts and takes in that segment and the declines
+we're seeing there? And then what it might take to stabilize that segment?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. So I would say, similar to what we've talked about in the past, right? You've got obviously strong
+security growth. You've got -- from a verticals perspective, you have 2 verticals, retail and travel, which
+make up 40% of the legacy Web Division vertical -- or division, excuse me. And we're still, like I said on a,
+a few questions ago, we're not quite out of the woods there yet. We're starting to see some stability, but
+we're not seeing the type of growth yet there. So it's going to take a bit for that to recover.
+
+We're doing a nice job of dealing with certain pricing pressure in those verticals with opening up other
+shares of the wallet, whether it's additional security products or really starting to see a lot of interest in
+our edge computing and edge applications business as well. So we'll see dollars potentially shift delivery
+into to that category as we go through pricing negotiations, but that's pretty normal. And once we start
+to see, probably a couple of quarters hopefully, the travel and retail business get back to normal, if these
+vaccines hold and life returns to normal, hopefully, start to see that segment of the business growing
+again.
+
+Charles Joseph Erlikh
+Robert W. Baird & Co. Incorporated, Research Division
+
+Okay. And then on the Internet platform customers, continuing to see some growth there, which is great.
+Is there anything specifically that's driving that growth? And what should we expect for the rest of the
+year from that cohort?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+Yes. So it's becoming less impactful. So that's why we're kind of going away from that metric, you didn't
+hear me talk about in our prepared remarks. I think years ago, people were concerned that, that may go
+to 0. And we talked a couple of years ago about stabilizing that and getting it back to growth. And the
+team has just done a phenomenal job. So I'd first tip my hat to the team that's managing those accounts.
+They've done a nice job of finding areas for us to add value to incredibly innovative technology companies
+that have their own CDNs, and we found a nice spot to pick up business, whether it's adding security or
+delivering graphics for video and gaming, for big scale events or for live video or even on-demand video.
+We're just finding a nice niche there. And that continues to grow. It's up about $1 million quarter-over-
+quarter. Very impressive growth rate.
+
+I'd say stability is probably a good way to think about that going through the year. There's always upside
+with these accounts. Teams identifying new areas of opportunity all the time. So very pleased with where
+we are with those customers and expect to see probably similar numbers, what you're seeing now, down a
+little bit quarter-to-quarter, depending on certain things that are going on in those accounts.
+
+Operator
+
+Our next question comes from Alex Henderson with Needham.
+
+Michael Joseph Cikos
+Needham & Company, LLC, Research Division
+
+Mike Cikos here again. I did just want to follow-up. Just looking at my model versus where you guys came
+in, the sales and marketing expense this quarter was much lower than what we had anticipated. Even
+if I'm removing the accelerators from 4Q and even just looking at Q1 '21 versus Q1 '20, the amount of
+leverage in the model. Can you talk to how we should expect the sales and marketing to play out over the
+course of the year? Are there savings being realized from that realigned division or the reorganization you
+guys have talked to earlier this year?
+
+Edward J. McGowan
+Executive VP & CFO
+
+Yes. That's a good point, Mike. So as part of the reorganization here, some shift between sales and
+marketing, research and development, a few million bucks, if I remember correctly. And then there was
+some savings as we moved from the divisional model to one sales force. There was some synergy, mostly
+at the management level. So you'll see some of those costs go away as well.
+
+Tom Barth
+Head of Investor Relations
+
+Okay. Well, thank you, everyone. In closing, we will be presenting at several investor conferences and
+road shows throughout the rest of the second quarter. Details of these can be found in the Investor
+Relations section of akamai.com. Thank you for joining us, and all of us here at Akamai wish you
+continued good health to yourself as well as to your families. Have a nice evening.
+
+F. Thomson Leighton
+Co-Founder, CEO & Director
+
+Thank you.
+
+Operator
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+AKAMAI TECHNOLOGIES, INC. FQ1 2021 EARNINGS CALL |  MAY 04, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+

@@ -1,0 +1,1351 @@
+NetApp, Inc. NasdaqGS:NTAP
+FQ1 2022 Earnings Call Transcripts
+Wednesday, August 25, 2021 9:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ1 2022-
+
+-FQ2 2022-
+
+-FY 2022-
+
+-FY 2023-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+0.95
+
+1.15
+
+Revenue  (mm)
+
+1430.60
+
+1458.00
+
+Currency: USD
+Consensus as of  Aug-25-2021 10:28 PM GMT
+
+21.05
+
+1.92
+
+1.13
+
+4.71
+
+5.10
+
+1517.96
+
+6197.74
+
+6437.56
+
+FQ2 2021
+
+FQ3 2021
+
+FQ4 2021
+
+FQ1 2022
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+0.73
+
+1.01
+
+1.12
+
+0.95
+
+1.05
+
+1.10
+
+1.17
+
+1.15
+
+SURPRISE
+
+43.84 %
+
+8.91 %
+
+4.46 %
+
+21.05 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+Call Participants
+
+EXECUTIVES
+
+George Kurian
+CEO & Director
+
+Kris Newton
+VP of Corporate Communications &
+Investor Relations
+
+Michael J. Berry
+Executive VP & CFO
+
+ANALYSTS
+
+Matthew Normand Cabral
+Crédit Suisse AG, Research Division
+
+Nehal Sushil Chokshi
+Northland Capital Markets,
+Research Division
+
+Nikolay Todorov
+Longbow Research LLC
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC,
+Research Division
+
+Roderick B. Hall
+Goldman Sachs Group, Inc.,
+Research Division
+
+Amit Jawaharlaz Daryanani
+Evercore ISI Institutional Equities,
+Research Division
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research
+Division
+
+Ananda Prosad Baruah
+Loop Capital Markets LLC,
+Research Division
+
+Shannon Siemsen Cross
+Cross Research LLC
+
+James Dickey Suva
+Citigroup Inc. Exchange Research
+
+Shek Ming Ho
+Deutsche Bank AG, Research
+Division
+
+Jason Noah Ader
+William Blair & Company L.L.C.,
+Research Division
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc.,
+Research Division
+
+Karl Ackerman
+Cowen and Company, LLC,
+Research Division
+
+Steven Bryant Fox
+Fox Advisors LLC
+
+Kathryn Lynn Huberty
+Morgan Stanley, Research Division
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+Louis Rocco Miscioscia
+Daiwa Securities Co. Ltd.,
+Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+Presentation
+
+Operator
+
+Good afternoon, ladies and gentlemen. Welcome to the NetApp First Quarter Fiscal Year 2022 Earnings
+Call. [Operator Instructions]
+
+I would now like to turn the call over to Kris Newton, Vice President, Investor Relations.
+
+Kris Newton
+VP of Corporate Communications & Investor Relations
+
+Thank you for joining us. With me today are our CEO, George Kurian; and CFO, Mike Berry. This call is
+being webcast live and will be available for replay on our website at netapp.com.
+
+During today's call, we will make forward-looking statements and projections with respect to our
+financial outlook and future prospects, such as our guidance for second quarter and fiscal year 2022;
+our expectations regarding future revenue, profitability and shareholder returns; the value we bring to
+customers; our ability to execute; and our ability to bring industry-leading capabilities to market, all of
+which involve risk and uncertainty.
+
+We disclaim any obligation to update our forward-looking statements and projections. Actual results
+may differ materially for a variety of reasons, including macroeconomic and market conditions, such
+as the continuing impact and uneven recovery of the COVID-19 pandemic; and the IT capital spending
+environment; as well as our ability to gain share in the storage market, grow our cloud business and
+generate greater cash flow.
+
+Please also refer to the documents we file from time to time with the SEC and available on our website
+specifically our most recent Form 10-K, including in the Management's Discussion and Analysis of Financial
+Condition and Results of Operations and Risk Factors section.
+
+During the call, all financial measures presented will be non-GAAP unless otherwise indicated.
+Reconciliations of GAAP to non-GAAP estimates are posted on our website. I'll now turn the call over to
+George.
+
+George Kurian
+CEO & Director
+
+Thanks, Kris. Good afternoon, and thanks to everyone for joining our Q1 fiscal year '22 earnings call.
+
+Building on our accelerating momentum through fiscal year '21, we delivered a strong start to fiscal year
+'22 with results at the high end or above our guidance for Q1. Broad-based strength drove 12% revenue
+growth and 16% product revenue growth year-over-year. Public cloud revenue grew triple digits again this
+quarter, up 155% from Q1 a year ago. Our results reflect solid customer demand and strong execution by
+our team in the quarter.
+
+Cloud and digital transformation initiatives remain top customer priorities, and we continue to benefit
+from these sizable long-term trends. Customers need to simplify and modernize existing data centers and
+deploy traditional applications quickly and confidently. At the same time, customers are also accelerating
+their use of cloud, adopting modern application architectures like Kubernetes and microservices for new
+workloads, and deploying data-rich applications like machine and deep learning.
+
+With our Data Fabric strategy, we are uniquely positioned to solve our customers' most significant
+challenges in both modern and traditional applications on-premises and in hybrid, multi-cloud
+environments. As I've said many times, our public cloud services not only allow us to participate in the
+rapidly growing cloud market, they also make us a more strategic data center partner to our enterprise
+customers, driving share gains in our Hybrid Cloud business.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+In Q1, we introduced our new segment reporting disclosures for Hybrid Cloud and Public Cloud,
+corresponding with how I look at our business. We've provided financial information for both segments in
+our earnings materials to give you better insight into the dynamics of the 2 segments. We will maintain
+our focus on driving growth with our Hybrid Cloud portfolio while scaling our Public Cloud services in fiscal
+year '22.
+
+In Q1, Hybrid Cloud revenue grew 8% year-over-year, led by outstanding growth in our all-flash array
+business, which increased 23% to an annualized net revenue run rate of $2.8 billion. Based on our strong
+revenue growth, I am confident that we again gained share in the storage and all-flash markets.
+
+In the quarter, we delivered significant innovation that advances our flexible foundation for hybrid cloud,
+unifies data management across on-premises and cloud environments, and simplified consumption and
+operation of hybrid cloud services. We further enhanced the industry's leading and only cloud-ready
+storage operating system by introducing ONTAP 9.9 with security enhancements, new integrated data
+protection capabilities and improved SAN performance.
+
+We also released StorageGRID 11.5 with support for data encryption using external key management,
+ransomware protection with S3 object locks and increased performance with intelligent load balancing.
+And we announced a broad range of enhancements to Keystone Flex Subscription with new features for
+service providers, additional cloud support, a partner-delivered FlexPod as-a-service and integration with
+Equinix colocation services.
+
+Public Cloud revenue grew 155% year-over-year driven by Cloud Volumes, Cloud Insights and Spot by
+NetApp. It's been a year since we acquired Spot, and we are excited by the innovation we brought to
+market under the Spot by NetApp brand and the momentum we have with the spot offerings. Public Cloud
+ARR grew to $337 million, an increase of 89% year-over-year, and Public Cloud dollar-based net retention
+rate remains healthy at 192%. Our partnerships with the cloud providers are strong and growing. I am
+honored that we were recognized by Microsoft as the winner of their Global Customer Experience Partner
+of the Year and of their U.S. SAP on Azure Partner of the Year awards.
+
+We continue to broaden our Public Cloud services beyond storage and data management services. Today,
+we help customers extend, migrate, automate and optimize the infrastructure and data management
+capabilities for enterprise and cloud-native applications. Customers use NetApp Public Cloud services
+because we enable them to use more cloud at less cost. In Q1, we announced Spot PC, a fully managed,
+secure and cost-effective cloud desktop as a service for Azure Virtual Desktop and Windows 365.
+Additionally, we acquired Data Mechanics to accelerate the road map for Spot Wave, an infrastructure
+and application automation and optimization platform for high-growth big data and machine learning
+workloads in the cloud.
+
+We also continue to deliver on our vision and strategy around application-aware infrastructure and data
+management for containers. Spot Ocean automates cloud infrastructure for containers, automatically
+scaling compute resources to maximize utilization and availability with the optimal blend of spot, reserved
+and on-demand compute instances, reducing costs by up to 90%. In Q1, we evolved Spot Ocean into
+a suite of DevOp solutions with Ocean Continuous Delivery and Ocean Insights. Ocean Continuous
+Delivery, focuses on the most painful aspects of modern application delivery by automating mission-critical
+deployment and verification processes. Ocean Insights is an analytical tool that gives users a full view of
+their application clusters and then produce the potential savings from Ocean.
+
+Last year, we introduced Astra Control, a rich set of storage and application-aware data management
+services for cloud-based Kubernetes workloads. Astra extends the data fabric to the cloud-native world,
+and in Q1, we extended Astra to be a deployable, on-premises software solution, Astra Control Center.
+Wherever a customer chooses to deploy Kubernetes applications, we can accelerate the deployment,
+operation and protection of these critical environments.
+
+Let me share with you a customer story to highlight the value Astra Control Center brings to enterprise
+customers. As a part of its transformation strategy, a leading telecommunications provider is using a
+modern IT architecture based on container-native applications. These workloads are mission-critical, and
+the customer turn to NetApp and Astra Control Center to address the challenges of data protection and
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+disaster recovery that don't exist in Kubernetes natively. Additionally, Astra helped them realize their
+vision of application portability across multiple Kubernetes distributions and data sharing across multiple
+clusters.
+
+We have long been recognized for our industry-leading enterprise storage and data management
+technology. Our Public Cloud services drive further differentiation, expand our addressable market and
+enable us to reach new customers. We deliver not only industry-leading storage services in the cloud,
+but also cloud automation and optimization services and cloud infrastructure monitoring services. You
+should expect us to capitalize on our advantage by enhancing our go-to-market activities, deepening our
+cloud partnerships and delivering best-in-class organic and inorganic innovation. Our strong customer
+momentum and the uniqueness of our Public Cloud services position furthers my confidence in our ability
+to reach our goal of $1 billion in Public Cloud ARR in fiscal year '25.
+
+Our strong first quarter results underscore our value to customers in a hybrid, multi-cloud, data-driven
+digital world. We are confident that we are well positioned with the right portfolio and strategy to solve
+our customers' most pressing challenges. With focused execution and demonstrated leadership in hybrid,
+multi-cloud, we are reshaping the industry. We made a number of innovation announcements this quarter,
+and we will continue to bring industry-leading capabilities to market, further enhancing our differentiated
+position in cloud and software.
+
+I am excited for what this year will bring, and I'm confident in our ability to deliver top line growth as we
+support our customers on their cloud and digital transformation journeys.
+
+Before I turn the call over to Mike to walk through our financial results and expectations, I want to thank
+the NetApp team, our customers and our partners for an outstanding quarter. I also want to remind you
+that we'll be hosting our fully digital INSIGHT customer event in October. I hope you'll be able to join us.
+
+With that, I'll turn it over to Mike.
+
+Michael J. Berry
+Executive VP & CFO
+
+Thank you, George. Good afternoon, everyone, and thank you for joining us. As a reminder, I'll be
+referring to non-GAAP numbers unless otherwise noted.
+
+Fiscal '22 is off to a great start with strong revenue, gross margin and operating leverage across the entire
+business. Excellent execution by the whole NetApp team yielded Q1 billings of $1.38 billion, up 20% year-
+over-year. Revenue came in at $1.46 billion, up 12% year-over-year. Our solid Q1 results were driven by
+healthy demand across both our Hybrid Cloud and Public Cloud segments. Gross margin, operating margin
+and EPS all came in above the high end of guidance.
+
+As George noted in our earnings materials today, we introduced our new segment reporting disclosures
+for both Hybrid Cloud and Public Cloud. Hybrid Cloud captures all the revenue streams from our enterprise
+data center business, which include product, support and professional services. Our Public Cloud segment
+provides incremental visibility into the revenue and gross margin profile of our rapidly growing cloud
+business.
+
+Total Hybrid Cloud revenue of $1.38 billion was up 8% year-over-year. Within Hybrid Cloud, we delivered
+product revenue growth for the second consecutive quarter and expect this trend to continue throughout
+fiscal '22. Product revenue of $730 million increased 16% year-over-year. Consistent with the trends we
+saw throughout fiscal '21, software product revenue of $414 million increased 33% year-over-year, driven
+by the continued mix shift towards our all-flash portfolio. Total Q1 recurring support revenue was $578
+million, flat year-over-year. Excluding the 14th week from last year's compare, recurring support revenue
+was up 8% year-over-year.
+
+As George highlighted, Public Cloud ARR exited Q1 at $337 million, up 89% year-over-year and 12%
+sequentially. Public Cloud revenue recognized in the quarter was $79 million, up 155% year-over-year.
+The growing scale of our Public Cloud platform continues to positively impact the overall growth profile
+of NetApp, delivering 4 of the 12 points in revenue growth. When combined, software revenue, recurring
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+support and Public Cloud revenue totaled $1.1 billion and increased 17% year-over-year, representing
+73% of total revenue versus 71% in Q1 '21.
+
+Recurring support and Public Cloud revenue of $657 million was up 8% year-over-year, constituting 45%
+of total revenue. Excluding last year's 14th week from the compare, recurring support and public cloud
+revenue was up a healthy 16% year-over-year.
+
+We ended Q1 with over $3.9 billion in deferred revenue, an increase of 8% year-over-year. Q1 marks
+the 14th consecutive quarter of year-over-year deferred revenue growth which continues to be the best
+indicator of the health of our recurring revenue.
+
+Total gross margin of 69% was an all-time company high, reflecting the value of our software portfolio
+and Public Cloud platform. Total Hybrid Cloud gross margin was also 69% in Q1. Within our Hybrid Cloud
+segment, product gross margin was 55% and benefited from the continued mix shift towards software-
+rich all-flash systems. Our recurring support business continues to be very profitable with gross margin of
+92%.
+
+Public Cloud gross margin of 71% was accretive to the overall corporate average. This is a major
+milestone for the Public Cloud business as we continue to build out a diversified portfolio of cloud-based
+software offerings. We expect this trend to continue as an increasing percentage of our Public Cloud
+business is built on software-only solutions.
+
+Q1 highlighted the tremendous leverage in our operating model with operating margin of 23%, an all-
+time high for our Q1. EPS of $1.15 came in above the high end of guidance and was up 58% year-over-
+year. Cash flow from operations was $242 million, and free cash flow was $191 million. During Q1, we
+repurchased $100 million in stock and paid out $112 million in cash dividends. In total, we returned $212
+million to shareholders, representing 111% of free cash flow. We closed Q1 with $4.5 billion in cash and
+short-term investments.
+
+As you all know, the supply chain situation remains fluid. Our excellent supply chain and procurement
+team continues to work closely with our partner ecosystem with the goal of keeping backlog and customer
+lead times at normal levels. Towards this goal, we will continue to invest incremental dollars into inventory
+and longer-term commitments to help mitigate any potential supply risk. Aiding this effort is the fact that
+we have a singular software platform that powers all of our key storage products, which provides us added
+flexibility to work with our contract manufacturers and customers to meet end demand.
+
+With our strong execution in Q1 and our expectation of continued growth for the remainder of the year,
+we are raising our fiscal '22 guidance across the board. We now expect revenues to grow 8% to 9%
+year-over-year, with billings growth expected to outpace revenue growth given the continued strength in
+recurring support contracts and our Public Cloud platform. We also have growing confidence in our Public
+Cloud opportunity and are raising the low end of our fiscal '22 guide. We now expect to exit fiscal '22 with
+Public Cloud ARR of $450 million to $500 million, driven by enhanced go-to-market activities, deeper cloud
+partnerships and continued product innovation. As George noted, we are solidly on track to deliver on our
+commitment to eclipse $1 billion in Public Cloud ARR in fiscal '25.
+
+In fiscal '22, we expect total gross margin to be approximately 68% with product margin of approximately
+55% for the full year. We anticipate operating margin to range between 23% to 24%. Operating expense
+expectations remain unchanged at $2.75 billion to $2.8 billion driven by continued investment in revenue-
+generating activities, including expanding our Public Cloud portfolio, targeted investments in go-to-market
+resources and continued investment in our customer success sales team. As we discussed at our Investor
+Day last September, we continue to grow revenue faster than operating expenses.
+
+We are committed to delivering $4.85 to $5.05 in fiscal '22 EPS, representing 22% year-over-year growth
+at the midpoint. Implied in this guidance is our expectation that other income and expense will be a
+negative $60 million to $65 million and our effective tax rate will remain at 19%. We now expect to
+generate more than $1.2 billion in free cash flow in fiscal '22 as our Hybrid Cloud business continues to
+fund the growth in our Public Cloud platform.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+We are committed to the capital allocation framework we outlined during our Q4 call. The dividend will
+remain the first call on capital, while share repurchases will continue to play a key role in our capital
+allocation strategy. In fiscal '22, we expect buybacks to offset dilution from our equity plans. For modeling
+purposes, we expect share count to remain flat at 229 million shares exiting fiscal '22. Consistent with
+NetApp's long history of disciplined M&A, the remaining free cash flow generation will go towards our
+acquisition strategy, which will remain focused on bolstering our strategic Public Cloud road map.
+
+Now on to Q2 guidance. We expect Q2 net revenues to range between $1.49 billion and $1.59 billion,
+which, at the midpoint, implies a 9% increase year-over-year. We expect consolidated gross margin to be
+approximately 68% and operating margin to be approximately 23%. Assumed in this guidance, our Q2
+operating expenses of $690 million to $700 million. We anticipate our tax rate to be approximately 19%.
+And we expect earnings per share for Q2 to range between $1.14 and $1.24 per share. Assumed in our Q2
+guidance is our expectation that other income and expense will be a negative $15 million to $20 million.
+
+As a reminder, Q2 tends to be our seasonal trough for free cash flow. This is further compounded by the
+onetime tax payment associated with the sale of our Sunnyvale campus.
+
+In closing, I want to thank the entire NetApp team for working tirelessly throughout Q1 to maintain the
+momentum we had exiting last year. We are at a unique inflection point in the company's history as we
+continue to build out a truly differentiated public cloud platform while maintaining an unwavering focus on
+the Hybrid Cloud business. As a result, we are more confident than ever in our ability to deliver long-term
+value to our shareholders, customers and partners as we execute against both opportunities.
+
+I'll now hand the call back to Kris to open the call for Q&A. Kris?
+
+Kris Newton
+VP of Corporate Communications & Investor Relations
+Thanks, Mike. Let's open the call for Q&A. [Operator Instructions] Operator?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Katy Huberty with Morgan Stanley.
+
+Kathryn Lynn Huberty
+Morgan Stanley, Research Division
+
+Congrats on the quarter, especially the cloud profitability milestone. I have a question on the cloud
+business. Last quarter, you emphasized the seasonality that you expect in this business, weaker 1Q, 3Q
+and stronger 2Q, 4Q seasonality. So I just want to confirm that, that would imply in your second quarter
+that you would expect an ARR sequential increase that's greater than what you just posted for the July
+quarter?
+
+And then just to add color to that, any shift in the sources of cloud ARR and revenue in terms of your
+different cloud offerings or the different public cloud platforms that are driving the growth?
+
+Michael J. Berry
+Executive VP & CFO
+
+Katy, it's Mike. Thanks for the question. I'll take the first one and George will jump in on the second one.
+So we would expect the same seasonality we discussed last time, a little bit more in Q2 and in Q4 on a
+sequential basis. That's really driven by our -- as you know, our biannual sales plans that we have now. So
+yes, correct, we would expect sequential to be a little bit higher in Q2.
+
+George Kurian
+CEO & Director
+
+I think with regard to the second question you had, Katy, with the mix of offerings, we feel really good
+about Spot by NetApp and the work that we're doing with the hyperscalers, both especially Microsoft and
+Google were strong in the quarter. I think the seasonality reflected in -- as we had said, reflected in the
+offerings that were sold by NetApp, they grew nicely, but not as much as the hyperscalers and Spot did.
+
+Operator
+
+Our next question comes from the line of Jason Ader with William Blair.
+
+Jason Noah Ader
+William Blair & Company L.L.C., Research Division
+
+First question on the Public Cloud growth, revenue or ARR, how much of that was organic?
+
+Michael J. Berry
+Executive VP & CFO
+
+Jason, it's Mike. If you look at the revenue growth, it was 155% year-over-year growth. if you exclude the
+acquisitions, it was still very strong at about 138%. So super strong.
+
+Jason Noah Ader
+William Blair & Company L.L.C., Research Division
+
+Great. And you had Spot in the numbers last year, correct? Last Q1...
+
+Michael J. Berry
+Executive VP & CFO
+
+Great question. We only had Spot for less than a month. We closed that early -- early July. So it was very
+little in Q1 last year.
+
+Jason Noah Ader
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+William Blair & Company L.L.C., Research Division
+
+Okay. All right. So Q2 will be kind of apples-to-apples, that was Spot?
+
+Michael J. Berry
+Executive VP & CFO
+
+Yes, you're going to get a full quarter in Q2 this year.
+
+Jason Noah Ader
+William Blair & Company L.L.C., Research Division
+
+All right. And then, George, on the growth on the product side, how much do you think is coming from
+pent-up demand as the economy started to reopen here over the last several months, 6 months or so?
+And then what type of sustainable revenue growth you think is reasonable beyond this year where there's
+some, I guess, easier comps?
+
+George Kurian
+CEO & Director
+
+Listen, I think that we have never signaled a V-shaped snap back or anything like that. Our belief has
+been that other than a small number of customers who were directly impacted by COVID, the vast
+majority of the customers that we work with had a steady demand pattern for several quarters now.
+Certainly, we are seeing strengthening in demand as the economies reopen, but this is a reflection of more
+long-term trends, transformational work that customers are doing to digitize or hybridize their business,
+the work that they're doing to build cloud environments and so on. So I don't think that we see this as a
+pent-up demand kind of model.
+
+I think with regard to the sustainability of our business, we feel really good about product revenue. We
+-- as we said, we think that we can sustain product revenue growth each of the quarters of this year and
+particularly, our flash segment is very, very strong. And so we see really good momentum there and no
+reason to feel anything but real good confidence about where we are.
+
+Listen, we just finished a phenomenal quarter. In Q1, we grew our all-flash business by 23%, overall
+product revenue by 16% and cloud by 155% year-on-year. We raised our fiscal year to 8% to 9% growth
+and anticipate delivering close to $5 in earnings per share. These are all record numbers, right, operating
+margins, full year and earnings per share for the company. So I feel very, very, very good about where we
+are.
+
+Operator
+
+Our next question comes from the line of Aaron Rakers with Wells Fargo.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+I guess kind of 2 related questions, if I can. First of all, as the kind of industry, we've seen a lot of
+evidence of component constraints and inflationary component pricing dynamics. As you've seen that, how
+do you believe your customers have behaved as far as putting orders in place? How has your lead times
+maybe changed with relation to that? Or has that not been a factor and you don't believe that will be a
+risk factor as we move forward?
+
+George Kurian
+CEO & Director
+
+Listen, I think that components being constrained and the supply base being dynamic and fluid is
+something that everybody in the industry faces. Our team has done an excellent job. And the fact that
+we have a single operating system and a single architecture for the vast majority of our revenue gives us
+flexibility to adapt and react in real time to potential supply constraints. Both the gross margin guide and
+the revenue guide that we've given anticipate puts and takes across the supply chain.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+With regard to our ability to manage pricing in an inflationary environment, I think the product gross
+margin strength in Q1 and the outlook for Q2 remains strong and is a reflection of the discipline in our
+field organization.
+
+With regard to, do I see customers buying up product ahead of schedule to deal with supply constraints,
+I don't see that. Maybe there are occasional anecdote situations. But the vast majority, as we've said, is
+a pretty steady and strong demand pattern across a broad range of deals. You see that in our results this
+quarter. Mike, do you want to add anything?
+
+Michael J. Berry
+Executive VP & CFO
+
+No. As George talked about, it's obviously very fluid. I would just give another shout out to not only our
+team, but obviously, our partners as well for all the work that goes on. They had a really good quarter, and
+we expect them to continue to perform and help us get through this as everybody in the industry faces
+this.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+That's perfect, guys. Congrats.
+
+Operator
+
+Our next question comes from the line of Amit Daryanani with Evercore.
+
+Amit Jawaharlaz Daryanani
+Evercore ISI Institutional Equities, Research Division
+
+I just have one, I guess. George, really impressive set of numbers across the board, and you took up
+your ARR estimates for the year by $25 million at the low end. I'd love to just understand. What is giving
+you the confidence to raise the guide this early in the year? Is it better sales execution? Go-to-market?
+Are you just seeing better adoption at the cloud company? Just help me understand what's driving the
+confidence to uplift the guide for fiscal '22 on cloud services.
+
+And then Mike, related to that, you achieved that in the gross margin numbers and cloud services a lot
+quicker than you may have thought. So how does the rest of the year look like from a cloud gross margin
+perspective?
+
+George Kurian
+CEO & Director
+
+With regard to our confidence in the cloud business, I think we feel very, very good about the portfolio
+that we have. It serves a broader and broader range of use cases, both traditional applications as well
+as net new applications. Second, we are adding a lot of customers, both through NetApp pathways and
+particularly the hyperscaler pathways. Third, once a customer joins our platform, as you can see from our
+dollar-based net retention rate, they expand quite substantially with NetApp. They like the portfolio and
+they do a lot more with us. I think those 3 key sort of fundamentals of the business drives my confidence
+in being able to take up the bottom of the range to this early in the year.
+
+Michael J. Berry
+Executive VP & CFO
+
+And then on the gross margin question, so a great question. If you remember back in September, Amit,
+we talked about, hey, there's really 4 things that we think will drive increased gross margins in the Public
+Cloud business. And it was revenue scale, and we've certainly exceeded our expectations there; increased
+hardware utilization. The team is doing a wonderful job making sure as we deploy that hardware that we
+drive utilization. Remember as well, ONTAP drives everything here at NetApp on-prem as well as in the
+cloud, and we continue to see great improvements there. And the one that I think is underappreciated is
+more software.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+Keep in mind that of the 4 major products in that portfolio, Cloud Volumes Services, Cloud Volumes
+ONTAP, Cloud Insights and Spot, only Services is "hardware-dependent". The other 3 are all software
+cloud offerings, and they've grown all very nicely, which has helped us get to where we are from a margin
+perspective. So thanks for that.
+
+And then, hey, Jason, just so I can sleep at night. So I gave you 138%. It was 135%. Still a very good
+number on the organic revenue growth if you exclude all acquisitions. So thank you for that question.
+
+Operator
+
+Our next question comes from the line of Rod Hall with Goldman Sachs.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+I guess I want to come back to these product gross margins and just try to check. I mean, you beat your
+guide substantially, beat our expectations substantially. Yes, for total gross margin, I should say, but also
+product is over 2 points better than what we anticipated. I wonder if you could talk a little bit about what
+the surprise was there. I mean what was different and what maybe what you were thinking last quarter?
+And then I've got a follow-up on that.
+
+Michael J. Berry
+Executive VP & CFO
+
+Sure, Rod. It's Mike. So I think there are 2 things that really drove that outperformance. And the first one
+was the large majority, which was the growth in all flash. And that going from, I believe, it was 11% year-
+over-year growth last year to 23%, as you know, that comes with much better margins, more software-
+rich. Mix matters as well in that business, as we've talked about in the past.
+
+The other thing that helps the percentage as well is, hey, as you know, we deprioritized things like HCI
+last year. Those come in at lower margin percentages. So you add those 2 together, and that's really what
+drove the higher gross -- product gross margin number.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+Okay. That's great, Mike. That's helpful. I wanted to also ask about cash flow seasonality. I know you --
+I think I heard you call out that next quarter should be a low point for cash flow. And that -- and then
+you've given this full year guide on cash flow. I'm just curious, like what is pushing all that cash flow to
+the back end of the year? Is it -- I mean I see quite a bit of compensation accrual, but I'm just curious
+kind of why the flow of cash looks the way that it does this particular year.
+
+Michael J. Berry
+Executive VP & CFO
+
+Sure. So I love cash flow questions. Happy to answer those any time. So in Q1, if you look at the balance
+sheet, you see the accrued expenses were down significantly, and that's when a lot of variable pay gets
+paid in Q1. In Q2, cash flow is largely going to follow billings growth from an aggregate perspective. Q1,
+from a total dollars perspective, is our lowest billings, that then flows into lower collections in Q2 as well.
+That's -- the other big mover there is cash taxes. And I highlighted that. Keep in mind, we'll pay about
+$40 million in state and federal taxes on the Sunnyvale campus. Then in the second half, as we build
+billings, that's when collections go up. Everything else is largely relatively similar. The big movers are
+seasonality of collections, variable pay, timing and then cash taxes.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+Great. Okay. And like you said, the big thing on the year-to-year is just the sale of the headquarters last
+year, which positively impacted cash flow quite a bit, right?
+
+Michael J. Berry
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+Executive VP & CFO
+
+So that -- yes, and keep in mind that it helped cash balances that didn't go into operating cash flow,
+though. So this was the billings on it. Right.
+
+Operator
+
+Our next question comes from the line of Matt Cabral with Crédit Suisse.
+
+Matthew Normand Cabral
+Crédit Suisse AG, Research Division
+
+Yes. It sounds like the demand environment continues to pick up. Curious what you're seeing from a
+competitive standpoint. As that demand has improved, whether it's discounting your pricing and just what
+you're seeing in terms of the broader environment at this point?
+
+George Kurian
+CEO & Director
+
+I think we see, as I said in my prepared remarks, solid steady demand across all the geos. I think all
+of our geographies have executed extremely well to capture that demand. I feel very good about the
+differentiation in our offerings, both on-premises as well as in public cloud. That gives us a chance to drive
+value conversations with customers.
+
+Our public cloud services clearly help our on-premises hybrid cloud business because customers see us as
+the only storage vendor with a cloud-ready operating system and a path for them to get to public cloud.
+And the combination of those 2 is allowing us to bring on new customers and to be able to maintain a
+differentiated value proposition in the market. So very good execution by the team against steady, solid
+demand across all geographies.
+
+Operator
+
+Our next question comes from the line of Samik Chatterjee with JPMorgan.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+I just had one on operating margins. You're guiding to 23% to 24% for the full year. That's about a 300
+basis point expansion. But if you start to like look beyond this fiscal year, how should we think about
+headroom on margins? I know you referred to OpEx leverage a couple of times in your prepared remarks,
+but just trying to think about kind of the magnitude of margin expansion beyond this fiscal year and the
+drivers between like gross margin and OpEx leverage. How should we think about the balance of that?
+
+George Kurian
+CEO & Director
+
+Listen, I think overall, as we've said, we continue to be a disciplined management team in the way we
+run the business. You should expect, as you see in the numbers this year, that we should grow top line
+ahead of expenses, and that should create leverage in the model. I think as Mike outlined, we wanted to
+get to 55 points of product gross margins in the Hybrid Cloud business. We have achieved that, and we
+want to maintain that for the rest of this year. And then in terms of public cloud, we said that we wanted
+to get it to be accretive to the margin structure of the core business, which it is -- and we want -- we have
+expectations to continue to improve that over time towards a more SaaS-like gross margin model. Both
+of those elements, top line as well as gross margin, should allow us to be kind of create leverage in the
+operating margin model of the company. Mike, do you want to add anything?
+
+Michael J. Berry
+Executive VP & CFO
+
+No. Well put. Those are the puts and takes.
+
+Operator
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+Our next question comes from the line of Karl Ackerman with Cowen.
+
+Karl Ackerman
+Cowen and Company, LLC, Research Division
+
+Your all-flash array portfolio grew 23% off a difficult compare and that only gets better in the second half
+from a comparison standpoint. So it seems that, that's driving the bulk of your upwardly revised fiscal '22
+outlook for hardware. But I'd love to hear what you are seeing from hybrid arrays across both commercial
+and even SMB environments because component providers would also suggest that area is also doing well,
+too.
+
+George Kurian
+CEO & Director
+
+I think hybrid arrays, as we have consistently said, have a place in customer environments. There are
+a set of use cases. We have consistently maintained that a hybrid array has a better solution to offer
+than an all-flash arrays. And so we continue to see an opportunity for hybrid arrays to have a go-forward
+enduring place in customers' environments. Our hybrid array business is a strong business. We have a
+differentiated value proposition in hybrid, just like we do in all-flash.
+
+Operator
+
+Our next question comes from the line of Steven Fox with Fox Advisors.
+
+Steven Bryant Fox
+Fox Advisors LLC
+
+George, you threw a lot at us on the public cloud side in your prepared remarks about the types of
+services you have today and where they're going. If we sort of step back, and you mentioned with how the
+near-term trends are going, but if we step back and thought about the 2- to 3-year plan around what will
+be the dominant services then versus now and what maybe isn't in the revenue base today, can you just
+sort of put all of that in perspective for us, how it drives towards that $1 billion ARR target?
+
+George Kurian
+CEO & Director
+
+Yes. I think we are in the early innings of enterprise use of cloud for big mission-critical, business-
+critical applications. I think we see that over the next few years, as businesses deploy more of their core
+operations on public clouds, the opportunities we have around compute, automation and management
+through Spot, storage and data protection and management through cloud volumes and monitoring
+through Cloud Insights will be a very, very strong business. And all of the hyperscaler partners that we
+work with see it much the same way, which is why they're building more and more capabilities with us.
+
+We also see a new growth engine in the Public Cloud segment with all of the cloud native work we are
+doing around containers and serverless. So Spot Ocean, we mentioned, is the same value proposition that
+Spot brings for enterprise applications to containerized applications that has seen very strong adoption.
+We've worked with some of the hyperscalers around Astra Control, and we are starting to see that get to
+ramp, especially with new cloud-native Kubernetes applications. And then we have started work on Cloud
+Insights for Kubernetes to bring monitoring and management. So I feel very good about the portfolio.
+There's a lot of organic innovation, and Spot has proven to be a really stellar acquisition for the company.
+
+Operator
+
+Our next question comes from the line of Nik Todorov with Longbow Research.
+
+Nikolay Todorov
+Longbow Research LLC
+
+Congrats on great results, guys. George, maybe can you give us more color on your on-prem share gains.
+Can you talk in which segments of the market you see the strongest momentum there? And also, if you
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+can comment on -- your direct sales grew faster than your indirect for a fifth quarter in a row. Is there any
+particular reason for that?
+
+George Kurian
+CEO & Director
+
+I think with regard to where we see strength, I mean, this was a really balanced quarter across all the
+geographies. You can look at our results in the Americas. You look at the results in Europe and in Asia
+Pacific, we grew in all the major geographies very, very nicely. So I feel very good about that. With regard
+to the direct versus indirect, I think it's a reflection of some of our largest customers who continue to buy
+direct being a strong contributor to some of our all-flash array growth, right? So I think that's the sort of
+the puts and takes. I wouldn't read anything into the specific quarter-on-quarter trends in the channel. I
+continue to see good opportunities to grow our business across both direct and indirect channels.
+
+Operator
+
+Our next question comes from the line of Shannon Cross with Cross Research.
+
+Shannon Siemsen Cross
+Cross Research LLC
+
+I just wanted to dig a little bit more into the longer-term impact from, obviously, the shift to cloud now
+that you're breaking it out. And I understand on the gross margin side, but I'm curious if there are SG&A
+and R&D differentials that in terms of how you would allocate or how we think about it from an OpEx
+perspective? And then the same on cash flow. I know it will be lumpy depending on the investments you
+need to support cloud. But longer term, how should we think about sort of the mix shift impacting the
+model?
+
+Michael J. Berry
+Executive VP & CFO
+
+Shannon, it's Mike. So a couple of things as it relates to OpEx. Keep in mind that the 2 largest operating
+expense line, sales and marketing and R&D, there's a lot of shared resources across there.
+
+Let's do R&D first. We've talked about it. We get a lot of efficiencies from the ONTAP group in terms of the
+work they do, both on-prem and in the cloud. We would expect to continue that where they're focused
+on both of those, and we got a lot of efficiencies there. Clearly, most of the growth in that line has been
+focused around cloud, and it probably still will be. That doesn't -- and that excludes any acquisitions. It
+could certainly play into that as well. And then from a sales and marketing perspective, we now have it
+where our core sales team is selling both. And so that will continue to be a focus. But we will also add
+like our customer success team that we've talked about, that's largely focused on the cloud business in
+terms of expansion and upsell and cross-sell to that team. So I think over time, you'll continue to see that
+investment there.
+
+From a cash flow perspective, I think that probably largely follows where operating income would. If
+you're down to free cash flow, you get a little bit of difference in terms of the hardware. But we've also
+talked about, hey, the next couple of years, we'll continue to see a good bit of hardware, especially
+as it relates to Azure; but over the next couple of years, that it will flatten out, it's much more of a
+anywhere heading in a certain location versus seeding it. Once you get to almost 100%, then it's more of
+a replacement motion. So those are the puts and takes around OpEx and cash flow, I think, for those 2
+segments.
+
+Operator
+
+Our next question comes from the line of Jim Suva with Citigroup.
+
+James Dickey Suva
+Citigroup Inc. Exchange Research
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+And the additional colors in detail was greatly appreciated. The upside for this quarter, was it due to
+mostly volumes or better pricing? And if the answer is both, can you kind of help us to say it was a little
+bit more of one versus the other?
+
+Michael J. Berry
+Executive VP & CFO
+
+So Jim, it's Mike. It was largely related to volumes. We haven't seen much of a change in external pricing
+for -- as we've talked about, competitive environment has always been competitive, but relatively similar.
+So it's largely going to move with volumes. We saw -- we didn't see much of a mix shift. We've talked
+about that in previous quarters. So it was all relatively consistent, mostly driven by volumes.
+
+James Dickey Suva
+Citigroup Inc. Exchange Research
+
+Congratulations, and we appreciate the details.
+
+Michael J. Berry
+Executive VP & CFO
+
+Thank you.
+
+Operator
+
+Our next question comes from the line of Lou Miscioscia with Daiwa.
+
+Louis Rocco Miscioscia
+Daiwa Securities Co. Ltd., Research Division
+
+George, when we look back to 2018, it was a very strong year. So when we get to 2022, and I'm referring
+to spending broadly on capital equipment for data centers. When we get to 2022, we'll be at the 4-year
+anniversary, not necessarily looking at guidance, and maybe it's obviously a little bit early to ask that
+question. But given the macro and the last cycle and that we had a couple of down years in '19 and '20,
+can you see that enterprise and commercial customers are hopefully coming strongly back to the market
+in 2022?
+
+George Kurian
+CEO & Director
+
+Listen, we have seen steady, consistent demand for our offerings and our capabilities for several quarters
+now. I want to just remind us that we had a strong year last year, particularly the second half of last year.
+And so we continue to see that the overall demand environment is brightening steadily. We have said from
+-- for many quarters, we saw the U.S. and China leading the recovery. Europe, a few months, 6 to 12
+months behind that. And then the developing economy, maybe another 6 to 12 months behind that. We
+continue to hold that perspective with the benefit of several quarters of experience. And so I feel very,
+very good. I think that we have customers who are seeing a better economic environment starting to build
+confidence in spending in technology. I think within that segment, hybrid cloud, digital transformation
+initiatives are well positioned, and NetApp is well positioned to go after that.
+
+Louis Rocco Miscioscia
+Daiwa Securities Co. Ltd., Research Division
+
+Okay. Good. That's helpful. Any comment on component availability and pricing? Obviously, your margin
+structure has improved, so congratulations on that. But what should we think about for the next 6 months
+there?
+
+George Kurian
+CEO & Director
+
+Listen, I think as Mike and I said in the prepared remarks, the component supply chain is a dynamic and
+fluid supply chain. It is well understood in the industry. Our team has done an excellent job managing
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+through that. We have good, deep relationships with suppliers and long-term commitments with many of
+them. I think as Mike and I have suggested, we will continue to use cash to buy ahead of what we need
+so that we can maintain supply availability. We think that's a good use of cash in the current environment.
+And I think that having a single operating system that drives the vast majority of our business allows
+us to qualify and adapt to the environment that we're in. So I want to thank our supply chain team for
+continued execution and our engineering team and our partners for working with us and our -- I think our
+sales teams have done a really good job managing through the environment to capture the value that we
+should for our products.
+
+Louis Rocco Miscioscia
+Daiwa Securities Co. Ltd., Research Division
+
+Okay. Good luck on the rest of the year.
+
+George Kurian
+CEO & Director
+
+Thank you.
+
+Operator
+
+Our next question comes from the line of Wamsi Mohan with Bank of America.
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+George, on the AFA side, can you give us an update on where you stand with respect to penetration of the
+installed base? And are you seeing any changes on the competitive side? And I have one clarification for
+Mike, too.
+
+George Kurian
+CEO & Director
+
+It's 29%. So it's up another percent. As we have said consistently, our installed base continues to grow as
+we acquire new customers and new workloads, and flash is penetrating that installed base an incremental
+1% to 2% at a time, right? So a long runway ahead on that installed base.
+
+With regard to the competitive environment, again, we don't see any sort of substantive changes. I think
+we have a really good offering in the market. I think we believe we have taken share in the environment.
+And we're going to continue to stay focused on winning not only traditional workloads, but also new types
+of workloads like deep learning, machine learning, data lakes and others with our all-flash portfolios.
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+Okay. And Mike, just a clarification on these product gross margins. I heard your commentary on sort of
+better software mix, also discipline in the field. But was there any contribution from either new ELAs or
+renewal of prior ELAs that had any impact on margins in the quarter?
+
+Michael J. Berry
+Executive VP & CFO
+
+Yes. So thanks for the question, Wamsi. So as we've talked about, look, it's such a small piece of the
+business, we're not going to talk about ELAs. Here's what I would point you to, and I've said it every
+quarter. If you look at the financial results, specifically the amount of software and hardware revenue, you
+can see that in Q1 software increase but so did hardware. They've basically moved in lockstep the last 4
+quarters. And if anything, if there's any large transactions that are different than our current mix, you will
+see it in the numbers.
+
+Operator
+
+Our next question comes from the line of Simon Leopold with Raymond James.
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc., Research Division
+
+I wanted to see if you could talk a little bit about your methodology for forecasting the business of your
+public cloud compared to your hybrid cloud. They're different animals, they're different maturity. And I just
+want to understand how you're doing it. And if you have some advice for the analyst community of what
+we can do to better enable our ability to forecast your public cloud trends.
+
+Michael J. Berry
+Executive VP & CFO
+
+Yes. So Simon, it's Mike. So I'll take that one. When we look at the Public Cloud business, certainly, it
+is much -- it is similar to some of the hybrid cloud dynamics. I'll talk about that in a second. There are
+certainly new transactions that we forecast not only coming in from the hyperscalers, but from our sales
+team as well, we get pipeline reports, we see what that looks like. So we're able to forecast that. More and
+more, it's also renewal rates, being able to forecast renewals. And then really the big driver of all cloud
+software business is upsell, cross-sell. That's obviously difficult for you folks to see those details, but we
+look at all of those. Certainly, sales capacity is part of that.
+
+On the Hybrid Cloud business, keep in mind, I think it's now $2.3 billion of support revenue every year.
+So that's much more of a renewal rate. We do look at cross-sell, upsell, and we also look at where we are
+in terms of pipelines and conversion rates. And a big piece for us is obviously do we have enough sales
+capacity.
+
+So I know we get a lot of questions about, hey, NetApp should go quarter-on-quarter sequentially. I
+would just encourage you when you look at that sequential, keep in mind, hey, the last couple of years
+have been very different than the last 10. And it makes it -- I understand it makes it a little bit difficult.
+But hopefully, when we get through this COVID environment and it gets back to normal, those are more
+relevant. I think now it's very difficult to use those sequential growth to try to forecast the business.
+
+Operator
+
+Our next question comes from the line of Sidney Ho with Deutsche Bank.
+
+Shek Ming Ho
+Deutsche Bank AG, Research Division
+
+Just a quick follow-up on the Public Cloud business. Obviously, you raised your target exit rate for this
+year. Gross margin is already above the corporate average. It sounds like it's going to go higher given the
+software mix. I know you haven't talked too much about operating margins. But should we think about
+this revenue stream will eventually get to above corporate average levels? Is there a certain revenue
+target we should be thinking about when that happens? Or is there a time element? Maybe what are some
+of the things that we should consider when we think about this business grows?
+
+Michael J. Berry
+Executive VP & CFO
+
+So Sidney, it's Mike, just to make sure I get the question -- you're talking about operating profits for the
+Public Cloud segment. That's your question?
+
+Shek Ming Ho
+Deutsche Bank AG, Research Division
+
+Correct. Correct.
+
+Michael J. Berry
+Executive VP & CFO
+
+Okay. Yes. I think the best way that I would encourage you to look at that is here's the great thing about
+the cloud businesses. There's a lot of good comps out there that we look at all the time. And as we look
+at businesses that are, call it, $250 million in ARR, as they grow to $1 billion, there -- you see not only a
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+slight uptick in gross margin, but then obviously, you see the dynamics of operating income. So I would
+encourage you to take a look at some of those compares. We look at that a lot in terms of benchmarking
+our business largely what ends up happening as they turn cash flow positive before they turn operating
+income because of, again, the way they recognize revenue ratable. So I would encourage you to take
+a look at those. And there's really no reason to believe, as we said today, that we wouldn't follow that
+comparable group as we march to $1 billion in ARR.
+
+Operator
+
+Our next question comes from the line of Ananda Baruah with Loop Capital.
+
+Ananda Prosad Baruah
+Loop Capital Markets LLC, Research Division
+
+Really appreciate you taking the question. I'd love to get your thoughts on as you see sort of more
+workload shift to the cloud, to what extent, if any, are you guys also seeing a hardware benefit,
+particularly -- and sort of like an on-prem hardware benefit, as folks positioned to move workloads to the
+cloud, particularly given your software positioning.
+
+George Kurian
+CEO & Director
+
+I think with regard to the work that we're doing in public cloud, as Mike has mentioned and I've said
+before, the vast majority of our solutions are software-based, and we scale that software out using
+clustering so that it can go faster by going wider to serve more computing demand.
+
+With regard to certain traditional applications that are more sort of scale-up applications, like an SAP
+HANA or something like that, that requires a scale-up platform to support it, that's where we use
+hardware. And I think the software that we have can be run on generic hardware for the broad range of
+use cases, or on proprietary, our own hardware, for the narrow really specific application use cases.
+
+Operator
+
+Our final question comes from the line of Nehal Chokshi with Northland Capital Markets.
+
+Nehal Sushil Chokshi
+Northland Capital Markets, Research Division
+
+And congrats on the strong results, and nice to see the increasing rate of capital return to shareholders
+as well. My question here is that it sounds like the acceleration in all-flash array as well as behind the
+acceleration of software product revenue 33% year-over-year growth. So is that correct? And then what
+do you see as a sustainable growth rate in product software?
+
+Michael J. Berry
+Executive VP & CFO
+
+Yes. So 33% increase in the software portion of product revenue, it's driven, per the earlier question,
+really by 2 things. One is the really nice growth in all flash, but also less growth in HCI and some of the
+products that have less software and more hardware. And I would expect if going forward, if we're talking
+about growth in product revenue, given the continued mix shift towards all-flash, you should expect to see
+software -- the software portion grow faster than the total product portion.
+
+Nehal Sushil Chokshi
+Northland Capital Markets, Research Division
+
+Okay. Would a 20-plus percent growth in product software be viable?
+
+Michael J. Berry
+Executive VP & CFO
+
+So we're not going to guide to that other than to say it should grow faster than the total product number.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+Kris Newton
+VP of Corporate Communications & Investor Relations
+
+Thank you, Nehal. I'm going to pass it back to George for some closing remarks.
+
+George Kurian
+CEO & Director
+
+Thanks, Kris. In closing, we delivered a great start to FY '22 and are very well positioned for continued
+growth throughout the year. Cloud and digital transformation initiatives remain top customer priorities,
+and we continue to benefit from these sizable long-term trends. Our Hybrid Cloud and Public Cloud
+offerings put NetApp in a unique position to address our customers' most pressing challenges. Our cloud
+and software intellectual property truly differentiates us. As a result, I am more confident than ever in our
+ability to deliver long-term value to our shareholders, customers and partners. Thanks for joining us.
+
+Michael J. Berry
+Executive VP & CFO
+
+Thank you.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation. You may
+now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+NETAPP, INC. FQ1 2022 EARNINGS CALL |  AUG 25, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+

@@ -1,0 +1,1436 @@
+Arista Networks, Inc. NYSE:ANET
+FQ4 2020 Earnings Call Transcripts
+Thursday, February 18, 2021 9:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2020-
+
+-FQ1 2021-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+2.39
+
+2.49
+
+4.18
+
+2.26
+
+8.94
+
+9.04
+
+1.12
+
+9.92
+
+630.32
+
+648.48
+
+2.88
+
+608.12
+
+2299.08
+
+2317.51
+
+0.80
+
+2627.12
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Feb-16-2021 5:04 AM GMT
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+1.81
+
+1.95
+
+2.22
+
+2.39
+
+2.02
+
+2.11
+
+2.42
+
+2.49
+
+SURPRISE
+
+11.60 %
+
+8.21 %
+
+9.01 %
+
+4.18 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+Presentation
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Anshul Sadana
+Senior VP & COO
+
+Charles Yager
+Director of Product & Investor
+Advocacy
+
+Ita M. Brennan
+CFO , Senior VP & Principal
+Accounting Officer
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Kenneth Duda
+Co-Founder, CTO & Senior VP of
+Software Engineering
+
+ANALYSTS
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC,
+Research Division
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research
+Division
+
+Alexander Henderson
+Needham & Company, LLC,
+Research Division
+
+Amit Jawaharlaz Daryanani
+Evercore ISI Institutional Equities,
+Research Division
+
+Benjamin James Bollin
+Cleveland Research Company
+
+Fahad Najam
+MKM Partners LLC, Research
+Division
+
+James Dickey Suva
+Citigroup Inc. Exchange Research
+
+James Edward Fish
+Piper Sandler & Co., Research
+Division
+
+Jason Noah Ader
+William Blair & Company L.L.C.,
+Research Division
+
+Jeffrey Thomas Kvaal
+Wolfe Research, LLC
+
+Jonathan Doherty Lopez
+The Vertical Trading Group, LLC,
+Research Division
+
+Meta A. Marshall
+Morgan Stanley, Research Division
+
+Paul Jonas Silverstein
+Cowen and Company, LLC,
+Research Division
+
+Roderick B. Hall
+Goldman Sachs Group, Inc.,
+Research Division
+
+Ryan Boyer Koontz
+Rosenblatt Securities Inc.,
+Research Division
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research
+Division
+
+David Vogt
+UBS Investment Bank, Research
+Division
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc.,
+Research Division
+
+Simon Matthew Leopold
+CIMB Research
+
+Timothy Patrick Long
+Barclays Bank PLC, Research
+Division
+
+Unknown Analyst
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+Presentation
+
+Operator
+
+Welcome to the Fourth Quarter 2020 Arista Networks Financial Results Earnings Conference Call. [Operator
+Instructions] As a reminder, this conference is being recorded and will be available for replay from the
+Investor Relations section at the Arista website following this call.
+
+I will now turn the call over to Mr. Charles Yager, Director of Product and Investor Advocacy. Sir, you may
+begin.
+
+Charles Yager
+Director of Product & Investor Advocacy
+
+Thank you, operator. Good afternoon, everyone, and thank you for joining us. With me on today's call
+are Jayshree Ullal, Arista Networks' President and Chief Executive Officer; and Ita Brennan, Arista's Chief
+Financial Officer. This afternoon, Arista Networks issued a press release announcing the results for its fiscal
+fourth quarter ending December 31, 2020. If you'd like a copy of the release, you can access it online at
+our website.
+
+During the course of this conference call, Arista Networks management will make forward-looking
+statements, including those relating to our financial outlook for the first quarter of the 2021 fiscal year,
+longer-term financial outlooks, our total addressable market and strategy for addressing these market
+opportunities, the potential impact of COVID-19 on our business, our product innovation and the benefits
+of recent acquisitions, which are subject to the risks and uncertainties that we discuss in detail in our
+documents filed with the SEC, specifically in our most recent Form 10-Q and Form 10-K, and which could
+cause actual results to differ materially from those anticipated by these statements. These forward-looking
+statements apply as of today, and you should not rely on them as representing our views in the future. We
+undertake no obligation to update these statements after this call.
+
+Also, please note that certain financial measures we use on this call are expressed on a non-GAAP basis
+and have been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP
+financial measures to GAAP financial measures in our earnings press release.
+
+With that, I will turn the call over to Jayshree.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Thank you, Charles. Thank you, everyone, for joining us this afternoon for our fourth quarter 2020
+earnings call. If there's one thing the pandemic has taught us, it's the importance of adapting in real
+time. In 2020, our world changed quickly and rapidly. As a cohesive leadership team, we had to prepare
+for a lot of unknowns and uncertainties where our offices were closed, our contract manufacturers were
+shutting down and supply chain constraints resulted in longer lead times. 2020 created new norms as we
+found many virtual ways of communicating with our customers, including access to our products for their
+business continuity. With vaccines emerging, we certainly hope that all of you and your families are safe
+and healthy during these unprecedented times. I am so proud of our employees and how we've handled
+this and thank our partners and customers as well for placing their trust in us.
+
+Back to some Q4 2020 specifics. We delivered revenues of $648.5 million for the quarter, with a non-
+GAAP earnings per share of $2.49. A-Care services and software and support renewals contributed
+approximately 20% of our revenue.
+
+Our non-GAAP gross margins at 65% was influenced by software and services mix and a higher enterprise
+contribution for the quarter and the year.
+
+We've registered a record number of new customer logos and million dollar customers, a direct result
+of our momentum in the enterprise vertical and campus this quarter. We now have surpassed 7,200
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+cumulative customers over the past decade. In Q4 2020, Cloud Titans was our largest vertical. Enterprise
+was second, followed by financials in third place, and the providers, both service provider and cloud
+specialty providers tied for fourth place. In terms of sector trends, we see Cloud Titans at approximately
+36%; enterprises, including financials at approximately 36%; and providers at approximately 28%,
+consistent with effective ranges we have provided. Microsoft was the only greater than 10% customer
+concentration at 21.5% for the year 2020. In terms of geographical mix, international contribution was
+slightly higher at 26%; with the Americas at 74% for Q4 2020.
+
+Despite a turbulent 2020, especially with Cloud Titans, we believe Arista is going to emerge stronger
+with more diversified products and customers. We reiterate our multiyear growth part based on 3 major
+product line evolutions: one, our core cloud and data center products built on a highly differentiated Arista
+EOS, leaf/spine architecture, and our cloud-first principle based on the 5 As. We expect this to contribute
+approximately 60% to 65% range in the future.
+
+Our second market is the network adjacencies, with routing replacing routers and our entry into the
+cognitive campus workspaces. We expect these 2 adjacencies together to contribute approximately in the
+range of 10% to 15%, as a compelling alternative to incumbent legacy networks.
+
+Our third category is network software and services based on subscription models, such as Arista A-Care,
+CloudVision, multi-cloud EOS router, Big Switch DANZ monitoring fabric, or DMS, and advanced network
+detection and response with the recent Awake Security acquisition. We predict that these subscription-
+based network services and software will contribute approximately in the 25% range. Please note that
+perpetual software licenses are not included here and are generally counted in our core or adjacent
+product lines.
+
+As we look ahead, analyst research has shown that customers believe that COVID-19 has actually
+increased the value and relevance of the network in the post-pandemic era. And in our opinion, we
+concur. The networking industry is undergoing a metamorphosis from point silos or places in the network
+to a seamless cognitive cloud network that is data-driven. Arista's helping customers with their digital
+transformation to this data-centric cloud-first paradigm. As we experience the explosion of users, devices,
+IoT, OT, more video, more mobility of workloads and workflows, the boundary between all the locations,
+whether it's your office, cloud, home, teleworker and transit and user is really blurring into elastic
+workspaces.
+
+We believe Arista is well positioned to address the data-driven networks for this client-to-cloud
+workspaces. We are powering some of the world's largest data centers and cloud providers as a trusted
+partner. And this expertise that we have gained has helped us modernize networking to a software-driven
+cognitive experience. A good example of this is Arista's Q4 2020 introduction of DMF, or DANZ monitoring
+fabric for contextual observability based on our Big Switch acquisition that we did earlier in 2020. Our Zero
+Trust Vision that we launched this month also cements the relevance of a differentiated network protection
+and security. Our holistic Zero Trust network requires the union of network segmentation, situational
+awareness and visibility and network detection and response security. A key part of our strategy is to bring
+these cloud-first principles to every aspect of our cloud network. So we bring it to routing, observability
+and security functions, and it must be inherently designed as a part of the Arista state and AI-driven
+network architecture and foundation.
+
+So with this, I'd like to invite Ken Duda, our Founder and Chief Technology Officer and Senior Vice
+President of Software Engineering, to share some of our latest innovations on security. Ken?
+
+Kenneth Duda
+Co-Founder, CTO & Senior VP of Software Engineering
+
+Thanks, Jayshree. A Zero Trust framework for security is top of mind at Arista. For so many years,
+networking vendors have focused, first and foremost, on providing connectivity that is making sure
+everything can talk to everything else. This was fine in the 1980s, but it makes no sense today where
+security is a greater concern than ever for many of our customers, more important than connectivity itself.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+Arista is addressing the needs of security-conscious operators by integrating security directly into our
+network devices so that the network is secure from day 1 without bolt-on security products. You've
+already heard about the Awake acquisition and progress in AI-driven network detection and response.
+
+I'd like to go a little deeper on this call into another innovative Arista security feature called Macro
+Segmentation Service Groups, or MSSG. With MSSG, the operator assigns endpoints to segments. Based
+on the type of device that's connecting, the user of that device and/or the applications they are using.
+The operator then specifies a segmentation policy. Specifying which pairs of segments are permitted
+to communicate. For example, the policy might permit corporate engineering laptops to connect to
+manufacturing applications, but not to the finance applications and not even to one another. MSSG
+enforces that policy uniformly, whether wired or wireless, whether on the campus or in the data center,
+on-premises or working remotely. The operator can change the policy, including reassigning an endpoint
+to a different segment without requiring any other changes to the network. In particular, the policy is
+completely independent of network address assignment, which can be quite important.
+
+For example, if the user device behaves suspiciously, it can be reassigned to an untrusted segment
+without triggering any network change events on the device so that the compromised device can be
+quarantined and investigated without tipping off the adversary that they have been detected.
+
+Arista's MSSG works with 100% standards-based packets without adding any proprietary headers,
+trailers, encapsulations, et cetera, and is thus, easy to deploy incrementally into existing networks. Finally,
+enforcement is implemented entirely in hardware for high performance without relying on expensive
+switch TCAMs for classification, which has led to scale problems in competing solutions. Our view is that
+MSSG is an example of a larger trend in networking, where Moore's Law is enabling a larger and larger
+feature set to be integrated into mainstream switching and routing devices. This integration is essential
+to move beyond security as an afterthought and provide solutions that are secure off the shelf. And I'm
+delighted in the role Arista is able to play in helping customers address the challenges of building and
+operating a modern network, not just from a performance and scale perspective, but including so many
+other aspects such as visibility, manageability, monitoring, provisioning, process automation and, of course
+security.
+
+Thanks. Back to you, Jayshree.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Thank you, Ken. Clearly, customers are fatigued with the proprietary and silo networking you just
+mentioned. And just as we all modernize the cloud network, security must turn from a noun to an
+adjective to build secure networks. Ken, your world-class engineering team has mastered the art of quality
+and software architecture with best-in-class agility and programmability, credit to you for founding and
+building this innovation and greatness in Arista, and I can't wait to see more of it.
+
+In addition to our campus workspaces progress that I spoke about last time, next-generation routing is
+another key adjacent market. Our investments in simplification of Arista's routing stack has been going
+on for many years with standards-based EVPN, VXLAN, BGP and segment routing, and these are yielding
+good traction in cloud service provider and enterprise customer wins.
+
+To give you context on this, just in 2020 alone, we introduced 6 EOS software releases across 40
+platforms and delivered over 800 features in routing. The result of these investments we have made in
+our routing, innovation and footprint have brought us over 200 customers in 2020. In summary, Arista
+demonstrates a stark contrast to the current fatigue of silos and different operating systems for WAN,
+campus, cloud, data center, each one generating its own disparate data silos.
+
+We are building upon our cloud networking heritage to unify data sets consistently and harnessing and
+archiving data across one software stack EUS and one CloudVision. The networking industry is truly ripe
+for this transition and change to data-driven networking. Simply put, a good enough mediocre network
+is no longer good enough and acceptable. And this is why we believe that we're poised for multiyear
+inflection ahead.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+With that, I'd like to turn it over to Ita for the financial specifics. Ita?
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+Thanks, Jayshree, and good afternoon. This analysis of our Q4 and full year 2020 results and our guidance
+for Q1 2021 is based on non-GAAP and excludes all noncash stock-based compensation impacts, certain
+acquisition-related charges and other nonrecurring items. A full reconciliation of our selected GAAP to non-
+GAAP results is provided in our earnings release.
+
+Total revenues in Q4 were $648.5 million, up 17.4% year-over-year and well above the upper end of our
+guidance of $615 million to $635 million.
+
+While we continue to strive for improvements on the supply chain front, shipments remained somewhat
+constrained in the quarter, with some COVID second and third wave-related disruptions. Service and
+software support renewals represented approximately 20% of total revenue, down slightly from 21% last
+quarter. International revenues for the quarter came in at $165.7 million or 26% of total revenue, up from
+25% in the third quarter. While the shift in geographical mix on a quarter-over-quarter and year-over-year
+basis, is largely due to the location of deployments by our third -- by our Cloud Titan customers, we did
+see some incremental improvement in our in-region businesses this quarter.
+
+Overall gross margins in Q4 were a healthy 65%. At the upper end of our guidance of approximately 63%
+to 65%, reflecting a heavier mix of shipments to our enterprise and financials customers in the period.
+Operating expenses for the quarter were $178.1 million or 27.5% of revenue, up from last quarter at
+$159.4 million. We continue to increase operating expense investments during the quarter as our top line
+performance for the year continued to improve.
+
+R&D spending came in at $110.2 million or 17% of revenue, up from $106.1 million last quarter. This
+reflected increased employee costs, somewhat offset by lower new product introduction spending in the
+period.
+
+Sales and marketing expense was $54.9 million or 8.5% of revenue, up from $43.1 million last quarter,
+with increased variable compensation and other headcount-related charges. As a reminder, we continue to
+benefit from lower COVID-related travel and marketing expenses.
+
+Our G&A costs came in at $13 million or 2% of revenue, up from last quarter at approximately $10.2
+million, reflecting normal fourth quarter compliance-related activities.
+
+Our operating income for the quarter was $243.5 million or 37.6% of revenue. Other income and expense
+for the quarter was a favorable $1.4 million, and our effective tax rate was approximately 19.3%. Other
+income and expense included $2.5 million of interest income, offset by some unfavorable FX amounts.
+
+The favorable tax rate included the release of some tax reserves for which the statute of limitations
+expired in the period. This was a onetime effect, and the rate will likely return to our more structural rate
+of 21.9% in future periods.
+
+Overall, this resulted in net income for the quarter of $197.7 million or 30.5% of revenue. Our diluted
+share number was 79.3 million shares, resulting in a diluted earnings per share number for the quarter, of
+$2.49, up approximately 9% from the prior year.
+
+Now turning to the balance sheet. Cash, cash equivalents and investments ended the year at
+approximately $2.87 billion.
+
+To recap on our uses of cash for the year, we generated $735 million of cash from operations and returned
+approximately $395 million or 54% of this to shareholders in the form of share repurchases. In addition,
+we used approximately $227 million or 31% to fund cash consideration for 2 acquisitions, which closed
+during the year, retaining the balance of approximately $113 million in the business.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+To date, we have repurchased $661 million or 3.2 million shares against our Board authorization to
+repurchase $1 billion worth of shares over 3 years commencing in Q2 '19. We will continue to execute
+opportunistically against the remaining mandate.
+
+Turning to the operational cash performance for the fourth quarter. We generated $186.9 million of cash
+from operations in the period, reflecting solid net income performance and continued investments in
+working capital. DSOs came in at 55 days, up from 46 days in Q3, reflecting the linearity of billings in
+the period. Inventory turns were 1.8x, down from 2x last quarter. Inventory increased to $480 million
+in the quarter, up from $438 million in the prior period as we continue to buffer certain components and
+products.
+
+Our total deferred revenue balance was $651 million, up from $562 million in Q3. This increase largely
+reflected typical fourth quarter service renewal activity and a small amount of deferred product revenue
+related to new product deployments. The level of services deferred revenue is directly linked to the timing
+and term of service renewals, which can vary on a quarter-over-quarter basis.
+
+Accounts payable days were 54 days, down from 70 days in Q3, reflecting the timing of inventory receipts
+and payments. Capital expenditures for the quarter were $3.2 million.
+
+Now turning to our outlook for the first quarter and beyond. We saw good diversification of the business
+in fiscal 2020, with expected declines in Cloud Titan revenue, somewhat offset by growth in our other
+market sectors. Looking to 2021, we expect continued growth with our enterprise and provider customers,
+combined with the solid Cloud Titan contribution. From a product perspective, we expect strength in
+adjacencies and software and services continue to make these areas a more meaningful contributor to the
+business over time.
+
+We believe a combination of these trends, combined with favorable year-over-year comparatives allowed
+for a top line growth rate for the year, which is in line with annual consensus growth rates of 14% to 15%.
+You should also note that our second half 2020 top line recovery will likely result in some deceleration
+in quarterly year-over-year growth rates as we move through 2021. On the gross margin front, we will
+continue to reiterate our overall gross margin outlook of 63% to 65%, with customer mix remaining the
+key driver.
+
+Turning to spending and investments. We remain committed to making go-forward results-based
+investments in the business. This includes continued go-to-market expansion to support enterprise and
+campus growth and investments in R&D to support innovation across the business.
+
+Finally, our outlook discussion above and our guidance for Q1 reflects our current understanding of
+COVID-19 and its impact on our business and supply chain. This is, however, an inherently uncertain
+situation, and we will need to continue to monitor and attempt to mitigate new challenges as the situation
+unfolds.
+
+With all of this as a backdrop, our guidance for the first quarter, which is based on non-GAAP results and
+excludes any noncash stock-based compensation impacts and other nonrecurring items is as follows:
+revenues of approximately $630 million to $650 million, gross margin of 63% to 65%, operating margin
+of approximately 37%. Effective tax rate is expected to be approximately 21.9% with diluted shares of
+approximately 80 million shares.
+
+I will now turn the call back to Charles. Charles?
+
+Charles Yager
+Director of Product & Investor Advocacy
+Thank you, Ita. We are now going to move to the Q&A portion of the Arista earnings call. [Operator
+Instructions] Thank you for your understanding. Operator, take it away.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions]
+
+Your first question comes from Meta Marshall with Morgan Stanley.
+
+Meta A. Marshall
+Morgan Stanley, Research Division
+
+Great. Maybe just a comment around -- you just announced the kind of Macro Segmentation kind of
+security portfolio. Just as you're broadening out the campus portfolio, just other security features and
+functionalities that you think you will need or other partnerships that you think you'll need to expand upon
+to just kind of address that customer base that maybe the needs are different than the data center needs?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Thanks, Meta. As you know, we've had a very robust set of partnerships. So we will be working on
+securing the network. But protecting the network is only one aspect of the data center or campus. You
+have to make sure you work with different types of firewall vendors. You have to protect the cloud and the
+multi-cloud zones, you have to protect the devices and the identity. So Macro Segmentation has multiple
+fronts.
+
+We enforce a lot of roles to our partnerships with firewall vendors, in particular, Palo Alto networks as
+well as others. We enforce rules on the host with our partnership with VMware, especially. And then more
+recently, we've also done with our Macro Segmentation that Ken talked about, more and more identity
+mapping and enforcement with our partners like Forescout as well as Aruba, ClearPass and Okta. So the
+first thing I want to say is security is too important for just Arista to do. We'll be securing and protecting
+the network and working with these partners.
+
+Looking ahead, we see other forms of security, too. And I'd love for Ken or Anshul to comment because
+whether it is securing the networks and segmentation and the many forms we talked about, but also more
+and more in the data center encryption capabilities and privacy, whether it's network-wide or hop to pop,
+and in the campus, bringing security all the way down to our wireless. So Ken or Anshul, do you want to
+say something more about that?
+
+Anshul Sadana
+Senior VP & COO
+
+Sure, Jayshree. Helping our enterprise customers connect to the cloud is extremely important. And as you
+know, there's no one single way to connect your enterprise apps to these cloud apps. There are 1,000
+different ways, whether it's Express or Direct Connect, Different Hops, Meet Me In The Middle, different
+service providers, and we're quite focused on enabling more and more functionality there with different
+forms of tunneling, taking our baseline EVPN approach for enterprises and marrying it to what happens on
+the cloud side, different types of encryption channels and so on. Ken, anything you want to add?
+
+Kenneth Duda
+Co-Founder, CTO & Senior VP of Software Engineering
+
+Yes. I just wanted to add that we -- our segmentation is simply the newest announcement that we've
+made in this area, but we have a robust portfolio of security features already, including hardware
+support for MACsec and IPsec to secure individual links, including multistage ACLs for advanced packet
+classification and several other features, wireless intrusion prevention.
+
+So I think that customers are already able to build a fully secured network on [indiscernible] solutions.
+That said, we'll, of course, be looking to partner in the future with anyone who can help us build a more
+secure solution.
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+Operator
+
+Your next question comes from Ryan Koontz with Rosenblatt Securities.
+
+Ryan Boyer Koontz
+Rosenblatt Securities Inc., Research Division
+
+;
+
+I wanted to ask you about the semi supply chain. You talked about building inventory in the quarter on
+key parts. Can you give us a little more color on what's going on there? We do hear about production
+capacity issues, and obviously, lead times are starting to stretch out, you feel you give us some comfort
+-- you feel comfortable with your commitments from your suppliers and what you're seeing out there? I
+appreciate it.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Sure. Ryan, as we said, we have been constrained much of 2020, starting with March. So this has been
+a real issue for the entire supply chain. We have products with extremely large lead times that we plan
+ahead for and I would be remiss if I didn't say, while we have some great partners that the semiconductor
+supply chain is still constrained. Ita and her team as well as Anshul and the team have taken some very
+important steps to build out our inventory for some of these long lead time components, but we could use
+a lot more parts than we still have.
+
+Operator
+
+Your next question comes from Jason Ader with William Blair.
+
+Jason Noah Ader
+William Blair & Company L.L.C., Research Division
+
+Jayshree, can you talk about what's driving your momentum in the enterprise? Would you say it's
+more of the product portfolio that's expanded? Or is it just the build-out of your sales and distribution
+infrastructure? Or maybe it's both?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. I think the simple answer, Jason, is it is both. We've been making multiyear investments on both
+the product side, first of all, both in the data center but also going beyond the data center to different
+roles and use cases. And Anshul and Chris Schmidt and Ashwin and the team have been building out our
+capacity, both in the U.S. and internationally. But I would say the third thing that's also clicking is our
+best-of-breed product capability. It's one thing to invest in it, but customers are really resonating with a
+single OS CloudVision being a huge differentiator, we just crossed over 1,000 CloudVision customers since
+we started shipping this product a few years ago. So I think the ability to not just build a great network,
+but to operate it, and for them to experience that quality of experience has made it much more complete.
+So I would say, great products, great go-to-market and then a high-quality operation and experience.
+
+Operator
+
+Your next question comes from Rod Hall with Goldman Sachs.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+Yes. Thanks for the question. I just wanted to ask about the vertical with regards to providers, you guys
+beat that pretty solidly against our expectations. So maybe a little bit more color there. And then cloud
+was a little bit weak. And I'm just curious if you guys are still thinking you can grow cloud this year and
+is it a single-digit growth rate, et cetera? Maybe you don't want to talk about that. But just curious what
+your thoughts are on cloud growth this year.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Right, Rod. Well, as you know, cloud has been tough for us and pretty volatile. The visibility on Cloud Titan
+was very difficult last year. On the other hand, as we've been telling you, we're starting to make good
+penetration in both Tier 2, Tier 3 service providers as well as our Tier 2 cloud providers. So that has come
+up nicely to make up for some of the volatility in our Titans.
+
+In terms of your question, one of the things we felt in Q4, we did achieve was we were firing on all 5
+verticals and on all 3 sectors. But because we had so much volatility in Titans, overall in the year, we were
+down. And Anshul, you may want to add to that is that, in our view, there is no reflection on the strength
+and an intimacy of our preferred partnership with our Cloud Titans. But we did have some delays in their
+qualification of 400-gig and in spite of all the new products we had, decisions took longer to happen.
+
+Anshul, do you want to comment on that?
+
+Anshul Sadana
+Senior VP & COO
+
+Sure. Jason (sic) [ Roderick ], our work with the Cloud Titans collaboration, co-development partnership is
+coming along fairly well, both for 400-gig as well as 200-gig, we believe we will start to see these ramping
+second half of the year. And we believe we will do well with the cloud. The Cloud Titan numbers for us are
+already large. So obviously, you'll never have seen growth rates, but we believe our business will remain
+solid with them.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+I was going to say on providers. I don't know if you had any comment on that, but.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Providers are doing well for us. They tend to be seasonal. It depends on when a provider is investing. So
+I think our specialty providers, some of them are coming back very strong, and they had investments the
+prior year. And some of them are also recognizing that they need to be a specialty cloud, just as the name
+suggests. And not rely on the public cloud. So it's effect we are feeling more optimistic about.
+
+Operator
+
+Your next question comes from Amit Daryanani with Evercore.
+
+Amit Jawaharlaz Daryanani
+Evercore ISI Institutional Equities, Research Division
+
+First of all, congrats on a really good quarter given all the craziness the year has had. I guess my question
+really is, as I think about the calendar '21 guide, March, I think, will be up 22%, 23% year-over-year. And
+I think the full year guide implied to be on 14%. Beyond the compares, could you just maybe talk about
+why do you think growth will decelerate as we go through the year, especially given the comments, I think
+Anshul made about 400-gig ramping up in the back half?
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+Yes. Amit, I think it's really all about kind of if you look at the trend from last year, I mean, it was really
+a year of 2 halves, right? You had some very constrained lower numbers in the first half. And then,
+obviously, we started to recover and exit the year with a very respectable revenue top line number. So
+a lot of it has to do with the comps. I think you have to think about it more this year, just in terms of
+progress as we move through the year than necessarily trying to target a particular year-over-year growth
+rate just because of how the volatility that we saw in 2020.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+Jayshree V. Ullal
+President, CEO & Director
+
+And Amit, just to add to that, yes, we are confident of our position with Cloud Titans. But as you know,
+our near-term visibility is always better than our long term. So we'll know better as we go quarter-by-
+quarter. And I'm looking forward, Anshul, to you raising the forecast.
+
+Anshul Sadana
+Senior VP & COO
+
+Amit, don't ask those questions again.
+
+Operator
+
+Your next question comes from Jeff Kvaal with Wolfe Research.
+
+Jeffrey Thomas Kvaal
+Wolfe Research, LLC
+
+Yes. I guess, first, perhaps for Jayshree or Anshul. Could you help us understand where you stand in
+the value proposition with WiFi and SD-WAN? And I bring that up because a lot of your peers in the
+market will make much of what they are up to in both of those particular categories. And then, I guess,
+secondarily, either for you, could you perhaps frame for us a bit about the magnitude of the revenue left
+on the table in the fourth quarter? And to what extent that's a factor in your first quarter guidance as
+well?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Okay, Jeff, we'll try to address your 2-part question, we'll do our best. So specific to WiFi, we view this
+as a very important component of our overall cognitive workspaces portfolio, but we are not competing
+directly with Cisco or Aruba or anybody else on the controller-based traditional WiFi architecture. So our
+approach to WiFi has been very much like our approach to optics. We're not an optical vendor, but we
+view WiFi and optics as an accessory to provide that cognitive inference, AI-driven architecture so that
+you can seamlessly connect across wired and WiFi. So CloudVision supports wired and WiFi. We have a
+unified edge that supports wired and WiFi. Our WiFi will lead to migration as customers may need into LTE
+or 4G or 5G. So to us, WiFi is almost a technology and a feature, not a market segment, but it's critical
+to bringing our wired, wireless, unified leaf/spine architecture that we extended from the data center into
+the campus. So I think our competitors are looking at it more traditionally, and we're looking at modern
+workspaces.
+
+As for SD-WAN, we've been very clear that we are not in that market space. We look at some of the SD-
+WAN attributes as features and an extension of our WAN routing. So -- but other than that, we're not in
+that low end market where we're supplying branch offices to SMBs like VeloCloud or Meraki might.
+
+Operator
+
+Your next question comes from Sami Badri with Crédit Suisse.
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research Division
+
+My question has more to do with quantification of the campus switching or enterprise opportunity. Would
+you be able to give us kind of a quantified number or revenue run rate that you guys came in at as of 4Q
+2020? And Jayshree, I think before, you have guided us to where you want to be at some point from a run
+rate basis. Has that time line accelerated? Or has it contracted?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+Sami, I think we told you we wanted to achieve at least $100 million in 2020, and we certainly achieved
+that. In fact, we exceeded it. And our goal is to double that in this year, and we'll give you more
+quantification as the year progresses. So we're on track. We're executing well. I won't say it's changed
+dramatically. Obviously, COVID has slowed down some of the large campus decision-making, but I think
+it's going to get better.
+
+Operator
+
+Your next question comes from Paul Silverstein with Cowen.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Just a clarification question. The clarification, Ita, I take it is basic math that Facebook for the full year was
+less than $230 million, maybe meaningfully less, but it certainly wasn't more. If I did the math correctly,
+that would be down over 40%. I'm just wondering, hoping you could confirm that, if not tell us what it
+was.
+
+And then the question would be for Jayshree and the rest of the team. Jayshree, when you talk about your
+entrée into these various ancillary markets, whether fabric monitoring, automation, et cetera. I think you
+gave us the breakdown, which I appreciate, in terms of the contribution of revenue. But any thoughts on
+what type of growth? I suspect some news like fabric monitoring are coming off essentially for ground
+zero.
+
+You touched to the Big Switch acquisition, albeit I think you had a presence would monitoring for a while
+now. But any sense you can give us for what type of growth you're looking at outside of data center
+switching with as much granularity as you can summit?
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+Yes, Paul, just to close off on the Facebook. I mean, they were 16.6% of revenue last year. And obviously,
+they're down below 10% this year. So I think that gives you something to work with, right?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+And Paul, as you know, they're 2 types of software. There's the perpetual licenses where we do, do some
+monitoring with what we call DANZ, Data ANalyZer that's built-in with our switches and routers. And then
+there's a subscription. So unlike many of our peers, we're not just converting perpetual into subscription.
+Our subscription-based software is really new markets, new markets like our Big Switch, DANZ monitoring
+fabric, CloudVision, obviously, multi-cloud U.S. router. And then we're very, very excited about the recent
+acquisition of Awake Security.
+
+So the revenue will trail the subscription but -- and we're obviously starting off a small number. So it
+would be remiss if we didn't grow double digits on those small numbers. We expect to grow much faster
+than our 14% to 15% annual growth that Ita described. And we'll leave it at that when we show our
+execution.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Any thoughts for what that could be in dollar contribution?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Well, what I did say is between A-Care services, software renewals and all of these software, we expect
+it to be in the 25% range looking ahead. And again, I think it's important to think of that as trends, not
+exact revenue because revenue lags the bookings.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+Operator
+
+Your next question comes from James Fish with Piper Sandler.
+
+James Edward Fish
+Piper Sandler & Co., Research Division
+
+Congrats on the quarter. Just actually wanted to go off of Rod's question before. Appreciate the year-
+end disclosure, but I'm curious if you could actually talk about what did happen with your second largest
+historical customer on why it was cut by somewhere around 50%, even backing up the deferred haircut,
+it's still a pretty massive cut. And related to this, it would imply that given the cloud vertical exposure
+that you had an uptick up, which I'm guessing was for Q4, not just the entire year, but that another large
+hyperscaler actually had some strength on their needs. So just kind of curious if you can walk us through
+the Cloud Titans vertical more specifically.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Sure, James. First of all, our Cloud Titan verticals consists of only the major cloud scale customers, right?
+And we list them, but they are your usual suspects that you know. So we do have other Cloud Titan
+customers besides Microsoft and Facebook, to clarify your question. Facebook, we've discussed a lot in the
+past. As you know, they had a change in their product line where they skipped a service cycle. And we
+saw the loss of that, especially in second -- late 2019 and also much of 2020. So we're looking forward to
+it coming back. Anshul, do you want to add anything more to that on?
+
+Anshul Sadana
+Senior VP & COO
+
+Jayshree, that's it. We've been fairly transparent with what happened there on the CT cycle, changing
+their plans for deployments and so on. And I think actually everything worked out, as we had stated
+almost 4 quarters ago.
+
+Operator
+
+Your next question comes from David Vogt with UBS.
+
+David Vogt
+UBS Investment Bank, Research Division
+
+Great quarter. So just maybe a quick follow-up on the supply disruptions. Can you provide more detail
+around sort of the nature of the disruption you experienced? And what I mean by that is, can you
+comment on sort of the magnitude of the impact in the quarter? What it might look like in the first quarter
+maybe the sector where you're seeing more of an exposure and maybe timing around your ability to
+recover those lost sales?
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+Yes. I mean I think, look, it's more of an extended lead time environment than it is anything else, right?
+And we're working very closely with customers to make sure that we're not losing business, right, that
+we're actually planning carefully with them and prioritizing what's most important to them, right? But I
+think we had hoped, if we talked this time last quarter, we had hoped to see more of a recovery in the
+fourth quarter than we did just because we saw more COVID-related disruptions around -- we lost some
+manufacturing capacity on and off because of COVID activities in different locations. The supply chain,
+some of the suppliers into that supply chain, sell that as well, right? So it's just -- I don't know that it's
+that's different to where we have been. And as we head into Q1, I think we're in a similar position. So
+there's no great disruption to the numbers, I think, coming out of changes in that environment. We just
+didn't make maybe as much progress as we would have liked, right? So we're continuing to just stay close
+to customers and prioritize, but we're also trying to make sure we don't lose business as part of that.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+Jayshree V. Ullal
+President, CEO & Director
+
+And I just want to acknowledge that the manufacturing team, led by John McCool is doing a really good
+job with Anshul's leadership. We're doing the best we can, but we haven't recovered.
+
+Operator
+
+Your next question comes from Samik Chatterjee with JPMorgan.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+Great. I guess, Jayshree, you guys have strong results in enterprise, and that's good to see. But you did
+mention campus sales cycles are probably still a bit long. But when we focus on the overall data center
+part of enterprise, I just wanted to check, like how are you -- what are you seeing in terms of drivers of
+growth there? Is it more of a land and expand with the existing customers? Or are you -- what momentum
+are you seeing in relation to new logos on the core data center part of the enterprise customer base
+there?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. Actually, Samik, that's a really good question. Many enterprise customers are looking at us as the
+thought leader on how they should proceed with their workloads in the cloud. So I think by virtue of being
+consultative with them, what we're finding is some workloads move to the cloud, but many of them end up
+creating more data center capability that they need for some of their premise workloads.
+
+So this enterprise number that we are sharing absolutely includes more than campus. It includes existing
+customers, land and expand as well as new logos. We had one of our best ever quarters on not only new
+customer logos but million dollar customers. So you can imagine that wasn't just campus, and so there
+was a lot of data center in there.
+
+Operator
+
+Your next question comes from Fahad Najam with MKM Partners.
+
+Fahad Najam
+MKM Partners LLC, Research Division
+
+I had a big picture question on architectures. We often hear from the cloud hyperscale operators talking
+about 800-gig and using silicon photonics to expand the search Redis in order to reduce the number of
+layers in their data center network. How should we think about that impacting your revenue outlook from
+your hyperscale customers? Should they achieve expanding the Redis architecture that they're talking
+about today?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. Just before I hand it to Anshul, he's perfect to answer this. We believe Arista is #1 today in both 100-
+gig and 400-gig, including 200, right? And the 100-gig market is easily 40x bigger than the 400-gig. And
+anybody planning 800-gig is typically doing so in a much longer term, especially for optics, right? So in
+general, if you just step back and look at 400-gig, the quals have shifted out by a year, and we expect
+production mainly in the second half. So we're still in the world of 100, 200 and 400-gig, I believe, this
+year. But Anshul, do you have some more color?
+
+Anshul Sadana
+Senior VP & COO
+
+Absolutely. Fahad, your question is right on point, but it is a sort of a futuristic discussion because this is
+not something that's going to happen in the next 1 or 2 years. Customers always like to collapse layers in
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+the network because that is significant saving on cost and power. At the same time, their business teams
+would like larger clusters, which results in adding layers. And as a result of that, you have a balance there.
+Then as you may know, our largest switch can support 230 terabits of throughput in a single switch. And
+for some of these large Cloud Titans, that's still not big enough. They would like bigger to save one more
+layer of the network. So we're constantly engaged in these discussions. As we move from 50-gig SerDes,
+which is where we are today, in a 400-gig world, to 100-gig SerDes, some of these architectural points will
+come up. But I think, by the end this really hits, it may be when 224-gigs SerDes come out, that's at least
+6 years out, maybe 5. But it's really hard to predict that. And that's when I think you'll see some of these
+changes.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+That's very visionary.
+
+Operator
+
+Your next question comes from Simon Leopold with Raymond James.
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc., Research Division
+
+I wanted to see if you could touch on the routing use cases. You mentioned in the prepared remarks the
+expansion of feature set. And I appreciate that there's a bit of a spectrum between switching and routing.
+But if you can give us a little bit more color in terms of the revenue that this is contributing as well as your
+outlook for the growth in these maybe wide area network and routing functional cases within your data
+center deployments?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Sure. Simon, I think, as you know, this is a very important part of our adjacency. And I would sort of
+describe our success in routing in 3 areas. There are very specific use cases in service providers. We were
+doing very well, especially with routing and residential edge and bringing that edge capability for mobile
+edge or EVP and edge, et cetera.
+
+Then there's a second, which is an extension of our data center where we go into peering points, and
+these could be cloud providers, but they could also be enterprises in conjunction with service providers.
+And then there's a third, which is building the Telco cloud itself, where many people are looking -- many
+customers are looking to build the same cloud-like principles inside their service provider network. Anshul,
+do you want to add something more to that?
+
+Anshul Sadana
+Senior VP & COO
+
+Jayshree has pretty much said it. They're really outside the data centers, the cloud connecting to the
+backbone, backbone to the Internet, the Internet connecting to pivot points, and then to the service
+providers and their customers. I think we're actually doing fairly well, marching along that journey. There's
+a lot that has been done. There's still a lot more to be done, but I think we'll do very well keep growing in
+that space.
+
+Simon Matthew Leopold
+CIMB Research
+
+Any quantification you can offer?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+As we said in the opening remarks, our goal is, together with campus for this adjacent sector to be 10%
+to 15% of our business, looking forward. And also remember, we struggled a little bit with how to count
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+routing. So we try to be very disciplined about counting routing only when there's routing. So if it's
+combined with switching, it still goes into core.
+
+Operator
+
+Your next question comes from Aaron Rakers with Wells Fargo.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+Congratulations on the quarter. I apologize to go back to this, but in the context of kind of your guidance
+and the discussion around your second largest customer, I'm just curious how you've thought about the
+move to this next-generation server cycle with Ice Lake and AMDs, Milan. And also in the context of that
+second largest customer giving a CapEx guide that looks like it's up about 40% year-over-year. How did
+you factor that into your outlook commentary for the full year? Or is that something that you consider,
+hey, let's see if this CapEx guide comes to fruition and I'd rather take a conservative view on how that
+filters into the Arista business. Just curious how you thought about that?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Aaron, I think that's an excellent question. Given we got burned the last time on some of the forecasts, we
+do think that we are going to take a much more pragmatic view. And our view is really that it's a multiyear
+spend, not just in 2021. So there's clearly going to be some good CapEx improvements from 2020 to 2021
+specifically, but we're not counting at all for this year.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+Just to be clear, remind me again of how your business trails kind of server cycle again?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. That's a good question. Anshul, why don't you describe that?
+
+Anshul Sadana
+Senior VP & COO
+
+Aaron, what I would say here is, do not try to correlate us short term to any Cloud Titan spend because
+they can spend their CapEx in many different ways. And it's only correlated to our business in the long
+term, never the short term.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+And typically, there's a lag of a few quarters, right? So the CapEx can be building, cooling, air conditioning,
+server storage before we think of the network.
+
+Operator
+
+Your next question comes from Tim Long with Barclays.
+
+Timothy Patrick Long
+Barclays Bank PLC, Research Division
+
+I just wonder if I could. Could you talk a little bit about when we're starting to think about these
+adjacencies and the service and software lines, how are you thinking about getting to those -- growth
+out of those areas and those of the business that you talked about as far as kind of cross-selling the core
+portfolio and the existing customers, I would assume switch to routing is pretty synergistic. But could you
+talk a little bit about how much you're expecting to cross-sell into new campus customers, new software
+customers or what might be some new growth areas outside of where the core products are really strong?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. No, Tim, that's a really good question. I think we will rely very much on our sales force and our
+strength with our existing customers to achieve adjacency in campus. And the same is true for routing
+as well. It's a very natural way to go because it's a directed sale for large big bets and segments of
+customers. However, we will complement that. So while on adjacencies will rely on our 7,000 or more
+customers. In the case of campus, we're spending a lot of time and energy on how to augment that with
+channels and partner distribution.
+
+And in the case of software and subscription services, it's not always connected. So Anshul and the team
+are putting a fair amount of effort on not really just hiring salespeople, but creating systems engineering
+expertise. So building that expertise for DMS, building that for a wake is an important aspect because
+often, they may be the same customer, but they may be a different decision maker. So that go-to-market
+is a little more nuanced for the software and subscription, but somewhat similar for the adjacency.
+
+Operator
+
+Your next question comes from Alex Henderson with Needham.
+
+Alexander Henderson
+Needham & Company, LLC, Research Division
+
+I was hoping you could talk a little bit about the emergence of code as infrastructure, the CICD pipelining
+of micro services, edge compute and how that's going to change traffic patterns and purchasing of your
+products over time, and particularly around the implication of the service mesh at the edge. I would think
+that your -- you've been talking about points in the cloud in places in the cloud for a really long time. And
+this architectural change effectively makes individuals and applications simply points in the cloud if we
+play out that strategy. And therefore, data and IT protection becomes critical. So how are you thinking
+about those aspects of the emergence and adoption of Kubernetes, microservices CICD pipeline and the
+like impacting your business?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+I don't know if Ken is still on the line to address this in more detail. But I think, in general, we believe a
+data-driven network coming to the edge, whether the sources are multi-cloud, wireless, 4G, 5G, WAN,
+Kubernetes, et cetera, is very relevant to the way we develop our software. Ken, you want to add a little
+more?
+
+Kenneth Duda
+Co-Founder, CTO & Senior VP of Software Engineering
+
+Yes. Sure. No, I think that we're very well aware of those directions, and we're maximizing our relevance
+there in a couple of ways. The first is, what's required for that whole computing model for scaling out your
+application horizontally across Kubernetes is a uniform physical networking fabric. You need low latency
+from physical edge to physical edge, regardless of where the Kubernetes questers are deployed. And you
+need to be able to deploy them in a lot of different places, like you mentioned with edge compute. Also
+some enterprises need to be on-premises for various reasons to want the same application architecture
+that they use in the cloud as well. And so there's a need to have this same sort of repeatable rollout
+process of the underlying infrastructure for those Kubernetes-based environments, whether it's on-prem,
+edge compute or in the cloud. And that's what we've achieved with CloudVision studios. So I don't know if
+we've talked about this much in the context of the earnings call.
+
+But CloudVision studios enables us to enable our customers to create automation frameworks so they can
+easily spin up new fabric deployments, new pods and absolutely with supporting Kubernetes in mind.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+And this is probably a great topic for Analyst Day, Alex, but stay tuned for more here.
+
+Operator
+
+Your next question comes from Jon Lopez with Vertical Group.
+
+Jonathan Doherty Lopez
+The Vertical Trading Group, LLC, Research Division
+
+Ita, I was wondering if you could just talk a second about deferred. The short term in deferred was like
+really, really strong, best in multiple years. And I'm wondering what was in that, whether Awake had any
+influence on that? And then I think within that, you talked about perhaps some product deferred in there.
+And I was just wondering if you could talk to us about maybe when that layers in, so we don't get tripped
+up, which happened a couple of years back. So sorry for that, but can you just maybe discuss all those
+things quickly?
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+I mean the driver in the uptick in Q4 was really around services and services renewals, right? I mean Q4
+is a big, typically a fairly large renewal quarter, and we had some larger customers renew prior period
+renewals of services. That's by far the biggest driver. There's a little bit of product, but it is small. Just
+pure new customer, new product stuff, but that's a much, much smaller part of it, right? It's really more
+about services and the services.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+And Awake is too small and too early to call that number.
+
+Operator
+
+Your next question comes from George Notter with Jefferies.
+
+Unknown Analyst
+
+On for George. I just wanted to get your thoughts on how you see customers deploying 400-gig? And do
+you think there's an opportunity to upgrade some of the 100-gig installed base to 400-gig in the early
+stages? Or will much of the initial 400-gig ramp be coming from net new port growth?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Well, I think, George, I've always said this, there's a strong correlation, especially with our cloud
+customers on 100- and 400-gig being tried as we move to a 400-gig spine, you still need a lot of 100-gig
+tributaries. And in the past, that -- besides COVID, we haven't had effective available optics. I think all
+of that is shifted 400-gig by a year, but this is a year we really see 400-gig will be deployed, especially
+in the second half. Just to give this in context, while we have over 7,000 customers, we have about 75
+customers already deploying 400-gig in some fashion. So it's about 1% or less than 1% of our aggregate
+base. And so 100-gig will continue to be relevant as we augment with 400-gig, both in our high-end cloud
+and enterprise and service providers.
+
+Operator
+
+Your next question comes from Ben Bollin with Cleveland Research.
+
+Benjamin James Bollin
+Cleveland Research Company
+
+Could you address a little bit more about the recurring software and service revenue opportunity?
+Specifically, I'd be interested in what types of customers and verticals do you see as really driving that
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+transition? Do you have opportunities to gain traction there with your hyperscale accounts? And then Ita,
+any high-level thoughts on contract terms, average length or invoice methodology would be helpful.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Sure, Ben. I think the biggest and most attractive verticals for the software subscription would be
+enterprises and financials. I love to get it into others as well, but these would be the 2 big areas of target.
+And there's clearly a lot of verticals in there, sub verticals, and we're already seeing a lot of interest in the
+financial markets for that software and subscription, and I expect we'll see many more.
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+Yes. And a lot of this is built upfront, and it's a 2- to 3-year type kind of term -- contract term, if you like,
+and usually, we're collecting kind of -- we're billing and collecting cash upfront so far. I mean, that may
+change over time, depending on the size of the customer. But so far, that's kind of been the model.
+
+Operator
+
+Your last question comes from Jim Suva with Citigroup Research.
+
+James Dickey Suva
+Citigroup Inc. Exchange Research
+
+My sincere congratulations on good results and outlook. In your prepared remarks, I think I heard some
+numbers thrown out like 36%, 36%, 28%. And I think that was for the vertical mixes. Was that more for
+the year out or all long, long-term? And the reason I'm asking the question is, with your guidance of, I
+think you said, up 12% for next year, and it's off easy comp. I'm just trying to figure out which of those 3
+markets you're seeing the most strength? Because if I look at those percents, it almost seems like it's a lot
+coming from service providers, but maybe I'm bridging that incorrectly.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. Jim, thank you for the good wishes. So the trends are not exact revenue for Q4, but it is our best
+indicator of how we think the year ahead will roll out. So we'll keep updating it every quarter to give you
+an idea of not how it's rolling out, but how it's actually turning out. So there's 3 sectors in that, right?
+The first sector is Cloud Titans because it's big enough. You just have to look at that number, individual of
+others. The second is enterprise and financials together, which is the other 36; and the third is specialty
+cloud and service providers together. So if you look at Q4, we believe all of the 3 sectors contributed
+strongly to the number. And if you look ahead, obviously, as Anshul has pointed out, the Cloud Titans are
+vital to our growth, but they're operating off a large base. So we should be able to grow faster in the other
+sectors and still carry a large number in Cloud Titans.
+
+Charles Yager
+Director of Product & Investor Advocacy
+
+Thanks, Jim. This concludes the Arista Q4 2020 Earnings Call. We have posted a presentation, which
+provides additional information, which you can access on the Investors section of our website. Thank you
+for joining us today.
+
+Operator
+Thank you for joining, ladies and gentlemen. This concludes today's call. You may now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+ARISTA NETWORKS, INC. FQ4 2020 EARNINGS CALL |  FEB 18, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+

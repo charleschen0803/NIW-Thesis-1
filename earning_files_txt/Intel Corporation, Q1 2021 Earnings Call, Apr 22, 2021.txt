@@ -1,0 +1,1207 @@
+Intel Corporation NasdaqGS:INTC
+FQ1 2021 Earnings Call Transcripts
+Thursday, April 22, 2021 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ1 2021-
+
+-FQ2 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+GUIDANCE
+
+CONSENSUS
+
+GUIDANCE
+
+CONSENSUS
+
+1.14
+
+1.39
+
+21.93
+
+1.10
+
+1.05
+
+4.60
+
+4.60
+
+4.70
+
+17947.27
+
+18566.00
+
+3.45
+
+17838.49
+
+17800.00
+
+72844.68
+
+72500.00
+
+72646.14
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Apr-21-2021 2:50 AM GMT
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+FQ1 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.11
+
+1.11
+
+1.11
+
+1.14
+
+1.23
+
+1.11
+
+1.52
+
+1.39
+
+10.81 %
+
+0.00 %
+
+36.94 %
+
+21.93 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+Call Participants
+
+EXECUTIVES
+
+George S. Davis
+Executive VP & CFO
+
+Patrick P. Gelsinger
+CEO & Director
+
+Tony Balow
+Senior Director of Investor
+Relations
+
+ANALYSTS
+
+Ambrish Srivastava
+BMO Capital Markets Equity
+Research
+
+Christopher Brett Danely
+Citigroup Inc., Research Division
+
+Christopher James Muse
+Evercore ISI Institutional Equities,
+Research Division
+
+Harlan Sur
+JPMorgan Chase & Co, Research
+Division
+
+John William Pitzer
+Crédit Suisse AG, Research
+Division
+
+Joseph Lawrence Moore
+Morgan Stanley, Research Division
+
+Matthew D. Ramsay
+Cowen and Company, LLC,
+Research Division
+
+Pierre C. Ferragu
+New Street Research LLP
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research
+Division
+
+Vivek Arya
+BofA Securities, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+Presentation
+
+Operator
+
+Good day. Thank you for standing by. Welcome to the Intel Corp's First Quarter 2021 Earnings Conference
+Call. [Operator Instructions] Please be advised that today's conference is being recorded. [Operator
+Instructions] I would now like to hand the conference over to your speaker, Head of Investor Relations,
+Tony Balow. Please go ahead.
+
+Tony Balow
+Senior Director of Investor Relations
+
+Thank you, operator. Welcome, everyone, to Intel's first quarter earnings conference call. By now you
+should have received a copy of our earnings release and the earnings presentation. If you've not received
+both documents, they're available on our investor website. The earnings presentation is also available in
+the webcast window for those joining us online.
+
+I'm joined today by our CEO, Pat Gelsinger, and our CFO, George Davis. In a moment, we'll hear brief
+remarks from both followed by Q&A.
+
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements
+based on the environment as we currently see it and as such, does include risks and uncertainties. Please
+refer to our press release for more information on the specific risk factors that could cause actual results
+to differ materially.
+
+Today, we provided both GAAP and non-GAAP financial measures. We will be speaking to the non-GAAP
+financial measures when describing our consolidated results. As a reminder, our non-GAAP results exclude
+our NAND memory business, which is subject to a pending divestiture, and our non-GAAP year-over-
+year comparisons also exclude NAND from 2020 results. The earnings presentation and earnings release
+available on intc.com include the full GAAP and non-GAAP reconciliations.
+
+With that, let me hand it over to Pat.
+
+Patrick P. Gelsinger
+CEO & Director
+
+Thank you, Tony. Good afternoon, everyone. It's a pleasure to be with you for my first earnings call. I
+consider it an honor to be CEO of this great company. Thanks for joining today.
+
+Intel delivered a strong Q1 that beat our January guide on both the top and bottom line, driven by
+exceptional demand for our products and exquisite execution by our team. We shipped a record volume
+of notebook CPUs. We launched new competitive Intel Core and Xeon processors. Mobileye had its best
+quarter ever. With tremendous industry support, we unveiled our IDM 2.0 strategy, setting a bold new
+course for technology leadership at Intel. The response from employees, partners and customers has been
+incredible. Our teams are reinvigorated, innovating and executing. It's amazing to be back at Intel, and
+Intel is back.
+
+Before George takes you through the financial details of the quarter, I'll begin with the industry trends
+we're seeing and why Intel is well positioned to aggressively capitalize on them. Said simply, Intel is the
+only company with the depth and breadth of software, silicon and platforms and packaging and process
+with at-scale manufacturing that customers can depend on for their next-generation innovations.
+
+There are 4 superpowers driving digital transformation: cloud, connectivity, artificial intelligence and the
+intelligent edge. Intel's mission, and we are uniquely positioned to do so, is to help customers harness
+these superpowers to improve the lives of every human on the planet.
+
+The digitization of everything was markedly accelerated by COVID and has spurred innovation and new
+models of working, learning, interacting and care. Technology is increasingly central to every aspect of
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+human existence, and semiconductors are the foundation. This is creating a cycle of explosive growth in
+semiconductors that will result in sustained growth for a decade or more.
+
+The PC ecosystem, in particular, is experiencing a resurgence. This remote work and learning dynamics
+of COVID led to more PC shipments in 2020 than at any point since 2012, and that's continuing. 2021 is
+shaping up to be the largest PC market ever. In fact, we shipped more notebook CPUs in Q1 than in any
+other quarter in our history. Total platform unit volumes were up well over 30% in the first quarter. In
+many markets, 1 PC in every home is no longer enough. The number of PCs per household, what we call
+PC density, is increasing. We are seeing strong growth in education where, on a global basis, the number
+of PCs per 100 students and teachers still remains in the single digits. Every student needs a laptop, and
+we have a long way to go. In addition, there are over 400 million PCs running Windows 10 that are over 4
+years old today, which is an enormous PC refresh opportunity.
+
+Intel is leading this rejuvenation of the PC with marketing, user experience and purpose-built innovation
+at the software, silicon and platform level. We shipped Tiger Lake-H for notebooks and Rocket Lake
+for desktops, and customer reception has been enthusiastic. As a sign of our improving execution, we
+qualified Tiger Lake-H ahead of schedule in 10 nanometers, and we expect 10-nanometer unit volumes to
+cross over 14 nanometers in the second half of the year.
+
+Our Intel Evo platform gives buyers the very best mobile experience, and we're deepening our ecosystem
+engagement with partners, including Microsoft, Google and Samsung to advance the PC experience in
+new, innovative ways. We see no signs of PC demand slowing and believe the industry will return to
+shipping more than 1 million units a day.
+
+With over 100 million Xeon servers in the installed base, the world runs on Intel. Building on that
+foundation, we recently launched our most advanced high-performance data center platform optimized
+to power the industry's broadest range of workloads from the cloud to the network to the intelligent
+edge. At the heart of this is our new third-gen Intel Xeon Scalable processor codenamed Ice Lake, which
+offers nearly 50% gen-over-gen performance improvements across a range of workloads. We are already
+shipping Ice Lake to more than 30 customers, including major cloud providers, communication service
+providers, enterprise and HPC customers.
+
+Another trend driving demand for more and more optimized computing performance is the infusion of
+artificial intelligence and machine learning into nearly every application. As the only x86 data center CPU
+with built-in AI acceleration, Ice Lake provides 74% gen-over-gen improvement on AI workloads. And
+our Habana discrete solutions address the needs of those customers with extreme AI demands in areas
+like training. Sometimes customers want both. For example, you see San Diego will use Intel Xeon and
+Habana AI accelerators to power their new Voyager supercomputer.
+
+Mobileye set a new quarterly record. Mobileye's assisted driving technology continues to win over
+automakers with 8 new design wins in Q1. We have programs with 13 of the 15 top automotive OEMs.
+Mobileye continues to open new categories such as delivery transport with the win at Udelv and is rapidly
+evolving to power L4 fully autonomous robotaxis beginning next year.
+
+We continue to have extraordinary success winning the next-generation 5G environments. A great
+example from this quarter is our collaboration with Google Cloud to develop solutions that help
+communication service providers accelerate 5G deployment across multiple network and edge locations.
+We're already seeing significant adoption of OneAPI and OneAPI-powered toolkits for high-performance
+computing, AI and data analytics. Developers and customers are embracing One API's open standards-
+based approach for unified programming across architectures and vendors. This includes leading cloud
+service providers who are embracing OneAPI at scale.
+
+The unprecedented demand for semiconductors has stressed supply chains across the industry. We've
+doubled our internal wafer capacity in the last few years, but the industry is now challenged by a shortage
+of foundry capacity, substrates and components. We expect it will take a couple of years for the ecosystem
+to make the significant investments to address these shortages. This fundamental industry challenge
+underscores the importance of our unique and differentiated IDM 2.0 strategy. IDM 2.0 utilizes our internal
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+factory network to reliably deliver leadership products and provide the industry another source of foundry
+capacity through our new Intel Foundry Services.
+
+Leveraging our IDM advantage, we are working aggressively across our global supply chain to solve
+substrate shortages to satisfy our customers' surging demand and gain market share. For example, by
+partnering closely with our suppliers, we are creatively utilizing our internal assembly factory network to
+remove a major constraint in our substrate supply. Coming online in Q2, this capability will increase the
+availability of millions of units in 2021. It's a great example where the IDM model gives us flexibility to
+address the dynamic market.
+
+It's clear the industry and Intel will need more capacity to meet strong future demand, which is why we
+are dramatically expanding our foundry capability with Intel Foundry Services starting with a $20 billion
+investment for our first large-scale foundry operations in Arizona. We plan to expand other locations and
+establish Intel Foundry Services as a major provider of committed foundry capacity in the U.S. and Europe
+while ensuring a sustainable and secure semiconductor supply for the world.
+
+Since its announcement, the industry response to Intel Foundry Services has already been incredible. We
+are engaged with well over 50 potential customers today. We're seeing excitement from some of the top
+technology giants in the world across industry verticals ranging from automotive to high-performance
+compute and cloud service providers.
+
+We've been responding to and proactively engaging with automotive component suppliers on how we
+can help them with their supply chains and alleviate shortages in both the near and long term. We're
+doing our part to address this global supply crisis, but we cannot do it alone. The investment needed at
+the scale required is immense, and it will require close industry and government partnership to address
+this need. Governments around the world are recognizing the critical nature of semiconductors and the
+need to increase advanced chip manufacturing capacity and prepare for the future. We are encouraged
+by President Biden's recognition of semiconductor manufacture as a critical component of our national
+infrastructure and its inclusion along with key research and infrastructure investments in broadband in the
+American Jobs plan.
+
+Looking ahead, we're confident our strategy will drive innovation and technology leadership for Intel. 7
+nanometers is progressing well, and IDM 2.0 puts us on a path to restore process performance leadership
+and build on our industry-leading packaging technologies. With IDM 2.0, we will have superior capacity
+and supply resilience by leveraging our internal and external capacity and a superior cost structure.
+
+By accelerating our clock rate of innovation, we will deliver leadership products in every category. In the
+PC business, we will follow the successful launches of Tiger Lake and Rocket Lake with Alder Lake, which is
+currently sampling and will ship in the second half of this year. Within the next couple of weeks, we'll tape
+in the compute tile for Meteor Lake, our first 7-nanometer CPU for 2023. In the data center, we will follow
+the strong ramp of Ice Lake with Sapphire Rapids, which is scheduled to reach production around the end
+of this year and ramp in the first half of 2022.
+
+Overall, our 2023 road maps are firm and under execution and our 2024 and 2025 plans are well
+underway to provide unquestioned leadership products in every category we participate in. The Intel
+innovation machine is fired up. Before I pass it to George for the details in the quarter, let me reiterate
+how excited I am to be back. You can feel the energy inside of Intel, the passion to innovate and the drive
+that made us great.
+
+We are reigniting our culture to attract, retain and motivate the best and brightest engineers in the
+industry. In fact, we've onboarded over 2,000 engineers so far this year, including the recent key hire of
+Sanjay Natarajan, who will co-lead our Logic Technology Development. In total, we expect to add several
+thousand more engineers by the end of the year.
+
+2021 is a pivotal year as we lay the foundation of our winning IDM 2.0 strategy and invest in our future to
+accelerate our trajectory and execution. Given the incredible demand for computing, the strength of our
+IDM 2.0 strategy and the technology investments we're making, I'm certain Intel's best days are in front
+of us.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+George S. Davis
+Executive VP & CFO
+
+Thanks, Pat, and good afternoon, everyone. Q1 marked a stronger-than-expected start to the year with
+both our PC notebook and Mobileye businesses achieving record quarters, when revenue was $18.6 billion,
+exceeding our guidance by $1.1 billion, led by strength in our PC business and the first signs of recovery in
+the enterprise and government portion of our data center business.
+
+Our IOTG, Mobileye and PSG businesses also posted strong sequential growth as they began to emerge
+from an adverse macroeconomic environment driven by COVID. As noted in our January guidance, Q1
+revenue includes an approximately $580 million onetime corporate revenue item.
+
+Gross margin for the quarter was 58.4%, exceeding guide by approximately 40 basis points, largely due
+to flow-through on higher revenue. Q1 EPS was $1.39, up $0.29 versus guide, with the majority of the
+beat on strong operational performance and the balance on gains related to our ICAP portfolio. Note that
+these non-GAAP results exclude the impact of a charge related to VLSI litigation that are included in GAAP
+results.
+
+In Q1, we generated $5.5 billion of cash from operations and free cash flow of $1.6 billion. We
+repurchased $2.4 billion of shares, completing the $20 billion repurchase plan announced in October
+2019. Going forward, we expect to have lower stock repurchases as we enter an investment phase to
+support strong demand growth in clients, build initial infrastructure for future foundry volumes and make
+necessary investments to accelerate our return to process leadership. We remain committed to growing
+the dividend.
+
+Moving to segment performance in the quarter. CCG revenue was up 8% year-over-year, driven by all-
+time record notebook unit volumes, up 54% year-over-year. Increased volume in the consumer entry
+and education segments resulted in platform ASPs being down 20% year-over-year. Excluding this upside
+volume, ASPs were flat year-over-year. Combined with growth in our WiFi and Thunderbolt connectivity
+businesses, revenue grew overall in CCG despite the ramp down of our modem and MAX sales and the
+impact of exiting our connected home division. Operating income was $4.1 billion, down 2% year-over-
+year on higher 10-nanometer mix and increased R&D investment.
+
+DCG delivered revenue of $5.6 billion, somewhat above our expectations, but down 20% year-over-year
+on a challenging compare. Enterprise and government saw initial recovery with sequential performance
+above seasonal expectations, while cloud inventory digestion persisted through the quarter as expected.
+Strong network SoC growth and product mix drove more than half of the 14% year-over-year ASP decline.
+
+DCG operating income in Q1 was down $2.2 billion year-over-year on lower revenue, transition to 10-
+nanometer, and increased R&D investment in our Xeon road map. Our intelligent edge businesses were up
+year-over-year and quarter-over-quarter as COVID-related demand impacts began to subside. Specifically,
+IOTG revenue was up 18% quarter-over-quarter with strength in retail and industrial segments.
+
+Mobileye revenue and operating margin were both all-time records at $377 million and $147 million,
+respectively. Mobileye continues to execute well and gain market segment share as the auto industry
+recovers from pandemic blows. PSG revenue was up 15% quarter-over-quarter with strength in its
+communications and embedded segments.
+
+Moving to our Q2 and full year outlook. For Q2, we are guiding revenue of $17.8 billion, down 2% year-
+over-year, excluding our NAND business. We continue to see very strong demand for PCs with fulfillment
+challenges on industry-wide component and substrate shortages. In data center, we believe revenue
+bottomed in Q1 and will increase in Q2 as cloud digestion impacts begin to subside and enterprise and
+government momentum continues.
+
+Gross margin is expected to be approximately 57%, up approximately 1 point year-over-year, driven by
+lower inventory reserves and improved 10-nanometer cost, partially offset by factory start-up costs. We
+are forecasting EPS of $1.05 per share and a tax rate of 13%.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+For full year, we are increasing our guidance provided in March, now forecasting $72.5 billion in revenue,
+up $500 million from our prior guidance, gross margin of 56.5% and EPS at $4.60, up $0.05 from our
+March 23 call. We now expect free cash flow to be $10.5 billion, up $500 million versus prior expectations.
+
+We continue to see very strong PC demand with both TAM and our internal PC supply growing double
+digits year-over-year. But we expect CCG revenue to be more first half weighted than normal seasonality
+due to industry-wide supply constraints and the continuing ramp-down of modem and Apple Mac revenue.
+In data center, we expect increased demand in the second half as both cloud enterprise and government
+segments returned to growth.
+
+Gross margin percent will be lower in the second half of the year predominantly due to increased 7-
+nanometer start-up costs and industry-wide supply constraints impacting client volume and mix. We
+expect increased R&D throughout the year as we invest in our road map and IDM 2.0 strategy.
+
+As stated in March, this guide is tempered by DCG-related entity list uncertainty and industry-wide supply
+constraints primarily impacting our client, IOTG and PSG businesses. We are working closely with our
+supply chain partners and leveraging our unique IDM capabilities to mitigate these supply constraints, gain
+market segment share and outperform this guide.
+
+With that, let me turn it back over to Tony and get to your questions.
+
+Tony Balow
+Senior Director of Investor Relations
+All right. Thank you, George. Moving on now to the Q&A. [Operator Instructions] Operator, please go
+ahead and introduce the first caller.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question will come from the line of Harlan Sur from JPMorgan.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+A nice job on the quarterly execution. It was good to see the unveiling of the IDM 2.0 strategy back in
+March. Was also good to get the 7-nanometer update and continued execution on getting that ramped in
+2023. But that's just the point milestone, right? So in order to sustain your technology and performance
+leadership with the IDM 2.0 strategy, it's going to require the team to maintain a cadence on both internal
+optimization but also more importantly, to maintain a cadence of continued node shrinks to 5 nanometer
+and then ultimately to 3 nanometer.
+
+I think the Intel team had previously articulated node migrations kind of every 2, 2.5 years. Pat, I think
+you said a yearly cadence back in March, but I assume that, that was internal optimization. But on the
+move to 7 to 5, can we expect the team to ramp 5 nanometers 2, 2.5 years after your 7-nanometer ramp
+and then 3-nanometer ramp 2, 2.5 years after 5?
+
+Patrick P. Gelsinger
+CEO & Director
+
+Thank you for the question, Harlan. And overall, as I said on the call, we're seeing very good progress on
+the 7-nanometer team. They're executing now. We're very confident of the changes that we made on that,
+right, and the move to really embrace EUV. And since we've done that, we've just seen superb execution.
+
+And as I said, in the Unleashed event, we expect to move to a yearly cadence or better for our process
+technology. And we're going to be laying that path out very clearly. We're excited about our team's ability
+to get us back to process parity and ultimately to sustain leadership yet again. And I'm very happy with
+the team and some of the investments we're making, the hiring of Sanjay Natarajan that we talked about.
+Team is getting fired up to execute on that.
+
+We also see this is just one piece of our technology leadership strategy. And as we've seen in our IDM 2.0
+strategy, it's about packaging. It's about the process. It's about the full set of IP that we're bringing to the
+table and at-scale manufacturing. And I will say some of the early enthusiasm that we've seen from some
+of the foundry customer pipeline is really bringing together our packaging technology with the full IDM 2.0
+strategy.
+
+So overall, getting back to the heart of your question, exactly. We are going to increase the cadence of our
+process technology innovations. We're seeing very positive signs since we made this change, and we're
+on track to parity and again, sustained leadership out in the future. Our team is firing on all cylinders, and
+I'm excited about what we're seeing as we monitor those milestones very rigorously going forward. This
+team's on fire, and we're executing.
+
+Operator
+
+Our next question will come from the line of C.J. Muse from Evercore.
+
+Christopher James Muse
+Evercore ISI Institutional Equities, Research Division
+
+Yes. I guess a follow-on question, Pat, to your foundry strategy or IDM 2.0 strategy. I get the division of
+gaining scale by investing for yourselves at the leading edge and then backfilling fully depreciated capacity
+into '22 down to 10-nanometer nodes over time and the benefit to you guys. But what's the benefit of
+opening up the business at the leading edge to foundry customers? And how are you going to control folks
+to redesign to your design? And will you have to subsidize them? Or would that be a subsidy that comes
+from the U.S. government? Would love to hear your thoughts there.
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+Patrick P. Gelsinger
+CEO & Director
+
+Yes. Overall, let's just paint the picture a little bit more broadly, C.J., and thanks for the question. On the
+IDM 2.0 strategy, we're all about making leading-edge capacity available for our foundry customers. And
+the world needs more leading-edge capacity, and there's very few companies that can supply it around
+the world. So we're seeing a lot of enthusiasm for that. It's going to cause us to build and expand our
+capacity more aggressively. And as you suggest, it also means we have a better monetization on the
+longer life cycle of a foundry business, and we're planning on getting to foundry kind of margins with that
+investment.
+
+Now as we have already begun engaging with customers, we've seen enthusiasm, right? We've seen
+enthusiasm that they get to design on our leading process technology, and they have more choices for
+wherever that might be coming from. We're also seeing enthusiasm for this idea that they can bring some
+of their IP and bring our IP to the table. And in particular, some of the cloud customers have been very
+excited about that ability to say, hey, I can take some of my cool ideas and be better optimized, including
+things like x86 cores, to have a more optimized solution for their market requirements. This is compelling
+for them. And then we combine that with all the other strengths that we've talked about such as at-scale
+manufacturing. And in the supply-constrained environment like we're in right now, boy, that's bringing
+enthusiasm from customers.
+
+Also, we get to do that with all of the other assets that we have with packaging, our software technology.
+Yes, we think this is a strategy that will be very powerful for the industry. And we've seen that response,
+early customers, the EDA tool chains, the IP suppliers. This has really hit the right time in the industry,
+and we are seeing the international aspects as well as the government aspect saying, "Yes, we need a
+more geographically dispersed, resilient supply chain for something that's critical to the future of humanity
+and semiconductor technology." This is the right strategy for the right time, and we're seeing great
+response from it.
+
+Operator
+
+Our next question will come from the line of Joe Moore from Morgan Stanley.
+
+Joseph Lawrence Moore
+Morgan Stanley, Research Division
+
+I wonder if you could talk about the Data Center Group numbers, I guess, both the 20% year-on-year
+decline in cloud and the 14% decline in platform average selling price. How much of that is just this kind
+of lingering cloud digestion? And what's your visibility to that resuming? And is there any competitive
+aspect, do you think, to the weakness there?
+
+Patrick P. Gelsinger
+CEO & Director
+
+Yes. I'll start on that one and ask George to jump in a little bit. Overall, as George said in his comments,
+Q1 was a little bit better than we expected for DCG in terms of revenue, and we see it improving as we go
+through the year. So we saw this as the bottom.
+
+A lot of that was driven exactly, as you asked in the question, by cloud digestion. We had an extraordinary
+last year, and now customers are almost through the digestion of that, and we're starting to see signs that
+they want to start the next build phase in their cloud. But we also saw some just great successes with the
+enterprise business starting to pick up. Some of the networking business wins were very strong for our 5G
+area. So overall, we believe we're on a path back to growth.
+
+I'd also emphasize that the Ice Lake launch, superb, right? This product, major gains in generation, the
+generation improvement in absolute areas of differentiation like the AI performance. And as I said, this is
+AI infused now into the 100 million-plus Xeon sockets as we're bringing AI into every 1 of them. This is a
+powerful new capability and getting great response from our customers overall.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+So we feel very good about the path that we're on. And our overall outlook for the year is that we're
+going to continue to see that momentum build as we go through the year and expect to see the business
+response, the competitive position, the customers getting onboard. It's an exciting time for our data
+center business. George, anything you'd add?
+
+George S. Davis
+Executive VP & CFO
+
+Yes. I would say, really, if you think about the impact year-over-year in the first quarter, more than half
+of it was just the fact that we're comparing the bottom, what we now believe to be the bottom of the
+digestion phase with a very, very strong Q1.
+
+The other piece is our investment is going up in this space. This is clearly -- we're -- as we make progress
+on 7 nanometer, you're starting to see 7-nanometer costs reflected that weren't there year-over-year.
+That's a good thing. That gets much better over time. Also, almost on the same scale, we've increased
+OpEx to drive the Xeon road map even harder in line with some of the things that Pat was talking about.
+
+And then finally, you also have -- this is start-up of the 10-nanometer generation for server, and so you're
+starting to see the initial cost impacts on that. We're already seeing very strong 10-nanometer cost
+improvements in the client side of the business. Some of that's obviously helping DCG today, but it's going
+to -- they've got some work still to go through as they start to ramp their mix from 14 to 10.
+
+Joseph Lawrence Moore
+Morgan Stanley, Research Division
+
+Great. And is that -- just to make sure, the 14% decline in platform ASP, was that more mix related
+towards comms? Or was there something -- [ is it along any decline like for like ]?
+
+George S. Davis
+Executive VP & CFO
+
+It was mix. You've got a lot higher relative mix of SoCs and whatnot in there. When you're down on
+revenue, all those mix comparisons get tougher and you're down on the strongest margin mix area.
+
+Operator
+
+Stacy Rasgon from Bernstein.
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+I want to ask that question a little more explicitly. So if more than half or about half of whatever of the
+ASP decline year-over-year, the 14% in data center, was due to SoC mix and product mix, what would the
+other half coming from? How much of that is direct ASP decline? And what should we expect on that front
+as we go into the second half? And how does that tie into the implied gross margin guidance in the second
+half, which is -- for the company, which is down something like 250 bps second half versus first half?
+
+George S. Davis
+Executive VP & CFO
+
+Yes. So I think -- let me just clarify, Stacy. So the lower revenue includes the ASP and volume effects
+compared to what we were seeing in the first quarter of last year. So that's what was over half of it. I
+would say the remaining was split between the factory start-up costs that I talked about, higher OpEx
+since we're talking about operating margin and then just the unit cost impact of ramping 10 nanometer
+relative to what they saw year-over-year.
+
+And when we think about the second half of the year on the overall margin, we think you're seeing --
+going to see some margin impact actually from the supply situation impacting the mix and the volume
+that we're going to see out of client, again, the 7-nanometer start-up costs ramp throughout the year. So
+that's probably the next biggest factor and then a little bit offset by the fact that we're going to see server
+start to recover.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+Patrick P. Gelsinger
+CEO & Director
+
+Yes. And overall, Stacy, I'd just add, it's about building leadership products. Ice Lake is a great product,
+and we're seeing a strong ramp for it. As the products get better, ASPs will get better, and we're going to
+be very aggressive in terms of market share in this area.
+
+So we feel like we're now very much on the front foot again in this business, and we're starting to see the
+market respond that way. And with some of the things that we've talked about with Ice Lake, in particular,
+and our Sapphire Rapids program following up, we're on a good competitive dynamic, and we're leaning
+into this area of our business, and we're seeing great response from our customers.
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Can you define what you mean by aggressive on market share?
+
+Patrick P. Gelsinger
+CEO & Director
+
+Exactly that, aggressive on market share. We're going to fight for every socket in the market. This is an
+area that is core to our business. We're going to be aggressive. We've just delivered a great new product
+for it. We're going to be using our system design, our validation, our software assets. Our customer
+relationships, our supply chain, everything that we can to bring value to our customers, right? They are
+looking for us building on that 100 million installed base of servers that we have now. This is a great
+business and one that we're going to be very aggressive in bringing the best things to our customers.
+
+And I'd also say, Stacy, that as you think about this business, this is an area that, with our cloud partners,
+our IDM 2.0 strategy is powerful because now we're saying to them not only are we going to be building
+better and better products for you in this area, but we're also going to be co-designing, co-innovating and
+bringing new capabilities for them to optimize solutions for their markets as well. Yes, we're going to be
+aggressive in the data center and cloud business going forward.
+
+Operator
+
+And John Pitzer from Credit Suisse.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Can you guys hear me?
+
+Patrick P. Gelsinger
+CEO & Director
+
+Yes. Thank you, John.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Sorry about that. Pat, just sticking on the theme of data center and the cloud business. Can you help us
+understand why you're comfortable that this is digestion and not something more like cloud guys going
+to more internal solutions or solutions away from Intel? And I sort of asked the question because cloud
+was down about 15% year-over-year in Q4. It's down about 30% in Q1. I know you have another hard
+compare year-over-year on Q2, but what gives you confidence that this is digestion and not something
+more? And I know in George's prepared comments, he said all of data center would be up sequentially in
+June. Do you expect that for the cloud portion as well?
+
+Patrick P. Gelsinger
+CEO & Director
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+So at the highest level, I'll just say, we work intimately with these customers, right? Our people are in
+their environments. We're working supply chains. We're building forecasts with them. We know what
+their inventory levels are. These are very intimate relationships. So I'd just say, at that level, we're
+confident when we speak that -- what they're doing and what we're going to see in the future on how
+they're digesting and deploying the products that we delivered to them last year are now ramping in and
+becoming instances they're selling and services they're selling as well.
+
+I'll say, because of that intimate relationship that we have, we're quite confident in those comments. Like
+we said, as we see the sequential growth, we expect that across the business. We see that in networking.
+We see that in enterprise and government, and we see that in cloud as well.
+
+We do see some of the elements that we talked about with respect to some of them exploring some of
+their own design work. And I'll just say, with that, we're very close to that. Those are fairly modest overall
+in terms of their volumes so far. And as I mentioned in the last question, this is an area that the IDM 2.0
+strategy, the Intel Foundry Services is powerful. And the response that we've seen from those customers
+saying, "Wow, now we can co-innovate without doing all the work of creating a new architectural point
+in the cloud environment," this is powerful and something that we think is uniquely going to help us to
+navigate them to an answer that is much more favorable for them as well as for us, and we're on -- off to
+a great start.
+
+George S. Davis
+Executive VP & CFO
+
+And John, one thing I would add, we're going to see growth in all 3 of the major areas in data center, but
+the standout grower in Q2 is going to be cloud.
+
+Operator
+
+Our next question comes from the line of Ambrish Srivastava from BMO.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+Pat and George, I just wanted to come back to the IDM 2.0 strategy. George, you mentioned that ramping
+down on buyback, which makes sense, so you addressed somewhat capital allocation. But how should
+investors be thinking about the impact to P&L as you go through implementing IDM 2.0?
+
+And kind of related to that is free cash flow impact as you go to an elevated level of capital spend. And
+what really are the milestones that investors should be looking for?
+
+George S. Davis
+Executive VP & CFO
+
+Yes. And thanks for the question. We're clearly going to cover a lot of those details at our Analyst Day,
+which will be much more forward looking. And as you know, the investment cycles are -- for foundry are
+long. Not only does it take time to qualify. Customers also -- capacity additions take a certain period of
+time.
+
+What we're doing to be nimble is investing aggressively in the build-out of shells, which will give us -- and
+Arizona is a very good example of that, where, first off, we've been chasing demand for -- certainly since
+I've been here for a number of years. And the idea being we've got to have more optionality to respond to
+the market, both for foundry and also for our core market, which we cannot fulfill today.
+
+And so what you'll see from us is really building in that optionality. So you would expect capital to be up
+somewhat reflecting that. That will have some impact on free cash flow, but we also -- we have a good
+growth forecast and -- which helps obviously with the growth of cash from operations. And so overall, I
+think the investment cycle for this will be logical as we lay it out. The types of returns you can get will
+be in investment phase for sure for the next 2 to 3 years. But then you start to see customer demand
+starting to balance out the investment.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+Patrick P. Gelsinger
+CEO & Director
+
+Yes. And I'd just add to that from some of the things building on the Unleashed announcement in March,
+right, this is a good market, $100 billion foundry market, huge emphasis on that for leading-edge capacity,
+which we're uniquely suited to give. And I'll say, competitors aren't able to catch up with demand in this
+area and factories take a long time to build. And we're -- clearly, as George has laid out, this is something
+that the optionality helps our existing business as well as our foundry business.
+
+And finally, the characteristics of the foundry business for somebody like us, it's a good business. Not only
+is it large, but it has good margin characteristics, and we expect that we're going to be able to produce
+good returns over the long term.
+
+And as we think about this, again, we go back. The world needs more semiconductor capacity. It wants a
+more balanced supply chain. We're seeing industry say that. We're seeing government say that, and we're
+uniquely positioned to fulfill that.
+
+Operator
+
+Our next question is from the line of Vivek Arya from Bank of America.
+
+Vivek Arya
+BofA Securities, Research Division
+
+I had a question on the road map for gross margins, both kind of near and longer term. On the near term,
+your implied gross margins in the back half are about 55% plus/minus. Is this the trough or -- and is this
+kind of the starting point for calendar '22 that we should keep in mind as you start to invest more in 7
+nanometer?
+
+And then longer term, when I look at your CapEx now, it's about 25%, 27% of sales, much higher than
+depreciation. So what is the additional pressure as those things converge? And when I look at the foundry
+business that you're talking about, the best foundry in the world makes 50% gross margin. So how should
+we think about gross margin both near term and the longer term?
+
+George S. Davis
+Executive VP & CFO
+
+Yes. First off, we're probably not going to be able to forecast '22 and beyond on this call. We'll certainly
+give you an idea of what margins will look like over time at Analyst Day. But for the remainder of the
+year, as I talked about, the first half, second half dynamics are really -- we're in a supply-constrained
+environment in client, and it's constrained in a way that exposes us to more small core than we would --
+than our higher ASP and higher margin products.
+
+The other piece is the 7-nanometer start-up, which I talked about, which is a good factor. This is really the
+-- showing the readiness of both the process and products to move forward on 7 nanometer. We will get
+some help because we will see strong recovery from server. Some of that is muted a little bit because this
+is really where they're ramping to 10 nanometer off of 14, which was a very mature node. And so it won't
+be quite as rich as we would expect, but I feel good about where we can drive margins over the long run.
+
+You're not going to see material impacts this year from the IFS activities. Obviously, we'll be making some
+investments, but those investments for the next year or 2 really are critical just to meet -- much of that
+investment is critical just to meet the increasing demand that we see on a client.
+
+Vivek Arya
+BofA Securities, Research Division
+
+And when do depreciation and CapEx convert, George?
+
+George S. Davis
+Executive VP & CFO
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+They'll -- it'll depend really on what the multiyear capital picture looks like. So we'll have to wait and
+discuss that when we're ready to give a multiyear picture.
+
+Patrick P. Gelsinger
+CEO & Director
+
+Yes. I'll just say this is a pivotal year, right? I mean this is where we're building out the IDM 2.0 strategy.
+We're getting our product road map back in shape. Leadership products produce leadership margins.
+
+And as we see, as we go through the year, we have opportunities of supply, right? As we drive revenues,
+if we're overachieving and as George said in his prepared remarks, we'll -- if we overachieve in supply, we
+will see revenue. We'll see gross margin improvements and leadership products as we're committing to on
+our road map over time will get us back to leadership margins.
+
+So overall, this is pivotal, and we're well underway, right, and making that turn to have a -- I'll say Intel
+is back, right, with the kind of products, right, the kind of growth that you would expect, want to see from
+us.
+
+Operator
+
+Our next question will come from the line of Timothy Arcuri from UBS.
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research Division
+
+George, I had a two-part question. I guess the first thing is the $500 million in prepayments that was
+corporate related, where was that reported from a segment perspective? Or was it sort of like sprinkled
+throughout all the segments?
+
+And I guess the second part is just on CapEx, I know you had talked before about some CapEx had
+pushed from last year into this year. I think it was about $1.5 billion, something like that. So I'm sort of
+wondering what the right sort of new normal is as you trajectory into next year. Is it -- is like $20 billion
+the right number? Or is it a little bit less than $20 billion?
+
+George S. Davis
+Executive VP & CFO
+
+Yes. First off, the $500 million was not spread. It was in other revenue, so all in 1 place. On -- in terms of
+the CapEx, yes, we had basically 8 weeks or more of capital pushed out just because of the pandemic. It
+really affected the construction activities. And as you know, it continues to be challenging. But that was
+the -- probably the biggest factor that we saw last year.
+
+So maybe $1.5 billion to $2.5 billion, you could argue, is really just catching up with where we were
+behind from last year. And so you could add both that to our free cash flow estimates for the year. And
+also, you could bring down the CapEx requirements for this year. So I think $20 billion for this year is a
+good number, and we'll talk more about next year later.
+
+Operator
+
+Our next question will come from Pierre Ferragu from New Street.
+
+Pierre C. Ferragu
+New Street Research LLP
+
+Pat, I'd like to come back to all what you said about your foundry initiative, and there are really 2 ways I
+look at it. One is bringing a foundry service where your clients can integrate what they want to design with
+Intel's IP, and one is more like being like a mainstream general purpose foundry to compete more directly
+with existing players like Samsung and TSMC.
+
+And so what I -- and I think these 2 are very different in nature. And what I was wondering is, in the 50
+conversations you've had so far, what would you say the percentage of conversations were more centered
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+on the first one versus the second one. And then in your own mind, if you think about Intel in the long
+run, how do you see the balance between these 2 ways of being a foundry in your business mix?
+
+Patrick P. Gelsinger
+CEO & Director
+
+Yes. Thanks for the question, Pierre. I think it's a good question. And to some degree, I say we don't
+know, right? We're in this phase where we're beginning to engage with customers. We have a good
+pipeline of customers that fit in both of those buckets, right? And definitely, some of the cloud customers,
+particularly interested in where they can co-mingle or create, I'll say, hybrid design, some of their IP
+with some of our IP. And then we have a very rich pipeline of customers really across pretty much every
+segment of the industry, communications providers, automakers, et cetera, that would fit into the second
+bucket where it's much more about them using us as a world-class foundry for all of their designs.
+
+I'll say, we view this as a very, I'll say, right, broad set of customers that we're aiming at with a broad set
+of IP. And as we get IP for the RISC-V, the ARM ecosystem and the x86 ecosystem, our value proposition
+to customers is across that spectrum, where they don't need to opt priority side ours versus theirs. They
+get to design with that full spectrum.
+
+The other thing I would say, Pierre is we're also seeing extreme interest in our packaging technologies.
+And here, it might be a tile from Samsung or TSMC being combined with a tile from Intel, right? And those
+might be on older process technologies, newer process technologies and taking advantage of our world-
+class packaging and assembly test technology. So we really see that full spectrum coming to bear. And it
+really is that combination of world-class foundry, world-class IP, world-class assembly package and test
+that we think gives us a unique proposition in the industry. And so far, the enthusiasm is very high for that
+offering.
+
+George S. Davis
+Executive VP & CFO
+
+Yes. And Pierre, I would add, as you talk about the 2 different alternatives, 1 of the things to remember
+is that if you look at our internal road map, people are used to seeing a highly differentiated and very
+specific to Intel set of IP capabilities. We've said over time that it's very clear that we're going to be
+adopting more and more of the industry ecosystem, IPs and libraries because it makes sense to do it, and
+it makes sense in terms of cycle time, in terms of taking advantage of capabilities that already exist out
+there.
+
+So we're closing -- we're not going to -- when we intercept on some of these [ e-mails ], we're not going
+to be as far away, I think, as people might think in terms of being able to demonstrate a lot of knowledge
+around many of the IP blocks that our customers depend on today.
+
+Patrick P. Gelsinger
+CEO & Director
+
+Yes. And let me just add to that. I think it's a great point, George, because every IP that I generate from
+the industry increases the IP available to my internal design teams. Every piece of IP I develop internally
+is going to be made available to the industry, right, for their use as well. This becomes a powerful
+reinforcing cycle, right?
+
+Also, wherever we're being benchmarked against the industry for our process technology as we move
+to industry standard PDKs, right, we're seeing strong embrace from the EDA suppliers. So we see all of
+this as it makes our process better. It makes our products better. It increases our efficiency and takes our
+clock rate of innovation up with the industry. It's a powerful strategy.
+
+Operator
+
+Our next question will come from the line of Chris Danely from Citigroup.
+
+Christopher Brett Danely
+Citigroup Inc., Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+So it seems like we're in the middle of this never-ending [ fuselage ] of ARM products out there, both from
+a merchant and a captive perspective. So Pat, I just appreciate your thoughts on, I guess, where you see
+things shaking out on an x86 versus ARM, both in the PC and the data center space. And would you guys
+ever consider maybe licensing the x86 technology to some of your hyperscale customers and having them
+design their own products with the foundry?
+
+Patrick P. Gelsinger
+CEO & Director
+
+The simple answer to the last part of the question is, yes, that's what we just announced, right? x86 cores
+will be available on our foundry services and available for people to design with them. So that will include
+the cloud service providers to take advantage of that. So the simple answer is yes. And we do believe that
+the ability for our customers to take advantage of x86 this way will be a meaningful shift in how people
+think about ARM versus x86 because part of it was we weren't giving them the flexibility to design, to co-
+mingle IP as I've described it.
+
+So they really -- if they were trying to do unique design work, they didn't have a good x86 choice. We
+gave them our standard products, which have lots of capabilities. But in some of -- particularly for the
+cloud guy, I'd say, "Boy, I don't use those particular features. I really could optimize with a few of these
+other things in the network and the memory hierarchy." And now we're saying, "Absolutely, come on
+in." And we're opening the doors of our IP, the doors of our leading process and packaging technology to
+be able to say let's do this together or let them do their own designs in our foundry as well. It's a very
+powerful strategy that I think will be a meaningful shift in the exact question that you asked.
+
+Overall, we do think that making the x86 available this way is powerful. There are trillion lines of code
+that have been optimized for the x86. This is a powerful ecosystem that continues to have very great
+innovation and capabilities associated with it. And we're enhancing that with new capabilities like AI being
+integrated into the core instruction set of the new products, as you saw with Ice Lake. These are powerful
+differentiators. We're continuing to innovate, and the ecosystem is excited about what we're doing in our
+standard products as well as what we're making available through IDM 2.0.
+
+Operator
+
+And our last question will come from the line of Matt Ramsay from Cowen.
+
+Matthew D. Ramsay
+Cowen and Company, LLC, Research Division
+
+Pat, I wanted to ask a couple of questions on the data center in terms of architecture. And I think on the
+strategy event, I asked a similar one, and maybe we can dig into it a little bit more here.
+
+I know you guys just launched Ice Lake and a lot of new features and capabilities as you lay out, but it is
+a platform transition from Cascade Lake and then another platform transition on to Sapphire. And I just
+wonder, first, what's been the feedback from Ice Lake as you guys have sampled it and now launched it
+in terms of platform compatibility issues that customers might be facing? And I guess the second part
+of the question is what has been the feedback from customers that you've sampled Sapphire Rapids to,
+particularly around the change from a single die to a tiled architecture and what that does to the memory
+system.
+
+Patrick P. Gelsinger
+CEO & Director
+
+Yes. I think we could spend an hour on that question. So let me try to be quick here for it. The response
+from Ice Lake has been very strong. Early ramp is very strong. Obviously, with the platform change, that
+does put a bit more work on the part of the customers, but we've been working through that with them.
+Good response to that as well. And as your question suggests, I mean, clearly, it would be better if we
+weren't bringing a new platform transition with Sapphire Rapids as well. But there's so many good things
+in that platform that the customers are excited about, new PCI, new DDR and probably most seminally is
+the new CXL launch, right, as part of that.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+And I'll tell you, opening up, right, that additional interface on the platform has gotten tremendous
+support from the industry, new capabilities, co-processor capabilities, memory pooling capabilities. It
+really has been maybe the most exciting new platform capability since the PCI gen when we introduced
+that quite a number of years ago. So a lot of excitement about that. And particularly for cloud customers,
+who have seen their memory portion of their TCO costs rise quite rapidly, there's a lot of enthusiasm in
+that area of the platform.
+
+So I'd say, overall, yes, we would have probably liked to have less platform transitions than this has
+induced, but so far, the response from customers is they're going through those transitions with us.
+They're seeing value in those transitions. And particularly, as I say, as we look out to the Sapphire Rapids
+generation, there's a lot of value in there with some of the major, major enhancements that are part of
+that.
+
+Obviously, as we look further out in time, having more platform stability in the architecture, I think,
+is something we're striving for. And I think as we lay out the '23, '24, '25 road map directions to the
+industry, you'll start to see that theme much more seminally, right, centered in the road map. Also, I think
+as we get all aspects of our core leadership, our vector AI leadership, process leadership, all of those start
+to come into play, I think we'll see a very nice view of how that platform architecture lays out over time.
+
+Tony Balow
+Senior Director of Investor Relations
+
+Pat, you have closing thoughts for the call?
+
+Patrick P. Gelsinger
+CEO & Director
+
+Well, hey, first, I just want to again say thank you to everybody for joining my first call back as the CEO
+of VMware. One opportunity, last opportunity to say Intel is back. We're firing on all cylinders. Our best
+days are ahead of us. We're investing for the future. We're executing, and we're just getting started. Look
+forward to our next quarterly call with you.
+
+Tony Balow
+Senior Director of Investor Relations
+
+Thanks, Pat. Thank you all for joining today. Operator, could you please close the call?
+
+Operator
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+INTEL CORPORATION FQ1 2021 EARNINGS CALL |  APR 22, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+

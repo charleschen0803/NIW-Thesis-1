@@ -1,0 +1,1445 @@
+Arista Networks, Inc. NYSE:ANET
+FQ3 2021 Earnings Call Transcripts
+Monday, November 01, 2021 8:15 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2021-
+
+-FQ4 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+2.72
+
+2.96
+
+Revenue  (mm)
+
+738.12
+
+748.70
+
+Currency: USD
+Consensus as of  Nov-01-2021 4:34 AM GMT
+
+8.82
+
+1.43
+
+2.75
+
+10.69
+
+11.87
+
+752.53
+
+2864.45
+
+3226.76
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+FQ3 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+2.39
+
+2.38
+
+2.55
+
+2.72
+
+2.49
+
+2.50
+
+2.72
+
+2.96
+
+4.18 %
+
+5.04 %
+
+6.67 %
+
+8.82 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Ita M. Brennan
+CFO & Senior VP
+
+Jayshree V. Ullal
+President, CEO & Director
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+Liz Stine
+
+ANALYSTS
+
+Jason Noah Ader
+William Blair & Company L.L.C.,
+Research Division
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC,
+Research Division
+
+Jonathan Doherty Lopez
+The Vertical Trading Group, LLC,
+Research Division
+
+Meta A. Marshall
+Morgan Stanley, Research Division
+
+Paul Jonas Silverstein
+Cowen and Company, LLC,
+Research Division
+
+Pierre C. Ferragu
+New Street Research LLP
+
+Roderick B. Hall
+Goldman Sachs Group, Inc.,
+Research Division
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research
+Division
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc.,
+Research Division
+
+Tal Liani
+BofA Securities, Research Division
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research
+Division
+
+Amit Jawaharlaz Daryanani
+Evercore ISI Institutional Equities,
+Research Division
+
+Benjamin James Bollin
+Cleveland Research Company
+
+David Vogt
+UBS Investment Bank, Research
+Division
+
+Erik Loren Suppiger
+JMP Securities LLC, Research
+Division
+
+Fahad Najam
+MKM Partners LLC, Research
+Division
+
+George Charles Notter
+Jefferies LLC, Research Division
+
+Ittai Kidron
+Oppenheimer & Co. Inc., Research
+Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+Presentation
+
+Operator
+
+Welcome to the Third Quarter 2021 Arista Networks Financial Results Earnings Conference Call. [Operator
+Instructions] As a reminder, this conference is being recorded and will be available for replay from the
+Investor Relations section at the Arista website following this call.
+
+Ms. Liz Stine, Arista's Director of Investor Relations. You may begin.
+
+Liz Stine
+
+Thank you, operator. Good afternoon, everyone, and thank you for joining us. With me on today's call
+are Jayshree Ullal, Arista Networks President and Chief Executive Officer; and Ita Brennan, Arista's Chief
+Financial Officer.
+
+This afternoon, Arista Networks issued a press release announcing the results for its fiscal third quarter
+ending September 30, 2021. If you would like a copy of the release, you can access it online at our
+website.
+
+During the course of this conference call, Arista Networks management will make forward-looking
+statements, including those relating to our financial outlook for the fourth quarter of the 2021 fiscal
+year, longer-term financial outlook for 2022 and beyond, our total addressable market and strategy
+for addressing these market opportunities, the potential impact of COVID-19 on our business, product
+innovation, the imply of supply -- the impact of supply shortages and manufacturing constraints on our
+business, including lead times and inventory purchases, and the benefits of acquisitions, which are subject
+to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically in
+our most recent Form 10-Q and Form 10-K, and which could cause actual results to differ materially from
+those anticipated by these statements.
+
+These forward-looking statements apply as of today, and you should not rely on them as representing our
+views in the future. We undertake no obligation to update these statements after this call. Also, please
+note that certain financial measures we use on this call are expressed on a non-GAAP basis and have
+been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP financial
+measures to GAAP financial measures in our earnings press release.
+
+With that, I will turn the call over to Jayshree.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Thank you, Liz, and welcome to your first earnings experience. Thank you, everyone, for joining us this
+afternoon for our third quarter 2021 earnings call. Today's call will be followed by our Virtual Analyst
+Day at 3:00 p.m. Pacific Standard Time. We delivered record revenues of $748.7 million for the quarter,
+with record non-GAAP earnings per share of $2.96. A-Care services and software renewals contributed
+approximately 21.5%.
+
+Our non-GAAP gross margins at 64.9% was influenced by enterprise and cloud titan momentum. We
+remain pleased with our healthy customer growth, including record million-dollar customers and new
+customer logos in our mainstream enterprise.
+
+In Q3 2021, cloud titans was once again our top vertical, with enterprise being a close second, followed
+by financials and specialty cloud providers tied at third and service providers at fourth place. All verticals
+contributed to Arista's diversity and growth. International contribution was strong at 25% with the
+Americas at 75% for the quarter.
+
+No earnings call these days is complete without supply chain commentary. We are clearly in the midst of
+an acute supply chain crisis with increased prices and long lead times. We are changing our Arista mindset
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+from our historical build to forecast and orders to build to invest, doubling our purchase commitments in
+excess of $2 billion and planning for the next 1 to 2 years.
+
+Lead times of many components have extended to 50 to 80 weeks with price hikes ranging from 15% to
+as high as 200% across our entire supply chain of copper, steel, substrate, printed circuit board, memory,
+silicon, ICs, connectors, freight and labor. Arista has been deliberate and thoughtful about price increases
+so far, as we shared with you but we have recently announced increased list prices effective November 4,
+2021, averaging about an approximately 10% to offset the very high escalating costs.
+
+Customer demand remains strong for Arista products as we're gaining market share in 100- 200- and
+400-gig high-performance switching according to market analysts. We truly appreciate our customers and
+partners for their patience and understanding as we navigate these turbulent times throughout 2022 as
+well.
+
+Recently, we have witnessed the progress of our routing products with key customers and the acceptance
+of our routing edge use cases. Similar to cloud titan, carriers and large enterprise customers are deriving
+immense benefit from Arista's EOS and rich routing features. We deliver simplification and unified service
+delivery with the support of segment routing with traffic engineering and EVPN as well as rapid failover
+techniques. This provides that ideal alternative to today's complex legacy router deployments with much
+more improved total cost of ownership and CapEx benefits.
+
+Since its founding, Arista has pioneered the transformation from router to routing with our leaf/spine, R-
+Series platforms. Arista's third-generation R3 series based on EOS 4.26 delivers 3 new edge use cases
+this year. The first one is a multi-cloud edge that brings provisioning and programmatic traffic steering.
+The second is a metro edge for single protocol adoption across multiple edge VPN services into the metro
+ethernet fabric. And the final use case is a 5G RAN edge with the 5G edge disaggregating the radio area
+network with scale-out routing.
+
+Continuing our theme of big bet wins, I would like to highlight worldwide examples of our strength
+with specific customer names in routing and campus adjacencies. The first customer was CDLAN, an
+international service provider in Italy that adopted Arista for their routing transformation. Arista solution
+led them to take a fresh approach to routing for next-generation edge and backbone, reducing the
+complexity of protocols. This delivered L2 and L3 services with EVPN on a segment routed backbone, along
+with modern operations and superior services and experience.
+
+The second customer was Connecticut Education Network, who standardized on Arista's R-Series with
+Arista EOS being instrumental in their transformation of the MPLS VPN edge providing 100-gig density in
+with rough scale, stability and manageability. The advantages and the relationship with CEN across service
+and engineering affirm their decision to choose us at Arista.
+
+Peering between ISPs using 100-gig and MPLS PEs to replace their large legacy routers. The third
+customer was Zenlayer, an international customer in Asia Pacific, who is delighted to partner with Arista
+and build their next-generation cloud edge and routed backbone for the infrastructure growth. Arista's
+rich routing stack brought programmatic traffic engineering at the core of the segment routing without
+sacrificing quality, performance and reliability.
+
+And finally, in the campus, we continue to make progress towards our goal of doubling to $200 million
+in the cognitive campus in 2021. An example of this is an international customer win in Australia, the
+Australian Securities Exchange, providing cognitive campus for its corporate sites in Sydney, Melbourne
+and Perth. The new campus network is based on Arista's wired platform the 720XP Series, and it's built on
+a multiyear relationship we have built between Arista and ASX utilizing EOS and CloudVision for real-time
+insights across all devices in trading and nontrading environments.
+
+In summary, Arista's customers strongly endorse our client-to-cloud strategy to unify silo data sets
+consistently. We believe we are well positioned for the next phase of growth in data-driven cloud
+networking with proactive platforms, predictive operations and a prescriptive experience. We look forward
+to sharing more of this and our vision and our goals with you at our Analyst Day later this afternoon.
+
+I will pass it over now to Ita Brennan, our Chief Financial Officer, for financial specifics. Ita?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+Ita M. Brennan
+CFO & Senior VP
+
+Thanks, Jayshree, and good afternoon. This analysis of our Q3 results and our guidance for Q4 of 2021
+is based on non-GAAP and excludes all noncash stock-based compensation impacts, certain acquisition-
+related charges and other nonrecurring items. A full reconciliation of our selected GAAP to non-GAAP
+results is provided in our earnings release.
+
+Total revenues in Q3 were $748.7 million, up 23.7% year-over-year and above the upper end of our
+guidance of $725 million to $745 million.
+
+Shipments remained constrained in the period as we continued to carefully navigate industry-wide
+supply chain shortages and COVID-related disruptions. Services and subscription software contributed
+approximately 21.5% of revenue in the third quarter, down from 22.3% in Q2. International revenues for
+the quarter came in at $191 million or 25% of total revenue, down from 27% in the second quarter.
+
+The shift in geographical mix on a quarter-over-quarter basis reflect a continued healthy performance
+from our cloud titan and in-region businesses in EMEA with some volatility in our APAC business. Overall
+gross margin in Q3 was 64.9% at the upper end of our guidance range of approximately 63% to 65%.
+We continue to recognize some incremental supply chain costs in the period, and these were offset by a
+healthy mix of revenue from our enterprise customers in the quarter.
+
+Operating expenses for the quarter were $192.4 million or 25.7% of revenue, up from last quarter at
+$189.8 million. R&D spending came in at $125 million or 16.7% of revenue, up from last quarter at
+$119.6 million. This reflected increased headcount and employee-related costs and higher new product
+introduction spending in the period. Sales and marketing expense was $55.8 million or 7.4% of revenue,
+down from $57.9 million last quarter with lower demo and other variable expenses in the period. As a
+reminder, we continue to benefit from lower COVID-related travel and marketing expenses.
+
+Our G&A costs came in at $11.6 million or 1.5% of revenue, down slightly from last quarter, but in line
+with normal quarterly seasonality. Our operating income for the quarter was $293.7 million or 39.2% of
+revenue. Other income and expense for the quarter was a favorable $1.3 million, and our effective tax rate
+was approximately 19.7%.
+
+This resulted in net income for the quarter of $236.9 million or 31.6% of revenue. Our diluted share
+number was 79.9 million shares, resulting in a diluted earnings per share number for the quarter of $2.96,
+up approximately 22.5% from the prior year.
+
+Now turning to the balance sheet. Cash, cash equivalents and investments ended the quarter at
+approximately $3.4 billion. We repurchased $134 million of our common stock during the third quarter at
+an average price of $357 per share. As a recap, at the end of Q3 2021, we had repurchased $897 million
+or 3.9 million shares against our Board authorization to repurchase $1 billion worth of shares over 3 years
+beginning in April 2019.
+
+In October 2021, Arista's Board of Directors increased the authorization by adding an additional $1 billion
+to the repurchase amount. The actual timing and amount of future repurchases will be dependent on
+market and business conditions, business requirements, stock price, acquisition opportunities and other
+factors.
+
+Now turning to the operating cash performance for the third quarter. We generated $273 million of cash
+from operations in the period, reflecting strong net income performance and continued investments in
+inventory and supply chain. DSOs came in at 49 days, up slightly from 47 in Q2, reflecting the linearity
+of billings in the period. Inventory turns were 1.7x, consistent with last quarter. Inventory increased to
+$575.7 million in the quarter, up from $543.2 million in the prior period as we continued to buffer certain
+components and products.
+
+Our purchase commitments number for the quarter increased to $2.1 billion, up from $1.1 billion in Q2.
+This reflects a combination of increased lead times for many components and improved demand visibility.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+We continue to prioritize newer early life cycle products for inclusion in this strategy to help mitigate the
+risk of obsolescence.
+
+Our total deferred revenue balance was $800 million, up from $746 million in Q2. The majority of
+the deferred revenue balance is services related and directly linked to the timing and term of service
+contracts, which can vary on a quarter-by-quarter basis. Approximately $113 million of the balance, up
+from $90 million last quarter represents product deferred revenue largely related to acceptance clauses for
+new products, most recently with our larger cloud titan customers.
+
+As a reminder, we are currently in a period of significant new product introductions, combined with a
+healthy new customer acquisition rate and expanded use cases with existing customers. These trends in
+conjunction with reduced levels of upfront in-person testing have resulted in increased customer-specific
+acceptance clauses and higher product deferred revenue amounts. Accounts payable days were 47 days,
+down from 54 days in Q2, reflecting the timing of inventory receipts and payments.
+
+Capital expenditures for the quarter were $45.9 million, including approximately $40 million of CapEx
+related to the purchase of land to construct a new data center and hardware engineering building in Santa
+Clara. We'll provide more details on this project over coming quarters.
+
+Now turning to our guidance for the fourth quarter and beyond. As outlined in our guidance, we now
+expect to achieve year-over-year revenue growth for the full year 2021 of approximately 25%. This
+reflects continued healthy demand across all market sectors, tempered by the impact of the difficult
+supply environment. On the gross margin front, industry supply constraints and elevated logistics costs
+continue to pressure gross margins, with customer price increases as a potential offset. Based on our
+current outlook, we continue to reiterate our overall gross margin outlook of 63% to 65%, with customer
+mix remaining the key driver of volatility on a quarter-by-quarter basis.
+
+Turning to spending and investments. We remain committed to growing our investments in R&D to support
+innovation across the business and sales and marketing to support our go-to-market expansion. Finally,
+we also announced today that Arista's Board of Directors has approved a 4 for 1 stock split. Each Arista
+shareholder of record at the close of business on November 11, 2021, will receive 3 additional shares for
+every share held and trading will begin on a split-adjusted basis on November 18, 2021.
+
+With all this as a backdrop, our guidance for the fourth quarter, which is based on non-GAAP results and
+excludes any noncash stock-based compensation impacts and other nonrecurring items is as follows:
+revenues of approximately $775 million to $795 million, gross margins of 63% to 65%, operating margin
+of approximately 37%. Our effective tax rate is expected to be approximately 20.5% with diluted shares
+on a pre-split basis of approximately 80 million shares.
+
+I will now turn the call back to Liz. Liz?
+
+Liz Stine
+Thank you, Ita. We are now going to move to the Q&A portion of the Arista earnings call. [Operator
+Instructions] Operator, take it away.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Samik Chatterjee with JPMorgan.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+Congrats on the strong results, really impressive. So let me keep it broad-based, Jayshree. I think you
+mentioned strong demand that you're seeing, and I think you highlighted cloud customers in the press
+release. But just generally, if you can talk to how broad-based is the demand that you're seeing across
+cloud, and then what is the kind of magnitude of demand that you're seeing from enterprise customers?
+And how do you think about sustainability of that level of demand, which you're seeing this year? How do
+we think about sustainability of that into next year?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Well, thank you, Samik, for the good wishes. It's a proud moment and I really congratulate my entire
+leadership team and my employees for getting us here. I think demand is very strong, as I mentioned
+in my earlier script, across all 5 verticals across all 3 product lines and across all 3 sectors as well. So
+I would not -- I would tell you, we are growing in that what Ita highlighted as our 25% annual growth,
+every sector was growing.
+
+And so that's, in some ways, I feel bad that I even have to rank and rate them. But if you ask me to
+highlight some of the growth vectors, I would say, obviously, cloud titans are back. We had a rough fell. If
+you remember, 2 years ago, Halloween was not a treat. It was a trick. And it's just come back and it is a
+volatile sector, and it's positively volatile right now. So we're enjoying the growth of cloud titans.
+
+We're also enjoying many pieces of our enterprise market growing. And there are really some verticals
+there that are doing very, very well, not just the financials, but different parts of the enterprise. I think
+it's fair to say Arista has arrived in the enterprise. We've been growing double digits for a couple of years,
+and we expect to continue to see double-digit growth in the enterprise sector. And this is by far our largest
+momentum of all the verticals, I would say.
+
+But not -- as I mentioned, a lot of routing use cases, these routing use cases are not only in the cloud
+titans, but are obviously also in service providers and enterprises as well. So we're just enjoying a very
+diversified momentum of our business at the moment.
+
+Operator
+
+Your next question comes from the line of Fahad Najam with MKM Partners.
+
+Fahad Najam
+MKM Partners LLC, Research Division
+
+I wanted to ask you a question on the visibility. You mentioned that certain components have lead times
+have extended from 50 weeks to 80 weeks. I presume your customers in turn are giving you forward-
+looking guidance as well. So can you give us a sense on the visibility you're seeing? And help us quantify
+that in any way you can.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Sure. I'll say some few words, and Ita, if you could add to that. I think because of these kind of long lead
+times on our components, first thing Ita and the team are doing, Ita and I'm sure the entire team are
+planning ahead. And we're no more like we said, building to forecast orders but really building to a future
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+demand. So visibility becomes very important in that case because it's no more 1 or 2 quarters. The cloud
+tightness visibility has improved a lot this year.
+
+Typically, it used to be 1 to 2 quarters. Right now, it's more like a year or more. So this is the best
+visibility we've ever had with the cloud titan that's allowing us to build the inventory and to build a plan
+and to get ahead, if you will. In the enterprise as well, nobody's lead times are very good right now, and
+we're no different. Although we thought and we believe we have a head start by starting on this problem
+as early as last year. We have hundreds of suppliers, and we've had to increase our strategic interface with
+these suppliers to -- and make, again, bets on them long term.
+
+So visibility in the enterprise is also 6 months to a year, visibility in the cloud and specialty cloud providers
+is now exceeding a year. So in general, we're now able to make a plan to buy components well ahead of
+the purchase orders and forecast. Ita, do you want to add something more?
+
+Ita M. Brennan
+CFO & Senior VP
+
+Yes. I mean I think the only thing I'd add, Fahad is it's hard to be too quantitative when you think about
+demand and bookings just because obviously, the lead times and the times frames are very different,
+right? So I think from -- just from a business perspective, we'll continue to focus on the revenue and the
+revenue metrics and then the bookings numbers will kind of ebb and flow. But obviously, right now, you
+are getting a lot of visibility to what's happening with customers just because we need that to be able to
+drive the types of purchase commitments et cetera we're driving.
+
+Operator
+
+Your next question comes from the line of Rod Hall with Goldman Sachs.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+Yes. And again, I'd like to echo the positive comments. These are phenomenal results in this environment.
+I guess my question is regarding the COGS and the cost of some of the products you're getting from
+Broadcom, other companies we've talked to during this earnings season has talked about really high
+expedite fees. And just wondering if you're seeing those? And how they're factoring into the forward cost
+in the business. Like are you able because of this visibility to set your prices at a level that compensate
+for it? Will we see higher COGS unwind, maybe the early part of next year. I'm just curious whether you're
+seeing those expedite fees and then how they might affect margins at some point?
+
+Ita M. Brennan
+CFO & Senior VP
+
+Rod, I think everybody is seeing -- I don't want to talk about a particular supplier, but we are seeing
+expedite fees and incremental costs kind of across the supply base, right? And you haven't seen those
+in the gross margins in the income statement to date just because the mix has been more enterprise
+heavy. And that's been kind of offsetting that, right? I think we are -- as Jayshree mentioned, we are in
+the process of instituting some price increases, et cetera, to help offset some of those costs. So that will
+help.
+
+I think we're comfortable thinking about that 63% to 65% range is still being reasonable. But you will see
+some more volatility quarter-by-quarter just as the mix of the business. The customer mix is still going
+to be the biggest driver. The other costs we're managing with some of the price increases, et cetera. But
+when we have a heavier kind of cloud mix in a particular quarter, et cetera, we will see some lower gross
+margins than what we've seen over the last couple of quarters.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+And thank you for the good wishes, Rod.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+Sure, Jayshree. No problem. Just a question. Our customer -- what about the cloud customers, are they
+willing to accept a little bit of price increase, knowing that things are getting more expensive. Just curious
+what the conversations are like there.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+I would say all our customers are very understanding, but nobody is willingly accepting price increases,
+including the rich cloud titans.
+
+Operator
+
+Your next question comes from the line of Jim Suva with Citigroup.
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+Truly spectacular. And I got to just ask about the build to forecast versus build to order. Kind of when did
+you implement that? And what was the reaction of some of your customers? Or is it more internal? And
+what I'm wondering is how much further you may be ahead of some of your competitors? It sounds like
+it's actually maybe something that you're looking for, for like the next couple of years if you have lead
+times going so long.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Right. First of all, I just want to give a big shout out to Anshul, John McCool, Susan Hayes and the
+entire manufacturing team. If you -- let me just step back, Jim, and thank you for the kind wishes. The
+traditional model for everybody has been built to forecast, Lead times are based on supplier commits.
+There's some buffers, but most of it is just in time, right? And very rarely does anybody pay for expedites.
+
+If you look at supply chain in 2022, first of all, expedites are a way of life. It doesn't matter which vendor
+it is. You have to plan not just weeks ahead, but months ahead. Often, you can get decommits from
+suppliers. There's shortages across the board. There's lots of orders with no buffers. Everybody is coming
+at them sometimes and we used to think the high-tech industry is special. But some of the components
+we're talking about, we compete with the automotive industry and the consumer industry, which makes it
+tougher.
+
+And it isn't surprising at all to see expedites involve not just CEOs, but heads of countries literally. That's
+how rough it is. So it's a very oversubscribed process. We thought we got a head start by starting when
+was it Ita, late last year when Anshul and the team put together a plan. So we've definitely had a head
+start. And if things have gotten better, we would be well ahead of everyone. But just things keep getting
+worse.
+
+So now the head start is good, but we have to add to that head start and hence, the doubling of the
+inventory. And without naming any vendor, I'll just say we've increased the strategic nature of our
+relationship with not just 1 or 2 vendors, but 25% of our vendors. So this is a much larger relationship
+pool, and we're committing to them long term. They're committing to us, but both of us have to be patient
+and understanding of the short-term troubles we have.
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+And again, a really big congratulations to you and your entire entity.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+Thank you. Big kudos to my team.
+
+Operator
+
+Your next question comes from the line of Paul Silverstein with Cowen.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Two earlier questions, if I may. Was there any 200-gig from Facebook and any 400-gig revenue from
+Microsoft in your third quarter? And do you expect in the fourth quarter? And Jayshree, would you care
+any comment on the outlook for next year? I know supply chain is challenging, but...
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. I'm just checking to see, but there was 400-gig revenue overall. As I told you last time, we have
+increased our customer logos in the 400-gig category from 75 customers last year to the first half was
+150, and we're trending to about 300 customers. So they're definitely 400-gig. I need to double check on
+whether there was any 200-gig. Let me beg off that question. Ita, do you have...
+
+Ita M. Brennan
+CFO & Senior VP
+
+Yes, I was just going to say, Paul, some of the commentary on the deferred is probably relevant here,
+too, where we talked about the deferred balance becoming more cloud titan heavy this quarter, whereas
+before, there had been more other verticals, et cetera, right? So I think that's -- so we may not have had
+revenue, but we probably had activity. We deferred the revenue.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+So we have some deferred, too.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+So that's what I thought. But just to be specific Jayshree, the question specific to Facebook and Microsoft,
+I assume a lot of that revenue is being deferred or maybe it's not. But that's the specific question.
+
+Ita M. Brennan
+CFO & Senior VP
+
+Yes. I think we grew our deferred revenue when we mixed definitely towards cloud, and that includes new
+products, right? So that's kind of...
+
+Jayshree V. Ullal
+President, CEO & Director
+
+It's our 200-gig and 400-gig.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+All right. And would you care to give any comment about the outlook for next year?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+We are going to at the Analyst Day. How about then?
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+I can wait 30 minutes.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+All right. And suppose if you're in the East Coast, I apologize for keeping you up late, but we'll make it
+short and sweet. I think our Analyst Day will be 2 hours.
+
+Ita M. Brennan
+CFO & Senior VP
+
+Yes.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+So you don't have to stay up too long.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+All right. I appreciate.
+
+Operator
+
+Your next question comes from the line of Sami Badri with Crédit Suisse.
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research Division
+
+Jayshree, you've mentioned a couple of times talking about reference to enterprise wins and that really
+kind of dialing up as far as momentum. But if you were to bullet point the key reasons why you're winning,
+you continue to win with what it would sound like increasing momentum.
+
+Can you just highlight them for us because most of the people on this call are used to hearing about very
+defendable sales channels and many other vendors with very comprehensive solutions. Can you walk us
+through the key sales pitch and just what is resonating with the enterprise customers?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Right. And again, I'll give some of this at the Analyst Day, but I'll give you an abbreviated version Sami.
+First of all, I think our relevance in the enterprise customer has increased from data center is really a
+much broader portfolio that's client to cloud, going all the way from campus, WiFi, [indiscernible] design
+for the data center to routing and a very large dose now of software and services as well, everything from
+A-Care to CloudVision to cloud in the U.S. to total cloud software as well as our recent acquisition of Big
+Switch and Awake now contributing as well to segmentation, observability and security as well.
+
+So the completeness and the innovative nature of our portfolio itself. The second thing that's helped is
+our Power of One, if you will, one OS, one image, one cloud vision. Customers just love the -- not just the
+innovation, but the quality and support. I'm not having to buy silo boxes, but having an innovative and
+much better operator experience with a much lower TCO. And finally, at the enterprise customers is that
+we have now much as we talk about products, we have invested in customers. Our investment in sales led
+by Chris Schmidt and Ashwin Kohli and the entire team worldwide really began in 2017.
+
+So this is our third or fourth year of enterprise investment. And I think we're now seeing the results of
+that. The first and second year, we were kind of getting in, and we're just coming into the campus. And
+now I think we're coming on to our own in a complete holistic fashion.
+
+Operator
+
+Your next question comes from the line of Jason Ader with William Blair.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+Jason Noah Ader
+William Blair & Company L.L.C., Research Division
+
+Yes. First, I want to say horrible numbers you guys need to do better. But my question is, can you quantify
+the backlog or book-to-bill or anything that might help us understand kind of how much of a gap there is
+between demand and supply. And is there any risk that customers are over ordering right now where you
+could see an air gap in demand maybe in some time in 2022.
+
+Ita M. Brennan
+CFO & Senior VP
+
+Yes, Jason, I know lots of folks have been talking about bookings and trying to put some boundary around
+that. I just think it's really hard from a timing perspective. When you have these lead times, of course,
+you're going to have accelerated bookings and larger bookings. And certainly, we have our fair share of
+that, right? There's no -- it's always difficult to talk about the business, I think, in that context. So we're
+more focused on what can we deploy and that's how we're running it internally as well, right?
+
+What are the periods where these bookings will get deployed and building out deployment plans. And
+that's really what's going to matter. And I think when you think about the business that way, the pull-ins
+and push-outs of the actual bookings numbers and how much visibility you're getting, et cetera, becomes
+less important, right? So not kind of duck -- not ducking your question, we have obviously lots of demand.
+We've talked about the demand that we have, but these are extended lead times. So we're just focused on
+making sure we understand how it's going to get deployed.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. And I want to echo what Ita just said. We're not going to get excited about backlog. We're a little bit
+excited about deploying our customers with real revenue. And some of the backlog may materialize and
+remember, they're cancelable orders, some of them may not. So it's best to be responsible as a company
+as we always have been and share with you that demand is certainly outstripping supply. No question
+about that. And we're going to work hard as hell on fulfilling the supply and improving the supply.
+
+Operator
+
+Your next question comes from the line of Meta Marshall with Morgan Stanley.
+
+Meta A. Marshall
+Morgan Stanley, Research Division
+
+Great. I realize it's kind of difficult to quantify the supply chain impact currently. But if any way you help
+us with the gross margin impact? And should we see the gross margin step down in the guide is more
+supply chain related or more related to the mix of revenue types?
+
+Ita M. Brennan
+CFO & Senior VP
+
+Yes. I think the best way to think about it is that we've been operating at the upper end of that range for
+the last couple of quarters. That's definitely a customer mix effect, right? It's offsetting some of the cost
+impacts as well. And we've been deferring some of the -- as Paul was talking about, some of the larger
+customer revenue as well.
+
+So I think as you look forward kind of outside of these quarters, when the mix of the business comes back
+to something more balanced, I think you will see back towards the bottom end of that range from time to
+time. I think we believe we'll stay in the range over a long period of time, but there will be quarters where
+we could be pressuring the bottom end of that range and maybe even break the bottom end of that range.
+
+While for, say, for 4 quarters, I think we can still be okay. So there is definitely a customer element to
+this. There's a cost increase element to this, and we will benefit from some customer price increases here
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+that will help offset some of that. But I think the days of living at the upper end of that range, I wouldn't
+assume that we can do that on an ongoing basis as you look forward.
+
+Meta A. Marshall
+Morgan Stanley, Research Division
+
+Got it. And not to trouble you in the -- like any forward guidance, but just for the price increases,
+obviously, you probably wouldn't see most of that impact in Q4, you would expect the price increases to
+impact more Q1 in 2022. Would you...
+
+Ita M. Brennan
+CFO & Senior VP
+
+Yes, we do expect.
+
+Operator
+
+Your next question comes from the line of David Vogt with UBS.
+
+David Vogt
+UBS Investment Bank, Research Division
+
+Great. This is a question for both, I guess, Jayshree and Ita. I just want to follow up on the cloud titan
+CapEx and the hyperscaler CapEx and the visibility. I think it's fairly well documented that the balance of
+this year into 2022, There's going to be significant data center expansion and availability expansion by the
+hyperscalers so that's clearly reflected in your confidence.
+
+But you noted that you have a little bit more than a year visibility. I mean how should we think about
+2023? I know we don't even have '22 guidance yet, but given the strength and the expansion and the
+availability and the data center trajectory, how do we think about that? And then just as a follow-up on
+pricing, when you think about the 10% price hike that you're going to implement in a couple of weeks,
+in your mind, is that sort of more than offsets the supply chain? Or is there a way to quantify how we're
+thinking about price versus the margin impact from the higher components? Does it reduce it by 50%? Is
+there some way to think about it that we can model out going forward?
+
+Ita M. Brennan
+CFO & Senior VP
+
+Yes. No. I mean, we've tried to be very transparent with customers in terms of what we're seeing on the
+cost side and looking for them to help us kind of offset that. So we're definitely not looking to increase
+margin or make margin on that. We've been very open and transparent with what we are seeing on the
+cost side and looking for help to offset that. Jayshree, anything you want to add there?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. And to answer your question on 2023, I guess I would say stay tuned for the Analyst Day, we'll try
+and give you better visibility on 2022 and give you some visionary statements on 2023 and beyond.
+
+Operator
+
+Your next question comes from the line of Amit Daryanani with Evercore ISI.
+
+Amit Jawaharlaz Daryanani
+Evercore ISI Institutional Equities, Research Division
+
+And I'll extend my congratulations as well to you. I guess when I look at your performance in '21 based
+on the midpoint of your guide for December, I think you would have clearly gained some sizable market
+share in the year. I'd love to understand, do you think the share gains are coming from white box vendors
+or coming more from sort of the traditional competition that you have?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+And then maybe a second part to this, as you think about the next couple of years, could you see
+customers that use white box solutions today come to Arista? And if so, what do you think would motivate
+them to do so?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Both very good questions and related to each other. I would say this year with all the supply chain issues,
+much more of our share gains is coming from enterprise and cloud titans. Just getting our fair share from
+our peers in the industry, not necessarily white box. If you fast forward to later years, I do think Arista
+will have an advantage, not just in product capability, but also in the ability to rapidly supply product
+probably better than some of the white boxes. And Anshul has often alluded to this. So the make versus
+buy decision for many of our cloud titans may shift in the direction of Arista rather than strictly white
+boxes.
+
+We look forward to that. I'm not going to make any guesses on that, but I don't preclude that and Ita has
+Anshul when he's spoken in the past. So it certainly wasn't part of the market share gains and the growth
+this year, but it could be next year.
+
+Operator
+
+Your next question comes from the line of Pierre Ferragu with New Street.
+
+Pierre C. Ferragu
+New Street Research LLP
+
+I am very intrigued by the 1-year visibility you have with your cloud clients. And on that front, I was
+wondering, first, Facebook, one of your important clients hiked up their CapEx for next year by like 60%,
+65% or so last week.
+
+And I was wondering, is that something that is I would say, aligned with the visibility you have or if it
+came as a surprise. And then along the same line, within that visibility, how do you see the spending of
+cloud titans changing in terms of how it is split between what's happening inside the data center, which is
+more on the switching side and what is more happening outside the data center in the DCI and more on
+the routing side.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. Thanks, Pierre. Both again, very good question. So I'll take the second one first. I think Arista's
+presence for most part until recently has been intra data center. But what has been phenomenal to watch
+my cloud titan team do, led by Anshul, Mark and others is the use cases have proliferated, not only
+outside the data center of a DCI, but routing AI use cases, top-of-rack use cases, special customized use
+cases. So both within the data center and outside Arista is getting its fair share of opportunity to respond.
+And we're doing a lot of proof of concepts and testing work with them.
+
+Regarding the cloud titan CapEx spend, we're always surprised when the numbers actually come out
+because they're in billions. And of course, they're nowhere close to the percentage they spend with us
+necessarily. But our relationship with Facebook dates back now at least 4, 5 years.
+
+We have done joint development with them in the FBOSS and we've jointly developed products with them.
+We have shared with you in the past that we are developing our next generation of products with them
+with 200-gig. So we were pleasantly surprised, but we were not completely surprised.
+
+Operator
+
+Your next question comes from the line of Aaron Rakers with Wells Fargo.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+Congratulations as well from me. I think the one number that stands out the most to me is your $2.1
+billion plus purchase commitments, and I think that's up over 4x relative to what it was exiting last year.
+I think going into kind of the June quarter, the expectations were that maybe some of these component
+constraints would start to ease as we move into the mid-part of 2022 and certainly into the second half?
+
+And just curious, your best assessment right now where you stand on some of those lead times starting
+to normalize or shorten back down? And do I think that you're going to carry kind of this higher degree of
+visibility well into 2023 at this point?
+
+Operator
+
+And Presenters are -- is your line muted?
+
+Ita M. Brennan
+CFO & Senior VP
+
+Sorry about that. I don't know when that [indiscernible]. Where did I stop. Yes. So I think -- sorry, Aaron,
+can you help me with how much of that you got.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+Actually, I didn't hear any of it. I apologize.
+
+Ita M. Brennan
+CFO & Senior VP
+
+Okay. All right. Okay. Let me start. Yes. So I think, look, we probably have 2 dynamics happening. We've
+seen a push out of lead times again with the products and the vendors that we were managing directly.
+And that's probably -- I think now our view is that's probably the end of 2022 before we start to see things
+get better there.
+
+In addition to that, we've also seen it kind of broaden out to other components, right? And we're now
+managing vendors directly that would have normally gone through the supply chain gone through the
+contract manufacturers, et cetera, and we're having to engage directly with those suppliers.
+
+And then that's also driving some increase in those purchase commitments, and we're looking out longer
+with those suppliers as well. So it's a combination, I think, of both of those is taking that number increase.
+We are trying to focus on new products and products that have long life cycles. So that gives us a little bit
+more leeway there in terms of taking a longer view, and we'll continue to do that. But yes, I don't think
+we've kind of asked the point yet where things are improving.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+And Aaron, we see this as an important investment to the business. It is a decision that Ita, myself and
+Anshul have made very consciously to say we got to invest in the business, and we've got to invest in
+getting product to our customers. So we think this is an important part of our decision-making process
+because of the prolonged situation here with supply chain.
+
+Operator
+
+Your next question comes from the line of Ittai Kidron with Oppenheimer.
+
+Ittai Kidron
+Oppenheimer & Co. Inc., Research Division
+
+Congrats. Great quarter. I guess a couple of questions from me. First of all, with regards to the purchase
+commitments. Can you give us a little bit more color whether -- this is a response to competitors of yours
+doing the same with your suppliers? And does this lock in volume? Or does it also lock in price for the
+components that you're buying?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+Ita M. Brennan
+CFO & Senior VP
+
+Yes. No, I think it's totally us working on our own strategy. And as Jayshree mentioned earlier, we started
+to do that right back at the beginning of last year even. So just a continuation of that. I think the biggest
+driver is obviously what's happening in the supply chain and understanding what's happening in the supply
+chain and just the breadth of suppliers that we need to kind of manage directly and start to deal with
+directly right now. I mean I think that's the biggest driver of the change as opposed to anything that
+anybody else is doing, et cetera. I'm sorry, what was the second part of your question, Ittai?
+
+Ittai Kidron
+Oppenheimer & Co. Inc., Research Division
+
+Does it lock in just the volume? Or does it also lock in the prices for you going forward?
+
+Ita M. Brennan
+CFO & Senior VP
+
+Yes. I mean, when you make long-term commitments, there is kind of a pricing element to that, that
+you have a set price base. As things start to get better, we'll see how some of that plays out, right? But
+there obviously is a pricing in the market today, and that pricing is kind of what you're making these
+commitments at. And -- but as time -- as we've seen over time in the past, as things start to loosen up
+and some of that can change as well. But right now, it is a commitment to volume and price.
+
+Operator
+
+Your next question comes from the line of Simon Leopold with Raymond James.
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc., Research Division
+
+As you probably remember, earlier in my career, I was told never to high-five management on a public
+call. I'll leave it at that. I've done the last. I wanted to see if maybe you could expand a little bit on the
+campus opportunity, which sounds like it's overshadowed by what's going on in data center. But just want
+to get a better sense of where you stand in that part of your business and the trajectory?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Thank you, Simon. We will take your virtual high-five. I think the campus business has been very relevant
+to a seat at the table in -- with enterprise customers. We're now starting to see enterprise wins and logos
+where we win the campus before we win a data center because many of these campuses don't have large
+data -- many of these enterprises don't have large data centers. So I think the conversation, the strategy,
+the ability to bring all of the silo data sets together, whether it's in your campus or data center or on
+the core or WAN or branch is very important, and customers are looking to us to build their modern and
+modernize their enterprise network.
+
+So from that standpoint, although the numbers are still small, and we're talking about doubling from 100
+to 200. We think it will be extremely relevant strategically with our enterprise customers and to grow,
+obviously, in the next few years. There's also a component of channels where we're still pretty nascent.
+And most of our success and engagement to date is direct, albeit fulfilled by channels, but we hope that
+will change over time, and that will add further strength to our campus.
+
+Operator
+
+Your next question comes from the line of Tal Liani with Bank of America.
+
+Tal Liani
+BofA Securities, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+I have 2 questions. One is just if you can give us an update on campus switching, where you are versus
+your targets? If you said it, I apologize, I just didn't hear it. And second, I just want to understand kind of
+about the accounting. Can you go over again the price increases? When are they kicking in? If they kicked
+in already?
+
+And then what happens with your cost of goods sold since it's on FIFO. I'm assuming it's on FIFO like
+everyone else. Does it mean that right now, you're still recording cheaper components, so the margins
+are higher. I'm just trying -- or maybe I'm totally wrong, I just want to understand kind of the margin
+evolution as component pricing goes up and pricing increases kick in.
+
+Ita M. Brennan
+CFO & Senior VP
+
+Yes. I mean...
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Go ahead.
+
+Ita M. Brennan
+CFO & Senior VP
+
+It's some combination of all of those, Tal. There are some expedite costs, et cetera, that end up being
+period expenses that we've been recognizing. We recognized a chunk last quarter. We had some again in
+Q3. There are other costs like higher price -- higher pricing increases, et cetera, that will end up being
+inventoried and will flow with the inventory. And some of that obviously will burn through the inventory
+that we have in the supply chain, and then we'll start to see those costs.
+
+Those will line up better, hopefully, with some of the price increases that we are passing on to customers
+as well. I mean this is -- it's going to be complex. It won't necessarily be perfect, right? But as we look at
+the various different scenarios, there's a better chance of those lining up with the price increases. So that
+will help kind of offset some of that.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+And finally, Tal, on the campus. We committed to double the $100 million achievement we had last year,
+this year, and we -- here we are sitting 2 months away from the end of the year. So we believe we will lose
+it and we will have to set a new goal for next year.
+
+Tal Liani
+BofA Securities, Research Division
+
+Got it. And just going back to the margin. So I know you're probably going to discuss it tonight, but just in
+general, how do we think about gross margin going forward?
+
+Ita M. Brennan
+CFO & Senior VP
+
+Yes. I mean, it's definitely part of the discussion later.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Right. And I think you already mentioned. What was mentioned already is we continue to believe with the
+price increase effective November 4, which will really be effective next year by the time customers realize
+it and see it that we will be able to offset the escalating costs and our gross margin will depend on mix.
+And as Ita has often said, if we are heavily mixed on the cloud titans, we could be on the low end of the
+63% to 65% and pressured on gross margin there. If we're heavily mixed on the enterprise, we could be
+on the mid- to high end like we have been with the last couple of quarters.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+Operator
+
+Your next question comes from the line of Ben Bollin with Cleveland Research.
+
+Benjamin James Bollin
+Cleveland Research Company
+
+Jayshree, I was hoping you could talk a little bit about how you view the current technology build-out, the
+new technology build-out for both enterprise and cloud as they start to transition into 200 and 400. How
+you see similar or different versus what you saw from 2016 to 2018 with more cloud titans building out
+100. Any thoughts on duration, behavior? Any puts and takes would be interesting.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Sure, Ben. I think the cloud titan behavior will be different than the enterprise behavior. On the cloud
+titan, you're going to see a much more rapid inflection to 200-gig and 400-gig, especially in the spine
+layers and the uplinks at the top of rack. And they've always been an early and fast adopter of speeds
+and technology, especially within a data center or even data center to data center. So we are expecting an
+inflection of 200- and 400-gig.
+
+That basically has started this year was very challenged with the ecosystem and availability of optics and
+even switches the last year. The year of inflection, in my view, is really late this year and goes well into
+2022. On the enterprise too, we expect to have by the end of this year, 300 customers of 200 and 400-
+gig, primarily 400-gig, I would say. And as you know, our customer base is more than 7,000. So obviously,
+100-gig and 400-gig will continue to coexist and live happily ever after together. But we will start to see
+the uptick and adoption of 400-gig in the high end and early adopters of enterprise as well, like we're
+starting to see this year.
+
+So I think the next few years can be best characterized as inflection of new higher speeds like 200 and
+400 and the continuation and adoption of 100-gig in the mainstream enterprise.
+
+Operator
+
+Your next question comes from the line of Erik Suppiger with JMP Securities.
+
+Erik Loren Suppiger
+JMP Securities LLC, Research Division
+
+Yes. Congrats. And curious, how has the constraints affected the 400-gig market? It sounds like you've
+been doing well there, but has that been a factor? And does that make a difference from a market
+share perspective? Do you have any advantage or disadvantage in terms of access for your 400-gig
+components?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Erik, I'd say we are as constrained on 400-gig components as we are 100-gig components. So it's been
+a factor for all speeds, which is constrained. What can I tell you? So -- but our market share continues to
+be strong in both. We're doing well in both. Our flagship platform, the 7800, which is especially 400-gig
+dependent is one of the most popular products. At the same time, our [ shift to 80 ] and 100-gig versions
+of 75 and 7800 are very, very popular, too. So supply chain is bad for everything. It's not necessarily
+picking one speed over the other.
+
+Erik Loren Suppiger
+JMP Securities LLC, Research Division
+
+Are the optics anything different?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+Optics is actually better than last year in terms of the ecosystem for 400-gig coming up, but not different
+other than that. It's actually improved for 400-gig.
+
+Operator
+
+Your next question comes from the line of George Notter with Jefferies.
+
+George Charles Notter
+Jefferies LLC, Research Division
+
+I guess I wanted to go back to your statement earlier, I'm paraphrasing, but I think you said you were
+running the business to demand rather than orders or something to that effect. Could you go back and
+kind of expand upon that? I'm just curious about what you meant on that. I assume you're trying to look
+through customer order books and try to see what they really need as opposed to excess ordering. Maybe
+you could just expand on that.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+It's actually the other way around, George. What we've said is all the just-in-time and build to forecast
+and being extremely disciplined about buying inventory only when the customer puts in an order has gone
+up the window a little bit. And because of these long lead times, we're having to plan to order well ahead
+of the customer orders or forecast. That's what we meant.
+
+So it's build to purchase orders to our supply chain rather than build to customer purchase orders. If that
+makes sense. Since they're still constrained on long lead times. So we're making a bet that the supply
+chain constraints, which I hope will eventually improve, will favor those of us who make this kind of
+purchase commitments. So we're having to get in there early and fast even before the customer orders
+come in.
+
+George Charles Notter
+Jefferies LLC, Research Division
+
+Out of curiosity, do you have any flexibility on those purchase commits? I mean are they cancelable on
+your side?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Most of the semiconductor components are noncancelable, but that's just the way the business is run.
+We've been careful to choose components that we don't need to cancel like picking new products, which --
+and taking common componentry across them. So we believe there's limited risk in the investment we've
+made.
+
+Operator
+
+Your final question comes from the line of Jon Lopez with The Vertical Group.
+
+Jonathan Doherty Lopez
+The Vertical Trading Group, LLC, Research Division
+
+And I apologize because I'm going to stay on the same topic. But hopefully, it will be the last one we can
+cover the rest of the stuff on the Analyst Day. This has been alluded to a few times. If we look at your
+largest competitor, they've also like roughly doubled their purchase commitments fairly recently. You're
+now doing the same.
+
+The dollars collectively are like many multiples larger than either of you have ever carried. I guess my
+question here is, to what extent do you think inventory is actually evolving into a competitive weapon
+as we think about '22 and '23? And maybe like to what extent does it introduce risk, like if you can't get
+supply as fast or in the same quantities that you're envisioning now, can that influence your revenue
+outlook in '22 or in '23?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+Ita M. Brennan
+CFO & Senior VP
+
+Yes. No, I think there's no doubt that supply is shaping our revenue line right now, almost more so than
+demand, right? I think that is a factor, right? We are constrained. So supply is definitely a factor. I think
+-- in terms of looking at the purchase commitments, we're working very carefully with these suppliers.
+And again, we're expanding kind of the breadth of what we're doing and we are expanding kind of the lead
+times and the length of time that we're covering with those purchase commitments. And I think that's
+important. And again, we're doing it on new products, newer products that have significant lives ahead of
+them. So really, the risk we're taking somewhat is tying up some cash, et cetera.
+
+It's not because of the life cycle of the products and stuff, it's not really an obsolescence risk, right? But
+it could take some time to burn through that inventory if things change. But I think it's well -- it's a bet
+that's worth making. We're making it obviously in consultation and discussion with customers, et cetera.
+But it is kind of a longer lead time and then a broader set of suppliers than we'd normally carry. That's
+why you're seeing that big uptick is we're not only doing it for the owners that we used to buffer in the
+past directly, but we're also now doing it for components that would have come to us through the CMs in a
+normal supply environment.
+
+Liz Stine
+
+This concludes the Arista Q3 2021 Earnings Call. We have posted a presentation, which provides additional
+information on our fiscal results, which you can access on the Investors section of our website. Thank you
+for joining us today.
+
+Operator
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+ARISTA NETWORKS, INC. FQ3 2021 EARNINGS CALL |  NOV 01, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+

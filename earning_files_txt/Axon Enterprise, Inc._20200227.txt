@@ -1,0 +1,1184 @@
+Axon Enterprise, Inc. NasdaqGS:AXON
+FQ4 2019 Earnings Call Transcripts
+Thursday, February 27, 2020 10:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2019-
+
+-FQ1 2020-
+
+-FY 2019-
+
+-FY 2020-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+GUIDANCE
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+0.38
+
+0.41
+
+7.89
+
+0.28
+
+-
+
+1.00
+
+1.04
+
+4.00
+
+1.28
+
+146.31
+
+171.85
+
+17.46
+
+138.22
+
+130.87
+
+505.06
+
+530.86
+
+5.11
+
+588.05
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Feb-24-2020 8:30 AM GMT
+
+FQ1 2019
+
+FQ2 2019
+
+FQ3 2019
+
+FQ4 2019
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+0.16
+
+0.16
+
+0.26
+
+0.38
+
+0.21
+
+0.14
+
+0.28
+
+0.41
+
+SURPRISE
+
+31.25 %
+
+(12.50 %)
+
+7.69 %
+
+7.89 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Andrea Susan James
+Senior Vice President of Investor
+Relations & Corporate Strategy
+
+Jawad A. Ahsan
+Chief Financial Officer
+
+Jeffrey C. Kunins
+Chief Product Officer & Executive
+VP of Software
+
+Joshua M. Isner
+Chief Revenue Officer
+
+Luke S. Larson
+President
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+ANALYSTS
+
+Andrew Paul Uerkwitz
+Oppenheimer & Co. Inc., Research
+Division
+
+Charles Lowell Anderson
+Colliers Securities LLC, Research
+Division
+
+George James Godfrey;C.L.
+King & Associates;Equity
+Research Analyst
+
+James Eugene Faucette
+Morgan Stanley, Research Division
+
+Jeffrey Ted Kessler
+Imperial Capital, LLC, Research
+Division
+
+Jonathan Frank Ho
+William Blair & Company L.L.C.,
+Research Division
+
+Joseph Amil Osha
+JMP Securities LLC, Research
+Division
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+Michael James Latimore
+Northland Capital Markets,
+Research Division
+
+Scott Randolph Berg
+Needham & Company, LLC,
+Research Division
+
+William Verity Power
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Presentation
+
+Operator
+
+Good afternoon. My name is Carmelie, and I'll be your conference operator today. At this time, I would like
+to welcome everyone to the Axon's Q4 2019 Earnings Call. [Operator Instructions]
+
+I'll now turn the call over to our host for today, Andrea James, VP of Investor Relations and Corporate
+Strategy. You may begin your conference. [Operator Instructions]
+
+I'll now turn the call over to our host, Ms. Andrea James. You may begin.
+
+Andrea Susan James
+Senior Vice President of Investor Relations & Corporate Strategy
+
+Thank you, Carmelie. Hello, everyone. Welcome to Axon's Fourth Quarter 2019 Earnings Conference
+Webcast. I'm Andrea, as just introduced. Here in the room in Scottsdale headquarters, we have Axon's
+CEO, Rick Smith; President, Luke Larson; CFO, Jawad Ahsan; and Chief Revenue Officer, Josh Isner. And
+joining us from our Global Software Hub in Seattle is our Chief Product Officer, Jeff Kunins.
+
+I hope you've all had a chance to read our shareholder letter, which was released after the market closed.
+You can find it at investor.axon.com. And for the first time, we've published an ESG addendum, which you
+can find in the PDF linked on our website.
+
+Management's remarks today are meant to build upon the information in that letter. During this call, we
+will discuss our business outlook and make forward-looking statements. Any forward-looking statements
+made today are pursuant to and within the meaning of the safe harbor provision of the Private Securities
+Litigation Reform Act of 1995. These comments are based on our predictions and expectations as of today
+and are not guarantees of future performance.
+
+All forward-looking statements are subject to risks and uncertainties that could cause actual results to
+differ materially. These risks are discussed in our SEC filings.
+
+I will now turn the call over to Rick Smith, our Chief Executive Officer.
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+Thanks, Andrea, and thank you, everyone, for joining us today.
+
+I'm incredibly proud of everyone here at Axon for delivering another banner year with strong top and
+bottom line performance, while simultaneously executing on several major product launches. 2019 was
+the year we planted the flag for our moon shot to make the bullet obsolete with the publication of my
+book, The End of Killing.
+
+Before this decade is out, we will deliver a TASER  weapon that will outperform a semiautomatic pistol
+in the effective and reliable incapacitation of a human subject. That will be a game changer. And we've
+doubled down on our mission to make justice system more efficient, more transparent and more
+equitable. We will leverage the power of artificial intelligence to enhance public safety, but with oversight
+from our industry-leading AI ethics board to ensure we also cherish and preserve individual rights and
+privacy in the balance. We are emboldened as we look to the future from our strong base of execution our
+team delivered this past year.
+
+In 2019, we scaled the all-new TASER 7, while implementing significant design improvements in the
+cartridges. We introduced the industry's first body camera with live streaming, and we went live with
+Axon Records. We also made significant investments in people and processes to improve future product
+launches. I told you in August that we had high expectations for Axon Body 3, and we're planning for
+meaningful shipments in Q4. We delivered on that promise.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Q4 revenue of $172 million was up 50% year-over-year, reflecting record volume camera shipments.
+About 75% of our body camera units shipped in Q4 were Axon Body 3. For the full year, we grew revenue
+26% to $531 million. It feels great to top $0.5 billion in revenue, but I'm even more focused on what this
+signifies.
+
+Axon products provide real value to our customers and the communities they serve. We're absolutely
+thrilled that customers are selecting our most meaningful integrated bundles. We're going to keep
+innovating on behalf of this historically underserved market, and our top line performance demonstrates
+that our customers are savvy and eager to adopt the latest technology.
+
+We're also very pleased with our bottom line performance. In Q4, 6 additional performance goals in
+our eXponential Stock Performance Plan for our employees became statistically probable in light of our
+strengthened future outlook. This did result in a significant catch-up stock compensation expense that
+affected GAAP net income. Excluding the impact of that, the results are pretty impressive. In Q4, we more
+than tripled our adjusted EBITDA over last year. And for the full year, adjusted EBITDA grew 43% to $88
+million.
+
+I would again like to thank, you, our shareholders, for approving our eXponential Stock Performance
+Plan, which align the entire company to the same growth goals as my CEO performance plan. I believe
+the strong performance and increased probability of hitting those goals are the direct result of our
+implementing the most innovative widespread incentive program in any public company today. So, thank
+you.
+
+We delivered operating leverage in 2019, even with gross margin headwinds as we sell our 5-year high-
+value integrated bundles, which carry a lower gross margin upfront, but increase in years 2 through 5. So
+we are successfully selling customers our highest value offerings in a true win-win scenario. But that does
+create some margin pressure, but we were able to deliver bottom line leverage this year regardless. We've
+all embraced the practice of being very intentional and strategic with our capital allocation and our R&D
+investment, and I feel confident that we exited 2019 the strongest we have ever been.
+
+Now Luke can talk about how, in 2020, we're focused on building for scale.
+
+Luke S. Larson
+President
+
+Thanks, Rick. I do want to congratulate our team. Our company goal was to ship 60,000 Axon Body 3
+cameras in 2019 in order to support our upgrade programs as well as the demand for the new product.
+This was an ambitious goal. And given some of the headwinds we faced in Q2 with operations, it was
+really important to us as an organization to deliver on this goal for our customers as well as shareholders.
+Everyone executed at year-end from sales to engineering to manufacturing to operations and supply
+chain. And we not only made a lot of customers happy who are waiting on their new cameras, but we
+proved we have the muscle to meet a surge in demand even on the new product line.
+
+Not only that, we accomplished this record revenue quarter while also sequentially reducing operating
+expenses excluding stock comp and driving adjusted EBITDA leverage. In fact, if we exclude stock comp,
+SG&A was down both year-over-year and sequentially, and this is really a testament to our strengthened
+cost control muscle as well as leverage we see in our model.
+
+Looking forward, our big theme for 2020 is build for scale. This means making sure we have the right tools
+and people in place and that everyone stays focused on execution just like in Q4. We see ourselves as
+building a $2 billion revenue business, and we get there by staying focused on our mission and building
+upon our virtuous cycle. More users means more data, which means better products leading to better
+societal outcomes, which means more users completing the virtuous cycle.
+
+In 2020, we will continue to drive adoption of the Officer Safety Plan, which combines a TASER, a body
+camera and a host of mission-critical software capabilities. More than 100 agencies have adopted Officer
+Safety Plan 7, and more than 70% of those users are on the highest tier, which carries the most premium
+software features.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Before I turn the call over to Jawad, I want to take a moment and talk about the coronavirus. Our
+operations team has been effective managing through this situation thus far. And at this time, given
+the current impacts, we feel that we can manage toward our full year guidance and that we have some
+flexibility to be adaptable. However, like every company dealing with this, we are closely monitoring this
+and in constant communication with our supply chain and this may impact year-end if the situation further
+develops. But currently, we feel good about our guidance.
+
+With that, I'll turn over the call to Jawad to talk about some of our areas of expansion for 2020.
+
+Jawad A. Ahsan
+Chief Financial Officer
+
+Thanks, Luke.
+
+Before we move on to our 2020 outlook, I also want to take a moment and say how proud I am of our
+team. After a tough Q2 last year, our teams faced into the challenges and worked hard to regain ground,
+proving that we could deliver strong top line growth and margin expansion in 2019. If our finish to the
+year reinforces anything, it's that Axon has a strong sense of accountability. Our customers are counting
+on us to deliver life-saving products and our credibility with shareholders is vitally important to us.
+
+At our Investor Day in November of 2017, we laid out a 3-year vision for the company that showed our
+path to continued strong top line growth, while also turning around our declining margins. We also set a
+goal for ourselves to be profitable in the body camera and DEMS business within 3 years, and we achieved
+that ahead of schedule.
+
+Since 2017, our revenues have grown at an annual CAGR of 26% and our EBITDA margins have expanded
+to 16.5% on an adjusted basis. The body camera business is now profitable and the TASER 7 and Axon
+Body 3 launches are now behind us.
+
+We are heading into 2020 with strong tailwinds on profitability that we intend to use to slingshot our way
+to the next phase of growth. We have built a high-growth, high-margin, high-retention $161 million ARR
+enterprise software business, and we haven't even begun recognizing revenue for Axon Records.
+
+Today, we're charting a new path to the company. We have set for ourselves a north star that, by the
+end of the decade, we will have achieved the following: First, TASER weapons will be the primary means
+to stop a threat. Second, AI-enabled body cameras will eliminate the majority of manual report writing.
+Third, cloud-enabled devices will be the primary means to dispatch officers in the field. And finally, Axon
+will be a household name by virtue of the transformative value we'll create for society and shareholders.
+
+From a financial standpoint, we'll also have built a business that we're targeting to deliver revenue growth
+of over 20% per year and achieve continued operating leverage with EBITDA margins approaching 30%
+on an adjusted basis. To get to these outcomes, we see a unique opportunity to accelerate the funding of
+some of our most promising new growth initiatives.
+
+In 2020, we'll invest over $100 million in R&D and new channel growth, excluding stock comp. An example
+of one such R&D initiative is dispatch. Our goal was to bring dispatch to market in 2020, and that team
+is tracking so well under the leadership of Josh Pepper that we expect to have our first paying customer
+live within the first half of this year. This deployment will see Axon displacing a major competitor in the
+dispatch space. We expect to have a competitive dispatch product in market and widely available by the
+second half.
+
+In terms of channel growth, one of our key initiatives is our investment in federal. In 2018, we hired
+Richard Coleman from General Dynamics to head up our federal business, and he has led us to some
+terrific early wins, such as the U.S. Forest Service and the DOJ's Bureau of Alcohol, Tobacco, Firearms and
+Explosives. We're excited about the prospect of serving that $1.5 billion TAM, and we'll be investing more
+aggressively in this area going forward.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+While we're very excited about the momentum we're carrying into 2020, we are not stopping to celebrate.
+We are instead putting the pedal to the floor, and you can expect us to continue to execute with a high
+degree of accountability.
+And with that, operator, let's turn to questions.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Scott Berg with Needham.
+
+Scott Randolph Berg
+Needham & Company, LLC, Research Division
+
+Congrats on a very strong quarter here. Several questions, where do I start, because I get one. I guess
+let's start on the CAD environment a little bit. I like the announcement that you're going to have the
+product available this year. We've done a fair amount of work kind of on this space. One of the things we
+found is customers are less interested in a cloud-based CAD model, at least today. Can you help us try to
+understand the successes that you think you're having there at least early on with maybe a beta customer
+or 2 in particular that can kind of untap this area that's maybe different than what they're used to today?
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+Yes. We love entering new markets where the initial customer reaction is no. When we started with
+electrical weapons, we heard no; when we started with the body cameras, we heard no; when we started
+with cloud digital evidence software, we heard no. That tells us we have the opportunity to be first to
+move the market. When we think about CAD, really what they're talking about is reliability. And indeed,
+the reliability and uptime of the major cloud providers dwarfs what your average municipal city could do
+in terms of uptime themselves. So reliability really comes down to 2 things: the reliability of your Internet
+connectivity and the reliability of the system, if you lose Internet connectivity.
+
+So the first one is not a huge problem to solve. They have redundant Internet access through multiple
+carriers. And over the next few years, I think we're going to see all sorts of new ways to connect to the
+Internet: 5G, low earth satellites in addition to ground-based systems. So that is -- it is certainly a fear
+that customers have because I think they sort of think in terms of, "Well, sometimes I lose Internet
+connectivity," but that's a solvable problem. And then the other is, if you do lose connection to the
+Internet, we've engineered our system in such a way that we've done some demos where we've watched
+customer's jaw hit the table when we just unplugged the Internet and the system keeps chugging away
+just fine. So when we get in front of actual customers with demos, we think that those are -- that's an
+absolutely solvable perception issue that sets us up to, again, I think, move the market this direction.
+
+Operator
+
+Your next question comes from the line of Jonathan Ho of William Blair.
+
+Jonathan Frank Ho
+William Blair & Company L.L.C., Research Division
+
+Can you hear me okay?
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+Yes, we got you.
+
+Jonathan Frank Ho
+William Blair & Company L.L.C., Research Division
+
+Perfect. So when we look at your guidance for 2020, how do you think about sort of the growth over the
+course of the year? And what maybe gives you the confidence that we're going to have a little bit of a
+stronger second half ramp?
+
+Joshua M. Isner
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Chief Revenue Officer
+
+Yes. Ultimately, I think there's an element of -- first of all, this is Josh Isner. Ultimately, there's an element
+of seasonality there, where the second half does tend to be stronger as we spend the first half of the year,
+building up the pipeline with people in newer territories. We're doing a lot to expand our channel in terms
+of both inside and outside sales right now. And so while we expect good results in the first half of the year,
+certainly, similar to last year, we'll see revenue weighted toward the back half. And we're already laying
+the groundwork right now for that to become a reality.
+
+Operator
+
+Your next question comes from the line of James Faucette.
+
+James Eugene Faucette
+Morgan Stanley, Research Division
+
+I wanted to ask, you talked about in the press release and I think in the prepared comments about
+increasing investment during the course of 2020. I'm wondering if you can provide some color as to where
+that investment is directed, what kind of roles, et cetera, and then, what you expect the outcome and time
+to payback to be on that investment just as we're kind of calibrating. Obviously, things are going at least
+as well if not a bit better than you'd expected maybe a little while ago. And so just trying to get a sense as
+to where you're thinking about that investment and the impact it will have.
+
+Jawad A. Ahsan
+Chief Financial Officer
+
+Yes. That's a great question. And you're right, it's the right way to think about it, we are making
+investments and expecting to leverage that into our next phase of growth. And so the investments really
+fall into 3 categories. The first one is the investment we're making in the product. And as you know, Jeff
+Kunins joined us as Chief Product Officer, has just reinvigorated our product organization. And under Jeff's
+leadership, we've decided we're going to make investments, specifically in things like dispatch. It was a
+big one that we've highlighted as an area we're excited about for accelerating an investment in addition to
+investments we're already making in products like Records.
+
+The second area are channel investments. So we mentioned federal. Federal is an interesting one that's
+both a product investment. There's some work we need to do to get the product ready for the federal
+market. But then there's also a channel investment as we build out the channel under Josh Isner and his
+team.
+
+And then third, Luke mentioned in his prepared remarks, how we're building for scale. And a portion of
+the investment we're making in 2020 is also to help build the business for scale and really in some of the
+support functions and systems and processes that are going to get -- really support us as the company
+approaches $1 billion in revenue. And as far as the payback, that's something that really, you can see
+reflected in our strengthened outlook over the -- we've got an outlook for the next few years that's
+reflected in the additional tranches that became probable. So we're expecting that payback, certainly,
+within the next few years.
+
+Operator
+
+[Operator Instructions]
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+We didn't hear that last question here at Axon.
+
+Operator
+
+Your next question comes from the line of Joseph Osha.
+
+Joseph Amil Osha
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+JMP Securities LLC, Research Division
+
+Can you hear me?
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+Yes.
+
+Joseph Amil Osha
+JMP Securities LLC, Research Division
+
+Okay, great. As we look into 2020, it's interesting the unit composition of your -- the CEW business has
+kind of purposed around a bit, I'm wondering if we can expect in 2020 that mix to shift more decisively
+over to TASER 7.
+
+Joshua M. Isner
+Chief Revenue Officer
+
+Yes, absolutely. I think the first half of last year was a time where large and small agencies were
+evaluating the TASER 7, trialing it in the field for 30- to 60-day periods at a time. And that led to a little
+slower adoption in the first half. It obviously picked up in the second half, and we expect to continue to
+have momentum toward upgrading TASER -- our TASER customers to TASER 7. Specifically, this year, we
+are very, very focused as a sales team on upgrading all of our customers to 2-shot devices, and again,
+especially, TASER 7, and the market is responding well to that concept, and we feel like we've got the
+most effective and just best overall CEW we've ever come out with. We're hearing it from our customers.
+There's excitement over it internationally as well. And we have a lot of confidence that we're going to have
+a big year with TASER 7 this year.
+
+Operator
+
+Your next question comes from the line of Will Power with Baird.
+
+William Verity Power
+Robert W. Baird & Co. Incorporated, Research Division
+
+Great. Yes. I guess, I want to ask a question on AB3. Obviously, you have a really strong quarter, and it
+seems like above, perhaps, where expectations were, at least relative to guidance. So just kind of curious
+on what drove the -- I guess, the upside relative to prior expectations, how much of that was kind of pull
+forward? And I guess kind of tied into AB3, any thoughts with respect to contract manufacturing impacts
+from coronavirus, any other supply chain impacts you can call out there that give you any pause for
+concern on meeting demand out there?
+
+Luke S. Larson
+President
+
+Yes, great question. Let me answer the first part about, the general AB3 demand was driven by 2 primary
+things: One is, in our bundled offerings, we have TAP -- some upgrades. One is our TAP program, where
+they pre-signed for the second device, and so there's a lot of demand for that, that we had previously sold
+in addition to new demand for the product. In terms of the coronavirus, as it sits today, our ops team has
+been working around the clock since it's broke and we've been in communication with our supply chain too
+and had actually kind of diversified this with some of the tariff impacts earlier in the year. And so as it sits
+today, we've got a clear path, but this is a dynamic situation. And like everyone, we're monitoring it day-
+to-day.
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+Yes. I would just double down, this is Rick. The significant majority of those AB3 units were part of our
+hardware subscription plan. So one of the great things that, I believe, we actually innovated as a business
+was this idea of combining a SaaS software with hardware with predetermined upgrades, so they get a
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+new camera every 2.5 years. And we saw the power of that. Whereas, for example, TASER 7, there was
+more testing and time to ramp, whereas with AB3, because that was on an automatic upgrade plan, we
+had tens of thousands of cameras waiting for delivery. So it really became just our ability to produce and
+ship. So we've been very pleasantly -- maybe surprised is too strong a word. It's been great to see that
+reaction and that's elements you can expect to see us to continue to move toward in our business. It
+really helps our customers too. If they want to be on the latest technology and being able to not worry
+about whether it's hardware or software or a service, knowing that with one contract plan, with our Officer
+Safety Plan, they just continually get updated to the latest capabilities.
+
+Operator
+
+Your next question comes from the line of Charlie Anderson with Dougherty & Company.
+
+Charles Lowell Anderson
+Colliers Securities LLC, Research Division
+
+Congrats on a great end of the year. I wanted to focus on TASER gross margins. I wonder if there's a
+path back to 70% or so there. Just what you're seeing there in terms of the -- what's embedded in the
+guidance for '20 for TASER gross margin? Then also, on that cartridge number was very large in Q4, just
+wondering what's going on there and sort of the interplay between cartridges and units moving forward.
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+Yes. So this is Rick. So yes, we continue to -- we believe TASER margins will continue to march back
+upward from here, heading back towards 70%. Jawad, have we given a time frame on that or just to state
+in general on that 70%?
+
+And then on the large number of cartridge shipment, so one of the things that impacted TASER margins
+last year was we had a margin issue on the cartridges in the first half of the year that led to the challenges
+in Q2, and I'm so proud of the team that they are able to not only correct those delivery challenges, but
+also to engineer a fair amount of cost out of the cartridges. Now we'll really begin to see those cartridge
+cost savings in 2020 because once we got the cartridge redesign done, we have a lot of backorders. So
+the reason those cartridge shipments were so high was we had cartridge down, production down, for a
+good part of Q3 that demand really built up into Q4. So we had a very heavy margin -- I'm sorry, we had
+a very heavy shipment quarter on cartridges, and we were still struggling with higher than usual scrap
+since the new design came online and higher than the cost that we expect to see going forward. So we
+expect to see significant improvements this year in margins in TASER business.
+
+Operator
+
+[Operator Instructions] The next question comes from the line of Jeff Kessler with Imperial Capital.
+
+Jeffrey Ted Kessler
+Imperial Capital, LLC, Research Division
+
+With regard to the integration of evidence into the entire package, at what point -- you talked about
+various parts of your program beginning to draw, I guess, if you want to call it, draw demand in. At what
+point do you see enough of the rest of the business out there sold as a system so that customers will be
+asking for evidence as opposed to you having to push sell it into them?
+
+Luke S. Larson
+President
+
+So since 2008, we've been selling a combined digital evidence management cloud software system with
+the body camera, and that we've been very successful at creating this category of a cloud-based software
+and a connected hardware device. In the last few years, we've now bundled that with our TASER offering
+as well. And our latest programs include some of our advanced software capabilities like Records, which
+are mission-critical to agencies and we're seeing a lot of demand in those bundle offerings. And when we
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+go in, we lead with the entire capability as a service for how we can create value for the agency. And the
+demand is very strong, strongest for our highest value bundled offers.
+
+Jeffrey Ted Kessler
+Imperial Capital, LLC, Research Division
+
+And that ultimately leads to profitability for evidence?
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+Yes.
+
+Luke S. Larson
+President
+
+Yes.
+
+Operator
+
+Your next question comes from the line of Mike Latimore with Northland Capital.
+
+Michael James Latimore
+Northland Capital Markets, Research Division
+
+Great. I think over the last year or so, you've been building out an enterprise software sales team. I guess
+how many people do you have in that group? And how fast you think you might grow that this year?
+
+Joshua M. Isner
+Chief Revenue Officer
+
+Well, look, we're making investments across the business. Certainly, we're making investments on the
+sales team in the field to get ready to sell additional products like Records and Dispatch. I think it's equally
+important that we're making investments on our customer success team to ensure that customers are
+having a great experience with us, and they continue to use all of the elements of the bundles that they're
+buying. We're also making investments on our inside sales team and our federal channel and international.
+And we'll keep investing in the channel until we feel like we have full coverage across the market. And so
+we're going to keep adding people to make sure they have a reasonable number of accounts to manage.
+We're going to keep adding people to make sure that we offer the best customer experience in the market.
+And when that day comes, we don't need to add people anymore.
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+And one thing I would add, Josh, this is Rick, we -- it's not like we're -- we're not building a software
+sales team from scratch. 10 years ago, we had the TASER weapon sales team. When we launched body
+cameras and software, it was really combined offering of body cameras and cloud software. And so there,
+we -- as we scaled up that team, that team is almost entirely people that come from enterprise software
+sales backgrounds because that -- it really is an enterprise software sale that comes with hardware
+attached. And so that same sales team, we're continuing to expand it. But that same sales team already
+has that skill set and they're dealing typically with the CIOs and the people that are -- at least in the more
+sophisticated agencies, the body cameras are being driven by the IT shop that has the relationship with
+that sales team. So I just don't want to leave the impression that this is a new thing we're building up. We
+already have, I think, a very capable software sales team. We're just now arming them now with very high
+margin, pure software place that they can sell as well.
+
+Joshua M. Isner
+Chief Revenue Officer
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Absolutely. And we're focusing on coverage, right? Like the most important thing is these very talented
+salespeople have manageable territories and manageable account list that they're able to sell into. And
+certainly, we're doing that in a very calculated way.
+
+Operator
+
+Your next question comes from the line of Keith Housum with Northcoast Research.
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+Hoping you guys give us an update on the Records systems, now that you guys are a few quarters into
+it, actually able to deploy it. How close are you guys to actually recognizing revenue on a consistent basis
+with that? And perhaps you can give us an idea on how many customers you have using it and lessons
+learned over the past few quarters.
+
+Jeffrey C. Kunins
+Chief Product Officer & Executive VP of Software
+
+Sure. This is Jeff. Well, first, I think we are -- I am incredibly excited. We're all incredibly excited about
+Records for 3 key reasons: The first is just hands down the experience. Every single agency we've showed
+it to simply loves the Axon Records experience. It's hands down the best they've ever seen in the category
+regardless of whether they're ready to switch to it yet or not. And number two is this thing we call
+Standards. And Standards is specifically the module within Axon Records that's used for use of force and
+internal affairs reporting. And it's a unique, fast and high-value way for customers to immediately start
+using and getting value from Axon Records. Right now, immediately, regardless of whether they're ready
+to switch over their entire RMS yet. And customers love it. And as we've already seen, like we talked
+publicly before about Cincinnati, in particular, it perfectly tees up their decision to then go all in with Axon
+Records as soon as they're ready to make a change.
+
+And then the third is, as we continue to build this out, is the SAM or the addressable market for the
+category, and I'm incredibly encouraged both by the velocity and the quality that we're building out
+Records at. And we're on track just to dimensionalize that for you that by the end of 2020, we're going to
+be the obvious RMS choice for about half of domestic agencies, both large and small.
+
+And we're incredibly excited by the feedback we've gotten from live customers like Fresno and Cincinnati
+with Standards, and the momentum is great, and we're super excited about it for the rest of the year.
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+Got you. So are you guys recognizing revenue already? Or is it still sometime in 2020, we'll see that?
+
+Jawad A. Ahsan
+Chief Financial Officer
+
+No. We are not recognizing revenue yet.
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+Great. And then if I can squeeze another one in here, I guess, I'll be the one guy that doesn't comply with
+the one question rule. Can you guys help us understand -- sorry, help us understand what's different in
+terms of the federal agency that requires additional investments in the product compared to what you
+have currently?
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+Yes. I'll take that one. So federal agencies, just the way they purchase is just really quite different.
+It's almost like just a different language. So having people with federal sales experience like Richard
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Coleman, it's just a different animal from the talent -- the sales process that happens at state and local
+agencies. And then there's things like getting the product through the FedRAMP certification. That took
+what, 2 or 3 years and millions of dollars of investment to be compliant with the FedRAMP standard,
+which is not a standard that applies for the product in state and local agencies. There, we were -- CJIS
+compliance was a much easier standard to get to. There's just a lot more compliance load on dealing with
+the federal agencies. And so at this point, it's our understanding, we're the only CJIS -- or I'm sorry, the
+only FedRAMP software product in this category. And we've now started to bring agencies online. And so
+we're continuing to build that out. We're also -- there will be times where the federal agencies are going to
+just have additional capabilities that we'll need to invest in that might be different from some of the state
+and local guys.
+
+Operator
+
+Your next question comes from the line of Andrew Uerkwitz with Oppenheimer.
+
+Andrew Paul Uerkwitz
+Oppenheimer & Co. Inc., Research Division
+
+Could you walk us through some of the mechanics around -- and maybe it's already happening in this
+Q4 body camera number. But as we think about some of the larger agencies you've signed 2, 3 years
+ago, as they upgrade to the next body camera and the next TASER, because I think a lot of the rollouts
+early on were phased, so will the upgrades also be phased? Or will those be kind of one-times, all at the
+same time? And then finally, on the back end of this question, as we start lapping some of these bigger
+contracts, how does the renewal process work on some of these big contracts?
+
+Joshua M. Isner
+Chief Revenue Officer
+
+Sure thing. So to answer your first question, the upgrades are generally not phased. The reason being
+is, early on, when you're deploying a new technology, onboarding a set number of users every month
+or so forth works really well. But then when you upgrade to a different version of the camera that has
+different features and different docks, you want to have parity across your whole agency using the same
+platform. And so all the contracts are designed to support phased rollouts upfront but then have an
+upgrade universally across the agency at the 2.5-year mark. And so that's what we're executing on right
+now. In terms of renewals, we're very focused on that. And we have a lot of confidence. And we've seen
+last year with over 100 customers on our new OSP programs that we're effectively able to position the
+value of the OSP 7 and 7 Plus offerings, and customers are very excited about that. So our sales team
+is very, very focused on not only renewing these customers and preparing for their renewals, but also
+making sure that we're demonstrating the value of new features within the bundles and, of course, an
+effort to convert these customers to RMS as well as part of that process.
+
+Luke S. Larson
+President
+
+And I would just add one more comment on that. Oftentimes, we're not waiting for the renewal to come
+up. Our sales team is engaged early, early in the process on -- as Josh said, demonstrating value. And
+so oftentimes, we're able to upgrade them before the renewal even comes up and get them on another
+multiyear contract on one of our higher offering.
+
+Operator
+
+[Operator Instructions] The next question comes from the line of Scott Berg with Needham.
+
+Scott Randolph Berg
+Needham & Company, LLC, Research Division
+
+I figured I'd squeeze one more in, even though I was compliant on the first time. Jawad, just a follow-up
+question on gross margins a little bit. With the AB3 camera, obviously, it was a good quarter in terms of
+devices that were booked and shipped. I think there's a little bit of an expectation that the gross margins
+on those devices would be better than some of the AB2s going forward. Your gross margins in the quarter
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+were actually a little bit worse than what we saw the last couple of quarters. Can you help us understand
+maybe the push and pulls to move the gross margins on that product category, maybe over the next 1 to
+2 years?
+
+Luke S. Larson
+President
+
+Yes, great question, Scott. This is Luke. And on the AB3, it actually has a higher hardware BOM cost. So
+the initial gross margin is not going to be -- it's actually going to be worse than the AB2. Where we made
+a big bet is by making that a connected camera with an LTE component so that we can sell additional
+services. And that's the bet that we're making as an org so much so that it's one of our key kind of
+company level bonus goals is to upsell those advanced software features on top of our AB3 platform.
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+Yes. And I would just add on there. We -- as we went through our product planning, we had debated
+about whether to do 2 versions of AB3, one with LTE and one without because, as we mentioned, the
+majority of those shipments were cameras that were ordered as part of an upgrade. And we could have
+shipped them a camera with much lower cost, but we felt that, much more important than short-term
+hardware margins is building long-term service revenues and that it was worth that investment. And
+from a customer experience, we thought, well, how delighted would our customers be when they're
+effectively on the iPod upgrade program and they get an iPhone for no extra charge to effectively, is
+what's happened, they've gone from a camera to an LTE-connected camera. And we believe that now
+it's really about proving all of the high-value services we can run over that connection that will be very
+enticing. So that's the bet we've made, and we'll just have to see how it plays out over the next couple of
+years.
+
+Operator
+
+Your next question comes from the line of Jonathan Ho, William Blair.
+
+Jonathan Frank Ho
+William Blair & Company L.L.C., Research Division
+
+So with the incremental investments that you're making, is this also maybe temporary in nature in terms
+of a pull forward? Or should we be thinking of this as potentially a new baseline level of spend around
+R&D?
+
+Jawad A. Ahsan
+Chief Financial Officer
+
+Yes. It's an investment we're making in 2020, given the opportunity that we have ahead of us, and I
+would not expect that this level of investment would continue because as you know, we've got these
+goals in place that are very ambitious. And the expectation is with the guidance laid out to try to get to
+a business approaching 30% EBITDA margins that we're absolutely going to start to realize operating
+leverage at some point. And so I'd think about those investments as short-term in nature.
+
+Operator
+
+Your next question comes from the line of George Godfrey with CL King.
+
+George James Godfrey;C.L. King & Associates;Equity Research Analyst
+
+Congratulations on a great quarter. Could you give us the international revenue for the quarter and update
+us on how expansion has been going outside the U.S.?
+
+Luke S. Larson
+President
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+International revenue was flat at $24 million in the quarter year-over-year. And Josh, do you want to add
+some color on that?
+
+Joshua M. Isner
+Chief Revenue Officer
+
+George, so ultimately, 2 things to say about international. The last 3 years, we made a very, very focused
+effort to shore up what we would refer to as our Tier 1 markets, which are the U.K., Canada and Australia.
+And I'm really proud of the teams in those markets for gaining a dominant market position in both
+CEWs and in Video in those markets. We feel like at this point, we've earned the right to continue to
+invest in Tier 2 and Tier 3 markets now. And we expect some of those markets this year to develop
+into meaningful contributors to international revenue. Secondly, obviously, we launched 2 new products
+last year domestically: TASER 7 and Axon Body 3. And we're really proud of the fact that we grew by
+over 30% domestically last year. Candidly, a lot of our focus was getting those products off the ground
+domestically so that this year we can get them off the ground internationally.
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+Yes. I would just add that typically, internationally, both for TASER weapons, there can be a national
+approval authority. So TASER 7 will have to go through to get approval in those new markets and that
+takes time that -- there's not that delay in the United States. And then for AB3, the LTE chips effectively
+that you use in the U.S. are different than the ones you use in Europe. And so again, there's -- we weren't
+actually offering AB3 in those international markets yet because we had to bring up a new SKU that had
+the appropriate wireless connectivity, and that will be coming online this year.
+
+Joshua M. Isner
+Chief Revenue Officer
+
+And I would say lastly, George, that our international bookings did grow by a double-digit percentage last
+year. So we're certainly excited about the direction we're heading. Obviously, with bookings, those do take
+time to translate into revenue. And so again, the leading indicators are encouraging, and we're going to
+work really hard this year to grow that number.
+
+George James Godfrey;C.L. King & Associates;Equity Research Analyst
+
+And doing this from memory. Tier 2 markets, France, Germany, Italy, the Netherlands and Belgium, is that
+right?
+
+Joshua M. Isner
+Chief Revenue Officer
+
+Most of those are correct. We've got a couple of others that we have not disclosed and don't intend to at
+this time.
+
+Operator
+
+Your next question comes from the line of James Faucette with Morgan Stanley.
+
+James Eugene Faucette
+Morgan Stanley, Research Division
+
+I just wanted to ask a quick follow-up, is that you talked about the -- that you had taken into account
+a little bit the potential impact from coronavirus, et cetera. Just wondering if you can help at least
+dimensionalize how much of an impact that may have had on the way that you formulated guidance or
+outlook for 2020? And along those same lines, just a little color, if you could, on how we should think
+about the relative growth rates within the different product lines and parts of the business.
+
+Luke S. Larson
+President
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Yes. So on the first part of your question with coronavirus, a couple of things give us a lot of confidence
+that may be different from other companies. And you're probably very familiar with a lot of the consumer
+tech companies have said their forecasts are being impacted by this. For us, we don't sell into China at
+all. So there's no revenue impact there. The bulk of our orders, we can kind of see into the pipeline and
+forecast our demand. And different from a consumer company, we're not doing just-in-time. We plan this
+months and quarters in advance. And so that gives us a fair amount of confidence, certainly, in the first
+half of the year to deliver those commitments. And in the back half of the year, we're putting contingency
+plans in place and diversifying our supply chain so that we can be adaptable to those. But there's certainly
+risk there, but we've got confidence based on what we know.
+
+In terms of the product growth in the back half of the year. Maybe I...
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+I would just say, whereas -- when you've got countries going into lockdown and consumers aren't going
+out and buying things, that obviously is going to have a big impact on many businesses, whether they're
+in travel, entertainment, consumer products. Now it's early to say because we're early in this game. But if
+I look at this public order and the investments governments make in the infrastructure, I would not expect
+those to be adversely affected. So we're not relying on people going to a store to buy something. In fact, I
+wouldn't say that there could be any positive headwinds, but there may be public order implications when
+you start talking about the things like -- are happening in Italy with significant levels of quarantines, et
+cetera. So we don't have any indications of any negative demand impact from coronavirus. I'd say most
+of what we would -- what we're more focused on is just making sure we don't get supply chain impacts
+because we do have some suppliers in Asia, but we feel we've got that pretty well at hand right now.
+
+Joshua M. Isner
+Chief Revenue Officer
+
+And then in terms of growth by category, I don't think we're going to disclose a lot here at the moment,
+other than we expect CEW to grow by double-digit percentages this year. And of course, we've given the
+revenue guidance already. And so certainly more color to come on that as we get through the year here.
+
+Operator
+
+Your next question comes from the line of Joseph Osha with JMP Securities.
+
+Joseph Amil Osha
+JMP Securities LLC, Research Division
+
+I wanted to ask a little bit about something we haven't talked as much about, which is some of the
+consumer CEW stuff. I know that's something too odd that we had talked about when I was down there. Is
+this an area that we might see more focus on in the coming year?
+
+Jawad A. Ahsan
+Chief Financial Officer
+
+In 2020, no. We're very focused -- so 2019 was an important year for us for launches on the devices,
+TASER 7, Body 3. And in 2020, we're focused on software. Consumer is still very important to us. This is
+one of the reasons I joined the company was to help Rick make the bullet obsolete, and consumer is very
+much a part of that. It's a part of our strategy going forward, and we are hoping to share some exciting
+updates on that in the future. But at this point, in 2020, we're not making any additional investment in
+that other than what we're already doing.
+
+Operator
+
+And at this time, I'd like to turn the call back over to management for closing remarks.
+
+Patrick W. Smith
+Co-Founder, CEO & Director
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Awesome. Thanks, everybody. Obviously, I couldn't be prouder of the team. We hit some significant
+challenges at the middle of the year. We had conversations with a lot of folks, wondering if we were going
+to be able to pull it out. And we said, we're committed to hitting what we said we were going to hit for the
+year. And I got to tell you, there was a lot of hard work that went into that. I just couldn't be prouder of
+the team and there are a lot of smiles as we rolled into December and we were able to meet good on our
+commitment.
+
+So just want you guys to know a lot of people put blood, sweat, tears, a lot of heart into making sure that
+we met our commitments. And thanks for sticking with us, and we're really excited to see what we can
+show you in results here in 2020.
+
+So with that, have a great day, and we'll talk to you on the next quarterly call.
+
+Operator
+This does conclude today's presentation. you may now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+AXON ENTERPRISE, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+

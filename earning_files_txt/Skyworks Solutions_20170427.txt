@@ -1,0 +1,209 @@
+Thanks, Mitch, and welcome, everyone
+The Skyworks team produced another quarter of strong results in fiscal Q2. Let me begin with a few highlights
+We delivered revenue of $852 million, up 10% year-over-year and above consensus, with gross margin of 50.4% and operating margin of 36.7%
+We achieved earnings per share of $1.45, up 16% year-over-year and $0.05 better than consensus
+And we continue to generate strong cash flow
+Our operating cash flow in the first half of fiscal 2017 reached $732 million, up 46% as compared to the same period last year
+In addition to our financial performance, we are aggressively expanding our design win pipeline
+In mobile, we are extending our reach across all premier smartphone OEMs. Specifically, we enabled Huawei's P10 and P10+ models with low, mid and high-band SkyOne solutions, along with antenna tuner, carrier aggregation switching and power management devices
+We powered Samsung's Galaxy S8 platform with proprietary DRx and SkyOne solutions, as well as GPS and DC/DC converters
+And we secured reference design sockets across MediaTek's next generation architectures
+In IoT, we supported Cisco's enterprise-grade MIMO gateways, delivered analog control ICs across Nintendo's gaming platforms, including the recently introduced Switch console, ramped audio solutions for Sonos' high-fidelity wireless speakers, captured Wi-Fi mesh networking wins at Google and Plume, deployed high-power smart meter devices for Itron, and we launched custom solutions for Fitbit, Garmin and LG
+Finally, we secured strategic design wins at three leading automotive manufacturers, leveraging our advanced LTE modules supporting high-reliability connectivity, GPS and data transport capabilities
+As our results demonstrate, Skyworks is capitalizing on powerful macro trends, diversifying across new markets and advancing our technology leadership
+We support fast-growing mobile and IoT ecosystems, which are becoming increasingly more profitable
+The stakeholders in these ecosystems are monetizing vast flows of data, while fostering entirely new wireless-centric business models
+This dynamic is creating a new trillion-dollar economy, underpinned by e-commerce, mobile advertising, social media, and cloud-based services
+High-speed, reliable, always-on connectivity is at the heart of this secular trend
+With connected platforms requiring scores of complex devices working across dozens of frequency bands in an increasingly crowded spectrum
+Skyworks addresses this complexity with a collaborative, systems-level approach, working closely with customers to create streamlined architectures
+This demands technology breadth and depth, along with flexibility and configurability and showing the highest levels of performance
+Our scale, innovative designs, robust quality and world-class supply chain provide us with significant competitive advantages
+Within the mobile market, we facilitate the data creation and storage that allow today's smartphones to transmit and receive immense amounts of content, supporting multimedia streaming, social networking, gaming and virtual reality
+We create highly integrated solution, leveraging our skills in amplification, filtering, tuning, power management and packaging, to continuously drive better performance
+For example, our SkyOne and DRx platforms are gaining significant design traction, seamlessly delivering uplink and downlink carrier aggregation and global roaming capabilities
+In addition to mobile, connectivity is proliferating into an adjacent set of IoT markets
+Industry projections model IoT volumes to expand five-fold, reaching 75 billion units by 2025, with significant growth in areas such as connected home, smart grid, factory automation, wearables and virtual assistants
+Skyworks' broad capabilities, spanning all major wireless protocols including Wi-Fi, GPS, LTE, Bluetooth and ZigBee, uniquely position us to capitalize on this immense opportunity
+Looking ahead, we continue to address a growing set of vibrant end markets across developed and emerging economies, covering both mobile and IoT
+At the same time, we are preparing for a significant 5G upgrade cycle, yet another catalyst fueling our business while leveraging our technology depth and systems expertise
+As these powerful market forces accelerate, we are playing a leadership role in unwiring the planet, extending our reach across new markets and enabling billions of connected devices
+With that, I will turn the call over to Kris for an overview of our Q2 financials and outlook for Q3.
+Thanks, Kris
+In summary, as our second quarter results and guidance illustrate, Skyworks is gaining momentum
+Our outlook for Q3 reflects accelerating performance, with 18% revenue growth and 23% earnings per share growth on a year-over-year basis
+We are clearly capitalizing on the highly profitable wireless ecosystem, underpinned by explosive growth in the new connected economy
+Skyworks is leveraging these powerful macro trends, pushing the technology envelope and extending our product reach to enable the world's most exciting communications platform
+In closing, we are well-positioned to create shareholder value while executing on our ambitious vision of connecting everyone and everything all the time
+That concludes our prepared remarks
+Operator, let's open the lines for questions
+Question-and-Answer Session
+I mean, in the Q2 period, we did see the market demonstrate some weakness, specifically – again, in China – specifically in the Tier 2, Tier 3 guys
+So we did see some of that
+We had forecasted much of that in our plan
+And at the same time, with the second and third tier guys falling down a bit, we saw some real strength with higher end players
+Huawei being at the top of the pack with some great content, where we're now adding multiple bands of SkyOne, DRx technology, DC/DC technology, and platforms that are approaching $8 to $10 in value
+And then the mid-tier players like Oppo and Vivo did okay as well
+So the lower end of China was weak, the higher end was strong
+Little bit of a correction there that we were able to model and come through, and we see that market getting better here as we go into the second half
+And one other thing to add, Rick, is that what we are seeing here and our strategy is driving is that we're selling more and more and building more and more integrated solutions
+So what was a unit in Mexicali five years ago may have been a discrete PA, and now we're dealing with very complex integrated devices, whether it's SkyOne or DRx
+It's actually, net-net, more favorable for us
+We can control that production
+We can control the actual build of those complex devices
+It changes the dynamic a little bit on CapEx, but it's been definitely favorable for us
+I'll start with the Q2 puts and takes
+Generally, a strong quarter for us, seasonal down period, but we're happy with our ability to upside our results
+We saw some really good strength in our broad markets; let me start there
+The broad market business on a year-over-year basis is up about 18%
+That portfolio now is getting near a $1 billion run rate annually
+So we're real pleased with that
+We saw some nice uptake in some of our other mobile customers, specifically Samsung and Huawei, very good
+China, we talked about
+Open Market China, a little bit soft
+And the balance of the business in good shape
+So the big drivers really were broad markets, and then Samsung and Huawei as primaries
+Well, I'll start with the high-level theme and then we'll hit the second half of the year
+So we are absolutely convinced and have great deal of visibility into the trends around mobile and IoT and where the markets are going
+I think it starts with this ecosystem that we've talked about with a tremendous cast of major, major players that thrive on a mobile economy, right? You look at the results from Amazon today, as an example
+So we continue to see rich content, very complex architectures, road maps from our leading accounts that require more and more the kind of stuff that Skyworks does well
+More integration, more creative designs, all about performance, all about performance
+So we see that continuing
+It's not a 2017 or 2018. This is a secular theme
+At the same time, we're seeing IoT proliferate and we're seeing a Wi-Fi portfolio, our Bluetooth portfolio, our ZigBee portfolio move into more and more end markets and expand our customer set
+So that is all real good, and it's all macro and we're looking forward to continuing to capitalize
+More to the near term, in terms of the calendar year and the seasonality
+We just went through our low point of the quarter in Q2 with good results
+We guided up here in Q3. But the real big part of our year is the second half of the calendar, right? So Q4, Q1, we expect those numbers to continue to be up meaningfully, double-digits, into the mid-teens on both quarters
+And getting into Q1, should be again a really strong quarter for us
+So we're well-positioned for that
+Our Q3 guidance reflects some of that
+But as you start to look out over the next couple of quarters, we see accelerating growth
+So within our – our broad market business is on a run rate, as I indicated, of close to $1 billion
+So we're not quite $250 million a quarter, but we're getting near there
+IoT is about 70% of that revenue, roughly
+So it's been a double-digit grower
+It continues to be the leading catalyst for us in broad market
+The customer set, as I noted, has expanded
+The other thing that's a real benefit, and it's early now, but IoT is starting to move up in complexity
+It's no longer just drop in a couple of Wi-Fi devices
+We're starting to see filtering needs in IoT
+We're starting to see LTEs with real cellular engines introduced into IoT
+Our GPS technology is proliferating through IoT applications
+So it's modeling content much like cell phone content was in 2002 or 2003, very basic, kind of lower connectivity
+But then, as data needs increased, the performance needs within the phone expanded and we're starting to see that in IoT
+So, today, it's a very long list of customers, provides a great deal of diversification and the content is continuing to creep up
+And we're fortunate that our breadth in IoT, with all the different wireless protocols and some of the leverage that we have in our mobile business, we're in a great position to address and capitalize
+We're looking for sequential growth
+On a year-over-year basis, we're looking at the mid-teen numbers
+Yeah
+Our content story is really at the heart of our business right now
+And as I mentioned, the requirements that are being driven by the leaders in the market continue to increase, and the demands are more and more challenging, the complexity is daunting
+And very few companies can resolve it
+We're one of them
+We also have an advantage of being an incumbent with the leaders and understanding the nuances of calibration and tuning and working shoulder to shoulder with the engineering teams
+So our position in the leading phones continues to be very strong
+It will be, again, a tailwind for us in the second half of this year and even into the future
+Sure, Ed
+With respect to baseband, this isn't the first time we've seen share shifts here or any kind of diversification within the ecosystem; no surprises
+And at the same time, we continue to gain great traction with both Intel and Qualcomm within our largest customer and globally
+So, for Skyworks, baseband partnerships are really important and we are agnostic to that
+The parts may change a little bit
+Your calibration tuning and alignment with the chipset could be different phone to phone and baseband to baseband
+But we're in very good position there, and we have excellent visibility on where that's going to play out over the next year or so
+Yeah
+The ANADIGICS opportunity, really it's minimal in terms of its impact on the business
+So there's nothing significant there
+Didn't have much of an effect on our overall performance at all
+Yeah, yeah
+Well, I'll answer it and I'll kind of give you a little more color on it
+So the SkyOne portfolio is really important, although on a year-over-year basis it doesn't have as much of a pop as a DRx, because SkyOne has been there
+But I will tell you what we're doing in that product line is continuing to extend the reach of our frequency band
+So we're getting into high-band
+We've been in mid-band and we've been leading in low-band
+And now, SkyOne is being adopted by more and more accounts
+Accounts that a year ago may have done a multi-mode PA and had filters on the side, they're integrating
+Companies like MediaTek that are going to create chipsets for Skyworks, we're starting to move those into SkyOne like architectures rather than multi-mode PAs and filters on the side
+So that's a theme
+DRx category is very powerful
+We have premium technology that's defensible, that's market-leading
+We've proven it in the most challenging architectures on the planet
+And the compares on a year-over-year basis are very strong, because the DRX really hasn't been around too long
+However, the way we do it, the way we craft it with our custom solutions, our ability to bring our own filters in-house, what we even do to craft our LNA technology and Mexicali as an integrator of all this in unique custom packages, is really special
+So that product line has a great deal of upside
+It has been lightly introduced
+Every account that we've worked with, for the most part, we've been able to win, but there's a lot out there that haven't yet adopted the technology
+So there is quite a bit of upside on the DRx family, and that will continue to evolve as that product gets upgraded year by year
+Sure
+So when we think about – just to frame it – the DRx category, we kind of created the name DRx and that whole segment, it really is – it's focused on downlink performance
+So what we're trying to do is enhance the download speed of a device, whether it's a phone or eventually it could be an IoT device
+So the traditional architectures may have been discrete with a single-chip LNA and maybe a few discrete filters and a few discrete switches
+And you'd have quite a bit of lock in your system and you really wouldn't be able to harness or pull through that data fast enough
+So we created a new category where we integrated – although similar to what we did with SkyOne moving from PA and filter and switch and brining it in with a single calibrated engine
+Similar to what we did in SkyOne, we were able to craft that with our DRx product on the downlink side
+So for us, at DRx is a $3, $4, could be $5 worth of content in certain phones
+A competitor that may want to play in that area could attempt to work a discrete solution with lower content, but it just wouldn't get you the performance
+And what we're been able to see and really test and measure is that our customers really value that efficiency that high efficient solution that brings in higher data rate, doesn't have the losses that you have in a discrete system
+And Skyworks' doing all that calibration and harmonization work to deliver that in a simple solution
+So that's kind of how it works out
+And we have realized content and flagship products that's over $5 in value
+There's a real wide list – a long list of proliferation across connected home applications
+We mentioned a few things like Sonos, things like Nintendo, we've got Nest product, Google Nest portfolio with their Dropcam, with high-speed Wi-Fi
+It may have Wi-Fi device, but it's a unique product
+Whole series of opportunities there, factory automation, end-to-end with our ZigBee portfolio
+So there's quite a few
+And then if you want to move that into automotive as an adjacent market to IoT, we're starting to see really rich LTE systems that are driving all of what I said, but doing it at a bulked up level of performance to capture the kind of the needs that we see in automotive
+I am sorry
+So bulk acoustic wave filter technology, it's an area that we understand completely
+And what we've been doing to address the frequencies that today have been the domain of BAW, it's really about how do we address higher frequency
+So we can do some of that with our TC-SAW, we can do some of that by enhancing our TC-SAW, and we could also work with partners to deliver bulk acoustic wave technology
+And, certainly, the ability to do it organically is within our capability, as a company
+It's difficult to assess what the value would be
+One of the things I want to make clear to all of you is that we can address high-band solutions today in many ways
+There's still a number of phones where we deliver high-band PAs and there's filters outside of the module, and there's plenty of opportunities
+We've outlined a few today where we have a SkyOne solution that has fully integrated filter PA system that we're able to sell, and we use some of our foundry partners
+So we're not excluded from that
+But, yeah, I mean the opportunity to invest in organically is always out there on the table
+Yeah
+Well, we're actually seeing it already, Craig
+When we talk – or actually we probably didn't talk about it – but our coverage right now in the quarter is over 90%
+We've got our China backlog where we want it to be for the quarter
+We are continuing, as I said, to lead with the higher end players
+Huawei being the top, and then go to Oppo and Vivo
+That's becoming a bigger part of our revenue
+The second and third tier white box market, less significant
+So we're very confident in the recovery because we're already seeing it in our orders
+No, that's a great question
+There's a lot of detail behind that
+Well, there's a couple of ways to go
+I mean, on one hand, we have an ability to deliver high-frequency products that don't have filters at all
+There's still a market where we're selling multi-mode, multi-band PAs that are high-frequency, up to 5 gigs
+So to be clear, that continues to be available
+And filters could be outside of that
+Then we have our integrated solutions, our SkyOne solutions
+We can deliver our SkyOne to some customers by taking TC-SAW and enhancing that a little bit with tuning and getting to performance levels with good filtering and good PA technology, which again we have in-house
+We have our own gallium arsenide fabs in-house
+We can craft our recipe device by device
+We're able to deliver that to certain parts of the market
+Higher end or higher performing needs with certain OEMs we'll have to bring in BAW potentially from a third-party, a foundry partner that we've already engaged with and have a relationship with
+So we've been that in some of our solutions
+There's a number of ways to go
+But another thing to think about here, as we move out into 5G, we talked about this in the last call, there are some technical changes in the way mobile systems will work
+And in 5G, we see it move to time division duplexing from currently frequency division, FDD, frequency division duplexing
+FDD, which is more or less the standard today, does require BAW duplexes at the higher frequencies
+If you go to TDD, time division, you can actually deliver that performance with high-end TC-SAW; you don't necessarily need a duplexer
+So a TC-SAW filter can be effective
+So there's some changes there that will move in the favor of our current portfolio
+But at the same time, we are not precluded from addressing high-band
+We're doing it today
+We have a number of paths to do it
+And we're selling systems, not just filters
+So that's really our story
+Sure, Mike
+Yeah, we actually, for us, the content gains that we're able to drive with Samsung are still sustainable and we still see some room here, and they will be up in Q3. Huawei is another one that we see nice sequential momentum here going into Q3, and broad markets again will be up
+So those will be some of the major drivers
+And, obviously, our largest customer is in a – we're in a period now with our largest customer where we're really readying for a pretty powerful second half ramp with their units in our content position
+So those are kind of the puts and takes here
+I think the big impacts here for Q3 and the upside on guidance is really relative to the big content moves that we have with Huawei and Samsung
+Thank you all for participating today
+We look forward to seeing you at upcoming investor conferences and other events during the quarter

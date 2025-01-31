@@ -1,0 +1,1290 @@
+Cadence Design Systems, Inc. 
+
+NasdaqGS:CDNS
+FQ3 2020 Earnings Call Transcripts
+Monday, October 19, 2020 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2020-
+
+-FQ4 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+0.61
+
+0.70
+
+Revenue  (mm)
+
+642.29
+
+666.61
+
+Currency: USD
+Consensus as of  Oct-18-2020 10:59 PM GMT
+
+14.75
+
+3.79
+
+0.68
+
+2.54
+
+2.75
+
+705.27
+
+2605.61
+
+2789.48
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.53
+
+0.54
+
+0.52
+
+0.61
+
+0.54
+
+0.60
+
+0.66
+
+0.70
+
+1.89 %
+
+11.11 %
+
+26.92 %
+
+14.75 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+7
+
+2
+
+ 
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Alan H. Lindstrom
+Senior Group Director of Investor
+Relations
+
+Mitchell Toshiro Steves
+RBC Capital Markets, Research
+Division
+
+Pradeep Ramani
+UBS Investment Bank, Research
+Division
+
+Richard Frank Valera
+Needham & Company, LLC,
+Research Division
+
+Thomas Robert Diffely
+D.A. Davidson & Co., Research
+Division
+
+Vivek Arya
+BofA Merrill Lynch, Research
+Division
+
+John M. Wall
+Senior VP & CFO
+
+Lip-Bu Tan
+CEO & Director
+
+ANALYSTS
+
+Gary Wade Mobley
+Wells Fargo Securities, LLC,
+Research Division
+
+Jackson Edmund Ader
+JPMorgan Chase & Co, Research
+Division
+
+Jason Vincent Celino
+KeyBanc Capital Markets Inc.,
+Research Division
+
+Jay Vleeschhouwer
+Griffin Securities, Inc., Research
+Division
+
+John William Pitzer
+Crédit Suisse AG, Research
+Division
+
+Joseph D. Vruwink
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Joshua Alexander Tilton
+Joh. Berenberg, Gossler & Co. KG,
+Research Division
+
+Krish Sankar
+Cowen and Company, LLC,
+Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+Presentation
+
+Operator
+
+Good afternoon. My name is Mike, and I will be your conference operator today. At this time, I would like
+to welcome everyone to the Cadence Third Quarter 2020 Earnings Conference Call. [Operator Instructions]
+
+I will now turn the call over to Alan Lindstrom, Senior Group Director of Investor Relations for Cadence.
+Please go ahead.
+
+Alan H. Lindstrom
+Senior Group Director of Investor Relations
+
+Thank you, Mike, and I would like to welcome everyone to our third quarter 2020 earnings conference
+call. I am joined today by Lip-Bu Tan, Chief Executive Officer; and John Wall, Senior Vice President and
+Chief Financial Officer. The webcast of this call is available through our website, cadence.com, and will be
+archived through December 18, 2020. A copy of today's prepared remarks will also be available on our
+website at the conclusion of today's call.
+
+Please note that the discussion today will contain forward-looking statements and that actual results
+may differ materially from those expectations. For information on factors that could cause a difference
+in our results, please refer to our filings with the Securities and Exchange Commission. These include
+Cadence's most recent reports on Form 10-K and Form 10-Q, including the company's future filings and
+the cautionary comments regarding forward-looking statements in the earnings press release we issued
+today.
+
+In addition to financial results prepared in accordance with generally accepted accounting principles, or
+GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes
+that in addition to using GAAP results in evaluating our business, it can also be useful to review results
+using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the
+reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results.
+The reconciliations are available at the Investor Relations section of cadence.com. Copies of today's press
+release dated October 19, 2020, for the quarter ended September 26, 2020, related financial tables and
+the CFO commentary are also available on our website.
+
+Note that Cadence is continuing to adhere to social distancing practices and therefore, we are conducting
+today's earnings call from our respective remote locations. Apologies in advance if there are glitches or
+handoffs should take a little longer than usual.
+
+And now I'll turn the call over to Lip-Bu.
+
+Lip-Bu Tan
+CEO & Director
+
+Good afternoon, everyone, and thank you for joining us today. I'm pleased to report that Cadence
+achieved outstanding financial results for the third quarter of 2020. We exceeded our financial outlook on
+all key metrics as the Cadence team continues to successfully navigate through challenges posed by the
+pandemic. We also raised our outlook for the year. John will provide more details in a moment.
+
+The data-centric revolution led by AI, data analytics, hyperscale computing continues to fuel strong
+semiconductor and system design activity, and our Intelligent System Design strategy uniquely positioned
+us to enable our customers to accelerate their innovation.
+
+Now let us move on to the major highlights for the third quarter. Design excellence is the foundational
+layer of our strategy and includes our all EDA chip design solutions and IP portfolio. We significantly
+deepened our partnership with a global marquee customer through a wide-ranging expansion of our EDA
+software and hardware portfolio. This customer is now accelerating the proliferation of our digital full flow
+across their design teams.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+Momentum continue for our digital signoff solutions with 9 full flow wins and major market-shaping
+automaker tape out their highly innovative, complex 7-nanometer design using our digital full flow. Our
+verification suite on price of best-in-class all engines across simulation, formal analysis, simulation and
+prototyping is particularly well suited to address our customers' founding verification challenges. Hardware
+had its highest ever revenue quarter with Palladium Z1 and Protium X1 continuing to get new design wins
+and significant expansions, particularly at AI and hyperscale customers. We introduced Xcelium ML, which
+use machine learning to improve the regression throughput of our premier logic simulator by up to 5x.
+
+On IP front, the top vertical end markets for our design IPs in this quarter were hyperscale, enterprise
+and automotive, with a major hyperscaler adopting our PCIe and high-bandwidth memory IP for use in 3-
+nanometer design. Tensilica have a strong loyalties and wins for true wireless stereo and functional safety
+applications and was adopted by an automotive company or ADAS.
+
+In system innovation, I'm very excited by the strong momentum of our new system products, both
+organically developed as well as those we obtained through the AWR and Integrand acquisitions earlier
+this year. Earlier this month, we expanded our system analysis portfolio with the addition of the Clarity 3D
+Transient Solver that delivers up to 10x faster system-level EMI simulation. Clarity and Celsius continue
+to ramp nicely with broadening adoption, particularly in verticals such as AI, mobile and hyperscale
+segments. System companies like Teradyne and Rockley Photonics are deploying our Clarity EM simulator
+for production use.
+
+In the 5G millimeter wave area, integration of our AWR and Integrand acquisitions continue smoothly,
+and the business is tracking ahead of our internal expectations. In Q3, we added more than 15 new
+customers in the end markets that included 5G, automotive and aerospace and defense. Cadence has a
+strong -- has a long, successful history in advanced packaging, which has become a linchpin technology
+for many system companies, particularly automotive and hyperscalers, to deliver complex system-level
+chip designs. In Q3, our innovative Allegro technology was used by a market shipping automaker for their
+wafer-level system packaging needs.
+
+Now let us turn it over to John to go over the results in more detail and to update our outlook.
+
+John M. Wall
+Senior VP & CFO
+
+Thanks, Lip-Bu, and good afternoon, everyone. I'm pleased to report we exceeded all of our key financial
+metrics for the quarter. We had a strong revenue quarter in China as a result of better-than-expected
+hardware and IP sales in the region. This was the main driver of the improvement in our profitability for
+the quarter, contributing approximately 2% to our non-GAAP operating margin.
+
+Looking at the key results for the third quarter, starting with the P&L. Total revenue was $667 million.
+Non-GAAP operating margin was approximately 36%. GAAP EPS was $0.58, and non-GAAP EPS was
+$0.70.
+
+Next, turning to the balance sheet and cash flow. Our cash balance was approximately $1.3 billion, while
+the principal value of debt outstanding was $700 million. Operating cash flow for Q3 was $207 million.
+DSOs were 41 days. And during Q3, we repurchased $75 million of Cadence shares.
+
+Before I provide our updated outlook for the remainder of fiscal 2020, I'd like to take a moment to share
+the assumptions embedded in our outlook. Fiscal 2020 is a 52-week year, and the extra week will add
+approximately $45 million of revenue to Q4. We have seen higher-than-expected levels of hardware and
+IP sales activity in China during Q3, and we have assumed this will continue into the middle of Q4. As a
+result, our outlook includes approximately $40 million for this increased level of hardware and IP sales
+activity in the second half. You will recall that we had removed $70 million of bookings from our backlog at
+the end of Q2 due to COVID-19-related customer credit risk. The credit situation slightly improved during
+Q3, and we revised that estimate down to $58 million. And as usual, our outlook continues to assume that
+the export limitations that exist today for certain customers remain in place for the remainder of 2020.
+
+Embedding the aforementioned assumptions, our updated outlook for Q4 is as follows: revenue in the
+range of $720 million to $740 million, non-GAAP operating margin of 34% to 35%, GAAP EPS in the range
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+of $0.48 to $0.52, non-GAAP EPS in the range of $0.72 to $0.76, and we expect to repurchase $130
+million of Cadence shares. And for fiscal 2020, that means we now expect revenue in the range of $2.643
+billion to $2.663 billion, non-GAAP operating margin of 34% to 35%, GAAP EPS in the range of $1.97 to
+$2.01 and non-GAAP EPS in the range of $2.68 to $2.72. We expect the operating cash flow to be in the
+range of $840 million to $870 million, and we expect to use approximately 50% of our free cash flow to
+purchase -- repurchase Cadence shares in 2020. You will find guidance for additional items as well as
+further analysis in the CFO commentary available on our website.
+
+In summary, Cadence delivered another quarter of strong revenue growth and expanding profitability. And
+naturally, I'm pleased by this quarter's results, but we always recommend that you shouldn't focus too
+much on the results of any single quarter. What I'm most pleased about is the improvement in our 3-year
+revenue growth CAGR, the fact that our team continues to operate very effectively during the pandemic,
+and we're on track to achieve greater than 50% non-GAAP incremental margin for the fourth year running.
+
+I would like to close by thanking our customers, partners and our hard-working employees for all that they
+do, and I'd like to remind them all that their health and safety continue to be our first priority.
+And with that, operator, we will now take questions.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Your first question comes from Gary Mobley from Wells Fargo.
+
+Gary Wade Mobley
+Wells Fargo Securities, LLC, Research Division
+
+Let me first extend my congratulations on strong second half progression. Related to the second half
+of the year, I wanted to ask about what seems to be about $65 million in extraordinary China-related
+revenue that maybe you didn't otherwise expect when the fiscal year started coming in the second half.
+To what extent is that influenced by some of the latest export restrictions and perhaps some customers
+over in China trying to get under the wire, so to speak? And then related to some of the aero-related
+export restrictions, have you further done some top-down analysis on your existing customers in the
+serviceability of those existing customers?
+
+John M. Wall
+Senior VP & CFO
+
+Gary, that's a great question. The -- yes, in terms of China, the strength in China was higher than
+expected. We valued it at about $40 million. We think the second half of the year benefits from like
+$45 million for the extra 53rd week of revenue and probably $40 million for this kind of spike in China
+revenue that we believe is mostly nonrecurring revenue. But it's -- you saw that the China percentage is
+about 17% in Q3. That's 4% higher than the previous record level. And like I say, our valuation of that is
+about $40 million to the second half, split about 2/3, 1/3 between Q3 and Q4. But it's -- I understand the
+concern about is there a pull forward from next year? It's too early for us to say right now. What we can
+say is that, that extra revenue is generally and predominantly nonrecurring in nature, but I won't know
+until early next year when I look at the pipeline whether it impacts '21.
+
+Gary Wade Mobley
+Wells Fargo Securities, LLC, Research Division
+
+And as my follow-up I want to -- yes, go ahead, Lip-Bu.
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. Just to add on to what John mentioned, clearly, hardware and IP are big growth for us. And again,
+we're complying with all the U.S. export control regulations. And then China semiconductor is still a very
+strong growth engine.
+
+Gary Wade Mobley
+Wells Fargo Securities, LLC, Research Division
+
+Okay. And related to margins, I mean, you guys are just killing it on the operating margin. And I guess it's
+contrary what we would have thought given the higher mix of hardware-related revenue. What's sort of
+the, I guess, inner workings there as it relates to hardware mix? Is the China-related hardware mix that
+much more profitable than, say, domestically originated hardware sales?
+
+John M. Wall
+Senior VP & CFO
+
+Yes, Gary, naturally, I mean, we're continuing to invest in R&D, but hiring was slower than expected in Q3.
+And also the pandemic is helping margins with a little less T&E. We seem to be creeping up into the like
+33% to 34% range. We're probably at the high end of that range for as long as the pandemic helps us to
+keep certain expenses lower. But for Q3, we got an additional margin benefit of about 2% for that extra
+hardware and IP revenue in China, which is mostly nonrecurring and onetime in nature. I've assumed that
+continues into the middle of Q4, and we get about 1% extra benefit in Q4. And the extra week is actually
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+about 0.5% of a headwind to margins in Q4, but yes, the baseline for margin is probably in the 33% to
+34% range. And there are some onetime things that are helping us in Q3 and Q4.
+
+Operator
+
+Your next question comes from John Pitzer from Crédit Suisse.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Congratulation on solid results. John, just a follow-up on that. Can you help us better understand how
+much of a tailwind kind of the pandemic has been relative to OpEx, i.e., when we get back to a more
+normal state, how do we think about kind of Op margin relative to target?
+
+John M. Wall
+Senior VP & CFO
+
+Yes, John, great question. Like you say, I think we're probably solidly into the 33% to 34% range for
+operating margins right now. But with the pandemic-related items kind of lower T&E and things like
+that, helping us to land at the higher end of that range. If we didn't have a pandemic, we'd probably be
+toward the lower end of that range. But -- and then when you look at the kind of the bridge from our Q3
+performance of 36% margin, which had the benefit of like 2% for the extra China revenue. For Q4, I'm
+assuming 1% for the extra China revenue and then about 0.5% of a headwind because of the extra week.
+If you back out the extra week, and Q4 was in a normal 52-week year, but -- we're probably at 35%, but
+it will come in at about 34.5%, we think, at the midpoint, including the extra week.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+That's helpful. And then just coming back to China. I'm sure you saw, I think, on Thursday evening of last
+week, the Department of Commerce, this came out with some new emerging technologies to put on the
+export list. And it's oftentimes difficult to translate government language into industry language, but there
+was some commentary around computational lithography software. I'm just curious, is there anything that
+came out of that ruling last week that would impact sort of EDA? And I guess as you look out over the
+course of calendar year '21, what are the puts and takes as U.S.-China tension continue to impact a bit?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes, it's a good question. And as I mentioned earlier, we're complying with all the export control
+regulation. And clearly, the situation is very fluid as of last week, and we continue to monitoring closely
+about this computation and any impact to the EDA. And clearly, we continue to drive global customer
+success and providing the best tool in IP, but meanwhile, we comply with the regulations. And it's very
+fluid. We're just monitoring closely, do the best thing and we can.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+But just a follow-on, is there any benefit from Chinese customers to order more than they need now and
+if they're concerned about potentially being cut off later? Or does that not really help them in a situation
+where the bands tighten?
+
+John M. Wall
+Senior VP & CFO
+
+John, you can certainly speculate on that, but I mean, we can't really tell what the motivation for our
+customers is for the additional purchases during Q3. At the moment, we can't really tell with a high degree
+of certainty if the strength in China in the second half is a shift from '21 revenue into '20. I think you're
+right to be cautious about it, but we can't tell if it's a shift or if it's just -- what I can tell you is that it is
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+onetime generally in nature, most of it is onetime revenue because it's coming from hardware sales and
+IP. But whether it impacts '21 or not, I don't know. We'll know more in January.
+
+Operator
+
+Your next question comes from Mitch Steves from RBC Capital Markets.
+
+Mitchell Toshiro Steves
+RBC Capital Markets, Research Division
+
+I've got 2. I got to start with the proverbial kind of M&A question. Assuming that NVIDIA-ARM closes, do
+you guys see any impact from that? And maybe some comments on kind of the speculation on AMD and
+Xilinx as well. I think that, that was a big topical point several years ago, but I just want to get a rehash
+and any sort of impact you guys think from the recent M&A transaction may occur?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. I think the -- let me try to answer that. And first of all, we are not able to comment on any
+speculations on the NVIDIA and ARM and then clearly, they are great company. And ARM is a very
+important partner for us, for Cadence, and we are well positioned with ARM to serve our common
+customers. I think clearly time will tell and I'll get approval and so I think that's on the NVIDIA and ARM.
+And then on the AMD and Xilinx, they are all very good companies and we like them a lot and clearly,
+over the years, we managed well through consolidations, and we are very proactive engagement with
+the companies. And then any consolidation, they are all unique respect to the vendor. They are all good
+company, and I think I cannot go beyond -- comment any beyond that.
+
+Mitchell Toshiro Steves
+RBC Capital Markets, Research Division
+
+Okay. Maybe just to clarify that, though. So I guess on the ARM-NVIDIA piece, in a scenario, so we'll just
+go through the scenario that RISC-V loses market share to ARM, does that impact at all the EDA space?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. And again, we are supporting the customer and then depend on whether they go with ARM or RISC-
+V. And -- but clearly, ARM is very well positioned with their ecosystem in place in the software, and we'll
+continue to work closely with ARM. And then meanwhile, keep a close eye, if the customer wants to have
+RISC-V, then we will support the customer.
+
+Mitchell Toshiro Steves
+RBC Capital Markets, Research Division
+
+Okay. Perfect. And then my second one is just going back to kind of the 3D Solver opportunity. From what
+we've seen, chiplet architecture is continuing to take off and that requires a lot of RF, and it seems like
+you guys are very well positioned on that. So I guess why is there not more -- I guess more marketing or
+more logos to talk about on that front? Because it seems like the products you guys have are significantly
+better than ANSYS. So maybe you could talk about what you guys are seeing now. Is that a COVID issue
+in terms of getting more sales? Or is it just not something you want to highlight yet?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. I think in our system design and analysis is a very important growth engine for us. And clearly,
+we are excited about the system complexity on the advanced design, like 5G, automotive and HPC
+application. And so clearly, a system-level analysis is very critical for them. We're delighted with the
+organically developed and also the AWR, Integrand acquisition that we have. So we have a very nice
+portfolio that the customer are delighted with us. And then clearly, the 15 new customer -- more than 15
+new customer in this quarter for Clarity and Celsius is very exciting for us. And then we also announced
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+the Clarity 3D Transient Solver that show 10x faster system-level EMI, the simulation. So I think all in all,
+we are excited about the opportunity and we like to be under promise, over deliver. And meanwhile, we
+do the right -- the marketing at the right time. But so far, I think we take one step at a time and then to
+support our customers is more important.
+
+John M. Wall
+Senior VP & CFO
+
+And Mitch, I would just like to add to that, that we recognize revenue ratably on our systems analysis
+products. It's still early days. Our plan is to win mind share first and then market share will follow. Yes,
+we've got plenty of repeat orders from new system companies and more than 15 came from AWR and
+Integrand.
+
+Operator
+
+Your next question comes from Vivek Arya from Bank of America.
+
+Vivek Arya
+BofA Merrill Lynch, Research Division
+
+Congratulations on the strong results. For my first one, I'm curious about how you think about your non-
+China growth this year. It's about 6% year-on-year so far this year. Would you call that trend growth,
+above trend, below trend? Just how does that compare to what you thought the non-China growth would
+be at this point of the year? Just anything that has surprised you in terms of the non-China aspect versus
+what you thought before, whether it is customers or end markets or what have you?
+
+John M. Wall
+Senior VP & CFO
+
+Vivek, this is John Wall here. I'll take that question. But certainly, 2020 was always going to be a very
+unusual year. I mean we have the extra 53rd week for revenue that we're operating in the middle of a
+pandemic. You're seeing some China revenue spike in the second half of the year for us. But -- and we
+always tell people not to focus too intently on any 1 quarter. Personally, the way I look at it is I tend to
+track the 3-year CAGR. If you look at our CFO commentary, you'll find on Page 2 of the commentary, I've
+put the 3-year CAGR view on there because I find that view particularly helpful myself.
+
+But I mean, adjusting for the impact of the occasional 53rd week that impacts our numbers, you'll see
+there that our 3-year revenue CAGR, we're showing a consistent level of about 8% revenue growth per
+year up to about 2018. It ticked up to 9% last year in 2019. And then based on our guidance for the
+remainder of this year, 2020 now looks like it's going to be a solid 10% 3-year CAGR growth year, albeit
+with a China tailwind. But even if you assume that $40 million China revenue spike is onetime only and
+back that out of our second half, our 3-year CAGR is still close to around 9.5%. So I think our typical
+contract cycle is 2 to 3 years. So if you stand back and take like a 3-year view of things that -- you'll
+probably get a more discernible trend in terms of what's happening with each line of business. But it's
+difficult to look at any 1 quarter and extrapolate from that.
+
+Vivek Arya
+BofA Merrill Lynch, Research Division
+
+Right. And I appreciate that, John. I was actually looking just year-to-date, the non-China growth was
+about 6% and was 9% last year. And what I'm trying to discern is, is there some macro impact there i.e.,
+if, let's say, next year, hopefully, the global economy picks up, does the non-China growth also start to
+reaccelerate? That's what I was trying to get a better sense for.
+
+John M. Wall
+Senior VP & CFO
+
+Yes, we're certainly seeing strong design activity in China. But I don't know, Lip-Bu, if you have anything
+to add to that?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. I think Vivek, in terms of longer run, I think I'm quite bullish about the semiconductor and system
+design. Clearly, the opportunity, and I call it the 5 generation wave, and they're going to increase the
+design activity. And then meanwhile, we continue to work with the market-shaping customers. We
+highlight this quarter, we expand and deepen our partnership with the global marquee customer and in the
+proliferation of our digital flow. So I think all in all, I think we have to take a longer-term view rather than
+look at quarter-to-quarter.
+
+Vivek Arya
+BofA Merrill Lynch, Research Division
+
+All right, Lip-Bu. And just to follow up. As you look at next year, outside of hyperscale, what are the
+other 2 or 3 end markets that you're seeing the most level of kind of increasing design activity outside of
+hyperscale?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. As I mentioned in my remarks, clearly, the AI, data analytics and the hyperscale are the good drive
+engine for Cadence. And clearly, the -- beside the hyperscale in terms of massive infrastructure scaling.
+And then the other part is some of these industrial automation and also the -- this automotive, some of
+this we highlight in the ADAS and the system-level requirement. I think those are all bright spot. I mean
+it's very hard to predict quarter-to-quarter or next year. But I think in the long run, I'm very excited about
+the opportunity, and we are well positioned for Cadence.
+
+Operator
+
+Your next question comes from Joe Vruwink from Baird.
+
+Joseph D. Vruwink
+Robert W. Baird & Co. Incorporated, Research Division
+
+I'll maybe be guilty of analyzing one particular quarter, but it does look like a pretty meaningful
+acceleration and growth for systems analysis. And I'm just wondering, it sounds like the new Solver
+products are moving in the right direction, but because of the ratable recognition, maybe not contributing
+as much to that number. So are we really just seeing kind of the broader secular trend in terms of
+companies spending more on their PCB modeling tools and of course, that benefits Allegro? And as other
+products start kicking in or as you continue to get momentum on AWR, you're looking at above company
+rates of growth continuing, is that the right way to think about recent performance?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. I think we are very excited about this system design and analysis space. And this is one of the -- if
+you recall, we have this design excellence as a foundation, and then now we are moving up into this, I call
+it, the intelligence system. And we are very delighted with the acquisition of AWR and Integrand and then
+with -- integrating with some of our current tools and make it very compelling to our customer in terms
+of driving some of the system analysis and the performance EM solver-related area and thermal related
+in the design. And then meanwhile, we continue to drive some of the organically developed Clarity and
+Celsius and able to show clearly a differentiating performance. And now we also announced the addition
+of the Clarity 3D Transient Solver that able to show the performance on the EML, EMI, the system-level
+simulation. So I think all in all, I think this is a growth engine for us. We're excited, but stay tuned.
+
+Joseph D. Vruwink
+Robert W. Baird & Co. Incorporated, Research Division
+
+Okay. Great. And then one more question and thinking about kind of the interweaving of tailwinds
+and headwinds into maybe next year's environment because it sounds like China could see some
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+normalization, $40 million is 200 basis points worth of growth. But one interesting thing that came up is
+some of the end markets that are adopters of your IP, things like automotive, aerospace, are markets that
+obviously have had a pretty difficult 2020. So along the lines of an earlier question, just in terms of maybe
+cyclical recoveries in some of your end market exposure, do you think there is enough there where while
+China perhaps normalizes, you actually get a bit of an improvement in other areas and it essentially is a
+wash, so we're still looking at kind of the targeted high single-digit growth profile?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. John, do you want to answer?
+
+John M. Wall
+Senior VP & CFO
+
+Yes, of course. Yes, Joe, this is John. The -- generally, you don't get too dramatic a shift in our results
+given the ratable revenue model that we have and that most of our contracts are time-based in over
+2 to 3 years. That's why I included the 3-year CAGR view on Page 2 of the CFO commentary because
+that's -- that tends to be the way how I look at it. I'm always looking to see can we improve that 3-
+year CAGR view. But the -- I mean if I'm looking out to 2021, of course, we're not giving guidance. We'll
+be in a better position to give guidance for 2021 in the new year when we have a better visibility into
+the pipeline. But 2020 has been a great. It's been a bit weird but wonderful. But I'd be more inclined to
+kind of extrapolate for 2021 off of prior year numbers and look at 3-year CAGRs than try to extrapolate
+anything off of a 2020 year where that's impacted by so many onetime things. But -- so that's kind of the
+way I'd look at it.
+
+Operator
+
+Your next question comes from Jason Celino from KeyBanc.
+
+Jason Vincent Celino
+KeyBanc Capital Markets Inc., Research Division
+
+One clarifying point on that marquee customer you talked about at the beginning. It's been a full year
+since we heard of another marquee customer expanding on the IP side. This expansion today, what does
+that entail? And any other details maybe you could clarify.
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. Sure. So I think this global marquee customer, we are very excited. This is a wide-ranging expansion
+of our EDS software and hardware portfolio, and they are accelerating proliferation of our digital full flow
+across their design team. So this is something -- stay tuned. We are very excited about this partnership,
+and we are delighted. They are clearly -- our product is really stand out in terms of performance. And
+then the other part is also clearly demonstrate the trusted relationship we have and also our technology
+leadership of our key software and hardware solution for their most advanced challenging design.
+
+John M. Wall
+Senior VP & CFO
+
+And Jason, if I could add there that we have many marquee customers, and this one is a different
+marquee customer to the one we talked about last year.
+
+Jason Vincent Celino
+KeyBanc Capital Markets Inc., Research Division
+
+Great. And then one question on the system analysis customer wins you talked about. You actually
+mentioned 2 end markets, automotive and aerospace and defense. This is the first time you talked about
+those verticals for Clarity and Celsius. Is that -- is this the case? And then are these more of new -- net
+new customers for Cadence? Or are they kind of cross-sell wins?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. I think we mentioned 2 customers, Teradyne and Rockley Photonics, using our Clarity EM simulator.
+And we also mentioned about, clearly, 5G, automotive and aerospace, we have traction in terms of 15 new
+customers. As you recall, these are the new organically developed products. So we don't have new -- this
+product in the past. So this is exciting for us. And we are -- this is just the beginning. And so stay tuned,
+we will have more.
+
+Operator
+
+Your next question comes from Jackson Ader from JPMorgan.
+
+Jackson Edmund Ader
+JPMorgan Chase & Co, Research Division
+
+Just following up on the marquee customer win that you talked about. And Lip-Bu, I mean, in your
+prepared remarks, you went through a number of different digital full flow wins in customers and
+expansions. And I guess I'm just curious, what should we maybe be expecting from that digital design
+segment? Because even, John, if I look at your 3-year CAGR on that -- on the digital segment, it's slowed
+down this year relative to 2019. So just seeing whether we should be expecting some acceleration as we
+head into 2021, given all the strength you've seen in digital full flow.
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. So I think let me kick start, and then John can fill in. So we are delighted. We have 9 full flow wins
+and also this marquee -- global marquee customer proliferation. And the other part, in earlier part of this
+year, we're talking about the innovative iSpatial that provide a unified placement and physical optimization
+engine and able to show the 20% improvement PPA and 3x faster throughput. Those are good. And
+then meanwhile, we are very laser-focused on the market-shaping customers, working with them in the
+different design group and then also different tool that right now we are pushing more the full flow, and
+we are very excited with the progress we've made. And stay tuned.
+
+John M. Wall
+Senior VP & CFO
+
+Yes. And Jackson, the -- I'd say, again, we wouldn't focus too heavily on any one quarter. Q2 and Q3 for
+digital were particularly impacted by the customer credit situation that we had. Now that slightly improved
+during Q3, where we had about $70 million of bookings at the end of Q2 that we took out of our backlog
+because we didn't expect to get paid. Updating that $70 million, about $30 million of that is gone. Of the
+other $40 million that's left, we expect to recover about $12 million, and we still think there's about $28
+million that we won't recover. So that's improved the situation slightly in Q3. But I'm expecting a strong
+Q4, and you can see that in the guidance, not just from the extra week as well. And if you look at the
+entire year, we're expecting all of our product categories to grow high single digits or double digits.
+
+Jackson Edmund Ader
+JPMorgan Chase & Co, Research Division
+
+Okay. Great. And how about, just as a follow-up, checking in on the cloud and cloud adoption. Any kind of
+either usage metrics that you guys track for maybe a revenue contribution from cloud usage, given 2020
+has been such a remote year?
+
+John M. Wall
+Senior VP & CFO
+
+Yes. Well, we're not disclosing the cloud revenue separately, but we did book our largest cloud order so far
+in Q3. And we have good momentum with 150 customers that have adopted our cloud solutions now.
+
+Operator
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+Your next question comes from Tom Diffely from D.A. Davidson.
+
+Thomas Robert Diffely
+D.A. Davidson & Co., Research Division
+
+So Lip-Bu, I just want to jump back to the processor question earlier. Just the fact that we're seeing the
+industry move just from Intel-based to all these other players, AMD, the graphics, chips, ARM-based. That
+has to be good news for you. The more designs you have at leading edge, the better, I would assume, is
+that correct?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes, that's correct. And clearly, the general purpose CPU and GPU will be continue to do well, and you can
+reflect that in NVIDIA performance. But I think the workload has changed a lot into not just a compute,
+there's a lot of application domain-specific and then the optimization. So you'll see a different class
+of processor in the AI, machine learning, in the training influence. And so there's a lot of new suite of
+development either from start-up or the established company. And also the hyperscale guys, also and
+really, really drive some of the processes, optimized for their specific application and solution and the
+service to try to drive. So those are great news for us. That means that we have more design activity and
+not only for our tool and also our hardware emulation because some of them are really complex design.
+And then also some of the system analysis because of the system-level know-how we highlight in my
+remarks. Some of the hyperscale guys also try to drive wafer-level packaging challenges. So I think we
+are excited about all this opportunity.
+
+Thomas Robert Diffely
+D.A. Davidson & Co., Research Division
+
+Okay. And I also wanted to get your view on just consolidation in general and what that means to EDA. I
+know over the last 5 years, there's been several high-profile customers of yours that have consolidated,
+and it seemed like it had very minimal impact on EDA and your ratable business with them. I'm curious,
+is that the way you think it is going forward as well where you don't worry too much about consolidation
+among your customer base?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. I think consolidation, always, I pay attention to it, and we try to be proactive engagement for the
+acquirer or being acquired company, and we make sure that we are creating a win-win to continue
+business. And clearly, on all this consolidation, R&D is the last place they want to cut. So they're going to
+continue to drive innovation, continue to drive efficiency, and that's why we want to be a great partner
+for them. And so far, we managed well through consolidation in our customer base that have been taking
+place. And then each consolidation has their own unique way in terms of respect to vendors. But we are
+very respecting of what they try to do, and we try to be a great partner, work out a win-win, and we are
+very proactive with them.
+
+Thomas Robert Diffely
+D.A. Davidson & Co., Research Division
+
+Okay. And as a final follow-up here. John, when you talked about the extra week, and it sounded like it
+was $43 million or $45 million of revenue, did I understand you correctly that the actual cost impact is
+more than that?
+
+John M. Wall
+Senior VP & CFO
+
+No, it's not more, but the -- but it is a headwind for margins, though. But the extra week is about $45
+million to revenue and about $33 million to non-GAAP expense. But -- so if you back those out, you'll find
+that the margin for 52 weeks is higher, but we're kind of running at a 33% to 34% kind of baseline for
+margin, closer to the high end of that range because the pandemic is helping margins at the moment.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+But -- and then for Q3, we're 2% higher than that 34% because of the benefit of that spike in revenue in
+China that we've seen. We expect that to continue into the middle of Q4. So add about 1% to that, you
+get to 35% for Q4 -- for a normal 13-week quarter Q4. But when you add the 14 week, if you add in the
+$45 million of revenue and the $33 million of expense, you'll find that the margin impact backs it back
+down to a midpoint of 34.5%.
+
+Operator
+
+Your next question is from Jay Vleeschhouwer from Griffin Securities.
+
+Jay Vleeschhouwer
+Griffin Securities, Inc., Research Division
+
+Lip-Bu, let me start with you in terms of question about the long-term implications of your Intelligent
+System Design and computational software strategy. And then for you, John, a shorter-term question
+about hardware. So Lip-Bu, we heard a good deal over the summer and again last week at the Cadence
+live events about your computational software strategy, Intelligent System Design, you've spoken of it,
+Anirudh has spoken about it, of course. And the question is threefold, which is, what are the implications
+in terms of your R&D, specifically the organization or methodology of your R&D as you orient Cadence
+towards this new strategy or opportunity? Similarly, in terms of sales and pricing, that might be for you
+too, John. And then last and certainly not least, the role and competencies that you look for in applications
+engineers, which, I believe, are your second largest part of head count after engineering, vis-à-vis the
+new strategy.
+
+Lip-Bu Tan
+CEO & Director
+
+Good -- Jay, thank you so much for the good questions. So a couple of things. So clearly, our core
+competitor is computation software. And then the Intelligence System Design is something that we
+believe is the right thing for us, is adjacent to us and also customer need that. So besides just providing
+the EDA silicon development, and now they were looking at the whole system analysis in terms of EM,
+the thermal, envelope. And then as you correctly point out, clearly, the application, the domain-specific
+optimization require. And so those are things that fit in to our computation software really well, and we'd
+like to gradually expand into that area that is adjacent to us. So in terms of your first question, in terms of
+R&D methodology, clearly, we are very laser-focused on the -- initially focused on the tool that are really
+important to our customers and like the Celsius and Clarity, and we clearly have the advantage to be able
+to show multiple times improvement. Those are important to the customer. And we validate that and we
+repeat all this data. That means they love it, they like to buy more and then proliferating more.
+
+And so we're going to double down on that. And we are delighted with the addition of the 3D Clarity
+Transient Solver that shows, again, tremendous improvement to our customer, and they are delighted on
+that. In terms of the pricing, I think John can talk to you more. We are very disciplined. We want to make
+sure that we provide the best solution to the customer. We want to price it correctly and then to serve the
+customer. And so I think in terms of talent, we are very laser-focused on some of the talent that Anirudh,
+myself and the team are looking for the best talent in that space, clearly, from the R&D and then also the
+FAE that able to effectively serve your customer. Those are our priorities. And then John, back to you.
+
+John M. Wall
+Senior VP & CFO
+
+Yes. I think Lip-Bu, you covered most of it there. That -- was there something that you were asking, Jay,
+that Lip-Bu hasn't already covered?
+
+Jay Vleeschhouwer
+Griffin Securities, Inc., Research Division
+
+No. No, that's fine. So turning to you, John, the shorter-term question. You noted record hardware for the
+quarter, and that's certainly substantiated by the increase in hardware cost of revenues that you show in
+the 10-Q. Interestingly, though, your inventories increased from the second quarter, in which I assume are
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+most, if not entirely, hardware. So in spite of the revenue upside in hardware, did you sustain an inventory
+build, anticipating perhaps Q4, Q1 '21 ship scheduling by one or both of the marquee customers?
+
+John M. Wall
+Senior VP & CFO
+
+Yes. Jay, I mean, we continue to maintain our inventory levels due to ongoing strong demand for the
+hardware products. We don't want to be caught short of inventory with the demand that's out there. The
+Palladium Z1 emulator is doing so well and so is the Protium X1 platform, that -- prototyping platform that
+-- so we're continuing to build inventory.
+
+Jay Vleeschhouwer
+Griffin Securities, Inc., Research Division
+
+Okay. And lastly, if I may. The physical verification and yield optimization category has been doing very
+well for a number of years now. Obviously, Mentor is the market leader there, and their numbers have
+been quite strong. Could you update us on what's going on with Pegasus? Anirudh was quite definitive
+about that opportunity [indiscernible] when he talked about the respective changes in physical verification
+over the next number of years. So what's actually happening for you there?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. So I think let me try to answer that. We are very excited about the Pegasus solution. It took quite
+a few years for us to develop, and the engine is really good. And then first of all, we want to make sure
+that the advanced node and the foundry partners are certified because this is right into the manufacturing
+side to make sure that the foundry partners certify this is a tool they will support. We are very delighted
+the key foundry partners are certified in this whole range of certification on the different process node and
+the most advanced process node. And then now we're also starting to have multiple customers starting to
+embrace it and then starting to use it. And then stay tuned. I think 2021 will be a very important year for
+us with all the certification in place for the most advanced node. And then now customers can confidently
+using that for their production design. So I think stay tuned.
+
+Operator
+
+Your next question comes from Pradeep Ramani from UBS.
+
+Pradeep Ramani
+UBS Investment Bank, Research Division
+
+I had a couple. First, just in terms of your memory exposure, how -- I guess in terms of your share,
+do you feel like you have more share in memory versus logic? Or are they sort of comparable? And the
+reason I ask is there's a lot of M&A speculation going on. And this is not specific to an M&A question, but
+in general, I'm trying to understand your exposure to memory.
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. I think let me try to answer your question. So I think memory is more and more important in this
+whole data analytics, and you want to be close to the memory and the storage. So this is one of the big
+area for the hyperscalers and also the whole infrastructure play. So memory is very essential. And so
+clearly from NANDs to HBM to some of the new memory development. And so clearly, we have a very
+strong foothold, and then we work with multiple of the memory customer. I think in the past, we highlight
+some of the memory success we have and not only on the tool and the solution and also in the IP, some
+of the DDR, PCIe memory, controller and FI, and we are well positioned some of the key IP we have. So I
+think stay tuned. I mean this is area we have good position. We're going to continue to expand on it.
+
+Pradeep Ramani
+UBS Investment Bank, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+Okay. And my follow-up is a little bit more on system analysis. So I mean we are hearing positive
+feedback on Clarity, especially versus competing tools. But I guess with the AWR and the Integrand
+acquisition, one, how does your prior $700 million TAM sort of inflect -- how much higher does it inflect?
+And two, where are we with respect to the share gain on the organic side? Are you close to like 5% share
+already? Or how should we think about share in this space as well?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. So I think first of all, I think it's -- as you correctly point out, for the Clarity and Celsius market we
+are addressing, the TAM market is about $700 million. And we are just the beginning and some of the big
+incumbents. I think clearly, first of all, we have to demonstrate the performance is better, make sure that
+the customer really validate that. One of the key excitement for me is the repeat orders. And when the
+customer using them and they are starting to come back and buy more, that is a very clear validation of
+performance is good. They like it. And then now the customer starting to suggest all of the tools that they
+require to have, and we're working closely with them, and that's why we have the 3D Transient Solver
+come out. And then stay tuned, we have more exciting things, we are working on internally developing.
+
+And then John and I, we always have a very discipline in terms of investing the R&D. When we see the
+customer interested and then give us feedback what they want, and then we can really look at ourselves,
+we can really developing that, have a clear differentiating opportunity. And then plus the 2 acquisitions we
+made, the AWR and then Integrand, clearly, in the whole 5G and millimeter wave area and the system-
+level they're starting to like automotive, starting to see that this is a really good value they want to have.
+And we are delighted to have continue to exceed our internal expectation, that is very encouraging for me.
+
+Pradeep Ramani
+UBS Investment Bank, Research Division
+
+Okay. And a quick follow-up. I guess I just want to clarify this. So you said there were 15 -- greater than
+15 customers for Clarity and Celsius this quarter, and that's independent from 15 customers for AWS and
+Integrand -- AWR and Integrand. Or are they the same? Or -- I just want to understand that.
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. I think we mentioned about 15 new customers. Clearly, something that we are very proud of. And
+clearly, it's an opportunity, and we add on this end market that we go after. And then this is all together
+and on this whole system analysis.
+
+Operator
+
+Your next question comes from Rich Valera from Needham.
+
+Richard Frank Valera
+Needham & Company, LLC, Research Division
+
+I wanted to ask a question. On your prepared remarks, John, you mentioned that system design and
+analysis was one of the drivers of your increased full year guide. And I was wondering if you could say was
+it the new system -- inorganic system simulation tools or the AWR, Integrand acquisitions that was driving
+that?
+
+John M. Wall
+Senior VP & CFO
+
+It's the combination of both. And the commentary really stemmed from the fact that we expect that to be
+our fastest-growing segment for the year now.
+
+Richard Frank Valera
+Needham & Company, LLC, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+Got it. That's helpful. And then you mentioned that you were actually behind plan in terms of hiring in
+Q3, but you -- looks like you added about 300 heads, which is the most you've added in a while. So just
+wanted to try to understand that dichotomy there.
+
+John M. Wall
+Senior VP & CFO
+
+Yes. We're continuing to invest in R&D and a lot of that investment is in head count. The reason I called
+out slower-than-expected hiring is that, that was part of the reason why we had such a strong operating
+margin in Q3 in comparison to what we guided, which is slightly slower on hiring. That was a part of the
+contribution to lower expenses in the quarter than we expected.
+
+Operator
+
+Your next question comes from Joshua Tilton from Berenberg.
+
+Joshua Alexander Tilton
+Joh. Berenberg, Gossler & Co. KG, Research Division
+
+I just wanted to follow up on the system design and analysis segment, maybe from a different
+perspective. Given that Clarity and Celsius are still in very early innings, when we look 5 years out, how
+should we think about this segment as a percentage of revenue?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. I don't think we disclose that. But clearly, we are excited about this opportunity. As we mentioned,
+this is kind of a early ending. And then we have some encouraging from our customer repeat orders.
+And then over a period of time, we will build a broader portfolio and so that we have a whole solutions to
+provide. So we are just in the beginning. So we are excited about the very nice growth area, and we're
+going to continue to innovate and continue organically develop and through acquisition to build out this
+opportunity. I think this system design and analysis is something that is part of our Intelligent System
+Design strategy.
+
+Joshua Alexander Tilton
+Joh. Berenberg, Gossler & Co. KG, Research Division
+
+That was helpful. And then I kind of just wanted to follow up. In terms of the Clarity and Celsius wins
+to date, are you seeing them being more competitive replacements? Or are your customers allocating
+incremental budget to supplement their existing simulation capabilities?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. I think this is a new business for us, and we're always excited to see that all this new opportunity and
+design wins is new to us and for this category of products. And I think more important, we are excited
+about the repeat orders from the customer. John, you may want to add on.
+
+John M. Wall
+Senior VP & CFO
+
+Yes. I agree with you, Lip-Bu. It's -- I mean, given it's such a new business for us, it's hard for us to tell in
+terms of what budget is coming out of from customer space. I suspect it's additional budget, but it's very,
+very difficult to tell, and it's difficult for us to speculate on that.
+
+Operator
+
+Our final question comes from Krish Sankar from Cowen.
+
+Krish Sankar
+Cowen and Company, LLC, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+I had 2 of them. First one, Lip-Bu, I think there were some questions on consolidation. And clearly, your
+customer consolidation has not really impacted you or even Synopsys for that matter. How much of that is
+a fact that your customers, as they consolidated, did not cut EDA budgets or even raised the EDA budgets
+versus as your customers consolidated, even the suppliers consolidated between you, Synopsys and
+Mentor, that kind of was a tailwind that you had?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. It's a good question. We're monitoring very closely, as I mentioned, on the consolidation. And you
+are correct, we managed well on all this consolidation. One thing is -- clearly, I mentioned R&D is the
+last place we will cut. And then usually, like I mentioned earlier, it's 5 generation of waves, and there's so
+much design activity, we don't see any slowdown. And then some of the talents, when they consolidate,
+they become somewhere else and then they showed up. And so R&D is -- clearly, the [ EE ] computer
+science is very badly needed in terms of university. We love to see more because a lot of design activity,
+and we don't see any slowdown at all.
+
+Krish Sankar
+Cowen and Company, LLC, Research Division
+
+Got it. That's very helpful. And then as a follow-up, I don't know if you can answer this, either Lip-Bu or
+John. Can you disclose if you've gotten any letter from the government requiring a license to ship to any
+Chinese customer?
+
+Lip-Bu Tan
+CEO & Director
+
+Yes. John, do you want to answer? I don't think -- go ahead.
+
+John M. Wall
+Senior VP & CFO
+
+Yes. So Krish, we're doing everything we can to support our customers, but we're not disclosing any
+specific communications with the government.
+
+Operator
+
+And I will turn the call back over to Lip-Bu Tan for closing remarks.
+
+Lip-Bu Tan
+CEO & Director
+
+Thank you all for joining us this afternoon. Our Intelligent System Design strategy is playing out very
+nicely as we benefit from new opportunities in design excellence, system innovation and pervasive
+intelligence and an expanded total addressable market. I'm very delighted to share that Cadence has been
+recognized by Fortune and the Great Place to Work institute as one of the world's best workplace for fifth
+time. This recognition is a result of our global employees' commitment and dedication to innovation, to
+delighting our customers and to taking care of our community and each other.
+
+And lastly, on behalf of all our employees and our Board of Directors, we give our heartfelt thanks to
+those, all of them on the front lines who continue to work tirelessly to fight this pandemic. Thank you all
+for joining us this afternoon.
+
+Operator
+Thank you for participating in today's Cadence Third quarter 2020 Earnings Conference Call. This
+concludes today's call. You may now disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+CADENCE DESIGN SYSTEMS, INC. FQ3 2020 EARNINGS CALL |  OCT 19, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+

@@ -1,0 +1,229 @@
+Good afternoon and thank you for joining us
+Q1 was an excellent start to the year, as we delivered solid double-digit growth in both revenue and earnings
+Revenue was $653 million, notably above our target range
+Non-GAAP earnings per share came in at $0.94. We are raising annual revenue, earnings per share, and operating cash flow guidance, reflecting our confidence in our outlook
+In addition, we continued to return capital to shareholders with a $100 million share repurchase; Trac will discuss the financials in more detail
+The market that we serve through our three customer segments of Semiconductors, Systems and Software Developers remains mostly unchanged since last quarter
+In semiconductors, analyst predictions are more positive than in past quarters, reflecting the investments going into the early products in the Internet of Things, machine learning, automotive, augmented and virtual reality, networking infrastructure, and the continually growing need for more compute power in the cloud
+Fundamentally, though, the dynamics have not materially changed, as companies continue to prioritize aggressive adoption of advanced silicon and state-of-the-art design, while being mindful of their need to control costs
+The consolidation drive to combine forces in order to better attack certain markets or more effectively utilize resources is likely to continue
+Many of these consolidations have worked their way through the system, and while they are a headwind, Synopsys has fared well
+The technology leadership and completeness of our solutions, combined with unwavering support, has made us a highly valued partner
+In fact, the strength of our design, verification and IP platforms positions us well with customers readying themselves for their next wave of growth
+Moving to systems companies, which represent about 40% of our revenue, the intersection of hardware and software is at the core of both their needs and our ability to deliver value
+It’s hard to overstate the promise and the challenges brought by the new applications that are emerging as the age of ‘smart everything’ is taking shape
+Helping our customers de-risk as they bring all the pieces together has now become our joint challenge
+This is precisely where Synopsys excels
+Our broad portfolio, proficiency and problem-solving experience, reaching from Silicon to Software, continues to increase in value as the challenges grow more and more multi-dimensional
+Our third customer segment – software developers across many industries – is a growing differentiator for Synopsys
+The expansion of interconnected devices – with immense software content and complexity – brings with it the need to find security and quality vulnerabilities early in the development process
+Fixing issues by sending out a stream of software patches is now untenable with systems that touch human life, society’s infrastructure, all the way to high-value industrial and financial systems
+Our growing portfolio of software security and quality products and services is gaining attention in market segments that, only a few years ago, we would never have touched, ranging from embedded to enterprise
+Now to some Q1 product highlights spanning from Silicon to Software
+Through our most advanced design tools, we are well-known for supporting adoption of 16, 14, 10, and 7 nanometer FinFET technology
+With our advanced lithography and TCAD platform, we are also well engaged in the development and research of 5, 3, and 2 nanometer nodes
+For example, we teamed up with IIT Bombay to announce an important extension of our Sentaurus TCAD for FinFET reliability modeling at 7 nanometer, 5 nanometer and below
+Meanwhile, adoption of advanced design with our tools continues unabated
+Of the 300 FinFET designs completed to date, Synopsys was relied on for more than 95% of those chips
+Significantly, 55 of the 56 tape-outs at 10 nanometer and below were completed using Synopsys
+Overall, our digital design platform, which is centered around synthesis, place and route, and sign-off, continues to make great strides
+First, our leading synthesis franchise around Design Compiler, which benefits from an extraordinarily strong and broad usage base, is seeing a rapid succession of technology advances and runtime improvements, including in its ability to deal with advanced test requirements
+Second, our state-of-the-art Place and Route offering around IC Compiler II is benefiting from very rapid adoption, including 19 of the 20 top semiconductor companies; Better and better results and solidity by honing the product on more than 250 production designs covering now over 25 different foundry processes
+And as a result, we are seeing notable successes in head-to-head benchmarks and customer engagements
+And third, the strength of our gold-standard sign-off franchise
+In addition to a continuing drumbeat of technical improvements, the strong correlation between the design and sign-off tools is a massive risk-reducer for our customers while impacting their time to market
+During Q1, for example, we released PrimeTime HyperScale, which reduces timing sign-off runtime and compute costs by 5 to 10X
+The adoption is swift as market-leading companies such as Broadcom, Juniper Networks, MediaTek, Renesas Electronics and Samsung Electronics have already deployed HyperScale in their signoff and tape-out flows
+The sharing of physical sign-off algorithms from IC Validator, natively inside IC Compiler II, also greatly improves sign-off time as it minimizes physical design violations during, instead of after place and route
+In custom/analog design, adoption of Custom Compiler is steadily progressing
+In Q1, a market-leading mobile fabless company deployed Custom Compiler on multiple 7 nanometer designs, while a large semiconductor IDM is replacing our competition for the design of a growing number of custom IP blocks
+Now to verification, where our platform vision and technology execution have yielded excellent business and market share growth
+Verification is a showcase of our broader Synopsys Silicon to Software vision
+Our focus is squarely on the greatest enabler of the IoT/Smart Everything age: the intersection of hardware and software verification
+The center of our offering is our VCS simulator franchise
+The product is not only doing well business-wise, but also delivering great new technology advances
+During the quarter, we announced the roll out of massive parallelism natively integrated in the next release of VCS
+Advanced customer-partners are already experiencing substantial performance boosts as this technology further cements our commitment to best-in-class verification products
+Our hardware-based ZeBu emulation and HAPS prototyping had another strong quarter as well
+The combination of increasing customer demand and our ability to deliver the fastest solution on the market today, gives us confidence that our verification business will do very well again this year
+On to our IP products, where we continue to deliver strong results and gain customer recognition
+Strength was across the board, with notable wins in 7 nanometer and continued momentum in IoT
+A major Chinese customer selected Synopsys for a wide range of IP for their 7 nanometer designs
+TSMC certified our area-optimized USB 2.0 solution for IoT for its 40 nanometer Ultra Low Power process
+The ARC SEM security processor won the Linley Group’s best processor IP award for 2016, based on power/performance efficiency, as well as unique security features
+Our IP group is growing well
+This is the result of more than 15 years of investment and hard work, yielding an unmatched portfolio of high-quality, trustworthy IP products
+These characteristics are particularly important in the expanding automotive space – a key focus segment for Synopsys, touching our IP, EDA and software security portfolios
+Our customer base in automotive continues to widen, including new semiconductor companies as well as OEMs and noted Tier 1 suppliers
+In Q1, a high-profile automotive semiconductor company adopted our test solution for use in mixedsignal automotive ICs to enable ISO 26262 compliance
+Their ICs are for safety-critical systems and therefore require in-system and power-on self-test to comply with the standard
+Key elements of our EDA, IP and Software Integrity portfolio are now certified for the most stringent level of automotive safety measures defined by the ISO 26262 standard
+Which naturally leads me to our Software Integrity group
+Succinctly stated, our focus is to provide products and services to build security and quality into the software development lifecycle and across the entire cyber supply chain
+Clearly, security challenges are only increasing, but so is the recognition that finding and fixing security vulnerabilities must be addressed vigorously while developing the software
+That means high-quality code-checking long before the software gets deployed is a must
+For example, Online Trust Alliance, a well-known industry organization, states that 100% of recently reported IoT vulnerabilities could have been easily avoided if manufacturers and developers took security and privacy measures into account throughout the development process
+Our strategy is to: First, broaden and deploy our Software Sign-off Platform
+Second, accelerate our penetration of key verticals in both the embedded and enterprise spaces
+And third, drive demand creation, with services, ecosystem partners, and certification projects
+While it’s early, we are making great progress: 8 of the top 10 software companies in the world are now Synopsys customers; So are 7 of the top 10 automotive OEMs; And, illustrating the TAM-broadening potential for Synopsys, so are 16 of the top 20 commercial banks in the world
+Having greatly tuned our channel in fiscal 2016, we continue to invest in this promising business
+In Q1, we launched a new version of our static analysis tool with enhanced security for mobile and web applications
+It’s designed to help provide enterprise-level security analysis and broad programming language support necessary to address today’s many evolving application security demands
+In Q1, we further broadened our language coverage, by adding support for Fortran through a small acquisition
+While arguably an older language, it’s a very important legacy component in many oil and energy systems
+And, of course, in Q1 we closed the acquisitions of Cigital and Codiscope, a pivotal move to expand our market through a services arm that lets us reach and engage with higher-level decision makers at a broad set of customers
+We see Synopsys and Cigital as an ideal combination: Synopsys leads with best-in-class products; Cigital with high-expertise services
+Synopsys has a very strong presence in the embedded space, including automotive, medical devices and IoT; Cigital is a leader in serving enterprise customers, with particular strength in financial services
+Synopsys is eminently engineering-centric, while Cigital brings a demand creation element, with customer touchpoints earlier in the security strategy development process
+Thus far, the integration is proceeding well, and we had our first taste of the potential of the combination just this week at RSA, the world’s largest security conference, where Synopsys highlighted the most comprehensive software security solution available today
+In summary, we exceeded expectations in Q1 for an excellent start to fiscal 2017, and we’re raising our full-year guidance
+We’re seeing very good momentum with our EDA platforms, continued strength in our IP portfolio, and good growth in Software Integrity as we continue to invest and broaden our TAM in this very promising emerging market
+Let me now turn the call over to Trac
+In general, when the customers feel that they have a good year, everybody is a little bit more pleasant to deal with, as you would expect
+At the same time, I’ve said many, many times that the growth rate of the semiconductor industry in aggregate over multi-years is really about 4% to 4.5%
+The fact that from different years there can be big swings, is more a function of individual product lines and rhythms within the buying market than anything else
+Nonetheless, though, I think if there is one positive I would take out of this, is that the predictions that we’ve made now for of a number of years that electronics would bring about a wave of new opportunities through this whole notion of a smart everything, you can also call it machine learning or digital intelligence, is starting to become visible
+I think that is very exciting because if you have something that’s a little bit smart, the one thing you want it is to be smarter
+And one way to make it to smarter is to give it more compute power
+We can see that the pressure and the push for advanced nodes is very solidly driving this notion forward and it’s becoming increasingly real
+All you have to look at is how immensely powerful automatic driving cars are, and yet how immensely far they still have to go before you can completely trust them
+That’s all good news for us
+It’s in that context that the combination of hardware is getting better leads to software that is much more performance
+That leads to applications that really, I think, will wow us in the years to come
+I think there is a little bit of that in this picture as well
+In many ways you answered your own question
+You said at the beginning of the year we were cautious because we felt it was fairly difficult to predict a part of the hardware waves
+And you were right because we have not predicted such a strong Q1; and the fact that Q2 is a strong follow up is only encouraging
+But it’s also true that we want to remain cautious
+That when you look at in aggregate, raising a year is a big year when you do better early in the year, but many things can happen
+There’s no indication of bad news, it’s just that we are digesting the good news, I think, at a slightly slower clip than being too aggressive
+Sure
+I think we have – it was close about halfway in the quarter
+So far, the integration is, on both sides, a lot of learning while making sure that we continue to execute well
+And I can state that the execution appears to be on track based on the plans that they have
+But the opportunity really is how does, in this case, one plus one really be more than two, in that the services can help accelerate a broader adoption of the tools
+Because the services tend to interact with high levels, in the strategic levels, in a company
+And how can the tools be a wonderful add-on to a service business that is already quite performance in some of the market segments, most notably the financial services market segment
+Having said that, I don’t want to minimize at all the challenge of that learning because Synopsys fundamentally has been a product Company more than service Company
+We, of course, have a very large support force that service requires a certain set of behaviors
+We are step-by-step broadening the Cigital capability on a world-wide basis, which is a great opportunity, and at the same time making sure that both teams are well educated on the offerings that we have
+I think we are well on track to create something that is stronger again
+That belief is bolstered somewhat by the fact that the non-Cigital part of Synopsys, of SIG, did well again
+And I think we have alluded to that the last few conference calls, that the predictability of that business, the number of large deals, was on a very good track
+And so that gives us a degree of solidity that gave us additional courage to make this move
+You’re welcome
+Well
+The lead times really at this point in time are only a marginal issue because typically we can execute within a quarter or so
+Now of course if an order comes in late e in the quarter then typically it would not have much impact revenue-wise in that quarter
+Regarding the linearity, of course I understand that many of you are trying to handicap how good the rest of the year looks
+I think what we’re fundamentally communicating is that our guidance at the beginning of the year turned out to be more conservative than the first quarter delivered and therefore we made some changes
+But we are maybe a conservative Company, or fundamentally we try to execute to what we say we will do
+And that’s why after the first quarter we don’t want to change guidance too much
+Having said that, run rates grew again
+I think we have many customers that are actually quite interested in the emulation part of the business, in the prototyping part of the business, because they’re going more and more into the hardware-software part of the space that determines their time to market
+And so it’s well possible that the second half of the year turns out to be strong
+It’s just that we don’t have visibility to that
+These are quite distinct markets because they have different catches both in speed but also in the ability to debug and look at things
+At the same time, one of the very strengths that our verification platform has, is that it can be used very much as a continuum
+Meaning that one can do parts of the design in the VCS software simulator, one can do part of it in emulation or in the prototyping boards
+And we will continue on that track, because if we can execute well on that, while each one of these products from version to version will get faster again and higher capacity, the fact that they work well together is actually an asset for Synopsys
+Well
+As you were listing them, I kept thinking about all the other products that are positively impacted too
+Because while things like IoT, machine learning, automotive are going growing very rapidly, they pull with them an unbelievable need for more capacity and everything that connects to the cloud, to a massive amount of computing and therefore the bandwidth and the storage that goes with that
+I think that is why, as much as a lot of people call this the age of internet of things, the internet of things is almost more a catalyst to growth in all of these other dimension than anything else
+Now if you look at our products, there is no question that some of the products that have done particularly well happened to touch the areas that you mentioned
+And so IT is particularly relevant in people that want to very quickly do complex systems where they don’t want to build all the blocks themselves
+And our IP blocks have literally been honed over many, many years and are constantly pushing the state-of-the-art
+I mentioned already the verification of this intersection between hardware and software
+For us the promise of the software space, we originally got into that by realizing that software complexity was starting to rival hardware complexity, and that the penalty for errors was rapidly moving up
+Penalty for errors in hardware has always been high
+Software, as I said, you could get away with patches
+But that’s not the case when the software drives things of very high value all the way to cars and human lives and so on
+And so you amend that with the very fact that there is a world of hacking that really with nothing good in mind
+You can see that the need for high degrees of discipline in the software space is a necessity, even if it will take some time before development flows get there
+And so that is the mission that we are on
+While this is a new market, it’s particularly rewarding now as we start to see that we are interacting with companies that literally five years ago we would never have dreamed of talking to
+And we’re talking insurance companies, health companies, banking consortia, and so on
+And these are all people that use software and use it in the context of very high-value propositions
+So they need to be safe and they need to be efficient
+For many, many decades most positions have always been shared in various ways
+There are a few that are sole positions or there are a few that where one or the other company is massively dominant
+But we are in field where constant advances are constantly being explored
+And we have been very fortunate to do very well in this
+But our investment continues to be at the high speed and to race forward
+Customers will look at anything that helps them but they are also increasingly benefiting from the collaboration that comes out of fairly deep long-term relationships
+Well, in general, we compete intensely for this market that continues to push hard and in some cases accelerate their need for technical advances
+And so as you know, there are not that many players in our field
+And so it’s a healthy and good thing that we are both pushing hard
+Synopsis has had the benefit of having a portfolio that is both well-anchored and quite complete and increasingly very well integrated in platforms that are helpful for the customers time to market and risk reduction
+All of these are probably statements that some of our competitors would make about themselves as well
+And we never underestimate them, but we are both providing tools that are sort of similar to race cars, the faster they go, the better for the customer
+You’re welcome
+Well, I think at a macro level, if you look at all of these products taken together, they’re fundamentally anchored at least to a large portion, not entirely, in the semiconductor industry
+Per an earlier question, notwithstanding the year-to-year differences, the semiconductor industry has had a fairly steady growth rate and with steady R&D expenditures, and therefore fairly steady EDA growth all in all
+Within individual product groups, and especially when you connect them together in coherent platforms, there are actually very big changes in products in a matter of two to three years as on moves to the next generation
+And these changes invariably are around finding a way to dramatically improve one of three characteristics
+Either characteristics of the quality of results, meaning the power of the chips or the performance of the chips, or the time to results, meaning make the product run much faster, or the cost of results which is reduce the area of chips
+These evolutions are not linear because often you work for two or three years on a set of profound algorithms and then suddenly it makes a difference
+If you look at a little bit higher level, and this is where sort of intersects with the strategy for a Company, the big inflection points from my perspective have been the addition of the IP business to EDA
+And this, of course, now already quite a number of years ago but now it is a significant portion of our business
+I’ve alluded the last couple of years to the inflection that is coming with the addition of the software side of hardware-software
+And it’s not a surprise that so many of the verification expenditures are increasingly focusing on that
+And then we have predicted that the software side itself would go through this by virtue of the complexity growth
+And so that is how we are looking at our opportunity space
+And to the earlier question of how does our financial profile evolve, be it in growth and profitability, while we’re managing Synopsys as a portfolio of a number of specialty areas that are very related but somewhat independent in their growth spurts
+And in large arrangements with customers, the allocation of the individual revenue streams can be somewhat fuzzy just by virtue of accommodating how the customer wants to look at it
+I’m not sure I completely answered your question sharply, but I did give, I think, what I think are the big things that actually bode well for us for a number of years to come
+Well, listening to my predictions through your mouth, I almost feel clairvoyant because indeed the deals did get larger
+And that’s not surprising because this is the same history as EDA many years ago or many other fields where automation and verification takes hold
+And yes, it takes hold faster with people that look forward and so on
+But really it happens very often when people have a catastrophe or an issue to deal with
+On the services side, you’re right, we mentioned that then
+And to be honest, I don’t recall if we were completely engaged with Cigital at that point in time already
+But we have felt for a while that the issues around security are so large that when you get the opportunity to talk to, let’s say, the CIO or CSO or CTO of a large Company, and they tell about all the security issues, the next answer is, well, we have this one product, why don’t you just buy some, feels pretty shallow
+In that context, the Cigital acquisition was great because these are people that are accustomed and knowledgeable about reflecting the broader picture than advocating what is sort of a good approach for the Company to deal with it, while not necessarily pushing for individual products
+But of course, now highlighting what we have
+And so in that sense, I think that we will first learn how to run that business well
+And assuming that goes well, my guess is that this will broaden more and more on a world-wide basis
+Well, if you don’t mind, we don’t want to talk about individual legal situations, so let me more generalize
+From time to time we obviously see glaring cases of misuse of software
+And we try to respond forcefully but gracefully to it
+It is always better if we can guide a customer towards a healthy long-term solution, if I can call it that
+Every thoughts and that’s more difficult and maybe legal situation is resulting from that
+We’ve had a few of those in the past, they have been resolved, I think, professionally and positively
+Let’s hope this yields the same
+If you looked at our distribution of revenue over many, many years, you would see that Asia-Pac for decades has been growing substantially faster than other parts of the world
+Asia-Pacific itself has multiple components and Taiwan and Korea have been big parts of that for many years
+In the last number of years China has grown immensely, and of course the potential to continue to do so
+Simultaneously, we know by virtue of having been in China since really the early 90s, how the competence of the engineering teams and the companies that have grown and some have merged and have grown again, have progressed quite superbly
+And so in that sense, a number of companies that do state-of-the-art design in China just like anywhere else in the world
+We have been very fortunate to be, I believe, the largest contributor to that from an EDA space point of view
+IC Compiler II has seen, actually, an enormously rapid adoption rate which continues
+And which is solidified more and more by the fact that we are also getting increasingly excellent results, especially when used in conjunction with some of our other tools
+And so from that perspective, while I certainly don’t want to be negative on any other competitive products, we have a high degree of competence and confidence, I should say, in this product line and we expect it to continue to grow
+Your second question was on Custom Compiler
+There too, this is a smaller product, less visibility and typically a slower adoption rate by virtue of the longer history that people have in the custom space
+And our focus has been primarily in the more advanced node, the FinFET technology
+And we are seeing some very good adoption, especially in the last few quarters
+So we will continue to watch this space
+For starters we certainly don’t underestimate what the change can do for Mentor
+I certainly can not say that we’ve seen an increase in competitiveness
+But let’s see what the future brings
+It’s a very capable Company with very capable products
+Maybe if I can toot our own horn, I think that we are – we have very capable products too, and increasingly a lot of our top customers reflect on the strength of our platforms
+And that will certainly be a continued angle for competitiveness in this regard
+You’re welcome
+I’m not sure if we understood the question
+You are saying that we will see the software business and the IP continue to grow well
+Well, if you’re referring to the profitability part, obviously these businesses as we grow them, we also have in place a discipline to make them gradually more profitable
+And the question is always when you have something that grows very fast, is it better from a – both competitive position, growing the value of the Company over time, to push on growth or on profitability
+That decision gets made sort of on a continual basis
+But fundamentally we follow a belief system that says once a business starts to grow, it also has to increase it’s profitability
+And so while the high-growth businesses are less profitable than the lower-growth businesses, in aggregate I think we’re actually in a very good balanced portfolio situation
+You’re welcome
+Well, I guess we have reached the end of the hour
+Again, thank you very much for attending the earnings call
+We had a very strong quarter and we look forward to Q2 with a fairly high degree of confidence and a strong year as well
+And as usual, we will be available for the after call phone calls
+Thank you very much

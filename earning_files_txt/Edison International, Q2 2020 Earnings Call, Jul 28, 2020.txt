@@ -1,0 +1,784 @@
+Edison International NYSE:EIX
+FQ2 2020 Earnings Call Transcripts
+Tuesday, July 28, 2020 8:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ2 2020-
+
+-FQ3 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+1.12
+
+1.00
+
+(10.71 %)
+
+1.49
+
+4.42
+
+4.59
+
+Revenue  (mm)
+
+3085.97
+
+2987.00
+
+(3.21 %)
+
+3985.97
+
+13213.12
+
+13669.23
+
+Currency: USD
+Consensus as of  Jul-23-2020 10:30 AM GMT
+
+FQ3 2019
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.59
+
+1.03
+
+0.79
+
+1.12
+
+1.50
+
+0.99
+
+0.63
+
+1.00
+
+(5.66 %)
+
+(3.88 %)
+
+(20.25 %)
+
+(10.71 %)
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+EDISON INTERNATIONAL FQ2 2020 EARNINGS CALL |  JUL 28, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Maria C. Rigatti
+Executive VP & CFO
+
+Pedro J. Pizarro
+President, CEO & Director
+
+Sam Ramraj
+Vice President of Investor
+Relations
+
+ANALYSTS
+
+Jonathan Philip Arnold
+Vertical Research Partners, LLC
+
+Julien Patrick Dumoulin-Smith
+BofA Merrill Lynch, Research
+Division
+
+Michael Jay Lapides
+Goldman Sachs Group, Inc.,
+Research Division
+
+Steven Isaac Fleishman
+Wolfe Research, LLC
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+EDISON INTERNATIONAL FQ2 2020 EARNINGS CALL |  JUL 28, 2020
+
+Presentation
+
+Operator
+
+Good afternoon, and welcome to the Edison International Second Quarter 2020 Financial Teleconference.
+My name is Ted, and I will be your operator today. [Operator Instructions] Today's call is being recorded.
+I would now like to turn the call over to Mr. Sam Ramraj, Vice President of Investor Relations. Mr. Ramraj,
+you may begin your conference.
+
+Sam Ramraj
+Vice President of Investor Relations
+
+Thank you, Ted, and welcome, everyone. Our speakers today are President and Chief Executive Officer,
+Pedro Pizarro; and Executive Vice President and Chief Financial Officer, Maria Rigatti. Also on the call
+are other members of the management team. I would like to mention that we are doing this call with
+our executives in different locations, so please bear with us if you experience any technical difficulties.
+Materials supporting today's call are available at www.edisoninvestor.com. These include our Form 10-K,
+prepared remarks from Pedro and Maria and the teleconference presentation. Tomorrow, we will distribute
+our regular business update presentation. During this call, we'll make forward-looking statements about
+the outlook for Edison International and its subsidiaries. Actual results could differ materially from current
+expectations. Important factors that could cause different results are set forth in our SEC filings. Please
+read these carefully. The presentation includes certain outlook assumptions as well as reconciliation of
+non-GAAP measures to the nearest GAAP measure. [Operator Instructions] I will now turn the call over to
+Pedro.
+
+Pedro J. Pizarro
+President, CEO & Director
+
+Well, thank you, Sam. And let me start by hoping that all of you listening today and your loved ones
+are staying safe and healthy as the world continues to work its way through COVID-19. Today, Edison
+International reported core earnings per share of $1 for the second quarter 2020, down $0.58 compared
+to the same period last year. The decline in year-over-year EPS was primarily due to higher O&M
+expenses, equity share dilution and a true-up for the final 2018 GRC decision that we recorded in the
+second quarter of last year. Consistent with recent quarters, results for this period were impacted by the
+timing of O&M spend and deferrals of certain wildfire-related expenses. However, the year-over-year EPS
+impact of wildfire-related expenses should improve in the second half, and we remain confident in our
+outlook for the full year. Therefore, we are narrowing our 2020 EPS guidance range to $4.37 to $4.62 by
+raising our low end by $0.05. Maria will discuss our financial performance in more detail in her report.
+
+On the legislative front, we are pleased that the governor and legislature prioritized wildfire funding in the
+recently adopted budget despite its projected $54 billion deficit due to the pandemic. The budget provides
+over $200 million in onetime and ongoing funding for community resiliency preparedness, additional
+firefighting personnel and equipment and enhancement of the state's emergency preparedness, response
+and coordination, with state agencies, local governments and utilities. We are also encouraged by the
+state's enhanced wildfire mitigation capabilities as we prepare for this year's wildfire season. For instance,
+CAL FIRE reported that it completed all of the planned 35 emergency fuels management projects in May,
+making 90,000 acres safer ahead of wildfire season and protecting 200 vulnerable communities. Some of
+these projects were located in or adjacent to SCE service territory. CAL FIRE has also made substantial
+investments to support its firefighting capabilities, including the addition of C-130 airplanes and new
+helicopters with better night firefighting capabilities.
+
+Turning to operations during this COVID-19 pandemic. SCE remains steadfast in focusing on practices
+aimed at the safety and health of employees and customers. 2/3 of our 13,000 employees continue to
+telework, and we recently moved our earliest reentry date for them from after Labor Day to the beginning
+of next year. Importantly, SCE also has a sharp focus on maintaining critical operations for customers'
+benefit, including those laid out in SCE's 2020-2022 Wildfire Mitigation Plan. This plan calls for SCE to
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+EDISON INTERNATIONAL FQ2 2020 EARNINGS CALL |  JUL 28, 2020
+
+continue to harden infrastructure, bolster situational awareness capabilities and improve operational
+practices, while implementing enhanced data analytics and technology. Since the beginning of the year,
+SCE has completed more than 330 miles of covered conductor, installed nearly 400 additional weather
+stations and completed over 135,000 ground-based inspections of our infrastructure and high fire risk
+areas. SCE is also making good progress in acquiring more high-definition imagery through a combination
+of helicopters and drones to facilitate additional assessments that are not possible from the ground. The
+CPUC approved the 2020-2022 Wildfire Mitigation Plan on June 11, paving the way for the renewal of
+SCE's annual safety certification as the prerequisite for access to the Wildfire Fund.
+
+Looking ahead, we anticipate another active fire season, mainly driven by lower-than-expected
+precipitation and very dry conditions across California. However, SCE is entering the more active fire
+period better prepared than ever. In addition to advancing wildfire mitigation measures, the company has
+made improvements to Public Safety Power Shutoff, or PSPS, protocols since last years. While the use of
+PSPS is largely dependent on temperature, wind and fuel conditions, with the improvement that SCE has
+made since last year, we would expect to see a 30% reduction in the number of customers affected by
+PSPS events under the same conditions as last year. Our preparedness includes preestablished switching
+playbooks for each of our approximately 1,100 circuits that traverse high fire risk areas, enabling a more
+surgical approach to isolate the smallest portion of the circuit possible for a given weather condition.
+It also includes many facets of our customer care program such as providing generator rebates for
+customers in our high fire risk area and battery backup systems for qualified critical care customers. We
+continue to focus on minimizing customer impacts but PSPS will remain a tool to mitigate the risk of a
+catastrophic wildfire.
+
+Among key wildfire-related proceedings at the CPUC, SCE submitted its 2020 Safety Certification Request
+on June 19, outlining how the company meets safety culture and conduct requirements, including
+implementing our approved Wildfire Mitigation Plan and linking executive compensation to safety. The
+CPUC has 90 days to act on SCE's request. Until then, the initial safety certification we received last July
+will remain in effect.
+
+On the legal front, I would like to give you an update on the 2017 and 2018 wildfire and mudslide events.
+SCE announced an agreement last November to settle claims with 23 public entities. Since that time, the
+utility has continued to explore settlement opportunities with numerous individual plaintiffs. During the
+quarter, SCE reached confidential settlement agreements with some of these plaintiffs, and they represent
+the first individual claims that the company has settled in the 2017 and 2018 wildfire and mudslide cases.
+There are thousands of similar individual claims against SCE, and the utility is committed to exploring
+settlements with all reasonable parties who wish to do so. The court has set January 12, 2021, as the start
+of the Thomas Fire bell weather trial, but this may be further impacted by COVID-19. The court vacated
+the July 2020 bellwether trial date for the Woolsey Fire and has yet to set any date.
+
+I would now like to briefly discuss how sustainability is central to our vision for leading the transformation
+of the electric power industry. Our vision aligns with California's COVID-19 recovery efforts. As the state is
+working to help Californians recover as fast as safely possible from the COVID-19-induced recession and
+to shape an equitable, green and prosperous future. Our recently published 2019 Sustainability Report
+highlights Edison International's progress towards meeting our long-term goals. They include delivering
+100% carbon-free power to SCE customers by 2045; expanding infrastructure in SCE's service area to
+support increased vehicle electrification; and electrifying SCE's own fleet, including 100% of light-duty
+vehicles by 2030. I would note that at the end of 2019, 51% of the electricity that SCE delivered came
+from carbon-free resources. We also remain focused on advancing our clean energy and electrification
+strategy. In May, SCE announced 770 megawatts of energy storage procurement, one of the largest
+in the nation, which will help enhance electric system local reliability needs. Also, last month, SCE, in
+partnership with other utilities, published the West Coast Clean Transit Corridor Initiative study. This looks
+at infrastructure needs to serve medium and heavy-duty electric trucks. Additionally, we were pleased
+that the California Air Resources Board furthered the state's commitment to electrification by adopting the
+nation's first zero-emission electric truck rule. Maria will comment on the initial proposed decision issued
+just yesterday in SCE's Charge Ready 2 proceeding.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+EDISON INTERNATIONAL FQ2 2020 EARNINGS CALL |  JUL 28, 2020
+
+Let me conclude by saying that California's commitment to the 2030 and 2045 climate change goals
+can play a critical role in a just and equitable economic recovery. Investments in clean energy and
+electrification can address climate change and also lower greenhouse gases affordably for all California
+communities. At Edison International, we are committed to enabling the state's efforts to achieve its
+objective of a clean energy economy. With that, let me turn it over to Maria to provide her financial report.
+
+Maria C. Rigatti
+Executive VP & CFO
+
+Thank you, Pedro. Edison International reported core earnings of $1 per share for the second quarter
+2020, a decrease of $0.58 per share from the same period last year. This decline was primarily due to
+higher O&M expenses, equity share dilution and the true-up for the final 2018 GRC decision we recorded
+in the second quarter of last year. As Pedro had mentioned, we expect the year-over-year EPS impact
+of wildfire-related expenses to improve in the second half and we are narrowing our full year 2020 EPS
+guidance by raising the low end of the range.
+
+On Page 2, you can see SCE's key EPS drivers on the right-hand side. I would like to highlight 4 items that
+negatively impacted the variance. First, EPS declined by $0.20 due to the 2018 true-up recorded in the
+second quarter of 2019 upon receipt of the final GRC decision. Second, O&M had a negative variance of
+$0.24, including from increased expenses that are offset by revenue due to balancing account treatment,
+as well as the timing of deferrals related to both wildfire mitigation expenses and COVID-19-related costs.
+
+The variance related to wildfire mitigation expenses is due to the timing of regulatory deferrals for
+vegetation management and inspection and preventative maintenance costs. For the quarter, the negative
+variance from wildfire mitigation expenses was $0.06 per share. During the quarter, certain wildfire-
+related expenses reached the total amount authorized in the GRC, and we began to defer incremental
+costs through approved memorandum accounts. We will begin to defer other categories of costs in the
+third quarter when we -- these exceed the GRC authorized levels. Therefore, wildfire-related expenses will
+be less of a driver of year-over-year variances in the second half.
+
+O&M expenses were also negatively impacted by the timing of customer uncollectibles, labor and other
+expenses resulting from the COVID-19 pandemic and SCE's response to it. As we have noted previously,
+there are tracking accounts for COVID-related expenses. Since some of these expenses are similar to
+costs authorized in the GRC, for example, uncollectibles, we must reach full year GRC authorized levels
+before we begin to defer them.
+
+The EPS impact in the quarter for these items until they reached the authorized level was $0.06. However,
+for the full year, we do not expect an earnings impact due to COVID-related expenses. As for deferrals,
+through June 30, we have recorded $49 million in 2 COVID-related memo accounts.
+
+Third, depreciation and amortization negatively impacted EPS by $0.13. This was primarily due to changes
+in Q1 2019 depreciation rates that were recorded in the second quarter last year following the GRC
+decision as well as higher plant. Finally, EPS in the quarter was lower by $0.17 because of dilution from
+the increase in shares outstanding.
+
+On Page 3, you will find SCE's capital expenditure and rate base forecast. We have a robust capital
+program of $19.4 billion to $21.2 billion, which includes SCE's revised capital request reflected in the
+2021 GRC rebuttal. Based on the capital expenditure levels requested in the 2021 GRC, total weighted
+average CPUC and FERC jurisdictional rate base will increase to $41 billion by 2023. This request level
+represents a compound annual growth rate of 7.5% over 2 rate case periods. Applying a 10% reduction to
+the total capital forecast, to reflect our experience of previously authorized amounts and other operational
+considerations, results in a compound annual rate base growth of 6.6%. As we have done in the past,
+projects and programs that have not yet been approved by the CPUC, such as Charge Ready 2, are not
+included in the rate base forecast. Yesterday evening, we received a proposed decision in the Charge
+Ready 2 proceeding. The PD would authorize a total program budget of $442 million, including a capital
+budget of $314 million. It is expected to be voted on at the commission's August 27 business meeting.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+EDISON INTERNATIONAL FQ2 2020 EARNINGS CALL |  JUL 28, 2020
+
+Please turn to Page 4 for an update on the 2021 GRC. During the quarter, SCE filed its rebuttal testimony,
+focusing on a number of the interveners' recommendations, including their positions on reductions to the
+covered conductor program and depreciation. While the magnitude of the revenue increase is higher than
+prior GRCs, we continue to underscore that our request is necessary to make the longer-term investments
+required to deliver safe, reliable, affordable and increasingly clean electricity for more than 15 million
+Californians. As for next steps in the GRC, evidentiary hearings were completed on July 22, and brief and
+oral arguments are scheduled for the fall. We are encouraged that the CPUC has kept this proceeding on
+schedule even while working remotely during the COVID-19 pandemic. The CPUC is expected to issue a
+final decision for track 1 in Q1 2021.
+
+I would now like to update you on other key financial topics. Please turn to Page 5. First, we completed
+our 2020 EIX financing plan in May with a direct placement of $800 million of equity with several existing
+long-term investors. We have minimal equity needs to fund our ongoing capital expenditures program
+beyond 2020. As noted previously, this is also predicated on timely cost recovery of the requested
+memorandum accounts and the current level of liabilities on our balance sheet for the 2017 and 2018
+wildfire and mudslide events.
+
+Turning to wildfire insurance coverage. We have secured $1 billion of gross insurance coverage from July
+2020 to June 2021, which is $870 million net of self and coinsurance. You will recall that we had net
+coverage of about $1 billion for the previous policy year. The insurance market continues to be tight, and
+based on the cost of insurance premiums, the $1 billion gross coverage optimizes risk mitigation and cost
+to customers. We believe that this insurance coverage meets the requirements of a AB 1054. Based on
+policies currently in effect, the wildfire insurance expense in 2020 is approximately $450 million.
+
+Moving to our 2019 FERC formula rate case. SCE filed a settlement on its formula rates in June. If
+approved by FERC, this settlement will provide SCE with an all-in ROE of 10.3% and an equity layer that
+is the higher of actual and 47.5%. SCE can file a new rate case beginning in January 2022. Lastly, earlier
+this month, we filed an application with the CPUC to allow SCE to securitize $337 million of wildfire-related
+capital expenditures. AB 1054 allows us to securitize wildfire-related costs, including $1.6 billion of CPUC-
+approved wildfire mitigation capital spending, which can't be included in the equity portion of SCE's rate
+base. This application requests authority to securitize a portion of the recently approved Grid Safety and
+Resiliency Program spending. The bonds will be repaid from a dedicated rate component.
+
+Pages 6 and 7 show our 2020 guidance and key assumptions for modeling purposes. I'll start by
+highlighting that we are narrowing the EPS guidance range to $4.37 to $4.62 per share by raising the
+low end of the range. This also increases the midpoint of the EPS range to $4.50. There are several
+variables driving this positive revision. Let's begin with SCE's rate base earnings. We now expect the
+rate base EPS outlook to be $0.03 higher as a result of our 2019 FERC formula rate case settlement and
+the resolution of a tax-related regulatory proceeding. Building on this, we are also now forecasting a net
+contribution of $0.27 on SCE operating and financial variances. This is $0.07 higher than our previous
+estimate. This increase is influenced by the timing of SCE's financing activities as well as a number of
+other operational items. As you look at the next 3 bars in the chart, you will note that some of the EPS
+increases I just described are offset by higher costs at EIX Parent and Other, primarily from increased
+interest expense and dilution from outstanding share count. We now forecast the combined EPS drag
+from these 2 items to be $0.07 higher than our previous estimates, and this is primarily related to the
+completion of the EIX financing plan earlier in the year than originally anticipated. Taking all of these
+variables into consideration, the net impact of these changes, combined with the outlook for our business
+with another quarter behind us in this COVID-19 environment, gives us confidence in our narrowed 2020
+EPS guidance range of $4.37 to $4.62 per share. That concludes our remarks.
+
+Sam Ramraj
+Vice President of Investor Relations
+Ted, please open the call for questions. [Operator Instructions]
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+EDISON INTERNATIONAL FQ2 2020 EARNINGS CALL |  JUL 28, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] First question is from Jonathan Arnold with Vertical Research.
+
+Jonathan Philip Arnold
+Vertical Research Partners, LLC
+
+Pedro, may I just ask, obviously, you've mentioned that you've reached some initial settlements with -- I
+think you said that you described it as sort of some of the plaintiffs in the 2017, '18 fires, and obviously,
+there are thousands of others. But should we read the fact that you didn't change your accrual despite
+reaching some of these settlements as a sign that you feel still good about your estimate? Or is it just that
+you don't have enough experience in settling additional claims to really have an update at this point?
+
+Pedro J. Pizarro
+President, CEO & Director
+
+Yes. Jonathan, that's a really good question. And I think just the simple answer is that as you alluded to,
+we did a handful of settlements, a few dozen settlements here compared to the thousands of plaintiffs. So
+that is simply just not enough evidence to have any sort of material impact in our assessment of the low
+end of the estimable range. So we did look at that range again and/or at the low end. As we mentioned
+before, we reassess that as we go into every quarter. But just based on the very small number of cases
+that we settled, that's just not sufficient to providing any sort of material input that would lead to a
+change.
+
+Jonathan Philip Arnold
+Vertical Research Partners, LLC
+
+Okay. And if I could just follow-up on one of a similar topic. I see you booked a charge related to 2017,
+'18, a small one, in the quarter that's below the core line. I'm just -- on the $9 million, just what was that
+and what sort of caused that to get booked this quarter?
+
+Maria C. Rigatti
+Executive VP & CFO
+
+Sure. So Jonathan, you can imagine, as we move through this process, we're accumulating legal and
+expert costs because those are legal and expert costs that are associated with a noncore charge. We're
+booking those as noncore as well. Prior to this quarter, the number was really not significant.
+
+Jonathan Philip Arnold
+Vertical Research Partners, LLC
+
+Okay. So that's sort of a sign of your -- maybe your settlement activities sort of ramping up? And is that a
+fair or unfair...
+
+Pedro J. Pizarro
+President, CEO & Director
+
+I would just say it's a sign of our continuing litigation activities, Jonathan.
+
+Jonathan Philip Arnold
+Vertical Research Partners, LLC
+
+All right. I'll let it go.
+
+Pedro J. Pizarro
+President, CEO & Director
+
+Thanks. You take care.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+EDISON INTERNATIONAL FQ2 2020 EARNINGS CALL |  JUL 28, 2020
+
+Operator
+
+Our next question is from Julien Dumoulin-Smith from Bank of America.
+
+Julien Patrick Dumoulin-Smith
+BofA Merrill Lynch, Research Division
+
+Perhaps just to follow up on Jonathan's question, if this is my follow-up, if I will. Can you clarify a little bit
+on how you're thinking about the various groups of potential parties that you'd be seeking to settle with?
+And just as you set expectations, and I know it's difficult to talk about it, obviously, the Woolsey time lines
+will shift it out. Can you talk about potential expectations on what kinds of parties you might expect to
+settle with? I mean, obviously, I think you said this is just a handful basically of individuals here. Just how
+do you think about the time line and cadence given that the bellwether trial, for one, is established still in
+January versus vacated for the other one?
+
+Pedro J. Pizarro
+President, CEO & Director
+
+Yes. And let me start, Julien, by saying that I do think of the time lines as, in some sense, being almost
+2 separate time lines, although obviously, they're related. There's a time line for the normal litigation
+course, and that's where the bellwether trial dates are relevant. And as you noted, and I think we
+mentioned earlier, there's a new date set for the -- on the Thomas side. The Woolsey date has been
+postponed. We did note that, that Thomas date could still move again just because of the COVID-19
+impacts and the uncertainty around that. So that's a track. A separate track is really multiple tracks of
+discussions with multiple classes of plaintiffs. And the reality is that, that track has a life of its own, and
+it really depends on parties on both sides and whether on the plaintiff side, are there parties that are
+interested in being reasonable and achieving reasonable settlements. And so we're open for business to
+parties that want to have reasonable discussions and was open for business for folks who may not have
+a reasonable point of view. How that relates to the trial time line? Frankly, it's hard to say. I really can't
+get into the head of specific parties and whether they view a linkage to a trial date or not. In terms of the
+other part of your question around how do we think about the various classes here, on one large class
+was the public entities. And as you recall, we settled with the vast majority of those last fall. And the
+other 2 big classes are the subrogation parties, really representing insurance company interest, and the
+individual plaintiffs. And so nothing that we've had to announce at this point on the several parties. Again,
+we continue to be open to discussions with reasonable parties. And then with the individual plaintiffs, you
+saw the handful of settlements that we entered. So again, probably the longest nonanswer in the world in
+that it's really hard to give you any sense of time line or timing because it really comes down to each of
+those parties or groups of parties.
+
+Julien Patrick Dumoulin-Smith
+BofA Merrill Lynch, Research Division
+
+Excellent. And a quick clarification, if I can, as my follow-up here. On your '20 guidance, I think Maria,
+you'd commented going back a quarter here in light of COVID. You didn't show a bridge. Obviously, now
+you have and there were a number of items introducing uncertainty in light of COVID, et cetera. Just
+to make sure, any specific items that are still outstanding that could introduce volatility? I know you all
+raising guidance here after not showing it earlier, at least the low end is indeed a sign of confidence. But
+I just want to make sure that we're hearing you right about some of the key pieces that you were looking
+for clarity last quarter.
+
+Maria C. Rigatti
+Executive VP & CFO
+
+Sure. Thanks, Julien. And last quarter, while we didn't provide a bridge, we did reaffirm guidance.
+Obviously, now we're raising the low end of the range a little bit as well. But last quarter, what we were
+really saying was the piece parts could move around, and that's why we didn't provide the bridge. I think
+as our team continued to move through the process, we have more clarity on what those piece parts are.
+Obviously, we have the memo accounts that we set up related to COVID expenses. We have decoupling.
+We have all of those things in California that provide us with confidence. So I wouldn't point to anything
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+EDISON INTERNATIONAL FQ2 2020 EARNINGS CALL |  JUL 28, 2020
+
+necessarily being different other than now with the passage of time, that granularity is more apparent to
+us.
+
+Operator
+
+Our next question is from Steve Fleishman with Wolfe Research.
+
+Steven Isaac Fleishman
+Wolfe Research, LLC
+
+Pedro, so 2 questions, related ones. First is just on the cash flow standpoint, I know there's a lot that
+moves back and forth through the trackers and the like. So just how are you feeling about staying within
+the targeted rating agency ranges for this year or next year?
+
+Maria C. Rigatti
+Executive VP & CFO
+
+Thanks. So you're right, we do have a lot of cash tied up, particularly in those wildfire mitigation memo
+accounts. I think the regulatory asset that we have on the books this quarter is just more than $1.1
+billion. So it's a fair amount. We have been moving through the process on various of those proceedings.
+The GS&RP has been approved and the settlement has been approved. The WEMA, we're expecting that
+decision in September. That's the one about the insurance proceeds from last year. So we're moving
+through that process. We do think that, that's moving through a time [ line ] on those requested amounts
+is important to maintaining our cash flow. And those are some of the -- that's one of the assumptions
+that our 2020 financing plan was predicated on. I think that from a rating agency perspective, the COVID-
+related items, they understand very well the strong support that we have in California, both the trackers
+that we have as well as the decoupling. So as sales vary, that we will recover that as well. So I think
+that is something that they're very familiar with and think highly of, frankly. On the memo accounts for
+the wildfire mitigation, I think demonstrating that we can get some other decisions behind us will be
+important. And I think that really was one of the important assumptions that we made in our financing
+plans for this year. We'll continue to look at that for next year. And as we get that cash in the door,
+obviously, our metrics will improve.
+
+Steven Isaac Fleishman
+Wolfe Research, LLC
+
+Okay. And I'm going to ask a clarification...
+
+Maria C. Rigatti
+Executive VP & CFO
+
+It is a really important element. I agree with you.
+
+Steven Isaac Fleishman
+Wolfe Research, LLC
+
+Okay. Okay. Just a clarification of someone else's questions. Just that we keep looking back to the '17,
+'18 and potential settlements. One of the things that ultimately has to come up is like, did you actually do
+anything imprudent? Because, again, as far as I recall, I don't remember any investigation that has found
+that you actually did anything wrong in the '17, '18 fires. So could you just like remind us when and how
+prudency would be reviewed for the '17, '18 fires?
+
+Pedro J. Pizarro
+President, CEO & Director
+
+Yes. Happy to take a quick stab at that. And just to remind you that there's really a whole process around,
+obviously, the litigation proceeding that just is determining that potential litigation exposure or potential
+settlement outcomes. There is a separate track around the Attorney General's office, which is I think
+pretty standard course in these kind of cases where they can take a look at whether there's any basis
+for criminal liability. I think you've seen that we've discussed in prior calls that they seem to be past
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+EDISON INTERNATIONAL FQ2 2020 EARNINGS CALL |  JUL 28, 2020
+
+that period now for the Koenigstein events. The Attorney General is continuing their investigation for
+the Woolsey fire. In any case, we don't see any basis for criminal felony liability in any of these events.
+And then the final track, there would be the track at the CPUC, which although the CPUC's Safety and
+Enforcement Division engages right away in looking at the facts of a fire, et cetera, the real meat and
+bones of the prudency review would start after a filing by Southern California Edison seeking recovery of
+amounts related to the fires -- for outcomes in litigation or settlements, right? So that has not begun yet.
+We have shared in prior calls as well that, at this point, we still don't have full visibility to every piece of
+evidence out there. There's still equipment that we have yet to inspect, et cetera. So the way this work is
+that once we had finalized the litigation outcome for the 2017, '18 Thomas, Koenigstein mudslide events
+and separately for the 2018 Woolsey Fire event, as we end up understanding what the final liability is,
+whether through court process or through settlement. And we understand what the outstanding amount
+is beyond our insurance coverage, and at that point, based on our then understanding of our prudency,
+right, as we complete that review on our side, or SCE with a completed review, then SCE will decide to
+go to the CPUC to see cost recovery from customers and that would start that proceeding. So at this
+point, we can tell you pretty definitively that we don't see any basis for criminal felony liability in the
+investigatory criminal part of this led by the Attorney General, but we don't have all the pieces in place to
+understand our degree of prudency and what the case would be for cost recovery. Just a final reminder,
+in our accounting reserve, we have not assumed any recovery from the CPUC given the precedent in
+the San Diego case. We had assumed recovery from FERC because they had a different precedent. But I
+would expect that we will be likely to be seeking cost recovery of some amount dependent ultimately on
+the degree of prudency that we concluded we had shown. So lots of pieces to the answer because it's a
+complex process. Does that make sense, Steve?
+
+Steven Isaac Fleishman
+Wolfe Research, LLC
+
+Yes. No, that was a really good review.
+
+Pedro J. Pizarro
+President, CEO & Director
+
+Thanks, you take care.
+
+Operator
+
+Next question is from Michael Lapides from Goldman Sachs.
+
+Michael Jay Lapides
+Goldman Sachs Group, Inc., Research Division
+
+I actually have a handful and Maria, they're probably more directed at you. Can you talk a little bit
+about the leeway, the comfort zone you have regarding Southern California Edison dividend payment
+potential up to the parent relative to what both the CPUC requirement and the California corporate code
+requirements are?
+
+Maria C. Rigatti
+Executive VP & CFO
+
+Sure. So you know that in California, there are some rules around dividend payments, which some of
+them are, I'll say, very standard, retained earnings test, et cetera. And then also around largely an ability
+-- following the payment of a dividend that the entity has an ability to meet obligations as they come due.
+And we've been evaluating this forever before the wildfires as well because that's been part of the code
+for a long time. But I think it got a little bit more attention after the '17 and '18 events. We look at a wide
+range of really potentially negative outcomes to ascertain the answer to that second question. And we've
+been in a position each quarter to think about that, both at the EIX level to our common shareholders,
+but then also in between SCE and EIX. SCE also is looking at cash flows and the like and the exact timing
+of their financing. So there's a little bit of just, I'll say, the day-to-day cash management that comes into
+account as well, but they routinely make dividends up to the parent company. As far as the CPUC goes,
+obviously, the CPUC is looking to ascertain that they are living within their authorized capital structure and
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+EDISON INTERNATIONAL FQ2 2020 EARNINGS CALL |  JUL 28, 2020
+
+the like. And we've always been able to do that as well, and I anticipate we will continue to be able to do
+that.
+
+Michael Jay Lapides
+Goldman Sachs Group, Inc., Research Division
+
+Got you. Also, can you talk a little bit about current debt financing and the cost of interest, meaning
+the coupon rates you're able to realize in the market right now relative to what you're seeing other
+companies? And if the rate is higher relative to other utilities, even though interest rates broadly are
+lower, how you're thinking about kind of short-term, long-term debt, the balance? And really the total debt
+balance you want up top at the holdco versus down at the outset?
+
+Maria C. Rigatti
+Executive VP & CFO
+
+Sure. So I mean, obviously, we did $400 million of holdco debt a couple of months ago now, more than
+a couple of months ago now, and that completed what we had announced for 2020. Not surprising to
+anyone on the call, EIX has been trading wide of other entities. And I think that's a reflection of a lot of
+what happened last year or even prior to AB 1054 being passed. So we do have to deal with that. I'm
+hoping that if time passes, that will also change. Obviously, the underlying -- the treasuries are pretty
+low right now. So that's a benefit when you think about the total coupon. I think as we move forward in
+time, Michael, like any company, we'll be trying to balance timing going to the market, short and long-
+term interest rates and the like. I would see us on a go-forward basis, just making that decision to term
+-- to move from a short-term position to a long-term position based on what's going on in the market
+and what the needs of the company are. In terms of the overall debt at the holding company versus the
+complex, obviously, we're going to be thinking about that in terms of also keeping an eye on the rating
+agencies. Obviously, they're looking at holdco debt relative to total debt. And so we will be staying within
+those guidelines as well. So that's kind of the thought process.
+
+Operator
+
+That was the last question. I will now turn the call back to Mr. Sam Ramraj.
+
+Sam Ramraj
+Vice President of Investor Relations
+Well, that concludes the conference call. Thanks for joining us today, and please call us if you have any
+follow-up questions. You may now disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+EDISON INTERNATIONAL FQ2 2020 EARNINGS CALL |  JUL 28, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+

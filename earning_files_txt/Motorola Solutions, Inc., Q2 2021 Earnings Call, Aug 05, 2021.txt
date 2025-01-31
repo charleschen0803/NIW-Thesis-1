@@ -1,0 +1,1072 @@
+Motorola Solutions, Inc. NYSE:MSI
+FQ2 2021 Earnings Call Transcripts
+Thursday, August 05, 2021 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ2 2021-
+
+-FQ3 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+GUIDANCE
+
+CONSENSUS
+
+CONSENSUS
+
+EPS 
+Normalized 
+
+1.92
+
+2.07
+
+Revenue  (mm)
+
+1939.54
+
+1971.00
+
+Currency: USD
+Consensus as of  Jul-29-2021 1:59 PM GMT
+
+7.81
+
+1.62
+
+2.10
+
+-
+
+8.81
+
+9.75
+
+2014.67
+
+2054.80
+
+8086.39
+
+8563.77
+
+FQ3 2020
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.78
+
+2.74
+
+1.62
+
+1.92
+
+1.95
+
+2.86
+
+1.87
+
+2.07
+
+9.55 %
+
+4.38 %
+
+15.43 %
+
+7.81 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+7
+
+2
+
+ 
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Gregory Q. Brown
+Chairman & CEO
+
+Jason J. Winkler
+Executive VP & CFO
+
+John P. Molloy
+Executive Vice President of
+Products, Sales & Services
+
+Mahesh Saptharishi
+Senior VP of Software Enterprise &
+Mobile Video and Chief Technology
+Officer
+
+Tim Yocum
+Vice President of Investor
+Relations
+
+ANALYSTS
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research
+Division
+
+Benjamin James Bollin
+Cleveland Research Company
+
+Fahad Najam
+MKM Partners LLC, Research
+Division
+
+George Charles Notter
+Jefferies LLC, Research Division
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+Michael Louie DiPalma
+William Blair & Company L.L.C.,
+Research Division
+
+Paul Jonas Silverstein
+Cowen and Company, LLC,
+Research Division
+
+Timothy Patrick Long
+Barclays Bank PLC, Research
+Division
+
+Trevor John Bowers
+Northcoast Research Partners, LLC
+
+Unknown Analyst
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+Presentation
+
+Operator
+
+Good afternoon, and thank you for holding. Welcome to the Motorola Solutions Second Quarter 2021
+Earnings Conference Call. Today's call is being recorded. If you have any objections, please disconnect at
+this time. The presentation material and additional financial tables are currently posted on the Motorola
+Solutions Investor Relations website. In addition, a replay of this call will be available approximately 3
+hours after the conclusion of the call on the Internet. The website address is www.motorolasolutions.com/
+investor.
+
+[Operator Instructions]
+
+I would now like to introduce Mr. Tim Yocum, Vice President of Investor Relations. Mr. Yocum, you may
+begin your conference.
+
+Tim Yocum
+Vice President of Investor Relations
+
+Good afternoon. Welcome to our 2021 second quarter earnings call. With me today are Greg Brown,
+Chairman and CEO; Jason Winkler, Executive Vice President and CFO; Jack Molloy, Executive Vice
+President, Worldwide Products, Sales and Services; and Mahesh Saptharishi, Senior Vice President and
+CTO, Software Enterprise and Mobile Video. Greg and Jason will review our results along with commentary,
+and Jack and Mahesh will join for Q&A. We've posted an earnings presentation and news release at
+motorolasolutions.com/investor. These materials include GAAP to non-GAAP reconciliations for your
+reference. And during the call, we'll reference non-GAAP financial results, including those in our outlook,
+unless otherwise noted.
+
+A number of forward-looking statements will be made during this presentation and during the Q&A portion
+of the call. These statements are based on current expectations and assumptions that are subject to
+a variety of risks and uncertainties. Actual results could differ materially from these forward-looking
+statements. Information about factors that could cause such differences can be found in today's earnings
+news release and the comments made during this conference call, in the Risk Factors section of our 2020
+annual report on Form 10-K and our other reports and filings with the SEC. We do not undertake any duty
+to update any forward-looking statements. And with that, I'll turn it over to Greg.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Thanks, Tim. Good afternoon, and thanks for joining us today. I'll start off by sharing a few thoughts
+about the overall business before Jason takes us through our results and our outlook. First, Q2 was an
+outstanding quarter. We grew revenue 22%, earnings per share of 49% and operating cash flow 86%
+versus the prior year. Additionally, we expanded operating margins by 220 basis points and ended the
+quarter with $11.2 billion of backlog, up 7% versus last year and a record for Q2.
+
+Second, we saw strong demand in both segments of our business during the quarter. In Products and
+Systems Integration, revenue was up 24% and operating margins expanded 270 basis points driven
+by growth in our LMR and video security technologies. And in Software and Services, revenue was up
+19%, and operating margins expanded by 210 basis points on growth in LMR services, video security and
+command center software. This strong broad-based performance highlights the strength of our business
+and value of our mission-critical integrated ecosystem.
+
+And finally, based on the strong backlog and momentum that we're seeing across our business, we're
+raising again our full year guidance for both sales and earnings per share. I'll now turn the call over to
+Jason to take you through our results and outlook before returning for some final thoughts.
+
+Jason J. Winkler
+Executive VP & CFO
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+Thank you, Greg. Our Q2 results included revenue of $2 billion, up 22%, including $47 million from
+acquisitions and $66 million from favorable FX. GAAP operating earnings were $370 million, and operating
+margins were 18.8% of sales compared to 13.5% in the year ago quarter. Non-GAAP operating earnings
+of $482 million, up $123 million or 34% from the year ago quarter and non-GAAP operating margins of
+24.4% of sales up from 22.2% driven by higher sales and improved operating leverage in both segments,
+inclusive also of higher costs related to employee incentive compensation this year.
+
+GAAP earnings per share of $1.69 compared to $0.78 in the year ago quarter. This increase was primarily
+due to increased sales volume, improved operating leverage, a lower tax rate related to the release of
+valuation allowance and lower reorganization charges in the current quarter. Non-GAAP earnings per share
+of $2.07 compared to $1.39 last year, primarily due to higher sales and improved operating leverage in
+both segments. OpEx in Q2 was $477 million, up $51 million versus last year, primarily due to higher
+compensation-related incentives and higher expenses related to acquisitions.
+
+Turning to cash flow. Q2 operating cash flow was $388 million compared with $209 million in the prior
+year, and free cash flow was $326 million compared with $155 million in the prior year. These increases
+in cash flows were primarily due to higher sales and working capital improvements, partially offset by
+higher cash taxes. Capital allocation for Q2 included $121 million in cash dividends, $102 million in share
+repurchases at an average price of $206.85 per share and $62 million of CapEx. Additionally, during
+the quarter, we issued $850 million of new long-term debt and redeemed $324 million of outstanding
+senior notes due in 2023. Subsequent to quarter end, we acquired Openpath, a leader in cloud-based
+access control solutions for $297 million, and we invested $50 million in equity securities of Evolv, whose
+technology powers our concealed weapons detection solution.
+
+Moving to our segment results. Q2 Products and Systems Integration sales were $1.2 billion, up 24%,
+driven by strong growth in LMR and video security. Revenue from acquisitions in the quarter was $38
+million. Operating earnings were $194 million or 16.2% of sales, up from 13.5% in the prior year on
+higher sales and improved operating leverage, inclusive of higher costs related to incentive compensation.
+Some notable Q2 wins and achievements in this segment include, a $37 million P25 order for the Kentucky
+State Police, a $36 million P25 upgrade for a state in the U.S., a $30 million P25 order from MARTA in
+Atlanta, a $29 million P25 devices order for a large U.S. state and local customer and a $5 million video
+security order, our largest single fixed video order from a U.S. federal customer to date.
+
+Moving to the Software and Services segment. Q2 revenue was $773 million, up 19% from last year,
+driven by growth in LMR services, video security and command center software. Revenue from acquisitions
+in the quarter was $9 million. Operating earnings were $288 million or 37.2% of sales, up 210 basis
+points from last year, driven by higher sales, higher gross margins, improved operating leverage and also
+inclusive of higher compensation-related incentives this year.
+
+Some notable Q2 wins in this segment include an $18 million French MOI body-worn camera frame
+agreement, a $15 million license plate recognition software extension with a U.S.-based customer, a $10
+million P25 multiyear services extension for Ohio's statewide network, and a $10 million P25 maintenance
+renewal with the U.S. federal customer. Additionally, we launched CommandCentral suite, public safety's
+first cloud-native 911 case -- call to case closure solution.
+
+Looking at our regional results, North America Q2 revenue was $1.3 billion, up 20% on growth in LMR,
+video security and command center software. International Q2 revenue was $659 million, up 25%, also
+driven by LMR, video security and command center software. We saw strong growth in EMEA during the
+quarter, while in Asia Pac growth was minimal as the region continues to navigate impacts from COVID-19.
+
+Moving to backlog. Ending backlog was a Q2 record of $11.2 billion, up $741 million compared to last year,
+driven by $660 million of growth in North America and $81 million of growth internationally. Sequentially,
+backlog was down $57 million, driven by revenue recognition on Airwave and ESN, partially offset with
+growth in LMR products. Software and Services backlog was up $257 million compared to last year,
+primarily driven by North America multiyear service contracts. And sequentially, backlog was down $130
+million driven, again, primarily by the revenue recognition for Airwave and ESN. Products and SI backlog
+was up $484 million compared to last year and $73 million sequentially, driven primarily by LMR growth in
+both regions.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+Turning to our outlook. We expect Q3 sales to be approximately up 10% with non-GAAP EPS between
+$2.09 and $2.14 per share. This assumes FX at current rates, a weighted average diluted share count of
+approximately 174 million shares and an effective tax rate of 23% to 24%. And for the full year, we now
+expect sales to be up between 9.5% and 10%, an increase from our prior guide of 8% to 9%, and we now
+expect full year non-GAAP EPS between $8.88 and $8.98 per share, up from our prior guidance of $8.70
+to $8.80 per share. This increased outlook incorporates the ongoing supply chain constraints, primarily
+in LMR and assumes FX at current rates, a weighted average share count of approximately 173 million
+shares and an effective tax rate of approximately 22%. I'd now like to turn the call back over to Greg.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Thanks, Jason. I thought I'd end with a few thoughts as we conclude the call. First, our results for the
+quarter were excellent. We achieved Q2 record sales, operating earnings and EPS, expanded operating
+margins, grew our video security technologies by 66% and achieved strong growth in LMR and command
+center software technologies as well.
+
+Additionally, we finished the quarter with record Q2 ending backlog and a robust pipeline that we expect
+to drive growth for the remainder of the year, inclusive of the continued supply chain challenges that we're
+navigating primarily in LMR. Second, in video security, demand remains strong. We've continued investing
+in this area even during the early days of the pandemic, and these investments have positioned us well to
+capture the increased demand we're now seeing from our customers.
+
+Additionally, we just announced our acquisition of Openpath, a leader in cloud-based access control
+solutions. Openpath is disrupting the access control industry and extends our value proposition in the
+$15 billion video security market. As a result, we're also renaming the technology within our revenue
+disaggregation from video security and analytics to now video security and access control to reflect these
+investments and the future video and access control convergence. And finally, as I look to the second
+half of the year, I'm encouraged. I'm encouraged by our execution across all of the businesses. In LMR,
+customers are looking to invest in their networks, including several statewide upgrades and we're gaining
+traction with our APX NEXT device designed for the highest tier of public safety requirements.
+
+In video security and command center software, we're leveraging our large installed base and go-to-
+market footprint to drive continued strong growth. And with respect to ESG, we've recently released our
+2020 corporate responsibility report, which highlights our strategy and performance. Our work in this
+critically important area has been recognized by Forbes who named us as one of the best employers for
+diversity, and Barron's who named us as one of the most sustainable companies.
+
+I'm proud of what our teams are doing and look forward to further progress as we continue to deliver
+mission-critical solutions that create value for employees, customers, communities and our shareholders.
+And with that, I'll now turn the call back over to Tim.
+
+Tim Yocum
+Vice President of Investor Relations
+
+Thanks, Greg. [Operator Instructions]
+Operator, would you please remind our callers on the line how to ask a question?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question will come from Tim Long from Barclays.
+
+Timothy Patrick Long
+Barclays Bank PLC, Research Division
+
+Maybe just 2 if I could. First, could you touch a little bit on the command center software side? Maybe just
+give us a little update on how you're penetrating the PSAPs and how the kind of the suite sales are going
+with more than 1 or 2 software modules to the customer base.
+
+And then second, on the video side, it looks like there's been a lot of traction and wins internationally
+on the body-worn side. Can you talk a little bit about the U.S. market where, I guess, over the next few
+years, maybe there'll be more bids coming up. So could you just talk a little bit about how you could
+further penetrate the U.S. market there.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Yes. On command center software, we continue, Tim, to make good progress. Our growth rate in Q2
+increasing over Q1, the penetration of new customers also continues to expand. From a suite standpoint,
+I think the number of customers in Q2 ordering the suite is comparable to about the 25% we stated last
+time a quarter ago, but we continue to make solid progress on multiple fronts on the command center
+software slide. And overall, I think I'm pretty pleased.
+
+John P. Molloy
+Executive Vice President of Products, Sales & Services
+
+Tim, it's Jack. Maybe just a follow on to that. I think the other thing as it relates to command center
+software, just from an environmental standpoint, I think there's some excitement, both with our sales
+teams and our customer engagement just in terms of our -- we have an on-prem solution and we actually
+have a path to the cloud for customers. And I think being able to meet them for where they want to be
+will be effective for us. So that -- just closing off on that with command center software. Mobile video, just
+a couple of updates there, Tim, with the body-worn business. So we had talked -- the previous 3 quarters
+that we had grown our orders north of 60%. We actually grew north of 80%. Tim, we doubled our body-
+worn camera shipments through the first half of the year over the first half of 2020, and it looks like from
+the data we've looked at and it's just early what's in, but it looks like we continue to take share through
+Q2.
+
+Operator
+
+Our next question will come from Sami Badri with Credit Suisse.
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research Division
+
+I have 2 questions. Greg, first and maybe, Jack. Could you give us an update on PCR and how much that
+contributed to your very high growth rate in LMR in the quarter? And then the second question is, I was
+hoping you could kind of give us more color on Openpath and how much revenues it contributed to the
+business. And was Openpath profitable before you guys acquired and started integrating?
+
+Gregory Q. Brown
+Chairman & CEO
+
+So in terms of PCR, I mean kind of taking a step back. Obviously, we've raised the full year again for the
+second time, Sami. If you look at this from a segment level, our performance is strong in both segments.
+Software and services is stronger. But also, we had a given color that we thought Product and SI would
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+grow mid-single digits for the full year. Our raise is driven by Product and SI now being expected to grow
+mid- to high single digits for the full year. That stronger growth is driven primarily by video but also by
+LMR.
+
+In Q2, PCR had a great quarter. Strong double-digit growth. But it's also the area, as Jason referenced,
+that's probably the most supply constraint. So if I think about, Sami, your question about expectations
+for PCR growth over the full year, I'd like to think about it as mirroring the mid- to high single digits for
+the Product and SI segment overall. Q2 was much stronger than that, but in the second half, we have to
+continue to navigate supply constraints, and that's informing our expectations and guidance for full year
+PCR.
+
+On Openpath, it's not profitable. For the remainder of the year, full year, the stub revenue period, it's
+probably about $5 million of incremental revenue in the second half of this year, the last 5 months, and it's
+$0.05 dilutive. But having said that, I'm super excited by this acquisition. I think it's leading edge around
+cloud-based multifactor authentication access control. I love the products, I love the architecture, I love
+the management team and the leadership team. Mahesh was instrumental in guiding this along with Raj
+and John Kedzierski and couldn't be more pleased with it. I don't know if you want to mention anything,
+Mahesh, about it.
+
+Mahesh Saptharishi
+Senior VP of Software Enterprise & Mobile Video and Chief Technology Officer
+
+Within the Avigilon portfolio, we've always had access control. Access control, in fact, has been one of
+the fastest-growing product portfolios within Avigilon. It is an on-prem solution. The on-prem solution
+connects to third-party leaders, controllers and panels as appropriate. Where Openpath is going is really
+a mobile-first approach and a cloud-native approach. The user experience that we see in the future for
+access control is one where authorized users never realize that the door is locked in the first place. It's
+frictionless, it is contactless. And from that standpoint, Openpath complements our Avigilon access control
+solution well. And together, I think we have a good solution going forward.
+
+Jason J. Winkler
+Executive VP & CFO
+
+And just last item on the revenue. You had asked it's about $0.05 dilutive to EPS this year and $5 million
+in revenue in the second half.
+
+Operator
+
+Our next question will come from Meta Marshall with Morgan Stanley.
+
+Unknown Analyst
+
+This is Eric on for Meta. Congrats on another great quarter. Maybe sticking on some of the fixed video
+side. When we think about that large federal deal you won, are there other federal deals in the pipeline
+you're looking at now? Is that an area where demand is picking up with a lot of the federal funding and
+things we talked about last quarter. Just wondering on that. And then maybe if we could also talk about
+the enterprise side and if Openpath does -- open more opportunities in enterprise because it looked like
+their presence was probably stronger there. So anything on that.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Sure. Eric, so I think the -- starting out -- are there -- yes, question, are there more big opportunities in
+the federal government? Yes. I would tell you, the federal government is ripe with opportunities. There's
+opportunities by way of the NDAA. There's opportunities that our go-to-market teams have created. Also
+the Pelco acquisition, if you recall from a year ago, had federal contracts in place. So there's opportunities
+there. So the federal government as part of the overall government market is one of the 3 largest growth
+vectors for us in fixed video. The second part of your question, I believe -- Eric, could you just repeat what
+was the second part?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+Unknown Analyst
+
+On enterprise.
+
+John P. Molloy
+Executive Vice President of Products, Sales & Services
+
+Enterprise. Yes. So just a reminder, our video security and access control business is still really roughly
+70% to 3/4 enterprise. So Openpath, as Mahesh very eloquently alluded to, will -- I think, will accelerate
+converging opportunities between video security and access control. Our customers more and more --
+COVID taught us that they want the ability to remote monitor networks. They want frictionless access
+control. I think the marriage of those 2 things together will only open up more and more doors in the price
+for us.
+
+Gregory Q. Brown
+Chairman & CEO
+
+And Eric, a quarter ago, Jack talked about fixed video government revenues being about $300 million,
+maybe a little bit more. I think as we sit here today, the government contribution for all-in video revenue
+is closer now to $330 million to $340 million of revenue. And again, the demand we see is really strong.
+We had 66% growth in Q2, about 40% of that was organic. And again, informing our full year raise, we
+now expect video security technology to be -- we said it was 20% plus, we now expect approximately
+30%, with organic growth being a little bit more than 20% of that. So really good performance by that
+whole portfolio.
+
+Operator
+
+Our next question will come from George Notter with Jefferies.
+
+George Charles Notter
+Jefferies LLC, Research Division
+
+I guess I wanted to ask about the supply chain constraints. It's obviously a recurring theme through
+earning season here. But could you talk about what kind of revenue impact it might have had this quarter?
+And then also the margin impact? And then how do you see that going forward?
+
+Jason J. Winkler
+Executive VP & CFO
+
+Thanks for the question. So the supply environment that we've been navigating all year is primarily
+around LMR. And as Greg mentioned, specifically most around PCR. Our supply situation did improve
+incrementally in Q2. And in our guidance for the second half, we've contemplated continuing to have to
+navigate supply chain-related constraints. Those are factored into our full year guidance in our second
+half. So we expect to have -- to navigate through them. We're working with key suppliers, a handful of
+suppliers, handful of critically important parts. We're making progress. The teams are doing well. We have
+executive relationships that are helping us prioritize. And our suppliers recognize that our equipment is
+critically important to first responders. So we have good success in getting prioritization.
+
+On the cost side, despite the challenging environment, we have not seen material input costs rise
+significantly in the first half. Of course, we plan every year for material cost reductions. Those are
+becoming more challenging to achieve. That said, we didn't see a big material cost driver in the first half.
+We'll navigate through some small increases in the second half. One area in the P&L that we are absorbing
+higher costs is freight. If you control for the volume and the growth that we've had, we're seeing rate
+increases where by the first half absorbed $20 million more than would have been expected on higher
+growth, which is a reflection of higher air freight, the shift to shorter supply chains, elongated lead times,
+et cetera, which we're navigating. So that's where we've seen the one input cost rise is in freight.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+Yes. And just to put a bow on it, George, I think that what's informing our full year raise for the year is
+demand not necessarily any improvement in supply chain. Although as Jason just talked about, I think he
+and his team did a very nice job in hand-to-hand combat working through Q2, but we have our work to do
+with key suppliers for the back half of the year. Again, this is primarily around PCR, but I think that view is
+contemplated into our full year guidance.
+
+George Charles Notter
+Jefferies LLC, Research Division
+
+Got it. And then, Greg, real quickly, you mentioned the raise on expectations for the full year. I think
+you're getting a tailwind from FX here. Certainly, you had some in Q2. I'm not sure how much of that was
+already in the plan. But it feels like you're going to continue to get some benefit. Is that part of the full
+year raise on guidance or no?
+
+Gregory Q. Brown
+Chairman & CEO
+
+Not much. The FX benefit when you take a look at the full year was much more weighted to the first
+half. So that's not really driving. It's a component, but it's not as much as it was in the first half. We had,
+I think, $100 million in the first half tailwind. And if I look back half Q3, Q4, that tailwind is more like
+approximately $40 million.
+
+Jason J. Winkler
+Executive VP & CFO
+
+So it hasn't changed much from the last time we shared those numbers, and it's always been first half
+tailwind more so than second half.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Exactly.
+
+Operator
+
+Our next question will come from Paul Silverstein with Cowen.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Greg and Jason, I think you all had previously characterized demand is increasing month by month not
+just quarter-by-quarter, but ongoing improvement. Is that moderating as we proceed further and further
+into the -- or out of the pandemic or perhaps not out of the pandemic? What are you seeing from a
+linearity perspective?
+
+Gregory Q. Brown
+Chairman & CEO
+
+Well, I mean, obviously, in terms of overall demand, demand is strong, Paul. It represents itself in Q2's
+results. I recognize the comp of it being a COVID quarter. But also guiding in Q3, a double-digit top line
+revenue print, 9.5% to 10% is strong. And that's being driven in large part by record backlog. So this is
+-- it's a really good demand environment. It's incrementally better. And look, if I take a step back, high
+level, I see demand strong I see the funding environment for our customers, and this is a North America-
+centric comment, but that's where 2/3 of our revenue is. And with the stimulus and $350 billion available
+to state and local, and then other monies available to education and FEMA and other areas, there's literally
+hundreds of billions available to our end user customers through the end of 2024, some of the outlined
+time lines.
+
+So demand is strong. Funding is strong. Backlog is at a record Q2, and we're also getting traction with
+new products that we invested in during the downturn. And I think a lot of video security technology and
+that's double-digit growth rate in Q2 and the overall raise to now approximately 30% for video security
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+technology, of which over 20 is organic, is driven by new product investment. We also talked about new
+product, APX NEXT. We're continuing new product on command center software, both prem and cloud,
+new product investment inorganically with cloud-based access controls. So high-level, Paul, again, there's
+a lot of work to do. And we want to be easy in the saddle in the second half and navigate these supply
+chain challenges, but there's a lot of positives that I see.
+
+Jason J. Winkler
+Executive VP & CFO
+
+Paul, even in the parts of our business that are less backlog driven, for example, video, that's about
+pipeline, it's about execution within the quarter and the 40% organic growth in Q2 and our outlook for
+now 30% growth for that business on the year is a function of higher pipeline as well as executing and
+delivering within the quarter on that part of the business.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Paul, the other thing we've seen is that we saw a lot of our competitors furlough selling resources during
+COVID. We actually continue to put the pedal to the metal hired more, particularly in the video security
+space. And as we look back on that 12, 9 months after the fact, we think without a doubt, that's created a
+great opportunity and it's created our ability to go take market share in that space.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Guys, can I just follow up? The massive amount of federal largesse that's on the docket, albeit not yet
+passed and may not pass, are customer or first responder agencies already talking to you about allocating
+funds or are they waiting for the actual dollars to flood?
+
+Gregory Q. Brown
+Chairman & CEO
+
+So Paul, what I would say is -- so think of this -- think of government money in 2 buckets. There's -- we
+don't even talk about the CARES Act money anymore. But by the way, CARES Act money was available
+last year that we benefited from, and it's available through the end of this year that we're benefiting from.
+I would say that the results we've printed so far largely don't even include the stimulus money that I
+just articulated, which is $350 billion of state and local, $170 billion in education, $38 billion in airport in
+transit, et cetera. But those conversations, to your question, Paul, are absolutely beginning to take hold
+with our go-to-market sales organization for both this year and multiyear planning.
+
+Operator
+
+Next question will come from Louie DiPalma with William Blair.
+
+Michael Louie DiPalma
+William Blair & Company L.L.C., Research Division
+
+Greg, can you talk about the prevalence of the access control market for the education vertical
+specifically? It seems that you've invested a lot for the education vertical with Avigilon and that security
+with access control has increased in importance with the multitude of gun-related incidents. Is this a
+major opportunity for Motorola? And do you plan to continue to be acquisitive in order to grow your share
+of the access control market?
+
+John P. Molloy
+Executive Vice President of Products, Sales & Services
+
+Louie, it's Jack. I'll start, and I think Mahesh will have some things to add in to my comments. So first
+of all, education is one of our top -- it's our second largest vertical in terms of growth right now in video
+security and access control. Front and center to what every school superintendents, school safety directors
+thinking about is safety of their kids. We talk about the convergence of video security and access control,
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+but there's also the ability to converge 2-way radio through our Safety Reimagined platform that we're
+selling to schools. Greg just talked about the federal monies that have been pointed to schools. It's
+historic in terms of schools. One of the biggest problems they always had, there's interest, but there isn't
+funding. And now we've got interest married with funding. We also put together a specialized sales team
+that just talks to school superintendents every day, and we think that overlay team has helped us kind of
+accelerate opportunities. Mahesh, from a technology standpoint, is there anything you want to add?
+
+Mahesh Saptharishi
+Senior VP of Software Enterprise & Mobile Video and Chief Technology Officer
+
+I think the only other thing I'd add there is we just launched our Motorola Solutions Concealed Weapons
+Detection Solution, which is a key part of the story. When you think about it in the context of access
+control, it's not just who are you, are you authorized to be there, but also what risk you pose. So this
+complements our access control solution really well.
+
+Operator
+
+Our next question will come from Trevor Bowers with Northcoast Research.
+
+Trevor John Bowers
+Northcoast Research Partners, LLC
+
+You mentioned on the last call and also earlier today that it looks like you're taking share in the body-worn
+camera market. What would you say is driving the success in that space?
+
+Gregory Q. Brown
+Chairman & CEO
+
+So I think, first of all, customers want an alternative. It's been a market primarily led by one company.
+They want an alternative. But I think in public safety, trusted relationships matter. We've been in business
+for, as you know, over 90 years. We've got trusted relationships throughout the state and local market.
+We also bear the advantage of having a very large international footprint. And we think that's obviously
+been beneficial to us as well. We've got things we're working on in terms of new products, both in
+terms of body-worn cameras in terms of in-car solutions. But again, we think it's an area around police
+transparency and accountability that will continue to get focus and funding. And we think there's an
+opportunity for 2 players in the market, and we're capitalizing accordingly.
+
+Mahesh Saptharishi
+Senior VP of Software Enterprise & Mobile Video and Chief Technology Officer
+
+Maybe the one other thing I would add that I would add is Jack mentioned this previously, we meet our
+customers' needs where they are. And so having both an on-premises solution along with a cloud solution
+really matters here as well. And that's the other reason we win.
+
+Trevor John Bowers
+Northcoast Research Partners, LLC
+
+Okay. Great. And then what sort of long-term impact would you say the pandemic has had on Motorola's
+go-to-market approach? For example, do you expect there to be less travel and entertainment spending in
+the future or maybe more efficiencies as a result of new sales and delivery methods? How should we think
+about that going forward?
+
+Gregory Q. Brown
+Chairman & CEO
+
+Great question. We've pivoted to digital. I think digital marketing and our spend to try to get customers,
+particularly customers that have latent needs that we may be unaware of, that's one. We've pivoted
+to continue to grow our inside sales force, not only in the U.S. but abroad. We think that's critically
+important. And we've also just become more efficient in terms of not only our frontline selling teams,
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+but are all powerful sales engineers. How do you get more leverage and get more tactical acumen in the
+moments that matter with our customers? And that's truly been something that we've pivoted to.
+
+With all that said, what we do are fairly large-scale enterprise or government sales, and it's going to take
+some face-to-face engagement. So we're still going out and seeing customers. But we've just driven to be
+more efficient, and we don't think it is much about time traveling and selling time. That was a legacy way
+to think about it. We think about and I measure our teams in terms of engagement and time now. And so
+that's really where we've seen the pivot.
+
+Operator
+
+Our next question will come from Ben Bollin with Cleveland Research.
+
+Benjamin James Bollin
+Cleveland Research Company
+
+Greg, you've talked about the framing for the American Rescue Plan Act and the amount of money there.
+What's your perspective on when you see the sweet spot of that spending, if you think about your sales
+cycles and how it typically flows? And do you have any thoughts on how it might be influencing customer
+behavior in the different segments, radio, surveillance, command center?
+
+Gregory Q. Brown
+Chairman & CEO
+
+So Ben, first of all, thanks for the question. I think the sweet spot starts, and I mean just very early
+innings, in the back half of this year, and it's a multiyear run. So state and local funding, the $350 billion
+runs through December of '24, the $38 billion or $40 billion for airports and transit run through '24.
+There's $7 billion plus for broadband connectivity that runs through September of '30. It's a long runway.
+So I don't necessarily think there's going to be a pop the clutch quarter for a multi-month period. I think
+it's going to be strong and reasonable reasonably consistent over the next few years.
+
+I think it helps -- I actually think it helps across the suite of what we provide. It helps LMR, public safety
+LMR, primarily P25 and the sustainability of multiyear service contracts that elongate these platforms
+that allow us to do subscriber and radio refresh like APX NEXT over a multiyear period. I think it clearly
+helps video, whether it's fixed video or body-worn for state and local county municipalities. We talked
+about the benefits around education. And quite frankly, I think money can flow around 911 PSAP and
+command center software as well. So I think it's a lift for all 3. Hard to dimensionalize which one is more
+of a benefit, but it's clearly favorably to the products and solutions that we have and like to position.
+
+Benjamin James Bollin
+Cleveland Research Company
+
+And then a follow-up, Jason, if I could. You gave the disaggregation of the revenue on Slide 13. Could
+you talk a little bit about the way to think about how much of this is being recurring. And also interested
+if there's any variation in either average contract duration or how customers are invoicing the recurring
+business versus the traditional product type businesses?
+
+Jason J. Winkler
+Executive VP & CFO
+
+Sure. Thanks, Ben. So in terms of recurring, our proxy for recurring is the segment that is software and
+services, which I believe this quarter was 38% of total revenues. That includes a lot of different varieties
+of recurring business, including service renewals, subscriptions, et cetera, and that was up significantly
+and has been growing, as you know, even during the pandemic and is growing at a rate that's very
+positive. With earnings expansion at OE this year, we believe now at 170 bps of OE expansion within the
+services -- software and services segment. So not only growing but expanding profitability.
+
+On the technology side, from that same disaggregation, you can see that the video is a strong driver as
+well as command center software and that LMR is performing well -- as well with up mid-single digits.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+Operator
+
+Our next question will come from Fahad Najam with MKM Partners.
+
+Fahad Najam
+MKM Partners LLC, Research Division
+
+So given the very favorable backdrop that you just highlighted. I if I understood you correctly, Greg, that
+some of the funding from 2020 is beginning to flow through right now for some programs like the AFG
+program, getting funding from bills that were passed in calendar 2020. So yet to see the benefit of all the
+ARA and the stimulus spending. Why not take the opportunity to update us on the long-term model? It
+clearly looks like your 9 10 model is a little bit conservative. You probably can make it 8 10 now, given the
+expansion in operating margins from favorable software sales.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Fahad, thank you. So look, this is a strong environment. Demand is strong and the environment is
+generally favorable, but we are still in a pandemic. And we see that, by the way, popping up, not just with
+the Delta variant and different policies within the U.S., but we've seen it in supply chain. We've seen it
+in factories. We've seen it in other countries, and we want to be prudent and mindful around the current
+environment that we're in. And while demand is strong and funding is good, and there's a lot of reasons to
+be optimistic and encouraged, we just want to be very mindful and aware of what we don't know and the
+uncertainty that I think is informing and incorporated into the remainder of the full year.
+
+I do think that there'll be time, Fahad, over time to update all of you in 2022. By the way, I think that
+we're likely going to have an Analyst Day. We're targeting doing that in Q1 of next year, as we get through
+this fiscal year, as we get through the large implications of the pandemic, as we get to a point where
+hopefully the FDA gives general approval for the vaccine, as we get to where many more populations in
+countries are vaccinated and herd immunity is achieved. And we do think that's a better environment to
+give an update at that point in time.
+
+So I'm not going to -- I appreciate your interest and not going to update the model per se yet, but I like
+we're positioned for the back half of the year, and I think we've got some good momentum to build on.
+
+Fahad Najam
+MKM Partners LLC, Research Division
+
+All right. I appreciate the answer. I have a follow-up question on video. Thank you for disclosing that fixed
+government video is about $300 million. Can you give us a sense on how big mobile is and how fast could
+that be growing in general? It seems like it's growing even faster than your fixed video access control
+business?
+
+Gregory Q. Brown
+Chairman & CEO
+
+Yes, just 2 things. Video, first of all, Fahad, on the $300 million, we're now updating that today where
+we expect the video revenue to government customers now to be about $30 million to $340 million. We
+talk about the addressable market of video security and access control of being about $15 billion. By the
+way, that's a 2021 addressable market number. That grows next year. That's inclusive of fixed video. It's
+inclusive of body-worn video. It's inclusive of in-car video and the commensurate VMS software and cloud-
+based revenues. So it's an all-in number. Remember, with the acquisition of Avigilon, which is fixed video,
+the acquisition of Pelco, fixed video, the acquisition of IndigoVision fixed video, that fixed video is the
+predominant amount of revenue contribution within the technology disaggregation that we characterize,
+just to give you a reminder.
+
+Jason J. Winkler
+Executive VP & CFO
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+Yes. So at the total level of all video the rough split between what is fixed video and what is mobile video
+at the $1 billion plus. The part of our business that this year is growing, we believe, at 30% this year, and
+that's our increased expectations is 70% fixed and 30% mobile. Both are growing nicely.
+
+Fahad Najam
+MKM Partners LLC, Research Division
+
+Okay. Can you care share with us how fast is mobile going? Is it like -- in the quarter, how fast was it? Is it
+high 50%?
+
+Gregory Q. Brown
+Chairman & CEO
+
+Yes, I would just say this in terms of data points. Remember, Q2 was, I know 66% all-in, 40%, a little bit
+more, was organic. And Jack talked about strong double-digit, 60%, 65% orders growth for body worn.
+So that's strong growth, which has driven us taking share in the first half. And given that the market is
+looking for a viable alternative and our product performance continues to improve. And when I look at the
+body-worn video book of business, and things like Malta or the U.K. or the French MOI, it's pretty strong
+growth.
+
+Operator
+
+Our next question will come from Jim Suva with Citi.
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+Great job really executing through such a turmoil time of COVID, supply chain issues and things like that.
+Looking ahead, is it possible that as hopefully we get mass immunity and COVID hopefully dies down and
+people return back to the office and meetings in person. Is it possible that your command center business
+and installations could actually accelerate, just because it's been so hard to meet with people and do
+testing and show all the bells and whistles of your solutions? And also with the government stimulus is
+coming in? Or is that just not the way to think about how things could roll out in the, say, the next year or
+2?
+
+Gregory Q. Brown
+Chairman & CEO
+
+Jim, I would think about it that as we printed the first half of the year in Q2 and look at the second half
+and basically, what you're describing is the trends. I really see video security and access control leading
+the way, which is why we're raising the technology view from what we thought would be a full year 20%
+plus performance to approximately 30% and that's driving the segment guide products in SI from mid to
+mid to high.
+
+So I think if you're thinking about an anchor tenant of incremental growth from current expectations of
+where we were, I think it's led by video security and then the second area I'd actually say is LMR. And
+those 2 areas are driving the increased momentum. With command center software, while it's our smallest
+component, we're still growing at greater the industry rate. So I'm pleased about that. But we also are
+offering both on-prem and cloud, and we've got organic work to do on the internal development on cloud.
+But I think, Jim, looking forward, I think of video security, access control and LMR as being more of an
+incremental drivers from a trend standpoint.
+
+Operator
+
+This concludes our question-and-answer session. I will turn the floor back over to Greg Brown, Chairman
+and CEO, for any additional or closing remarks.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+Thank you, everybody. Listen, I'm really pleased with Q2's results and the execution we were able to
+achieve. And I just want to take the opportunity to thank my team and to thank all the people in Motorola
+Solutions. You delivered, you produced, you were on flinching, you're resilient, and I'm super proud of
+you. I think the other thing I'm proud of is we've continued to invest in this business. We did it in the
+throes of COVID last year. Jack referenced it. We continue to do that. I think in part some of the benefits
+we're able to demonstrate and the second raise of the year is driven by ongoing investment decisions
+we've made.
+
+And last 2 thoughts are I like our momentum. I like the momentum as we enter this back half of the year,
+particularly pleased with the increased strength of video security. But I'm also proud of the fact that now
+approximately half of our revenue for the full year will be derived from video security and software and
+services. And that's a much different composition and disposition than where we were several years ago.
+So I just want to thank everybody. To my team, I'm proud of you, and we got a lot of work to do, and we
+know what we need to do in the back half. So thank you.
+
+Operator
+Ladies and gentlemen, this does conclude today's teleconference. A replay of this call will be available over
+the Internet in approximately 3 hours. The website address is www.motorolasolutions.com/investor. We
+thank you for your participation and ask that you please disconnect your lines at this time.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+MOTOROLA SOLUTIONS, INC. FQ2 2021 EARNINGS CALL |  AUG 05, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+

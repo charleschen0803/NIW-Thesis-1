@@ -1,0 +1,157 @@
+Thanks, Andy, and good afternoon, everyone
+I was very pleased with F5 team’s performance in our first quarter of fiscal 2017. We delivered year-over-year revenue growth of 5% the strong profitability and operating margins
+The highlight of the quarter was a return to product revenue growth, which will remain our number one financial clarity throughout fiscal 2017. We continue to make good progress on sales execution fueled by the vast array of new products that we introduced in the second half of fiscal 2016 and the first quarter of fiscal 2017. Product sales in our Americas region continue to improve with another quarter of year-over-year sales product growth
+Product sales in our APAC region were once again up year-over-year
+And the start of the quarter was our Japan region with a very solid year-over-year increase
+Product sales bookings in EMEA however, were again done year-over-year, driven by weak sales in the UK and Germany
+Software revenues were very solid in fiscal Q1 driven by strong growth in virtualization software sales and strong growth insured security solutions
+If we maintain our current growth momentum, we should exit fiscal 2017 on a $400 million annual trajectory for software sales
+In security, we saw a sharp rise in the number of SSL interset project wins as well as some large multimillion dollar Gi Firewall competitive displacements in the service provider market
+These trends resulted in double-digit year-over-year Q1 growth rates within our security product portfolio
+We had some excellent sales wins in our service provider business last quarter with several significant NFV and Gi LAN, IoT and large firewall security win
+We also saw a solid demand for our 100-gig blade sales in Q1. The 100-gig blade product is proving to be very popular with customers that require massive scalability
+Once again our services business delivered strong results and excellent profitability with year-over-year revenue growth of 8.5%
+As Andy mentioned, we are seeing as expected slowing year-over-year services revenue growth related to the slower product sales in FY 2016. We expect our services revenue growth trends to begin to normalize in the second half of the year as product revenue continues to grow
+In mid-November, we announced the second phase of the iSeries product range of appliances known internally as the Shuttle series
+The initial customer reaction to the announcement has been excellent
+And sales in Q1 have exceeded our expectations
+Initial sales of the new iSeries products are tracking slightly above the trends we have seen in previous product refresh scenarios and we believe this bodes well for fiscal 2017. Last quarter we talked about several emerging market conditions that have increased the appeal of our products with service providers and the enterprise customers
+We gave examples of new opportunities including the explosion of SSL encrypted traffic and the need to intercept, inspect and orchestrate encrypted traffic at speeds and volumes never before required
+We also spoke about customers emerging desires to have consistent security policies across traditional on-premise data centers as well as private and public clouds, as the movement of application workloads to cloud architecture accelerates
+We experienced many project wins last quarter, which reinforced our view of these expanding opportunities
+For example, a Fortune 100 insurance company leveraged a new F5 iSeries 5000 platform to deploy the next-generation private cloud infrastructure
+This implementation allowed them to instantly orchestrate, provision and dismantle ADC resources and concert with our existing Cisco infrastructure
+This customer also deployed F5’s ASM product ensuring WAF functionality was available to on-premise applications as well as a private cloud data center assets
+A Fortune 500 discount retailer with a large online and mobile clientele required an improved security perimeter for its online web presence
+They also required a solution to deal with the onslaught of encrypted ECC traffic triggered by the recent adoption of this encryption method by companies like Apple, Google and Microsoft
+This customer deployed six VIPRION chassis in combination with a Silverline deployment and this was anti-DDoS an encrypted traffic management solution
+In a 5 million plus transaction, a large Asia Pacific Telco operator initiated a 5 year program to virtualize 100% of its IP transport network and chose F5 as its primary ADC provider
+This deployment leveraged many cloud-based orchestration and automation technologies including OpenStack and KVM
+The solution consisted of F5 virtualization software licenses as well as our carrier-class firewall, our WAF and access management software modules
+We will be demonstrating this solution as well as many others at Mobile World Congress next month in Barcelona
+We are continuing to experience momentum in our customers’ effort to lift and shift from traditional on-premises to private and public cloud environment
+This past quarter one of our long-time North American customers, a leading learning management system provider began such a transformation
+Working together with AWS, F5 crafted a dynamic and secure traffic management solution utilizing F5’s WAF and firewall capabilities in the AWS computing environment
+This enabled our customer to easily repurpose many of their legacy data center applications to the public cloud without compromising the mature security capabilities they enjoy with F5. In recent quarters, we have seen growing interest in our Internet of Things capabilities and have enjoyed successes with several Fortune 500 customers
+In Q1, one of the largest global manufacturers of home appliances invested in F5’s VIPRION platform to help facilitate machine-to-machine communications within their massive base of install products
+The F5 solution leveraged a full stack of traffic management and security offerings including dynamic service chains and a highly scalable SSL deployment
+F5’s leadership and scalability, programmability and diverse protocol support is ideal for managing complex IoT requirements
+From a product roadmap perspective, you should expect to see F5 continue to introduce several exciting new products through fiscal 2017. Today we announced the addition of several new offerings to our security portfolio
+The new Herculon product family with purpose-built hardware and the simplified user experience, lets security administrators quickly deploy solutions that overcome specific application security obstacles and threats
+Herculon products provide improved visibility and control over application behavior and solve difficult industry challenges in a straightforward easy-to-deploy manner
+The first two offers available in the Herculon portfolio are the Herculon SSL Orchestrator and the Herculon DDoS defender
+The Herculon SSL Orchestrator provides improved insight for customers experiencing growth in the volume of encrypted application data
+Today most web traffic is now encrypted and attempts to address application security using traditional methods alone are both inadequate and costly
+The Herculon SSL Orchestrator provides leading cryptographic capabilities contacts aware dynamic chaining, service chaining and native third-party integrations
+Herculon SSL Orchestrator can significantly increase performance while significantly decreasing infrastructure costs by eliminating the need for redundant encryption and decryption capabilities
+The Herculon DDoS Hybrid Defender offers customers an unparalleled multilayered defense against volumetric and pervasive DDoS attacks
+This is accomplished by developing high performance hardware on-site and enriching its capabilities with intelligence gathered from our cloud-based Silverline scrubbing centers
+This hybrid approach improves time to mitigation in scenarios where website and application availability are crucial to customer interactions
+The product provides comprehensive DDoS coverage through behavioral analytics, subsecond attack mitigation, and visibility into sophisticated application-layer attack
+Also announced today is our Silverline WAF Express service as more and more of our customers prefer a web application security as a service approach to attack mitigation
+We are introducing a preconfigured offering that leverages our cloud-based Silverline platform
+By their very nature WAF deployments can be complicated
+With WAF Express customers can protect applications with a point-and-click simplicity, while our security operation center experts monitor, analyze and mitigate attacks as they occur
+We also announced today that we have added security and incident response team services for all F5 customers to help them more quickly identify and neutralize threats and to help protect their critical business operations
+We plan to ship TMOS 13.0, known internally as the Daytona release, in this current quarter
+Daytona is a major release with a host of new functionality, including our high-performance 40-gig virtualization; a sophisticated but easy to install iApp for our SSL Orchestrator; VCMP support for the 100-gig blade, which should extend the 100-gig blade solutions to enterprise customers; and IoT/MQTT protocol support
+We also plan to deliver our unique application connector solution in Q2. Our application connector enables customer applications to seamlessly access multiple public cloud infrastructures directly from private clouds in on-premise and/or co-lo data centers
+This provides a truly flexible and elastic hybrid cloud solution to our customers
+Finally, we are planning to deliver the first release of our container micro services based solution, internally known as Project Velcro
+Velcro includes two products that work together, the container connector and the application services process
+We have been beta testing Velcro in several micro services environments and we are excited by early indications that it will enable an entirely new category of F5 solutions with our new application services process
+We believe this product will play a pivotal role in accelerating our customers’ ability to adopt emerging mode two and container-based architectures in both private and public cloud environments
+As far as the fiscal Q2 outlook is concerned, Andy outlined our guidance for the current quarter
+We have made good progress in all our key strategic initiatives
+The vast array of new products delivered in the second half of fiscal 2016, combined with the exciting roadmap of additional products planned for this quarter, should drive solid business for F5 during the year
+I believe we are poised to see increased growth in year-over-year product revenue in Q2 and we have every opportunity to build in that momentum for the second half of fiscal 2017. In conclusion, I’d like to thank the entire F5 team, our partners, and customers for their support last quarter, and with that we’ll now hand the call over for Q&A
+Question-and-Answer Session
+Okay
+Yes, good
+On the first one, on service provider, actually I felt really good about service provider last quarter, especially in Americas
+We had a really, really solid performance there where we saw a lot of wins with the GI firewall replacing the existing – and I’m talking multimillion-dollar type wins
+We saw across the board the 100-gig board had a real big jump up in terms of the number of cards shipped from the previous quarter, and then I talked about things like IoT where we think that’s pretty good, and we’re looking forward – we are actually going to have quite an exciting event at Mobile World Congress, showing a lot of customer-type solutions and partner solutions
+EMEA did have a tough-ish quarter in service provider and that went hand-in-hand, quite frankly, with the overall toughness we’ve seen, but I was pretty happy with the results
+In terms of the product refresh, I think I caught the question, but if I didn’t, Andy, excuse me, will correct me
+But as we’ve said in the past, we tend to see in the first few quarter of shipping, 25% of those – that product type to be the new product
+This is looking very good for that to happen
+As we said in the script, we’re very, very happy with the way that – the reception from customers, A, from the ones that we announced towards the end of Q4, and then for the ones that we announced at the end of Q1. We even saw quite a strong pickup towards the end of December across the board, and I know that the field are quite excited about it
+Yes
+Let me go with the software, first of all
+I mean, we’ve talked in the past quarters about the percentage of product revenue being something like 77%
+So, I think we’ve sometimes said 78%
+And if you do the math in that, you can see I’m probably being reasonably conservative in the $400 million number because that’s typically in the 90s
+So that was really just a measure to give everybody a feel for how much software we’re actually doing
+Linearity, yes
+The linearity last quarter was interesting
+If you look at it at face value, it was fairly normal; however, what we did see was a little bit of a lull in the middle of the quarter, round about the announcement – before the announcement of the new VIPRION products
+I don’t know if that was a slight amount of Osborne or not, who knows
+But we saw that picking up to normality, so no real big – not much to talk about there
+And then when we look at the pipeline, we think we’re going to see much of the same as well
+Yes
+No, no, DevOps is and – when I – this is John
+When I talked about some of the new products of ruling for example a big one related to DevOps is that is a Velcro
+That’s an internal name of our product
+And that’s the micro services version of our ADC and Watson container architecture typed a scenarios
+That’s really, really aimed at the DevOp community and I mentioned about F5, we’ve got bunch of beta test going on
+So we think that’s an opportunity moving forward
+To note only get the main serves of the DevOp community, but also to be able to drag other products along with it, software module security solutions, et cetera
+And then also in the past we’ve talked about what we’ve been doing with iRules, with iRules LX and with iApps LX, again is very aimed at the DevOps community
+So that in fact, we effectively the programmability is right in their center of excellence in terms of anyone to do that
+So that those more and more solutions on the F5 platform, which so long story short, I think we do see DevOps is an opportunity
+Do you want to share anything Ryan? Ryan Kearny Yes
+So I just I had mentioned DevOps is something that drives our roadmaps and is a big focus area for F5 in our technology and the ability to support automated in – automation and orchestration ecosystems with open APIs and very flexible extendibility of the product and simplicity and usability are critical things
+And that includes new technologies just like John said our container, conductors and our support of micro services, which we’re launching this quarter
+Our pretty big focus areas and things were really going to be enabling many more kind of DevOps, architectures and environment
+So we haven’t kind of past so
+I bet as a lot of people smiling that one, everybody seems to smile when we talk about retire again
+I mean just to give you an update on that, I’m not going too much detail here because obviously the sales process is the responsibility of the Board and the sales committee have involved in it, but it’s their responsibility
+But the process is actually progressing really well
+Obviously we’ll let you know ASAP when we get something to an own, but meanwhile my focus by a mile is focusing on the business and delivering another quarter, this quarter, another good quarter
+And then the other things Julian, asking about Silverline, I think you missed in this script was, we’re very much using Silverline as a competitive advantage, just against cloud based solutions and other service solution
+But also by integrating with your firewall and our WAF capability initiating intelligence, we think that a massive differentiator for us
+Because of our installed on premise base, installed base so big we can get more and more intelligence for the cloud-based solution
+It still equates more, but growing I mean I could give you a very big growth number, but that would be, it quite still equates more
+And I think what we said and we suppose taking to this is as I guess bigger the Fed revenue in particular from a subscription point of view, we’ll start talking about it
+I mean this is – I’m going to give you an answer
+It’s a little bit dangerous, because as an assumption you can’t take us to the bank
+However, everything we have seen right now is telling us, this is going to be a very, very similar product cycle previous ones
+We’re seeing excitement in the customer base, we’re seeing quite take up of the new products
+We think we’re going to be very, very similar from a percentage point of view, I mentioned in terms of this current quarter versus the previous ones
+So we’ll see, but so far, so good
+Typically, I might be wrong
+It typically starts at 25%, gets up to about 80% by the end of the year
+Yes
+So you see four quarter
+Thanks
+There’s two things we’re looking at, and I think hopefully taking a conservative view is that EMEA has seen a few tough quarters here, so until we’re confident of success there, we’re going to take a conservative stance on that
+Obviously, we mentioned services, and until we start to see the product growth coming back – there the main areas, but no – in terms of looking alone at the product stream, when I look at what I’m very happy about, it’s software sales, the VE sales, the cloud sales starting to rise with Amazon and Azure
+Security was double digit and we feel reasonably good about that
+But they were the two main areas that we took into account
+I think, frankly, it’s probably a combination of macro and we could probably improve execution in certain areas, probably both
+Thank you
+And then in terms of the micro services type opportunity, we see that as – it’s mostly going to be east/west type traffic
+It’s going to be in container architecture
+We see that as an additional area to where we are today with our core business, which obviously is mostly north/south traffic, mostly application – optimizing applications in that environment
+So, I don’t think there’s going to be a clash here
+I think it’s more of an additional market type opportunity
+On budget – budget flush is always a tough one to actually measure
+I did mention that we saw a little bit of a lull, which could have been linked to the iSeries announcement, and then we saw a strong close at the quarter and some of that can be budget flush, but I wouldn’t say it was – it wasn’t incredibly significant
+I’m sure we saw some, but I wouldn’t factor it as a big factor in the quarter
+And then, the second question?
+Okay
+On the first one, I did mention that we had a pretty solid quarter last quarter with the security software solutions, which obviously is attach rate as well
+In fact, I talked about double-digit growth, so we felt very, very good about that
+We expect iSeries definitely to give us more attach rate; the performance is designed to do that
+We’ve taken a number of restrictions, especially towards the bottom end of the product line that should help out as well, so generally we would expect that to be the case
+Yes, I mean, we have become more and more positive, Paul, over the last year in particular in terms of the opportunity of the public cloud
+I mean, one of the things that has been becoming very obvious, too, is when our customers – remember, we have a very, very large Fortune 500 customer base – when our customers are doing lifts and shifts to the public cloud, whether Azure, whether it’s Amazon, et cetera, that almost 100% of the time our products are going with that and that product being, it could be classic TMOS with programmability and iRules already included
+It could be additional products like the WAF for protection or firewall or access policy management
+And that’s one of the reasons we’ve been giving a lot of customer examples on that basis
+So we’re working in the field with the AWS folks in the field; we’re doing the same with Microsoft
+We’re viewing it as an opportunity, and in fact, I highlighted it as one of the three emerging opportunities that…
+And also remember the studies we’ve done in terms of hybrid clouds, I mean, hybrid clouds is all over the place from the customer perspective
+I can’t remember the exact percentage; I think it was in the 80 – but it’s a very high percentage of the responses we got where the large customers that we sell to are going into hybrid cloud environment
+That gives us a massive opportunity, A, to make it happen and, B, to take advantage of it as we take our security and our mature products and make sure they are on the public side of that
+It is, and it’s usually September where we have a very strong , I mean, what we’d say is we’re very, very happy with the sales execution over the last couple of years in federal
+So we expect it to be strong, but this is far too early

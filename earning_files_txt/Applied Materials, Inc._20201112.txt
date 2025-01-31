@@ -1,0 +1,1188 @@
+Applied Materials, Inc. NasdaqGS:AMAT
+FQ4 2020 Earnings Call Transcripts
+Thursday, November 12, 2020 9:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2020-
+
+-FQ1 2021-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+1.17
+
+1.25
+
+6.84
+
+1.11
+
+4.09
+
+4.17
+
+1.96
+
+4.60
+
+4603.30
+
+4688.00
+
+1.84
+
+4525.00
+
+17106.17
+
+17202.00
+
+0.56
+
+18363.56
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Nov-09-2020 1:56 PM GMT
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.93
+
+0.89
+
+0.95
+
+1.17
+
+0.98
+
+0.89
+
+1.06
+
+1.25
+
+5.38 %
+
+0.00 %
+
+11.58 %
+
+6.84 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Daniel J. Durn
+Senior VP & CFO
+
+Gary E. Dickerson
+President, CEO & Executive
+Director
+
+Michael Sullivan
+Vice President of Investor
+Relations
+
+ANALYSTS
+
+Atif Malik
+Citigroup Inc., Research Division
+
+Christopher James Muse
+Evercore ISI Institutional Equities,
+Research Division
+
+Harlan Sur
+JPMorgan Chase & Co, Research
+Division
+
+John William Pitzer
+Crédit Suisse AG, Research
+Division
+
+Joseph Michael Quatrochi
+Wells Fargo Securities, LLC,
+Research Division
+
+Krish Sankar
+Cowen and Company, LLC,
+Research Division
+
+Quinn Bolton
+Needham & Company, LLC,
+Research Division
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research
+Division
+
+Toshiya Hari
+Goldman Sachs Group, Inc.,
+Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+Presentation
+
+Operator
+
+Welcome to the Applied Materials Earnings Conference Call. [Operator Instructions]
+
+I would now like to turn the conference over to Michael Sullivan, Corporate Vice President. Please go
+ahead, sir.
+
+Michael Sullivan
+Vice President of Investor Relations
+
+Good afternoon, everyone, and thank you for joining Applied's Fourth Quarter of Fiscal 2020 Earnings Call.
+Joining me are Gary Dickerson, our President and CEO; and Dan Durn, our Chief Financial Officer.
+
+Before we begin, I'd like to remind you that today's call contains forward-looking statements, which are
+subject to risks and uncertainties that could cause our actual results to differ. Information concerning the
+risks and uncertainties is contained in Applied's most recent Form 10-Q and 8-K filings with the SEC.
+
+Today's call also includes non-GAAP financial measures. Reconciliations to GAAP measures are found in
+today's earnings press release and in our quarterly earnings materials, which are available on the IR page
+of our website at appliedmaterials.com.
+
+And now I'd like to turn the call over to Gary Dickerson.
+
+Gary E. Dickerson
+President, CEO & Executive Director
+
+Thanks, Mike. I'm very pleased to report that Applied Materials delivered record revenue in our fourth
+fiscal quarter, and earnings hit an annualized run rate of $5 per share for the first time.
+
+For the fiscal year, we grew revenues 18%, and earnings 37% while making significant strategic
+investments in new technologies and products to address the industry's highest value problems and
+position the company for sustained long-term success. These results are all the more impressive
+considering the unprecedented disruptions we've navigated this year.
+
+I really want to thank all our employees, suppliers and partners for their resilience and adaptability. Our
+teams have switched to new ways of working, delivered on our commitments to customers and investors
+and kept our technology and product development on track. While our actions to date are driven by a need
+to protect the health and safety of our employees while keeping our company strong, I'm very excited
+about the long-term benefits of working in new ways, especially remote support in R&D.
+
+In today's call, I'll begin by sharing our current view of the market environment. Then as this is the end
+of our fiscal year, I'll highlight some of our major accomplishments in 2020 before describing the growth
+drivers and inflections that will shape our markets over the next several years.
+
+I'll conclude by outlining our strategy and investments that will drive Applied's long-term profitable
+growth. As we adapt to the challenges created by COVID-19 and prepare for the post-pandemic era, we
+are seeing fundamental changes in many areas of our lives, and the world is depending on semiconductors
+more than ever. Investments in IT and communications infrastructure, combined with the accelerated
+digital transformation of companies and the economy as a whole are driving very robust semiconductor
+and wafer fab equipment demand.
+
+In foundry/logic, we see leading-edge customers building out their fabs and aggressively driving advanced
+R&D. This gives us confidence that current investment levels are sustainable into 2021 and beyond. In
+addition, specialty markets underperformed in 2020 due to headwinds in industrial and automotive and
+therefore, represent an upside for 2021 as these sectors rebound.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+In memory, spending is growing faster than foundry/logic this year as customers push forward with their
+technology road maps. We see NAND outgrowing DRAM in 2020 and then DRAM growing significantly
+faster than NAND in 2021.
+
+Consistent with the perspective we shared on the August call, our outlook remains very positive. We are
+outperforming the market and we are demonstrating we can grow independent of the spending mix.
+
+This quarter, semiconductor systems revenues were an all-time [indiscernible] the midpoint of our
+guidance will be up another 12% next quarter. For the fiscal year, semi systems revenue grew 26% with
+broad-based strength across products and device types. Our traditional leadership businesses that provide
+solutions for creating and modifying materials and structures are benefiting from innovations that enable
+leading-edge transistors and interconnects. For example, our metals deposition business, technology that
+is critical to interconnect performance grew revenues 42% in fiscal 2020 to nearly $2.2 billion.
+
+In our businesses that focus on shaping and analyzing materials and structures, we have significant
+opportunities to grow our share, and we're demonstrating our strong momentum. In fiscal 2020, our etch
+business generated record revenues, growing nearly 30% year-on-year. We're gaining share in conductor
+etch as we win new applications in DRAM and foundry/logic. Our inspection business also delivered record
+performance as systems revenues increased 46% for the year. We have significant traction with leading-
+edge customers and are winning share in optical wafer inspection and e-beam with new products that are
+still in early stages of adoption.
+
+As the benefits of traditional 2D Moore's Law scaling slowdown, leading companies are describing how
+the industry is transitioning to a new playbook to drive performance, power, area cost and time to market
+of new devices. This PPACt playbook includes new architectures, new structures, new materials, new
+ways to shrink geometries and new packaging technology. Applied is uniquely positioned to accelerate
+this playbook. The breadth of our product portfolio is a key advantage because it allows us to combine
+technologies in innovative new ways.
+
+For example, in patterning, where we generated nearly $1.1 billion of revenue in fiscal 2020, we have
+been winning new applications across multiple customers with a new product that delivers a novel hard
+mask material combined with a co-optimized etch solution to open the hard mask. This is a great example
+of a new class of highly differentiated products we call Integrated Materials Solutions or IMS. We have
+numerous IMS engagements with our leading customers, and I'm very excited about the IMS products
+we'll be bringing to market in the next several years.
+
+Another area where we are creating value using our broad capabilities is advanced packaging that enables
+chips to be connected in new ways. Our packaging business is scaling, generating record revenues of $0.5
+billion for the year, up over 20% from fiscal 2019. We're also expanding our ecosystem footprint through a
+combination of organic investments and partnerships.
+
+Moving to service. AGS also delivered record revenues for the quarter and the year. The portion of
+AGS revenue generated from subscription-style business also grew to record levels. In fiscal 2020, we
+increased the number of tools covered by long-term service agreements by 13%. As a result, 60%
+of our service and spare parts business now comes from the stickier and more predictable recurring
+revenue streams. Our renewal rates for long-term agreements are also very high at more than 90%. This
+illustrates the value customers see in our advanced service products.
+
+Rounding out our portfolio with display, we hit our 2020 revenue target in a challenging market. Our
+outlook for 2021 is similar to this year with no significant changes to the view we shared in our last call.
+However, we're starting to see some encouraging leading indicators of future growth that we'll be watching
+closely in 2021. These include increasing adoption of organic LED displays, OLED, for IT applications.
+Higher OLED adoption in the smartphone market with more than 70% of the 5G handsets launched to
+date equipped with OLED screens, and foldable OLED handsets approaching a price point that could spur
+volume adoption.
+
+As I've said before, we're optimistic about the long-term opportunities for Applied in the display market as
+we focus on addressing the OLED inflection and expanding our available market.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+Finally, as I look back on our accomplishments this year, I'm also very proud of our new 10-year road map
+for environmental and social responsibility that we announced over the summer. This road map lays out
+the detailed actions behind our vision to make possible a better future for everyone. We've taken a holistic
+approach to these plans that considers our operations, how we work with customers and suppliers and
+how our technology can be used to advance sustainability on a global scale. We call our framework 1x,
+100x, 10,000x, and we've used it to rally the company around challenging new goals and commitments.
+
+Before I conclude, I'll take a few minutes to describe the longer-term growth drivers we see for Applied.
+As I look ahead to the next decade, our opportunities have never been better. There are numerous trillion-
+dollar inflections that can be enabled by advances in materials engineering, from next-generation displays
+and AR/VR to electrification of transport and personalized health care. However, the 1 inflection that really
+stands out is AI. AI has the potential to change everything, and it will touch every major industry and area
+of the economy. AI also has major implications for the electronics and semiconductor ecosystem.
+
+First, we're moving from an application-centric to a data-first world where almost all data will be
+generated and consumed by machines. This means that the industry's growth will no longer be limited by
+humans ability to create or consume data.
+
+Second, the new computing approach is needed to make sense of the massive volumes of data available.
+We'll work best with workload-specific hardware built from customized and entirely new types of silicon.
+This diversification of designs and devices is great for the industry.
+
+And third, training neural networks for AI computing is incredibly power intensive. So there's a huge
+imperative for the industry to drive improvements in the performance per watt of computing solutions. The
+advances in technology needed to unlock the potential of AI create tremendous opportunities for Applied
+Materials. We have aligned our strategy and investments around this vision for the future, and we're
+uniquely positioned to accelerate the industry's new PPACt playbook, to advance power, performance, area
+cost and time to market of next-generation semi devices.
+
+Before I hand the call over to Dan, let me quickly summarize. Despite the unprecedented challenges of
+2020, Applied is delivering record performance. We're outperforming the market overall and have strong
+momentum in key growth areas like etch and inspection. The demand for semiconductors remains very
+strong, driven by IT infrastructure, digital transformation of businesses and an acceleration of longer-term
+technology trends, especially AI.
+
+Our future opportunities have never been better. We've been investing in next-generation technologies
+that are critical for the AI ecosystem and laying the groundwork for Applied's future growth. Our strategy
+to accelerate the PPACt playbook is already yielding results for our customers and Applied. And as I look
+ahead, I'm very excited about the innovative new products and integrated solutions we will bring to
+market in 2021 and beyond.
+
+Now I will turn the call over to Dan.
+
+Daniel J. Durn
+Senior VP & CFO
+
+Thanks, Gary. Today, I'll add my perspective on our Q4 performance and full year results. I'll share some
+noteworthy developments in our installed base business, and I'll provide you with our backlog entering our
+next fiscal year, along with our business outlook for Q1.
+
+Beginning with our Q4 performance. I'm pleased that our company delivered record revenue and earnings
+per share despite the ongoing challenges related to COVID. Our teams managed to significantly increase
+our system shipments and customer support. And we did it in a very disciplined manner that resulted in
+higher operating profits and free cash flow. We've now shipped all of the unmet backlog from earlier in the
+year, and our Q1 guidance gives you a direct look at the healthy demand trends we continue to see in our
+business.
+
+In Q4, we delivered revenue above the midpoint of our guidance across all of the segments, including
+record revenue in semi systems and AGS. We grew revenue by 25% versus the same period last year,
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+increased non-GAAP operating profit by 49% year-on-year and delivered record non-GAAP EPS of $1.25,
+which was up 56% year-over-year. We also increased operating cash flow to over $1.3 billion, up 59%
+year-over-year.
+
+About 2 months into our quarter, the U.S. government imposed a licensing requirement related to one of
+our foundry customers in China. This requirement reduced our revenue in Q4 and our guidance for Q1.
+We've already applied for licenses where needed to comply with the new rules.
+
+Turning to our full year results. I'm especially pleased with the growth of our semiconductor-related
+businesses. Semi Systems and AGS combined, grew by over 20% year-over-year. Our installed base
+business, which includes AGS plus 300-millimeter upgrades, grew by over 9% year-on-year and continues
+to represent close to 1/3 of Applied's revenue. This growing part of our company provides an annuity-like
+revenue stream that makes us more resilient across market cycles.
+
+Within AGS, we've seen positive developments in our long-term service agreements. Until recently, the
+vast majority of our agreements had 1-year terms. But in 2020, about 1/3 of the agreements we signed
+had terms of at least 3 years. We've increased these extended service agreements by a factor of 10 over
+the past 3 years.
+
+This outstanding growth underscores the close working relationships we have with customers, who are
+using our data-enabled services over the life of a node to generate world-class yields output and costs. In
+fact, in 2020, we grew the installed base of our data-enabled tools by nearly 40%.
+
+For the company as a whole in 2020, we delivered record revenue in both semi systems and AGS. We
+increased non-GAAP gross margin by 110 basis points, invested 69% of non-GAAP OpEx in research and
+development, grew non-GAAP operating profit by 32% and increased EPS by 37%. We also generated $3.8
+billion in operating cash flow, setting a new record and returned $1.44 billion to shareholders. We raised
+the dividend for the third year in a row, paid dividends of $787 million and allocated nearly $650 million to
+stock buybacks, repurchasing at an average price of $56.32. We increased cash on the balance sheet by
+nearly $2 billion as we prepared for the Kokusai Electric transaction.
+
+In Q4, our stock buybacks were limited to $50 million as our legal department imposed a trading blackout
+out of an abundance of caution, in connection with our discussions with the Chinese regulatory agency
+that is reviewing the Kokusai Electric transaction. We continue to have constructive discussions and we're
+working to secure clearance for the transaction before the end of the calendar year.
+
+Next, I'll share some color regarding the demand we see as we enter our new fiscal year. Applied's backlog
+reached nearly $6.7 billion in Q4, setting a new year-end record. The combined backlog of our semi-
+related businesses also set a year-end record, growing to nearly $5.5 billion. Our display backlog declined
+year-over-year. And as Gary discussed, we're tracking the leading indicators of the eventual recovery.
+
+Now I'll share our Q1 business outlook. We expect company revenue to be approximately $4.95 billion,
+plus or minus $200 million, with the midpoint up about 19% year-over-year. We expect non-GAAP EPS
+to be about $1.26, plus or minus $0.06 or up nearly 30% year-over-year. Within this outlook, we project
+semiconductor systems revenue of around $3.45 billion, up nearly 23% year-over-year; AGS revenue of
+about $1.07 billion, up around 7% year-over-year; and display revenue of around $400 million, up about
+20% year-on-year.
+
+We expect non-GAAP gross margin to be about 45.3% and which is higher year-over-year and lower
+sequentially due to near-term changes in product and customer mix. We expect non-GAAP OpEx to
+increase to $860 million, reflecting higher expenses from a 14-week quarter plus 1 month of annual merit
+increases, partially offset by holiday shutdown savings. Our Q1 guidance assumes a tax rate of around
+12%, and a weighted average share count of around 925 million.
+
+In summary, I'm pleased that Applied delivered record performance in Q4 and has strong momentum
+entering our new fiscal year. Our backlog is at record levels as our products and technology generate
+strong customer pull. Our installed base business is becoming larger and more resilient with growth in our
+data-enabled services and multiyear service agreements. I'm incredibly proud of our teams for supporting
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+our customers under challenging global circumstances while delivering record earnings and increased cash
+flow to our shareholders.
+
+Now Mike, let's begin the Q&A.
+
+Michael Sullivan
+Vice President of Investor Relations
+Thanks, Dan [Operator Instructions]. Operator, let's please begin.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of C.J. Muse from Evercore.
+
+Christopher James Muse
+Evercore ISI Institutional Equities, Research Division
+
+I guess for my first question, if I look at your DRAM business and make assumptions around your January
+quarter, it looks like you're going to grow about mid-30% for DRAM. And that's far better than what we're
+seeing industry-wide. So I guess can you discuss what's driving that outperformance, including some
+discussion on your success with conductor etch? And how should we think about your share of wallet for
+DRAM, given that that's probably the fastest-growing subsegment in calendar '21?
+
+Daniel J. Durn
+Senior VP & CFO
+
+Yes. C.J., I'll take the question. As you pointed out, our DRAM business is showing significant signs of
+strength this year. We've built momentum throughout the year. And we expect to close the year very
+strong. As we think about the overall growth rate of the DRAM market in this year against the backdrop of
+an industry that's probably growing 10% to 15%, probably at the high end of that range for overall WFE.
+Our overall systems business is going to be up over 25% for the calendar year. Against that DRAM as a
+market is probably a couple of points higher than the overall industry. So based on the math you walked
+through, you can see that the company is significantly outperforming.
+
+On last quarter's call, Gary talked about the momentum we're seeing from a conductor etch standpoint.
+So the team is performing really, really well there. And then as you think about things like high-K metal
+gate to get the I/O speeds on and off the DRAM device, we've been talking for a while about that inflection
+coming into the market and we're just really well positioned from a technology standpoint to drive our
+customers' road map and seeing strong adoption. So we feel really good about how we're performing
+against the backdrop of a good market, but clearly strong performance, and we're really encouraged by
+what we see going forward. And we would expect this strength to continue into next year as we continue
+to push our customers' road map and drive strong adoption of the technology.
+
+Gary E. Dickerson
+President, CEO & Executive Director
+
+Yes, maybe C.J., just to add a little bit more color. This is Gary. For high speed, the periphery is moving
+to more like, as Dan said, more logic-like processes where that's in the sweet spot of where we have
+leadership with a number of different products. So that's part of a unique inflection that's really fueling
+our growth in DRAM. And I talked, I think, in the last earnings call about the growth that we've seen in
+our DRAM conductor etch, gaining about 30 points of share since 2016. And so with the key technology
+inflections for the high-speed memory and also the strength of the Sym3 and etch, really, that's fueling
+our growth, and we feel really good that we're going to continue to enable the future inflections and
+continue to grow -- outgrow the market in DRAM.
+
+Christopher James Muse
+Evercore ISI Institutional Equities, Research Division
+
+Very helpful. And as my follow-up, I guess perhaps, if you could focus on domestic China and overall
+China. I think the concern out there is that the types of numbers we're seeing is not sustainable,
+particularly given what's going on with SMIC. But curious if you could offer thoughts on the greater
+breadth of spending that we'll probably see in calendar '21? And then how we should think about
+multinationals layering in? And what impact that will have on overall CapEx coming out of China?
+
+Daniel J. Durn
+Senior VP & CFO
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+Yes. Sure, C.J. Let me jump in on that and see if Gary wants to add anything at the end. From an overall
+market standpoint in calendar year 2020, we see meaningful spend by both the domestic customers as
+well as the multinational customers. And if I were to think about weighting of that spend, I would say it
+favors the domestic market over the multinationals, but both groups of customers are having meaningful
+spend. I think what you see is a broad base of investments. You're seeing investments across 200-
+millimeter geometries, 300-millimeter geometries. And within 300-millimeter geometries, you're seeing
+investments in NAND, DRAM, foundry/logic, so all device types. We think that continues into 2021.
+
+We probably won't see the growth rates that we did in 2020. It's going to be a strong year but you
+certainly won't see those growth rates. From a growth standpoint, I would expect multinationals to show
+more growth than the domestic customers but still strong spend in both categories. So we see it's a good
+market. We continue to see strength in China and expect to see that for the foreseeable future as they
+build their ecosystem in a slow, disciplined manner.
+
+Operator
+
+Our next question comes from the line of John Pitzer from Credit Suisse.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Congratulations on the solid results. Just a follow-up on C.J.'s question on China, Dan. You talked about
+in your prepared comments that the ruling against SMIC did impact your fiscal fourth quarter, fiscal first
+quarter. I wonder if you can just confirm with us how much of an impact was it. And does SMIC now
+represent 0 within the forward-looking numbers? Or how are we thinking about kind of the impact there?
+
+Daniel J. Durn
+Senior VP & CFO
+
+Yes. Thanks, John. Here's what I can share with you. As you can imagine, we probably don't want to
+be too detailed on what any 1 customer is doing. But the licensing requirement that we talked about, it
+was put in place about 2/3 of the way through our fiscal fourth quarter. So we saw about 4 or 5 weeks
+exposure to that new requirement. As we said in the prepared comments, Q4 revenue and Q1 guidance
+would have been higher if those restrictions had not been in place. So we're complying with the new rules.
+We've already applied for licenses where we need them. Trade situation remains fluid. So we don't want
+to speculate about the future. But certainly, the revenue in Q4 and guide for Q1 would have been higher
+absent that requirement.
+
+As you know, we've been in China for a very long time. We've got a broad base of relationships, and
+it's across all device types and we would expect the China market to continue to be strong for us going
+forward. And again, we're working with the governments to get the licensing requirement satisfied.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+That's helpful. And then maybe for my follow-up for Gary. Gary, a lot of the conversation around U.S.-
+China trade tensions that there had been concerns around restriction of shipping equipment into
+China. But there's clearly a second side of the story where a lot of countries now are looking at the
+strategic necessity for semiconductor capacity. You have things like the CHIPS Act in the U.S., you have
+TSMC announcing a foundry in Arizona earlier this year. EU officials have been talking about perhaps
+incentivizing more domestic production. Japan, the same. So I'm just kind of curious, given your vantage
+point in the industry, how important of a trend do you think this will be, this idea of regionalization of semi
+capacity? And what kind of potential growth driver could it be for your business?
+
+Gary E. Dickerson
+President, CEO & Executive Director
+
+Yes. Thanks for the question, John. So first off, I would say that, really, the major focus for all our
+customers is to drive their road maps, deliver the lowest power, highest performance chips at the best
+cost And I deeply believe that the future road map is going to look very different than the past. I've talked
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+before about classic Moore's Law and 2D scaling not being enough to enable the future AI infrastructure
+at the edge and in the cloud. So I do believe kind of aligned with your question that this is highly strategic
+for many countries in many regions. And I do -- we do see that certainly, we see some near-term trends
+with big customers moving to new regions in alignment with that trend. And I think that, that's going to
+continue. So it definitely creates an opportunity for Applied going forward.
+
+Certainly, as these customers are moving to new regions, the support in terms of accelerating their R&D,
+their ramp, transfer of technologies into these new regions, all of that creates a great service opportunity
+for us. And then even more important, as I said, I do believe the future is going to look different than
+the past. We're at an inflection point in the industry relative to how you drive the technology forward.
+One of our biggest customers 2 months ago talked about their road map beyond 2020 to double energy-
+efficient computing every 2 years. And if you go look at the slide 2 months ago, it exactly aligns what I've
+been talking about with the 5 elements of the playbook around new architectures, new materials, new
+structures, new ways to shrink and new ways to connect chips together with advanced packaging.
+
+So exactly what we've been talking about. And Applied is in a really great position with innovative
+products and integrated solutions to enable that new PPACt playbook. So I think we've never been in a
+better position. And again, I do believe that the industry is at an inflection point, and the countries and the
+companies that are best aligned to this new playbook, and get their first they are going to win, it's very,
+very important for the whole AI infrastructure going forward.
+
+Operator
+
+Our next question comes from the line of Toshiya Hari from Goldman Sachs.
+
+Toshiya Hari
+Goldman Sachs Group, Inc., Research Division
+
+Gary, my first question is on inspection. I think in your prepared remarks, you talked about your business
+being up 46%. And I think it was your systems business was up 46% in fiscal 2020. You probably
+outperformed most of your peers, if not all your peers during that time frame. Where are you seeing the
+most traction in inspection? And how should we think about sustainability for that business into 2021? And
+then I've got a quick follow-up.
+
+Gary E. Dickerson
+President, CEO & Executive Director
+
+Yes. Thanks, Toshiya, for the question. So absolutely, the inspection business is a real bright spot for the
+company. And as you mentioned, we grew the systems revenue by 46%. We have a new optical inspection
+system and new e-beam products that are seeing strong initial adoption with leading customers. And in
+both areas, we have a lot of room to grow, and we'll make an official launch fairly soon on some of these
+new capabilities.
+
+And the other thing I would say, certainly, the -- in this business, we have some really, really great leading
+technology. And the other aspect that's important for Applied is the connection in driving the PPACt road
+map, the analysis of all of these new innovations. When you think about wiring to lower resistance to
+improve the power or gate all around for high-performance transistors, having these unique imaging
+capabilities, and we have launched a product that has dramatically higher resolution than any product
+-- e-beam product that's on the market today, being able to see those data all around structures and
+understand how to drive the different films and shaping the structures and modifying the structures, all of
+that tied together is also tremendously synergistic with the rest of our business and driving the PPACt road
+map.
+
+So we're really in the early adoption of some of these new capabilities. I'm very confident that '21 and
+beyond, we're going to have really good results from our PDC business. But also, I'm really excited about
+the connectivity to the rest of Applied's business in accelerating the PPACt road map for customers.
+
+Toshiya Hari
+Goldman Sachs Group, Inc., Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+Great. And then, Dan, as my follow-up, just on gross margin. I know there are multiple sort of levers,
+both to the upside and the downside that could impact gross margins, and you guided to a slightly lower
+number for fiscal Q1. But when you think about gross margins longer term. I think at your most recent
+Analyst Day, you put up a 47% number, if I recall correctly. But is that still sort of the right target for you
+internally? Or is it higher or lower? How should we think about gross margins on a multiyear cadence?
+
+Daniel J. Durn
+Senior VP & CFO
+
+Yes, Toshiya. So from a gross margin standpoint, the company is performing really well. If you think about
+what Gary said in the prepared comments, in fiscal year '20, we're up 110 basis points year-over-year.
+Our fiscal Q4, we just reported, we're up 190 basis points year-over-year. And then like you pointed out,
+we see some different mix as we look into our fiscal Q1. It's down a little bit sequentially, but still up year-
+over-year. We think that's a little temporary and that mix is going to reverse itself as we look out into
+fiscal Q2.
+
+So we think the company is executing well in a difficult environment. When we think about the long-term
+gross margin, I think the best way to describe it would be 45% plus or minus 2 points, depending on
+where we are in the cycle. And if you look at the quarter, we just printed, 45.7. And then you factor in
+some of the headwinds we're experiencing in the current environment due to COVID and the pandemic,
+we would be at the upper end of that range we've referenced of 45 plus or minus 2 points. So I think
+that model, that framework around gross margin holds and the company is performing well to that.
+As the legacy impacts and the headwinds from the pandemic begin to wane, I think you would see the
+performance in the current environment, reflecting that framework around long-term gross margin.
+
+Operator
+
+Our next question comes from the line of Atif Malik from Citi.
+
+Atif Malik
+Citigroup Inc., Research Division
+
+Gary, you made an interesting comment in your prepared remarks that you guys can grow independent
+of the mix, which is an important distinction from some of your peers, which are more leveraged toward
+memory or logic. And you talked about the outperformance in etch and inspection markets. Looking into
+next year, where you are most excited about, etch or inspection or different markets?
+
+Gary E. Dickerson
+President, CEO & Executive Director
+
+Yes. So I would say if I look at what am I most excited about, it's what I talked about earlier that I really
+believe that the industry is at an important inflection point. And you can see this also many leading
+customers and companies in the ecosystem aligning around our view that classic Moore's Law and 2D
+scaling is not going to be able to enable the future AI infrastructure at the edge and in the cloud. And
+you see this playing out in terms of the marketplace from a competitive standpoint. The companies that
+deliver lower power, higher performance at the best cost faster than others, that's the fundamental driver
+of all of our customers in the ecosystem. So Applied is in a great position to outperform because we have
+many unique technologies and combination of products that are used to create, shape, modify, analyze
+and connect structures and devices.
+
+So I think I talked on the last call about our performance in some of our deposition businesses. Last year,
+we gained 8 points of combined share in Epi, PVD, CVD amounting to about $5.2 billion. This year, we
+grew our metals deposition business 42% to $2.2 billion. So these leadership businesses are very key to
+enabling next-generation transistor and wiring, materials and structures and combined with other unique
+capabilities, I'm really optimistic about our opportunities as we go forward to drive the PPACt road map.
+
+And as you mentioned, etch, we're also performing very well in etch, significant growth in this last year.
+We've expanded beyond our strength in memory to foundry and logic, where we're winning steps. We're
+winning EUV steps as customers are moving to future technology nodes and really, really, really great
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+performance there. It's -- that's really based on our new Sym3 platform, probably the best platform in the
+history of Applied Materials and there are real fundamental advantages. One is conductance. Conductance
+is where you remove the etch materials from the chamber, so you're not redepositing on the structures
+and causing yield and performance issues also particles that are deposited on the chamber. So that's just a
+fundamental advantage of that particular technology.
+
+Also, I'm on the phone often with R&D leaders last night with one of the -- our top logic customers and we
+are seeing yield benefits with the Sym3. They're seeing yield benefits with the Sym3 with new coatings
+that we've enabled on that platform that, again, is giving us better particle performance. So etch, again,
+very, very good momentum. And I talked already about inspection and we are in the early phases of
+adoption of some new products. I'm also very optimistic about that business as we go forward. But the
+really key thing that I'm most excited about is I do believe the industry is at an inflection point. The
+future is not classic Moore's Law 2D scaling. And you look at what I talked about relative to creating and
+modifying and analyzing, connecting all of the structures and devices.
+
+We're really in a unique position. So again, we are doing really well in different environments from a mix
+perspective. And I believe that we're at the foundation of enabling the technologies for this future AI
+infrastructure.
+
+Atif Malik
+Citigroup Inc., Research Division
+
+Great. And as my follow-up, Dan, domestic China WFE still in that $9 billion to $10 billion range for this
+year.
+
+Daniel J. Durn
+Senior VP & CFO
+
+Yes, that's correct. Our view on that hasn't changed. We've been pretty consistent on that over time. It's
+going to be in that $9 billion to $10 billion range.
+
+Operator
+
+Our next question comes from the line of Krish Sankar from Cowen and Company.
+
+Krish Sankar
+Cowen and Company, LLC, Research Division
+
+I have 2 of them. First one for Dan. Dan, are we still targeting a December end close for the Kokusai
+acquisition? Or can it be delayed further? And along the same path, any kind of buyback increase? Is it
+really tied to the outcome of what happens with Kokusai? And then I had a follow-up for Gary.
+
+Daniel J. Durn
+Senior VP & CFO
+
+Sure, Krish. So as you know, we've gotten 5 of the 6 regulatory authorities to approve the transaction.
+We're constructively engaged with the remaining authority and we continue to be optimistic that we're
+going to receive clearance by the end of the calendar year. So we'll stay focused on that.
+
+From a buyback standpoint, once we close the transaction, integrate the asset, I think we'll come back
+to the investment community and put forward a combined company model over the next several years
+to give investors a perspective of how the combined company will perform part of that communication,
+we'll talk about what our capital allocation strategy going forward is. But I wouldn't be surprised if it's
+what we've been doing now for quite time, which is very shareholder-friendly in terms of giving all
+excess cash back to shareholders and big buyers of our stock. Given what we see happening from an
+overall market standpoint, the structural growth we see and the execution of this company against that
+opportunity, we see our industry going structurally larger, higher highs, higher lows. And we think there's
+a real opportunity to put capital to work from a share repurchase standpoint. So we'll probably continue
+what we've been doing now for many years. But we'll have that conversation once we get the investment
+community together post close of the transaction.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+Krish Sankar
+Cowen and Company, LLC, Research Division
+
+Got it. And then a longer-term question for Gary. Gary, on China, I'm not looking at it from a political
+angle but from a long-term business and philosophical standpoint, do you think it's good business practice
+for AMAT or other U.S. semi cap to ship to China? Because on one side, you're balancing the needs of your
+customers, but also on the flip side, it might enable local competition or reverse engineering or how do
+you protect your IP. So I'm kind of curious, how do you balance those 2 as China gets bigger?
+
+Gary E. Dickerson
+President, CEO & Executive Director
+
+Yes. Thanks for the question. Local competition has been a factor for us for many, many years in many
+different regions. And I just keep coming back to the leading companies want to work with the most
+innovative technologies and products. And there's just no way to go forward with the technology road
+maps if you don't have the combinations of those different technologies. And as I've said before, I just
+deeply believe that the future doesn't look like the past. I don't believe that following the classic 2D
+Moore's Law playbook is the path forward for the industry or to enable this AI infrastructure.
+
+So there's going to be tremendous innovation. I mentioned earlier, one of the -- one of our leading
+customers 2 months ago, if you look at their architecture day, and they talked about the road forward
+beyond 2020 for energy-efficient computing to double every 2 years, and it was exactly aligned with the
+things that I've been talking about over the last 2 years with the new architectures, new structures, new
+materials, EUV enhancements and new ways to connect the chips together with 3D advanced packaging.
+So I just believe there's going to be tremendous innovation. All of this is going to be a moving target
+relative to the products.
+
+And the other thing is you have the opportunity to connect these products and technologies together
+in unique ways to manage the interfaces and the interfaces on these structures are becoming much
+more critical than they've ever been in the past. So we know -- we've talked about some innovations
+in the transistor where we can enable enormous improvements in leakage current or drive current, and
+it really comes from being able to combine these technologies together, not oxidized or damage those
+interfaces. Those are completely unique capabilities that you really -- having this portfolio is a tremendous
+advantage, a very unique advantage for Applied.
+
+So look, I think that the world will operate the best, certainly with fair and free trade and that these
+inflections that we're seeing today around AI, biggest inflections of our lifetimes will transform every
+industry, and Applied is right at the foundation of those inflections.
+
+Operator
+
+Our next question comes from the line of Timothy Arcuri from UBS.
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research Division
+
+I had 2. I guess, Gary, first, I know you think about capital intensity a lot. And I've seen your charts, and I
+totally agree with the 10.5% to 11% longer-term WFE intensity. And it seems like if you strip out some of
+the duplicative spending today, there's probably at least $3 billion to $4 billion in China that's not backed
+by revenue. So it seems like if you just strip that out, we're probably closer to like 12% right now. So I
+know when you think longer term, you do a lot of modeling about longer-term WFE. But when you kind of
+think about where WFE can go and you build out an underlying semiconductor revenue number. Is it fair
+to use like a 12% sort of a real or a core WFE intensity number? And then you can like layer on top of that
+spending that you think might happen because of the issues that John had mentioned before, but that's
+not real dollars that's backed by revenue. So the question is, is that 12% a good number?
+
+Daniel J. Durn
+Senior VP & CFO
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+Tim, this is Dan. I'll jump in on this one. So I do think 12% is a good number to start with. Do I think
+there's an upward bias on that over time, given what we see from a technology road map standpoint? Yes,
+I think you can make that argument. But I think 12% is a good number to lock in on.
+
+Just a couple more perspectives on it. We talk about when 300-millimeter came in around the 2000 time
+frame, we saw multiple concurrent investments in both wafer size technologies, and we saw probably
+17%. So that's probably an all-time high. Now what you saw is the 300-millimeter wafer size technology
+came into the industry and all of the efficiency gains that came with it, as well as the consolidation of our
+customer base. We hit a low point in 2013 at about 9%, and it's been on a steady upward trajectory since
+then. And so we think the trend is a pretty good one.
+
+The other thing I would point you to, and maybe this is a little bit of a different way of thinking about the
+industry. If you take that low point of capital intensity and you combine 2012 and 2013 as a combined
+2-year window and then compare it to the next 2-year combined window of '13 and '14, compare that
+to the next 2-year window of '14 and '15 and onwards, when you do that exercise out to 2021 and what
+you'll see is each successive 2-year windows with an upwardly sloping line. And so we think our industry
+has gone from no growth cyclical to growth with an upward sloping trend line, and we'll see higher highs
+and higher lows as that thesis plays out. And so we feel really good about where this industry is going in
+support of all the thematic trends that Gary has talked about for many quarters now.
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research Division
+
+Yes. Yes. Got it, Dan. And then I guess my second question is just on DRAM. I know, Gary, you sort of
+emphasized that DRAM is going to outgrow NAND on a percentage basis next year, which, I guess, sounds
+a little ominous for DRAM. But can you put that in the context of demand? It seems like DRAM WFE is
+certainly coming off of a much lower base this year. And on the supply side, we're in a far better point
+right now than we are in NAND. So can you sort of back those numbers into what that means for the
+supply-demand balance next year?
+
+Daniel J. Durn
+Senior VP & CFO
+
+Yes, sure, Tim. I'll jump in on that one again. And I think the best way to get at this and unpack it for
+the investment community is talk about what we see in 2020 and then use that as a jumping-off point to
+describe the contours around 2021. So starting with 2020, we continue to see the overall market up 10%
+to 15%. We're probably at the high end of that range. We talked about Applied Systems business against
+a market that's up 15%. Our systems business is going to be up 25% for the calendar year.
+
+By device type, we see foundry/logic greater than 55% in 2020, but it's growing below the market
+average. DRAM on the memory side of the house, DRAM, it's growing a little faster than the overall
+market. I think the real story in 2020 is NAND. NAND is growing 2x the overall market in 2020. And
+so I think that's maybe a little contrary to what the conventional thinking is around 2020. 2020 is a
+memory growth year, especially for NAND and against that backdrop of the memory growth year, Applied
+is outperforming very nicely. So we feel good about 2020.
+
+As we look into 2021, we expect another strong year for the industry and for Applied. And while we're
+not sharing a specific forecast around WFE, I think it's premature to be point specific at this time, we see
+foundry/logic is going to continue to be strong, and we see it as over 55% of total WFE again next year.
+But what you'll see in the memory side of the house is going to be a reversal from a growth standpoint.
+NAND, we expect to be flattish year-over-year, and DRAM set up to significantly outgrow the market.
+
+So this is a great setup for Applied, given the strong share gains we've been talking about now throughout
+2020 in DRAM. It gives us confidence as we look into 2021 that the setup from an overall end market
+standpoint, strong foundry/logic, flattish NAND, strong DRAM, it's a good setup for Applied as we look into
+next year.
+
+Operator
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+Our next question comes from the line of Harlan Sur from JPMorgan.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+Great job on the quarterly execution. On your commentary on leading-edge systems driving much of the
+incremental revenue growth this year with lagging edge system shipments muted just given the weakness
+in auto, industrial and analog segments of the market. The recovery in these markets we're seeing now
+and into next year should be a tailwind for the business. And so what's your expectation on the mix of
+leading edge versus lagging edge over the next few years, just given the number of new 12-inch analog
+fabs and microcontroller content and analog content growth in all electronic applications? And what's your
+positioning in these segments of the market?
+
+Daniel J. Durn
+Senior VP & CFO
+
+Harlan, I'll jump in on that one. I think you pointed out rightfully, this is a little bit of a weaker market
+for the trailing-node geometries. A couple of quarters ago or even last quarter, we talked about auto and
+industrial markets showing some signs of weakness as a result of the pandemic. Since then, we've seen
+those end markets continuing to perform stronger. But I think it's going to follow the natural progression
+we would see in any one of our end markets off of low utilization levels. We see utilization rise once
+utilization gets to a certain level, then you'll see customers begin to layer in capacity.
+
+And so I would expect to see legs up in those markets, trailing-node geometries as we look into next
+year. Longer term, we think the trailing-node geometries as a result of communications infrastructure,
+industrial, auto, Internet of Things, there's a whole host of drivers that are taking that industry structurally
+larger over time and we would expect that trailing-node geometries segment to outgrow the overall
+market over a multiyear window. So we feel good about it.
+
+In the near term, while customers are pulling really hard multiple customers, multiple nodes on the
+leading edge, you've seen a rotation from a very balanced foundry/logic market between leading edge
+and trailing-node to probably more weighted to leading-edge technologies in the current environment.
+Over time, we would expect that to moderate a bit and get back to a more balanced profile than what
+we've seen maybe in 2020 or 2021. But we do think that those markets are set up to do well. And we're
+encouraged by that because any time you broaden the growth drivers of an industry, it just makes it
+structurally stronger, less cyclical, less volatile, and we think that, that's going to benefit this industry
+significantly.
+
+From a positioning standpoint, we're well positioned competitively across that entire node profile. And so
+we're going to continue to deliver enabling technology to the market, and we'll continue to see strong pull
+from customers top to bottom across the node profiles.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+And then as the industry moves towards more innovative and complex packaging technologies, multichip
+modules, chiplet strategy, actually, in some cases, even seen the return of [ litho ] scale integration. I'm
+pleasantly surprised by the size of Applied's Advanced Packaging business, $500 million in revenues this
+year. How big is this market do you estimate? And what type of growth outlook do you guys see for this
+emerging segment of the business?
+
+Gary E. Dickerson
+President, CEO & Executive Director
+
+Yes. So as I mentioned before, the packaging part of the ecosystem is one of the key drivers. There's
+the 5 drivers that I talked about before. And then you see this being also discussed by many leading
+companies, our customers, other companies in the ecosystem, fabless companies relative to the
+importance of packaging. I definitely think if you look at the power performance and costs going forward,
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+packaging is really, really, really important. And we have a very strong position. We're #1 in advanced
+wafer-level packaging.
+
+And we're working with a number of different ecosystem partners. We talked about a partner with another
+company to deliver the first -- industry's first fully integrated solution for hybrid bonding, where you can
+connect 2 chips together in die form, and that enables shorter interconnect distance, 4x increase in I/
+O density. So there's a lot of innovation that's going to happen in that market. And we have very, very
+strong positions. If you look at just that 1 particular innovation, you need to optimize etch CMP deposition,
+wafer surface cleaning. We have metrology inspection, defect particle control that we can add to enable
+that inflection.
+
+And then we also have the center of excellence at Applied's advanced packaging technology center in
+Singapore. And we have some very large leading customers working with us on some of these new
+innovative architectures. So I'm really excited. Certainly, it's a meaningful part of our business today. But I
+think we're really at the early phase of the adoption of many of these new technologies, and we are #1 in
+advanced packaging, expanding with partnerships through the ecosystem. So I'm excited about it. I don't
+want to give a specific number right now. But I think it's going to become much more important than most
+people realize in the ecosystem.
+
+Operator
+
+Our next question comes from the line of Quinn Bolton from Needham.
+
+Quinn Bolton
+Needham & Company, LLC, Research Division
+
+Congratulations on the nice results and outlook. Just not to take anything away from what you've achieved
+this year in the foundry/logic and DRAM segments but if I look at your NAND revenue, at least in fiscal
+'20, revenue was roughly flat year-on-year, where it sounds like the overall NAND WFE may be up close to
+30%. So it looks like you've lost share this year. Wondering as you look forward, are there opportunities
+to stem that share loss in fiscal '21? Or does your outperformance really depend on continued strength in
+DRAM and foundry/logic?
+
+Daniel J. Durn
+Senior VP & CFO
+
+Yes. Quinn, I think you may be drawing the wrong conclusion. When we talked about the WFE end market
+and we talked about NAND, that's a calendar year comment. And so if you look at the first 3 quarters of
+calendar year '20, you see our NAND business up significantly more than the flat you referenced. And at
+the midpoint of our guide, we won't talk about by device type, but I think you'll see the performance of
+that business roughly in line with the overall market.
+
+It's just the peculiarities of quarters when they happen to hit and the revenue expectations within those
+quarters. And so if you look at the quarterly profile for the trailing 12 months, you'll see that the 1 quarter
+out there from a historical standpoint was quite large showing performance this year. On a fiscal year
+basis, flattish. The first 3 quarters of 2020, you see a very different number. And when we're talking
+3 months from now at next quarter's results, I think you'll see a business that's more roughly in line
+with the overall market. So we're very comfortable, confident with how we're positioned within that end
+market. And we're going to continue to drive our business and technology and look to do better over time.
+
+Operator
+
+Our final question then comes from Joe Quatrochi from Wells Fargo.
+
+Joseph Michael Quatrochi
+Wells Fargo Securities, LLC, Research Division
+
+I was curious on your prepared remarks, you talked about a long-term service agreements now, 1/3 of
+those being over 3 years. When you look at your current kind of book of contracts for your installed base,
+how do you think about that trending over the next few quarters?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+Daniel J. Durn
+Senior VP & CFO
+
+So, Joe, this has been playing out over a multiyear period. If we go back in time, at one point, 30% of
+our revenue was generated from long-term service agreements, then we grew at the 40%, then 50%,
+now you see it at 60%. I think we've got the right strategy around this business. You see those long-term
+service agreements extending out in tenure, which provides even more stability. And we're going to look
+to drive that number north off of the 60% of revenues over time. We're going to look to continue to drive
+that number north.
+
+So we'll take it 1 quarter at a time, 1 year at a time and continue to execute against our strategy but we
+see more headroom against that number and look to push this business forward in a much more stable,
+growth-oriented way.
+
+Michael Sullivan
+Vice President of Investor Relations
+
+And Dan, would you like to help us close out the call today.
+
+Daniel J. Durn
+Senior VP & CFO
+
+Yes. Thanks, Mike. I'm really pleased that in a year, we're all going to remember for its extraordinary
+challenges. Applied delivered record revenue, earnings, operating cash flow, year-end backlog. And I'd like
+to sincerely thank our employees and partners for everything they did to support our customers in that
+difficult environment.
+
+Looking into next year, just a few quick thoughts to leave you with. I think the growth opportunities for
+the semiconductor industry are bigger than ever. The industry road map is clearly moving towards our new
+playbook. And our balanced market exposure lets us perform well regardless of the spending mix. Our
+installed base business is growing and making us more resilient across the cycles. And I'm encouraged by
+the early green shoots we're seeing in display.
+
+Gary and I look forward to seeing many of you at the Credit Suisse conference next month. And until then,
+I hope you all enjoy a happy and safe Thanksgiving. Take care.
+
+Michael Sullivan
+Vice President of Investor Relations
+
+All right. Thank you very much. That concludes our conference call, and thank you for your continued
+interest in Applied Materials.
+
+Operator
+Thank you, ladies and gentlemen, for your participation in today's conference. This does conclude the
+program. You may now disconnect. Good day.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+APPLIED MATERIALS, INC. FQ4 2020 EARNINGS CALL |  NOV 12, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+

@@ -1,0 +1,895 @@
+Broadcom Inc. NasdaqGS:AVGO
+FQ3 2021 Earnings Call Transcripts
+Thursday, September 02, 2021 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2021-
+
+-FQ4 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+GUIDANCE
+
+CONSENSUS
+
+CONSENSUS
+
+EPS 
+Normalized 
+
+6.91
+
+6.96
+
+Revenue  (mm)
+
+6756.68
+
+6778.00
+
+Currency: USD
+Consensus as of  Sep-02-2021 3:20 PM GMT
+
+0.72
+
+0.32
+
+7.51
+
+-
+
+27.62
+
+30.15
+
+7239.10
+
+7350.00
+
+27285.70
+
+28827.33
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+FQ3 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+6.20
+
+6.57
+
+6.46
+
+6.91
+
+6.35
+
+6.61
+
+6.62
+
+6.96
+
+2.42 %
+
+0.61 %
+
+2.48 %
+
+0.72 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+7
+
+2
+
+ 
+BROADCOM INC. FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Hock E. Tan
+CEO, President & Executive
+Director
+
+Ji Yoo
+Director of Investor Relations
+
+Kirsten M. Spears
+CFO & Chief Accounting Officer
+
+ANALYSTS
+
+Blayne Peter Curtis
+Barclays Bank PLC, Research
+Division
+
+Edward Francis Snyder
+Charter Equity Research
+
+Harlan Sur
+JPMorgan Chase & Co, Research
+Division
+
+Harsh V. Kumar
+Piper Sandler & Co., Research
+Division
+
+John William Pitzer
+Crédit Suisse AG, Research
+Division
+
+Matthew D. Ramsay
+Cowen and Company, LLC,
+Research Division
+
+Ross Clark Seymore
+Deutsche Bank AG, Research
+Division
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+Vivek Arya
+BofA Securities, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+BROADCOM INC. FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Presentation
+
+Operator
+
+Welcome to Broadcom Inc.'s Third Quarter Fiscal Year 2021 Financial Results Conference Call.
+
+At this time, for opening remarks and introductions, I would like to turn the call over to Ji Yoo, Director of
+Investor Relations of Broadcom Inc.
+
+Ji Yoo
+Director of Investor Relations
+
+Thank you, operator, and good afternoon, everyone.
+
+Joining me on today's call are Hock Tan, President and CEO; Kirsten Spears, Chief Financial Officer; Tom
+Krause, President, Broadcom Software Group; and Charlie Kawwas, Chief Operating Officer.
+
+Broadcom also distributed a press release and financial tables after the market closed, describing our
+financial performance for the third quarter of fiscal year 2021. If you did not receive a copy, you may
+obtain the information from the Investors section of Broadcom's website at broadcom.com.
+
+This conference call is being webcast live, and a recording will be available via telephone playback for 1
+week. It will also be archived in the Investors section of our website at broadcom.com.
+
+During the prepared remarks, Hock and Kirsten will be providing details of our third quarter fiscal year
+2021 results, guidance for our fourth quarter as well as commentary regarding the business environment.
+We'll take questions after the end of our prepared comments. Please refer to our press release today
+and our recent filings with the SEC for information on the specific risk factors that could cause our actual
+results to differ materially from the forward-looking statements made on this call.
+
+In addition to U.S. GAAP reporting, Broadcom reports certain financial measures on a non-GAAP basis. A
+reconciliation between GAAP and non-GAAP measures is included in the tables attached to today's press
+release. Comments made during today's call will primarily refer to our non-GAAP financial results.
+
+I'll now turn the call over to Hock.
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Thank you, Ji. And thank you, everyone, for joining us today.
+
+In Q3, semiconductor solutions revenue grew 19% year-on-year to $5 billion, with infrastructure software
+revenue growing 10% year-on-year to $1.8 billion. Consolidated net revenue was $6.8 billion, or up 16%
+year-on-year.
+
+In Q3, demand continued to be strong from hyper cloud and service provider customers. Wireless
+continued to have a strong year-on-year compare. And while enterprise has been on a trajectory of
+recovery, we believe Q3 is still early in that cycle, and that enterprise was down year-on-year. On the
+supply side, we continue to keep our lead times stable.
+
+With that as context, let me provide more color by end markets. Starting with networking. Networking
+revenue of $1.8 billion grew stronger than we had forecasted, up 19% year-on-year versus low double-
+digit growth and represented 36% of our semiconductor revenue. The better-than-expected growth
+was driven by routing from service providers in the expansion of 5G networks for backhaul, metro and
+call as well as major share gains in ethernet network interface controllers within data centers. While we
+experienced strong orders from OEMs, consistent with a recovering environment for enterprise spending,
+we believe actual deployment of networking in enterprise are still lagging from a year ago. Our shipments
+and revenue appropriately reflects this.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+BROADCOM INC. FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+In Q4, however, we expect a different set of demand dynamics. We see cloud customers upgrading to our
+next-generation 800-gigabit base Tomahawk 4 and Trident switches. We're the first and only provider of
+25.6 terabit switches, and we are shipping 2 versions: one with 512 lanes at 50G SerDes; and we have
+256 lanes at 100G SerDes. I would like to highlight that we are the only company today shipping 100G
+SerDes.
+
+In data center switching, as in service provider routing, we continue to lead in next-generation product
+transitions as our engineers continue to out-execute what's out there. And in Q4, against a very strong
+year-on-year compare, we expect networking revenue growth to be low double digits year-on-year.
+
+Next, our server storage connectivity business was $673 million in Q3, down 9% year-on-year, in line with
+our guidance and represented approximately 13% of semiconductor revenue. As you know, our products
+here supply mission-critical applications largely to enterprise, which, as I said earlier, was in a state of
+recovery. That being said, we have seen a very strong booking trajectory from traditional enterprise
+customers within this segment. We expect such enterprise recovery in server storage. And the same is
+happening in networking to be one of the [ engines ] of growth in Q4 and into 2022.
+
+In this particular segment, customer transition to our next-generation SaaS and nVME connectivity at the
+server, exemplifying this growth. The aggressive migration in cloud to 18-terabyte hard disk drives will
+also provide a strong tailwind to demand for external storage connectivity products in this segment. In
+sharp contrast to the 9% decline in Q3, we forecast in Q4, server storage connectivity revenue to be up
+low double-digit percentage year-on-year.
+
+Moving on to broadband. Revenue of $910 million in Q3 grew 23% year-on-year and represented
+18% of semiconductor revenue. This was primarily driven by the 2x growth in deployments of WiFi 6
+access gateways as well as double-digit growth in next-generation fiber and DOCSIS 3.1 cable modem
+deployments.
+
+For Q4, we continue to expect double-digit year-on-year revenue growth in broadband, we've been seeing
+for the last few quarters. So looking ahead, we see service providers like AT&T, British Telecom and even
+Deutsche Telekom, deploying in increasing volumes next-generation last mile fiber connectivity to homes
+in the U.S. and globally. This multiyear and multibillion dollar investments by these operators and attach
+to every one of these fiber nodes, you need WiFi connectivity for the last 100 feet within the homes, and
+we lead the global transition to WiFi 6 today. We expect our strong design win momentum for WiFi 6E at
+U.S. and European operators will sustain our market position into the next generation.
+
+Now moving to wireless. Q3 revenue of $1.4 billion was up 35% year-on-year, in line with expectations
+and represented 29% of semiconductor revenue mix. In Q4, we expect wireless revenue to ramp
+approximately 33% sequentially in support of the launch of next-generation smartphones and to be up
+25% year-on-year.
+
+Finally, industrial. Revenue of $205 million in Q3 represented approximately 4% of Q3 semiconductor
+solutions revenue. Resales here grew what we consider an unsustainable 55% year-over-year, driven by
+aggressive buying from OEMs in automotive, robotics and renewable energy. As a result, inventory in our
+channels declined significantly to below 2 months. And turning to Q4, we expect resales to come down to
+a more rational 20% year-upon-year growth.
+
+And so in summary, Q3 semiconductor solutions revenue was up 19% year-on-year. And in Q4, we expect
+the momentum to continue and revenue growth to be up double-digit percentage year-on-year.
+
+Turning to software. In Q3, infrastructure software revenue of $1.8 billion grew 10% year-on-year and
+represented 26% of total revenue. Within this, Brocade grew 27% year-on-year, driven by the launch
+of new generation Gen 7 Fibre Channel SAN products. Excluding Brocade, Broadcom software revenue
+grew 6% year-on-year. In dollar terms, bookings averaged 116% over expiring contracts, while in our
+core accounts we averaged 129%. Over 9% of these bookings represented recurring subscription and
+maintenance revenues. Reflecting these renewals, we expect our infrastructure software revenue to be on
+track to grow around mid-single-digit percentage year-over-year, which is, again, what we expect to see in
+Q4.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+BROADCOM INC. FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+So in summary, combining a strongly growing semiconductor segment with a more stable software
+segment, total Q3 net revenue grew 16% year-on-year, and we expect this double-digit growth to sustain
+in Q4 and total revenue to be $7.35 billion or up 14% year-on-year.
+
+And with that, let me turn the call over to Kirsten.
+
+Kirsten M. Spears
+CFO & Chief Accounting Officer
+
+Thank you, Hock. Let me now provide additional detail on our financial performance.
+
+Revenue was $6.8 billion for the quarter, up 16% from a year ago. Gross margins were 75% of revenue
+in the quarter and up approximately 85 basis points year-on-year. Operating expenses were $1.1 billion,
+flat year-on-year, driven by lower SG&A and continued investment in R&D. Operating income for the
+quarter was $3.9 billion and was up 24% from a year ago. Operating margin was 58% of revenue, up
+approximately 360 basis points year-on-year. Adjusted EBITDA was $4.1 billion or 61% of revenue. This
+figure excludes $134 million of depreciation.
+
+Now a review of the P&L for our 2 segments. Revenue for our semiconductor solutions segment was $5
+billion and represented 74% of total revenue in the quarter. This was up 19% year-on-year. Gross margins
+for our semiconductor solutions segment were approximately 70%, up 110 basis points year-on-year,
+driven primarily by favorable product mix and content growth as we deploy more next-generation products
+in broadband and networking.
+
+Operating expenses were $783 million in Q3, flat year-on-year. R&D was $693 million in Q3, up 1%
+year-on-year. Q3 operating margins increased to 54%, up 410 basis points year-on-year. So while
+semiconductor revenue was up 19%, operating profit grew 29%.
+
+Moving to the P&L for our infrastructure software segment. Revenue for infrastructure software was $1.8
+billion and represented 26% of revenue. This was up 10% year-on-year. Gross margins for infrastructure
+software were 90% in the quarter, up 125 basis points year-over-year.
+
+Operating expenses were $359 million in the quarter, up 1% year-over-year. R&D spending at $226 million
+is up 9% year-over-year, and SG&A of $133 million is down 11% year-over-year. Operating margin was
+70% in Q3, up 305 basis points year-over-year; and operating profit grew 15%.
+
+Moving to cash flow. Free cash flow in the third quarter was $3.4 billion, representing 51% of revenue.
+We spent $115 million on capital expenditures. Days sales outstanding were 30 days in the third quarter
+compared to 42 days a year ago. We ended the third quarter with inventory of $1.2 billion, an increase of
+$156 million or 16% from the end of the prior quarter in preparation to meet customer demand in Q4. We
+ended the third quarter with $11.1 billion of cash and $40.5 billion of total debt, of which $279 million is
+short term.
+
+Turning to capital allocation. In the quarter, we paid stockholders $1.6 billion of cash dividends. We also
+paid $347 million in withholding taxes due on vesting of employee equity, resulting in the elimination of
+approximately 739,000 AVGO shares. We ended the quarter with 412 million outstanding common shares
+and 449 million diluted shares. Note that we expect the diluted share count to be 448 million in Q4. Our
+Board of Directors has approved a quarterly cash dividend on our common stock of $3.60 per share in Q4.
+
+Based on current business trends and conditions, and to reiterate what Hock has said, our guidance for
+the fourth quarter of fiscal 2021 is for consolidated revenues of $7.35 billion and adjusted EBITDA of
+approximately 61% of projected revenue.
+That concludes my prepared remarks. Operator, please open up the call for questions.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+BROADCOM INC. FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of John Pitzer from Credit Suisse.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Hock, I'm just kind of curious, you kind of did what you said you were going to do 90 days ago. But this
+is usually the part of the cycle, especially on the semi business, where I would expect -- I would have
+expected more upside. And clearly, when you look across the sector, most companies are putting up
+an upside that you guys didn't see in the July quarter. So I'm kind of curious if you can help us better
+understand what happened. Do you think that this was mostly a supply issue?
+
+And given that inventory grew 15% sequentially in the quarter, to what extent do you think now that
+you're kind of got that under control, and going forward, you'll have a better supply environment to fulfill
+this demand?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Well, I mean, supply is always something that is very much an issue of constraint in this environment, as
+you well know. But the other side of the picture is we rallied shipping. As we have said in previous calls
+several times, we are -- to put it directly, we are shipping to exactly, we believe, to what demand requires.
+By that, I mean, end-user demand requires. We are trying very hard not to over-ship and end up building
+pockets of excess inventory within our ecosystem. So I think we're managing very much to what we see
+out there.
+
+Operator
+
+Our next question comes from the line of Harsh Kumar from Piper Sandler.
+
+Harsh V. Kumar
+Piper Sandler & Co., Research Division
+
+Yes, Hock, first of all, congratulations on the solid results guidance.
+
+A question for you is, everybody's favorite foundry, TSMC, is talking about price increases. In some cases,
+they are substantial. Do you feel that you can pass this along? And also, at this point in time, companies
+are probably securing capacity for next year. Can you talk about your capacity -- your ability to get some
+extra capacity to be able to grow next year?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Okay. I mean very interesting questions asked. First and foremost, from our side, we try not to talk about
+customers, specifically, and the same applies very much to strategic suppliers, too. So I won't comment at
+all on what you alluded to here.
+
+But as far as our capacity for 2022, I think we have gotten a pretty good supply availability lineup for
+2022. And we feel pretty okay about that. I won't say great, but in this environment, all things considered,
+we're feeling quite good.
+
+Operator
+
+Our next question comes from the line of Ross Seymore from Deutsche Bank.
+
+Ross Clark Seymore
+Deutsche Bank AG, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+BROADCOM INC. FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Hock, I want to touch on the enterprise business. You mentioned it a couple of different times when you
+were talking about both networking and your server storage connectivity segments. So I guess a two-part
+question.
+
+One, how much of your semiconductor business do you believe is enterprise exposed? And two, when do
+you believe that will return to year-over-year growth? And is that a specific thing to Broadcom with your
+product cycles? Or is it just the end markets returning to year-over-year growth at that time?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Okay. Well, enterprise -- traditional enterprise, as we define it, and I think I made a point of purposely
+demarcating the fact that in semiconductors, which -- focusing on semiconductor segment by itself, you
+can literally look at our data -- revenue selling into 3 distinct elements, right? One is cloud and service
+providers, which we clump together as one, and then there's consumer, which is very much our wireless
+business. And then the rest of companies out there, enterprises, we call traditional enterprise. So we
+do put telcos, service providers to make it clear, as part of cloud in that category. So we break it into
+3 categories. And under that measure, enterprise represents about half -- just around half of the total
+semiconductor revenues.
+
+And to basically answer your question, which I did indicate in my remarks on server storage end markets
+for our semiconductor business, we have seen an improvement year-on-year of revenues in this -- in
+server storage, which is 80%, at least 90%, driven by traditional enterprise. So they are a very good
+indicator of what traditional enterprise is showing.
+
+We have seen it show of improving year-on-year compares, and ending with -- and the latest Q3 still
+high -- mid- to high single-digit decline from a year ago. But we did also guide that because of strong
+bookings that we have been seeing now for the last 3 months, at least from enterprise, which is going
+through largely on the large OEMs, who particularly -- who integrate the products and sell it to end users,
+we are going to likely expect enterprise to grow double digits year-on-year in Q4. So we see the point of
+crossover probably now Q4.
+
+Operator
+
+Our next question comes from the line of Edward Snyder from Charter Equity Research.
+
+Edward Francis Snyder
+Charter Equity Research
+
+Hock, following up on that same question. Last quarter, you were predicting -- or you thought the
+excellent growth you've seen in cloud server providers and telcos might lighten up next year as they
+digest that as enterprise started to grow, and there'll be kind of a mix shift there. But it sounds like that
+isn't lightening up and enterprise is coming back a bit sooner.
+
+Do you think any differently now about telcos and service provider in the cloud? Will that last longer? Do
+you still expect to maybe lighten up in 2022? And how long do you expect -- enterprise has been down for
+quite a while now, the enterprise upward trend to last? I'm just trying to get a feeling what the profile of
+demand looks like in your core business next year.
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Sure. Happy to do that. What we are seeing now -- or what we expect to see in 2022 in terms of broad
+direction is, we see -- in telcos, service providers are running well, quite hot, and it looks like they are
+sustaining as opposed to perhaps rolling over. They seem to be sustaining where we are right now.
+And regarding enterprise, it's pretty much what we had indicated before and continue to see, which is
+a continuing trajectory of improving demand -- spending and demand. And we see that continuing to
+improve and grow next -- this coming quarter, Q4 and beyond.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+BROADCOM INC. FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+In fact, I would say that the engine for growth for our semiconductor business in 2022 will likely be
+enterprise spending, whether it's coming from networking, one sector for us, and/or from server storage,
+which is largely enterprise, we see both this showing strong growth as we go into 2022. While, just
+to repeat myself, we see telcos and service providers not rolling over, just hanging up there at a very
+elevated level.
+
+Edward Francis Snyder
+Charter Equity Research
+
+Does that imply you expect the cloud to lighten up a bit then, too? Because you just called out service
+providers and telcos, but you kind of avoided talking about the cloud?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+No, I use service providers sometimes to say, cloud as well. Now we see cloud also hanging out together
+with service provider -- together with the telcos.
+
+Operator
+
+Our next question comes from the line of Stacy Rasgon from Bernstein Research.
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+I wanted to ask you about capital allocation. Obviously, while half the cash flow goes to the dividend, the
+other half goes, I mean, ideally to M&A or buybacks. And it's been a while since, obviously, you executed
+M&A, and we're kind of getting towards the end of the year.
+
+At what point do you kind of make the decision to give up on M&A this year and start buying back stock?
+Or do you save the cash like for like a potential deal next year? Just how do we think about your mindset
+around M&A environment versus just using the cash for buybacks, and then maybe starting the cycle over
+again at some point as we get into next year?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Well, it's not the first time I got this question. I got it last quarter, and the quarter before, and I told
+you guys, and I stick by that answer still now, we're running it until the end of this fiscal year, which is
+October, November. And we'll make the call at that time, whether we use the cash to buy or we use the
+cash, either to buy -- to do an M&A or to buy back our shares.
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Does that mean that you have to have a deal in mind in October, November? Or could the call be to save
+the cash for something in the future? Or like if you don't have a deal on the books in October, November,
+do we see a buyback?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Well, probably, play the simple way as far as saying that -- as you correctly say, we're accumulating cash
+at a fairly dramatic rate. And so by the end of October, our fiscal year, we'll probably see the cash net of
+dividends and our cash pool to be up to close to $13 billion, which is something like $6 billion, $7 billion,
+$8 billion above what we would, otherwise, like to carry on our books. So we have to make a call at that --
+a decision at that point.
+
+Operator
+
+Our next question comes from the line of Harlan Sur from JPMorgan.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+BROADCOM INC. FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+Congratulations on the strong quarterly execution and results.
+
+Strong free cash flow generation in Q3. You gave us the EBITDA profile for Q4. And if I use normalized
+assumptions on cash interest payments, cash taxes and CapEx, it looks like the team is going to generate
+about $13.7 billion-ish, roughly, in free cash flow this fiscal year which roughly translates into a dividend
+increase to at least $16.70, maybe a bit more, if the team continues to return 50% of the free cash flow.
+
+I guess my question is, on Q4, are there any onetime cash events timing-related dynamics, CapEx
+increases or tax-related events, which we should be considering? Or is my free cash flow and dividend
+math roughly correct?
+
+And then just a quick follow-up. The team has a fairly large footprint of logistics, warehousing and key
+suppliers for assembly and test in Malaysia. Just given the significant uptick in COVID-19 cases there, is
+the team being impacted by potential facilities closures? Or how is the team mitigating this impact?
+
+Kirsten M. Spears
+CFO & Chief Accounting Officer
+
+Well, I'll take that first question that you asked, and then I'll have Hock take the second one. Essentially,
+we -- our policy isn't changing. We're going to return 50% of our free cash flows to our shareholders. And
+I would say your math is pretty good.
+
+Hock E. Tan
+CEO, President & Executive Director
+
+You're spot on, Harlan, on your math, almost.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+Thank you.
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Right. In terms of the concern that you expressed about the resurgence of COVID-19 infections in
+Malaysia, where we have -- correctly say have a large supply chain team located, you're right. It's
+challenging, but we are managing very well, I think, our teams there. I would say, practically, 99% of
+our people in Malaysia have been vaccinated. We made arrangements with the Malaysian government
+and ensured that this was done. And this has been done, and so we are able to manage through this
+resurgence in Malaysia. And we will continue to keep our eye very closely on conditions over there, but for
+now, I think we are okay.
+
+Operator
+
+Our next question comes from the line of Vivek Arya from Bank of America.
+
+Vivek Arya
+BofA Securities, Research Division
+
+Actually, I just wanted to clarify something, and then have the question. On the clarification, I think, Hock,
+you mentioned you're shipping to demand. Does it mean you're not seeing any supply shortages? Then
+that would be very different than what we're hearing from every other semiconductor company. So I just
+wanted to make sure I had the right interpretation.
+
+And then my question is, just kind of the long-term growth rate for Broadcom. In the past, you have
+mentioned kind of this mid-single-digit kind of growth rate. I understand that this year, right, compares
+to make it easier to grow faster than that. But as you look at Broadcom over the next handful of years,
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+BROADCOM INC. FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+do you think you are in a situation to grow better than mid-single-digit growth rate? Like what is missing
+to make you upgrade, right, that mid-single-digit growth rate, the conceptual forecast that you have
+provided in the past?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Okay. Let me take the first question first -- the first part of the question first because I think it's very
+important and very interesting. It ties into the first question by John Pitzer is, "Hey, why are you guys not
+shipping like crazy? Are you supply constrained?" That's always overhanging our care about making every
+wafer count in this environment, and we do that very carefully. And we do that, I believe, very well given
+-- looking at how well our margins are performing in this environment. But we also are always, as I said
+before a few times, the way we manage our supply chain, we pretty much like to carefully scrutinize end
+demand as defined by ourselves, which is what -- the end-user who need those products.
+
+What we also see, and I mentioned that in our Industrial segment in 2000 -- in Q3, where resale from a
+distributor -- as you know, industrial generally goes through -- pretty much go through distributors. The
+OEM -- the end users just go to our distributors and wipe out our inventory, most our inventory there. So
+we show a resale growth of 55%, and we all know that's not real demand. People are building up buffer.
+There's a certain level of panic buying. Take that across all segments of semiconductor markets today.
+You see that kind of behavior, unless you -- as core key suppliers, we put in careful discipline to manage
+supply to where demand is really needed as opposed to where OEMs or even end users are just building
+up buffers -- bucket of buffers everywhere. And that's pretty much what we spend a lot of our time doing.
+
+I cannot necessarily say the same of many other semiconductor companies out there, which is probably
+why John Pitzer is saying, "Well, why are people showing bigger numbers?" We can show bigger numbers,
+but that means we will build up inventory in the wrong places. And we need every one of those wafers
+in this environment, not just this quarter, but next quarter and the quarter after that to ensure that our
+strategic customers are able to get what they need to launch, to deploy programs. All right?
+
+Vivek Arya
+BofA Securities, Research Division
+
+And on the long-term growth rate, Hock?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Oh, on the long -- sorry, I missed that. I get the most -- well, we like -- I like to believe, like some of you
+do, that with this recent event and with these things happening, especially COVID-19 creating a change
+of work habits in this -- in our ecosystem, there is a reset upwards towards a higher consumption of
+technology, and by expansion, semiconductor chips in the long term.
+
+I agree, there has been an accelerated adoption of certain technologies under these lockdown conditions
+in our lifestyle, economy, over the last 12 -- in the last 18 months. That this accelerated adoption of
+technology has created a strong grow -- demand for semiconductor products over these 12 months. I
+agree, and we report those results which we believe are true end demand, as I indicated in my brief --
+earlier part of my answer to your question. That it's now up to high -- mid- to high double-digit teens,
+so to speak, year-on-year. That's good. That's very strong. That's a far cry from my model that says
+semiconductor growth long-term mid-single digits.
+
+But this accelerated consumption does not necessarily create a fundamental shift in our people's ability to
+consume technology. And when things revert back towards a more normal lifestyle, maybe not this year,
+maybe next year or the year after, I would expect this accelerated consumption would reset itself. And
+then you ask yourself fundamentally over the next 10 years -- 5, 10 years, is semiconductor consumption
+usage going to increase any higher? I find it hard to imagine why it shouldn't if fundamentally we have an
+industry that's relatively matured, still evolving, still changing, which make it exciting for us, but pretty
+much been around -- fairly much a long time. And it's -- I may be wrong. I still think it will revert over the
+next 5, 10 years back to a norm.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+BROADCOM INC. FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+And the question -- your view is, will that norm be high single digits, perhaps, rather than mid-single
+digits? And you may be right. I don't know the answer to that. But right now, you're right. We are seeing
+15% to 20% year-on-year demand usage of our semiconductor chips. And by the way, we are pretty
+broad across multiple end markets in applications of semiconductors. So we kind of represent a large part
+of the overall semiconductor growth. And now there may be particular -- that could grow faster than that
+mid-single digits, and I do accept that. But given how broadly broad-based we are, I tend to think we'll
+revert to what will be the norm. And I cannot disagree with you that the norm might be higher than the
+mid-single digits I've said before.
+
+Operator
+
+Our next question comes from the line of Blayne Curtis from Barclays.
+
+Blayne Peter Curtis
+Barclays Bank PLC, Research Division
+
+I want to ask you on broadband. It's been running kind of in the 20s year-over-year. You said up double
+digits for Q4. I think last year is an easy compare, so I just wanted to know how literally to take that. I
+know you said maybe over time that would be the one segment that could moderate. Just want to know if
+you're signaling anything for October.
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Okay. No, broadband is hot, to cut to the chase. It's hot. It's hot, driven by 2 things, and I articulated
+that in my remark: WiFi, WiFi 6. And WiFi is a big area now that operate -- service providers basically
+operate -- the telcos and cable operators are using, as part of connectivity, to households globally. And
+that's -- and we have literally won again a huge part of that market successfully. And we're seeing that
+trend continuing into next-generation WiFi 6E.
+
+But what's also driving WiFi -- broadband, I should say, Blayne, and I mentioned that, is fiber. Fiber is
+multi -- several large telcos, Europe, U.S., are investing very big in putting fiber out there to households.
+It's particularly driven, I guess, to some extent, by political considerations. They want to connect
+households very well. You hear about British Telecoms are openly saying they want to -- they have a
+program over the next 5, 6 years to connect over 20 million British households. Deutsche Telekom is doing
+exactly the same thing, and so is AT&T here in the U.S., where they have very large program.
+
+And these are, as I indicated, multiyear programs, where each of this operator will spend multiple billions
+of dollars of investment to put that fiber out to the home. And at the end of each node -- fiber node, you
+have that wireless connectivity, WiFi, within for the last 100 feet in the home. So what I'm implying here is
+saying, this is not a one-shot thing. And the thinking in the past that fiber is a kind of boring, single-digit
+slow growth business, big changes from our perspective because we are seeing the program from those
+operators coming. And a big part of it is both U.S. and Europe putting in large broadband in the form of
+fiber because it's the most effective way, in some ways, economic way, to expand to households and hand-
+in-hand with 5G network wireless networks out there.
+
+It's also very interesting for us, market share-wise, because you used to talk about China doing broadband
+fiber. Today, it's beyond that. It's Europe, U.S. And the number of players fighting in this market on
+technology is much less now given the interesting political events between China and the rest of the world.
+
+Operator
+
+Our next question comes from the line of Matt Ramsay from Cowen.
+
+Matthew D. Ramsay
+Cowen and Company, LLC, Research Division
+
+Hock, I noticed in your prepared script that you were a bit more specific about some of the leadership
+position that Broadcom has in different levels of advanced SerDes, and you maybe called it out a bit more
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+BROADCOM INC. FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+than you had in the past. It's an advantage the company has had in your own switching routing products,
+but also in being the ASIC -- preferred ASIC shop for a few hyperscale folks.
+
+I wonder if you might -- did you call that out on purpose? Was it -- is there something changing there
+competitively given the scale of your R&D? Do you feel like that lead is expanding, shrinking, staying the
+same? Any update there would be great.
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Well, that's very perceptive of you, Matt. And the only reason I called that out is because it's true and it's
+been true for many years. And I just want to reemphasize this point that in terms of being probably the
+preferred vendor for specialized silicon engines to drive specialized workloads, and I have indicated to you
+guys what some of those are, especially in hyper cloud. We are -- we definitely are in the lead by far in
+this area, and for the reasons you mentioned.
+
+We have the scale. We have a lot of the IP calls and the capability to do all those chips for those multiple
+hyperscalers who can afford and are willing to push the envelope on specialized -- we call -- I used to call
+it offload computing engines, be they video transcoding, machine learning, even what people call DPUs,
+Smart NICs, otherwise called, and various other specialized engines and security hardware that we put in
+place in multiple cloud guys. Just a point of, I guess, reinforcement that we still very much are the leader.
+
+Operator
+
+Thank you this. At this time, I would like to turn the call back over to Ms. Ji Yoo for closing remarks.
+
+Ji Yoo
+Director of Investor Relations
+
+Thank you, operator.
+
+In closing, please note that Hock Tan will be presenting at the Deutsche Bank Technology Conference on
+Thursday, September 9, and the Citi Technology Conference on Tuesday, September 14. Kirsten Spears
+will participate in the Piper Sandler Tech Conference on September 13.
+
+We will also be hosting a Broadcom Software Investor Meeting on Tuesday, November 9, in New York.
+Tom Krause, President of Broadcom Software Group, will be leading the event, and senior leadership from
+our software business will present. We will be sending invitations to analysts and investors in the coming
+weeks.
+
+That will conclude our earnings call today. Thank you all for joining. Operator, you may end the call.
+
+Operator
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+BROADCOM INC. FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+

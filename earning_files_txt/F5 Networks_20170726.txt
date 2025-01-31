@@ -1,0 +1,188 @@
+Thank you, Andy, and good afternoon, everyone
+While we delivered year-over-year growth of 4% and strong profitability in the third quarter, our product revenue performance fell short of our expectations
+The reacceleration of product revenue growth remains our number one priority, and we believe we are well-positioned to deliver on this over the coming periods
+Customer adoption of our recently introduced products remains strong and our revenue is increasingly coming from more diverse sources, including Virtual Editions, public cloud solutions, and application security
+On the overall demand environment for our core ADC solutions, the cloud continues to cause some degree of pause while certain customers evaluate their application architectures and deployment options
+Our conversations indicate many organizations are still trying to assess the true benefits of the cloud balanced against the true cost
+Additionally, some customers remain undecided about how to work with large cloud service providers and avoid lock-in with one vendor, which we believe is increasing the exploration of hybrid and multi-cloud deployment
+Over the long term, we believe the complexities and security risk of multiple deployment environments play to our strength
+They require the types of advanced application services we excel at providing
+As customer needs evolve, we are accelerating our efforts to meet their requirement for our solutions across various deployment environments and consumption models
+While we have already made significant progress on these fronts, we recognize the need to move even faster to ensure we provide our secure application services in the way customers demand now and in the future
+Taking a closer look at third quarter results, the EMEA theater again underperformed relative to our expectations
+Conditions in the UK did not improve during Q3, and we saw headwinds in this market from a further slowdown in government activity
+In addition, we are seeing several European-wide regulatory initiatives around data protection and usage creates short-term disruption in spending
+We have taken a number of steps to ensure our resources are properly aligned to growth opportunities across territories and customer verticals
+Our security solutions delivered solid growth in the third quarter
+We saw strength in our firewall offerings into the service provider vertical where we believe we continued to gain market share
+We saw additional purchases from a large U.S
+service provider who is deploying VIPRION Gi firewalls across their mobile switching centers, as they provide significant scalability and performance over the customer's legacy vendor
+In North Africa, a major telecom provider building out its LTE network is utilizing a VIPRION deployment to support multiple features, including Gi firewall, DDoS and application security
+Within the enterprise vertical, attach rates for security modules remain high, and we had a number of wins around our web application firewall offering
+This includes a large North American IT services management company that is implementing our WAF solution across iSeries appliances to protect against layer 7 attacks and provide compliance with security audits and PCI
+As mitigating application level threats and ensuring policy consistency takes on increasing priority for our customers, security has become a key driver for F5. As it relates to supporting customers that have begun to make architectural decisions around moving workloads to the cloud, we are encouraged by the early signs
+It is clear from our conversations with customers that they value the programmability and flexibility that TMOS and iRules provide
+During Q3, we completed a deal with a large U.S
+federal agency as a part of their process to lift and shift some of their applications to the public cloud
+This involved the purchase of a significant number of VE licenses as the customer transitions some of their applications from our hardware ADC platform to our virtual offerings, both on-prem and in the public cloud
+During the third quarter, we introduced several exciting new solutions aimed at helping our customers manage their applications in a multi-cloud world
+These solutions give customers the freedom to deploy any application anywhere with consistent application services and enterprise-grade security
+Key new releases included BIG-IP Virtual Edition for the Google Cloud Platform
+This release means that organizations can now deploy F5 services in all major public clouds with Bring-Your-Own-License offers for instances ranging from 25 megabits per second to 5 gigabits per second
+Container Connector supports the easy deployment of application services in containerized environments and simple integration of capabilities into management and orchestration systems
+Application Connector inserts application services from the edge of the public cloud and securely connects any public cloud provider to the customer's interconnection or data center
+In the case of AWS, Application Connector can automatically discover workloads for application services insertion
+I want to take a moment to share some of my impressions from my first four months at the company and my thoughts on the significant long-term opportunity I see for F5. Since joining in early April, I have spent considerable time meeting with customers across verticals and theaters
+Throughout these conversations, customers told me F5 is a key partner as they evolve their application architecture to support emerging hybrid and public cloud environments
+They value F5's ability to enable consistent application services across environments, ensure applications are fully secured and compliant and protect them against cloud lock-in
+One of the changes we are seeing is the demand to consumer technology in multiple deployment models, including private cloud, public cloud, software-only and various subscription and pay-as-you-go models
+I believe these new environments and consumption models for application services will create a meaningful opportunity for growth in our market
+As a company, we have already begun to refocus our energies around supporting the varied application deployment environments and consumption models our customers are demanding
+This focus is evident in our recent product introductions that help customers better navigate a multi-cloud world
+It is also evident in the new subscription pricing for Virtual Editions we introduced at the beginning of July
+By putting more structure around our subscription offering, we can better engage customers across a spectrum of potential consumption models
+Improving the ease of consuming our solutions is expected to open new customer opportunities and we are encouraged by the initial response
+We are at the early stages of an evolution from a largely appliance-based ADC company selling perpetual licenses to a diverse secure application services company with a breadth of hardware, software and subscription-based services
+While this evolution will not happen overnight, ensuring we are taking the necessary steps to remain the clear leader in delivering application services is where I am devoting my time and where we as a company will be devoting our development and go-to-market resources
+Before concluding, I want to recognize the contributions of Julian Eames, F5's Chief Operations Officer and Executive Vice President, who will be retiring after the end of our fiscal year
+Julian joined F5 in 2000 when the company boasted just over 500 employees and became part of the executive team in 2001. Julian has been a driving force behind developing a world-class services organization that now stands at over 1,200 people and generated over $1 billion in revenue in fiscal 2016. Julian will remain actively involved in his day-to-day operations until his retirement, and we have begun the process of finding his successor
+I know I can speak for the entire F5 team in expressing my gratitude for Julian's contributions and wishing him the very best in his retirement
+Finally, I'd like to thank the entire F5 team, our partners and customers for their support last quarter
+With that, we'll now hand the call over for the Q&A
+Question-and-Answer Session
+Thank you, Jess
+Look, I'll take the first one on product growth
+So where we are in the iSeries refresh cycle, we're about three quarters into the cycle
+And typically, in the past, we've seen an acceleration in product growth once we are further into the cycle and iSeries represent a higher percentage of our sales
+We are tracking – as you look at the percentage of our appliance sales that are represented by iSeries, we're actually tracking to prior growth cycles or prior product cycles
+And that's part of what gives us the confidence that we can have product revenue growth in coming quarters
+I think the shift to virtual isn't necessarily what we think is holding us back
+As it relates to this quarter in particular, we didn't have the performance that we expected out of a couple of geographies; EMEA and Japan, but EMEA more specifically
+And that's fairly specific to some macro environment challenges in the EMEA, some to do with the regulatory environment, specifically in the UK and more pronounced in the finance vertical
+So that's what really, for us this quarter, led us to not be in the range that we expected in revenues
+But, generally, our appliance sales are tracking as we expected it to be
+We continue to see growth in our Virtual Edition offerings, both because of private cloud and now increasingly because of public cloud
+And as we get further into the cycle, our expectation is to continue to see product revenue growth
+So, a couple of areas
+So, first of all, let me comment on the pause and then I'll come back to your comment on marginalization
+No, we are definitely seeing that some deals are getting pushed out as some of our customers think through their architectures
+And we have customers across the spectrum, so we have a number of customers who 9 or 12 months ago would have said, hey, we're moving everything to the cloud, and it created a significant pause in the their spend
+And they've now made that decision, they've moved to the cloud and come back and their spend is actually healthier with us than it was prior to them going through the cycle
+We have a number of customers and we're seeing more of them that are now going through the cycle and, as a result of that, are pushing decisions because they're revisiting their architecture decisions
+In a number of cases, these are not deals that we're losing
+We have visibility into these deals, we're not losing them, but they're being pushed out
+And that's why we're using this term that we're seeing a pause
+As it relates to marginalization, to your point around do we feel F5 is being marginalized, I don't think so
+And I think you have to parse the market a little bit
+For the customers that we have typically served and, typically, those customers have large and complex workloads, when they're moving to either private cloud environment or a combination of private cloud and public cloud, we are involved in the conversation, and we feel we have a very strong win rate and we have relevant offerings to support them
+So I don't feel that there's any marginalization going on with our existing customer base
+There are, however, a number of applications that are being basically bought in the cloud, but created directly in the cloud that are perhaps typically less complex workloads than we have served
+These are, for us, significantly new opportunities, as the world goes more digital, more and more applications
+And I would say, yes, in that environment, we are not yet participating to the degree that, eventually, I would like us to participate, but that's essentially an opportunity for us to extend our addressable market that we are going to look at how we can execute against that
+Brian, we're not guiding for next year
+But I would say we're pretty confident we will see product revenue growth in 2018.
+Thank you, Jim
+So, I think there are two effects in Europe from what we're seeing
+One is a bit of the uncertainty that the regulatory environment is creating
+There are things like regulation around data protection and all the regulatory, specifically, in the finance vertical, that is causing folks to think about location of data centers, what their hybrid cloud environments are going to look like, et cetera
+That's the macro environment and we don't control that or how a real prediction into that other than we know that a lot of this regulation should be settled in the early parts of 2018. There are also some things that we believe have more to do with the execution of F5, so the more internal
+And on those aspects, yes, we are taking actions
+We believe that, in some cases, we have probably too many people in some geographies where there's not enough opportunity and not enough people and geographies where we see growth opportunity
+So we are realigning our resources against the best geographies and verticals
+I think as I said on the last call, because it's Europe, this typically takes a significant amount of time
+It's not – it doesn't happen overnight
+And we're also making sure that we're enabling our teams in Europe, both enabling and training our teams in Europe for the new opportunities that we're seeing around hybrid cloud environments, for an example
+So, there are some things we're doing internally that we believe will help and contribute
+And then the macro environment, we think, for the next six to nine months, we don't expect a significant improvement in the macro
+We have a pretty strong process that goes bottoms-up against pretty much every geography and vertical, and we continue to be thorough about it
+We're being a bit more cautious about EMEA this quarter
+We're not expecting, as I said, any improvement in the region, and so we've factored that into our guidance
+But the process has been quite thorough as it had been from prior quarters
+The other area that I would flag is in the federal space, there's a bit of timing uncertainty linked to the delay in the budget approval here in the U.S
+And we have factored that uncertainty in the federal space as well in our guidance
+Thank you, Jim
+I'll start on the – Paul, on your first question
+Andy will take the second one
+On the non-U.S
+federal, I think in the UK, we also saw this quarter some delays
+Well, I mentioned the delays in certain deals earlier
+In the UK, we had some government deals that were delayed a little bit
+Our non-U.S
+federal number isn't very large, so there'll be an element of ebbs and flows quarter-on-quarter
+But, specifically, this quarter, I think that was a factor
+Rod, yeah, just a correction, what I said was that we were three quarters into the cycle not three quarters of the way through
+And it's typically eight quarters – six to eight quarter cycle
+So we haven't reached the midpoint of the cycle yet
+We've just actually crossed the point where iSeries this quarter represented more than 50% of our appliance sales
+In the past, we've typically seen that acceleration when we're closer to the 80% mark of our total appliance sales
+So, to be clear, we think it's an eight-quarter cycle and we're about three quarters into it
+I think if you look at how this cycle is tracking and we track that fairly closely in terms of what percentage of our total sales are with the new platform
+It's tracking very, very closely to what we saw in the prior cycle
+So it looks to be taking the same shape
+There are some differences in the – obviously, in the environment
+Last time we did a refresh, ACE replacement actually happened – the Cisco ACE replacement happened in the similar timeframe and so that gave us an additional boost
+That's much less the case here
+And also, as we've said before, we're saying that some of the deals getting pushed out as a result of the evaluation of cloud architecture
+So, there are some things in the environment that are different to what we had a few years back
+But in terms of how the cycle is tracking relative to what we've done in the past is very similar
+And the other thing, Troy, is you're looking at an aggregate number
+You heard me talk about Europe, and I said we're realigning resources against opportunities
+When we talk about the evolution of our offering towards subscription, virtual environment, et cetera, again, that requires some alignment of resources towards these opportunities
+So don't mistake the total number in quarter for a lack of activity around hiring folks on what we believe are some very exciting growth opportunities for the company
+Thank you, Troy
+Thank you, Meta
+On the first question, yes, actually, we are seeing a higher demand for best bundle than we would have in prior cycles, and that's largely because securities is important and increasingly important
+One of the things that the cloud does is it dissolve the perimeter, and our solutions for security are application centric; they're not perimeter-based solution
+And that's actually one of the reasons we're doing well with security and seeing more and more opportunities
+So, the best bundle is actually the – we're seeing higher demand for that, which you can translate into we're seeing a higher security attach rates to our solution, which we actually think is a very good growth driver
+As it relates to partnership and acquisitions, look, our philosophy about this has been and frankly is going to be, we want to have very strong organic plans for addressing the high-growth opportunities in our market, which essentially revolve around the cloud and security
+And part of the resource shift that we talk about really relates to how we accelerate our execution organically against these opportunities
+That being said, if we believe there's opportunities to accelerate that inorganically that makes sense for us, whether it's partnership or acquisitions, we will do that
+We have a number of partnerships in place already in the ecosystem both with cloud providers and a number of IT – other IT players that help us, but we won't roll out doing some things in the marketplace if and when we see an opportunity
+No, it makes sense
+I understand the question
+So, the reason we're saying it's tracking after prior cycle is really a key metric for iSeries is the adoption of the product in the customer base as in do our customers see good reasons to adopt this new platform and refresh their environment? And the best way for us to measure that is to look at the percentage of our total appliance sales that come from this new platform
+And when you look at that percentage quarter-on-quarter, we're tracking pretty much exactly with prior quarters
+Now, to your second question, which was
+Thank you, Andy
+That's largely because, in the past, that has been the point at which customers have made the initial deployments of this new platform, they've done the necessary software upgrades and test and proof-of-concept, they're a bit unfamiliar with the platform and they get into the mode of more repeat purchases and that's where we typically see an acceleration
+That's what we have seen in the past and that's why we've looked at that 80% marker as a good indicator of the point in the cycle where we see this
+As I said, again, the environment is different now than it was in the past, but if you look at these metrics we're tracking
+The only thing, Jeff, that I would add is, whilst we look at the refresh cycle as a growth opportunity for F5, I think we also want to be clear that that is not solely what we see as the medium to long term growth driver for the company
+And I want to be very, very clear with that, that we see the number of applications being deployed in private and public cloud and specifically in virtual ADC market, we see that as a growth market
+And a big priority for us is to make our solutions easy to consume, remove any friction there is in consuming our solutions in different environments because we believe that is going to open additional opportunities for us, specifically, in the virtual ADC space
+And that I see as a growth driver for the company
+The other important growth driver is application-centric security
+It is a bigger issue
+We're seeing more and more attach rates to our solutions
+We're seeing more security stand-alone opportunities
+We have best-in-class web application firewall capabilities
+We're seeing strong demand for that
+And we think, with the cloud, there's going to be even more of a need for application-centric security
+So, beyond the refresh, I see these two as important drivers for the medium to long term for us
+So GDPR is one of the elements that we've seen as uncertainty – yes, creating some uncertainty in Europe
+No
+Attrition are in line with historical levels
+In fact, attrition is much better than it was even a couple of years ago
+So, no, we're not seeing that
+Yes
+So, I'll take the security question and Ryan Kearny will talk about what we're doing about containers
+So, yeah, the position that we have that's actually quite unique in the security space is, as I said, number one, that we – unlike a number of other players, we're not a perimeter security company
+We're more of an application security player
+And one of the benefits that that gives us is we have the ability to see data in the line of the application of between the user and the application
+And because of the capabilities in BIG-IP in terms of scale and throughput, we also have an ability to analyze the in-line data in real-time
+So that gives us the opportunity to do some interesting things with the data, which we think is important and probably will play into our future
+Ryan, on the containers?
+Thank you, Alex
+Good reflections
+Listen, one of the – I think where you are correct is, one of the key, I'd say, intangible assets of F5 is our understanding of applications and the concentration of application networking talent that exists at F5 is – I think is unparalleled in the industry
+And you've heard me say before that I believe we have an opportunity to expand the breadth of application services that we offer
+And security is actually one of these domains
+Our philosophy around this is that we have to have strong organic plans to do that and there's a number of things we're doing organically that we've started executing on that we'll be able to discuss at a later stage, not today
+But we're doing a number of things organically to expand our addressable market beyond perhaps the traditional solutions that we offer today
+If and when we see some good opportunities to extend that inorganically, as I said, we will not rule that out
+But it's got to start with some organic execution
+And we have a priority, as I said, to grow the top line
+We said that's our number one priority
+We do see product revenue growth next year and we've got a number of exciting organic propositions that we're executing on that we believe will contribute to that
+Thank you, Alex

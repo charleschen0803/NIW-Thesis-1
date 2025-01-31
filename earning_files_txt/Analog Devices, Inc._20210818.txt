@@ -1,0 +1,894 @@
+Analog Devices, Inc. NasdaqGS:ADI
+FQ3 2021 Earnings Call Transcripts
+Wednesday, August 18, 2021 2:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2021-
+
+-FQ4 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+1.61
+
+1.72
+
+Revenue  (mm)
+
+1711.40
+
+1758.85
+
+Currency: USD
+Consensus as of  Aug-18-2021 2:57 PM GMT
+
+6.83
+
+2.77
+
+1.69
+
+6.30
+
+7.01
+
+1758.67
+
+6729.79
+
+7339.90
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+FQ3 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.33
+
+1.32
+
+1.45
+
+1.61
+
+1.44
+
+1.44
+
+1.54
+
+1.72
+
+8.27 %
+
+9.09 %
+
+6.21 %
+
+6.83 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+ANALOG DEVICES, INC. FQ3 2021 EARNINGS CALL |  AUG 18, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Michael C. Lucarelli
+Senior Director of Investor
+Relations
+
+Prashanth Mahendra-Rajah
+Senior VP of Finance & CFO
+
+Vincent T. Roche
+President, CEO & Director
+
+ANALYSTS
+
+Ambrish Srivastava
+BMO Capital Markets Equity
+Research
+
+Blayne Peter Curtis
+Barclays Bank PLC, Research
+Division
+
+Harlan Sur
+JPMorgan Chase & Co, Research
+Division
+
+John William Pitzer
+Crédit Suisse AG, Research
+Division
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+Tore Egil Svanberg
+Stifel, Nicolaus & Company,
+Incorporated, Research Division
+
+Toshiya Hari
+Goldman Sachs Group, Inc.,
+Research Division
+
+Vivek Arya
+BofA Securities, Research Division
+
+William Stein
+Truist Securities, Inc., Research
+Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ANALOG DEVICES, INC. FQ3 2021 EARNINGS CALL |  AUG 18, 2021
+
+Presentation
+
+Operator
+
+Good morning, and welcome to the Analog Devices Third Quarter Fiscal Year 2021 Earnings Conference
+Call, which is being audio webcast via telephone and over the web.
+
+I'd now like to introduce your host for today's call, Mr. Michael Lucarelli, Senior Director of Investor
+Relations. Sir, the floor is yours.
+
+Michael C. Lucarelli
+Senior Director of Investor Relations
+
+Thank you, Shelby, and good morning, everybody. Thanks for joining our third quarter fiscal 2021
+conference call. With me on the call today are ADI's CEO, Vincent Roche; and ADI's CFO, Prashanth
+Mahendra-Rajah.
+
+For anyone who missed the release, you can find it and relating financial schedules at investor.analog.com.
+
+And on to the disclosures. The information we're about to discuss includes forward-looking statements,
+which are subject to certain risks and uncertainties as further described in our earnings release and our
+most recent 10-Q and other periodic reports and materials filed with the SEC. Actual results could differ
+materially from these forward-looking information as these statements reflect our expectations only as of
+the date of this call. We undertake no obligation to update these statements, except as required by law.
+
+Our comments today will also include non-GAAP financial measures, which exclude special items. When
+comparing our results to our historical performance, special items are also excluded from prior periods.
+Reconciliations of these non-GAAP measures to their most directly comparable GAAP measures and
+additional information about our non-GAAP measures are included in today's earnings release.
+
+And with that, I'll turn it over to ADI's CEO, Vincent Roche. Vince?
+
+Vincent T. Roche
+President, CEO & Director
+
+Thank you, Mike, and a very good morning to everybody. So ADI delivered a second consecutive quarter
+of record revenue and earnings. Despite the challenging supply environment, our strong performance was
+driven by continued operational excellence and insatiable demand as semiconductors power the modern
+digital age.
+
+Broadly speaking, the economic recovery continues to take shape with demand still far exceeding supply.
+We, like many others in our industry, will face a constrained supply environment into 2022. Despite this
+backdrop, our business continues to achieve record results as our investments and design wins over
+the last few years are matched with strong demand across our end markets. So looking ahead, the
+combination of robust bookings, lean inventories and ongoing capacity additions position ADI to close
+fiscal '21 on a high note and continue to grow in the next year.
+
+So moving to our third quarter results. Revenue was $1.76 billion, up 21% year-over-year. All markets
+increased sequentially with Industrial and Automotive once again achieving records. Gross margin
+expanded to over 71% and operating margin to over 43%. Adjusted EPS of $1.72 increased 27% year-
+over-year. Despite elevated capital spending to increase our capacity, free cash flow over the trailing 12
+months was $2.2 billion. This equates to a 34% free cash flow margin, maintaining our position in the
+top 10% of the S&P 500. So overall, I'm very pleased with our performance and our team's outstanding
+execution.
+
+As you know, at ADI, our ethos of innovation and deep customer engagements ensure that we stay ahead
+of what's possible. We invest more than $1 billion annually in R&D, focused on strengthening our core
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ANALOG DEVICES, INC. FQ3 2021 EARNINGS CALL |  AUG 18, 2021
+
+franchises and capturing market opportunities presented by secular growth drivers which have accelerated
+in the economic recovery.
+
+Now let me share some recent highlights with you. Our Industrial business is our most diverse segment
+across customers, products and applications and feature sticky, long product life cycles. Our largest
+industrial segment, instrumentation and test, is comprised of automated test equipment, electronic
+test and measurement and scientific instruments. This is truly a performance-driven market that aligns
+perfectly to our high-performance precision signal chain, power management and RF portfolios.
+
+Importantly, instrumentation and test is aligned with all secular growth trends from connectivity to EVs,
+to sustainability. The growing technology complexity of these applications requires more testers with more
+advanced performance capabilities.
+
+Today, ADI is the leader in communications tests, and we're collaborating with Keysight, for example, to
+advance the development of O-RAN solutions. This partnership will enable the fastest path for designing
+cost-effective and power-efficient radio units. Looking ahead, we're already beginning to partner with our
+customers to test emerging 6G technologies.
+
+Our innovations in the instrumentation market also have a positive impact on human and planetary health.
+One particular area is our environmental monitoring business, where there is an increased need for highly
+reliable and accurate instruments to improve the standard of living globally. Our market-leading portfolio
+of precision converters enables 10x greater measurement resolution of fine particulate matter, better
+identifying trace pollutions.
+
+The next largest industrial segment is factory automation. Over the last year, many of our customers are
+rethinking their factory floors and supply chains to make them more resilient, cost effective and flexible
+through automation and connectivity. To achieve this, our customers will further automate their businesses
+with intelligent and connected factories and increase their use of robots and cobots.
+
+Specifically, cobots require ADI's precision signal chain and power franchises, sensing technologies and
+robust wired and wireless connectivity. This new vector of growth increases our SAM opportunity by 3x
+that of a traditional robot. To that end, our precision motion control business is on track for a record year
+of design wins, including a recent win at a leading Japanese robotics company for its next-generation
+cobots. In addition, we're leveraging our domain knowledge and system-level expertise in a collaboration
+with Universal Robots to design smaller, smarter and easier-to-use robots that help scale tasks safely and
+transform workforces.
+
+Well, turning now to our Communications business. 5G is beginning to broaden globally, especially in
+North America, as carriers look to deploy newly acquired C-band spectrum. And O-RAN continues to gain
+momentum also with several of the largest European carriers setting ambitious 2025 O-RAN deployment
+targets. This includes Vodafone where our technologies are very well represented.
+
+This quarter, we extended our market-leading position in 5G radio solutions with the introduction of
+the industry's first software-defined transceiver that includes a fully integrated digital front end. Our
+innovative radio architecture greatly improves power efficiency, thereby reducing radio weight, size and
+carrier expenses. This high level of integration eliminates FPGAs to simplify implementation and facilitate
+the proliferation of these emerging O-RAN networks. Our next-generation transceiver platform is already
+designed in at a major Tier 1 global supplier that is gaining share in these 5G and O-RAN deployments
+across North America as well as Europe.
+
+Stepping back, we expect our Communications business to return to growth in 2022. We have strong
+design momentum, and our geographic mix has shifted with North America, Europe and Korea
+representing our largest sources of revenue.
+
+Moving now on to Automotive. Over the last 2 years, we've realigned our business to focus on
+electrification and the in-cabin human experience. We're seeing the benefits of this strategy as we
+continue to scale our market leadership in battery management, power management, audio systems and
+connectivity.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ANALOG DEVICES, INC. FQ3 2021 EARNINGS CALL |  AUG 18, 2021
+
+Starting firstly with our battery management systems, or BMS. Our wired and wireless portfolios provide
+unmatched accuracy to deliver market-leading vehicle range and can measure all key battery chemistries,
+including zero-Cobalt LFP. Additionally, our solutions incorporate ASIL-D functional safety and an ultra-low
+power continuous monitoring feature that ensures the battery remains stable even while parked, which is
+a first in the market.
+
+In addition, this quarter marked the first time we recognize revenue for our wireless BMS solution as
+General Motors prepares to ship its first of 30 EV models powered by the Ultium battery platform. And this
+is just the beginning for this groundbreaking BMS technology as OEMs realize the power of wireless data in
+scaling their fleets.
+
+Turning to audio systems and connectivity. As complexity continues to increase, there's very strong
+demand for our market-leading audio systems with signal processing, A2B connectivity and active road
+noise cancellation. Our solutions offer the highest fidelity performance in the market while reducing vehicle
+weight, removing nearly 100 pounds per vehicle.
+
+During the quarter, 2 leading OEMs adopted A2B, and a top 3 European vehicle manufacturer implemented
+A2B as its audio connectivity standard across its entire fleet. In total, A2B is now designed in at over 30
+OEMs, including 18 of the top 20 global automotive companies. Furthermore, interest in our active road
+noise cancellation feature continues to intensify. We're designed in at 9 OEMs, up from 5 just a year ago,
+including Hyundai and a leading EV manufacturer. This added capability can more than double the value of
+our A2B solution.
+
+In all, these are just a few of the countless examples of the tremendous work underway at ADI. We
+remain focused on delivering breakthrough innovations to stay ahead of our customers' needs.
+
+So in closing, I've never been more confident about ADI's future. Over the last decade, we've built an
+industry-leading portfolio with unparalleled breadth and depth of capabilities that's aligned with more
+profitable end markets. And our portfolio and leadership position will only get stronger with the acquisition
+of Maxim, enabling us to deliver strong returns in the years to come.
+
+And so with that, I'll hand you over to Prashanth.
+
+Prashanth Mahendra-Rajah
+Senior VP of Finance & CFO
+
+Thank you, Vince. Good morning, and welcome to our third quarter earnings call. My comments today,
+with the exception of revenue and non-op expenses, will be on an adjusted basis, which excludes special
+items outlined in today's press release.
+
+ADI delivered exceptional third quarter results, underpinned by our ability to increase production. Revenue
+and EPS reached all-time highs for the second straight quarter with continued gross and operating
+margin expansion. If we look at performance by end market, Industrial represented 57% of revenue
+and increased 3% sequentially and 29% year-over-year. Notably, this business surpassed $1 billion
+of quarterly revenue for the first time. We experienced broad-based strength across applications and
+geographies. All subsegments increased double digits year-over-year, except health care, given the
+elevated pandemic demand a year ago.
+
+Communications represented 16% of revenue and decreased 21% year-over-year while up 4%
+sequentially with growth in both wireless and wireline. As we outlined last quarter, we believe our
+Communications revenue has bottomed and will continue to grow as 5G deployments broaden globally,
+especially in North America.
+
+Automotive represented 16% of revenue and increased 13% sequentially and 80% year-over-year.
+Strength was broad-based with double-digit growth across every major application. BMS and A2B remain
+our fastest-growing applications, and both are on track to nearly double in size this year. As Vince shared
+earlier, ADI has been strategically pivoting resources to focus more aggressively on electrification and the
+in-cabin human experience. As part of this strategy, we are licensing select radar IP to a large European
+Tier 1 auto supplier. This resulted in immediate revenue recognition of $24 million in the quarter.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ANALOG DEVICES, INC. FQ3 2021 EARNINGS CALL |  AUG 18, 2021
+
+Consumer represented 10% of revenue and increased 16%, both sequentially and year-over-year.
+Our strategy to diversify and grow this business in fiscal '21 is working as strength across home
+entertainment, hearables and wearables more than offset a decline in portables.
+
+And now moving to the P&L. Gross margin expanded sequentially and year-over-year, finishing at 71.6%,
+mainly due to the cost savings from the LTC manufacturing optimization and the IP license agreement.
+OpEx in the quarter was $493 million, up modestly sequentially, due to a full quarter of merit increases
+and continued strong variable comp. This netted an op margin of 43.6%, which marks the fifth straight
+quarter of year-over-year op margin expansion, underscoring the strong leverage in our business. Non-
+op expenses were $37 million, below our typical quarterly run rate of approximately $43 million due to
+an investment gain. And our tax rate was approximately 12%, which give us an adjusted EPS at $1.72,
+including $0.05 of upside attributable to the IP licensing agreement.
+
+Moving on to the balance sheet. We finished the quarter with an ending cash balance of $1.5 billion and a
+net leverage ratio of 1.2x. Relative to the second quarter, inventory dollars increased $16 million, driven
+entirely by raw materials and work in process. Days of inventory were unchanged at 118, and weeks of
+channel inventory remained well below the low end of our 7- to 8-week target as sell-through remained
+stronger than selling. CapEx for the quarter was $86 million, up meaningfully sequentially as we continue
+to add capacity to support our robust and growing order book that now stretches into fiscal '22. We will
+continue to increase capacity in the fourth quarter, resulting in full year capital intensity above our long-
+term model of 4%.
+
+And turning to free cash flow, we generated more than $2.2 billion over the trailing 12 months, up 23%
+from a year ago, and this represented a 34% free cash flow margin. Over the same period, we have
+returned nearly 85% of free cash flow after debt repayment via $970 million in dividends and over $500
+million in share repurchases.
+
+And now on to the fourth quarter outlook. Revenue is expected to be $1.78 billion, plus or minus $70
+million, up sequentially, as additional capacity comes online. At the midpoint, excluding the automotive
+IP licensing revenue, we expect each of our B2B markets to increase sequentially, led by Communications
+and Consumer to be up high single digits. Based on the midpoint of guide, we expect to deliver a record
+gross margin and for operating margins to be 43.7%, plus or minus 100 bps. Our tax rate is expected to
+fall toward the upper end of our range. And based on these inputs, adjusted EPS is expected to be $1.72,
+plus or minus $0.11.
+
+So before moving to the Q&A, I'd like to give a brief update on Maxim. Our discussions with the Chinese
+regulatory authorities have been productive, and we're working towards closing within the initial time
+frame. We plan on closing no later than the third business day after China approval has been granted.
+As we shared before, shortly after the close, we will hold a conference call to provide an update on our
+capital return plans. Once combined, we anticipate having nearly $4 billion of cash on our balance sheet, a
+leverage ratio well below 1 and more than $3 billion of annual free cash flow.
+
+I'll now turn it over to Mike to start the Q&A.
+
+Michael C. Lucarelli
+Senior Director of Investor Relations
+Thanks, Prashanth. Let's get to our Q&A session. [Operator Instructions] With that, can we have our first
+question, please?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ANALOG DEVICES, INC. FQ3 2021 EARNINGS CALL |  AUG 18, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Your first question is from Vivek Arya of Bank of America Securities.
+
+Vivek Arya
+BofA Securities, Research Division
+
+Vince, you mentioned demand far exceeds supply. I was hoping if you could help us quantify that. Are you
+under shipping by 5%, 10%? How much of a demand cushion does ADI have right now? And kind of part
+B of that is how much incremental capacity are you planning to bring online in the next year? And is that
+kind of a proxy for what kind of sales growth we should be looking at?
+
+Prashanth Mahendra-Rajah
+Senior VP of Finance & CFO
+
+Thanks, Vivek. So demand continues to grow across our markets. All end markets are up, and our book-
+to-bill was above 1.2. Supply is also expanding. We grew 4% sequentially in the third quarter, and we're --
+at the midpoint, we're going to be up another 3% for the fourth quarter.
+
+So you look at that math, and it says the supply-demand gap is growing, or said another way, backlog is
+increasing quarter-over-quarter, and it now extends well into 2022. Our view is this gap is likely to persist
+into calendar year '22, given the long lead time it takes to add supply in the industry, plus just the broad
+strength of the demand.
+
+Vincent T. Roche
+President, CEO & Director
+
+Yes. I think the second part of that question, Vivek, just a little bit of color. So we're layering in
+investments in CapEx to support our growth objectives, so particularly on the back end of our operations,
+assembly and test. And we need this capital now to meet the demand. But also in the longer term, we're
+very, very optimistic about the tailwinds in -- right across our business, from automation to electrification,
+connectivity and so on and so forth. So the outlook we've just given you is supply feasible, and it is
+certainly the governor, I would say, right now on revenue for the company.
+
+Operator
+
+Your next question is from Tore Svanberg of Stifel.
+
+Tore Egil Svanberg
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+yes. I was hoping you could just elaborate a little bit more on the Maxim merger. You said that you'd still
+expect it to happen within the time frame you had announced. I believe you had said the summer of 2021,
+correct me if that was wrong. And related to that is, again, China the only remaining obstacle before you
+can close the deal?
+
+Vincent T. Roche
+President, CEO & Director
+
+Thanks, Tore. So look, our confidence of the closing remains unchanged. And as we said in the prepared
+comments, our discussions with the Chinese regulatory authorities have been productive -- positive
+and productive, and we're working towards closing within the initial time frame. So China is the only
+outstanding regulatory approval need at this point in time. And I will remind you as well that all of the
+other regulatory bodies across the globe have approved our deal without condition, without remedies.
+
+Operator
+
+Your next question is from John Pitzer of Credit Suisse.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ANALOG DEVICES, INC. FQ3 2021 EARNINGS CALL |  AUG 18, 2021
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Yes. Vince, I wanted to pick up on your prepared comments about your Industrial business. You're now
+going in the third consecutive quarter of sort of record revenues in that business. You have to go back to, I
+think, April of '18 before -- which was the last peak. But year-to-date -- fiscal year-to-date, that business
+is up about 30% year-over-year. And for a lot of investors, they're concerned that perhaps that represents
+more cyclical excess than sort of structural sustainability. And so I'm kind of curious, as you break apart
+your Industrial business, what do you think is being driven by the "cycle" versus stuff that's a little bit
+more sustainable?
+
+Vincent T. Roche
+President, CEO & Director
+
+Yes. Thanks, John. I think, first and foremost, I'd like to remind everybody that ADI's Industrial business
+is built on a foundation of many individual market segments like automation, instrumentation that I talked
+about, health care, our space business and energy as it moves to renewables and charging infrastructure,
+for example, the whole need for grid efficiency and stabilization. So that's the foundation. It's a highly
+diverse business. We've got many tens of thousands of customers. And the life cycles in the business are
+kind of 15 years plus, and it's a very, very, very sticky set of sockets that we've got.
+
+So those of you who have followed ADI for a long time, remember, we -- about a decade ago, we fairly
+dramatically increased our focus in terms of R&D, go-to-market activities in ensuring that we could really
+grow that business. And the last few years have shown that we've been gaining market share across the
+board there.
+
+So I think there's a certain amount, John, of -- there were a lot of programs that were stalled last year,
+so there's a certain amount of catch-up there. But I do think that the breadth of the portfolio that we
+now have, the investments we've been making in terms of customer engagement, R&D activities and the
+secular trends that we've got, all these concurrent secular drivers are propelling that business beyond the
+markets.
+
+Michael C. Lucarelli
+Senior Director of Investor Relations
+
+Yes. I'll add one thing, John. You're right. As we said in our prepared comments, all the markets did
+increase double digits year-over-year. Of our 6 applications that Vince outlined, 2 are still below pre-peak
+levels. We do think fiscal '21 marks a record for all of them, and we don't see why they won't hit another
+record in '22, given the strong trends that Vince outlined. And with that, we'll go to our next question.
+
+Operator
+
+Your next question is from Stacy Rasgon of Bernstein Research.
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+I had a question on the pricing environment. And given the -- just the tight supply and the shortage
+situation, we're starting to see some hints of some of your peers starting to take prices up. And I was
+curious what you guys are seeing in the pricing environment. Are you seeing that? Are you able to actually
+do that? Are you treating your own pricing environment more conservatively?
+
+Prashanth Mahendra-Rajah
+Senior VP of Finance & CFO
+
+Yes. Thanks for the question, Stacy. So I would say that for the results that we printed, pricing is on net
+neutral. We're passing on cost increase so that we're not impacting margins, but we've made a decision
+not to take advantage of our customers by structurally increasing pricing in this environment. Our long-
+term model is unchanged, and that is 70% plus. So the goal really is to drive the revenue growth and
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ANALOG DEVICES, INC. FQ3 2021 EARNINGS CALL |  AUG 18, 2021
+
+make the trade-offs that are necessary to drive that revenue growth, focusing on delivering on the op
+margin and the free cash flow.
+
+So you'll see on a -- if you back out the IP license impact, we had a 71.2% gross margin in the third
+quarter. And while we don't guide to gross margins, if you impute it from the guide that we give you -- we
+gave you, fourth quarter is going to be -- probably be a record for ADI in terms of gross margins.
+
+Operator
+
+Your next question is from Toshiya Hari of Goldman Sachs.
+
+Toshiya Hari
+Goldman Sachs Group, Inc., Research Division
+
+I wanted to ask about the Comms business. Vince, you talked about 2022 being a growth year, and you
+talked about North America, Europe and Korea being the key drivers for you guys going forward. How
+should we think about the shape of the recovery going forward? Is it going to be a fairly gradual recovery?
+Could it be sort of a V-shaped recovery over the next couple of quarters? And when you talk about return
+to growth in '22, what sort of implicit assumptions are you making for China?
+
+Prashanth Mahendra-Rajah
+Senior VP of Finance & CFO
+
+Okay. Thanks. We're going to split that into 2. Let me just quickly talk about what happened, and then I'll
+let Vince speak to kind of more broadly. So in the second quarter, as a reminder, we did call the bottom on
+Comms and said that we would grow on a sequential basis. We delivered that in third quarter, and we are
+on track to deliver that for the fourth quarter. So we believe we're really well positioned for strong growth
+into fiscal '22.
+
+And between kind of the 2 subsegments there, wired demand remains strong, and we expect that to
+continue as both carriers and data centers continue to do the upgrades to their networks. And wireless,
+while it's always lumpy, growth in the past quarter was really driven by rest of the world, North America.
+We do think China bottomed in the third quarter so that should also represent some growth momentum
+for us as we go forward.
+
+And then I'll hand off to Vince to kind of speak more broadly about what we're seeing.
+
+Vincent T. Roche
+President, CEO & Director
+
+Yes. So Toshi, why do I have the confidence I have about 2022 being a strong growth year? So maybe
+I can unpack that a bit for you. So I think our Comms revenue mix is seeing a benefit from the rest of
+world beginning to emerge in 5G. So today, rest of world, outside of China, is 3x in terms of TAM. So
+that's number one. If you look at then the geographies, North America, the auction, the C-band auction
+is complete, revenue is really just beginning here. And all the indications are that 5G revenue here will
+accelerate in 2022 and indeed beyond. Europe, I would say a step behind, but we're beginning to see good
+signs of life in that region. And -- but I think it will be more a late 2022 driver.
+
+We've talked several times on various calls here about O-RAN, what's happening, but we're beginning
+to see revenue. We've talked before about Rakuten in Japan. That business continues to accelerate, and
+European carriers are looking right now to make it also an important part of their 5G offering.
+
+I mentioned during the prepared remarks as well that Vodafone is a major player there, and we happen
+to be very well represented in their systems. And I'm also having conversations with customers about the
+use of 5G and O-RAN beyond the classical consumer market.
+
+So it's early days, but the characteristics of flexibility, scalability, quicker time to market, cost savings and
+so on is enabling private networks to be configured in factory environments, for example. So that's all still
+on to come, but that gives you a sense for our confidence in 2022 and beyond.
+
+Operator
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ANALOG DEVICES, INC. FQ3 2021 EARNINGS CALL |  AUG 18, 2021
+
+Your next question is from Ambrish Srivastava of BMO.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+I had a question on Maxim and -- so my investment case for ADI has now been Maxim. And you have
+a very sticky shareholder base who have been with you before Maxim. But I get this question a lot,
+so I think it's a fair question to ask. If Maxim was not to go through, how do you think about capital
+allocation? Do you then go back to the playbook and say you would be changing how you think about
+capital allocation or you would continue on the M&A path and look at other opportunities?
+
+Prashanth Mahendra-Rajah
+Senior VP of Finance & CFO
+
+So Ambrish, let's do this. Let me just remind everyone what the capital allocation policy is today because
+I think that we have a very shareholder-friendly capital allocation policy, which is that first call is really
+to invest in the business and that -- although not a traditional definition, we do consider that organically
+kind of how we spend our R&D, and that is heavily pointed towards the B2B market. And then we think
+about inorganic really more as it helps the technology portfolio or find other ways to help us become more
+important to customers.
+
+But our commitment is to return 100% of free cash flow to customers. So we're at a 1.2 level leverage
+today. We do not need to reduce debt. So on a -- in an environment -- despite the confidence that we
+have in the Maxim deal closing, in an environment where that was not to have happened, would not look
+for us to really be changing that view of having all our incremental free cash flow go into -- returned to
+shareholders, either through buyback or through dividend.
+
+And as a reminder, I think over the past 3 years, we've averaged about a 10% increase in our dividend,
+so a very healthy commitment for our fixed income-focused investors as well as the repo. I think we're on
+track this year for an all-time high in terms of our repo activity.
+
+Back to the M&A, I'm going to hand that one to Vince to talk more about the alternatives there.
+
+Vincent T. Roche
+President, CEO & Director
+
+Yes. So as you know, you've seen, over the years, we've always acquired very, very high-quality assets,
+and that will remain to be our view on things in the years ahead as well.
+
+Operator
+
+Your next question is from Blayne Curtis of Barclays.
+
+Blayne Peter Curtis
+Barclays Bank PLC, Research Division
+
+Just curious on -- if you look at the B2B guidance, it's fairly flattish. I think Industrial probably is flat,
+given the segment guidance you gave. So I'm just kind of curious as you look at this, obviously, you had
+strong comments on the bookings. Is that gap really supply? Or are you starting to see demand trends
+start to settle out at this level?
+
+Prashanth Mahendra-Rajah
+Senior VP of Finance & CFO
+
+That is purely supply. I think I mentioned in maybe the first or second question that book-to-bill for the
+quarter was over 1.2, and that's across all markets. So we're seeing very strong interest in products
+across all markets.
+
+Mike indicated in one of the other Q&As that we're likely to have the industrial markets hit an all-time high
+collectively for fiscal year '21 and expect that to continue to be on track, to have another record in FY '22.
+So very much a supply-constrained environment.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ANALOG DEVICES, INC. FQ3 2021 EARNINGS CALL |  AUG 18, 2021
+
+Blayne Peter Curtis
+Barclays Bank PLC, Research Division
+
+And I just wanted to follow up on the gross margin, Prashanth. So you indicated the gross margin would
+be up, and I think that's with the license impact as well. So you saw a benefit from the linear. Just curious
+how much more there is of that as a benefit. And then maybe just talk about utilizations and other pulls
+on gross margin as you look over the next couple of quarters.
+
+Prashanth Mahendra-Rajah
+Senior VP of Finance & CFO
+
+Yes. So I presume you're asking kind of with respect to the guide. So in the fourth quarter, we -- and
+we're not guiding gross margins, but we're pretty confident we're going to hit a new record for gross
+margins. That is coming from the LTC synergies. We're continuing -- I think we hit the final phase of
+closing down the manufacturing operation in California. We still have an opportunity, as soon as the supply
+environment allows us to, to get some additional savings out of Asia because we haven't closed that
+facility yet because we have no time to ship the tools to their new location.
+
+Utilization is also going to provide some level of increase. I would say mix is a bit of a headwind into the
+fourth quarter. And fourth quarters typically have some level of challenges in terms of holiday shutdowns,
+so we need to manage through that, which can provide a little bit of headwind for us as well that we got to
+work ourselves around.
+
+Vincent T. Roche
+President, CEO & Director
+
+The foundation for our gross margins being where they are is, number one, innovation. We produce the
+best forming -- the best-performing solutions between the physical and digital worlds, and we get a
+premium. We get very, very well paid for doing that.
+
+Also the diversity of our product and customer portfolios, 125,000 customers with, I think I've said this
+before, 85% of our sales come from products that individually contribute less than 0.1%. And the pricing
+environment, as we said earlier on the call, has been very, very stable, very steady.
+
+Operator
+
+Your next question is from Harlan Sur of JPMorgan.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+Congratulations on the strong results and quarterly execution. Channel inventories continue to remain
+below your target 7- to 8-week range. You guys can also monitor direct customer inventories, at least for
+those that are on consignment programs. Any signs that customers have been able to build inventories? I
+mean, it seems unlikely because the entire value chain appears to be sort of hand-to-mouth from a chip
+supply perspective. But wanted to get your views. And when do you believe customers will be in a position
+to start to build back inventories? I'm assuming the soonest is sometime in calendar '22 but wanted to get
+your views as well.
+
+Prashanth Mahendra-Rajah
+Senior VP of Finance & CFO
+
+Yes. Thank you, Harlan. So I'll take that. So first, a couple of comments on inventory. Inventory on our
+balance sheet is up year-over-year and sequentially, but that is exclusively due to raw materials and WIP.
+We can't keep a finished good in stock. So when it's produced, it either goes to the customer or it goes
+into the channel, and then it goes out of the channel immediately. So we are struggling to build finished
+goods inventory, both in ADI warehouses as well as in our channel partners.
+
+Roughly -- well, let's say a significant amount of our Auto business is on consignment, which gives us
+good visibility for that direct business as to what's happening there. And that is also -- we're seeing that
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ANALOG DEVICES, INC. FQ3 2021 EARNINGS CALL |  AUG 18, 2021
+
+demand kind of pull through pretty quickly and no opportunity for those auto customers to build the
+inventory within their warehouses, but that's on our books.
+
+So it's still very much hand-to-mouth, and the focus that we have, as we've talked throughout this call
+and in the prepared remarks, is on increasing our capacity or ability to supply by making some significant
+investments in capacity. I don't see this balance coming into some sense of normalcy until sometime in
+calendar year '22.
+
+Operator
+
+Your next question is from William Stein of Truist Securities.
+
+William Stein
+Truist Securities, Inc., Research Division
+
+Great. Prashanth, you just talked about inventory not coming to sub-level of ability to rebuild anything
+until sometime in '22. You talked about the supply-demand imbalance lasting well into '22; 1.2, book-
+to-bill; et cetera. When we look out to the next, next quarter, the January quarter, typically, that's a
+sequentially down quarter in Automotive, Industrial, Consumer and for the whole business as well. But
+given these supply constraints and this very significant backlog, should we think about that seasonality
+as different in the coming year? Should we expect maybe some visibility to sequential growth for the next
+several quarters?
+
+Prashanth Mahendra-Rajah
+Senior VP of Finance & CFO
+
+Yes. I think the way to answer that would be to say that seasonality in today's environment is a bit of
+a meaningless concept because revenue growth is really dictated completely by supply. So the print for
+Q1 is likely to be driven by what more capacity we can get online between the fourth -- over the fourth
+quarter to allow us. Again, now we've got a couple of things we need to work through in the first quarter
+that won't -- that would be a little bit of an offset.
+
+First, there's the holiday season, so we do need to adjust factory capacity for that. And Consumer, fourth
+quarter is kind of the key quarter for Consumer. That's when they build for the holiday season. So there's
+always going to be a little bit of seasonality impact for Consumer, just because of the -- they don't need it
+in the first quarter or our fiscal first quarter as that is the holiday period.
+
+So maybe that's kind of where I'll finish, Mike. Anything you want to add to that?
+
+Michael C. Lucarelli
+Senior Director of Investor Relations
+
+Yes, sure. So I guess if you look back, you're right. I mean, we talked about seasonality not being as
+meaningful now. But just to give you a bit of a history lesson, if you look past over the past 10 years,
+you're right. Our B2B markets, I would say, in good times, which I would call now good times, is usually
+flat to down slightly in 1Q. And Consumer, I would say, in good and even kind of normal times, is down
+kind of 5% or maybe more in 1Q.
+
+And with that, I want to thank everyone for joining the call this morning. A copy of the transcript will
+be available on our website, and all reconciliations and additional information can also be found in the
+Quarterly Results section. Thanks again for joining and your continued interest in ADI.
+
+Operator
+This concludes today's Analog Devices conference call. You may now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ANALOG DEVICES, INC. FQ3 2021 EARNINGS CALL |  AUG 18, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+
