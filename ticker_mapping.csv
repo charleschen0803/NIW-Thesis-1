@@ -1,0 +1,282 @@
+Company Name,Ticker
+3M Company,MMM
+A.O. Smith Corporation,AOS
+ABIOMED Inc,ABMD
+AES Corp,AES
+AMETEK Inc.,AME
+AT&T Inc.,T
+AbbVie Inc.,ABBV
+Abbott Laboratories,ABT
+Activision Blizzard,ATVI
+Adobe Systems Inc,ADBE
+Advance Auto Parts,AAP
+Advanced Micro Devices Inc,AMD
+Aetna Inc,AET
+Agilent Technologies Inc,A
+Akamai Technologies Inc,AKAM
+Alaska Air Group Inc,ALK
+Alexion Pharmaceuticals,ALXN
+Align Technology,ALGN
+Allegion,ALLE
+"Allergan, Plc",ARM
+Alliance Data Systems,BFH
+Altria Group Inc,MO
+Amazon.com Inc.,AMZN
+Ameren Corp,AEE
+American Express Co,AXP
+American Tower Corp A,AMT
+AmerisourceBergen Corp,COR
+Amgen Inc.,AMGN
+Anthem Inc.,ELV
+Aon plc,AON
+Apache Corporation,APA
+Archer-Daniels-Midland Co,ADM
+Autodesk Inc.,ADSK
+Automatic Data Processing,ADP
+Avery Dennison Corp,AVY
+Ball Corp,BALL
+Baxter International Inc.,BAX
+Becton Dickinson,BDX
+Biogen Inc.,BIIB
+Boeing Company,BA
+Booking Holdings Inc,BKNG
+BorgWarner,BWA
+Bristol-Myers Squibb,BMY
+Broadridge Financial Solutions,BR
+"CA, Inc.",CA
+CBRE Group,CBRE
+CBS Corp.,PARA
+CIGNA Corp.,CI
+CME Group Inc.,CME
+CMS Energy,CMS
+CVS Health,CVS
+Cadence Design Systems,CDNS
+Campbell Soup,CPB
+Cardinal Health Inc.,CAH
+Carmax Inc,KMX
+Caterpillar Inc.,CAT
+Cboe Global Markets,CBOE
+Celgene Corp.,CELG
+CenturyLink Inc,LUMN
+Chevron Corp.,CVS
+Church & Dwight,CHD
+Cimarex Energy,XEC
+Cisco Systems,CSCO
+Citigroup Inc.,C
+Citrix Systems,CTXS
+Coca-Cola Company (The),KO
+Cognizant Technology Solutions,CTSH
+Comcast Corp.,CMCSA
+Comerica Inc.,CMA
+Conagra Brands,CAG
+Corning Inc.,GLW
+"Coty, Inc",COTY
+Crown Castle International Corp.,CCI
+Cummins Inc.,CMI
+D. R. Horton,DHI
+DTE Energy Co.,DTE
+DaVita Inc.,DVA
+Darden Restaurants,DRI
+Digital Realty Trust Inc,DLR
+Dish Network,DISH
+Dollar General,DG
+Dominion Energy,D
+Dover Corp.,DOV
+Duke Energy,DUK
+EQT Corporation,EQT
+Ecolab Inc.,ECL
+Edison Int'l,EIX
+Edwards Lifesciences,EW
+Electronic Arts,EA
+Emerson Electric Company,EMR
+Equinix,EQIX
+Estee Lauder Cos.,EL
+Exxon Mobil Corp.,XOM
+F5 Networks,FFIV
+FLIR Systems,FLIR
+"Facebook, Inc.",META
+Fidelity National Information Services,FIS
+Fifth Third Bancorp,FITB
+FleetCor Technologies Inc,CPAY
+Foot Locker Inc,FL
+Ford Motor,F
+Fortive Corp,FTV
+Fortune Brands Home & Security,FBIN
+Franklin Resources,BEN
+Freeport-McMoRan Inc.,FCX
+Gap Inc.,GAP
+Garmin Ltd.,GRMN
+Gartner Inc,IT
+General Dynamics,GD
+General Growth Properties Inc.,GGP
+General Mills,GIS
+General Motors,GM
+Genuine Parts,GPC
+Gilead Sciences,GILD
+Goldman Sachs Group,GS
+Goodyear Tire & Rubber,GT
+Grainger (W.W.) Inc.,GWW
+HCA Holdings,HCA
+HP Inc.,HPQ
+Halliburton Co.,HAL
+Hanesbrands Inc,HBI
+Harris Corporation,LHX
+Hasbro Inc.,HAS
+Henry Schein,HSIC
+Hess Corporation,HES
+Hewlett Packard Enterprise,HPE
+Hilton Worldwide Holdings Inc,HLT
+Hologic,HOLX
+Home Depot,HD
+Hormel Foods Corp.,HRL
+Humana Inc.,HUM
+IPG Photonics Corp.,IPPGP
+Illinois Tool Works,ITW
+Illumina Inc,ILMN
+Incyte,INCY
+Ingersoll-Rand PLC,IR
+Intel Corp.,INTC
+Intercontinental Exchange,ICE
+International Paper,IP
+Interpublic Group,IPG
+Intuit Inc.,INTU
+Invesco Ltd.,IVZ
+Iron Mountain Incorporated,IRM
+JPMorgan Chase & Co.,JPM
+Johnson Controls International,JCI
+Juniper Networks,JNPR
+KLA-Tencor Corp.,KLAC
+Kansas City Southern,KSU
+Kellogg Co.,K
+Kimberly-Clark,KMB
+Kinder Morgan,KMI
+Kohl's Corp.,KSS
+Kraft Heinz Co,KHC
+Kroger Co.,KR
+LKQ Corporation,LKQ
+Lam Research,LRCX
+Lennar Corp.,LEN
+Lilly (Eli) & Co.,LLY
+Lockheed Martin Corp.,LMT
+Lowe's Cos.,LOW
+LyondellBasell,LYB
+MGM Resorts International,MGM
+MSCI Inc,MSCI
+Marsh & McLennan,MMC
+Martin Marietta Materials,MLM
+Masco Corp.,MAS
+Mastercard Inc.,MA
+Mattel Inc.,MAT
+McDonald's Corp.,MCD
+Merck & Co.,MRK
+Michael Kors Holdings,CPRI
+Micron Technology,MU
+Microsoft Corp.,MSFT
+Molson Coors Brewing Company,TAP
+Mondelez International,MDLZ
+Motorola Solutions Inc.,MSI
+Mylan N.V.,MYL
+NRG Energy,NRG
+"Nasdaq, Inc.",NDAQ
+Nektar Therapeutics,NKTR
+NetApp,NTAP
+Newell Brands,NWL
+Newmont Mining Corporation,NEM
+News Corp. Class A,NWSA
+NiSource Inc.,NI
+Nielsen Holdings,NLSN
+Nike,NKE
+Noble Energy Inc,NBL
+Nordstrom,JWN
+Norfolk Southern Corp.,NSC
+Norwegian Cruise Line,NCLH
+Nucor Corp.,NUE
+Nvidia Corporation,NVDA
+"Oncor Electric Delivery Company LLC, Sempra Energy",SRE
+Oracle Corp.,ORCL
+PACCAR Inc.,PCAR
+PG&E Corp.,PCG
+PPG Industries,PPG
+PPL Corp.,PPL
+Parker-Hannifin,PH
+PayPal,PYPL
+Pentair plc,PNR
+PepsiCo Inc.,PEP
+PerkinElmer,PKI
+Perrigo,PRGO
+Pinnacle West Capital,PNW
+Polo Ralph Lauren Corp.,RL
+Prologis,PLD
+Public Serv. Enterprise Inc.,PEG
+Quanta Services Inc.,PWR
+Quest Diagnostics,DGX
+Raytheon Co.,RTN
+Red Hat Inc.,RHT
+Regeneron,REGN
+Regions Financial Corp.,RF
+Republic Services Inc,RSG
+ResMed,RMD
+Rockwell Automation Inc.,ROK
+Roper Technologies,ROP
+Ross Stores,ROST
+Royal Caribbean Cruises Ltd,RCL
+SCANA Corp,SCG
+SVB Financial,SIVBQ
+Salesforce.com,CRM
+Schlumberger Ltd.,SLB
+Seagate Technology,STX
+Sealed Air,SEE
+Sempra Energy,SRE
+Sherwin-Williams,SHW
+Skyworks Solutions,SWKS
+Snap-On Inc.,SNA
+Starbucks Corp.,SBUX
+Stericycle Inc,SRCL
+Stryker Corp.,SYK
+SunTrust Banks,STI
+Symantec Corp.,GEN
+Synopsys Inc.,SNPS
+Sysco Corp.,SYY
+TE Connectivity Ltd.,TEL
+"Tapestry, Inc.",TPR
+Target Corp.,TGT
+Texas Instruments,TXN
+The Bank of New York Mellon Corp.,BK
+The Clorox Company,CLX
+The Cooper Companies,COO
+The Hershey Company,HSY
+The Mosaic Company,MOS
+The Walt Disney Company,DIS
+Thermo Fisher Scientific,TMO
+Tiffany & Co.,TIF
+Tractor Supply Company,TSCO
+TransDigm Group,TDG
+"Twitter, Inc.",TWTR
+Tyson Foods,TSN
+U.S. Bancorp,USB
+Ulta Beauty,ULTA
+United Health Group Inc.,UNH
+United Parcel Service,UPS
+United Technologies,UTX
+Valero Energy,VLO
+Varian Medical Systems,VAR
+Ventas Inc,VTR
+Verisign Inc.,VRSN
+Verizon Communications,VZ
+Viacom Inc.,PARA
+Vulcan Materials,VMC
+Walgreens Boots Alliance,WBA
+Walmart,WMT
+Waste Management Inc.,WM
+Wec Energy Group Inc,WEC
+Welltower Inc.,WELL
+WestRock,WEST
+Western Digital,WDC
+Western Union Co,WU
+Weyerhaeuser,WY
+XL Group,DXLG
+Xcel Energy Inc,XEL
+Xerox,XRX
+Xilinx,XLNX
+Yum! Brands Inc,YUM
+eBay Inc.,EBAY

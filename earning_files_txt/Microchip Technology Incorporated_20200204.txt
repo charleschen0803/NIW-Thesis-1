@@ -1,0 +1,1239 @@
+Microchip Technology Incorporated 
+
+NasdaqGS:MCHP
+FQ3 2020 Earnings Call Transcripts
+Tuesday, February 04, 2020 10:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2020-
+
+-FQ4 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+1.26
+
+1.32
+
+Revenue  (mm)
+
+1285.95
+
+1287.40
+
+Currency: USD
+Consensus as of  Feb-04-2020 3:46 PM GMT
+
+4.76
+
+0.11
+
+1.39
+
+5.50
+
+6.43
+
+1350.18
+
+5288.86
+
+5640.88
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+1.40
+
+1.38
+
+1.44
+
+1.26
+
+1.48
+
+1.41
+
+1.43
+
+1.32
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+5.71 %
+
+2.17 %
+
+(0.69 %)
+
+4.76 %
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Ganesh Moorthy
+President & COO
+
+James Eric Bjornholt
+Senior VP & CFO
+
+Stephen Sanghi
+CEO & Chairman
+
+ANALYSTS
+
+Ambrish Srivastava
+BMO Capital Markets Equity
+Research
+
+Harsh V. Kumar
+Piper Sandler & Co., Research
+Division
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Christopher Caso
+Raymond James & Associates,
+Inc., Research Division
+
+Rajvindra S. Gill
+Needham & Company, LLC,
+Research Division
+
+Christopher Adam Jackson
+Rolland
+Susquehanna Financial Group,
+LLLP, Research Division
+
+Christopher Brett Danely
+Citigroup Inc, Research Division
+
+Vijay Raghavan Rakesh
+Mizuho Securities USA LLC,
+Research Division
+
+Vivek Arya
+BofA Merrill Lynch, Research
+Division
+
+Craig Andrew Ellis
+B. Riley FBR, Inc., Research
+Division
+
+William Stein
+SunTrust Robinson Humphrey,
+Inc., Research Division
+
+Craig Matthew Hettenbach
+Morgan Stanley, Research Division
+
+Gary Wade Mobley
+Wells Fargo Securities, LLC,
+Research Division
+
+Harlan Sur
+JP Morgan Chase & Co, Research
+Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+Presentation
+
+Operator
+
+Good day, everyone, and welcome to this Microchip's Third Quarter Fiscal 2020 Financial Results
+Conference Call. As a reminder, today's call is being recorded.
+
+At this time, I would like to turn the call over to Mr. Eric Bjornholt, Chief Financial Officer. Sir, please begin.
+
+James Eric Bjornholt
+Senior VP & CFO
+
+Thank you, and good afternoon, everyone. During the course of this conference call, we will be making
+projections and other forward-looking statements regarding future events or the future financial
+performance of the company. We wish to caution you that such statements are predictions, and that actual
+events or results may differ materially. We refer you to our press releases of today as well as our recent
+filings with the SEC that identify important risk factors that may impact Microchip's business and results of
+operations.
+
+In attendance with me today are Steve Sanghi, Microchip's Chairman and CEO; and Ganesh Moorthy,
+Microchip's President and COO. I will comment on our third quarter fiscal year 2020 financial performance,
+and Steve and Ganesh will then give their comments on the results and discuss the current business
+environment as well as our guidance. We will then be available to respond to specific investor and analyst
+questions.
+
+We are including information in our press release and -- in this conference call on various GAAP and non-
+GAAP measures. We have posted a full GAAP to non-GAAP reconciliation on the Investor Relations page of
+our website at www.microchip.com, which we believe you will find useful when comparing our GAAP and
+non-GAAP results. We have also posted a summary of our outstanding debt and our leverage metrics on
+our website.
+
+I want to remind investors that during the June quarter of 2018, we adopted the new GAAP revenue
+recognition standard, which requires revenue to be recognized at the time products are sold to distributors
+versus our historical revenue recognition policy, where revenue on such transactions were deferred
+until the product was sold by our distributors to an end customer. As discussed in previous earnings
+conference call, we continue to track and measure our performance internally based on direct revenue
+plus distribution sell-through activity. And each quarter, we'll provide a metric for this called end-market
+demand in our earnings release. Therefore, along with our GAAP and non-GAAP results, based on
+distribution sell-in, we will also provide investors with our end-market demand based on distribution sell-
+out, but will not provide a P&L based on end-market demand. End-market demand in the December 2019
+quarter was $1.324 billion, end-market demand was about $36.1 million more than our GAAP revenue in
+the December 2019 quarter.
+
+I will now go through some of the operating results, including net sales, gross margin and operating
+expenses. I will be referring to these results on a non-GAAP basis, which is based on expenses prior to the
+effects of our acquisition activities, share-based compensation and certain other adjustments as described
+in our press release.
+
+Net sales in the December quarter were $1.287 billion, which was down 3.76% sequentially and near
+the high end of our updated revenue guidance provided on January 6, 2020. We have posted a summary
+of our GAAP net sales and end-market demand by product line and geography on our website for your
+reference. On a non-GAAP basis, gross margins were 61.5%, operating expenses were 26.4%, and
+operating income was 35.1% and above the high end of our guidance. Non-GAAP net income was $340.8
+million. Non-GAAP earnings per diluted share was $1.32, which was above the high end of our last
+provided non-GAAP EPS guidance from December 3, 2019 of $1.30.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+On a GAAP basis, gross margins were 61% and include the impact of $5.7 million of share-based
+compensation expense. Total operating expenses were $654.3 million and include acquisition intangible
+amortization of $248.7 million, special charges of $17.8 million, $10.9 million of acquisition-related and
+other costs and share-based compensation of $37.8 million. The GAAP net income was $311.1 million or
+$1.20 per diluted share. Our December quarter of GAAP tax benefit was significantly positively impacted
+by the tax benefit related to the intra-group transfer of certain intellectual property rights. The non-GAAP
+cash tax rate was 6% in the December quarter. We expect our non-GAAP cash tax rate for fiscal '20 to
+be about 6%, exclusive of any transition tax, any potential tax associated with the restructuring of the
+Microsemi operations and the Microchip's global structure and any tax audit settlements related to taxes
+accrued in prior fiscal years.
+
+We have many tax attributes and net operating losses and tax credits as well as U.S. interest deductions
+that we believe will keep our cash tax payments low. The future cash tax payments associated with the
+transition tax is expected to be about $245 million and will be paid over the next 6 years. We have posted
+a schedule of our projected transition tax payments on the Investor Relations page of our website.
+
+Our inventory balance at December 31, 2019, was $708.8 million. We had 129 days of inventory at the
+end of the December quarter, down 2 days from the prior quarter's level. Inventory at our distributors in
+the December quarter were at 28 days compared to 30 days at the end of September. We've only had 1
+quarter in the past 15 years, which was Q3 of fiscal year 2013, where our days of inventory at distribution
+have been at lower than the current levels.
+
+The cash flow from operating activities was $395.5 million in the December quarter. As of December 31,
+the consolidated cash and total investment position was $402.3 million. We paid down $257 million of total
+debt in the December quarter, and the net debt on the balance sheet was reduced by $254.2 million.
+
+Over the last 6 full quarters since we closed the Microsemi acquisition and incurred over $8 billion in debt
+to do so, we have paid down $1.986 billion of the debt and continue to allocate substantially all of our
+excess cash generation beyond dividends to aggressively bring down this debt. We have accomplished this
+despite the adverse macro and market conditions during most of this period, which we feel is a testimony
+to the cash generation capabilities of our business. We expect our debt levels to reduce significantly over
+the next several years.
+
+Our adjusted EBITDA in the December quarter was $503.4 million, and our trailing 12-month adjusted
+EBITDA was $2.125 billion. Our net debt to adjusted EBITDA, excluding our very long-dated convertible
+debt that matures in 2037 and is more equity-like in nature, was 4.58 at December 31, 2019. Our
+dividend payment in the December quarter was $87.7 million. Capital expenditures were $14.1 million
+in the December 2019 quarter. We expect between $20 million and $25 million in capital spending in the
+March quarter, and overall capital expenditures for fiscal 2020 to be between $76 million and $81 million.
+
+We continue to add capital to support the growth of our production capabilities for our new products
+and technologies and to bring in-house more of the assembly and test operations that are currently
+outsourced. We expect these capital investments will bring some gross margin improvement to our
+business, particularly for the outsourced Atmel and Microsemi manufacturing activities that we are
+bringing into our own factories.
+
+Depreciation expense in the December quarter was $41.4 million.
+
+I will now turn it over to Ganesh to give us comments on the performance of the business in the
+December quarter. Ganesh?
+
+Ganesh Moorthy
+President & COO
+
+Thank you, Eric, and good afternoon, everyone. Before I get started, I'd like to remind you that the
+product line comparisons I will be sharing with you today are based on end-market demand, which is how
+Microchip measures its performance internally.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+Let's start by taking a closer look at microcontrollers. Our microcontroller business was sequentially down
+1.1% as compared to the September quarter. We continue to introduce a steady stream of innovative
+new microcontrollers, including next-generation Bluetooth 5.0 dual-mode audio solutions, production-
+ready open source tools for managing our Adaptec Smart Storage offerings and industry support for
+development of the Open Compute Project's Accelerator Infrastructure through our PCIe switches.
+Microcontrollers represented 53.6% of our end-market demand in the December quarter.
+
+Moving to analog. Our analog business was sequentially down 3.6% as compared to the September
+quarter. During the quarter, we continued to introduce a steady stream of innovative analog products,
+including the IEEE 802.3bt-compliant power over Ethernet injectors and midspans that enable up to 90
+watts of power without changing switches or cable. Analog represented 28.1% of our end-market demand
+in the December quarter.
+
+Our FPGA business was sequentially flat as compared to the September quarter. During the quarter, we
+introduced a radiation-tolerant Polarfire FPGA for space and other high-reliability applications as well
+as the early access program for the Polarfire system-on-chip FPGA, offering the world's first hardened
+real-time Linux-capable, risk-five based microprocessor subsystem. Design wins for the Polarfire family
+continued to grow strongly, and we remain optimistic about the prospects for this product family. FPGA
+represented 6.9% for end-market demand in the December quarter.
+
+Our licensing, memory and other product line, which we refer to as LMO, was sequentially down 0.7%
+as compared to the September quarter. During the quarter, we enable -- we delivered a new family of
+electrically erasable RAM products, providing cost-effective alternatives to nonvolatile RAM solutions and
+a number of memory densities. LMO represented 11.3% of our end-market demand in the December
+quarter.
+
+An update regarding coronavirus and what we're seeing. First, all our employees are safe, and what
+remains -- and that remains our highest priority. We implemented travel bans in and out of China, Hong
+Kong and Taiwan 2 weeks ago. We also implemented self-quarantine requirements for anyone who may
+have traveled to these countries, mandatory medical assessment and clearance for anyone who may have
+symptoms, a screening questionnaire for all external visitors to any Microchip facility and common sense
+preventive sanitizing steps on a continuous basis in all our facilities worldwide.
+
+As you well know, most provinces in China have extended the Chinese New Year holidays to February 9,
+Hubei province, where Wuhan is located, has extended the holidays to February 13.
+
+Our manufacturing footprint in China is small, and we expect little impact to our operations from this
+extension. Also at this time, we do not anticipate any significant supply chain issues for materials
+sourced from China. Some of our customers would -- could be affected by the extended Chinese New
+Year holidays. It is too early to determine what impact there may be as most are not yet back from
+the extended holidays. Because Chinese New Year this year was early in the quarter, there is more
+time for our customers to catch up lost production within the quarter. We also believe there is slack in
+manufacturing capacity, which can be of help while recovering lost production. These outbreaks are
+unpredictable, and there may yet be other twists and turns to come in the days ahead. We continue to
+process the news daily as well as monitor information from the center for disease control and the World
+Health organization. We will adapt our response as needed and focus on the things that we can control.
+
+Finally, over the last few months, we started to share 6 megatrends that we believe provide significant
+growth opportunities for Microchip over the next 5 to 10 years, and I'd like to summarize them.
+
+First, the 5G infrastructure rollout, which is just getting started and has a decade ahead of it. Each prior
+generation of wireless infrastructure deployment, 2G, 3G and 4G, lasted for about 10 years. The Internet
+of Things comprised of smart, connected and secured end nodes is picking up steam, especially for
+industrial IOT, where there is compelling -- when there are compelling business models for customers to
+make money, save money and mitigate risk.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+Third, for data centers. The data center demand, the store and process data is exploding as data is
+created at a hyper-exponential rate. To put this in perspective, estimates are that 90% of the world's data
+was created in just the last 2 years, and that trend continues unabated.
+
+Fourth, electric and hybrid vehicles are writing a wave of consumer and regulatory forces, which are
+driving substantial investment in technology and capacity.
+
+Fifth is the Advanced Driver Assist, which is already a growth application and its proliferation to more car
+models and its natural progression to increasing levels of autonomous driving.
+
+Sixth is finally the artificial intelligence and machine learning, which we see as another explosive growth
+area, not only in the cloud, but even more so at the edge. These megatrends cut across the diverse
+end markets we serve and guide our product development priorities. We believe these megatrends, in
+conjunction with our total system solutions go-to-market approach, will provide key opportunities for
+organic growth in the coming years.
+
+With that, let me pass it to Steve for some comments about our business and our guidance going forward.
+Steve?
+
+Stephen Sanghi
+CEO & Chairman
+
+Thank you, Ganesh, and good afternoon, everyone. Today, I would like to first reflect on the results of the
+fiscal third quarter of 2020, I will then provide guidance for the fiscal fourth quarter of 2020.
+
+Our December quarter was an interesting one in which we revised the midpoint of our guidance upwards
+twice. Once on December 3, 2019, prior to the Crédit Suisse conference and second on January 6, 2020,
+prior to JPMorgan Conference.
+
+Our final December quarter GAAP net sales were on the high end of our latest guidance and came in at
+$1.287 billion, down 3.76% sequentially. Our end-market demand based on sell-through was $36 million
+higher than GAAP sales, which we believe shows that the channel was continuing to manage their working
+capital conservatively by reducing inventory due to uncertainty. December was the seventh consecutive
+quarter where our sell-through revenue was higher than our sell-in revenue.
+
+Our consolidated non-GAAP gross margin of 61.5% was just above the high end of our guidance. Our
+consolidated non-GAAP operating margin of 35.1% was also just above the high end of our guidance. Our
+consolidated non-GAAP earnings per share was $1.32, which was also above the high end of our revised
+guidance. So overall, December quarter turned out to be a lot better than originally guided.
+
+On non-GAAP basis, this was also our 117th consecutive profitable quarter. In the December quarter, we
+paid down $257 million of our debt. Our total debt payment since the end of June 2018 has been about $2
+billion. The pace of debt payments has also -- has been strong despite the weakened uncertain business
+conditions, underlining the strong cash-generation characteristics of our business as well as our active
+efforts to continue to squeeze working capital efficiencies.
+
+Now before I provide you guidance for the March quarter, let me comment on some of the inflection
+points that we saw during the December quarter. Our December quarter bookings were up double-digit
+percentage over the September quarter bookings that resulted in our starting backlog for March quarter
+to be up double-digit percentage over the starting backlog for the December quarter. Our starting backlog
+was up in each of the geographies of North America, Europe and Asia. From an end-market perspective,
+we saw strength in data centers and start of a recovery in industrial and automotive.
+
+Continuing on the inflection points, the book-to-bill ratio for December quarter was well above 1 after
+multiple quarters of book-to-bill being below 1. Our distributor inventory at the end of September was
+already at a low level and lowest in 15 years, except 1 quarter in fiscal year '13. In December quarter, the
+distribution inventory went even lower. During December quarter, we saw increased level of customer-
+requested pull-ins, many of its required factory expedite.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+Seeing these multiple signs of inflection point, we call the December quarter to be a bottom for Microchip
+for this cycle, barring any negative developments on the U.S.-China trade front or the impact of
+coronavirus.
+
+Now I turn to guidance for March quarter. The backlog from March quarter that started out quite strong
+continue to fill in during the month of January. Taking all these factors into consideration and after rolling
+up revenue expectations from sales regions as well as business units, we expect GAAP net sales, based on
+sell-in revenue recognition for our products, to be up between 2% to 9% sequentially in the March 2020
+quarter. The midpoint of our guidance for the March 2020 quarter reflects what we believe our business
+can deliver, assuming no extraordinary events. However, the wider-than-normal guidance range is to help
+account for the uncertainty associated with the evolving coronavirus situation. We are still in the early
+days of how this situation is playing out. We have no way to model how the rest of the quarter will play
+out for the coronavirus situation, and what the consequent business impact may be. But we believe that
+our guidance range incorporates our best judgment for the possible scenarios.
+
+Regarding CapEx, we expect to finish fiscal year 2020 with a CapEx of between $76 million and $81
+million, a significant reduction from fiscal year '19 CapEx of $229 million. This is consistent with what we
+have said before that our CapEx is divided between growth capital, maintenance capital and new products
+and technology capital in a fiscal year, like 2020, in which our net sales declined, the growth capital, which
+is the largest portion of the CapEx, declines to virtually nothing. And therefore, the total CapEx declined
+significantly.
+
+For December quarter -- it should be for March quarter. For March quarter, we expect our non-GAAP gross
+margin to be between 61.5% and 61.9% of sales. We expect non-GAAP operating expenses to be between
+25% and 26.2% of sales. We expect non-GAAP operating profit percentage to be between 35.3% and
+36.9% of sales, and we expect our non-GAAP earnings per share to be between $1.35 per share to $1.51
+per share.
+
+Given all the complications of accounting for our acquisitions, including amortization of intangibles,
+restructuring charges and inventory write-up on acquisitions, Microchip will continue to provide guidance
+and track its reserves on a non-GAAP basis, except for net sales, which will be on a GAAP basis. We
+believe that non-GAAP results provide more meaningful comparison to prior quarters, and we request that
+the analysts continue to report their non-GAAP estimates to first call.
+With this, operator, will you please poll for questions?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] And our first question will come from Craig Hettenbach with Morgan Stanley.
+
+Craig Matthew Hettenbach
+Morgan Stanley, Research Division
+
+Steve, just a question on the expedite activity. Can you just maybe put that into context with currently
+kind of where your lead times are and things you're looking to do to maybe kind of address that as
+business improves?
+
+Stephen Sanghi
+CEO & Chairman
+
+So during this down cycle, we built a substantial amount of inventory that is held in the die bank. So
+when an order comes in, it's really taking the die from the die bank and processing it through, which
+can be anywhere to as low as 3 weeks to as much as 6, 7 weeks, depending on where it has to go inside
+or outside or what difficult package or assembly test it might be. What we are finding is that customers
+stationed a fair amount of backlog just outside the quarter. And then when they need the product, they
+expedite into the quarter. This way, they kind of have both choices. They could not take it in the quarter
+and leave it out or push it out further. Or if they need it, ask us to pull it in. We've been seeing this
+strange phenomenon now, not only this quarter, we've been seeing it for some time, but it really became
+even more accentuated. So there's a fair amount of backlog sitting outside the quarter in April, and
+customers are expediting it into the quarter. Does that answer your question?
+
+Craig Matthew Hettenbach
+Morgan Stanley, Research Division
+
+Yes.
+
+Operator
+
+Our next question comes from Vivek Arya with Bank of America.
+
+Vivek Arya
+BofA Merrill Lynch, Research Division
+
+Steve, I'm curious, what are you expecting your distributors to do in the March quarter? I think you're
+giving a net sales outlook. So any color on sell-in and sell-out trends would be helpful. And in general,
+what are they saying to you? Why are they taking down Microchip inventory to such low levels because
+it's such an outlier, and we don't hear of any of your other peers, their inventory is being taken down to
+similarly low levels.
+
+Stephen Sanghi
+CEO & Chairman
+
+Well, I don't really know if -- as we speak, distributors are taking down inventory further, but they have
+in the last 7 quarters or so through December. We don't really have a guidance for the March quarter
+on sell-through. We can't really provide both ends of the guidance. It's just too much work. So we're
+providing the sell-in guidance that we have given you. And in the December quarter, when we provided
+the guidance, we expected that distributors will reverse the trend and will start to build some inventory
+towards normalization. It did not happen in December. We're expecting it would happen again in March,
+but there's no guarantee. Distributors will do what they will do. I think part of the reason is, for 30
+years, a culture at Microchip, in our business unit, sales organization up and down to the change with
+the distribution. Our conversations with the distributors are winning designs, creating a large funnel and
+pulling those designs to production and creating sales well. That's how we pay our salespeople, that's how
+we pay our business units, that's how all the bonuses are structured. And we don't really have a whole lot
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+of conversations regarding what we give into the distribution. That has off -- always been less important
+to us because we manage our business based on sell-through. So distributors take the inventory what
+they want to run their business and based on getting returns for their business. In contrast, I think we
+see many of our peers and competitors are more focused on sell-in revenue recognition, where they may
+make deals to put more product into distribution and arresting the fall of the inventory that way.
+
+Ganesh Moorthy
+President & COO
+
+I would add one more thing. We've always had low lead times on our products. And I think that gives
+distributors an opportunity to run the inventory to whatever the lowest level they think they can get away
+with, while continuing to focus on sell-through. So short lead times give them the opportunity to carry less
+inventory as well.
+
+Stephen Sanghi
+CEO & Chairman
+
+I would also add that sometime we charge expedite charges for expediting the product. So sometime
+expedite charges require us to spend weekends, pay overtime or pay expedites for shipping, going
+through hand-carry products and all sorts of charging can incur. And we often pass those to the
+customers. It doesn't move the needle in terms of revenue. But if somebody wants to expedite the parts,
+it's not always free.
+
+Vivek Arya
+BofA Merrill Lynch, Research Division
+
+But you're not assuming any restocking benefit, any major restocking benefit in March.
+
+Stephen Sanghi
+CEO & Chairman
+
+We have no way to model it.
+
+Operator
+
+Our next question comes from Gary Mobley with Wells Fargo.
+
+Gary Wade Mobley
+Wells Fargo Securities, LLC, Research Division
+
+I want to ask about your relative performance in the microcontroller segment. It looks like for the full
+calendar year 2019, you outperformed the microcontroller market in terms of sales growth. If you believe
+in the SIA sales metrics. But in the second half of the year, it looks like -- in particular, in the fourth
+calendar quarter, it looks like you might have underperformed the market. To what should we attribute
+that to? Is it -- this is just sort of a short-term disruption or anything to look into there long term?
+
+Ganesh Moorthy
+President & COO
+
+I'm not sure what data is that you're referring to. So we were sequentially down 1.1% on microcontrollers,
+September to December. If you look at the year-over-year numbers, we're -- on microcontrollers, we're
+down about 5%, 5.5%, somewhere in that neighborhood. The story is not written. We don't see any
+annualized numbers that are out yet, maybe SIA has some early numbers. We'll get that by March, April,
+and we'll, at the next conference call, have the typical Gartner 2019 numbers. There's nothing in our
+business that has any indication that something was better in the first half and got worse in the second
+half.
+
+Stephen Sanghi
+CEO & Chairman
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+I think if you look at the third quarter results sequentially and compared it to a very large competitor, I
+think we substantially outgrew them. So...
+
+Ganesh Moorthy
+President & COO
+
+Either on quarter or by year-over-year.
+
+Stephen Sanghi
+CEO & Chairman
+
+Yes.
+
+Operator
+
+Our next question comes from Chris Caso with Raymond James.
+
+Christopher Caso
+Raymond James & Associates, Inc., Research Division
+
+A question with regard to gross margins, and assuming we are -- have started recovery, we'd hope to see
+some gross margin improvement as a result. Perhaps you could answer it in terms of production utilization
+levels with some of the better order rates, has that caused you to change any production levels? And then
+from a cost standpoint, as we go forward, I think you still have some integration benefits still to come.
+Could you help to quantify those, and when they kick in and how it helps leverage, if indeed we're in a
+recovery?
+
+James Eric Bjornholt
+Senior VP & CFO
+
+Sure. This is Eric. So in the December quarter, we incurred about a $16 million factory underutilization
+charge that was reflected in our cost of sales. That was up about $7 million quarter-on-quarter. We expect
+that charge to be lower in the March quarter, particularly in our back-end assembly and test operation,
+we're running the factories higher. Steve talked about in an earlier response that our die bank is pretty
+healthy. But back-end operations, we've been training, finished goods and looking to run the factories
+harder this quarter, which should help on the gross margin and the guidance that we're giving. So that's
+a piece of it. We continue to run our factories as efficiently as we can. We're continuing to invest to bring
+some of the outsourced assembly and test in-house at a moderate rate, and all those things are going to
+benefit gross margin long term and lead us to our long-term guidance, which is to get to about 63% non-
+GAAP gross margins as a long-term model versus the 61.7% we're guiding to at the midpoint of guidance
+for the current quarter.
+
+Operator
+
+Our next question will come from William Stein with SunTrust Robinson Humphrey.
+
+William Stein
+SunTrust Robinson Humphrey, Inc., Research Division
+
+Similar topic, only not just gross on operating as well. Maybe, Eric, you can take a step back and
+frame up relative to where you are now? And contemplating your longer-term goals, what's the path to
+getting there? Is it just a modest amount of revenue recovery is mix part of the equation, is there still
+restructuring for Microsemi? I know you're still bringing capacity in-house. It seems to us that it seems
+fairly likely that you'll be able to exceed these long-term targets, given the revenue level that you're
+achieving today relative to what the next peak could be, for example.
+
+James Eric Bjornholt
+Senior VP & CFO
+
+Okay. So I think I've kind of touched on gross margin so far, and we've been told by others that they think
+that's a conservative forecast, but we're not going to update that model until we get to the target.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+And on OpEx, we're guiding the current quarter to be between 25% and 26.2% of sales, and our long-
+term model is 22.5%. I would say we have been pretty conservative in how we've been managing the
+business during this current cycle. And with that, we need to make sure that we're making the appropriate
+investment, whether it's in R&D, support functions, technical sales, outreach to the customers to make
+sure we drive the long-term health of the business and some of our variable compensation programs too
+will kick back in as revenue grows. So we have confidence in the long-term model, which is just above
+40% operating margins, and we've got ways to go when we're guiding the current quarter at the midpoint
+of guidance to about 36.1%. So I'd say be patient, we do need revenue growth to get there. But I think
+we're well positioned with the investments that we've made to drive to higher levels than what we're
+seeing today.
+
+Operator
+
+[Operator Instructions] Our next question comes from Ambrish Srivastava with BMO Financial Group.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+Steve, I was wondering if you could give us a little bit more detail on the source of strength in bookings,
+whether end markets or geos. I believe last earnings call, you had indicated that China was stronger in
+terms of geos. So any updates on that front would be helpful.
+
+Stephen Sanghi
+CEO & Chairman
+
+So I think from an end market perspective, we said that data center has been strong all along, and we
+are seeing a start of a recovery in the industrial market and the automotive market. The communication
+market remains weak, and the appliance market remains weak. And aerospace and defense is going to
+always lumpy and it's hard to call.
+
+From a geographical perspective, yes, we saw strength in the China market last quarter, but you would
+see the weakness in China market this quarter driven by the Lunar New Year. And you don't -- we --
+nobody knows what's going to happen with the coronavirus. So this quarter, you would see stronger U.S.
+and Europe and weaker China.
+
+Operator
+
+Our next question comes from Raji Gill with Needham & Company.
+
+Rajvindra S. Gill
+Needham & Company, LLC, Research Division
+
+If we think about the seasonality in the business now that we have some time to [indiscernible]. How
+do we think about it coming out of the bottom of the cycle and kind of perhaps entering into mid-cycle
+recovery, excluding the impact of the coronavirus? I'm just trying to get a sense of the seasonality
+[indiscernible] acquisitions post the bottom of the cycle.
+
+Stephen Sanghi
+CEO & Chairman
+
+I think Raji, seasonality is still hard to measure where the -- all of the acquisitions that we have
+completed. The events that have happened in the last couple of years, the -- all the trade tension
+situation, general economic conditions, now the coronavirus. Prior to that, we had a significant inventory
+correction event on, especially the Microsemi inventory. We really haven't finished enough quarters in a
+healthy business environment to peg a seasonality. So I would think it still remains difficult.
+
+Operator
+
+Our next question will come from Craig Ellis with B. Riley FBR.
+
+Craig Andrew Ellis
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+B. Riley FBR, Inc., Research Division
+
+Congratulations on the good execution. I wanted to go back to some of the comments around the
+performance on debt reduction, which, over the last 6 quarters at almost $2 billion, is very strong. The
+question is, perhaps, both to you, Eric, and you, Steve. As you look ahead and given the trajectory you're
+on, it seems like you could be at a 3x net debt-to-EBITDA level and as soon as 4 quarters or so. So how
+do you think about deploying the cash to create value for shareholders when you get to that level, would
+a vast majority of available cash will go to debt pay down? Or would you start looking at other things, and
+what would the priorities be at that point?
+
+Stephen Sanghi
+CEO & Chairman
+
+Let me take that, and Eric can add to it. First of all, I don't think I have looked at a model, which will
+take the leverage down to 3x in 4 quarters. That seems awfully aggressive. Although I don't know what
+assumption you are making in the revenue growth of the recovery, it will largely depend on that. But
+basically, yes, we need to bring the debt leverage below 3 handle, kind of have it somewhere in the high
+2s. Once we get there, then we'll still be generating somewhere of the order of well over $1 billion of
+free cash per quarter, and we need to figure out what we do. I mean we haven't been in that situation
+in quite a long time. You have obvious choices. You could pay down more debt and bring leverage down
+further. But more preferably, you could increase the dividend. You can start a buyback program. And that
+all, assuming that there is not a further M&A possibility. We have said before that we think by the time
+we come up for air, majority of the company is the smaller companies that we would like to buy, probably
+would have been bought. And there isn't as much more opportunity there, but there could be 1 more
+possibly.
+
+But secondly, we think that the remaining assets are very expensive. There is a large amount of M&A
+bid on them already because every small companies really on sale. And we don't really pay that kind of
+multiple that we have seen paid in the recent deals, Cyprus as well as some of the deals. Those multiples
+were way, way too high for our tests. So if we cannot find a reasonable other acquisition, then our focus
+will switch to other uses of cash, including higher dividend, more stock buyback and possibly some more
+debt pay down.
+
+James Eric Bjornholt
+Senior VP & CFO
+
+I think what I'm going to add to that is just kind of a short-term view here is -- because I know I'll get
+that -- we'll get this question a lot is what do we expect for that pay down in the current quarter, the
+March quarter. And really, we expect that to be somewhere between $225 million and $250 million. Last
+quarter, it was $257 million. But our starting accounts receivable balance is lower just because revenue
+was down last quarter. So really to get some tailwinds behind us. From a revenue perspective, as the top
+line grows, I think EBITDA will start growing nicely. And that's going to help with the leverage metrics
+coming down, but it kind of depends on what the environment is going to be over the course of the next
+year if we were able to get to that 3x number that you mentioned. I think we need some pretty good
+revenue growth.
+
+Operator
+
+[Operator Instructions] And our next question comes from Chris Danely with Citi.
+
+Christopher Brett Danely
+Citigroup Inc, Research Division
+
+Steve, you mentioned that some customers were expediting orders out of the June quarter into this
+quarter. So do you think that the June quarter could be at risk of a little bit of a disappointment, like we're
+routing from the June quarter to pay the March quarter? And then further to that, you talked a little bit
+about lead times. Do you think that there is risk of extended lead times if this expediting continues?
+
+Stephen Sanghi
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+CEO & Chairman
+
+The lead times are not at risk short term because we have a fair amount of die inventory, and there's
+a fair amount of capacity slack in the system since the revenues are down year-over-year. The backlog
+bottomed out some time ago, and the total extended backlog is really growing nicely. So when people are
+taking backlog from June quarter moving into March quarter, that's not putting June quarter at risk. There
+is a higher and higher backlog. The overall backlog is growing. Book-to-bill was strongly positive. So it put
+a very large amount of total backlog in the system.
+
+Ganesh Moorthy
+President & COO
+
+Chris, we had expedited in the December quarter, where people have placed backlog in the March quarter
+and pulled it in. You're seeing a stronger March quarter despite that. So as you go into an up an upward
+trend in the business, it is not unnatural. We've seen it in other cycles where customers start to see their
+business recovering and wanting to have products sooner than they had originally planned for.
+
+James Eric Bjornholt
+Senior VP & CFO
+
+Yes. And in addition to those orders that are being pulled in by customers requesting them into the current
+quarter, we're also receiving orders that are just within our normal published lead times, and that can
+create some expedite activity also.
+
+Ganesh Moorthy
+President & COO
+
+Often with short lead times.
+
+Stephen Sanghi
+CEO & Chairman
+
+Yes. And Chris, this phenomenon is not a new one. We've seen it before in prior cycles, and we've been
+seeing it in this cycle. It's -- I kind of call it, have your cake and eat it too. So customers will place an
+order, where they are still in the cancellation or push-out window. And if they don't want it, if the business
+is not strong, they can push it out or leave it out. But if their business is stronger than they needed, then
+they ask us to expedite it, kind of have their cake and eat it too. It's not a new phenomenon. But we are
+seeing it quite accentuated right now, and that's why I called it out.
+
+Operator
+
+Our next question comes from Harsh Kumar with Piper Sandler.
+
+Harsh V. Kumar
+Piper Sandler & Co., Research Division
+
+Steve, I was curious with the sudden pickup in China. Are you aware of any areas of shortages, not just in
+your business, but in the industry overall?
+
+Stephen Sanghi
+CEO & Chairman
+
+I'm not seeing any shortages. I mean, China right now is shutdown. So you really wouldn't get any
+data, and they were shut down for the Chinese New Year. They're just about coming back, but most
+provinces have extended until February 9. But prior to going for the Chinese New Year, no, I -- we were
+not experiencing any shortages.
+
+Operator
+
+Our next question comes from Christopher Rolland with Susquehanna International Group.
+
+Christopher Adam Jackson Rolland
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+Susquehanna Financial Group, LLLP, Research Division
+
+Eric, perhaps asked another way. If you could talk about Atmel and Microsemi, bringing them in-house.
+Remind us kind of where we are front end and back end? And then also the gross margin benefits that you
+would get there? Also, how you're able to do this in such a small CapEx envelope as well?
+
+James Eric Bjornholt
+Senior VP & CFO
+
+Okay. So there's a couple of pieces to that. So we did tighten our investment criteria in terms of making
+those capital investments over the course of the last year when business was difficult. And so we shorten
+the window, the payback window from a cash flow perspective from 2 years down to a year. And we
+really haven't changed that at this point in time. So that's one of the reasons it's been lower. And this is
+a very detailed work. So it's package by package, part by part. And none of these investments are needle
+movers. But in aggregate, they do help gross margins slowly over time. So I think that's responsive to
+your question, unless these guys have anything else they'd like to add.
+
+Stephen Sanghi
+CEO & Chairman
+
+I think there's then the percentage we haven't said and outside for fab, assembly and tests.
+
+Christopher Adam Jackson Rolland
+Susquehanna Financial Group, LLLP, Research Division
+
+Yes. So fab is 39% internal, assembly is 45% and test is 54%.
+
+Harsh V. Kumar
+Piper Sandler & Co., Research Division
+
+That's useful.
+
+James Eric Bjornholt
+Senior VP & CFO
+
+And we would expect those assembly and test percentages to increase over time as we gradually make
+these investments.
+
+Operator
+
+Our next question will come from Harlan Sur with JPMorgan.
+
+Harlan Sur
+JP Morgan Chase & Co, Research Division
+
+Congrats on the strong start to 2020. I know lead times are still pretty short. But given the strong
+bookings trends coming off of the depressed September quarter, strong bookings thus far here in the
+March quarter and maybe some backlog build for June, existing out the potential issues for coronavirus.
+But do you think you're setting up given the backlog that you're seeing, at least for a seasonal June
+quarter, which is typically one of your seasonally strongest quarters.
+
+Stephen Sanghi
+CEO & Chairman
+
+We are not giving guidance or commenting on the June quarter, especially in the light of significant
+uncertainty because of the coronavirus. Remove those uncertainties and let's say there's no impact and
+business comes back and the virus is contained rapidly and all that, then your assessment for the June
+quarter would be correct.
+
+James Eric Bjornholt
+Senior VP & CFO
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+Yes. And I think I would just add that we are very well positioned from a capacity perspective to be able to
+respond quickly to upside if that develops.
+
+Harlan Sur
+JP Morgan Chase & Co, Research Division
+
+Got it. And then, I guess, on that note, back in early January when you did your update, it didn't sound
+like you were going to be increasing front-end utilizations near-term just because you guys have pretty
+substantial die bank. But let's say, as the much quarter progresses and the backlog is indicating the
+potential for normal seasonal growth for June and September, I assume the team would start to ramp
+capacity utilization, say, in the back half of this quarter. Is that kind of the right way to think about the
+potential timing of utilizations going up?
+
+Stephen Sanghi
+CEO & Chairman
+
+So -- this is Steve. Let me take that. I think let's start from the back end first then we'll come to the front
+end. The back-end utilization is going up as we speak. And as we ramp, it will continue to go up because
+we depleted the finished goods. And when the orders are strong, we've got to take the die bank and finish
+them. So that will continue to have a positive effect on gross margin, pretty much starting now.
+
+When you look at the front end, the front end still has a fair amount of die bank, but there also you got to
+separate it on the production we do inside versus the production we buy from outside. The inventory and
+the products we buy from outside was depleted to a lower level. And there, we are increasing the buy as
+we speak. But there's not a utilization impact of that because that was being done outside. What we were
+doing inside, that's where we have the substantial die bank. And I think it will at least take it a few more
+quarters before we have to start increasing the production in our fabs.
+
+Harlan Sur
+JP Morgan Chase & Co, Research Division
+
+Got it. Okay. But then the lower end, the underutilization charges here in the March quarter is simply
+because you are filling out your packaging and test assembly utilizations are going up, right? Is that the
+primary driver for the lower underutilization charges?
+
+Stephen Sanghi
+CEO & Chairman
+
+Yes. There's always lots of moving parts, mix and all that. But yes, there is a new phenomenon where
+even in the December quarter, we were depleting finished goods. We were a quarter back-end utilization
+was lower than the September quarter. And the March quarter will be up significantly from the December
+quarter.
+
+I wanted to add one more comment on the question you asked regarding the June quarter seasonality,
+how it would be? And the comment was made that June quarter will at least be seasonal. I would say,
+I hope that one of these quarters, current quarter as well as June quarter and September quarter are
+well above seasonal because the inventories are so low. And if I take any Qs from any prior recoveries,
+whether it was from SaaS or the recovery in -- from 2009 cycle or any other cycle recovery, usually, you
+got 2 or 3 quarters of well above seasonal recovery that takes the business back to the old heights and
+then goes from there. So I'd like to think that any kind of forecast here becomes very conservative.
+
+Harlan Sur
+JP Morgan Chase & Co, Research Division
+
+Yes. I thought that's a fair point, Steve.
+
+Operator
+
+Our next question will come from the Vijay Rakesh with Mizuho Securities.
+
+Vijay Raghavan Rakesh
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+Mizuho Securities USA LLC, Research Division
+
+I was wondering, as you look at your business, I was wondering if you can give us some color by markets,
+in markets, automotive, industrial, how do you see that playing out to the rest of the year?
+
+Ganesh Moorthy
+President & COO
+
+So as Steve mentioned, we're starting to see automotive and industrial picking up from the bottom that
+they were at. They had pretty bad years in 2019. And our expectation is that barring any outside events
+as we go through 2020, both those end markets should see continued improvement.
+
+Vijay Raghavan Rakesh
+Mizuho Securities USA LLC, Research Division
+
+Got it. And on the industrial and other end markets, do you see a similar trend into the back half? Or do
+you see a stronger first half year or...
+
+Ganesh Moorthy
+President & COO
+
+So my comment was for both automotive and industrial. We've talked about data center. It was strong.
+It remains strong. We don't see anything that suggests it's different. There may be some communication
+market changes that are driven by what happens with coronavirus. We don't know. But there is a large
+5G cycle -- investment cycle that's starting. And then as far as defense and aerospace tends to be pretty
+steady and how it goes. It remained steady with where it's at. And then the consumer cycle, we have yet
+to see if we'll see some benefits. It needs further trade resolution for it to see any significant benefits, but
+nothing new to report on that, on the consumer end of the market.
+
+Operator
+
+Our last question will come from John Pitzer with Crédit Suisse Group.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+I've been jumping around calls, so I apologize if this is a repeat. But Steve, if you kind of look at the
+operating model for the business. Historically, you guys have always made good progress and then kind
+of taking a step back as you've made acquisitions to then kind of move forward again. I'm just kind of
+curious, if we go to an extended period where you're not sort of in the acquisition game. How should we
+be thinking about operating margin targets and incremental gross and op margins for the business over
+time?
+
+Stephen Sanghi
+CEO & Chairman
+
+So John, no, you are very correct that we make substantial progress in gross and operating margin after
+an acquisition. And then when we do another acquisition, most times, we're not buying businesses that
+are over 60% gross margin and 40% operating margins. So our overall company margin, gross and
+operating, drop. And then we work back up few steps only to take a fall again when we buy the next
+acquisition. Now if you make the assumption that for an extended period of time, we were to not do
+another acquisition, then first thing that would happen is that we will reach our operating model. So our
+operating model to remind everyone is 63% gross margin and 22.5% operating expenses, leading to a
+40.5% operating profit. So 2 ends of it. First the gross margin. We're guiding 61.7% gross margin this
+quarter. So it's 130 basis points away. If you just take the underutilization charge of $16 million, that
+pretty much gets you there, almost.
+
+The second issue is the operating expense. So operating expense, basically, we're guiding 25% to 26.2%.
+And there is a huge leverage there with the revenue increase. The current revenue is -- I think, were
+a couple of hundred million dollars behind that past record, very round number. So once you gain that,
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+you have a significant leverage with the operating expense comes down. Some leverage still remains in
+integration of Microsemi, with all these go-lives and all that, that are happening, which will take another
+9 months. But once we get all that done, then you have achieved gross margin as well as the operating
+expense and you have reached the model. Now if your question is, where does the model go? Do we
+continue to go higher in gross margin and continue to grow higher in operating margin? For that, get in
+line, and we'll talk about it when we get there.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+That's helpful. And then just secondly, on Microsemi. With an acquisition, you kind of made as the industry
+was going into a correction, and you're talking a little bit about kind of the expense leverage there. I'm
+just kind of curious from a revenue leverage. I mean, one of the things you guys have always done well as
+you bought these assets is going and kind of apply a better pricing discipline to the business. Is there still
+more to go with the Microsemi acquisition? Or has that mostly played out?
+
+Ganesh Moorthy
+President & COO
+
+First of all, I don't think we had the same pricing discipline issues in Microsemi as we did at Atmel.
+Microsemi, just to remind you, was gross margins that were right around 60% when we did the
+acquisition. The product lines at Microsemi are extremely sticky products, and many of them have very
+long life cycles. And to that extent, those margins will stay high. The product line revenues will stay high.
+Now we have -- in the time we have owned Microsemi started to work on, so how are we going to take
+advantage of Microsemi's position in the end markets they were strong in, data center communications
+and aerospace and defense, to be able to sell a more complete portfolio? And that work is well underway
+and reverse how can we take Microsemi products into the end market that Microchip was strong in prior to
+the acquisition, automotive, industrial and home appliances. And that work is going in. Now we have a 6-,
+7-quarter window, where the environment has been weak. And as we emerge from a weak environment
+and we go into a more normal environment, all the hard work that has been done will begin to play itself
+out. And so I think there are revenue synergies yet to come. But in part, it's work to be done, and a lot of
+that is underway and has been for some time. But a lot of it has to come as the environment strengthens.
+
+Stephen Sanghi
+CEO & Chairman
+
+And John, I think if you study some of the past cycles, I know you and other analysts are very good
+studying the past analysts -- the past cycles. What really happens is nobody believes the depth of the
+downturn. And the estimates always stay high and they get cut multiple times. In this cycle, the estimates
+fully have been cut 4x not only for Microchip, but for the industry and various other players, could be more
+than 4x. And then when the reverse happens, the estimates always go higher. We can raise, we can raise,
+we can raise for many quarters. I have seen this in prior cycles because nobody has the confidence to get
+the revenue or guide the revenue to be higher than seasonal, and it continues for many quarters in the
+other direction. That's what I'm hoping for, but not guiding to.
+
+Operator
+
+And at this time, there are no further questions in the queue. So I would like to turn the call back over to
+Mr. Steve Sanghi for any closing remarks.
+
+Stephen Sanghi
+CEO & Chairman
+
+Well, we want to thank everyone for attending this call, and we're going to about 3 different conferences, I
+think, this quarter. So we'll see some of you at those conferences. Thank you.
+
+Operator
+Thank you, ladies and gentlemen. This concludes today's teleconference, and you may now disconnect.
+Please enjoy the rest of your evening.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2020 EARNINGS CALL |  FEB 04, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+

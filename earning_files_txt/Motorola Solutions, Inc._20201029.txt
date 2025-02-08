@@ -1,0 +1,1016 @@
+Motorola Solutions, Inc. NYSE:MSI
+FQ3 2020 Earnings Call Transcripts
+Thursday, October 29, 2020 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ2 2020-
+
+-FQ3 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+GUIDANCE
+
+CONSENSUS
+
+EPS Normalized 
+
+1.22
+
+1.78
+
+7.50
+
+-
+
+8.72
+
+Revenue  (mm)
+
+1572.27
+
+1829.14
+
+7347.32
+
+7334.91
+
+7971.64
+
+Currency: USD
+Consensus as of  Oct-29-2020 8:49 PM GMT
+
+FQ3 2019
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.96
+
+2.80
+
+1.30
+
+1.22
+
+2.04
+
+2.94
+
+1.49
+
+1.39
+
+4.08 %
+
+5.00 %
+
+14.62 %
+
+13.93 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Gregory Q. Brown
+Chairman & CEO
+
+Jason J. Winkler
+Executive VP & CFO
+
+John P. Molloy
+Executive Vice President of
+Products & Sales
+
+Kelly S. Mark
+Executive Vice President of
+Software & Services
+
+Tim Yocum
+Vice President of Investor
+Relations
+
+ANALYSTS
+
+Adam Tyler Tindle
+Raymond James & Associates,
+Inc., Research Division
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research
+Division
+
+Fahad Najam
+MKM Partners LLC, Research
+Division
+
+George Charles Notter
+Jefferies LLC, Research Division
+
+Joshua Michael Kehoe
+Citigroup Inc., Research Division
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+Paul Jonas Silverstein
+Cowen and Company, LLC,
+Research Division
+
+Timothy Patrick Long
+Barclays Bank PLC, Research
+Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Presentation
+
+Operator
+
+Good afternoon, and thank you for holding. Welcome to the Motorola Solutions' Third Quarter 2020
+Earnings Conference Call. Today's call is being recorded. If you have any objections, please disconnect at
+this time.
+
+The presentation material and additional financial tables are currently posted on the Motorola Solutions
+Investor Relations website. In addition, a replay of this call will be available approximately 3 hours after
+the conclusion of this call over the Internet. The website address is www.motorolasolutions.com/investor.
+[Operator Instructions]
+
+I would now like to introduce Mr. Tim Yocum, Vice President of Investor Relations. Mr. Yocum, you may
+begin your conference.
+
+Tim Yocum
+Vice President of Investor Relations
+
+Thank you. Good afternoon. Welcome to our 2020 third quarter earnings call. With me today are Greg
+Brown, Chairman and CEO; Jason Winkler, Executive Vice President and CFO; Jack Molloy, Executive Vice
+President, Products and Sales; and Kelly Mark, Executive Vice President, Software and Services. Greg and
+Jason will review our results along with commentary, and Jack and Kelly will join for Q&A.
+
+We posted an earnings presentation and news release at motorolasolutions.com/investor. These materials
+include GAAP to non-GAAP reconciliations for your reference. And during the call, we will reference non-
+GAAP financial results, including those in our outlook, unless otherwise noted.
+
+A number of forward-looking statements will be made during this presentation and during the Q&A portion
+of the call. These statements are based on current expectations and assumptions that are subject to
+a variety of risks and uncertainties. Actual results could differ materially from these forward-looking
+statements. Information about factors that could cause such differences can be found in today's earnings
+news release, in the comments made during this conference call, in the Risk Factors section of our 2019
+annual report on Form 10-K and in our other reports and filings with the SEC. We do not undertake any
+duty to update any forward-looking statement.
+
+And with that, I'll turn it over to Greg.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Thanks, Tim. Good afternoon, and thanks for joining us today. I'll start off by sharing a few thoughts about
+the overall business before Jason takes us through our Q3 results and outlook.
+
+First, I'm proud of the team, and I'm pleased with our results and execution in these challenging times.
+During the quarter, we achieved both revenue and earnings per share above the guidance we provided
+in August, driven by growth in video security, command center software and services. Additionally, we
+generated $392 million of operating cash flow and strengthened our portfolio by closing the acquisitions of
+Pelco, a leader in fixed video security solutions; and Callyo, a cloud-based SaaS mobile apps provider for
+law enforcement.
+
+Second, our Software and Services segment continues to perform well. During the quarter, the segment
+grew revenue 9%, expanded operating margins by 220 basis points and generated over half of the
+operating earnings for the company. We were also awarded the largest command center software order in
+our history, a $120 million-plus next-generation 911 multiyear contract.
+
+And finally, while the environment with COVID certainly remains fluid, I'm encouraged by the
+improvements we saw in many areas of our business during the quarter. Orders for body-worn cameras
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+were up significantly year-over-year. Sales of fixed video to our government customers were strong, and
+we saw improved demand from both our public safety LMR and PCR customers versus Q2.
+
+I'll now turn the call over to Jason to take you through our results and outlook before returning for some
+final thoughts.
+
+Jason J. Winkler
+Executive VP & CFO
+
+Thank you, Greg. Q3 results included revenue of $1.9 billion, down 6% from a year ago, including $55
+million from acquisitions. GAAP operating earnings of $352 million and operating margins of 18.9% of
+sales compared to 20.7% in the year ago quarter. Non-GAAP operating earnings of $463 million, down
+$46 million, and non-GAAP operating margins of 24.8%, down from 25.5% in the year ago quarter, due to
+lower sales and gross margin contribution in the Products and SI segment, partially offset by higher sales,
+higher gross margins and improved operating leverage in Software and Services.
+
+GAAP operating earnings per share were $1.18 compared to $1.51 in the year ago quarter. Non-GAAP
+EPS of $1.95 versus $2.04 last year, primarily due to lower sales in the Products and SI segment, partially
+offset by higher sales, gross margin and improved operating leverage in Software and Services.
+
+OpEx in Q3 was $455 million, down $49 million versus last year, primarily due to lower discretionary
+spend and incentives, partially offset by costs related to acquisitions. The Q3 effective tax rate was 20%
+compared to 23% in the year prior, a change driven primarily by higher R&D credits and a favorable U.S.
+Federal return to provision adjustment recorded in the third quarter.
+
+Turning to cash flow. Q3 operating cash flow was $392 million compared with $525 million in the prior
+year, and free cash flow was $343 million compared with $465 million in the year prior. The decrease in
+cash flow was primarily due to lower sales. Capital allocation for Q3 included $181 million for acquisitions,
+$109 million in cash dividends, $105 million of share repurchases and $49 million of CapEx. Additionally,
+during the quarter, we refinanced upcoming debt maturities with a new $900 million 10-year debt issuance
+at a rate of 2.3%. And finally, we repaid $400 million against our revolving credit facility, of which $300
+million was repaid during the quarter and $100 million subsequent to quarter end. We expect to repay the
+remaining $100 million balance by year-end.
+
+Moving to segment results. Q3 Products and Systems Integration sales were $1.2 billion, down 14%,
+driven by a decline in public safety LMR and PCR, partially offset by growth in video security. Operating
+earnings were $219 million or 18.9% of sales, down 330 basis points from last year, primarily due to lower
+sales. Some notable Q3 wins and achievements in the segment include a $44 million P25 order with a
+large U.S. Federal customer, a $28 million P25 order for the state of Wyoming, a $28 million P25 order
+for the State of Wyoming, a $20 million P25 order for the State of North Carolina, a $19 million TETRA
+order for a large international transportation customer. And we saw strong growth in fixed video sales to
+government customers during the quarter.
+
+Moving to our Software and Services segment. Revenue was $705 million, up 9% from last year, driven by
+growth in both services and software. Revenue from acquisitions in the quarter was $24 million. Operating
+earnings were $244 million or 34.6% of sales, up 220 basis points from last year, driven by higher sales,
+gross margin and improved operating leverage. Some notable Q3 wins in the segment include an over
+$120 million next-generation 911 multiyear contract, a $19 million body-worn and in-car video multiyear
+as a service contract in North America and an $18 million P25 multiyear services contract with Seminole
+County, Florida. Additionally, we received strong orders for body-worn cameras, launched our PremierOne
+cloud software suite and closed the acquisition of Callyo, a cloud-based SaaS mobile application provider
+for law enforcement.
+
+Looking at regional results. North America Q3 revenue was $1.3 billion, down 6% due to declines in public
+safety LMR and professional and commercial radio, partially offset by growth in services, video security
+and software. International Q3 revenue was $600 million, down 8%, primarily due to decline in public
+-- professional and commercial radio and public safety LMR, partially offset by growth in services, video
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+security and software. Sales grew in Europe, while Latin America declined on continued challenges from
+COVID-19.
+
+Moving to backlog. Ending backlog was $10.7 billion, down $361 million compared to last year, driven by
+revenue recognition on the Airwave and ESN contracts, partially offset by growth in North America and
+$81 million of favorable currency rates. Sequentially, backlog was up $174 million, driven by growth in
+North America and $93 million of favorable currency rates.
+
+Software and Services backlog was down $44 million or 1% compared to last year, due to revenue
+recognition on the Airwave and ESN contracts, partially offset by growth in North America multiyear
+agreements and $74 million of favorable currency rates. Sequentially, backlog was up $138 million or 2%
+due to growth in North America and $83 million of favorable currency.
+
+Products and SI segment backlog was down $317 million or 10% compared to last year, primarily due to
+large international deployments and COVID-19 delaying some sales engagements. Sequentially, backlog
+was up $36 million or 1%, driven primarily by international.
+
+Turning to our outlook. We expect Q4 sales to be down between 6% and 5.5% with non-GAAP EPS
+between $2.71 and $2.76 per share. This assumes a weighted average diluted share count of 175 million
+shares and an effective tax rate of 23% to 24%. For the full year, we now expect sales to be down
+approximately 7 -- 6.5%, up from our prior guidance of a 7% decline with non-GAAP EPS between $7.52
+and $7.58, up from our prior guidance of $7.40 to $7.52. And our outlook for operating cash flow is now
+approximately $1.55 billion, up $50 million from our previous guidance, driven by higher earnings and
+improvements in working capital.
+
+I would now like to turn the call back over to Greg.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Thanks, Jason. And let me just end with a few thoughts. First, I'm very pleased with the progress we're
+making in our command center software business. Our command center software suite now covers the
+entire mission-critical workflow, from 911 intake to case closure and management. It's a $500 million
+business which has been growing consistently and improving its profitability while also transitioning
+towards the SaaS model.
+
+Just this month, we announced our PremierOne cloud suite, which includes fully functional CAD and
+mobile and record solutions available on the secure Azure government cloud. So this means we now
+can provide our customers the flexibility of deploying their software either on-prem or in a fully featured
+cloud deployment. Currently, we have over 3,500 command center software customers, with over 500
+of those using 2 or more components of the suite. In Q3, half of our new orders were from customers
+further expanding into the suite, demonstrating this continued growth opportunity as customers embrace
+integrated software to run their operations.
+
+Second, the increased demand we're seeing for cloud solutions is not just in command center software.
+Customers are increasingly seeing the benefits of the cloud across their entire workflow. In LMR, or
+land mobile radio, we've launched our CirrusCentral cloud-based offerings for P25 networks that provide
+remote management and backup core options for our radio customers. In video security, we launched
+a video-as-a-service offering for body-worn cameras that includes our cloud-based digital evidence
+management software as well as Avigilon cloud services, which now has over 4,000 ACC 7.X sites
+connected to the cloud. All of these subscription-based offerings provide increased capabilities to our
+customers and opportunities for us to grow recurring revenues.
+
+And finally, through the global pandemic, natural disasters and civil unrest, our customers continued to
+depend on and rely on our solutions as need to have, demonstrating the criticality of what we provide.
+And our teams' and people's resilience in support of our customers around the world was nothing and is
+nothing short of remarkable. Additionally, we were just recently recognized by The Wall Street Journal
+as one of the world's most sustainably managed companies, ranking the sixth highest in the country. As
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+we move forward, we will continue to focus on supporting both our customers and our people while also
+deploying the capital to drive growth and continued shareholder return.
+
+And with that, Tim, I'll turn it back to you.
+
+Tim Yocum
+Vice President of Investor Relations
+Thanks, Greg. [Operator Instructions] Operator, would you please remind our callers on the line how to
+ask a question?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] The first question today is from Sami Badri of Credit Suisse.
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research Division
+
+Congrats on the solid results in 3Q. I first wanted to ask about the $120 million 911 contract that you
+guys signed. That was the highest in the company's history. And maybe 2 pieces to this. How will that
+be recognized over time, is kind of like the first question. And then I know there's probably going to be
+similar deals like this in the future, probably not at the same magnitude. But maybe could you give us a
+little bit of an idea on how popular this type of specific large deal could potentially be in demand in the
+medium to long term?
+
+Kelly S. Mark
+Executive Vice President of Software & Services
+
+Sure. Sami, it's Kelly. So on the NGCS, I think I would say 3 things about it. First off, look, we're really
+excited about that part of the business. It is the entry point for all 911 calls. And as I think I may have
+referenced on a prior call, what that effectively does is it creates the ESInet multi-lane highway entry point
+to 911 centers, where they can now handle video, audio, pictures, text versus the single-lane and highway
+voice that they could handle before.
+
+The second thing I'd say about this deal is when you think about it, this and other similar deals like that
+will get on NGCS, there's always an installation component that's upfront, and then there's a longer tail of
+as a service where we'll run the system for our customers. And that's similar to what we have here in the
+multiyear contract.
+
+The third thing I'd just remind you about around NGCS is while we have some of our own software and
+componentry in it, we are also acting as a systems integrator. So we are, in effect, reselling backhaul and
+other components as a offering for the entire solution, which is a bit different than what we do when -- in
+our 911 call-taking software, our CAD software, where we are the entirety of the software solution. But
+we're excited about this. We think that NGCS and ESInet is, I would call it, if you're looking at a 9-inning
+baseball game, I think we're somewhere around maybe the second or third inning. So we're early in the
+conversion of ESInet across the United States. So there's certainly other deals out there, and we'll just
+continue to fight for those and update you on those as they come.
+
+Gregory Q. Brown
+Chairman & CEO
+
+And Sami, this contract, $120 million plus, will be rev recognized over a multiyear long-term contract.
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research Division
+
+Got it. And then, Greg, just one question for you. We still have the $9 billion of revenue and $10 of EPS
+guidepost laid out for 2021. And obviously, COVID may have shifted this around a little bit. But I was
+hoping if you could give us a little bit of an update around this guidepost or this framework and how we
+should be thinking about what's to come in the medium to long term.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Yes. Well, obviously, COVID was the ultimate disruptor. But what I would say is I'm pleased with the
+momentum of how the business is performing. We talked about Q2 of this year, Sami, being a low point.
+We would improve in Q3. We expect to improve in Q4. I think the print for this quarter reflects some of
+that improvement. All I would say, look, I'm not going to guide 2021. I think that would be premature. But
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+I would say, as we sit here today, and I don't have a crystal ball, I would expect us to grow and return to
+overall revenue growth next year. And I would also expect us to grow in both segments for next year. But
+again, we'll update you a quarter from now on the next earnings call.
+
+Operator
+
+Our next question is from George Notter of Jefferies.
+
+George Charles Notter
+Jefferies LLC, Research Division
+
+I was really interested in some of your comments, Greg, on the software business. I think you mentioned
+a $500 million run rate at this point. Can you talk a little bit more about how that -- I would imagine that
+run rate is getting cannibalized to some degree as you move customers from perpetual software licenses
+to subscription. And can you talk about potential cannibalization on that revenue run rate or maybe talk
+about the mixture of customers that are converting to subscription? Or anything you can that can give us
+more insight in that transition.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Sure, George. So the majority of the software revenue today is license revenue. Kelly and Andrew have
+done a good job cloud enabling the suite. The only component left to cloud enable is records, which
+will be done in the first half of 2021. So we're incrementally moving more and more customers to as a
+service. But again, I think we're still going to be able to manage that transition from perpetual license
+incrementally to more as a service without any major dislocation or disruption of top line revenue. Said
+another way, you see that Software and Services will perform this year in the high single digits. And I
+expect Software and Services in total in the segment and both subsegments, software and services, to
+continue to grow in 2021 as well, even while we're transitioning those clients gradually to as a service. I
+view that as a multiyear transition.
+
+Kelly S. Mark
+Executive Vice President of Software & Services
+
+And George, the only thing I might add, it's Kelly, is the -- we're really excited about the command center
+software suite we just announced, which now fully cloud enables CAD records and our mobile. But that's
+in addition to already what we do in Aware. Our vast license plate recognition is as a service and also our
+Kodiak part of our portfolio as well. The only part of the entirety of the -- of what we have that won't be
+cloud enabled yet is our 911 call taking. That should happen in the first half of next year. And in addition
+to that, we're excited about what we just did with Callyo, the acquisition we just did, which picks up a very
+large customer base of folks that are using that mobile application, which is also an as a service part of
+the portfolio.
+
+George Charles Notter
+Jefferies LLC, Research Division
+
+Got it. Okay. And then one just quick housekeeping item. I didn't see it in the press release or the
+presentation. But was there an FX impact on top line in the quarter? And can you tell us what that was?
+
+Jason J. Winkler
+Executive VP & CFO
+
+It was pretty small.
+
+Operator
+
+Our next question today is from Keith Housum of Northcoast Research.
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Hoping you'd shed a little bit of light on the ability to do sales this quarter. In terms of last quarter, I think
+what we heard was a lot of challenges in terms of getting you to see the customers. How would -- did that
+evolve over the third quarter? And is that a challenge going into the fourth quarter?
+
+John P. Molloy
+Executive Vice President of Products & Sales
+
+Sure. Keith, it's Jack. Yes. So we saw sequential improvement in terms of our ability to engaging
+customers. And just to kind of give you the geographic around the world, first of all, in North America, in
+government, we've been able to engage in person with customers, and we've seen that manifest in terms
+of increase in proposals and sequential increase in terms of our LMR business and, as Kelly pointed out,
+command center and video.
+
+In Europe, it's important to point out 55% of our revenue in Europe is recurring revenue. But we are
+starting to see -- we saw certainly in Q3 both in the enterprise market and government the ability of our
+customers to actually come and extend and meet us virtually. So that's been an improvement. Asia Pac,
+same thing.
+
+The one area of the world where we're having essentially locked down, continues to be locked down, and
+we've got very much diminished expectations, is Latin America. But I would certainly say it's improved.
+Been really proud of the resilience of the team in terms of use of video conferencing and really trying
+to engage our customers and pull them along. We've been heavy in terms of virtual trade shows and
+demonstrations. And as I said, in government, particularly in public safety, we engage with our customers
+in person, masked up, et cetera.
+
+Gregory Q. Brown
+Chairman & CEO
+
+And Keith, just one other anecdote I'd give you is we just completed, Kelly's team, the annual software
+summit just a few days ago. We did it in person a year ago. We just completed the virtual multi-day
+engagement just a few days ago, and attendance was literally double virtually. So I think Molloy's team
+and Kelly's team and our customers, quite frankly, have been good in transitioning virtual engagement,
+digital engagement, business continuity. It depends on the theater, as Jack referenced internationally. But
+we've been able to navigate that much better than we were doing a quarter ago.
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+Got you. I appreciate that. And just as a follow-up there. In terms of -- changing gears, actually. In terms
+of like FirstNet and Airwave, can you guys give us the latest on where LTE versus LMR kind of stands in
+terms of around the world?
+
+Gregory Q. Brown
+Chairman & CEO
+
+I think it -- the high-level answer is no change from the last time we spoke to you. 4G and ultimately as it
+transitions here in North America to 5G, LTE or 5G is a complementary technology to mission-critical land
+mobile radio. I think the awards that Winkler went through on state awards and upgrades, particularly in
+state and local, reinforce and reference the criticality need-to-have dimensions of land mobile radio.
+
+As it relates to Airwave, I think it's the same thing. We believe -- we remain in active discussions with the
+customer, and we do have an expectation that, that Airwave contract will get another extension. But that
+timing will be dictated largely by the customer. But again, I think LMR, LTE or if you want to substitute
+that and say LMR/5G coexist. And quite frankly, we think the upgrade in faster speeds domestically and in
+the U.K. are good for command center, good for our video security business and overall are a net positive.
+
+Operator
+
+Our next question is from Adam Tindle with Raymond James.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Adam Tyler Tindle
+Raymond James & Associates, Inc., Research Division
+
+Greg, I just wanted to start with a question on margins. Between the 2 segments, it's been a little tale
+of 2 cities. In Products and SI, that's been the drag on overall performance but probably the biggest
+opportunity moving forward. So hoping you can maybe just walk through some of the moving parts to get
+this segment back to the kind of 22% to 23% operating margin range from years past. Does revenue need
+to get back above $5 billion? Are there things you can do from an OpEx standpoint and just the timing to
+that?
+
+Gregory Q. Brown
+Chairman & CEO
+
+Yes. Adam, so kind of taking -- let's take a look at OpEx overall. For the full year, we'll remove about $250
+million of OpEx out of this business this year, year-over-year. If you net that to include acquisitions, it's
+a net $170 million reduction. So I think the team has moved quickly and done a good job on expense
+structure, both structural and variable, to adapt to the COVID environment we got hit with a couple of
+quarters ago. So think of OpEx for this year, all in, year-over-year being down net $170 million. About
+approximately $100 million of that returns next year in the form of incentive compensation.
+
+Operating margins for the 2 segments, we still expect Software and Services to be consistent with what
+we told you last time with operating margins for the full year 2020 of being about 34%. Obviously, the
+products segment declines this year given the top line volume decline. I expect the operating margins
+obviously to improve with volume. And even though $100 million of OpEx returns next year, that, as we sit
+here today, we'll always look to see if we can refine or further improve that cost structure. But that's kind
+of a composite view.
+
+Adam Tyler Tindle
+Raymond James & Associates, Inc., Research Division
+
+Okay. And maybe just as a follow-up. I'd imagine from a top line standpoint, one of the big drivers in that
+segment is going to be the PCR business. If you could just -- maybe just update us on where that business
+sits today and into 4Q so that we can kind of think about the opportunity moving forward into 2021 as it
+potentially rebounds.
+
+Gregory Q. Brown
+Chairman & CEO
+
+Yes. I think that PCR has been incrementally -- it clearly was an extreme low point in Q2. It's performed
+a little bit better in Q3, and we expect it to improve a little bit better. That's informed into our overall Q4
+guidance. PCR, as you know, has been hit with primarily the critical industries that's gotten slammed by
+COVID the most, hospitality, entertainment, transportation, oil and gas. And quite frankly, I think that we
+expect PCR to return to some form of growth in 2021, and that's, in part, what informs our expectations
+for the products segment to return to growth as well.
+
+It also might be worth noting that even in this environment, North America, which represents our largest
+theater and is sold primarily through channels, the channel inventory in North America is down. So
+that's a good -- that's another good indicator in terms of potential foundation for us to continue to print
+improvement as time goes on.
+
+John P. Molloy
+Executive Vice President of Products & Sales
+
+And maybe one other thing, Greg. Just historically, as we look at PCR, new product introduction, even in
+challenging times, equates to growth. And we do have some product refresh on the slate for 2021 as well.
+
+Operator
+
+Our next question is from Tim Long of Barclays.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Timothy Patrick Long
+Barclays Bank PLC, Research Division
+
+Yes. Two, if I could here. Greg, maybe first, just talk a little bit high level about kind of the state of your
+customers, state and local budgeting, given the macro and stimulus and anything of note there, any
+changes.
+
+And then secondly, if you could talk a little bit on the video side. You mentioned that getting good traction
+with the government. If you could maybe just give us a little bit more color there, how much video is
+ramping there? And are you seeing kind of any level of cross-selling across that video business?
+
+Gregory Q. Brown
+Chairman & CEO
+
+Sure, Tim. Just to take them in reverse order, on video, specifically, let's start out with body-worn video.
+We had the strongest quarter we've had, really good demand for a lot of the obvious demand driver
+reasons you would suspect. But I think Molloy and John Kedzierski and the team are doing a good job
+with the acquisition we made there in the form of WatchGuard. Quite frankly, also another impetus behind
+the body-worn video growth is international performance, which came through an acquisition as a part of
+WatchGuard called Edesix. So I like our performance there. And also, I like the increased demand.
+
+We also did have strong growth in fixed video to government, solid double-digit growth, I think a reflection
+of -- we've said the sales cycle is always longer in state and local and Fed, but very good performance on
+fixed video and to the government. By the way, Pelco, being a benefit to that as well, given the fact that,
+that acquisition came with a lot of contractual government clearances that allowed us to move right in to
+further Fed government purchases that were beneficial.
+
+In terms of state and local customers, Jack mentioned it. I think that our customers have found a good
+way to engage during these challenging times. Many of them do meet in person. We also meet digitally
+or virtually. And remember, the state and local budgets have been largely set. So that's a good thing that
+moves us well into next year. We've also been the beneficiaries of CARES Act money from the Feds, and I
+think that has had a favorable impact as well.
+
+So I don't know, Jack, if you want to add anything on the state and local budgets beyond that.
+
+John P. Molloy
+Executive Vice President of Products & Sales
+
+No. Tim, I think it's just prioritization, prioritization, prioritization. As you've heard me mention before,
+we're not in the business of a nice to have. We're in the business of a need to have in terms of emergency
+response. So really, we continue to see our customers drive projects through.
+
+The other thing is, I think, that sometimes lost is there's just a multitude of different funding sources.
+Greg talked about CARES Act, but there's also things like special purpose local option taxes, which are
+still getting passed. And so we remain highly engaged with our customers. We see great demand across
+the portfolio in government. And as we know with what's happening in the world right now, security
+means a great deal to cities, to states and I think to our federal government. So more to follow, but we're
+encouraged with what we've seen.
+
+Operator
+
+Our next question is from Paul Silverstein of Cowen and Company.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Greg, I think I heard somebody mention that your business is 55% recurring. What is recurring revenue
+for the overall company?
+
+Gregory Q. Brown
+Chairman & CEO
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+No. I think Molloy's reference was that the majority of our European revenue is recurring largely because
+of the Airwave contract. If you -- no, that's all right, Paul. But if you look at overall Software and Services,
+which we view as largely a proxy for recurring, this year, in full year 2020, Software and Services will be
+higher than 35% for this year, which we view as a favorable by-product of the year, I guess. So that's
+good.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+And then as a follow-up, on the government piece of video, looking out to next year, coming off of this
+year, any quantification you can provide us ballpark in terms of how big that -- I know you just started
+selling over a year ago. But how big can that business be next year? And how big will it be this year?
+
+Gregory Q. Brown
+Chairman & CEO
+
+Well, so just to kind of -- if you take all the video assets that we have, fixed, body-worn, in-car, license
+plate recognition, domestically and internationally, this business, all in, for assets, hardware, software, is
+likely to be about $940 million, Paul, for this year. You've heard us talk about growing at 3x the market.
+That 3x the market is around the fixed video and access control piece, which we still believe we can
+achieve. If you take the size of the video market, all in, worldwide, and we always zero China out given
+their indigenous competitors, this is about an 18 -- $17 billion, $18 billion business, addressable market.
+It's actually the largest addressable market we have. So I think there's room to run here with the assets
+we've accumulated, along with the analytics that our team is developing and intelligent edge devices as
+well.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Greg, I appreciate that. I was actually focused on the government piece of your market that you entered
+back about a year ago.
+
+John P. Molloy
+Executive Vice President of Products & Sales
+
+I think -- Paul, so I think we had mentioned probably maybe 3 calls ago, probably 9 months ago, the
+question was asked, "Hey, how big is your government video business?" And really, we said approximately
+$200 million at the time, and that's an aggregation of 2 things. It's the mobile video market that's come
+through vis-à-vis the WatchGuard acquisition as well as Greg had mentioned the Edesix that also came as
+an acquisition. The remnants of it are fixed video security sales into all governments. And I would tell you,
+both of those businesses are growing strong double digits right now, both fixed video and the government.
+We talked about the success we had in Q3, both in the Fed and state and local. But also, we highlighted
+some of the success we've had in body-worn in terms of unit and dollar bookings substantially up in the
+strong double digits there. So hopefully, that helps.
+
+Operator
+
+Our next question will come from Fahad Najam of MKM.
+
+Fahad Najam
+MKM Partners LLC, Research Division
+
+Greg, I want to ask you a big picture question. In light of the view that most of your government
+customers are very slow to move and they tend to be not driven by -- like usually, enterprises are driven
+by profits and maximizing profits, your government customers tend to be more slower. Are you noticing
+any kind of an inflection point in your government customers' decision-making when it comes to --
+whether it's next-gen 911 command center solutions or video? Are you -- are we bringing on a new trend
+and that's going to accelerate going forward?
+
+Gregory Q. Brown
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Chairman & CEO
+
+I would say this. I mean, in the command center software, next-gen 911 is a new opportunity for us. And
+that's obviously a favorable trend. The other thing I'd say in terms of decision cycles is command center
+software historically has had some of the oldest legacy technology and workflow processes literally over
+several years, 10, 15 years plus. So I actually think that the inflection point is COVID-induced, in part,
+that's accelerating decisions to the cloud. Traditionally, state and local customers would prefer control,
+and they'd confer -- prefer on-prem. I actually think that this pandemic has been a positive accelerant to
+decision-making around command center software, particularly around cloud. I think the suite that Kelly
+and Andrew's team has built also can be an accelerant to decision-making because instead of trying to
+decide a forklift process and an all-or-nothing, you can get an anchor tenant module in place and then
+upgrade those modules for additional components along the suite.
+
+On land mobile radio, we're -- we literally have tens of thousands of different contracts that are at
+different lengths, and these systems are at different ages. The pandemic and the civil unrest has been an
+accelerant to some older systems here in North America that needed to be upgraded to digital and with
+state-of-the-art encryption to protect the communities and the local law enforcement better. I think as
+Molloy and his team have built new devices, APX NEXT, in Tetra, the MPX600 (sic) (MXP600) that's just
+announced, those 2 represent events and opportunities for our customers to make decisions to refresh as
+well.
+
+John P. Molloy
+Executive Vice President of Products & Sales
+
+Yes. Greg, you hit it really well. I think the other thing that -- we have a compelling ecosystem for our
+customers. That's an overused term, but I say that under the lens of Greg nailed it. Devices that work
+with command center, how do you extract, how do you disseminate information in a mobile environment?
+Those are the expectations that we've seen frankly for a number of years, and the enterprise space and
+government is certainly catching up to that. And I think those will be accelerants moving forward for us in
+public safety.
+
+Fahad Najam
+MKM Partners LLC, Research Division
+
+You touched upon a follow-up piece that I wanted to ask, which is -- so as your government customers
+migrate their command and control infrastructure to next-gen digital platforms, is that creating a resulting
+opportunity, new applications like mission-critical push-to-talk features on radio? Then if that's the case,
+are you beginning to see that? And can you quantify that opportunity?
+
+Kelly S. Mark
+Executive Vice President of Software & Services
+
+This is Kelly. I would say it's not that it's offering up those type of opportunities on the mission-critical
+push-to-talk, but it offers up the opportunity to enrich the whole workflow with multimedia. And at
+the edge, officers today carry a mobile device with them. They can receive now, from the command
+center, video, images and data that they couldn't receive before. But the radio as part of the workflow
+is instrumental in regards to the uniqueness of its communications that it provides. So it's not so much
+about mission-critical push-to-talk as much as it's about enriching the entire command center workflow
+with all the information that we're very used to dealing with today on our day-to-day lives. It's now
+enabling that across that mission-critical operational workflow so they can manage that information from
+911 call intake to record and case management at the end.
+
+Fahad Najam
+MKM Partners LLC, Research Division
+
+If I can rephrase my question, which was a little bit more simpler. I wasn't particularly honing in on
+mission-critical push-to-talk. What I was trying to get at is, are you beginning to see a refresh of your
+devices business as a result of the upgrade in the new command and control software that you're now
+selling?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Gregory Q. Brown
+Chairman & CEO
+
+Yes. We are. So we announced last October the APX NEXT device. We've built -- already built north of
+$100 million in terms of funnel opportunities for that. We're very encouraged. Remember, we introduce
+devices at the top end. So as we get through 2021, we'll start to broaden the reach of those devices.
+We see great demand for those devices because it's not only purpose-built P25 communication, which is
+truly the bedrock of how cities and states and public safety communicate, but to bring in LTE capabilities
+for backup push-to-talk, for ability to do on-the-fly programming and those kind of things, it brings a
+number of those different things. So excited about that. Greg talked about just this week, we announced
+a collaborative device for the TETRA market in Europe. And essentially, we've already been done -- we're
+booked out for the year this year. So we're really encouraged about that as well. So we see a need for
+devices that can do more for our customers, as I said earlier, in terms of aggregating, disseminating and
+really intelligence within their ecosystem.
+
+Operator
+
+[Operator Instructions] Our next question is from Jim Suva of Citi.
+
+Joshua Michael Kehoe
+Citigroup Inc., Research Division
+
+This is Josh Kehoe on for Jim Suva. Can you provide any more color on the headwinds you're facing in the
+public safety LMR business and when you expect to be through them? And is it largely due to COVID-19?
+Or is there more to it?
+
+Gregory Q. Brown
+Chairman & CEO
+
+I think the headwinds we talked about when COVID hit us back in March were PCR and the industries that
+were affected by it and public safety LMR kind of "being pushed to the right." The push to the right, largely
+around sales engagement and deployments, I don't think that's changed at all. That's still the primary
+reason for the push to the right, although I will tell you, it performed -- it, public safety LMR, performed
+better than our expectations in Q3, and we expect it to improve again in Q4, which informs our guide. And
+I think public safety LMR and PCR, as I referenced earlier, I think, will both improve, which will primarily
+drive why we expect the products segment to return to growth next year. There's a lot of still budget
+sources that Molloy referenced. We've been the beneficiaries of the CARES Act as well, but that's what I
+would say.
+
+John P. Molloy
+Executive Vice President of Products & Sales
+
+Yes. The only thing I'd just piggyback on to Greg's comments there, the one issue that we've been
+challenged with is actually physical deployment of systems in the Middle East and Africa and in Latin
+America. So we're completely impaired to go do anything, and that's really elongated our ability to
+recognize revenues in those theaters.
+
+Joshua Michael Kehoe
+Citigroup Inc., Research Division
+
+Okay. And as a follow-up, as you look into 2021, how are you thinking about prioritizing M&A versus share
+repurchases?
+
+Gregory Q. Brown
+Chairman & CEO
+
+I think that our capital allocation framework is 50-30-20, 50% of the cash flow being available for either
+acquisitions or share repurchase. It's a fungible amount, depending upon the opportunities that are in
+front of us. 30% is dividend, and 20% is CapEx. So that framework loosely is that it's not meant to be a
+prescription but it's a framework. We were active in buying back shares at these levels, as you've seen in
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Q3. We think these are attractive levels to buy the stock in Q3, and we'll evaluate opportunities as they
+come. We've done tuck-in acquisitions on the video side, on the software side.
+
+I think that in regards to acquisitions next year, it will be, in part, a reflection of what opportunities come
+our way. But that's the thinking around the deployment of capital at this point.
+
+Operator
+
+This concludes our question-and-answer session. I will now turn the floor back over to Mr. Tim Yocum, Vice
+President of Investor Relations, for any additional or closing remarks.
+
+Tim Yocum
+Vice President of Investor Relations
+
+No additional comments. Thanks for joining us today.
+
+Operator
+Ladies and gentlemen, this does conclude today's teleconference. A replay of this call will be available over
+the Internet in approximately 3 hours. The website address is www.motorolasolutions.com/investor. We
+thank you for your participation and ask that you please disconnect your lines at this time.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+MOTOROLA SOLUTIONS, INC. FQ3 2020 EARNINGS CALL |  OCT 29, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+

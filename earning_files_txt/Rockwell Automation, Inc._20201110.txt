@@ -1,0 +1,1289 @@
+Rockwell Automation, Inc. NYSE:ROK
+FQ4 2020 Earnings Call Transcripts
+Tuesday, November 10, 2020 1:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2020-
+
+-FQ1 2021-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+1.75
+
+1.87
+
+6.86
+
+1.84
+
+7.56
+
+7.68
+
+1.59
+
+7.98
+
+1582.04
+
+1570.00
+
+(0.76 %)
+
+1609.33
+
+6343.58
+
+6329.80
+
+(0.22 %)
+
+6670.90
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Nov-10-2020 1:15 PM GMT
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+2.11
+
+1.81
+
+1.17
+
+1.75
+
+2.11
+
+2.43
+
+1.27
+
+1.87
+
+0.00 %
+
+34.25 %
+
+8.55 %
+
+6.86 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+11
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Blake D. Moret
+Chairman, President & CEO
+
+Jessica Kourakos
+Head of Investor Relations
+
+Patrick P. Goris
+Senior VP & CFO
+
+Steven Etzel
+
+ANALYSTS
+
+Andrew Alec Kaplowitz
+Citigroup Inc., Research Division
+
+Andrew Burris Obin
+BofA Merrill Lynch, Research
+Division
+
+Charles Stephen Tusa
+JPMorgan Chase & Co, Research
+Division
+
+Jeffrey Todd Sprague
+Vertical Research Partners, LLC
+
+John George Inch
+Gordon Haskett Research Advisors
+
+Julian C.H. Mitchell
+Barclays Bank PLC, Research
+Division
+
+Nigel Edward Coe
+Wolfe Research, LLC
+
+Scott Reed Davis
+Melius Research LLC
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+Presentation
+
+Operator
+
+Thank you for holding, and welcome to Rockwell Automation's quarterly conference call. I need to remind
+everyone that today's conference call is being recorded. [Operator Instructions] At this time, I would like
+to turn the call over to Jessica Kourakos, Head of Investor Relations. Ms. Kourakos, please go ahead.
+
+Jessica Kourakos
+Head of Investor Relations
+
+Thanks, Amy. Good morning, and thank you for joining us for Rockwell Automation's Fourth Quarter Fiscal
+2020 Earnings Release Conference Call. With me today is Blake Moret, our Chairman and CEO; Patrick
+Goris, our CFO; and Steve Etzel, our CFO-elect. Our results were released earlier this morning, and the
+press release and charts have been posted to our website. Both the press release and charts include, and
+our call today will reference non-GAAP measures. Both the press release and charts include reconciliations
+of these non-GAAP measures. A webcast of this call will be available at that website for replay for the next
+30 days.
+
+For your convenience, a transcript of our prepared remarks will also be available on our website at the
+conclusion of today's call. In addition, we filed an 8-K and have posted supplemental information on our
+website related to our new business segments and adjusted earnings definition.
+
+Before we get started, I need to remind you that our comments will include statements related to the
+expected future results of our company and are therefore forward-looking statements. Our actual results
+may differ materially from our projections due to a wide range of risks and uncertainties that are described
+in our earnings release and detailed in all of our SEC filings.
+
+So with that, I'll hand the call over to Blake.
+
+Blake D. Moret
+Chairman, President & CEO
+
+Thanks, Jessica, and good morning, everyone. Thank you for joining us on the call today. Before we begin
+discussing our results and outlook, I'd like to make a few opening remarks.
+
+I first want to address Patrick's recent announcement that he will be leaving Rockwell to start a new
+chapter in his career. In his 14 years with us, the company has continued its long legacy of financial
+discipline and delivering superior shareowner returns, and we wish him well in his next pursuit. Many of
+you know Steve Etzel, who will be stepping in as CFO on an interim basis. Steve has been with us for
+over 30 years and, over these years, has run Investor Relations, Treasury and Corporate FP&A. The Board
+and I have full confidence we will reinforce our strong financial framework and continued commitment to
+superior shareowner returns. Patrick and Steve are ensuring a very smooth transition, while we consider
+internal and external candidates for a permanent successor.
+
+I also want to send my deepest thanks to the thousands of employees who have been working under very
+difficult conditions, including the temporary pay cuts we implemented in May to help us preserve jobs
+and to serve our customers during the pandemic. These cost actions enabled us to protect our company's
+financial strength and allowed us to continue making important targeted investments to drive our future
+growth. Now with business conditions gradually improving, we will reverse the temporary pay reductions
+by the end of November, 1 month earlier than expected.
+
+In addition, our guidance for next year assumes a return to a fully funded bonus plan. Because of our
+employees' hard work and dedication, we have never been so well positioned for what lies ahead. This is
+another testament to the type of culture we have at Rockwell, and I couldn't be prouder.
+
+Turning now to our Q4 results on Slide 3. While business conditions remain difficult relative to a year ago,
+we are pleased with the steady improvement we're seeing. In Q4, total reported sales declined by 9%
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+versus the prior year. Organic sales were down about 12% versus prior year but grew 10% sequentially.
+Product sales outperformed our expectations and were driven by better-than-expected results in drives
+and motion. Motion performance was led by our Independent Cart Technology, where we received the
+largest single order in Rockwell Automation's history. We won this multiyear project from the U.S. Navy
+based on a need for precise, highly responsive motion control not available with traditional systems, and
+on Rockwell's long track record as a dependable U.S. supplier. Independent Cart provides a new way for
+us to add value and drive growth. You'll be hearing more about it and other innovative technologies at our
+upcoming Investor Day on November 17.
+
+Turning to Information Solutions & Connected Services. Organic sales were up low single digits versus
+prior year. IS/CS orders grew double digits over the prior year in both software and Connected Services.
+IS/CS sales reached approximately $400 million in fiscal '20 on an organic basis, and we're well in excess
+of that when including all of our recent inorganic investments.
+
+Demand for software sold as a result of our PTC partnership is also increasing rapidly as we enter the new
+fiscal year, and we're very happy with the recent extension and expansion of this relationship. Together
+with PTC, we added over 200 new customer logos in fiscal 2020, and deal sizes in our Information
+Solutions software business continue to grow. The synergies of our combined offering are very evident to
+customers.
+
+In Connected Services, our recent Kalypso acquisition is doing particularly well and is helping us further
+differentiate. Kalypso was already contributing to some large competitive wins, and they just had the
+best orders quarter in their history. Total sales include a 3 point positive contribution from inorganic
+investments, led by our Sensia joint venture, along with the Kalypso and ASEM acquisitions. Total backlog
+in the quarter grew double digits versus the prior year and grew high single digits on an organic basis. Our
+Q4 solutions and services book-to-bill was 0.87 and full year book-to-bill was over 1. This solutions and
+services book-to-bill does not include the large Independent Cart order we received from the U.S. Navy.
+
+Turning to profitability. Strong segment operating margin performance of over 20% in the quarter was flat
+with last year on lower sales, underscoring our increasing business resilience. Free cash flow was also very
+strong, reinforcing our solid balance sheet and liquidity position.
+
+Let's now turn to Slide 4, where I will provide a few highlights of our Q4 organic end market performance.
+Our discrete market segment declined approximately 10%, with automotive performing better than we
+expected, driven by stronger MRO and project sales. Among the more notable projects in the quarter was
+a significant OT cybersecurity win in Europe with one of the major German car companies. And in electric
+vehicles, we saw momentum continue in the industry with battery manufacturers and brand owners. We're
+excited by recent announcements from both new and established automakers as a focus on production of
+compelling new EV offerings.
+
+In semiconductor, we had another very strong quarter and grew high single digits versus the prior year.
+This vertical is benefiting from a variety of secular tailwinds, such as the rise of smart devices and the
+resulting Internet of Things along with the need for faster data centers and the adoption of 5G wireless
+technology. In addition to facilities management, which has been a strong foundation for us, we see an
+opportunity for our material handling technology as well as our software.
+
+In e-commerce, we had a significant expansion win at [ Kloosterman's ], one of the largest and most
+important suppliers to the global e-commerce industry. This is another industry with long-term secular
+tailwinds that we'll continue to invest in automation and industrial software to support its tremendous
+future growth.
+
+Turning now to our hybrid market segment. This segment declined a little less than 5% and outperformed
+the discrete and process industry segments. Food and beverage and life sciences each declined low single
+digits for both the quarter and for the year. Packaging OEMs had another strong quarter and delivered
+double-digit growth versus the prior year. We believe these markets will outperform in fiscal '21.
+
+Eco-industrial outperformed other industries in the quarter, driven by growth in water, where we continue
+to benefit from a differentiated offering that integrates control, power and industrial software. Tire and
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+rubber was down double digits but performed in line with our expectations. In the quarter, we had key
+wins on important strategic accounts, including Cooper Tire which continues to strengthen its global track
+and trace capabilities to support the company's long-term growth plans. They chose FactoryTalk software
+because of our strong MES and analytics capabilities and our differentiated ability to connect to both
+Rockwell and non-Rockwell control platforms.
+
+Once again, our strong software portfolio, our ecosystem, our best-of-breed partners and our expertise
+in connecting diverse manufacturing environments were all important reasons Rockwell won this very
+competitive project with Cooper Tire.
+
+Process markets were down approximately 20%. Oil and gas was a little weaker than we expected, but
+that was partially offset by better-than-expected performance in most other process markets like mining
+and pulp and paper. Sensia held up fairly well during the quarter and continues to demonstrate their
+competitive differentiation.
+
+Turning now to Slide 5, and our organic regional sales performance in the quarter. North America
+organic sales declined by 12% versus the prior year. Business conditions improved through the
+quarter, particularly in products, where orders significantly exceeded our expectations. While our large
+Independent Cart win was part of that result, we also saw great software orders within Information
+Solutions that more than doubled versus the prior year, creating strong momentum entering the new fiscal
+year.
+
+In EMEA, sales declined 12%, largely due to CapEx delays. These were partially offset by strong growth
+in water. We also saw growth in life sciences and PPE-related machine builder business. Sales in the Asia
+Pacific region declined 9%, largely due to declines in end user business within automotive and mass
+transit. Double-digit growth in mining and life sciences partially offset those declines. China sales declined
+but orders grew mid-single digits year-over-year in the quarter. Latin America declines were led by mining
+and oil and gas.
+
+Let's now turn to Slide 6 to review highlights for the full year. It's an understatement to say that fiscal
+'20 turned out very different than the plans we discussed together at a great Investor Day during an
+incredible automation fair in Chicago last November. The shadow of the pandemic soon created unique
+challenges, but I'm proud of our ability to respond while taking big steps forward in the execution of
+our strategic vision. We kept the safety of our employees at the top of our list and continue to provide
+dedicated service to our customers, many of whom are producing the food, water, protective gear and
+medicine that keep us going.
+
+The pandemic has focused us all on what's truly important. We took thoughtful actions to manage costs
+through this pandemic but, at the same time, protect strategic investments, including some very big
+internal development projects. And you can see those investments drive the performance of our software
+business, which reached over $500 million in revenue in fiscal '20 and was one of the best-performing
+areas of our business in both orders and sales this year. We deployed over $500 million for inorganic
+investments that contributed almost 4 points to our top line growth, and we deployed over $700 million in
+cash for dividends and repurchases enabled by our strong free cash flow. I'm tremendously proud of what
+we've accomplished in fiscal '20, and I'm excited about the resulting momentum as we enter fiscal '21.
+
+Turning now to our outlook on Slide 7. As I said earlier, we saw strong sequential momentum exiting
+the year. Industrial production is projected to grow in the second half of our fiscal year. So it may take a
+couple of quarters for us to climb back to year-over-year sales growth from the Q3 trough in fiscal '20.
+We expect double-digit year-over-year growth during our third and fourth quarters. Of course, we're all
+closely monitoring global infection levels related to this pandemic, but we are not assuming a widespread
+shutdown of customer manufacturing operations. We expect reported sales to grow about 7.5% at the
+midpoint of the guidance range, including 5% of organic growth and over 1 point of growth from our fiscal
+'20 and fiscal '21 acquisitions to date.
+
+In addition, we are adopting annual recurring revenue as an important metric for the company and have
+added ARR as a performance metric in our incentive compensation framework beginning this year. ARR
+is expected to grow double digits in fiscal '21 after showing over 6% growth in fiscal '20. This is further
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+evidence of our ability to build an even more resilient business model. Adjusted EPS is expected to reach
+$8.65 at the midpoint, which is up 10% from last year's fiscal '20 results. We're targeting free cash flow
+conversion of 100%.
+
+A more detailed view into our outlook by end market is found on Slide 8. I won't go into the details on this
+slide, but as you can see, we expect positive organic sales growth in all of our key end markets next year
+with the exception of oil and gas.
+
+With that, let me now turn it over to Patrick, who will elaborate on our fourth quarter and fiscal year 2020
+financial performance. We'll then have Steve discuss our fiscal 2021 outlook in his remarks. Patrick?
+
+Patrick P. Goris
+Senior VP & CFO
+
+Thank you, Blake, and good morning, everyone. I'll start on Slide 9, fourth quarter key financial
+information. Sales segment margin, adjusted EPS and free cash flow were all better than expected in the
+fourth quarter mainly as a result of better organic sales growth and productivity. Organic sales improved
+as the quarter progressed and were up 10% sequentially versus Q3. Compared to last year, Q4 organic
+sales were down 12%, and acquisitions contributed just over 3% to total growth. Currency translation was
+a smaller headwind than expected and decreased sales by 0.3 points. Overall, company backlog increased
+year-over-year in the quarter. Backlog for our short-cycle products was up double digits from a year-over-
+year and sequential perspective, even excluding the very large Independent Cart order Blake referred to
+earlier.
+
+Segment operating margin was 20.2%, the same as last year. The negative impact of lower sales was
+partially offset by a combination of temporary and structural cost actions. Fourth quarter results included
+about $10 million of restructuring charges, which are expected to yield over $15 million in additional
+annualized structural cost savings. Most of these savings will be realized in fiscal '21. General corporate
+net expense was $22 million, pretty much in line with what we expected. As I mentioned earlier, adjusted
+EPS of $1.87 was better than expected mainly as a result of better organic sales, productivity and a
+slightly lower tax rate. I'll cover a year-over-year adjusted EPS bridge on a later slide.
+
+The adjusted effective tax rate for the quarter was 15%, a bit lower than we expected due to a slightly
+different geographic mix of our pretax income. Free cash flow performance remained strong. We
+generated over $300 million of free cash flow in the quarter, well over 100% conversion on adjusted
+income. Note that this result includes a voluntary $50 million pretax contribution made to the U.S. pension
+plan. This voluntary pension contribution was not reflected in our prior guidance.
+
+Slide 10 provides the sales and margin performance overview of our operating segments. Organic sales
+in both segments improved significantly compared to last quarter. Both segments were up about 10% on
+an organic basis compared to Q3, though organic sales remained lower compared to last year. Segment
+margin of both segments increased over 300 basis points compared to Q3 mainly due to higher organic
+sales, but also as a result of cost control, including a full quarter benefit of our cost reduction actions and
+generally improving operating efficiencies. Compared to last year, Architecture & Software margins were
+up 100 basis points despite the impact of lower sales mainly as a result of our cost actions, including lower
+incentive compensation. Segment margins for the Control Products & Solutions segment declined 60 basis
+points compared to last year, with cost actions offsetting most of the impact of lower organic sales.
+
+The next slide, 11, provide the adjusted EPS walk from Q4 fiscal '19 to Q4 fiscal '20. As you can see, core
+performance was down about $0.15 on a 12% organic sales decline. This implies core earnings conversion
+that is excluding the effect of acquisitions and currency of a little below 20%, which is a bit better than
+the outlook I shared with you in July. A positive adjusted EPS contribution from acquisitions is offset by
+unfavorable currency impacts.
+
+Slide 12 provides key financial information for full year fiscal '20. After a good start to the fiscal year,
+we experienced significant year-over-year sales decline in the second half as a result of the COVID-19
+pandemic. Organic sales declined 8% for the fiscal year. Our cost reduction actions protected key
+investments and helped to partially mitigate the impact of lower sales. We selectively increased
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+investments in some of our highest priority areas. R&D expense was about flat compared to fiscal '19 and
+R&D as a percent of sales increased further to 5.9% of sales in fiscal 2020.
+
+Full year segment margin remained at about 20% compared to record 22% segment margins last year,
+and adjusted EPS was down 11%. Free cash flow performance remained strong, and excluding the
+$50 million voluntary pension contribution in fiscal '20, was flat compared to last year. Free cash flow
+conversion was over 110% of adjusted income. And finally, return on invested capital remained well above
+our target of over 20%.
+
+Before I turn it over to Steve, I want to mention that we deployed about $1.3 billion of capital towards
+acquisitions, dividends and share repurchases in fiscal 2020. Our capital structure and liquidity remained
+very strong. At September 30, our fiscal year-end, cash on the balance sheet was over $700 million, and
+our total debt was about $2 billion. During the fourth quarter, we paid off the $400 million term loan that
+we executed earlier in the year, and our net debt-to-EBITDA ratio at September 30 was 1.0.
+
+With that, Steve?
+
+Steven Etzel
+
+Thank you, Patrick. Moving to Slide 13, product order trends. This slide shows our daily order trends for
+our products, which account for about 2/3 of our overall sales and represent our shorter cycle businesses.
+As we expected, order intake for products continued to improve during the quarter. Our guidance for fiscal
+2021 assumes this trend will continue. Daily product order performance through October continued to
+improve on a year-over-year basis, down low single digits. Solutions orders are recovering slower than
+product orders.
+
+Let's move on to the next slide, 14, guidance for fiscal 2021. As Blake mentioned, we are expecting
+sales of about $6.8 billion in fiscal 2021 up about 7.5% at the midpoint of the range. We expect organic
+sales growth to be in the range of 3.5% to 6.5% and about 5% at the midpoint of our range. From a
+calendarization viewpoint, we expect first half organic sales to be down compared to fiscal 2020, followed
+by a stronger second half with organic sales up mid- to high-teens. As a reminder, first half fiscal 2020
+organic sales were about flat, followed by double-digit declines in the second half. We therefore expect
+easier comps starting in Q3 of fiscal 2021.
+
+We expect segment operating margin to be between 20% and 20.5%, probably at the higher end of that
+range. At the midpoint, our guidance assumes full year core earnings conversion, which excludes the
+impacts of currency and acquisitions of between 30% and 35%. As we mentioned last quarter, we expect
+to offset a $150 million year-over-year headwind related to fully funding our incentive compensation
+and reversing fiscal 2020 temporary cost reduction actions with additional productivity. We expect the
+full year adjusted effective tax rate will be about 14%. This includes a 300 basis point benefit related to
+discrete items, which we expect to realize late in the fiscal year. Our underlying adjusted effective tax rate
+is expected to be 17% to 18%.
+
+As disclosed in our earnings release, we are modifying our definition of adjusted EPS beginning in fiscal
+2021. Under the new definition, we are now also excluding purchase accounting, depreciation and
+amortization expense from adjusted EPS. This has the effect of increasing adjusted EPS by approximately
+$0.20 on a full year basis. Please note that we filed an 8-K this morning that provides historical
+information reflecting the new definition of adjusted EPS as well as recast historical information for our
+new operating segments that we announced previously.
+
+Our adjusted EPS guidance range on a new basis is $8.45 to $8.85. This compares to fiscal 2020
+adjusted EPS of $7.87 on the new basis. On an apples-to-apples basis, at the midpoint of the range,
+this represents 10% adjusted EPS growth on about 5% higher organic sales. We expect adjusted EPS
+to improve throughout the year and anticipate first quarter fiscal 2021 adjusted EPS to be lower than
+our fiscal 2020 fourth quarter performance primarily as a result of a $0.30 sequential headwind related
+to increased incentive compensation expense and the reversal of our temporary cost actions as of the
+end of November. Finally, we expect full year 2021 free cash flow conversion of about 100% on adjusted
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+income. This assumes $150 million of capital expenditures and a $50 million voluntary pretax U.S. pension
+contribution.
+
+A few additional comments on fiscal 2021 guidance. Corporate and other expense, which we previously
+referred to as general corporate net expense, is expected to be around $105 million. Net interest expense
+for fiscal 2021 is expected to be between $90 million and $95 million, a little lower than fiscal 2020.
+Finally, we're assuming average diluted shares outstanding of about 117 million shares.
+
+The next slide, 15, provides the adjusted EPS walk from fiscal 2020 to the fiscal 2021 guidance midpoint.
+Moving from left to right. Fiscal 2020 adjusted EPS was $7.68 on the old definition. Next, you see the
+$0.19 impact of the new definition of adjusted EPS. So fiscal 2020 adjusted EPS on the new basis was
+$7.87. Core performance is expected to contribute about $1.90. This includes the benefit of higher organic
+sales as well as the benefit of our cost reduction actions. Reinstatement of the bonus and reversal of the
+temporary cost actions together will be a headwind of about $1.15. As mentioned last quarter, we expect
+these headwinds to be offset by productivity, which is in core.
+
+Currency forecasts project a weaker U.S. dollar compared to fiscal 2020, which should contribute about
+$0.10 to EPS. The higher tax rate is expected to be about a $0.15 headwind. Acquisitions made during
+fiscal 2020 and so far this year are expected to add about $0.10. Note that Sensia is now in core as
+October 1 was the 1-year anniversary of the formation of that joint venture. As mentioned, at the
+midpoint of our guidance range, adjusted EPS is $8.65.
+
+Moving on to the next slide, 16. I'll make a few comments on our capital deployment framework. You may
+recognize this slide from our last Investor Day. Our capital deployment priorities remain the same. Our
+first priority is organic growth. After that, we focus capital deployment on inorganic activities. Then we
+focus capital returns to shareowners through our dividend and then repurchases. Our capital deployment
+plans for fiscal 2021 include dividends of about $500 million. As a reminder, we announced a 5% dividend
+increase last week. Consistent with our past track record, we expect our remaining capital deployment
+to include a balance of inorganic investments and share repurchases. We resumed share repurchases on
+October 1, the beginning of our fiscal year.
+
+In summary, our guidance assumes a continued sequential improvement in organic sales performance.
+Cost actions are expected to offset the significant headwind of reinstating incentive compensation and
+reversing temporary cost actions, and we expect about 10% adjusted EPS growth and continued strong
+free cash flow conversion.
+
+Turning to Slide 17. I'll finish with a comment about our new segment structure, which is effective for
+fiscal 2021. As a reminder, our first quarter fiscal 2021 results will be reported in the new 3 segment
+format as shown here.
+
+With that, I'll turn it back over to Blake for some closing remarks before we start the Q&A.
+
+Blake D. Moret
+Chairman, President & CEO
+
+Thanks, Steve. We continue to see our customers take steps to increase their resilience, agility and
+sustainability. Resilience includes investments to reduce single points of failure with the growing list of
+companies announcing plans to build or expand North American operations. Our strong market share in
+the U.S., Mexico and Canada make us a natural beneficiary of these plans. Other measures to increase
+resilience include increased automation, traceability and remote monitoring, which are all Rockwell's
+strengths. We're making investments in our own operations, which we'll showcase during next week's
+Investor Day.
+
+Our contribution to operation's agility is demonstrated by our great results in consumer and life sciences
+packaging equipment and the growth of our software to manage the increasingly dynamic SKUs offered
+by our customers. The pandemic has prompted new food and beverage packaging formats, along with
+quantities of testing kits, therapeutic drugs and hopefully, very soon, doses of vaccines. Quite simply,
+these cannot be manufactured at the necessary scale, safety and quality without automation. We're proud
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+of the role our innovation is playing at Pfizer, Roche and many other companies as we help the world
+recover.
+
+The need to increase the sustainability of industrial processes is always increasing. Clean drinking water is
+one of the reasons our eco-industrial focus is so important for the future, along with electric vehicles and
+every day ways our products reduce energy consumption in every industry. This expanded value gives us
+optimism for the coming years. In fiscal '21, we are guiding to high single-digit reported growth, paced
+by our highest margin segment. This results in guidance that also includes double-digit EPS growth. I'm
+looking forward to telling you more about our plans next week with the help of great customers, partners
+and a very talented Rockwell leadership team.
+
+With that, let me pass the baton back to Jessica to begin the Q&A session.
+
+Jessica Kourakos
+Head of Investor Relations
+Thanks, Blake. [Operator Instructions] Amy, let's take our first question.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+Question and Answer
+
+Operator
+
+Your first question comes from the line of Scott Davis with Melius Research.
+
+Scott Reed Davis
+Melius Research LLC
+
+And congrats, Patrick, good luck. You'll be missed, I'm sure.
+
+Patrick P. Goris
+Senior VP & CFO
+
+Thank you, Scott.
+
+Scott Reed Davis
+Melius Research LLC
+
+This contract with the Navy is interesting. I mean I haven't heard you talk about Independent Cart in a
+while. What is the U.S. Navy doing with the technology?
+
+Blake D. Moret
+Chairman, President & CEO
+
+Scott, we can't talk in specifics about the particular application, but I can tell you that Independent Cart in
+general allows for more precise motion control than some of the traditional methods of servo ramps and
+other types of technology. So with the kind of acceleration and deceleration profiles that are needed for
+some of these high-performance applications, Independent Cart was really a differentiated solution. It also
+has to operate, and as you can imagine, very difficult environments.
+
+The final point is that while we don't talk as much about our government business. Now Rockwell has
+been a trusted U.S. supplier to the government for a long time, and so some of these premium high-
+performance applications were a natural fit.
+
+Scott Reed Davis
+Melius Research LLC
+
+Okay. Makes sense. And then you mentioned, Blake, PTC helping you add 200 new customer logos. What
+-- I know that it might be a little bit varied. But is there any general theme around what type of new
+customers you're able to bring in on any particular end markets, geographies, that type of thing that you
+could point to?
+
+Blake D. Moret
+Chairman, President & CEO
+
+Scott, one of the things that we've really been proud of our partnership with PTC is the diversity of
+customers and geographies that we've been able to penetrate with the combined offering. So while food
+and beverage and consumer-facing industries, as they are large for Rockwell's overall business, are the
+source of a lot of the applications, it goes across automotive and mining as well as many of the other
+industries that we talk about all the time.
+
+It gives us new ways to win in these and some of the things that we're most excited about that we've
+talked about before are that it's not just on top of Rockwell control systems, about half of these
+applications are going on top of competitive control systems. So it's a new way to add value and to be
+meaningful in those customers' digital transformations. It's really across the various industries and across
+the geographies. We have wins in every geography we serve.
+
+Operator
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+Our next question comes from the line of John Inch with Gordon Haskett.
+
+John George Inch
+Gordon Haskett Research Advisors
+
+Congratulations, Patrick.
+
+Patrick P. Goris
+Senior VP & CFO
+
+John, thank you.
+
+John George Inch
+Gordon Haskett Research Advisors
+
+Welcome. Do you guys expect the cadence of the 10% core sequential sales to be sustained throughout
+the year? I realize I'm aware of your mid-single-digit core year-over-year, but can you talk to me about
+just sort of the sequential cadence? And do you expect that to sustain itself or if not even perhaps
+accelerate over the balance of fiscal '21 as part of your guide?
+
+Steven Etzel
+
+John, this is Steve. We expect a gradual sequential recovery throughout the year, including into the first
+quarter. And as we said on the call, that implies a first half decline year-over-year and then a second half
+year-over-year growth rate of mid- to high-teens.
+
+Blake D. Moret
+Chairman, President & CEO
+
+Yes. What I would also add, John, is that we did see good orders in October in terms of improvement. So
+particularly on the products, that was an encouraging sign as we entered the year. We have to say that
+services and solutions order recovery is lagging behind those product orders, but products are really the
+leading indicator that we look at.
+
+John George Inch
+Gordon Haskett Research Advisors
+
+Right. So -- right. Understanding over year, but does that translate into -- like how does that translate
+in terms of your expectations in terms of sequential improvement? Like we did 10% this quarter. Do you
+expect that to slow in the December and March quarters and then tick back up? Or just a little bit more
+color on how you think of the sequential trend.
+
+Steven Etzel
+
+Yes, John, I think it's best to think of it as a mid-single-digit quarter-to-quarter sequential growth in fiscal
+'21.
+
+John George Inch
+Gordon Haskett Research Advisors
+
+Okay. Good. No, that's helpful. And then just as a follow-up, on your Page 15 on your EPS walk, where did
+the structural actions fall? I think you said in core. I just want to confirm that there's no structural actions
+that are sort of offsetting the temporary return like you've split it.
+
+And maybe I remember, Patrick, last quarter, you talked about, you're going to take out some redundant
+facilities, maybe some sales offices and stuff. Is there a way to quantify the carryover of the structural
+impact in EPS? So I see the $1.15 headwind. What is that mapped against in terms of the structural take-
+out that is in response to the pandemic, right? Like would have been...
+
+Patrick P. Goris
+Senior VP & CFO
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+John, the $1.15 headwind that you see there on the walk is this is a bonus reversal -- sorry, the bonus
+reinstatement and the temporary cost reversal. That bonus is about $115 million in and of itself for the full
+year. I will point out, by the way, as it relates to the bonus, it's obviously a full year headwind. The biggest
+headwinds we'll see on that year-over-year bonus is in the second -- I'm sorry, yes, the second quarter.
+But each quarter, we'll have some headwind.
+
+In terms of some of the structural savings and so on, that -- on that bridge, that's all in core. We have
+about $60 million of structural savings which relate to restructurings that we've taken over the last several
+quarters, including in Q4. And then there's some other cost reduction actions through cost improvement, if
+you will, through increased efficiencies in our plants and so on as volume increases.
+
+Operator
+
+Your next question comes from the line of Julian Mitchell with Barclays.
+
+Julian C.H. Mitchell
+Barclays Bank PLC, Research Division
+
+Thanks, Patrick, for all the help and look forward to working with you again, Steve. Perhaps the first
+question just around the top line again. I understand that I think you called out good orders and good
+backlog trends in the short-cycle business and products.
+
+But want to perhaps to focus on that solutions and service and process piece. I think the process sales
+were down 20% or so in Q4. You're guiding for low single-digit growth in the year ahead. Maybe help us
+understand how quickly do you get to that return to growth in fiscal '21 and when we could start to see
+that solutions and service book-to-bill look a bit healthy. I think it was down year-on-year, the book-to-bill
+in Q4.
+
+Blake D. Moret
+Chairman, President & CEO
+
+That's right, Julian. Typically, the book-to-bill is down for solutions and services in Q4 as we see normal
+seasonality increase the amount of shipments in the quarter. That being said, we are expecting orders to
+pick up in the first half of the year. Oil and gas is probably the most subdued. And as we talked about in
+some other areas like mining and pulp and paper, the activity is a little bit more vigorous. We continue to
+focus on the OpEx expenditures in oil and gas for Sensia.
+
+I would also say, if we look at the typical performance of our various businesses, as we come out of a
+downturn like this, products are almost always going to lead the solutions and services orders. We've
+seen that repeated over many years and multiple cycles. So we're not surprised by this. But at the end
+of the day, you have to compete and win for each order that's up. There's still business out there. We are
+confident that, that activity is going to increase, but we have to be on the winning side as that business
+comes up, and that's what we're focused on not only with our traditional resources, but with some of the
+new acquisitions that are really helping in that space.
+
+And I mentioned also Kalypso but there are other unsung heroes. When we look at some of the
+acquisitions in OT cybersecurity with Avnet and Arlo. When we look at ILIAS tech and the ability to quote
+even more competitively for the delivery of software-based projects. Those are all going to help us recover
+just as fast as possible as those projects increase in frequency.
+
+Julian C.H. Mitchell
+Barclays Bank PLC, Research Division
+
+And then maybe, Blake, just a more strategic one. And perhaps we'll hear more about this at the Investor
+Day, but it did seem as if the broadening of that strategic alliance with PTC was quite substantive that
+you talked about a couple of weeks ago. Maybe give us some background as to why the relationship now
+includes PLM and SaaS and maybe how your own perspectives on the benefits of co-offering PLM may
+have shifted, if at all?
+
+Blake D. Moret
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+Chairman, President & CEO
+
+Sure. Julian, a couple of aspects of the expanded relationship. The starting point is that we have a great
+foundation. The pace of competitive wins is picking up. I mentioned before that it seems to be catalyzing
+the increased size of all of our software wins. So not just what we're doing directly with PTC but on the
+MES side as well, for instance, and in our own FactoryTalk Analytics offering.
+
+Another specific example of the way that the partnership is evolving is that we're focused on annual
+recurring revenue now. So it's not just about the new annual contract value of wins, but it's also about the
+total value of the business, including the renewals. And of course, that's absolutely essential for us to be
+on the same side of the table as we're both focused on increasing that recurring base.
+
+Specifically, with respect to PLM and Onshape and some of their offerings, we see the opportunity to help
+pull-through PTC in some of these digital thread opportunities. We preserve an open approach and respect
+customers' installed base. But having the ability when a customer is looking at PTC, the ability to include
+that in the digital threat offering is proving to be very valuable, and with the recent acquisition of Kalypso,
+we have formidable capabilities respect to digital thread. So this is just another tool that we have at our
+disposal, and we continue to look for meaningful ways to integrate PTC technology with our own offering
+not just on the software side but also, really importantly, on the way that data is pulled from the control
+and brought up to that information layer.
+
+Operator
+
+Our next question comes from the line of Jeff Sprague with Vertical Research.
+
+Jeffrey Todd Sprague
+Vertical Research Partners, LLC
+
+Two for me. First, just kind of on the software and control side. Thanks for the timely restates. Kind
+of interesting, right, Software & Control kind of in the 2 worst quarters of the pandemic. Basically,
+they performed in line with Intelligent Devices. I wonder if you could just speak to your view of kind of
+resiliency in that business over time. And as part of that, if we're going to talk ARR, can you baseline us
+on what it is for the fiscal year 2020, so we are kind of level set here?
+
+Blake D. Moret
+Chairman, President & CEO
+
+Yes. Jeff, I'll make a couple of comments and then Patrick and Steve may add to that. I mean Software
+& Control includes the essential heart of a control system, the control function, whether it's based in
+hardware or software or a combination of the 2, is processing the inputs and changing the states of
+outputs. And that's going to remain a persistent part of control systems in all of the industries that we
+serve.
+
+We see some evidence of that, as we talked about the great performance in packaging OEMs,
+CompactLogix really performed quite well relative to the rest of the control during the last couple of
+quarters. So we think that, that's an essential functionality. And regardless of where the execution point
+moves from hardware and firmware to pure software or back, depending on customer preferences, we're
+confident that we can continue to perform very well there.
+
+On the software side, the pure software side, we are increasing the focus on ARR. It's a little bit over 5%
+of sales currently. And as we talked about last Investor Day, and as we'll talk about again next week, the
+goal is to bring it to 10% and more in the next few years. And we think we're on a good path to do that.
+
+I should add, it takes all hands on deck to make that happen. It starts with great software, either that
+we're developing ourselves or that we're buying. It also includes increasing our selling capabilities and a
+significant part of our recent investments is adding sales, who have a specific focus on software, and also
+the infrastructure within the company to make sure we do a great job of processing those orders and that
+we're decreasing churn rates and so on. So it's really the full company on board and an integrated effort to
+grow that.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+Jeffrey Todd Sprague
+Vertical Research Partners, LLC
+
+And then separately, just on the decision to go ex amort, just kind of interested in the philosophical
+decision there. I mean we've seen it happen at other companies. So certainly, you're not alone. Most of
+the places that happened, there was kind of a investor push for it because the amortization was quite high
+relative to GAAP EPS, and there was a clear disconnect here.
+
+What should we if anything, glean from making this adjustment, right? It's kind of 2% of earnings. I guess
+my read would be we've got a much more active M&A pipeline coming at us. But any color there would be
+greatly appreciated.
+
+Steven Etzel
+
+Sure. This is Steve. Yes, we did a lot of benchmarking. As you said, we did get a lot of investor input as it
+relates to this. We obviously have been on a path to doing more acquisitions than perhaps in our history.
+We have a goal of growing top line more than 1 point per year from acquisitions, and we have been doing
+more. And we thought now is the right time to make the change and come more in line with a lot of other
+companies that we compare ourselves to.
+
+Operator
+
+Our next question comes from the line of Steve Tusa with JPMorgan.
+
+Charles Stephen Tusa
+JPMorgan Chase & Co, Research Division
+
+So just thinking about kind of the sequential or, I guess, the year-over-year performance may be a little
+bit better because John kind of got you on the sequential side. 2Q last year, you guys outperformed almost
+everybody by a lot. Anything you guys want to kind of highlight as far as the project comps there at all in
+the second quarter that we should take account of in our models?
+
+Blake D. Moret
+Chairman, President & CEO
+
+Steve, I think we're in a period of time in general, where things are going to be highly variable by
+geographies and by end markets and by end user OEM split. So if we're looking at top line there, you're
+correct that in Q2, it looks like our performance last year outpaced pretty much all of our competitors. And
+during this time, relative position and amount of business in different parts of the world, I think, are going
+to have a big impact on the results. In general, the theme is, of course, towards recovery. And as we said,
+as we pull out from the Q3 trough, we expect gradually recovering conditions and a return to strong year-
+over-year growth in Q3 as industrial production returns to growth and as we have easier comps.
+
+The other point I would make regarding Q2 that you mentioned in fiscal '20, it was broad-based.
+Automotive, I think, was a bit of a positive surprise, but it wasn't just automotive. There were a number of
+industries that were positive in the quarter.
+
+Charles Stephen Tusa
+JPMorgan Chase & Co, Research Division
+
+Okay. And then just -- yes, go ahead, sorry.
+
+Steven Etzel
+
+I'm just going to elaborate a little bit on what I mentioned earlier since you brought up Q2, but of our
+bonus headwind of $115 million for the full year, the headwind is going to play out by quarter, something
+like $10 million headwind in Q1, $45 million to $50 million in Q2 and approaching $30 million per quarter
+in Q3 and Q4.
+
+Charles Stephen Tusa
+JPMorgan Chase & Co, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+Okay. Great. And then just lastly on these new segment breakouts. On the Software & Control side, I
+mean, I think the majority of those sales are kind of Logix and the PLCs. Those margins in, I think, '19 at
+the peak were 30% for that segment. Given that the vast majority of that segment is the hardware, can I
+assume that, that hardware sale is pretty high margin for you guys?
+
+Blake D. Moret
+Chairman, President & CEO
+
+Well, yes. No question that Logix hardware is good margin for us. If you do the math and you look at what
+we provided on fiscal '20 breakout by segment, about $1.7 billion in Software & Control and all of the
+software is in this segment so that we said, is over $500 million in fiscal '20 of the pure software. And then
+I should also mention that this is the segment that is currently attractive, the majority of our investments.
+Whether it's in Logix or it's in the software development as a percentage of sales, this segment would
+have the highest investment.
+
+Charles Stephen Tusa
+JPMorgan Chase & Co, Research Division
+
+Right. And then PTC-related sales that come through there. I think you've said will flow through at your
+kind of normal incremental margin. So you're basically booking similar margins on those PTC sales, if you
+will.
+
+Patrick P. Goris
+Senior VP & CFO
+
+Steve, the way you can think about it, we -- if we package PTC and offering to one of our customers,
+we probably achieve between 30% and 40% incremental margins there. So in line with overall company
+average, lower, of course, than if it would be our own controls or our own software.
+
+Operator
+
+Your next question comes from the line of Andy Kaplowitz with Citigroup.
+
+Andrew Alec Kaplowitz
+Citigroup Inc., Research Division
+
+Patrick, congrats. Steve, looking forward to working with you again.
+
+Steven Etzel
+
+Thank you, Andy.
+
+Andrew Alec Kaplowitz
+Citigroup Inc., Research Division
+
+Blake, I know you spoke about this a bit in your prepared remarks, but can you give us a little more color
+into what you're seeing in terms of your customers, either reshoring or investing to avoid single points of
+failure? We know you've talked about in the past, life sciences, semiconductors. Are you seeing investment
+continuing to increase in these sectors or actually increasing outside of these sectors? And when you think
+about the order uptick you've seen, would you characterize a significant amount of orders as related to
+this type of investment?
+
+Blake D. Moret
+Chairman, President & CEO
+
+Yes. As we've talked about before, Andy, life sciences is probably the area where we have the longest
+list of customers that have announced plans to do things in the U.S. Some of these have been public
+about what they're doing. You think about what Becton Dickinson is doing or Sanofi and so on. And other
+customers that we're working with, but they haven't yet disclosed that publicly, and so we respect that.
+We've also seen some high-profile semiconductor announcements. We've talked in the past about Taiwan
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+semi and the work that we're doing with them. And there's some others out there in other industries,
+consumer electronics, consumer tools.
+
+I'd say it's a steady cadence. And we have let's say, get-started kits, if you will, to work with customers
+who are considering doing these sorts of things that our salespeople are familiar with. It's really a part
+of the overall attempts for resilience. So we're not seeing an avalanche of that reshoring. We see it as
+steady. But the business that's coming out of it, it's meaningful. It's certainly in the millions of dollars that
+we're seeing there.
+
+Andrew Alec Kaplowitz
+Citigroup Inc., Research Division
+
+And then can you give us more color into what you're seeing in the automotive markets? You mentioned
+it was better than you expected, but down 20% in Q4, as you know, was only modestly better than Q3's
+decline and a lot of builds did improve materially globally. So we know you're guiding on automotive being
+up 10% in FY '21. Was there anything that kind of held you back in Q4 versus builds? And maybe update
+us on sort of the EV transition we're seeing. It seems to be accelerating a bit. That should help you, I
+think, as you go into '21.
+
+Blake D. Moret
+Chairman, President & CEO
+
+Yes. We did see, as with almost all our industries, good sequentially. It was strong a double-digit
+sequential increase in automotive, right, so up 20% gives us optimism. And as we talk about fiscal year
+'21, getting to around 10% growth in automotive that we think we have a line of sight on the projects and
+the improving MRO to substantiate that. And obviously, within there, areas like electric vehicle that we
+think are particularly good for us as we see higher win rates in EV than across the general portfolio for
+automotive.
+
+Operator
+
+Your next question comes from the line of Andrew Obin with Bank of America.
+
+Andrew Burris Obin
+BofA Merrill Lynch, Research Division
+
+So Patrick, congratulations. And Steve, look forward to working with you again, as everybody has
+mentioned, yes.
+
+Patrick P. Goris
+Senior VP & CFO
+
+Thanks, Andrew.
+
+Andrew Burris Obin
+BofA Merrill Lynch, Research Division
+
+So maybe Patrick, I'll ask you a question about Mexican FX, if my -- no, I won't do that. Just a couple
+of questions. So first, you also announced -- in addition to PTC partnership, you also announced the
+expansion of your partnership with Microsoft. And I was just wondering because Microsoft is aligned with
+PTC, but yet they're trying to do their own thing in industrial vertical. Can you just talk a little bit more
+what it is you're doing more with Microsoft? Because clearly, you guys have been aligned for a long time.
+But is there anything new there? Is there more focus on SaaS, more focus on cloud? So that's my first
+question.
+
+Blake D. Moret
+Chairman, President & CEO
+
+Sure. The primary focus of this new expansion of work with Microsoft is targeted at Azure infrastructure
+and the cloud. And so we're working with Microsoft, and we'll be demonstrating some of our new
+capabilities that are already well along in the areas of design as well as information and using a SaaS
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+approach for new capabilities. So these really complement our existing capabilities and are kind of a
+forerunner of a significant amount of new functionality, both on-prem and in the cloud that customers will
+see over the next year or so.
+
+So it's really -- it's focused on combining forces, using their expertise with Azure and our OT expertise to
+provide new design tools for customers, and we're very excited about it. I'm excited not only about the
+functionality, the specific functionality that's going to bring, but it's the pace with which we were able to
+join forces, assemble teams and to come together to create new value from the first meeting, really, that
+we talked about this with Microsoft to now, it's been less than a year. And that's a great foreshadowing of
+things to come.
+
+Andrew Burris Obin
+BofA Merrill Lynch, Research Division
+
+And do you need to reconfigure your sales force or add sales to sort of do more of these SaaS Azure
+sales?
+
+Blake D. Moret
+Chairman, President & CEO
+
+It's -- we're certainly going to be adding additional talent and learning new motions within our sales
+force. But it's really a microcosm of the overall convergence of IT and OT. Our home field advantages,
+our understanding of these customers and operational technologies and what happens on the plant floor
+and how they make money or avoid downtime and complementing that with perspectives of people who
+understand the software selling motion is what we're right in the middle of now. We're making significant
+investments in new talent, training, enablement for our overall sales force, and so it's bringing the talent
+up together, the existing plus the new.
+
+Andrew Burris Obin
+BofA Merrill Lynch, Research Division
+
+And just a follow-up question. With the new administration, frankly, we're hearing from a lot of investors
+that new administration maybe means less focus on reshoring because tariffs will go away. What kind of
+conversations have you had with your customers about sort of contingency plans and their longer-term
+strategy on capacity in the U.S. and globally in light of the election results?
+
+Blake D. Moret
+Chairman, President & CEO
+
+We're encouraged in that the Biden campaign and the Biden administration's talked about the importance
+of U.S. manufacturing, and so that is the single most important issue for us. And we're optimistic that
+they recognize the importance that manufacturing in this country plays as a part of the vital core of the
+American economy. And so we're looking forward to working with them through professional organizations
+and so on to find ways to increase the manufacturing in the U.S., along with the attendant issue of
+workforce development, which is a crucial issue for us as well.
+
+Operator
+
+Your next question comes from the line of Nigel Coe with Wolfe Research.
+
+Nigel Edward Coe
+Wolfe Research, LLC
+
+So just want to go back to John's question on sequential sales. Did you say 1Q up 5%? I'm not sure if that
+was what you indicated. Just normally, 1Q is below 4Q. So I just want to make sure I got that right.
+
+Steven Etzel
+
+Yes. So we are seeing some momentum, as I described in the product side, but it's typical for Q1 for
+solutions to be down. So my general comment was roughly mid-single-digit sequential growth. It could be
+a little slower than that in Q1, and that's part of the reason why we mentioned that Q1 EPS could be down
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+sequentially -- expected to be down sequentially from Q4 there as well as the sequential headwind from
+the temporary actions being reversed and bonus being reinstated.
+
+Nigel Edward Coe
+Wolfe Research, LLC
+
+Right. But the point is, that there's enough momentum in products that could offset the seasonal downtick
+in solutions.
+
+Steven Etzel
+
+Yes. I think directionally, that's probably the case.
+
+Nigel Edward Coe
+Wolfe Research, LLC
+
+Okay. Great. That's helpful. And then the expansion of the relationship with PTC, one of your big
+competitors has taken a very strong view on the PLM-PLC integration, and I think historically, Rockwell has
+been a bit more skeptical about that. I'm just wondering, has there been a change in your view of sort of
+the integration amongst those layers? And then sort of within that, have you done all of the investment
+required to offer an integrated solution with PTC? Or there's still from investment spending to be done
+around that?
+
+Blake D. Moret
+Chairman, President & CEO
+
+Yes. Our view is that a customer is going to have multiple applications to create their version of the
+digital thread, and that's going to vary by different industries. So what you're looking for in terms of the
+digital thread and oil and gas is going to be different than what you're looking for in automotive typically.
+That said, we are selectively looking at integration between interesting parts of the PTC portfolio. One
+of the specific areas that Jim Heppelmann highlighted during Liveworks this past summer was Onshape
+and our Emulate3D simulation capabilities. And so that's one area that's very interesting, and we have
+differentiated value. We're using it in our own facilities, and it's helped us win competitively in other areas.
+
+But that doesn't mean that we have to have that capability in every instance in-house, an open approach
+and respecting the investment that customers already have made in terms of training and installation,
+different vendors. Application software in industry is an important tenet of our approach to the market.
+And so we don't necessarily need to own everything. But when we pick particularly interesting use cases,
+like the one I just mentioned between Onshape and Emulate3D, that's an example where we will go
+deeper, and we will provide additional integration tools to add that value.
+
+Operator
+
+This concludes our question-and-answer session. I will now turn the call back over to Jessica Kourakos for
+closing remarks.
+
+Jessica Kourakos
+Head of Investor Relations
+
+Thank you. Thank you, Amy. I'll turn it back to Blake for a few final comments.
+
+Blake D. Moret
+Chairman, President & CEO
+
+Thanks, Jessica. Nobody is better positioned than Rockwell and our partners to bring information
+technology and industrial operational technology together. We remain focused on the well-being of our
+employees, and we continue to manage thoughtfully through a gradual recovery. At the same time, we're
+happy to see the positive results of steps being taken to accelerate profitable growth.
+
+I also want to wish Patrick all the best. Patrick, you played a big role in our success, and you'll be missed.
+We wish you all good health, and thank you for your interest and support.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+Operator
+This concludes today's conference call. At this time, you may now disconnect. Thank you.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+ROCKWELL AUTOMATION, INC. FQ4 2020 EARNINGS CALL |  NOV 10, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+

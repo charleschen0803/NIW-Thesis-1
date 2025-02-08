@@ -1,0 +1,986 @@
+Micron Technology, Inc. NasdaqGS:MU
+FQ1 2022 Earnings Call Transcripts
+Monday, December 20, 2021 11:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ1 2022-
+
+-FQ2 2022-
+
+-FY 2022-
+
+-FY 2023-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+2.11
+
+2.16
+
+Revenue  (mm)
+
+7677.00
+
+7687.00
+
+Currency: USD
+Consensus as of  Dec-20-2021 9:54 PM GMT
+
+2.37
+
+0.13
+
+1.89
+
+8.86
+
+11.13
+
+7270.22
+
+32042.22
+
+37380.59
+
+FQ2 2021
+
+FQ3 2021
+
+FQ4 2021
+
+FQ1 2022
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.95
+
+1.72
+
+2.34
+
+2.11
+
+0.98
+
+1.88
+
+2.42
+
+2.16
+
+3.16 %
+
+9.30 %
+
+3.42 %
+
+2.37 %
+
+COPYRIGHT © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+5
+
+2
+
+ 
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+Call Participants
+
+EXECUTIVES
+
+David Zinsner
+
+Farhan Ahmad
+Senior Director of Investor
+Relations
+
+Manish H. Bhatia
+Executive Vice President of Global
+Operations
+
+Sumit Sadana
+Executive VP & Chief Business
+Officer
+
+ANALYSTS
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC,
+Research Division
+
+Steven Bryant Fox
+Fox Advisors LLC
+
+Thomas James O'Malley
+Barclays Bank PLC, Research
+Division
+
+Ambrish Srivastava
+BMO Capital Markets Equity
+Research
+
+Christopher Caso
+Raymond James & Associates,
+Inc., Research Division
+
+Harlan Sur
+JPMorgan Chase & Co, Research
+Division
+
+Karl Ackerman
+
+Rajvindra S. Gill
+Needham & Company, LLC,
+Research Division
+
+Srinivas Reddy Pajjuri
+SMBC Nikko Securities America,
+Inc., Research Division
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+Presentation
+
+Operator
+
+Hello. Thank you for standing by, and welcome to Micron's post earnings analyst call. [Operator
+Instructions]. Please be advised that today's conference may be recorded. [Operator Instructions]
+
+I would now hand the conference over to your speaker today, Farhan Ahmad, Vice President of Investor
+Relations. Please go ahead.
+
+Farhan Ahmad
+Senior Director of Investor Relations
+
+Thank you, and welcome to Micron Technology's sell-side analyst callback. On the call with me today are
+Sumit Sadana, Micron's Chief Business Officer; Manish Bhatia, Micron's EVP of Global Operation; and Dave
+Zinsner, Chief Financial Officer.
+
+Today's call will be approximately 45 minutes in length. As a reminder, the matters we will be discussing
+today include forward-looking statements. These forward-looking statements are subject to risks and
+uncertainties that may cause actual results to differ materially from the statements made today. We
+refer you to the documents we filed with the SEC, specifically our most recent Form 10-K and 10-Q for a
+discussion of risks that may affect our future results.
+
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we
+cannot guarantee future results, level of activity, performance or achievements. We are under no duty to
+update any of the forward-looking statements after today's date to conform these statements to actual
+results.
+Operator, you can now open the call for question and answer.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from Ambrish Srivastava with BMO.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+Dave, I actually had a clarification on the supply/demand side. When you were talking about -- when you
+get the days of inventory guide for the fiscal year, you mentioned that Micron would be tight. And I think
+last earnings call, you had said for fiscal '22, you would be below the supply that the industry would be
+turning out. So I just wanted to make sure I understood that. Would you be seeding some bit share if you
+would be tight and the industry would be healthy? I just want to make sure I had clarity on that.
+
+David Zinsner
+
+Yes. So we expect to be in line with the, in terms of shipments with the industry. And you're right, the
+industry should be in balance. But all I'm saying is we will have built up some inventory. We're already up
+to 103 days this quarter. We're likely to be higher than that in the second fiscal quarter. And then we'll be
+leading into that inventory within the third and fourth quarter. So we're staging our build plans to be able
+to manage through the demand for the calendar year.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+Got it. And then a follow-up is on free cash flow. You've been pretty positive about the ability to generate.
+I think you've characterized it as healthy free cash flow. And you've given a backdrop of the industry being
+healthy demand driver. I just wanted to drill a little bit more. Is the underpinning of the confidence is also
+on a structurally more profitable company, i.e., more profitable product portfolio combined with the LTAs
+and leading to better visibility that you have? Is that kind of factoring in besides the industry dynamic that
+is leading you to be so confident about the free cash flow for the year?
+
+David Zinsner
+
+Good question. I think there are several dynamics. First of all, we come into the first fiscal quarter
+generating good free cash flow. We generated $670 million or so of free cash flow. So that's part of the
+confidence.
+
+Also, when you look at our margins for the first fiscal quarter, which was perhaps a tougher quarter from
+a revenue perspective given the -- when you see shortages -- our shortages in the PC industry, we still
+generated 35% operating margin. So we are obviously a different company than we were 5 years ago in
+terms of our ability to generate good profitability through cycle. And so that tested a lot to do with the
+confidence.
+
+When you look into the second fiscal quarter, and take the midpoint of the guidance, our operating
+margins are about 33%, so also very healthy. We do expect to generate free cash flow again in the second
+fiscal quarter. And then as Sanjay mentioned, we go into the third and fourth fiscal quarter with strong
+demand drivers, which gives us confidence. Now granted, we're going to invest $11 billion to $12 billion of
+that -- of cash flow from operations back into the business. But even with that, we think we'll have a very
+good year from a free cash flow perspective.
+
+Operator
+
+Our next question comes from Aaron Rakers with Wells Fargo.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+Congrats on the results. I want to go back to the inventory discussion, Dave. I know you just clarified that
+you expect to exit the year or maybe fiscal year with less than 100 days. How would you characterize,
+in that context, the company's ability or willingness to kind of leverage that inventory tightness on your
+own side from a pricing perspective? Have you seen situations where you stepped away from some price
+discussions? And how do you think that, that materializes that inventory days kind of trends lower into the
+back half of the fiscal year? And then I have a follow-up.
+
+David Zinsner
+
+That's a good question. We're always willing to hold inventory. We don't think we're capturing the
+right value for the products. We allowed our inventory to go up into the 130s. I think at one point, we
+were even as low as -- or even as high as the low 140s in terms of days of inventory. And we feel very
+comfortable going to those levels, particularly as cost declines have become more modest in particular
+Instagram. And that allows us to have more flexibility in terms of holding inventory.
+
+And we as you point, we test the pricing all the time. Sumit can probably talk a little bit more about this
+in a second, but we are testing the pricing all the time with customers. I think this circumstance where
+we are in terms of inventory is that we won't be in that position. We won't see inventory trending up to
+those levels. And when it's down below 100, it's actually a fairly lean level for us based on how things
+have played out over the last 12 months.
+
+I think ideally, we'd like to be closer to the high end of our optimal range of 105 days really to effectively
+operate. So it's going to be tight. But yes, if we need to, we can always hold inventory if we don't like
+what the returns are for those products. But I don't know Sumit, if you have anything to add?
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Yes. I think, Dave, you mentioned this well. I mean -- and I agree with the sentiment that we feel
+like being closer to the higher end of the inventory range. It's just better place to be in this type of an
+environment where lead times are long for all sorts of parts that we need to procure, our customers need
+to procure and so it becomes more challenging to respond to mix changes if the inventory is very low.
+And so I think we have definitely been having discussions with customers when pricing doesn't meet our
+targets and what we think is the value we are providing in those products to our customers. We would
+much rather hold inventory. But even then, we have found that there are other customers who are willing
+to pay up and take the product that we want to step back from selling to a customer who may have more
+aggressive views on pricing.
+
+And that's part of the reason why our gross margin performance has been pretty robust, and we continue
+to focus on ensuring we get the right value for our products.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+That's great. And then on a follow-up question, I'm just curious, there's going to be an increasing focus on
+DDR5 as we move through calendar '22, along with some other architectural things going on in the data
+center side.
+
+Just when I think about a server with DDR5 looking into the back half of the calendar year relative to
+today with DDR4, how would you characterize the amount of gigabytes of DRAM capacity expansion we
+would expect to see as that transition starts to play out on a per server basis?
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Yes. I can talk to that. So really, the server transition to DDR5 is just starting in late 2022. And it's going
+to be a multiyear trend. And what we will expect to see is roughly a 20% increase in overall average
+capacity per server over 20% increase. And on top of that, the whole industry is going to move to higher
+density of memory die in order to support larger module capacities of DRAM as well.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+And the reason this is important is because the core count in these newer architectures is going up pretty
+significantly, sometimes 30%, 40% increase in core count. And so the memory per core that is needed
+is going to require those higher-capacity DDR modules. And consequently, DDR5 additionally helps by
+increasing the bandwidth, increasing the performance of the memory module. And the average capacity is
+the other important aspect that our customers will be looking for beyond the improved performances itself.
+
+So the average capacity trend continues to improve the overall -- if you look at some of the AI and
+machine learning specific servers that are purpose built for AI and machine learning type of applications,
+you will see that DRAM and NAND content is going to be 50%, 60% of the BOM cost. The single largest
+portion of the BOM is going to be just DRAM and NAND. And everything else, including CPU, GPU,
+networking, everything will be 40%, 45%. So it's a very big step-up in the cloud for DDR5.
+
+Operator
+
+Our next question comes from Harlan Sur with JPMorgan.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+Your data center business was up fairly strongly. It's up 70% year-over-year. Was it up sequentially? And
+you guys talk about enterprise and data center being the largest market for memory and storage. So is
+data center and enterprise, the largest part of your DRAM business now even bigger than your mobile
+DRAM business?
+
+David Zinsner
+
+Sumit, do you want to take that?
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Sure. Yes. So as we look at it from a quarter-to-quarter trend perspective, definitely, we do have some
+mix changes in terms of the different segments because when we have strong demand, it does become a
+discussion of how much of the demand goes into which segment. But generally, it is definitely true that the
+data center market is the biggest market for our TAM. So when we look at memory and store together, the
+data center market is the biggest portion of the TAM. And it is also one of the fastest growing.
+
+Now the fastest-growing segment is automotive and industrial, but a close second beyond that is data
+centers, particularly if you include networking and the networking is growing very fast as well.
+
+So data center is both the biggest portion and one of the fastest-growing segments. And within the
+data center, we look at cloud and hyperscaler type of customers growing faster than the traditional OEM
+customers, right?
+
+So with that having been said, as we look forward to 2022 and beyond, I just want to call out that part of
+the confidence that we have in terms of our second part of the fiscal year and second part of the calendar
+year growth is really driven by a very robust capital spending plans from some of these cloud companies.
+
+So if you look at how they have been talking about their investments and you see some of their plans,
+they have a pretty substantial step-up of investment in cloud infrastructure and server infrastructure
+in fiscal '22. And you, for example, just look at Meta as an example, they said they spent $19 billion
+-- they're going to be spending $19 billion CapEx in fiscal -- sorry, in calendar '21, but in '22, they are
+expecting that number to be in the $29 billion to $32 billion range. So very material step-up. And that's
+part of the reason why we feel like that segment is going to grow strongly for us. And we have a very
+strong value proposition in that segment. Our product portfolio there is really strong. We have leadership
+in DDR5. We have leadership in quality, 2 out of 3 customers rank us #1 in quality, and so they prefer that
+in a big way.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+And then our data center SSDs have been -- they're looking forward to a really good year there because
+we just introduced our vertically integrated platform there after years of working on it. So another very
+exciting part of our portfolio transformation.
+
+And then the last piece I'll mention is you have seen a lot of graphics growth in the data center and our
+graphics memory with the G6X -- GDDR6X, we've the world's fastest performing graphics memory bar
+none. And we have a great partnership with NVIDIA to drive that for further gains as well.
+
+So lot of legs to the story in many different aspects and a really exciting time for us for our product
+portfolio in the data center.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+Yes. And I appreciate the insights and maybe sort of as a follow-up because you brought this up. So it
+looks like I've been tracking your guys' SSD business. It looks like even before the launch of the 7400
+platform, I think your enterprise and data center as this deep business is about the same size as your
+client SSD business. Is that about right?
+
+And then, how do you see momentum going into next year? You guys talked about introducing the new
+7400 data center platform in October, strong ramp in fiscal Q2. Is this with multiple Cloud Titans?
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Sorry, I didn't catch the last word of your question. Is this multiple what, sorry?
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+Yes. Is the 7,400 ramp in Q2, is that being driven by multiple Cloud Titans ramping?
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Yes. So I think there is no doubt that if you look at our high-value NAND mix we have been on a very
+steep trajectory to improve the percent of our NAND output that is being sold as high-value solutions.
+
+And in that increasing our mix of SSDs is very critical, we have a really strong portfolio for both client SSD
+that go into PCs as well as data centers. So we have a strong product cycle going on both the 146 of the
+-- sorry, 176-layer NAND-based SSDs for client as well as our vertically integrated platform for data center
+which we have just launched.
+
+So we are seeing interest from all sized customers, the cloud companies as well as traditional OEMs as
+well as channel partners for this vertically integrated platform because they believe it's all of the early
+testing they have done, they find that product to be very attractive. So between this product and future
+generations of this product, we are pretty confident that we'll be able to build a pretty strong momentum.
+
+And the data center SSD business, as you know, is the most profitable portion of the NAND portfolio, and
+so as we finally start to ramp this over the course of next several quarters, it should be a tailwind for us in
+our financial performance. So I feel pretty good that over the next year and 2, we will end up with much
+improved share in data center SSDs than what we have had in the past couple of years.
+
+Operator
+
+Our next question comes from Srini Pajjuri with SMBC.
+
+Srinivas Reddy Pajjuri
+SMBC Nikko Securities America, Inc., Research Division
+
+Dave, on the balance sheet inventory question. Just based on your guidance, it seems like you're guiding
+for bits to be kind of flattish in the second quarter, fiscal second quarter. So my question is you said your
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+inventory still go up. So I'm just wondering, even if bits are flat, do you think your inventory actually goes
+up on that?
+
+David Zinsner
+
+Well, we're not expressly guiding bits for the second fiscal quarter. But I would say I'd stand by my
+comment that we expect our days of inventory in our absolute inventory to be up a bit in the second fiscal
+quarter.
+
+Srinivas Reddy Pajjuri
+SMBC Nikko Securities America, Inc., Research Division
+
+Okay. Fair enough. And then there was a comment about LPDDR5 penetration in the PC market being
+about 20%. So obviously, you're really well positioned in that market. And -- but my question is, are there
+any implications that we should be aware of for either pricing or margins or anything else as LPDDR5
+becomes a bigger portion of the PC market?
+
+David Zinsner
+
+I'll let Sumit comment on that.
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Yes. No, I think that's more of a comment we provided to just provide some color on some fundamental
+shifts that were taking place in the client market and the PC market.
+
+We are very strong in both DDR compute products as well as low power. And some of our low power
+products have really good capabilities that our customers appreciate, but we have world-class quality in
+both and very good performance in both. And so not really much of a financial comment there as much as
+just color on the industry trends.
+
+Operator
+
+Our next question comes from Tom O'Malley with Barclays.
+
+Thomas James O'Malley
+Barclays Bank PLC, Research Division
+
+Dave, let me try to attack the big question in a different way. So previously, you had talked about difficulty
+growing bits in the first half and then any upside would come with the transition to 1-alpha. Obviously, to
+get to your target for the year, it implies a substantial back half ramp. But can you talk about how that
+transition happened a bit better than expected? And given that, do you think that it's that assumption to
+maybe see some of that bit growth come in a little earlier in the year, just given the amount of strength
+you see for the entire calendar year.
+
+David Zinsner
+
+So good question. Let me let Manish take that since he's in charge of ramping it.
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+Tom, thanks for asking. And yes, no, 1-alpha and 176 are actually doing better. They're ramping really
+well better than maybe we expected a quarter ago in terms of how they're yielding, how much the
+productivity we're getting out of those tools and that are dedicated there.
+
+And so you're asking your question specifically about DRAM, I think we made a comment that we now
+have 176 players is now the majority of our NAND production and that 1-alpha and 1Z combined is, as
+we said, 50% of our total DRAM output. So and I would expect that 1-alpha as we continue to ramp it to
+actually both 1-alpha and 176 to continue to ramp and grow as a portion of our mix as we go through the
+year.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+And as Dave mentioned about, we could see inventory growing a little bit in this next quarter, but that just
+positions us well for a strong second half of the year ramp and getting more of the 1-alpha and 176 cost
+capability into our P&L and the results that dropped to the bottom line in the second half of the year.
+
+David Zinsner
+
+Yes, I would go so far as to say, we have to build this inventory ahead of our strong demand expectations
+for the back half of the fiscal year. Otherwise, we will be challenged. So it was actually part of the strategy
+really.
+
+Thomas James O'Malley
+Barclays Bank PLC, Research Division
+
+That's helpful. And then in your commentary, and then I think in the deck as well, you talked about
+some strategic supply agreements that you guys have entered into, just to help on the supply side. You
+mentioned UMC, but can you talk about any other parts or strategic agreements that you've got into that
+kind of help with that supply as the year goes along?
+
+David Zinsner
+
+Yes. So Manish, you probably -- strategic supply agreements?
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+Yes. So for example, we've said publicly that we'd entered into a strategic supply agreement with UMC
+recently to be able to provide a supply of controllers that are important, in particular, to our automotive
+business and some of the other businesses in our NAND portfolio. And we have other agreements on other
+components.
+
+The analog space is definitely an area that has been challenging for the entire industry. We're also
+doing things with back-end materials like substrates and other materials that go into assembly and test
+processes to make sure that we have sufficient supply to be able to meet our plans for the rest of the year
+and meet that supply with the varying mix of supply that Sumit was referring to -- of demand that Sumit
+was referring to earlier.
+
+Operator
+
+Our next question comes from Karl Ackerman with Cowen.
+
+Karl Ackerman
+
+Clarification and a question. Dave, first one's for you. Would I be wrong to conclude your November
+results witnessed DRAM costs improved, low singles on a year-over-year basis and NAND improved low
+teens on a year-over-year basis. And I guess I'll just ask the follow-up question for Sumit or Manish. I
+guess I was a bit surprised that Sanjay indicated, you have mid-single-digit share in automotive, and that
+would certainly lag your overall share in the market. I'm curious why is that?
+
+And maybe what -- more importantly, what steps have you taken or can you take to improve your
+competitive position within this market that is certainly going to be a growth driver, not just for this year,
+but the next couple of years?
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+We should probably address the second part first, Sumit, do you want to, I think there's a
+misunderstanding. Do you want to explain that?
+
+Farhan Ahmad
+Senior Director of Investor Relations
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+I'll add to the comments that Sanjay said on the call. So I think what Sanjay implied was that our
+revenue, that exposure, maybe like auto and industrial is 10% with no point, did he say that we have
+a mid-single-digit share. We -- in the call in the prepared remarks, we said that we have market share
+leadership and we have said it many times. So -- and with that, I'll let Sumit comment more on our
+proposition.
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Yes. I think there is some level of communication or misunderstanding. Just to be clear, on the automotive
+side, Micron is #1 in the world in automotive share. In fact, our automotive share is so high that the next
+3 competitors combined have less share than we do. So we are #1 by a large, large margin. And if you
+also look at the automotive plus industrial share, we are #1 in the world in automotive and industrial
+together. And independently in industrial as well, we have an extraordinarily high share, much higher in
+both cases for industrial and automotive than our supply share in the industry.
+
+So you have seen already that we mentioned that our industrial IoT growth in Q1 was over 80%, year-on-
+year, our automotive growth in spite of flat unit shipments and the car companies, our automotive growth
+was very strong. We've been setting records in quarterly performance in automotive in spite of our end
+customers being severely constrained in their unit shipments. And all of that is testimony to be strong
+amount of growth of average content.
+
+And so we have been investing in automotive for decades, and we have a long history of high-quality
+product assurance of supply through multiple technology generations and a lot of good capabilities that we
+bring to that market, long history of support to our customers there.
+
+So we are very, very well positioned in automotive. And since automotive and industrial are the fastest-
+growing segments in memory and storage over the next decade, this #1 share, far higher than our supply
+share, should position us really well to profit from that.
+
+David Zinsner
+
+And then on the cost side, in DRAM, so maybe just level set, we think that cost declines in the industry
+for DRAM are mid- to high single digits. I'd say in the first quarter, our year-over-year cost declines were
+more on the lower end of that.
+
+On the NAND front, we think cost declines generally run in the mid-teens, and we were a bit below that
+in terms of our cost decline. It's partly influenced by mix. And also, I think we just have a bigger chunk
+of expenses associated with COVID mitigation and so forth that's impacting us in the first quarter that we
+weren't seeing nearly that level in the first quarter of last year.
+
+So that's been somewhat of a headwind to the cost declines year-over-year.
+
+Operator
+
+Our next question comes from Chris Caso with Raymond James.
+
+Christopher Caso
+Raymond James & Associates, Inc., Research Division
+
+I guess first question is what you think about customer inventories right now or any areas you think may
+be higher or lower that you'd wish to call out? And then I guess with some of the supply tightness that you
+expect in the second half of the year, I guess, might your customers be expecting that as well? And might
+they have some incentive to take some inventory just as you guys are building some inventory now.
+
+David Zinsner
+
+Okay. So Sumit?
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+Yes. So in terms of inventory at different customers, the -- there are, I would say, the overall inventory
+picture is next picture. There are some customers who have below target inventories, and there are
+some who have been carrying inventory a little bit higher than their target. One example of the latter is
+phone companies, smartphone companies that are based in China have generally a little bit higher level of
+inventory than their target.
+
+Now the other aspect of this whole inventory issue is that customers have had a tough time with
+inventory, getting enough parts, having adequate supply of semiconductor inventory. So over the last 18
+months, they've experienced a lot of challenges. And so their overall target levels of inventory could be
+higher strategically. And for extended periods of time, we don't know. So that's one aspect. The other is
+always the geopolitical aspect of what happens with inventory. So some companies have chosen to have
+high levels of inventory to manage all of the supply chain risks that occurred due to geopolitical or other
+aspects.
+
+So I think with all of that said, we feel like the demand environment is still very, very good and very
+robust. And the overall level of end demand is still not being fully reflected on the memory and storage
+side because there are shortages in the semiconductor supply chain that are constraining demand. And
+as that demand -- as that supply improves through calendar '22, we should see more of that inventory
+consumed, and we should also see more of that demand to show up into memory and storage industry
+broadly. So that's sort of a quick summary, I just wanted to provide.
+
+Christopher Caso
+Raymond James & Associates, Inc., Research Division
+
+Okay. That's very helpful. As a follow-up, in your prepared comments, you talked about your expectations
+for a healthy supply-demand balance in calendar '22, especially in DRAM. Maybe you could expand a
+little more on those comments as it pertains to industry supply growth and kind of what you're expecting
+there. And with that, the equipment lead times are very long. So to what extent do you think that those
+equipment lead times are serving to constrain the capacity additions even if some of your competitors
+wanted to add more.
+
+David Zinsner
+
+Manish, you want to take that?
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+Sure. Thanks, yes. Thanks, Chris. So I think there's a few different factors contributing. I mean we talked
+about the demand side a fair bit looking all the end markets looking healthy, except for this air pocket, we
+just hit in PCs, and now we CPCs improve. So with all of them coming together, we see strong demand for
+the second half.
+
+Now in terms of supply, there's a couple of things to think about. First, keep in mind that last year was a
+very strong year for inventory depletion at all of all competitors in the industry, right? So the comparison
+as we look ahead to '22 is based on a very high inventory depletion in addition to natural new supply
+output. So that's one thing.
+
+The second is that technology transitions are continuing to get harder and harder for everyone. And so
+we're not getting as much big growth out of each station as an industry as we used to.
+
+And then the third one is the part that you asked about, which is the lead times for equipment. And I
+think you've heard both from equipment -- sorry from all competitors that we are actually being prudent
+with our CapEx spending. For example, we said that we're investing less in DRAM manufacturing in fiscal
+year '22 than in fiscal year '21. And then you've heard equipment vendors say similar things about lower
+targeted DRAM investment from their -- from all of their customers together.
+
+And then the lead times with regard to equipment, our -- that extension, it just kind of keeps an overall
+lid on how much the growth -- when new capacity could come online. And the extension there does kind
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+of help make sure that the supply-demand balance remains stable, through '22. And I mean we're even
+seeing, having to work with our suppliers into '23 now as well in order to make sure that we're securing all
+the slots that we need. And I'm sure the other competitors are doing the same. That's just the nature of
+the equipment industry dynamics right now.
+
+Operator
+
+Our next question comes from Raji Gill with Needham & Company.
+
+Rajvindra S. Gill
+Needham & Company, LLC, Research Division
+
+I'm sorry about that, I was on mute. So a question on the gross margin. The margin is guided to be about
+46% down sequentially. That's in part due to seasonality. But I wanted to get a little more clarity on kind
+of the near-term outlook for margins. And as we progress throughout the fiscal year '22 at a high level,
+is it fair to assume that the margins should start to inflect higher as you see kind of more moderate ASP
+deceleration as well as more of a better cost structure? So just thoughts on how you're thinking about
+margins as we kind of ramp into the stronger fiscal second half and near term as well.
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Yes. So without...
+
+David Zinsner
+
+We tend not to obviously comment on margins beyond the first -- one fiscal quarter out. I guess what I
+would say is there's some things that are going in our favor. One, we'll be continuing to ramp, 1-alpha
+DRAM and 176-layer NAND, they have good cost structure, the more they come in the mix, the better, I
+think we are from a cost perspective.
+
+And two, as Sanjay mentioned, we have the introduction of the 7400 SSDs. But just in general, the move
+both in DRAM and NAND to higher-value products, I think, is beneficial to us in terms of driving better
+profitability, better profits and so forth. So those 2 things are in our favor.
+
+Pricing, we'll have to see how that plays out on the, the only negative thing I think we have in front of us
+from a cost perspective is really just the costs associated with managing the supply chain. That's coming
+in the form of COVID, but also just in the form of just lots of pressure on the supply chain that we're
+experiencing incremental cost, and that is a headwind.
+
+I think maybe the only other thing to say is that these margins that we're operating in are quite healthy.
+And if demand is strong like we believe it will be in the back half of the fiscal year and into the back half of
+the calendar year, I think we have -- we're in a good place.
+
+The only other thing I'd add is, which I failed to mention before, but the expenses we're experiencing,
+these headwinds that we're experiencing, our competitors are experiencing, the entire semiconductor
+industry is experiencing, so this won't be something that's unique to Micron in any way. This is something
+that -- one that everyone is seeing.
+
+Rajvindra S. Gill
+Needham & Company, LLC, Research Division
+
+And for my follow-up, on the 5G, the smartphone business, the mobile business, I'm wondering why you
+admit you're characterizing the overall end market as we close out the year.
+
+And then as we go into next year, you talked about I think nearly 700 million of 5G smartphones. So
+obviously, 5G as a percentage of the overall handset market is increasing. So I wanted to get your
+thoughts on kind of some of the DRAM or the NAND content drivers in 5G as you go into next year. Is
+there going to be higher dollar content there? Or is it just more about that the unit as a percentage of the
+overall end market is going to be representative of higher content per phone?
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+David Zinsner
+
+I'll let Sumit address that.
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Yes. I think the 700 million plus unit view of calendar '22 gives us roughly 40% plus growth of units from
+calendar '21 to calendar '22, so that's a positive.
+
+And the reason it's positive is because the 5G phones have higher average capacities of both DRAM and
+NAND. So DRAM typically 50% higher average capacity and NAND is almost double average capacity. If
+you see some of the phone models from Apple and Samsung, you'll see the strong improvements they
+have made from 4G to 5G phones or LTE phones to 5G phones.
+
+So that 5G trend is very good. And keep in mind that these are just being driven out of existing known
+applications with a lot of AI usage when you take pictures that's happening in the background. So that's
+driving a lot of content of DRAM. And when you save in 4K video, et cetera, or even draw data on the
+photo screen captured now for post processing of these images, a lot of that requires large file sizes.
+
+And so these are just known existing applications. As you know, at the start of any new technology when
+new applications come up that take advantage of 5G overall bandwidth increase, lower levels of latency,
+et cetera. So you see all of these being rolled out in the years ahead, including augmented reality type
+of applications for phones, including more usage of phones for gaming. Then you will see the average
+capacity trend continue beyond the initial burst of this going from 4G to 5G. So that's how we see the
+progression happening driven by applications, and that is still very early in the 5G cycle. That's going to be
+a decade-long trend, and we are just right now seeing the benefit of just the jump from 4G to 5G and then
+future average capacity growth beyond that 2 applications.
+
+Operator
+
+Our next question comes from Steven Fox with Fox Advisors.
+
+Steven Bryant Fox
+Fox Advisors LLC
+
+Just following up on all the mix commentary for the second half of the fiscal year. Dave, if we just isolate
+around mix, it seems like with data center and maybe even content on mobile and then auto that, the
+mix story in the second half is pretty strong for gross margins. Can you just explain or just maybe walk
+that back a little bit, what would be the major offsets to thinking you get decent margin -- gross margin
+expansion in the second half? And then I had a quick follow-up.
+
+David Zinsner
+
+We're not going to predict gross margins, but clearly, that will be beneficial. And as I said, clearly, across
+the technology, cost structure will be beneficial. And then the offsetting negative would generally be the --
+from a cost perspective, would be these supply chain costs that we'll experience. But we're not prepared
+to guide for a third or fourth fiscal quarter. I think all I can say is stay tuned for the 2Q earnings call, and
+we'll give you guidance as to where we think things are going to shape up to in the third fiscal quarter.
+
+Steven Bryant Fox
+Fox Advisors LLC
+
+Fair enough. And then just real quick on the improvements you're seeing in the supply chain. Like how
+would you describe those in terms of how they start to layer in? Is it pretty straight line starting after this
+quarter? Is it we're still -- do you get a bulk of it as you get to the fourth quarter? Any other color around
+that would be helpful.
+
+David Zinsner
+
+Sorry, the improvements in supply chain is that what you're saying?
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+Steven Bryant Fox
+Fox Advisors LLC
+
+Yes, yes, the improvements in your own supply chain that you talked about.
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+Sure. So I think as we've gone through this year, we've seen shortages across a few different end
+components. I mentioned analog. I mentioned that's primarily -- the primary driver of some other logic
+components. And we've been able to, I think, mitigate most of those pretty well, and we've taken actions
+across those areas to make sure that we will see improving supply as we head into calendar year '22.
+
+Having said that, this kind of environment is such that there are -- while we address certain issues, new
+areas of challenge pop up, and we're working aggressively to make sure that we can build inventory on
+those -- across all the different components that we source so that we're able to address all the demand
+that we see for next year.
+
+So we're in a pretty dynamic situation, but with these long-term strategic agreements, we'll gradually
+build inventory on the parts that we need such so we can meet the demand that we have.
+
+Operator
+Thank you. This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+MICRON TECHNOLOGY, INC. FQ1 2022 EARNINGS CALL |  DEC 20, 2021
+
+Copyright © 2022 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2022 S&P Global Market Intelligence.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+

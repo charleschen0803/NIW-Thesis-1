@@ -1,0 +1,871 @@
+Broadcom Inc. NasdaqGS:AVGO
+FQ2 2021 Earnings Call Transcripts
+Thursday, June 03, 2021 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ1 2021-
+
+-FQ2 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+GUIDANCE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+6.57
+
+-
+
+6.46
+
+26.95
+
+29.07
+
+Revenue  (mm)
+
+6619.66
+
+6600.00
+
+6506.42
+
+26889.48
+
+28249.08
+
+Currency: USD
+Consensus as of  Jun-01-2021 2:43 AM GMT
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+FQ1 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+5.14
+
+5.19
+
+6.20
+
+6.57
+
+5.14
+
+5.40
+
+6.35
+
+6.61
+
+0.00 %
+
+4.05 %
+
+2.42 %
+
+0.61 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+7
+
+2
+
+ 
+BROADCOM INC. FQ2 2021 EARNINGS CALL |  JUN 03, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Hock E. Tan
+CEO, President & Executive
+Director
+
+Ji Yoo
+Director of Investor Relations
+
+Kirsten M. Spears
+CFO & Chief Accounting Officer
+
+ANALYSTS
+
+Blayne Peter Curtis
+Barclays Bank PLC, Research
+Division
+
+Christopher Brett Danely
+Citigroup Inc., Research Division
+
+Christopher James Muse
+Evercore ISI Institutional Equities,
+Research Division
+
+Craig Matthew Hettenbach
+Morgan Stanley, Research Division
+
+Harlan Sur
+JPMorgan Chase & Co, Research
+Division
+
+John William Pitzer
+Crédit Suisse AG, Research
+Division
+
+Ross Clark Seymore
+Deutsche Bank AG, Research
+Division
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research
+Division
+
+Toshiya Hari
+Goldman Sachs Group, Inc.,
+Research Division
+
+Vivek Arya
+BofA Securities, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+BROADCOM INC. FQ2 2021 EARNINGS CALL |  JUN 03, 2021
+
+Presentation
+
+Operator
+
+Welcome to Broadcom Inc.'s Second Quarter Fiscal Year 2021 Financial Results Conference Call. At
+this time, for opening remarks and introductions, I would like to turn the call over to Ji Yoo, Director of
+Investor Relations of Broadcom Inc. Please go ahead.
+
+Ji Yoo
+Director of Investor Relations
+
+Thank you, operator, and good afternoon, everyone. Joining me on today's call are Hock Tan, President
+and CEO; Kirsten Spears, Chief Financial Officer; Tom Krause, President, Infrastructure Software Group;
+and Charlie Kawwas, Chief Operating Officer.
+
+Broadcom also distributed a press release and financial tables after the market closes, describing our
+financial performance for the second quarter of fiscal year 2021. If you did not receive a copy, you may
+obtain the information from the Investors section of Broadcom's website at broadcom.com.
+
+This conference call is being webcast live, and a recording will be available via telephone playback for 1
+week. It will also be archived in the Investors section of our website at broadcom.com.
+
+During the prepared comments, Hock and Kirsten will be providing details of our second quarter fiscal year
+2021 results, guidance for our third quarter as well as commentary regarding the business environment.
+We'll take questions after the end of our prepared comments.
+
+Please refer to our press release today and our recent filings with the SEC for information on the specific
+risk factors that could cause our actual results to differ materially from the forward-looking statements
+made on this call. In addition to U.S. GAAP reporting, Broadcom reports certain financial measures on a
+non-GAAP basis. A reconciliation between GAAP and non-GAAP measures is included in the tables attached
+to today's press release. Comments made during today's call will primarily refer to our non-GAAP financial
+results.
+
+I'll now turn the call over to Hock.
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Thank you, Ji, and thank you, everyone, for joining us today. In Q2, semiconductor solutions revenue grew
+a strong 20% year-on-year to $4.8 billion, with infrastructure software revenue growing an expected 4%
+year-on-year to $1.8 billion. Consolidated net revenue was of $6.6 billion, up 15% year-on-year.
+
+Now on the last earnings call we had, we talked about how strong broadband and networking bookings
+were from hyper cloud and service providers, even as wireless was declining seasonally. In Q2 just passed,
+not only do we see broadband and networking sustaining, we now see a recovery of bookings from
+enterprise. And on the supply side, hourly times have now stabilized, but the volume of bookings we are
+experiencing today continues to grow. Now we intend to meet such demand, and in doing so, we maintain
+our disciplined process of carefully reviewing our backlog, identifying real end user demand and delivering
+products accordingly.
+
+With that as context, let me provide you more color. Starting with broadband, which interestingly now is
+going through somewhat of a renaissance. Revenue grew 28% year-on-year and represented 18% of our
+semiconductor revenue. As discussed during our Broadband Teach-In, the work, learn and play from home
+environment is driving global service providers to expand connectivity to the home.
+
+In our broadband carrier access business, PON fiber or otherwise known as PON grew over 40% year-
+on-year, mostly with existing generation 2.5G. But with next-generation 10G PON representing only 30%
+today, there is significant room for content growth as 10G PON deploys over the next few years. Not to
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+BROADCOM INC. FQ2 2021 EARNINGS CALL |  JUN 03, 2021
+
+be outdone by fiber, cable operators in the U.S. are driving deployment of DOCSIS 3.1 cable modems, we
+saw an 80% year-on-year growth, and planning to accelerate the upgrade to next-generation DOCSIS 4.0.
+Our broadband technologies, in fact, are enabling service providers to complement the 5G they deliver --
+to deliver best experience for consumers.
+
+Now overlaying all this last-mile broadband upgrades, we see a demand surge for the latest WiFi 6 and
+6E technology to enable the last 100 feet of connectivity in homes. Broadcom has emerged as the clear
+market and technology leader in WiFi for access gateways to the home and to enterprises, with over 50
+million ports shipped in Q2 alone or a year-on-year revenue growth of some 30%.
+
+On the other hand, as we might expect, with the push into higher-performance fiber, copper DSL, digital
+subscriber line deployments for wireline broadband, declined 30% year-on-year. And with a lack of
+live events during the pandemic, video declined 20%. But with the onset of 5G, service providers are
+competing for subscribers, leading to technology upgrades globally in fiber, cable and WiFi connectivity.
+We're seeing this investment cycle in broadband extending into 2022. And so for Q3, we expect to sustain
+double-digit year-on-year revenue growth in this segment.
+
+Moving on to networking. Networking grew 10% year-on-year and represented 32% of our semiconductor
+revenue. We experienced tailwinds from hyper cloud and telcos, partially offset by headwinds from
+enterprise. Revenue for switching was up 30% year-on-year, primarily driven by the strong ramp of our
+Trident and Tomahawk 3 for over 400G platforms and hyper cloud data centers.
+
+In the network, service providers have been investing in 5G infrastructure worldwide, where the demand
+for Jericho2 at the metro core and Qumran at the edge have been robust with revenue up 35% year-on-
+year. On the other hand, enterprise demand in networking has not yet recovered, still down double digits
+from a year ago. But as we go into the back half of the year, we expect to see hyper cloud upgrading to
+our next-generation Trident, Tomahawk 4 or over 800G switching platforms and sustained strength by
+service providers in network routing. And accordingly, in Q3, we expect networking revenue to maintain
+the trend of low double-digit growth year-on-year. We found the complete recovery of enterprise demand.
+
+Speaking of enterprise, let's talk about server storage connectivity, which represented approximately 12%
+of semiconductor revenue. This end market is largely driven by enterprise. And in line with our guidance,
+revenue was down 16% year-on-year. You may recall, however, in Q1, this was down 22%. And as the
+economy starts to recover, we are seeing an improving demand trajectory. And so in Q3, we expect server
+storage connectivity revenue to be down high single-digit percentage year-on-year.
+
+With the launch of Intel's Ice Lake, AMD's Milan as well as future ARM-based servers, this space is turning
+quite exciting and innovative for us, both in hardware and software. And we will provide, obviously, more
+color during our next teach-in in July on our server storage business.
+
+Moving on to wireless. Q2 revenue was down 16% sequentially, reflecting seasonality, with wireless
+representing 34% of semiconductor revenue mix. Nonetheless, on a year-over-year basis, wireless
+revenue was up 48%, reflecting a very favorable compare year-on-year as well as content increases in
+FBAR and WiFi. In Q2, we were able to ship more than we had originally planned. And accordingly, in Q3,
+we expect the growth trend in wireless revenue to sustain but at over 30% year-on-year.
+
+Finally, industrial and other represented approximately 4% of Q2 semiconductor solutions revenue.
+Resales grew 34% year-over-year in Q2, driven by recovery in automotive and China. Inventory in the
+channel continues to deplete as what we shipped in the distributors grew only 23%. Turning to Q3, we
+expect resales to continue to grow double-digit percentage on a year-on-year basis.
+
+Summary, Q2 semiconductor solutions segment was up 20% year-on-year. And in Q3, we expect revenue
+growth year-over-year to be of a similar amount.
+
+Turning to software. In Q2, infrastructure software produced another quarter of steady and predictable
+results as revenue grew 4% year-on-year and represented 27% of total revenue. Now if we exclude
+professional services, our enterprise software revenue grew 7% actually year-over-year. And a further
+indicator of the quality and sustainability of our products, over 90% of our software bookings represented
+recurring subscription and maintenance with an average contract life span from core customers pretty
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+BROADCOM INC. FQ2 2021 EARNINGS CALL |  JUN 03, 2021
+
+much close to 3 years. We continue to believe our infrastructure software business is on track to grow at
+or better than mid-single-digit percentage year-over-year, which is again what we expect to see in Q3.
+
+Summarizing this, demand continues to be robust, and so our Q2 consolidated net revenue grew 15%
+year-over-year. We expect the momentum to sustain in Q3 and total revenue to be at $6.75 billion or up
+16% year-on-year.
+
+With that, let me now turn the call over to Kirsten.
+
+Kirsten M. Spears
+CFO & Chief Accounting Officer
+
+Thank you, Hock. Let me now provide additional detail on our financial performance. Revenue was $6.6
+billion for the quarter, up 15% from a year ago. Gross margins were a record 75% of revenue in the
+quarter and up approximately 180 basis points year-on-year. Operating expenses were $1.2 billion, down
+1% year-on-year, driven by lower SG&A, offset in part by increased investment in R&D. Operating income
+for the quarter was $3.8 billion and was up 25% from a year ago. Operating margin was 58% of revenue,
+up approximately 470 basis points year-on-year. Adjusted EBITDA was $4 billion or 60% of revenue. This
+figure excludes $133 million of depreciation.
+
+Now a review of the P&L for our 2 segments. Revenue for our semiconductor solutions segment was $4.8
+billion and represented 73% of total revenue in the quarter. This was up 20% year-on-year. Gross margins
+for our semiconductor solutions segment were approximately 69%, up 290 basis points year-on-year,
+driven primarily by higher product margins. This margin improvement comes from content growth as we
+deploy more next-generation products in broadband and networking end markets. Operating expenses
+were $795 million in Q2, up approximately 2% year-on-year as we invested in R&D and streamlined
+SG&A. R&D was $702 million in Q2, up approximately 6% year-on-year. Q2 operating margins increased
+to 53%, up 580 basis points year-on-year. So while semiconductor revenue was up 20%, operating profit
+grew 35%.
+
+Moving to the P&L for our infrastructure software segment. Revenue for infrastructure software was $1.8
+billion and represented 27% of revenue. This was up 4% year-on-year. Gross margins for infrastructure
+software were 90% in the quarter, up 100 basis points year-over-year. Operating expenses were $355
+million in the quarter, down 8% year-on-year as we've completed the integration of Symantec. R&D
+spending at $228 million is up 1% year-over-year. Operating profit was up 10% year-on-year on top line
+growth of 4%. Operating margin was 70% in Q2, up 360 basis points year-over-year.
+
+Moving to cash flow. Free cash flow in the second quarter was $3.4 billion, representing 52% of revenue.
+Days sales outstanding were 33 days in the second quarter compared to 51 days a year ago. We ended
+the second quarter with inventory of $1 billion, an increase of $52 million or 5% from the end of the prior
+quarter. We should also note in Q2, we spent $126 million on capital expenditures.
+
+On the financing front, we extended our weighted average debt maturity to approximately 10 years from
+9 by exchanging notes. Our weighted average coupon decreased about 5 basis points to 3.7%. During the
+quarter, we made $1.5 billion in payments on debt obligations, ending the quarter with $9.5 billion of cash
+and $40.4 billion of total debt, of which $278 million is short term.
+
+Turning to capital allocation. In the quarter, we paid stockholders $1.6 billion of cash dividends. We also
+paid $461 million in withholding taxes due on vesting of employee equity, resulting in the elimination of
+approximately 1 million AVGO shares. We ended the quarter with 410 million outstanding common shares
+and 450 million diluted shares. Note that we expect the diluted share count to be 449 million in Q3.
+
+The Board of Directors has approved a quarterly cash dividend on our common stock of $3.60 per share
+in Q3. Based on current trends and conditions, our guidance for the third quarter of fiscal 2021 is for
+consolidated revenues to be $6.75 billion and adjusted EBITDA of approximately 60% of projected
+revenue.
+That concludes my prepared remarks. Operator, please open up the call for questions.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+BROADCOM INC. FQ2 2021 EARNINGS CALL |  JUN 03, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of John Pitzer of Credit Suisse.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Hock, I've got 2 quick ones. First, within your wireless business, you've been able to sign long-term
+contracts with your key customer, and I'd argue that's benefited both you and them. It's given you the
+confidence to invest in the business properly and then the confidence that you'll have supply for them
+when they need it. I'm just kind of curious, given how tight things are elsewhere in the semi business,
+have you been able to parlay this into any longer-term customer contracts? And what implications might
+that have as we all start to worry about the "end of cycle"?
+
+And then secondly, just on your comments about enterprise recovery, can you elaborate on that? Was that
+specifically a storage comment? Or is that also a networking comment?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Okay. Let me take the question one at a time. On arrangements with long-term agreements, John, this is
+something we have been thoughtfully, carefully putting in place with our core strategic customers. We just
+don't go do it as if it's commoditized. We're very thoughtful about doing it, and we do it in very specific
+areas where we know for sure that the technology is fairly, fairly difficult, complex to manage and which
+requires a substantial amount of R&D spending. And we've been doing it for a while now with strategic
+customers in core businesses. So we just don't do it across the board.
+
+And what you pointed out is very, very correct. It's a mutual -- then it's a structure, it's an agreement
+with mutual benefit. We have the confidence to invest in R&D to make CapEx capacity investment. And
+in return, we offer the best leading-edge technology in specific areas in a timely manner to our critical
+customers. So yes, we have been doing it, and we will continue to thoughtfully do it in a very appropriate
+manner.
+
+On the second part, okay, which is -- if you could repeat the question, John? Let me be sure...
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Yes, just elaborate a little bit on your comments about an enterprise recovering brewing. Was that mostly
+within storage? Or was it networking? So I'm a little bit surprised, given some of Cisco's comments, that
+you're not a little bit more positive on the enterprise network space.
+
+Hock E. Tan
+CEO, President & Executive Director
+
+It is across -- it is for enterprise spending. It is -- I won't say across the board necessarily and trying to
+define enterprise very appropriately. As you noticed in my comments, we've classified service providers,
+telcos as a separate animal, different from traditional enterprise. And so -- and as I pointed out, based on
+broadband, telcos have been investing big time. Service providers, telcos have been investing in a huge
+manner over the past 12 months.
+
+But traditional enterprise, the companies, whether it's the banks, the manufacturing sector, various retail
+customers, airlines, examples, no, these guys are in a recovery mode. And not surprising, we are seeing
+pandemic easing like, say, in North America. And as it eases, we see a step-up in spending. But we do not
+see spending spiking up.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+BROADCOM INC. FQ2 2021 EARNINGS CALL |  JUN 03, 2021
+
+Now obviously, if you look at some businesses that -- like warehouses that require WiFi networks, campus
+networking environment, you do see that improving. But to say across the board, all enterprises are just
+spending money, not -- we are still seeing -- and as I showed that in server storage connectivity, we still
+see year-on-year, things are not up to what it was a year ago. And that applies not just on data centers,
+namely compute. It also applies to data centers in enterprise, campus environment. We see less of that
+but across the board.
+
+Operator
+
+Our next question comes from the line of Harlan Sur of JPMorgan.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+Great job on the quarterly execution, strong margins and free cash flow generation. Hock, I think as you
+mentioned, we're still in the early phases of the 400-gig networking upgrade cycle with your hyperscale
+and telco customers. I know 2 of your big cloud typing customers have already started the upgrade. It
+looks like there's another 2 more that are going to start the upgrade cycle here in the second half of this
+year and quite a bit more next year.
+
+And then as you mentioned, you still have Tomahawk 4 ahead of you. So given the extended visibility
+that the team has with the strong backlog, do you see the cloud and telco upgrade cycle and inevitable
+recovery in enterprise driving continued year-over-year growth in networking into next year?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+I don't -- we don't really try to guide more than 1 quarter at a time, first of all, because we're not that
+smart to be able to do that. But on a broader trajectory, it does appear fairly much the trend, as we said,
+which is the hyper cloud guidance will push out in the second half, as I indicated, on the data center side
+on Tomahawk 4, the 800G platform. In fact, we have substantial backlog for delivering in the back half of
+the year for Tomahawk 4.
+
+So we see that going on, and we -- you're right, we see the recovery step-by-step of the enterprise,
+though I do not see that really taking off in terms of reaching the level it was a year ago, probably until
+2022. But what we do not know for sure is would that give pause to hyper cloud in their spending. And
+that part, I'm just putting everything on the table. We're not sure whether hyper cloud spending will
+necessarily continue into 2022. We sensed it would. We see some of the backlog.
+
+But as enterprise steps up, one really never knows if the economy starts to rebalance in that side. But
+what we do see in broadband is service providers, the telcos in particular are, for sure, upgrading. And
+here, this is the longer cycle of upgrade and we see them upgrade. And we see the backlog associated
+with it through 2022.
+
+Operator
+
+Our next question comes from Ross Seymore of Deutsche Bank.
+
+Ross Clark Seymore
+Deutsche Bank AG, Research Division
+
+Congrats on the strong results. Hock, I want to dive a little bit into the lead time commentary that you
+had with that stabilizing. Two quarters ago, you talked about the size of the book, the backlog you had.
+Last quarter, you talked about the year-over-year and even, in some instances, the sequential growth
+being so large in bookings. And now we're hearing that the lead times are stabilizing. People could
+interpret that a bunch of different ways as far as the implication on the demand side of the equation or
+that supply is catching up to it, or frankly, people are just ordering so far out that they're not willing to
+extend that any further.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+BROADCOM INC. FQ2 2021 EARNINGS CALL |  JUN 03, 2021
+
+So I was hoping to double-click on that lead time commentary and get your feelings as to why it's
+stabilizing. And do you take that as a positive or a negative?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+I'll just make a comment to say we have stretched out our lead times so far, Ross. Good point you bring
+up -- and I'm glad you're bring it up to give me a chance to clarify a set of quick comments I made in my
+opening remarks that we are comfortable at the lead times we are on. And so what it is, is customers --
+our customers are comfortable seeing our lead time now.
+
+But one we have found rather remarkable over the last quarter is that even if our lead times remain
+stable, consistent, the volume of bookings we receive every week continues to grow. I made that
+comment and thanks for the opportunity to make that -- reiterate that point. Same lead time, stable for
+last 3 months, but the booking rate we are seeing every week continues to step up.
+
+Operator
+
+Our next question comes from Vivek Arya of Bank of America Securities.
+
+Vivek Arya
+BofA Securities, Research Division
+
+Hock, I had another one on the supply situation. If there were no supply constraints, how fast would your
+semiconductor business be growing? And kind of part B of that is, what is driving the shortages for you
+right now? And what are you doing to resolve it? And do you have any kind of gut feel on when the supply
+situation will become normal?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+One of the first -- I'll answer the first and the last. In between, I'm not sure. But on the first, it's -- we
+will not put ourselves in a situation nor should anyone do it because there's also a certain amount. You do
+not -- we do not want our customers, and I don't think any of our peers want to do that either, to buy, to
+hoard, to create buffers, to buy ahead of what they need.
+
+So we try to mesh, identify, as I said, and go through a process of rigorously understanding true end
+demand. In other words, we look for drop date quantities as the term is used in the industry. And we ship
+to those drop date quantities and maybe a little more. And what you see today is the true growth rate
+we are representing. We are not hiding what could have been. There's no what could have been. We're
+shipping to what we believe the customers consider as the true real demand.
+
+Now having said that, we may be delivering -- doing JIT, just-in-time. But nonetheless, we do try to fulfill
+what customer truly want just in a timely basis. And that still continues today, regardless of the size of
+the backlog we have, but this is really in that regard. And from our perspective, the challenges we have in
+the supply chain is a constant side challenge. It's to ensure that we get components, whether it's wafers,
+substrates, getting our products assembled, tested and any other small components on a timely basis to
+make sure that we can keep this thing running.
+
+And if you look at the size of our inventory versus the size of our cost of goods sold or revenue quarterly,
+you can see that we run pretty close to just-in-time through our entire supply chain. And we've been
+able to do it and sustain that. And so what we're reporting to you like 20% year-on-year growth on
+semiconductor components is, in our view, a pretty decent reflection what is truly end demand needs out
+there. All right.
+
+Operator
+
+The next question comes from Timothy Arcuri of UBS.
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+BROADCOM INC. FQ2 2021 EARNINGS CALL |  JUN 03, 2021
+
+Hock, I guess I wanted to ask you what you think the long-term growth rate is of your semiconductor
+business. You're sort of trending to the high teens this year, but that's kind of due to easy comps and
+you have the compressed iPhone launch and the pull forward of some of these technologies due to the
+pandemic. So once this all sort of normalizes, what do you think is the right long-term growth rate for
+the business? Are you still thinking 5%? Or do you think maybe just given the strength of the bookings
+recently that it could be better than that?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+That's a hell of a question. And I'll tell you this. Right now, we're in the midst of a very strong demand,
+and that's also created perhaps, as we all know about, a severe imbalance between demand and supply,
+demand and supply works to catch up. But if you look at it long enough, I think the dynamics underlying
+-- the fundamental dynamics underlying the semiconductor industry hasn't yet changed. At least I haven't
+seen it change.
+
+So Tim, that's my -- that's the best answer I can give you, which is I haven't changed my thinking, if we
+look over the next 10 years, how this industry will behave because it is a relatively mature industry. It's
+evolutionary. Technology is still evolving, which is great for us. And it keeps getting better and better. But
+it's evolving. Disruption, as people like to say in this industry, is less of an event. It's evolutionary. And I
+have not seen anything that tells me there's a fundamental change.
+
+Operator
+
+Our next question comes from Craig Hettenbach of Morgan Stanley.
+
+Craig Matthew Hettenbach
+Morgan Stanley, Research Division
+
+Hock, just given the ongoing strength in free cash flow and improved balance sheet, can you just talk
+about your thoughts on the M&A environment and also -- and/or buybacks, how you're thinking about
+cash deployment as you go forward?
+
+Kirsten M. Spears
+CFO & Chief Accounting Officer
+
+Yes, I'll take that one. This is Kirsten. Relative to capital allocation, first and foremost, we're dedicated to
+paying 50% of our free cash flows to our shareholders. And so that would be first. Secondly, M&A, if we
+can -- accretive M&A, it would be the second objective. Then thirdly, stock buybacks, and at the end, there
+would be debt repayments. So I think that's how we're looking at capital allocation in that order. There
+isn't anything yet on the M&A front that I can talk about. But if anything does come up, we'll let you know.
+
+Operator
+
+Our next question comes from Blayne Curtis of Barclays.
+
+Blayne Peter Curtis
+Barclays Bank PLC, Research Division
+
+Just curious, a little more detail on the gross margin. It's a record gross margin. Any color on product or
+segment? And then I guess as you look forward here, if you could describe what you're still dealing with in
+terms of excess costs due to COVID and then how to think about it as enterprise comes back. Should that
+be additive to the gross margin?
+
+Kirsten M. Spears
+CFO & Chief Accounting Officer
+
+I expect gross margin next quarter to be about the same as it was this quarter. And then as you know,
+at the end of the year, we're expecting wireless to come back in for the normal ramp that we have. And
+so the margins will come down a bit towards the end of the year. But at this point, I see us being able to
+sustain the margins that we experienced this quarter, mostly coming from networking and broadband.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+BROADCOM INC. FQ2 2021 EARNINGS CALL |  JUN 03, 2021
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Blayne, at the risk of perhaps repeating ourselves -- myself too much from past conversations that I had
+with you -- with all you guys, our gross margin has this natural trend of continuing to keep expanding
+year-on-year, not necessarily quarter-on-quarter but -- sequentially as much as year-on-year, simply
+because we tend to have a chance to go to a new product life -- product new -- next-generation product
+across some of our franchise products. And it's a combination of all this.
+
+So the natural growth of -- expansion of gross margin for our business, especially in the semi side --
+particularly in the semi side, which I assume your question is related to, Blayne is, as I've always said, we
+have a gross margin expansion range of 50 to 150 basis points year-by-year. And it's an average across
+our 24, 25 different -- well, I should take out software, just hardware, about 20 or so different product
+lines, each with a different product life cycle and each going to its new generation product each time.
+Because as you know, each time we come to a new generation product, we get a lift in margins, in product
+margins, which translates to gross margin.
+
+So it's not unusual to see us go to the high end of the range. And in this particular case, year-on-year,
+it's a bit more than the higher end of the range. And that's probably related to perhaps a separate mix of
+products in this environment because there's still puts and takes across our product range. Not everything
+is on fire. And based on that, we end up with higher than the normal 50 to 150 basis point range. But I
+don't think this is something that will go on forever. But you should expect that year after year, you will
+see that 50 to 150 basis point improvement in gross margin on the semiconductor side.
+
+Operator
+
+Our next question comes from Toshiya Hari of Goldman Sachs.
+
+Toshiya Hari
+Goldman Sachs Group, Inc., Research Division
+
+I had 2 actually, 1 on wireless and 1 on the cost side. Hock, in terms of wireless, I guess in Q2, revenue
+came in better than expected. I just wanted to understand, was that primarily supply being better?
+Or were there dynamics on the demand side that came in better than expected? And then sticking to
+wireless, as you think about the next-generation product cycle at your largest customer, how are you
+thinking about the content opportunity at this point? You pretty much know what's locked in. If you can
+comment on RF and WiFi and touch -- and maybe compare and contrast this uplift in this cycle vis-a-vis
+past cycles, that would be super helpful.
+
+And then on the cost side, based on the comments you just made about gross margin expansion and
+some of Kirsten's comments, I doubt cost inflation is having impact on your business. But if you can speak
+to wafer pricing and substrates and what you're seeing from a cost perspective over the next year or so,
+that would be super helpful.
+
+Hock E. Tan
+CEO, President & Executive Director
+
+All right. Let's start with the first one. And if I lost track of the last 2, you better remind me. But on
+wireless, you're right. What I indicated was Q2 wireless was kind of higher than we -- than we had
+originally planned and a lot related to demand. Of course, it's demand. We will never ship just because we
+have the products. It's based on demand, wanting it, and so we're happy to fulfill it.
+
+And part of the demand may actually come a bit from Q3. Not sure 100% yet because this is -- demand
+comes in short cycles. And it may, and perhaps that's why we are a bit careful about telling you Q3 year-
+on-year improvement is still 30-plus percent year-on-year growth. I'm not saying 40%-plus. But we don't
+know for sure, except we know that we do pull in some from Q3 to Q2, not much, and that allows Q2 to
+perform that 48% year-on-year growth, which is great. But Q3 will still be pretty good year-on-year, as we
+fully expect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+BROADCOM INC. FQ2 2021 EARNINGS CALL |  JUN 03, 2021
+
+And related to content and all that, I prefer, at this point in this sensitive arena with a highly sensitive
+situation, to not answer that question at all. No offense, please, but I can't answer that question.
+
+But I'll be happy to take the third question, which is, yes, we have cost inflation in this environment
+where, as we all know, the semiconductor supply chain is on a severe constraint on its ability to provide.
+Now we are very large. We are a very, very large customer and a very loyal customer to many of our
+suppliers, all of our key components. And so we believe we are treated very well.
+
+Having said that, where prices are concerned, of course not. We see cost inflation. And in this
+environment, we are very, very open to talking to our customers who are, in turn, very open to being able
+to address cost -- inflationary cost pressure in a higher purchase price on your side. So we're good, which
+is why our margin has been stable.
+
+Operator
+
+Our next question comes from C.J. Muse of Evercore.
+
+Christopher James Muse
+Evercore ISI Institutional Equities, Research Division
+
+I guess another question on the supply chain and I guess a bigger picture question, Hock. If you think
+about your increased lead times, you talked earlier to John's question about selective strategic agreements
+with key customers. At the same time, we're taking multiyear kind of take-or-pay contracts with foundries.
+Curious if you see any structural changes to the semi industry as we kind of emerge post pandemic.
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Okay. My frank opinion, I don't know. There shouldn't be. Same question that was asked is, do I think the
+semiconductor industry over the next 10, 20 years will grow any faster or slower? And my view is no, I
+don't think -- I don't see any fundamental things that have changed. See, while we're in the thick of this
+storm, so to speak, of course, all hell breaks loose, as the expression goes.
+
+But these are cycles we all have seen many times in the semiconductor industry. And maybe this is a bit
+extreme with -- in the context of the pandemic over the course of 2020, now extending partly into 2021,
+but the supply will step up at some point. And demand is always there because people need technology,
+people need the performance, need the technology that we all offer in the products we provide. And we'll
+be competing the same way we have been competing. And it's not necessarily related to creating long-
+term agreement or any such thing. It's about being able to provide the best technology, the best product
+in a timely manner for your customers.
+
+And it doesn't matter that you do any agreements if at the end of the day, you lack the technology or you
+lack the products that customers need to make themselves successful to be able to deploy very well in a
+good manner. And that has always been the semiconductor industry. And that is -- there will -- I do not
+see anything that changes that. Now putting long-term agreements might make life easier. But I think it's
+just a myth. We still have to establish ourselves that we can outperform, out-engineer the competition.
+
+Operator
+
+Our next question comes from Chris Danely of Citi.
+
+Christopher Brett Danely
+Citigroup Inc., Research Division
+
+There's a lot of talk, worries, speculation, I don't know, old wives' tales, whatever, about this big inventory
+build of handsets in China. Any thoughts there, Hock and team? And what would be the potential impact
+for Broadcom?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+BROADCOM INC. FQ2 2021 EARNINGS CALL |  JUN 03, 2021
+
+Well, not directly. If there's such a big overhang sitting out there, not directly because our wireless
+business, our wireless product, as we have fully articulated, pretty much sells to 2 large customers largely.
+And we're talking about handset. We do not sell much, if any, to the handset product -- handset guys,
+OEMs that is in China. And we sell to 2 big customers, 1 in North America, 1 in Korea. And these are very
+high-end flagship status phones. And that's it.
+
+And now that could be indirect blowback and that I do recognize in certain markets if there is an excess of
+inventory that needs to be just thrown out there. But on the other side, on a direct basis, we do not see
+any -- we do not expect to see any impact.
+
+Operator
+
+At this time, I'd like to turn the call over to Ji Yoo for closing remarks.
+
+Ji Yoo
+Director of Investor Relations
+
+Thank you, operator. In closing, please note that Hock will be presenting at the BofA Securities Technology
+Conference on Tuesday, June 8. Following our networking and broadband teach-ins earlier this year,
+Broadcom and Bernstein will be hosting a teach-in on our storage businesses on Wednesday, July 21 at 12
+p.m. Eastern, 9 a.m. Pacific. Hock will be joined by Jas Tremblay, General Manager of our Server Storage
+Connectivity business; Jack Rondoni, General Manager of our SAN business; and Dan Dolan, Marketing
+Head of our Hard Disk Drive business.
+
+That will conclude our earnings call today. Thank you all for joining. Operator, you may end the call.
+
+Operator
+Thank you. This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+BROADCOM INC. FQ2 2021 EARNINGS CALL |  JUN 03, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+

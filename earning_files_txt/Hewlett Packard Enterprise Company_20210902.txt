@@ -1,0 +1,1107 @@
+Hewlett Packard Enterprise Company 
+
+NYSE:HPE
+FQ3 2021 Earnings Call Transcripts
+Thursday, September 02, 2021 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2021-
+
+-FQ4 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+0.42
+
+0.47
+
+11.90
+
+0.49
+
+1.89
+
+1.96
+
+Revenue  (mm)
+
+6931.59
+
+6897.00
+
+(0.50 %)
+
+7337.57
+
+27798.34
+
+28358.75
+
+Currency: USD
+Consensus as of  Sep-01-2021 3:46 PM GMT
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+FQ3 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.34
+
+0.42
+
+0.42
+
+0.42
+
+0.37
+
+0.52
+
+0.46
+
+0.47
+
+8.82 %
+
+23.81 %
+
+9.52 %
+
+11.90 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+11
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Andrew Simanek
+VP, Head of Investor Relations &
+Director
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+ANALYSTS
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC,
+Research Division
+
+Amit Jawaharlaz Daryanani
+Evercore ISI Institutional Equities,
+Research Division
+
+Kathryn Lynn Huberty
+Morgan Stanley, Research Division
+
+Kyle P. McNealy
+Jefferies LLC, Research Division
+
+Shannon Siemsen Cross
+Cross Research LLC
+
+Shek Ming Ho
+Deutsche Bank AG, Research
+Division
+
+Simon Matthew Leopold
+Raymond James & Associates,
+Inc., Research Division
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Presentation
+
+Operator
+
+Good afternoon, and welcome to the Third Quarter Fiscal 2021 Hewlett Packard Enterprise Earnings
+Conference Call. My name is Matt, and I'll be your conference moderator for today's call. [Operator
+Instructions] As a reminder, this conference is being recorded for replay purposes.
+
+I would now like to turn the presentation over to your host for today's call, Mr. Andrew Simanek, Vice
+President of Investor Relations. Please proceed.
+
+Andrew Simanek
+VP, Head of Investor Relations & Director
+
+Good afternoon. Andy Simanek, Head of Investor Relations for Hewlett Packard Enterprise. I'd like to
+welcome you to our fiscal 2021 third quarter earnings conference call with Antonio Neri, HPE's President
+and Chief Executive Officer; and Tarek Robbiati, HPE's Executive Vice President and Chief Financial Officer.
+
+Before handing the call over to Antonio, let me remind you that this call is being webcast. A replay of the
+webcast will be made available shortly after the call for approximately 1 year.
+
+We posted the press release and the slide presentation accompanying today's earnings release on our HPE
+Investor Relations web page at investors.hpe.com. As always, elements of this presentation are forward-
+looking and are based on our best view of the world and our businesses as we see them today. For more
+detailed information, please see the disclaimers on the earnings materials relating to forward-looking
+statements that involve risks, uncertainties and assumptions.
+
+For a discussion of some of these risks, uncertainties and assumptions, please refer to HPE's filings with
+the SEC, including its most recent Form 10-K and Form 10-Q. HPE assumes no obligation and does not
+intend to update any such forward-looking statements.
+
+We also note that the financial information discussed on this call reflects estimates based on information
+available at this time and could differ materially from the amounts ultimately reported in HPE's quarterly
+report on Form 10-Q for the fiscal quarter ended July 31, 2021.
+
+Also, for financial information that has been expressed on a non-GAAP basis, we have provided
+reconciliations to the comparable GAAP information on our website. Please refer to the tables and
+slide presentation accompanying today's earnings release on our website for details. Throughout this
+conference call, all revenue growth rates, unless noted otherwise, are presented on a year-over-year basis
+and adjusted to exclude the impact of currency.
+
+Finally, we will be referencing the slides in our earnings presentation throughout our prepared remarks. As
+mentioned, the earnings presentation can be found posted to our website and is also embedded within the
+webcast player for this earnings call.
+
+With that, let me turn it over to Antonio.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Thanks, Andy. Good afternoon, everyone. Thank you for joining our call today. I am amazed by the
+resilience of our customers, partners and team members. And I'm incredibly proud of the way Hewlett
+Packard Enterprise continues to serve the needs of our global communities during such an unusual and
+evolving circumstances.
+
+We delivered a very impressive third quarter at HPE with strong orders growth, expanded margins and
+record free cash flow. Overall, I am pleased to see how our differentiated portfolio is resonating with the
+market and our edge-to-cloud strategy is driving improved momentum across our businesses. Based on
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+the strength of our Q3 performance and our confidence about our momentum in the market, we are again
+raising our fiscal year 2021 EPS and free cash flow outlook, and we are also resuming stock repurchases.
+
+Revenue in Q3 was $6.9 billion, in line with our outlook and normal sequential seasonality. Our Q3 orders
+were up strong double digits year-over-year, and our year-to-date order volume has increased 11%,
+showing the strength of our edge-to-cloud offerings. We significantly expanded our non-GAAP gross and
+operating margins, driving our year-to-date non-GAAP operating profit and earnings per share, up 28%
+and 27% year-over-year, respectively.
+
+We generated record year-to-date free cash flow of $1.5 billion, up $1.1 billion year-over-year, putting
+us well ahead of the original outlook we announced last October. I am particularly pleased that we
+were able to deliver these results while mitigating against industry-wide supply constraints by taking
+proactive inventory measures working closely with our suppliers and deploy our best-in-class engineering
+capabilities to establish specific response plans.
+
+The impact of the pandemic continue to accelerate the shift we predicted years ago to an edge-centric,
+cloud-enabled and data-driven world. Now more than ever, there is a greater need for secure connectivity,
+faster insights from data and a cloud experience everywhere. We expect these trends to continue. Digital
+transformation is no longer a priority but a strategic imperative. To help our customers transform their
+businesses and be future ready today, we have been focused on doubling down in key areas that are
+resonating strongly in the market.
+
+We had a record number of orders in both our Intelligent Edge business and High Performance Compute
+& Mission Critical Solutions business. Due to strong demand and execution, these growth businesses now
+make up nearly 25% of our total company revenue.
+
+Our Intelligent Edge business accelerated its momentum again in Q3, with 23% year-over-year revenue
+growth, driven by a record number of new orders. Strong customer demand for secure connectivity
+has generated a backlog 5x greater than at the close of Q3 last year, as customers increasingly look for
+solutions to collect, connect, analyze and act on data at the edge.
+
+We are leaning into this demand and continue to invest and innovate at the edge. In June, we announced
+new AI ops, IoT and security features for our Aruba Edge Services Platform, or ESP, designed to streamline
+network operations, maximize IT efficiency and more easily extend the network from the edge to the
+cloud.
+
+our Aruba ESP continues to gain traction with customers in different verticals. In the third quarter,
+customers including Save A Lot, Monument Health and Circa Resort & Casino, all standardized their
+networks on Aruba ESP. In our High Performance Compute & Mission Critical Solutions business, revenue
+was up 9% year-over-year, driven by a record number of new orders. We also generated a record order
+book, which now exceeds $2.5 billion.
+
+The exponential growth in data, along with AI and big data analytics, are all driving an increased need
+for High Performance Computing & Mission Critical capabilities in enterprises of all sizes. To meet this
+demand, we bolstered our artificial intelligence capabilities with the acquisition of Determined AI, a start-
+up that delivers a puzzle software stack that to train AI models faster at any scale using its open source
+machine learning platform.
+
+We also continued to see an increasing number of customers accessing our high performance computer
+solutions as-a-Service through HPE GreenLake. With our HPE GreenLake Cloud Services for HPC,
+customers gained powerful specialized computing and AI capabilities with a sustainable cloud experience.
+
+For example, in Q3, HPE was awarded a $2 billion contract to be realized over a 10-year period with the
+National Security Agency to deliver high performance computing solutions through the HP GreenLake
+platform. The service will help the National Security Agency efficiently process data and unlock new
+insights in sustainable new ways. Our core businesses generated robust year-over-year orders growth as
+well as strong profitability and free cash flow in the quarter. Year-to-date, Compute and Storage orders are
+up mid-single digits, with Q3 operating margins of 11.2% and 15.1%, respectively.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+We continue to offer more of our core capabilities as-a-Service. In Q3, we introduced unified compute
+operations as-a-Service through our HP GreenLake edge-to-cloud platform. This new cloud-based
+management service simplifies provisioning and automates the management of compute infrastructure
+wherever it resides.
+
+Our Storage business is transforming into a cloud-native software defined data services business through
+organic innovation and targeted acquisitions. In May, we introduced our new cloud data services available
+through HPE GreenLake as well as a new HPE Alletra cloud native data infrastructure. And just this week,
+we closed the acquisition of Zerto, an industry leader in cloud data management and protection and run
+some way of data recovery services, which will be soon available as-a-Service through HPE GreenLake.
+
+This acquisition immediately positions HPE GreenLake in the high-growth data protection market with
+a proven scale solution. HPE was the first to market 4 years ago in delivering and as-a-Service cloud
+experience on-premises in a colocation or at the edge with HPE GreenLake. Today, our HPE GreenLake
+edge-to-cloud platform has more than 1,100 customers. Our annualized revenue run rate this quarter was
+$705 million, up 33% year-over-year, driven by strong as-a-Service orders growth, up 46% year-over-
+year.
+
+Organizations across sectors, including retail, health care, financial services and public sector, are turning
+to HPE GreenLake. For instance, we helped Liberty Mutual shift from a traditional CapEx IT spend to a new
+pay-as-you-go model, creating a cloud experience on-premises to provide transparency into consumption
+while improving their speed in adapting to capacity demands.
+
+They standardized critical workloads on HPE Synergy delivered through HPE GreenLake, resulting in a
+reduced data center footprint and significant cost savings, including a monthly unit rate well below public
+cloud alternatives.
+
+We also see in the power of the full HPE edge-to-cloud portfolio as customers are turning to HPE for
+integrated solutions that combine secure connectivity, data insight capabilities and cloud experiences.
+
+Woolworths Group Australia and New Zealand's largest retailer, selected HPE GreenLake to power its new
+Wpay payment platform. They needed a solution that combine a powerful mission-critical architecture with
+ability to scale and also provide a better cost efficiency back to Wpay and its merchant partners. Delivered
+through HPE GreenLake, their solution leverages our full edge-to-cloud portfolio, including HPE Aruba, HPE
+NonStop, HPE Primera and HPE Synergy. HPE Pointnext Services also provided expertise to us over the
+company's digital transformation.
+
+I believe this is a great example of the power of our HPE edge-to-cloud portfolio. To extend our leadership
+position in cloud services and further accelerate our pivot as-a-Service, we are relentlessly innovating.
+We made several compelling announcements at HPE Discover in June. I am particularly excited about
+our new HPE GreenLake Lighthouse offering, a secure cloud native stack built with HPE Ezmeral software
+to autonomously optimize different workloads across hybrid estate, reducing time to deployment and
+operating costs.
+
+We also introduced Project Aurora to secure the enterprise, embedded in our HPE GreenLake edge-to-
+cloud platform. Project Aurora automatically and continuously verifies and attests the integrity of the
+hardware, freeware operating systems, platforms and workloads, while also detecting advanced threats.
+
+And finally, demonstrating our continued commitment to acquiring assets that complement our own
+capabilities, we acquired data platform developer Ampool. Ampool will accelerate HPE Ezmeral analytics
+run time to deliver high-performance analytics for engineers and business analysts.
+
+I am proud of HPE's performance in Q3 and year-to-date and the significant progress we have made in
+becoming the edge-to-cloud company. The momentum we have in the market compel us to move even
+further and faster, and our ability to transform with increasing speed is imperative. This transformation
+is my #1 priority. At this pivotal moment, our purpose to advance the way people in the work has never
+been more important. Our vision to become the edge-to-cloud company is proving its tremendous
+relevance and our portfolio is winning in the marketplace.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Fueled by our purpose, vision and portfolio, we have the opportunity to build a more digitally enabled
+inclusive world. We have a mandate to imagine new digital transformation strategies that support our own
+ESG goals and those of our customers, leading to better business outcomes and societal impact. We will
+never waver from our commitment to being a force for good and a strategic partner for our customers.
+
+We will continue to bring bold new innovation to our customers, and we will continue to create value for
+our shareholders. And I'm grateful for the incredible team, and I'm confident in and excited about the
+future.
+
+I hope you will join us for our virtual Security Analyst Meeting on October 28 to hear more about our
+position in the market, our priorities and our outlook for the year ahead.
+
+I will now turn it over to Tarek.
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Thank you very much, Antonio. I'll start with a summary of our financial results for the third quarter
+of fiscal year 2021. As usual, I'll be referencing the slides from our earnings presentation to guide you
+through our performance in the quarter. Antonio discussed the key highlights on Slides 1 and 2. So now let
+me discuss our Q3 performance, starting with Slide 3.
+
+I'm pleased to report that we are experiencing very strong demand across all of our businesses. Q3 was
+marked by accelerating order growth, strong gross and operating margin expansion and robust cash flow
+generation. Building on the strength from the last quarter, we delivered Q3 revenues of $6.9 billion, up
+3% from the prior quarter and in line with normal sequential seasonality, also in line with our outlook that
+factored in some of the expected supply chain constraints we flagged.
+
+We're working to ensure disruption is minimal by taking proactive measures and coordinating with
+our world-class suppliers to establish tailored recovery plans. I am particularly proud of our non-GAAP
+gross margin that hit another record level of 34.7%, up 40 basis points sequentially and up 420 basis
+points from the prior year period. This is driven by our deliberate actions to shift towards higher-margin
+software-rich offerings, strong pricing discipline and cost takeout.
+
+As previously indicated, we continue to invest in high-growth, margin-rich areas of our portfolio, both
+in R&D and go-to-market, particularly in Aruba Software and as-a-Service, which increased our non-
+GAAP operating expenses in the quarter. We also booked 2 onetime charging totally $28 million for a legal
+settlement and bad debt associated with likely fraud involving a channel partner in APJ.
+
+Even with these investments and onetime charges, our non-GAAP operating margin was 9.8%, up 190
+basis points from the prior year, which translates to a 25% year-over-year increase in operating profit. We
+continue to be focused on driving further efficiencies in the business. Within other income and expense,
+we benefited from stronger operational performance in H3C and strong gains related to increased
+valuations in our Pathfinder venture portfolio.
+
+As a result, we now expect other income and expense for fiscal year '21 to be an income of approximately
+$50 million. With strong execution across the business and despite 2 unanticipated onetime charges, we
+ended the quarter with non-GAAP EPS of $0.47, up 31% from the prior year and above the higher end of
+our outlook range for Q3.
+
+Q3 cash flow from operations was $1.1 billion, and free cash flow was $526 million. This puts us at a
+record $1.5 billion of year-to-date free cash flow, up $1.1 billion from the prior year, driven primarily
+by an increase in operating profit. Finally, the strength of our business has positioned us to contribute
+substantial capital to our shareholders. We paid $157 million of dividends in the quarter and are declaring
+a Q4 dividend today of $0.12 per share payable in October.
+
+We are also announcing today the resumption of share buybacks as a result of greater free cash flow
+generation and visibility. I'll come back to capital allocation more broadly when we discuss the outlook.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Now let's turn to our segment highlights on Slide 4. Our growth businesses, which now represent nearly
+25% of our total company revenue, are executing strongly and experiencing record order levels. In the
+Intelligent Edge, we accelerated our top line momentum with record levels of orders and 23% year-over-
+year revenue growth. Switching was up over 20% year-over-year, whereas wireless LAN experienced more
+acute supply constraints and was up mid-single digits. Additionally, the Edge-as-a-Service offerings were
+up triple digits year-over-year, which reflects enabling software platforms as well as Network-as-a-Service.
+
+We also continue to see strong operating margins at 15.8% in Q3, up 540 basis points year-over-year,
+which included a $17 million onetime legal settlement that impacted margins by 2 points. Silver Peak
+continues to perform strongly and contributed 7 points to the Intelligent Edge growth. In addition, we
+started generating meaningful revenue synergies by cross-selling the Aruba portfolio, which reinforces the
+merits of the Silver Peak deal.
+
+In HPC & MCS, demand strengthened even further with a record order level. Revenue grew 9% year-
+over-year as we continue to achieve more customer acceptance milestones and deliver on more than $2.5
+billion of awarded contracts, including the contract that Antonio mentioned with the NSA worth $2 billion
+over 10 years. We remain on track to deliver on our full year and 3-year revenue growth CAGR target of
+8% to 12%.
+
+In Compute, revenue grew 4% quarter-over-quarter, reflecting normal sequential seasonality despite
+previously anticipated supply chain tightness. Operating margins of 11.2%, were up 190 basis points from
+the prior year, due to disciplined pricing and the rightsizing of the cost structure in this segment. Within
+Storage, revenue grew 1% year-over-year and 3% quarter-over-quarter, ahead of normal sequential
+seasonality, driven by strong growth in software-defined offerings.
+
+Nimble grew 10% year-over-year, with ongoing strong dHCI momentum, growing double digits year-
+over-year. All-Flash Arrays grew by over 30% year-over-year, led by Primera. The mix shift towards more
+software-rich platforms helped drive Storage operating margins to 15.1%, up 10 basis points year-over-
+year, offset by continued investments in our cloud data services.
+
+With respect to Pointnext operational services, including Nimble services, revenue grew for the third
+consecutive quarter year-over-year as reported with both order and revenue growth expected for fiscal
+year '21. Within HPE Financial Services, revenue was flat year-over-year and sequentially. While our bad
+debt loss ratio did increase slightly to 94 basis points this quarter, it was entirely due to a onetime $11
+million reserve charge related to the already mentioned likely fraud in APJ by a channel partner.
+
+Absent this one-off event, our bad debt loss ratio would have improved to just 61 basis points aligned to
+pre-pandemic levels. More importantly, we continue to see improved cash collections above pre-pandemic
+levels. Our operating margin was 11.1%, up 300 basis points from the prior year. And our return on equity
+at 18.3%, is well above the 15% plus target set at SAM.
+
+Slide 5 highlights the key metrics of our growing as-a-Service business. We have made significant
+progress since our Analyst Day last October by adding over 200 new enterprise GreenLake customers to
+over 1,100 today and increasing our TCV by over $1 billion to a current lifetime TCV of well over $5 billion.
+
+For Q3 specifically, our ARR was $705 million, which was up 33% year-over-year as reported, and total
+as-a-Service orders were up 46% year-over-year. It is also important to note that the mix of our ARR is
+becoming more and more software-rich as we build out our GreenLake Cloud Platform, which is improving
+our margin profile. We look forward to providing more disclosure around our software and services mix at
+our Analyst Day later this fall, which I believe reinforces the significant value add of GreenLake. Overall,
+based on strong customer demand and recent wins, I am very happy with how this business is executing
+and progressing towards achieving our ARR growth target of 30% to 40% CAGR from FY '20 to FY '23.
+
+Slide 6 highlights our revenue and EPS performance to date where you can clearly see the strong rebound
+from last year and sustained momentum for the last 3 quarters. The demand environment continues to
+strengthen. And with the operational execution of our cost optimization and resource allocation program,
+we have increased non-GAAP EPS in Q3 by 31% year-over-year.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Turning to Slide 7. We delivered another record non-GAAP gross margin rate in Q3 of 34.7% of revenues,
+which was up 40 basis points sequentially and up 420 basis points from the prior year. This was driven
+by strong pricing discipline and a positive mix shift towards high-margin software-rich businesses
+like the Intelligent Edge and next-generation storage offerings. We have also benefited from our new
+segmentation we implemented beginning of fiscal year 2020, that gives us much better visibility into each
+business unit and enables the better resource allocation and discipline to drive operating leverage.
+
+Moving to Slide 8. You can also see we have expanded non-GAAP operating profit margin substantially
+from pandemic lows to 9.8%, which is up 190 basis points from the prior year period. We are driving
+further productivity benefits and delivering the expected savings from our cost optimization plan, while
+simultaneously increasing our investment levels in R&D and field selling costs, which are critical to fuel our
+long-term innovation engine and revenue growth targets.
+
+As mentioned previously, Q3 operating expenses also included onetime charges not included in our
+guidance, totaling $28 million for a legal settlement and the likely [ forgery ] involving a partner. Excluding
+these one-off charges, our operating margin would have been 10.2%.
+
+Turning to Slide 9. We generated a record year-to-date levels of cash flow with $2.9 billion of cash flow
+from operations and $1.5 billion of free cash flow, which is up $1.1 billion year-over-year. This was
+primarily driven by increased operating profit. I would like also to underscore that this year, our free cash
+flow seasonality will be different than in prior years. We expect increased Financial Services volume that
+include more than $150 million in Q4 financing for a very large deal that is predominantly GreenLake and
+will benefit our ARR margins for years to come.
+
+We also have further restructuring payments and growing working capital needs as we continue to buffer
+our inventory levels in the light of the disruption in the global IT supply chain. Now moving on to Slide 10,
+let me remind everyone about the strength of our diversified balance sheet. As of July 31, the operating
+company net cash balance turned positive due to our strong free cash flow. Furthermore, we made
+additional progress during the quarter, securitizing over $750 million of financial services-related debt
+through the ABS market.
+
+The refinancing of higher cost unsecured debt with ABS financing allows us to boost access to financing
+market at a cheaper cost of debt capital as well as diversify and segregate our balance sheet between
+our operating company and our Financial Services business. Bottom line, our improved free cash flow
+outlook and cash position ensure we have ample liquidity to run our operations, continuing to invest in our
+business to drive growth and return capital to shareholders.
+
+Now turning to our outlook on Slide 11. I'm very pleased to announce that we are once again raising
+our full year guidance to reflect the continued momentum in the demand environment and our strong
+execution. This will be the fourth guidance increase since SAM in October 2020. We now expect to deliver
+fiscal year '21 non-GAAP diluted net earnings per share between $1.88 and $1.96. With respect to
+supply chain, as indicated last quarter, industry-wide tightening somewhat constrained our supply as
+expected. We continue to take proactive inventory measures where possible. And you can see our efforts
+in inventory balances that increased $1.3 billion year-to-date that also reflects the strengthening demand
+environment and a substantial order book we have across the business.
+
+We expect the challenged supply chain conditions to persist until at least the middle of calendar year
+2022 and have factored these into our revenues, costs and cash flow outlook. From a top line perspective,
+although we remain prudent given the challenged supply chain environment, we are very pleased with
+the accelerating Q3 order momentum across all segments of the business. More specifically for Q4 '21, we
+expect revenue to be above our normal sequential seasonality from Q3 and are comfortable with current
+consensus levels.
+
+For Q4 '21, we expect GAAP diluted net EPS of $0.14 to $0.22 and non-GAAP diluted net EPS of $0.44
+to $0.52. Additionally, given our record levels of free cash flow year-to-date and confidence in our raised
+outlook, I'm very pleased to announce that we are also raising fiscal year '21 free cash flow guidance to
+$1.5 billion to $1.7 billion, that is a $600 million increase at the midpoint from our original SAM guidance
+with the top end of this free cash flow guidance range at the peak levels attained in fiscal year '19.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+As you recall, at the end of the first half of fiscal year 2020, we suspended our share buybacks to preserve
+liquidity in the context of the global pandemic disruption. Although we continue to operate in a challenged
+supply environment, our order momentum and improved cash flow generation visibility give us confidence
+to reinstate our share repurchase program. We are targeting up to $250 million of share repurchases in Q4
+of fiscal year '21, and we'll update investors on our capital management policy for fiscal year '22 at SAM in
+October.
+
+As a reminder, we always follow a disciplined, return-based capital allocation framework to maximize
+long-term shareholder value. Our #1 priority remains delivering sustainable profitable growth through
+both organic and inorganic M&A investments while remaining committed to paying dividends to our
+shareholders. In addition, we will consider opportunistic share buybacks when we see a favorable return
+for doing so.
+
+So overall, and to conclude, I am very proud of the progress we have made year-to-date in fiscal
+year '21. It's clear that our edge-to-cloud strategy is resonating with customers and driving improved
+momentum across all of our businesses. Our growth businesses in the Intelligent Edge and HPC/MCS
+have accelerated top line performance with record levels of orders. Our core business of Compute and
+Storage is demonstrating momentum with robust orders and improved margins and our as-a-Service ARR
+is accelerating.
+
+All of this translates to improving revenue momentum, strong profitability growth and record levels of free
+cash flow. We look forward to closing out our fiscal year much leaner, better resourced and positioned to
+capitalize on the strong demand environment. Lastly, as Antonio mentioned, we look forward to having
+you join us for our virtual Securities Analyst Meeting in late October, where we will provide an update on
+our strategy, business insights and financial outlook.
+Now with that, let's open it up for questions.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] The first question will come from Amit Daryanani with Evercore.
+
+Amit Jawaharlaz Daryanani
+Evercore ISI Institutional Equities, Research Division
+
+I guess the question is really around the free cash flow generation. I think you're implying, based on the
+[ rate ] free cash flow guide, that we'll do around $100 million or so of free cash flow in Q4. That, I think,
+would be one of the softest [indiscernible] you've seen. So maybe just quantify some of the dynamics that
+are at play that's driving that part. You have talked about a few of them, but just quantify the headwind
+there?
+
+And then secondly, the focus has always been getting to this $2 billion free cash flow number longer term.
+Maybe touch on what are the key levers to get to this $2 billion number? And how much of that is self-
+help versus revenue driven?
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Sure. Thank you, Amit, for the question. So yes, our free cash flow for Q4 is north of $100 million is
+actually implied in our guidance is about $150 million in Q4. And this figure reflects a different seasonal
+profile that we have had this year in terms of our revenue and expense profile, but also a couple of very
+important dynamics that I would like to underscore.
+
+First of all, we have to continue to make investments in our inventory level to withstand the supply chain
+constraints that we flagged for several quarters now. Second, in Q4 of fiscal year '21, in my script, I
+described a very, very large GreenLake deal that will impact free cash flow in Q4, but that will generate
+substantial ARR revenue in subsequent quarters. This is a deal in several hundred millions of dollars
+that we have not announced yet, but it is already something that we're financing, and this is affecting
+therefore, free cash flow already as of Q4 of fiscal year '21.
+
+Thirdly, we are still peaking on restructuring costs in fiscal year '21, and we feel very positive about our
+cost optimization and resource allocation program, which will wind down at the end of fiscal year '22. And
+so this is a nice segue to tell you about our guidance towards fiscal year '22 and the $2 billion target that
+we have. We continue to expect revenue growth in fiscal year '22 with the momentum that carries out of
+fiscal year '21.
+
+And also, the restructuring cost program winding down will be a key determinant of our generation of free
+cash flow in fiscal year '22. So hopefully, I gave you color there. Antonio, you want to add something?
+
+Antonio Fabio Neri
+CEO, President & Director
+
+No. The only thing I would say, Amit, is that, listen, Tarek made this comment in his remarks is the fact of
+the matter on the high end, on the top end of that guidance, we give you $1.7 billion is almost the same
+number we achieved in 2020 -- 2019. And therefore, in many ways, we are almost a year ahead of our
+commitment. Because if you recall, we said we're going to return to normalized free cash flow in 2022.
+And the reality, even when you finance this large deal that the venture we're going to communicate has
+nothing to do with NSA deal. We are already almost at the same number. So that's why we are so pleased
+on the momentum that we have, but it's a momentum based on the order growth and all the actions
+we have taken and the deliberate shift in our portfolio to higher margins. And that's what you see in our
+numbers in Q3, right? It's a record-breaking gross margin of 34.7%.
+
+Operator
+
+The next question will come from Simon Leopold with Raymond James.
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc., Research Division
+
+I wanted to see if you could discuss what you've done and what you plan to do in regards to price
+increases? And help us understand how this affects your sales growth and margins?
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Yes. Thanks, Simon, for the question. I will start, and then I will let Tarek comment. Listen, we take
+pricing actions all the time. In fact, we probably are the first to take pricing action in our industry, I
+will say. We continue to assess what is the right strategy by segment and making sure that we take
+those actions where appropriate. And the fact of the matter is that we have increased pricing even
+[indiscernible] that's a fact. And we do that in the context of, obviously, supply availability, [ still in ]
+demand in the right portfolio and obviously inflationary costs associated with some of the commodities.
+
+At the same time, remember, there is also new innovation, I guess, built in our products, which have
+structural impact in the sense that where you look at our infrastructure, right? New technologies drive 2/3
+of the pricing in many ways in the [indiscernible]. But we could take closer actions all the time, Simon,
+and we will continue to do so. And that's part of the reason also why we see record breaking margins, but
+in addition to the fact that we are still in demand in the right place and driving the mix shift that we talked
+before. So Tarek, I know you want to get more specific probably.
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Thank you, Antonio, and thank you, Simon, for the question. We have in this context where you have a
+constrained supply environment to be very careful around managing pricing, right? And we have taken
+action that is translating in this record level of gross margin at 34.7%. Some of our competitors didn't
+take that action, and it's down to them and up to them. But we feel that the current environment is calling
+for a [ decent ] approach to pricing, and we see an encouraged balanced pricing behavior across the
+market.
+
+So more specifically, with respect to our units and AUPs in Compute, I'm sure someone will ask the
+question, AUP was up mid- to high single digits quarter-on-quarter, reflecting pass-through of commodity
+cost and richer configurations, as always, configurations that are richer play a big role in the AUP, but
+also pricing in this case. And units were flat quarter-over-quarter, given some expected supply chain
+constraints.
+
+So we feel pretty good about performance in Compute in that regard. It's still a business that we have
+to manage very, very carefully on a day-to-day basis because of the supply environment being volatile
+forces us to do so, but we still see scope for continuous gross margin improvement across the board and
+in compute as well.
+
+Operator
+
+The next question will come from Aaron Rakers with Wells Fargo.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+I'm going to ask for one clarification real quick. Just how would you define normal seasonality in fiscal
+4Q? And then kind of the longer-term question would be Tarek, you've done a phenomenal job of driving
+gross margin leverage in the company. I'd just love to hear your thoughts on as you think about the
+mix of business going forward, where do you think ultimately gross margin can actually go? What's the
+normalized gross margin in your mind given the mix that HPE is driving?
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+So let me pick up the first question on the normalized seasonality, typically, what you observe in terms of
+sequential quarter-over-quarter growth, I would say it's somewhere in the low single digits around the 1%
+to 2% range between Q3 and Q4. So Q4 and Q3 growth is about that level. Like I said in my script, I'm
+comfortable with the current consensus on revenue for Q4, and we feel pretty good about this. The order
+book is very, very solid.
+
+Antonio underscored this across the board, our order book is super solid. Now the question is, how much
+of that can be really accelerate in terms of conversion in Q4. And it's every day is another day. So we're
+working through that. And this obviously has an impact on gross margins, right? Because the more
+you wait for fulfilling an order, the more you can have an adverse impact on gross margins. But we feel
+fairly comfortable with us managing this dynamic and particularly leveraging or pulling the levers across
+the board that we have, such as our revenue mix, I want to highlight to you the continuous growth in
+Aruba, this level of growth in Aruba on our Intelligent Edge business of 23% comes with very high-calorie
+revenue, and we feel very, very comfortable and pleased with that trend.
+
+Also, our growth in Storage, which comes with very high-calorie gross margin revenue is pleasing at 3%.
+We took share from some of our main competitors. And this gives you an idea that we have a few strings
+in our bow, so to speak, to actually continue to drive gross margins to better levels.
+
+Operator
+
+Our next question will come from Wamsi Mohan with Bank of America.
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+You sound very bullish on order momentum. And it seems like you can't capitalize on the full strong
+demand, given some of the supply chain impacts. Is there any way to quantify the magnitude of sort of
+what is this revenue impact perhaps in the quarter? And what you're expecting for maybe the next few
+quarters? And how confident are you that these orders won't be canceled or lost to other vendors?
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Well, we are very confident in the sense that we have taken proactive actions. We continue to take
+proactive actions. You can imagine a person involved with some of these conversations with suppliers.
+But if you look at our order buffering -- sorry, inventory buffering we took, right. Our inventory is up $1.3
+billion. And at the same time, right, we have, I think, one of the best-in-class engineering team that they
+can swap things as we go along the way.
+
+That said, as I look at this order book, there is so much potential upside here. It's all about the daily
+conversion. And so far, once -- we have not seen any cancellations. Just to be clear, when people ask me,
+hey, this is perishable? No. I can tell you, the answer is definitely no. I think it's because also customers
+realize it's not just a supply constraint, but a need to provision more compute and data insight capabilities.
+
+And then as I said earlier, even despite the fact that our Intelligent Edge business exited with a 5x backlog
+on that unique segment of the market, we still delivered 23% in constant currency, 27% growth. And
+that's why Tarek said, we expect revenue to continue to grow and in particular, '22. And then to the
+question that was asked earlier about margin, the margin strengthening over time because of the mix
+shift. And that Aruba is very important to us. But fundamentally, I think our edge-to-cloud vision and
+strategy is absolutely resonated in the market because customers need 3 things.
+
+They need secure connectivity in this cyber world, they need a cloud experience everywhere, and then
+they need data insights yesterday in my view. And then we need to be able to consume it as-a-Service in
+an elastic way. We have all the 4 ingredients, and that's why we are going to accelerate further and faster
+this strategy because it's working.
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+And Wamsi, if I can add to Antonio's comments, in my mind, there is no point crying over a spilled milk.
+If we could have converted more, we would have converted more, but it doesn't really matter. The order
+momentum and the order book remains strong and what we didn't convert in Q3 would convert in Q4 and
+subsequent quarters. To specifically give you an idea of where we would have ended in Q3, we probably
+would have ended above seasonal trends that we see between Q2 and Q3 by a low single-digit percentage
+number. But the momentum is very strong in Q4 and also for '22. That's the interesting bit.
+
+In the environment that we're operating in, the demand is very solid. And the supply constraints, we don't
+see them ending before the first half of calendar year '22. So we just have to navigate this as the capacity
+of all our manufacturing partners is not back to pre-pandemic levels, and that will still take a good 2 to 3
+quarters.
+
+Operator
+
+Our next question will come from Sidney Ho with Deutsche Bank.
+
+Shek Ming Ho
+Deutsche Bank AG, Research Division
+
+And congrats on solid progress on the ARR side and the cash flow. My question is on the HPC segment.
+You suggested the full year HPC revenue will grow within the target range of 8% to 12%. Is that on a
+revenue basis or order basis? And it is revenue it would imply fiscal Q4 will see at least 50% growth. Am I
+doing the math correctly? And so what's driving such growth? I understand revenues could be quite lumpy
+in this business.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Yes. Let me start and Tarek is welcome to. Listen, as you said, right, this business is lumpy because of the
+time it takes to book the order to build the ship and they install it and then most importantly, customer
+accept the order, meaning the workload that was intended to run on is active, is in production. And we
+normally see this trend accelerate in the back half of the year because of the way the acceptances work.
+
+So we absolutely expect a significant uptick here. And that's why we are very confident in our ability to
+deliver for the year 2021, the 8% to 12% growth that we committed since the beginning, actually 2021.
+And we have a number of deals that are all now running the, what we call, the testing cycles and fairly
+confident about the customer acceptances, which would allow us to recognize revenue.
+
+This has nothing to do with supply availability in many ways because, obviously, those systems, in many
+ways, has already shipped and they are already deployed. It's just getting through the cycle for the
+customer to get the performance that they need. And there is quite a bit of tuning that gets done when
+the systems are deployed.
+
+But to Tarek's point, the demand is unbelievably strong. Put aside the $2 billion award that we got
+yesterday -- we announced yesterday, we continue to win multiple -- multimillion-dollar deals in many
+aspects, and you can see some of those, as we announced throughout the quarter. And that's the power of
+the portfolio we have in high-performance computing and specifically, tool for these AI and deep learning
+capabilities.
+
+And by the way, we have $2.5 billion of awarded business, which I don't consider backlog is business that
+will be delivered over the next 12 to 18 months, particularly the large extra scale systems, which are an
+amazing feat of technology, I will say.
+
+Operator
+
+The next question will come from Shannon Cross with Cross Research.
+
+Shannon Siemsen Cross
+Cross Research LLC
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+I was wondering if you can quantify how the shift to GreenLake and recurring revenue and as-a-Service
+is impacting revenue? If there's any way to sort of quantify where you would have been if you hadn't sort
+of made the shift at this point? And I'm also curious, with regard to GreenLake, how are your customer
+conversations going? I'm not sure how many quarters ago, you said we're shifting everything to at least
+have an option from a script -- subscription standpoint. So I'm just wondering if it's still kind of a push to
+customers? Or is there more of a pull from them as they look at alternatives to cloud?
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Thank you, Shannon. I mean we are incredibly bullish about this business. I think we have a competitive
+advantage, and the competitive advantage come from many aspects. One is the software. Software that
+makes this consumption model -- through consumption model unlike some of the other ones that we're
+trying to catch up, which is more a financial engineering in many ways, understand everybody is getting
+into the space. but we have years of leadership here.
+
+And the conversation goes as simple as this. I want the cloud experience on-prem and at the edge,
+and we can bring that through GreenLake because it is a true cloud experience that you can consume
+elastically on a per unit measure that we can measure all the way to core levels and be able to automate
+the whole experience through our software stack, which obviously [ HPE Ezmeral ] now is becoming a very
+important component of that.
+
+And that's why Tarek made the comment earlier, as we go through the SAM end of October, we're going
+to give a little better disclosure of that because the software content of the ARR continues to increase.
+Aruba by definition, Shannon, is already all software, right? And he said that a 3 -- triple-digit growth is
+happening in that business because you are subscribing to get connectivity. And our platform is a cloud
+platform at scale because we manage now more than 1.5 million devices.
+
+But it's not a pool, I will say. When customers are becoming way more sophisticated about the hybrid
+estate, where they should host the data and whether you should run the [indiscernible], they realize
+that the vast majority are still on-premise and many of them will stay on-premise. It's just economics
+and physics. And we can deliver some experience on-prem and still give them a hybrid experience by
+managing the workloads and datasets outside their 4 walls. And GreenLake is absolutely resonating.
+And that's why you see us catering everything to GreenLake, whether it's connectivity, whether it's data
+services, whether it is elastic computing and more workload optimized services as we go along.
+
+And that's why I said earlier, this is all about acceleration on that. And between now and March, you're
+going to see a massive acceleration and that's why it's my #1 priority. And by the way, as revenue is
+accretive from a gross margin perspective. So Tarek, do you want to talk about that?
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Yes, absolutely. So Shannon, what I would say is if you refer back to Slide 5 of our investor presentation,
+we showed you the stack of revenue that composes our ARR, right? So our GreenLake revenue is across
+all segments, so Compute, HPC/MCS, Storage, Aruba and also HPE FS, as you can infer from that slide.
+And the more we drive GreenLake by way of software, the more accretive it is to the overall gross margin
+of the company, that's a key lever to drive gross margin moving forward.
+
+We're driving gross margin across every single stream lane through the revenue mix and across also
+that revenue mix horizontally by way of pivoting the company to become an as-a-Service. So far, what I
+could tell you is that the GreenLake gross margin is substantially higher than the average gross margin
+of the company that we posted today. And we look forward, Antonio and I to update you and every other
+member of the analyst community at our virtual SAM event in October, highlighting to you where we see
+the ARR growing and its mix by segment moving forward.
+
+And in composition, how much of it is software and how much of it comes from other types of revenue
+streams, such as Pointnext OS, which are very important to the profitability of the company.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Operator
+
+Our next question will come from Katy Huberty with Morgan Stanley.
+
+Kathryn Lynn Huberty
+Morgan Stanley, Research Division
+
+Speaking of GreenLake, the $2 billion NSA contract is a great success story for that business. Should we
+assume that the $2 billion of revenue is recognized ratably over the 10-year contract? Or will there still be
+lumpiness like you've seen in HPC historically? And then also, when does that start to impact the financial
+model? And then I have a follow-up.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Yes. I think it will be definitely recognized over time. There will be periods will be a little bit more lumpy
+because of the infrastructure, but start recognizing here in 2022 immediately. In fact, we're expecting
+here the first order happening now and start shipping soon. But obviously, the one thing you need to
+understand about this deal is not just about selling infrastructure and consumer as-a-Service through HPE
+GreenLake is a true as-a-Service model and managing it at the same time. So we are operating the whole
+environment. which is a bit different than it used to be in the past.
+
+Andrew Simanek
+VP, Head of Investor Relations & Director
+
+Thanks, Katy. I know you had a follow-up, we'll catch you after the call.
+
+Operator
+
+Our next question will come from Matt Sheerin with Stifel. Our next question will come from Kyle McNealy
+with Jefferies.
+
+Kyle P. McNealy
+Jefferies LLC, Research Division
+
+Congrats on the strong results in Intelligent Edge. But I'm curious on where you think we can go from
+here. It's been growing at faster than what the market has typically grown at in the past. We realized that
+WiFi 6 adoption curve is helping that. But how sustainable do you think this 20% plus growth rate is that
+we're seeing now? And should we expect some deceleration in there? Or is there potential for continued
+momentum or acceleration with WiFi 6 upgrades?
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Listen, I expect this business to continue to grow double digits, right? And we are very confident with
+that forecast and honestly maintaining or improve it even the level of profitability because as Tarek made
+earlier -- made the comment earlier, right? This quarter was impacted by a settlement on a legal matter
+that has been going on for a decade. And so I'm pleased that, that finally it has completed, which was $17
+million that we booked for this and has nothing to do with Aruba. It just happened way before Aruba for
+that matter.
+
+And so the reason why I'm confident is because we have a unique value proposition. The value proposition
+of Aruba is a mobile-first, cloud-first, which is based on 3 layers. One is the unification of the network for
+whatever type of connectivity you need, which is WiFi to your point WiFi 6 has now been adopted. And we
+are, I think, the largest vendor shipping WiFi access points.
+
+Second is, obviously, LAN. Third is WAN, and that's why this acquisition of Silver Peak has been incredible
+well received by our customers and very timely because it's integrated now in the same control play. And
+going forward, we're going to integrate more solutions like 5G and edge computing. And that's why this
+edge-to-cloud platform is so essential. But the Aruba Edge Platform is what allows us to deliver the entire
+edge-to-cloud platform because now that the platform also serves as the back end to deliver [ IS ] for
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+customers on-prem and at the edge for compute and storage too, including data services or workload
+optimized solutions. So super pleased. And remember what I said, we executed 3 2021 with a 5x backlog
+on our normal run rate seen in Aruba and the bookings were very, very strong, super strong.
+
+Andrew Simanek
+VP, Head of Investor Relations & Director
+
+Great. Thanks, Kyle, for the question. And I think that takes us about time, so that will be our final
+question. Antonio, why don't I turn it over to you for any final remarks that you have?
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Yes. So again, thank you for making the time today. Again, we are very pleased with our Q3 results, which
+again was marked by the order strong momentum in line revenue expectations, but most importantly, a
+strong improvement in gross and operating margin and record year-to-date orders and free cash flow. And
+that gives us the confidence to, once again, for the fourth time in the year to raise EPS and free cash flow
+and enter 2022 with good visibility about what we think is going to happen.
+
+I'm particularly bullish about the IT spend cycle. People ask me, what do you think the Delta virus is going
+to do? It's going to do nothing on demand I can tell you that now. It may have some impact on supply
+availability, but nothing on demand. Let me be clear about that. And the reason why is because customers
+need to digitize their business. They need to create a more IT resilient environment.
+
+And honestly, they need to attract inside from the data at the pace we've never seen before. And our
+edge-to-cloud platform strategy is resonating. So thank you for making the time to be with us today, and I
+hope to catch up at the end of October on Security Analyst Meeting.
+
+Andrew Simanek
+VP, Head of Investor Relations & Director
+
+Perfect. Thank you. Operator, I think we can go ahead and close out the call.
+
+Operator
+Ladies and gentlemen, this concludes our call for today. Thank you.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ3 2021 EARNINGS CALL |  SEP 02, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+

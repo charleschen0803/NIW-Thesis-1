@@ -1,0 +1,1003 @@
+SolarEdge Technologies, Inc. 
+
+NasdaqGS:SEDG
+FQ2 2021 Earnings Call Transcripts
+Monday, August 02, 2021 8:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ2 2021-
+
+-FQ3 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+1.11
+
+1.28
+
+Revenue  (mm)
+
+455.66
+
+480.06
+
+Currency: USD
+Consensus as of  Jul-27-2021 11:58 AM GMT
+
+15.32
+
+5.35
+
+1.28
+
+4.73
+
+6.49
+
+503.40
+
+1894.10
+
+2376.90
+
+FQ3 2020
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.85
+
+0.88
+
+1.01
+
+1.11
+
+1.21
+
+0.98
+
+0.98
+
+1.28
+
+42.35 %
+
+11.36 %
+
+(2.97 %)
+
+15.32 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Ronen Faier
+Chief Financial Officer
+
+Zvi Lando
+CEO & Director
+
+ANALYSTS
+
+Aric Jiang Li
+BofA Securities, Research Division
+
+Brian K. Lee
+Goldman Sachs Group, Inc.,
+Research Division
+
+Colin William Rusch
+Oppenheimer & Co. Inc., Research
+Division
+
+Moses Nathaniel Sutton
+Barclays Bank PLC, Research
+Division
+
+Philip Shen
+ROTH Capital Partners, LLC,
+Research Division
+
+Jeffrey David Osborne
+Cowen and Company, LLC,
+Research Division
+
+Stephen Calder Byrd
+Morgan Stanley, Research Division
+
+John Booth Lowe
+Citigroup Inc., Research Division
+
+ATTENDEES
+
+Erica L. Mannion
+Sapphire Investor Relations, LLC
+
+Joseph Amil Osha
+Guggenheim Securities, LLC,
+Research Division
+
+Kasope Oladipo Harrison
+Piper Sandler & Co., Research
+Division
+
+Maheep Mandloi
+Crédit Suisse AG, Research
+Division
+
+Mark Wesley Strouse
+JPMorgan Chase & Co, Research
+Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+Presentation
+
+Operator
+
+Welcome to the SolarEdge Conference Call for the Second Quarter ended June 30, 2021. This call is
+being webcast live on the company's website at www.solaredge.com in the Investors section on the event
+calendar page. This call is the sole property and copyright of SolarEdge with all rights reserved and any
+recording, reproduction or transmission of this call without the express written consent of SolarEdge
+is prohibited. You may listen to a webcast replay of this call by visiting the event calendar page on the
+SolarEdge investor website.
+
+I would now like to turn the call over to Erica Mannion at Sapphire Investor Relations, Investor Relations
+for SolarEdge. Please go ahead.
+
+Erica L. Mannion
+Sapphire Investor Relations, LLC
+
+Good afternoon. Thank you for joining us to discuss SolarEdge's operating results for the second quarter
+ended June 30, 2021, as well as the company's outlook for the third quarter of 2021. With me today
+are Zvi Lando, Chief Executive Officer; and Ronen Faier, Chief Financial Officer. Zvi will begin with a brief
+review of the results for the second quarter ended June 30, 2021. Ronen will review the financial results
+for the second quarter, followed by the company's outlook for the third quarter of 2021. We will then open
+the call for questions.
+
+Please note that this call will include forward-looking statements that involve risks and uncertainties that
+could cause actual results to differ materially from management's current expectations. We encourage
+you to review the safe harbor statements contained in our press release and the slides published today for
+a more complete description. All material contained in the webcast is the sole property and copyright of
+SolarEdge Technologies with all rights reserved.
+
+Please note, this presentation describes certain non-GAAP measures, including non-GAAP net income
+and non-GAAP net diluted earnings per share, which are not measures prepared in accordance with
+U.S. GAAP. The non-GAAP measures are presented in this presentation as we believe that they provide
+investors with the means of evaluating and understanding how the company's management evaluates the
+company's operating performance. These non-GAAP measures should not be considered in isolation from,
+as substitutes for or superior to financial measures prepared in accordance with U.S. GAAP.
+
+Listeners who do not have a copy of the quarter ended June 30, 2021 press release or the supplemental
+material may obtain a copy by visiting the Investors section of the company's website.
+
+Now I will turn the call over to Zvi.
+
+Zvi Lando
+CEO & Director
+
+Thank you, Erica. Good afternoon, and thank you all for joining us on our conference call. In my remarks
+today, I'll discuss the trends and momentum in our different business segments, update on new product
+releases, in particular, the introduction of our residential battery and at the end, discuss how we are
+navigating the much talked about global supply and logistics challenges. We are happy to report record
+revenues in both our solar and nonsolar segments for the second quarter of 2021.
+
+Our total revenues this quarter were $480 million, consisting of a record $431 million from our solar
+business and a record $49 million of revenue from our nonsolar business. Overall, this quarter, we shipped
+5 million power optimizers and approximately 180,000 inverters. The record solar revenues reflect strong
+demand for our solar products across all segments and geographies. In particular, we saw this quarter
+record revenues in Europe led by record revenues in the Netherlands, Italy and Poland as well as record
+revenues in what we call rest of the world, representing all regions outside of North America and Europe.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+In the U.S, this was the third consecutive quarter of growth in delivery of residential products. In U.S.
+commercial, revenue grew more than 80% quarter-over-quarter. In addition to the revenue growth, we
+are seeing consistent increase in sell-through and installation rates of both our residential and commercial
+products globally. If in recent quarters, we discussed healthy inventories in residential and relatively high
+inventory levels in commercial, today, in most channels, inventory levels are below historical normal
+levels, both in residential and commercial.
+
+On the product side, we continue to see very good acceptance of the energy hub backup ready inverter
+in the U.S. residential market. And in this quarter, we began shipping the energy hub to Australia. Later
+in the year, we expect to begin shipping the European version of the energy hub as well. I want to take
+a couple of minutes to elaborate on the capabilities of the energy hub, which make it so attractive to our
+customers. As reflected in its name, the energy hub inverter is designed to accommodate and control
+multiple energy elements of the home. For example, already today, in addition to the battery, we ship
+a SolarEdge EV charger as well as an electric water heater controller, all of which are controlled by the
+energy hub inverters. Homeowners manage all of these functionalities through our recently released, My
+SolarEdge app that has more than 2 million users to date. Referring specifically to the storage capability,
+our energy hub inverter is DC-coupled with the battery in a way that maximizes utilization of the energy
+coming from the solar system. The importance of the additional energy from a DC-coupled system is
+critical, in particular, during backup scenarios. As we explained in the past, when the grid is down, a DC-
+coupled system will harvest all of the energy generated by the modules and feed it into the battery even
+when the power generated by the solar system exceeds the nameplate capacity of the inverter.
+
+As frequencies and duration of outages are becoming more prevalent, the benefit of this architecture is
+accentuated, and we see more and more homeowners benefiting from the use of this feature. In California
+alone, in the past 3 months, more than 6,500 homes benefited from 45,000 hours of backup energy
+provided by their SolarEdge system. On that note, as planned, we initiated shipments of our SolarEdge
+energy bank residential battery to the United States and Europe. The DC-coupled 10-kilowatt hour battery
+uses Samsung SDI cells and has been designed based on our knowledge and experience from more than
+30,000 SolarEdge installed systems with batteries. The availability of our battery means that our installers
+and homeowners can enjoy the benefit of high efficiency, easy installation and seamless integration with
+our energy hub inverter that optimizes self-consumption while connected to the grid and maximizes power
+during outage events. We are gradually ramping production of the battery and plan to ship between 25- to
+30-megawatt hour of batteries in the third quarter.
+
+In order to meet the strong demand, we have signed an agreement with Samsung SDI for the supply of 1-
+gigawatt hour of cells to be provided in 2022. We are excited about this cooperation with a leading high-
+quality cell manufacturer. From the second half of 2022, we expect to be shipping batteries based on cells
+manufactured in our Sella 2 factory in Korea currently under construction. Just as we have our own Sella
+1 manufacturing facility for inverters and optimizers, which gives us speed and flexibility for initial volume
+of new products augmented by high volumes from contract manufacturers, we expect that Sella 2 will give
+us similar flexibility for cell and battery needs for our various businesses, while cooperating with Tier 1
+partners and supplying the high volumes needed to meet demand.
+
+Moving to trends in our C&I business. As anticipated, we are seeing steady growth in cells and installations
+of our commercial products. This coincides with the release of our new 120-kilowatt synergy inverter that
+is targeting both rooftop and ground mount installations. We recently began shipping the 120-kilowatt
+synergy inverter to the U.S., which we believe will give a boost to our recent momentum of penetration to
+community solar ground mount installation segment where in recent months, we have installed more than
+50 megawatts in more than 40 projects. In other regions as well, we are seeing progress in penetrating
+the market of small-scale utility projects. For example, we have a 35-megawatt project currently being
+installed in Japan and a 77-megawatt project in Taiwan expected to begin delivery in the third quarter.
+
+Moving to our nonsolar business, where we reported record revenues of $49 million this quarter, primarily
+driven by the ramp of production of powertrain units and batteries for the Fiat E-Ducato in Europe. We
+expect these volumes to continue and increase in the coming quarters. Also contributing to the growth
+in nonsolar revenue this quarter were initial deliveries by Kokam of batteries for the first of 2 utility scale
+energy storage projects, 1 in Australia.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+Moving to the operational side. Like other industries, our industry is also dealing with issues around
+component shortages, logistic costs and the impact of COVID. As we discussed on last quarter's call, from
+a component supply point of view, the multi-store strategy we put in place several years ago enables
+us to meet the current and we believe future growth in demand. At times, this comes at a higher cost
+due to expedited logistics. A temporary challenge is the COVID outbreak in Vietnam. As of a couple of
+weeks ago, production in our contract manufacturer's factory in Vietnam is at a reduced level due to a
+government-mandated lockdown. We are mitigating the short-term challenge by increasing output in our
+manufacturing facilities in China, Hungary and Israel. This will require some expedited shipments and
+additional tariffs due to a higher portion of shipments coming from China to the United States. All in all,
+based on current visibility, thanks to the flexibility that we have built into our operational strategy, we are
+confident in our ability to continue and meet the growing demand we are experiencing for our products.
+
+And with this, I hand it over to Ronen, who will review our financial results.
+
+Ronen Faier
+Chief Financial Officer
+
+Thank you, Zvi, and good afternoon, everyone. This financial review includes a GAAP and non-GAAP
+discussion. Full reconciliation of the pro forma to GAAP results discussed on this call is available on our
+website and in the press release issued today.
+
+Total revenues for the second quarter were $480.1 million, an 18% increase compared to $405.5 million
+last quarter and a 45% increase compared to $331.9 million for the same quarter last year. Revenues
+from the solar segment were $431.5 million, a 15% increase compared to $376.4 million last quarter.
+The quarter's revenue do not include residential battery shipments, which we initiated at the end of the
+quarter.
+
+U.S. solar revenues this quarter were $175.1 million and represented 40.6% of our solar revenues. Solar
+revenues from Europe were a record $200.7 million or 46.5% of our revenues, and the rest of the world
+solar revenues were a record $55.7 million or 12.9% of our total solar revenues. On a megawatt basis, we
+shipped 580 megawatts to the United States, 745 megawatts to Europe and 319 megawatts to the rest of
+the world. 43% of this amount were commercial products, and the remaining 57% were residential.
+
+This quarter, our top 10 solar customers represented 61.4% of our solar revenues. Two U.S. customers
+accounted for more than 10% of our solar revenues. Blended ASP increased by approximately 20.5%
+compared to the last quarter since the ratio of optimizers to inverters was higher than usual due to
+temporary manufacturing and logistic optimization. In general, the pricing environment remained stable
+this quarter, while for the third quarter, we notified our customers of a modest price increase to support
+increased freight expenses.
+
+This quarter, revenues from our nonsolar segments were a record $48.5 million. This record revenues
+were led by the e-Mobility division where sales of powertrain systems to Stellantis continue to grow and
+by increased sales of Kokam's lithium-ion batteries and cells. We expect the nonsolar segment revenues to
+continue and grow as a proportion of the total revenues in the upcoming quarters.
+
+GAAP gross margin for the quarter was 32.5% compared to 34.5% in the prior quarter and 31% in
+the same quarter last year. Non-GAAP gross margin this quarter was 33.9% compared to 36.5% in the
+prior quarter and 32.4% in the same quarter last year. Gross margin for the solar segment was 37.4%
+compared to 39.7% in the prior quarter and above our long-term solar gross margin target of 36% plus/
+minus 1%.
+
+In comparison to the last quarter, solar segment gross margin was affected by approximately 150
+basis points by higher logistic costs resulting from increased freight costs. This quarter, 88% of the
+products imported to the United States came from nontariff manufacturing sites. Gross margin for our
+nonsolar segment was positive at 3.3% compared to minus 4.7% in the previous quarter due to increased
+production level of powertrains from our e-Mobility business, combined with healthy margins from the
+storage business.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+On a non-GAAP basis, operating expenses for the second quarter were $81.5 million or 17% of revenues
+compared to $76.2 million or 18.8% of revenues in the prior quarter and $61.1 million or 18.4% of
+revenues for the same quarter last year. This increase is mainly a result of increased head count in our
+R&D and sales departments as well as salary increases that came into effect on April 1. Our non-GAAP
+solar operating expenses as a percentage of solar revenues were 15.8% compared to 17% last quarter.
+
+Non-GAAP operating income for the quarter was $81.3 million compared to $71.9 million in the previous
+quarter and $46.6 million for the same quarter last year. This quarter, the solar segment generated an
+operating profit of $92.9 million compared to an operating profit of $85.5 million last quarter. This number
+represents 21.5% of our solar revenues and is in the midpoint of our 20% to 23% long-term operating
+profit model. The non-solar segment generated an operating loss of $11.6 million, an improvement
+compared to an operating loss of $13.6 million in the previous quarter.
+
+Non-GAAP financial income for the quarter was $1.7 million compared to a non-GAAP financial expense of
+$6.3 million in the previous quarter due to the relatively stable foreign currency exchange rates. Our non-
+GAAP tax expense was $10.5 million compared to $10.1 million in the previous quarter and $8.1 million
+for the same period last year.
+
+GAAP net income for the second quarter was $45.1 million compared to a GAAP net income of $30.1
+million in the previous quarter and $36.7 million in the same quarter last year. Our non-GAAP net income
+was $72.5 million compared to a non-GAAP net income of $55.5 million in the previous quarter. GAAP net
+diluted earnings per share was $0.82 for the second quarter compared to $0.55 in the previous quarter
+and $0.70 for the same quarter last year. Non-GAAP net diluted EPS was $1.28 compared to $0.98 in the
+previous quarter and $0.97 in the same quarter last year.
+
+Turning now to the balance sheet. As of June 30, 2021, cash, cash equivalents, bank deposits, restricted
+cash deposits and investments were $1.1 billion. Net of debt, cash, cash equivalents, bank deposits,
+restricted bank deposits and investments were $509.3 million. During the second quarter of 2021, we
+generated $38.7 million in cash from operations and continue to invest in the construction of our Sella
+2 cell factory in Korea as well as increased manufacturing capacity with our contract manufacturers.
+Accounts receivable net increased this quarter to $343.7 million compared to $271.7 million last quarter.
+Days sales outstanding this quarter in the solar business was 76 days, an increase from 73 days last
+quarter, a result of higher revenues generated at the later part of the quarter and an increase in sales to
+large customers that enjoy more favorable credit terms in the overall mix. As of June 30, our inventory
+level net of reserves was at $321.9 million compared to $340 million in the prior quarter. Most of this
+reduction is related to finished good levels in the solar segment, while raw materials decreased to a lower
+extent in the solar segment and slightly increased in the nonsolar segment, where we continue to ramp up
+production.
+
+Moving now to our guidance for the third quarter of 2021. We expect revenues for the third quarter of
+2021 to be within the range of $520 million to $540 million. Revenues of the solar segment are expected
+to be within the range of $460 million and $480 million. In the third quarter, we expect to ship 25 to 30-
+megawatt hour of residential storage systems to the United States and Europe as we continue to ramp the
+manufacturing of this product. We expect non-GAAP gross margin to be within the range of 32% to 34%.
+Gross margin of the solar segment is expected to be within the range of 35% to 37%.
+I will now turn the call to the operator to open it up for questions. Operator, please?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] We'll take our first question from Mark Strouse with JPMorgan.
+
+Mark Wesley Strouse
+JPMorgan Chase & Co, Research Division
+
+Just a high-level question. I wanted to ask you about the competitive environment. It sounds like from
+your commentary that the pricing is relatively stable. But what are you seeing as far as market share? And
+can you kind of broadly speak not just within smart inverters, but against your traditional string inverter
+based competitors as well, just focusing on the solar side, if you can?
+
+Zvi Lando
+CEO & Director
+
+Mark, it's -- the tracking on a quarterly basis, the market share in this industry is tough. When there
+were indications that we are losing market share, we were cautious with those type of indications. And
+similarly, when it seems as if we are gaining market share, I don't think we can say with confidence that
+we have hard evidence to support that. The market is growing in most geographies under the current
+circumstances. And when we look at the markets, we believe that we're growing at a faster pace in many
+of the markets. Our focus in this regard is really about our customers. The installers that install our
+equipment, we believe that if they have equipment to install, especially in this environment, chances are
+that they're gaining share in their respective regions or locations. And if they're gaining share, it translates
+to us gaining share. So that's really the dynamic we're focusing on is to make sure that our loyal installers
+have the products that they need to serve the growing demand. And we believe that it is contributing to
+positive momentum.
+
+Mark Wesley Strouse
+JPMorgan Chase & Co, Research Division
+
+Okay. Great. And then just a quick follow-up. As far as the 3Q gross margin outlook goes, can you just tell
+us kind of what your assumptions are as far as transportation, logistics cost? Do you assume status quo?
+Do you think things get worse, better? Just kind of what's baked in there?
+
+Ronen Faier
+Chief Financial Officer
+
+So what's actually based is a combination of 2 elements. The first one is the freight expenses, which
+stabilized at a higher level. And right now, at least, we do not see a lot of ease in this area, although
+we do not see, by the way, increasing these costs. But when it comes to the cost themselves, it's also a
+question of whether we will need to expedite some of the shipments due to the fact that, again, customers
+will need more goods in order to install. And we will decide to use air shipments instead of ocean freight
+in order to be there on time. So I think that it's not coming from the price, but actually from our decision
+about how much to expedite. The second area which will affect, and I think that most of the -- if you
+take the midpoint now when you compare it to the gross margin level of the second quarter, which is, of
+course, obviously, that Q3 is lower. A lot of it is also related from the fact that Zvi mentioned when the
+Vietnam manufacturing facility is working at reduced capacity due to the government enforced lockdowns
+there, we are expanding our manufacturing in China. We're lucky to have manufacturing areas, both in
+Vietnam, China, Hungary and Israel. And therefore, we can maneuver between them. But when you are
+manufacturing more in China, that means that you're paying more tariffs when you enter into the United
+States. And a lot of the decrease that you see in the expectation of gross margin for the next quarter is
+actually coming from there. It's not necessarily just from the shipment.
+
+Operator
+
+We'll take our next question from Stephen Byrd with Morgan Stanley.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+Stephen Calder Byrd
+Morgan Stanley, Research Division
+
+You had mentioned talking with customers about price increases. And I'm just curious in terms of just your
+views on the impacts there in terms of customer willingness to pay that, sort of contractually how that is
+dealt with. How do you sort of see that in terms of the impacts to your bottom line?
+
+Zvi Lando
+CEO & Director
+
+The impact is not dramatic, the increase is in low single-digit levels, and it varies depending on the
+geography as is associated with the additional logistic costs that are specific to that geography. So in
+that regard, it makes the conversation very constructive and transparent. We shared with the customers
+the actual increases, and we are not shifting all of the additional expense to them, but we are somehow
+splitting it between us. And the customers understand that as things return to normal, so will this
+additional expense. So we have a history of dealing with our customers in a transparent way, and I think it
+gives us credibility when we come to them with this topic, and the dynamic has been quite smooth so far.
+
+Stephen Calder Byrd
+Morgan Stanley, Research Division
+
+That's really helpful. And then just shifting to storage, exciting developments in terms of your growth in
+storage. You mentioned that supply agreement. Is it possible to give us a sense for the volume of capacity
+total that you would have in '22? I mean we're quite bullish about the growth globally of energy storage.
+So we see lots of demand around the world. I'm just curious sort of given everything you're seeing on the
+positive side in terms of supply agreements, but also on the negative in terms of just all the supply chain
+constraints. Can you speak at a high level to sort of how you think about your overall capacity in '22 to
+deliver product to customers?
+
+Ronen Faier
+Chief Financial Officer
+
+So in this case, actually, the capacity is going to be more dependent on the supply and the cells and the
+pace of their arrival rather than our own capabilities because the battery that we've developed is our own
+battery. We developed it from cells and we, of course, developed all of the mechanical and the packing
+and BMS and all of the other systems around it. But that means that most of the work that we are doing
+is actually the assembly based on the cells. As we mentioned on the call, first of all, we will have the
+agreement with Samsung that will provide us with approximately 250-megawatt per quarter, give or take,
+because, of course, there are always a little bit of shipment changes or something like this. But in general,
+it should be evening across the year. And as much as we can get cells at the time that we can get cells, we
+can basically turn them into batteries and ship them to the field.
+
+Operator
+
+We'll take the next question -- I apologize. We'll take our next question from Philip Shen with ROTH
+Capital Partners.
+
+Philip Shen
+ROTH Capital Partners, LLC, Research Division
+
+Just a follow-up there on the storage topic. I think in the prior call, you were targeting $100 million to
+$150 million of revenue in 2021 for storage and $300 million in 2022. Are you able to reaffirm those
+targets? I know you gave, I think, a 25- to 30-megawatt hour target for Q3, but I was wondering if you
+could help translate that to the prior targets?
+
+Ronen Faier
+Chief Financial Officer
+
+Sure. So as the answer -- the question follows the previous one, the answer actually follows the previous
+question as well -- answer as well because our ability to supply is basically dependent on the supply of
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+cells from Samsung in this case and our ability to turn them into cells. What we see this year is that, due
+to some of the logistic challenges, we are getting cells a little bit late into the year. And therefore, it's
+basically dependent on their arrival time and our processing time in order not only to manufacture them,
+but also to ship them using ocean freight into the U.S. And in Europe, it's a little bit more easier. So here,
+I'm not sure if we will be able to meet all of this capacity this year. However, whatever capacity we are not
+going to utilize this year, we're going to basically turn into the next year. So if we're missing something
+less in Q4, it will simply spill over into Q1. And since the demand, at least right now, seems to be higher
+than we can manufacture, I believe that it's just a matter of splitting it between the quarters. One thing
+to mention, though, of course, is also the fact that when we talk about the next year is that to this supply
+agreement, we will have our own Sella 2 cells that are supposed to join at the second half of the year. And
+again, if the demand is there, we will know how to turn those into revenues, which, of course, can get us
+to a higher number.
+
+Operator
+
+We'll take our next question from Colin Rusch from Oppenheimer.
+
+Colin William Rusch
+Oppenheimer & Co. Inc., Research Division
+
+Given the ratio of inverters to optimizers that you're reporting, can you talk a little bit about the growth in
+the commercial sector and the size of the systems that you guys are expecting to drive a lot of the growth
+here in the second half?
+
+Zvi Lando
+CEO & Director
+
+Yes, Colin. So indeed, the change in the ratio is also because of the growth in commercial and growth
+in large projects in commercial and the availability of higher power inverter, all of which are translating
+to more optimizers per inverter, which is part of the scalability of a DC architecture like the one that we
+have. And actually, in some cases, specifically to this quarter because people wanted to the 120-kilowatt,
+the new inverter, and we weren't yet at high volume, they still took the optimizers early so that they'd
+begin installing them in the field because that takes a fair amount of time, and it's a task that is usually
+done first and then the inverters can follow later. So that also contributed to the skewed ratio this quarter
+compared to previous ones. But overall, as I discussed in the prepared remarks, we are -- the number of
+large projects that we are involved in is growing nicely and in all geographies, not only in the U.S. and the
+Europe, where we were traditionally strong in commercial and Australia, of course, but also in Asia Pacific,
+in places like Taiwan, Thailand, beginning in Korea as well. So the momentum is positive. And definitely,
+we are finding ourselves in larger and larger ground mount installations around the world.
+
+Operator
+
+We'll take our next question from Brian Lee with Goldman Sachs.
+
+Brian K. Lee
+Goldman Sachs Group, Inc., Research Division
+
+I had a couple here. First, Ronen, on the 1-gigawatt of cells from Samsung SDI in 2022, and I know that's
+not completely linear, but can you give us a sense of how much of that capacity you're expecting to be
+dedicated to the resi battery storage product versus other battery products in the portfolio? And then the
+-- on the mix question, I just had a follow-up. If we look at sort of the price per watt metrics, it seems
+like it's up a decent amount in 2Q versus 1Q. I know that has some mix element attached to it. But given
+some of the moving parts here with respect to mix and then also the modest price increase you guys
+have announced here for 3Q, I guess how should we think about volume trends because you've seen
+sort of flattish volumes on a megawatt basis? Does that sort of revert back to a more normal sequential
+increase into the third quarter? Or are we going to continue to see sort of more muted volume trends on
+that megawatt basis, just given the mix issue? I just would love to understand that a little bit better for
+modeling.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+Ronen Faier
+Chief Financial Officer
+
+Okay. So I'll answer one-by-one, and if I forget anything, please feel free to remind me. So with regards
+to the cells coming from our supply agreement, actually, all of them are going to go into our residential
+batteries. That means that, of course, if there is more demand than this amount, we can utilize once the
+Sella 2 factory starts to work, the Kokam cells for this business. And if not, there are other independent
+businesses that Kokam can do with those cells. But at least the Samsung cells are all designed towards
+our residential battery and we hope that they will be consumed at these levels because it's a relatively
+large capacity compared to what comes today to the United States. When it comes to the volumes,
+actually, again, I think that this quarter, the ASP, as we said and we noted was a little bit, I would say,
+artificial because when we're calculating the ASP per watt of course, it's based on the nameplate capacity
+of the inverters. And when we sell more optimizers, the dollars come on the revenue, but the capacity
+does not go in. And in general, I think that the more commercial you will see, you see more a ratio of
+optimizers to inverters. We do expect to see volumes growing in both of them. But since you can see
+that at least in the last 2, 3 quarters, even though we are improving in commercial, the ratio was lower
+than in the past, then the ratio of higher amount of optimizers to inverters should be maintained in a
+sense. The one thing to say, though, is that the fact that as Zvi mentioned in the previous answer, since
+some of this is actually related to new inverters that are now just produced, we do have a little bit of
+shifting from, let's say, Q3 into Q2 with the amount of optimizers. So it's kind of a temporary jump in the
+number of optimizers that will go down in Q3. But in general, the more commercial you see and the more
+improvement you see there, you will see better ratio of -- or higher ratio of optimizers to inverters. And
+lastly, again, when coming to the price increases, I think that the effect here is, in general, going to be
+minimal on almost all of the segments due to the fact that they are, first of all, very modest, as we said,
+low single-digit percentages of increase, and therefore, we do not expect to have major impact on ASP
+due to these increases. Did I forget anything?
+
+Operator
+
+We'll take our next question from Maheep Mandloi from Crédit Suisse.
+
+Maheep Mandloi
+Crédit Suisse AG, Research Division
+
+Ronen, if you could just talk about, is if you could talk about the 1-gigawatt battery cell arrangement
+with Samsung. What's the duration? And is it kind of recurring in nature? And would it support the Sella 2
+factory production? Or would Sella 2l kind of replace this arrangement going forward for you guys?
+
+Zvi Lando
+CEO & Director
+
+So as we said and then clarified, it's 1-gigawatt hour of cells from Samsung to be supplied more or less
+linearly over 2022 and all to be used in our residential battery. And a quick calculation will say for a 10-
+kilowatt hour battery, 1-gigawatt hour of cells that translates to 100,000 batteries. This is in addition
+to the cells that will begin to come out of our factory in the second half of the year. And as I explained,
+as we do also in our inverter business, we have our own factory that is a very good mechanism to
+accelerate initial production of new technologies. And we use lithium-ion batteries in multiple segments
+and businesses. So we expect that Sella 2 will provide us both capacity of cells to meet additional demand
+on top of the contract that we signed and also the ability to introduce new products and manufacture the
+initial volume of those new products. So these are 2 separate sources of cells that are going into similar
+products in order to give us the flexibility to meet demand and develop new products rapidly.
+
+Operator
+
+We'll move on to our next question from J.B. Lowe with Citi.
+
+John Booth Lowe
+Citigroup Inc., Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+My question was just a follow-up on some of the storage data you guys gave. When you're going to be
+selling your new product, is that going to be -- are you going to be selling it exclusively with a SolarEdge
+inverter? Or are you going to be selling it to -- selling it into houses that maybe have a competitor inverter
+already?
+
+Zvi Lando
+CEO & Director
+
+So it's a philosophical question that we think about. But in the foreseeable future, the demand for new
+installation and add on to that, the huge installed base of our own systems that is out there such that I
+think our focus will be on selling the batteries for new installations with our inverters and adding batteries
+to already installed SolarEdge systems and less about the ability to attach the battery to non-SolarEdge
+systems.
+
+Operator
+
+We'll move on to our next question from Aric Li with Bank of America.
+
+Aric Jiang Li
+BofA Securities, Research Division
+
+Just on storage with the 25- to 30-megawatt hour expectation for 3Q. Can you talk about the ramp
+expectations and the sequential improvements into 2022, given the 250-megawatt hour availability from
+Samsung per quarter that you cited. How do you think about the constraining factors for ramping volumes
+here?
+
+Ronen Faier
+Chief Financial Officer
+
+So in general, as we mentioned, I think that since the part of the production that we do is mostly the, I
+would call it, assembly of the battery cells in the battery, the ramp-up is supposed to be relatively simple
+as it's not a very, I would call it, a complicated or capital-intensive investment that is needed by our
+contract manufacturers. And therefore, the ramp is mostly, I would say, determined by the supply of
+sales rather than our own ability to process them into batteries. I don't think that it's going to be linear
+because by definition, the quantities that we still have for this year coming prior to the new agreement
+that will start in the beginning of 2022 are not even getting closer to the 250-megawatt hour that we will
+be able to provide next year per quarter. And therefore, I would assume that you should see, I would say,
+almost linear increase towards the end of the year from where we started. So that means about 25- to 30-
+megawatt increase in, let's say, the fourth quarter, maybe a little bit more, again, depends on the amount
+of sales. And then you will see an acceleration in Q1 that will get us up to 250. I do not expect that this
+will happen immediately in Q1. So I would say a kind of a linear growth of about 25- to 30-megawatts per
+quarter in Q3 and Q4 of ramp, then an increase that is steeper in Q1 and then somewhere in Q2 -- middle
+of Q2 at least, we should be in a sense, stabilizing at 250-megawatt hour per quarter.
+
+Operator
+
+We'll hear next from Kashy Harrison from Piper Sandler.
+
+Kasope Oladipo Harrison
+Piper Sandler & Co., Research Division
+
+The third quarter guidance implies nonsolar gross margins of 10%, which is a significant improvement
+relative to Q1 and Q2. Can you talk about what's driving the improvement in nonsolar gross margins? And
+then as you think about ways to increase value for shareholders, do you think it might make sense for
+SolarEdge at some point to spin out the e-Mobility business into a publicly traded equity? It seems like the
+public markets are more willing to reward stand-alone stocks exposed to EVs than maybe what's implied in
+your stock price.
+
+Ronen Faier
+Chief Financial Officer
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+Okay. So I'll start from the margin, which is the easiest question here. At least in the margin, the main
+issue here is ramp. Especially in the e-Mobility area, the fixed assets or the fixed, I would call it, means of
+manufacturing that we have are putting weight on the gross margin. It depends on the amount of vehicles
+and powertrain units that we are delivering. And we started to really deliver substantial amounts in Q1
+then, of course, we grew in Q2, and we expect to see steady growth towards Q3 and Q4. And that means
+that over these next quarters, this will actually generate a situation where all of these fixed amounts
+will be spread over a much larger amount of units, of course, improving the margins. In addition to this,
+we also believe that there is a growth that we see in the lithium-ion business of Kokam that is already
+characterized with a healthy gross margin. And the combination of one -- the shrinkage of the negative
+effect of the e-Mobility plus the increase in the battery that is coming with very good margins, at least at
+this stage, will help us to get to this, I would call it, positive and higher single digit to low double digits
+of gross margins on all of the nonsolar. As of splitting the business of the e-Mobility, at least today, we're
+not looking at the short term, I would call it, optimizations just by the way that the capital markets are
+working. We truly believe that for the long term, and this was the reason that we acquired the e-Mobility
+division to begin with, is that having a company that is -- basically specializes in energy -- smart energy
+management and energy conversion and being able to have a one-stop shop coming from the generation
+of electricity into the, I would call it, storage of electricity up to the utilization, not just by our e-Mobility
+business, but also by our critical power businesses that will grow. This all provides much more value to the
+shareholders as one company, at least as we see it today.
+
+Operator
+
+We'll take our next question from Jeff Osborne with Cowen and Company.
+
+Jeffrey David Osborne
+Cowen and Company, LLC, Research Division
+
+Just 2 quick ones on the storage side. Can you talk about whether you expect the initial customers to
+be more Tier 1s selling direct? Or would you be selling through distribution is part one of the question?
+Part two is, can you talk about what efforts you're doing or already underway around training and
+commissioning? Those are 2 factors that have stunted growth of other new entrants in the space so I'm
+just curious how you can overcome that?
+
+Zvi Lando
+CEO & Director
+
+So the answer for the first question, like many of the other questions is both. So -- and we also mentioned
+that we already are running in parallel, both in Europe and the U.S. So it's also direct to some Tier 1
+customers and also through distribution. And the answer to the second, we didn't want to elaborate on
+it too much. But we did -- we are employing a mechanism of both training and certifying installers prior
+to enabling them to install a SolarEdge battery, and a system to monitor and control that so that the
+installations are done properly and with high quality. And of course, in the first wave of installations, we
+will make every effort to have our people participate to the extent possible to give not only theoretical
+training, but also hands-on and accompany the installers during their first experience with the battery.
+And this is on the basis of the system that we've been employing for training on the solar or the inverter
+equipment for years, and it's just a bit more deep and a bit more restrictive in the fact that we require to
+be certified prior to executing an installation.
+
+Operator
+
+We'll take our next question from Moses Sutton with Barclays.
+
+Moses Nathaniel Sutton
+Barclays Bank PLC, Research Division
+
+Can you confirm on the storage product, just to continue on that. It's all fully certified UL and anything
+else, it's entirely clear to ship widely?
+
+Zvi Lando
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+CEO & Director
+
+Yes. So the battery has the required certification to be installed indoor and outdoor in Europe and the U.S.
+And I think the listings are either up or will be up shortly. I didn't check lately, but the certifications are in
+that enable those type of installations.
+
+Operator
+
+[Operator Instructions] We'll hear next from Joseph Osha with Guggenheim Securities.
+
+Joseph Amil Osha
+Guggenheim Securities, LLC, Research Division
+
+I'd like to ask a question, not about storage. You had talked previously about how the automotive business
+might get to $120 million and change or so this year and maybe double next year. Curious in particular
+as to whether that rough target still stands for next year and then to return to some of the questions on
+margin. the hope that maybe as we get out of next year that we might be kind of into the low single digits
+gross margin. I'm wondering if you can comment on those expectations?
+
+Ronen Faier
+Chief Financial Officer
+
+So first of all, with regards to the quantity, we mentioned the $100 million to $120 million for this year.
+We feel comfortable with this. And of course, since the -- we said that the year was mostly characterized
+this year with growth. That means that, yes, once we stabilize on the higher levels, of course, we can
+increase this amount in the next year. We need to remember, though, that, of course, this is also an issue
+of the orders that Stellantis will have for the car itself because the fact that we can actually manufacture it
+doesn't mean that it has customers, we believe that it hasn't -- there are nice customers for this vehicle.
+But I think that this will be the thing that will determine the most -- what are going to be the revenues
+and at least right now, we do not see a problem meeting the numbers. And I forgot, Joe, the second part
+of the question.
+
+Joseph Amil Osha
+Guggenheim Securities, LLC, Research Division
+
+Just looking at gross margin, I think you guys have said that, that business is probably running at a
+negative gross margin right now. But wondering if you can comment on what the trajectory of that is and
+whether it might get to sort of gross margin breakeven as we move through next year?
+
+Ronen Faier
+Chief Financial Officer
+
+So the answer is yes, in this case. First of all, this is a project that, in many senses, we inherited when
+we acquired the e-Mobility division. And I would say that it was seeded before we acquired the company.
+And when we came to actually fulfill it, we found that we need to make this product more of automotive
+grade from quality, reliability and safety, and therefore, added a lot of cost. And in a sense, when we came
+to this project, the cost -- the price was already locked. The cost was the only thing that we needed to
+increase in order to make it a safe product. And therefore, we're relatively, I would say, at low margins
+when we go to full capacity in this project. It is a profitable project, though, once you go into mass
+production, it's the levels that Stellantis and I -- and we agreed upon because in general, we do not
+believe that you should do business where you're losing on every unit that you're shipping. So in a sense,
+the negative margin today is a kind of a learning curve that we have. It is not going to be an extremely
+profitable project as a whole as long as we stay with this specific configuration. But at least once we get to
+the end of the year or starting of next year when we level at the desired, I would call it, level by Stellantis,
+this should be a positive single -- low single-digit project.
+
+Operator
+
+We'll now take a follow-up question from Moses Sutton with Barclays.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+Moses Nathaniel Sutton
+Barclays Bank PLC, Research Division
+
+Just a quick follow-up on one of Jeff's questions. How many initial or beta systems have actually been
+installed for the storage, perhaps in total or in terms of how many installers have at least installed one?
+
+Zvi Lando
+CEO & Director
+
+It's in the range of 10s, but we're not giving the specific number.
+
+Operator
+
+And that does conclude today's question-and-answer session. I would like to turn the conference back
+over to Mr. Lando for any additional or closing remarks.
+
+Zvi Lando
+CEO & Director
+
+Thank you, and thank you, everyone, for joining our call. I just want to take this opportunity to thank our
+customers, employees and suppliers for their support during this period. And while I'm satisfied with our
+performance and results, I'm even more excited about the opportunities that are ahead of us. So thank
+you all again, and have a good day.
+
+Operator
+Thank you. That does conclude today's conference. We do thank you all for your participation. You may
+now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+SOLAREDGE TECHNOLOGIES, INC. FQ2 2021 EARNINGS CALL |  AUG 02, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+

@@ -1,0 +1,911 @@
+Micron Technology, Inc. NasdaqGS:MU
+FQ3 2021 Earnings Call Transcripts
+Wednesday, June 30, 2021 10:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2021-
+
+-FQ4 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+1.72
+
+1.88
+
+Revenue  (mm)
+
+7268.65
+
+7422.00
+
+Currency: USD
+Consensus as of  Jun-30-2021 9:51 PM GMT
+
+9.30
+
+2.11
+
+2.21
+
+5.71
+
+11.10
+
+7939.29
+
+27198.70
+
+35782.64
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+FQ3 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.97
+
+0.69
+
+0.95
+
+1.72
+
+1.08
+
+0.78
+
+0.98
+
+1.88
+
+11.34 %
+
+13.04 %
+
+3.16 %
+
+9.30 %
+
+COPYRIGHT © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+5
+
+2
+
+ 
+MICRON TECHNOLOGY, INC. FQ3 2021 EARNINGS CALL |  JUN 30, 2021
+
+Call Participants
+
+EXECUTIVES
+
+David Zinsner
+
+Farhan Ahmad
+Senior Director of Investor
+Relations
+
+Manish H. Bhatia
+Executive Vice President of Global
+Operations
+
+Sumit Sadana
+Executive VP & Chief Business
+Officer
+
+ANALYSTS
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC,
+Research Division
+
+Ambrish Srivastava
+BMO Capital Markets Equity
+Research
+
+Harlan Sur
+JPMorgan Chase & Co, Research
+Division
+
+Mehdi Hosseini
+Susquehanna Financial Group,
+LLLP, Research Division
+
+Shek Ming Ho
+Deutsche Bank AG, Research
+Division
+
+Simon Wu
+
+Thomas James O'Malley
+Barclays Bank PLC, Research
+Division
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+MICRON TECHNOLOGY, INC. FQ3 2021 EARNINGS CALL |  JUN 30, 2021
+
+Presentation
+
+Operator
+
+Good afternoon. My name is Josh, and I will be your conference facilitator today. At this time, I would like
+to welcome everyone to Micron's Post Earnings Analyst Call. [Operator Instructions] It is now my pleasure
+to turn the floor over to your host, Farhan Ahmad, Vice President of Investor Relations you may begin your
+conference.
+
+Farhan Ahmad
+Senior Director of Investor Relations
+
+Thank you, and welcome to Micron Technologies Fiscal Third Quarter 2021 Sell-Side Analyst Callback. On
+the call with me today are Micron, EVP of Strategy and Chief Business Officer, Sumit Sadana; Micron, EVP
+of Operations, Manish Bhatia; and our CFO, Dave Zinsner. Today's call will be approximately 45 minutes in
+length.
+
+As a reminder, the matters we will be discussing today include forward-looking statements. These forward-
+looking statements are subject to risks and uncertainties that may cause actual results to differ materially
+from the statements made today. We refer you to the documents we filed with the SEC, specifically our
+most recent Form 10-K and 10-Q for a discussion of the risks that may affect our future results.
+With that, operator, you may open the call.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+MICRON TECHNOLOGY, INC. FQ3 2021 EARNINGS CALL |  JUN 30, 2021
+
+Question and Answer
+
+Operator
+
+Our first question comes from Harlan Sur with JPMorgan.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+On the confidence on supply tightness in DRAM into next year. I know that the team has been entering
+into a longer-term supply agreements with some of your customers, lead times have been extending, and
+I'm sure customers are more open to sharing their longer-term forecast as well. So how much of your
+calendar year 2022 is being -- viewed as being driven by order backlog or customer forecast visibility into
+next year versus some sort of top-down sort of macro view?
+
+And then just a quick follow-up question on the DRAM cost front looking into fiscal '22. I know there are a
+lot of moving pieces. But at the highest level, does the team, at least, expect the cost profile to be within
+your long-term range of down kind of mid- to high single-digit percentage points?
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Okay. So this is Sumit. I can take the question related to the market. So we do go through a pretty
+rigorous process to assess demand and supply both. Certainly, we look at the tops-down models,
+macroeconomic approaches, industry environment and condition. We talk extensively to our customers,
+to our ecosystem partners. We obviously assess technology trends that are shaping the landscape.
+For example, as you know, there are upcoming launches of new x86 processor platforms that have
+significantly more attachment of DRAM. They tend to bend some of the demand curves when these type of
+transitions occur.
+
+So we take all of those into account, and we determine how things are proceeding. And we have, I think,
+a reasonably good track record based on what we have seen over the last few years. I think the approach
+that we take on the supply side is also similar. We do a fairly detailed analysis. And of course, there are
+certain things that change from time to time in terms of supply.
+
+This time around, we tried to highlight some of them, including the headwind that comes from bigger
+die sizes on DDR5 compared to DDR4 because of the on-chip ECC that used to be on the module now
+integrated onto the die itself. And that creates headwinds for supply growth.
+
+So when we back all of that together, the other thing to keep in mind is lot of ecosystem shortages across
+the semiconductor ecosystem for different types of parts, could be raw material for some of these devices,
+could be controllers, built-in foundries in some of the legacy nodes, it could be analog parts. A lot of
+different things are extremely tight. And we think that some of this tightness gets resolved over the
+course of multiple quarters extending well into calendar year '22. And as these things get resolved, it will
+open up pockets of demand that today cannot be met because of these non-memory shortages.
+
+So I think overall, when we pull together all of the demand view and the supply view, we feel that the
+industry environment will remain healthy for a good period of time, certainly through this calendar year
+extending into next year. And then we feel that the supply has been pretty disciplined on the DRAM side.
+We have been tracking the CapEx that I know you all look at as well. And because of the disciplined CapEx
+in DRAM, we feel that the overall supply growth will be in fairly good shape, consistent with the demand
+growth and should help to extend the healthy environment in the industry.
+
+Now I'll turn it over to Manish to talk about the cost.
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+MICRON TECHNOLOGY, INC. FQ3 2021 EARNINGS CALL |  JUN 30, 2021
+
+Thanks, Sumit, and thanks for covering a little bit of it. One of the things that is impacting the bit growth
+also impacts DRAM costs for next year, which is a transition to some of these newer standards with DDR5,
+LP5 and obviously, graphics products, all having higher performance. But -- and higher performance for
+our customers and their end applications, but being a mix-driven headwind to the cost as well.
+
+In terms of what we see looking forward, the 1-alpha node for DRAM is ramping well, and we feel very
+good about both where that is right now, how it's going to ramp over the next several quarters and what
+it's going to provide us in terms of like-for-like kind of cost reductions in FY '22 and bit growth for FY '22.
+
+In terms of the cost reduction range that we've talked about before of mid- to high single digits. I think
+on the front-end side, we feel good that we'll be towards the higher end of that range. and that when we
+think about the mix of the business as well as some of the more expensive back-end costs, for example,
+DDR5 modules are more expensive than DDR4 modules given some of the changes in the [indiscernible]
+aspects for those modules, as we think about some of those things, we think that the total end maybe
+towards the lower end of that range. But we still have, as David mentioned on the other call, we're still
+working on exactly that, the mix of the products in next year's plan, and we'll give more color on that as
+we head to the next call.
+
+Operator
+
+Our next question comes from Aaron Rakers with Wells Fargo.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+I wanted to go to the data center business and particularly the server business. You guys talked and you
+just mentioned a little bit ago about the expansion of memory in memory channels in the server CPU
+market. I'm just curious, are you alluding to things like Ice Lake and AMD's Milan processors today?
+
+Or I thought the commentary was a bit more weighted to the back half and even into calendar '22 where,
+I guess, the question is, are we starting to see indications that there's further expansion of memory
+channels on these CPU sockets, beyond the 8 channels that we currently see? And then also any quick
+update on HBM, just timing or materiality of when we should start to think about that ramp materializing?
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Yes, those are 2 good questions. I will just answer them in that order. So the first part, yes, it is about 6
+channels going to 8 channels and the broader deployment that will be occurring with these both internal
+MD platforms over the course of time. Also wanted to mention that upcoming processor platform launches
+are going to have dramatically higher core counts.
+
+And if you just attach the same amount of memory as before to a processor with higher core count, your
+bandwidth per core starts to decline, which then starts to affect application performance. And so servers
+that were originally configured with a certain amount of DRAM memory need higher amount of DRAM
+memory to be attached to that same server with a more higher core count CPU socket.
+
+So that's sort of the trend that drives double-digit increases in average capacities in terms of attach rate
+pushover. And that's what we are seeing as a trend that will continue to do well over the course of some of
+these platforms being deployed in 2022 from both AMD and Intel and gathering pace there.
+
+In terms of HBM. HBM2E was the first HBM product that we introduced to the market. We have made
+investments in that product. The product is being qualified by our customers. Our intent with HBM, first-
+generation HBM, which is our HBM2E product, is not for there to be a very material ramp in that revenue.
+It's more a vehicle for us to prove the technology, gain the confidence, qualify it, ramp it into volume. So
+a pretty complex product. And then rely on subsequent generations of HBM to drive material gains in that
+product line in terms of revenue ramp. So that still is the plan. And we are making good progress towards
+that.
+
+Operator
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+MICRON TECHNOLOGY, INC. FQ3 2021 EARNINGS CALL |  JUN 30, 2021
+
+Your next question comes from Mehdi Al Hosseini with SIG.
+
+Mehdi Hosseini
+Susquehanna Financial Group, LLLP, Research Division
+
+Just a quick follow-up to the previous one. I want to better understand how HBM demand would trend
+in the context of DDR5 adoption, could HBM actually cannibalize DDR5 server DRAM? Or do you feel
+confident enough that HBM is driven by incremental demand creation for AI that you won't have a
+cannibalizing effect on DDR5? And I have a follow-up for David.
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Yes, I mean, I don't think of HBM as cannibalizing DDR5 as much as a complementary way of attaching
+very high bandwidth memory. If you think about different applications, some applications tend to be very
+latency sensitive, some tend to be very bandwidth limited. Several AI applications tend to require very
+high memory to CPU bandwidth, then they tend to use HBM.
+
+Having said that, pretty much most server applications in the data center today are getting impacted
+because these very powerful CPUs with massive numbers, of course, are unable to really get the data fit to
+them at a fast enough rate that they can keep all the CPU cores active and busy which is what is needed
+to be done in order to leverage the significant investments people make in these new CPU platforms.
+
+And that is what drives the DDR4 transition to DDR5 because you're dramatically increasing the bandwidth
+on the DDR bus. And hence, we believe that both of those things will occur, there will be a DDR5 transition
+in certain applications, which are highly bandwidth limited. Like some AI applications, there will be HBM
+usage.
+
+Having said that, HBM is today still a relatively modest market. It's about $1 billion TAM. It is going to
+grow faster than the rest of the DRAM market. But the DDR5 market will become massive very, very
+quickly and will very early in its ramp overwhelm the size of the HBM market and then keep going. So I
+don't view those as being competing with each other as much as being complementary in terms of how
+application workload is being addressed.
+
+Mehdi Hosseini
+Susquehanna Financial Group, LLLP, Research Division
+
+Great. Thanks for the detail. And a quick follow-up for David. I understand you don't want to provide
+FY '23 operating margin guide. And -- but I want to better understand how effective the management
+team is executing on the cost structure. Obviously, we have had a couple of many downturns. You have
+established effect that you're kind of a trough operating margin above 0. I believe, last time, it was around
+10% operating margin. In the last up cycle which was extraordinary, operating margin exceeded 50%. And
+the prior up cycles, prior to 2018, your operating margin peaked in the 20% to 30%, and you're already
+above that.
+
+So help me understand. I know you're trying to be conservative, you're trying to be prudent, especially
+with the guide and not letting us get carried away. But can we establish the fact that maybe your
+operating margin could trend higher? It may not exceed the prior peak, but at least it could trend towards
+the 50%.
+
+David Zinsner
+
+And just to be clear, you were mentioning something about FY '23, you're not looking for FY '23, right? Is
+that what you were talking about?
+
+Mehdi Hosseini
+Susquehanna Financial Group, LLLP, Research Division
+
+Yes, I was just trying to make sure that you're paying attention to my question. I would just applaud.
+
+David Zinsner
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+MICRON TECHNOLOGY, INC. FQ3 2021 EARNINGS CALL |  JUN 30, 2021
+
+Yes, I was definitely paying attention. So I mean, the way I kind of look at it is what the peak is and what
+the trough is, is less important than what the entire cycle looks like in terms of profitability. And I think I
+mentioned on the call in the prepared remarks that we had EBITDA margins, I think, through that entire
+cycle of 50%. We had gross margins, I think, through the whole cycle of 40% and then ROIC was 20%.
+
+I feel like those are very good numbers, quite honestly. And so I think if we can achieve numbers that are
+roughly in line with that, plus or minus a bit, I feel really good about our performance. Obviously, some
+of it is the -- we're at the mercy of the market. But I do think that a lot of the things that we've done
+structurally to drive the relative profitability of the business have been pretty spectacular, quite honestly.
+
+And so now you know that we're in a place where costs are somewhat in line with the industry. We look
+at our cost to drive them somewhat in line with the industry. I think we've shown, particularly this past
+quarter that we could do a very good job in terms of managing our pricing across the DRAM and NAND
+markets. We're -- as you see, we're pretty efficient on our operating spend.
+
+So I'd like to think that we could continually, through cycles, maintain very good profitability in both
+EBITDA margin and gross and operating margin. How that shakes out on the model year-to-year, I'll let
+you guys all figure that out.
+
+Mehdi Hosseini
+Susquehanna Financial Group, LLLP, Research Division
+
+If I may, just quickly, a quick follow-up. If I just go with the 50%, 40% EBITDA and gross margin, that
+doesn't leave me a lot of upside from here. Maybe 3 points, if I just take what you reported for the last
+quarter and I think the trough of 6 quarters ago. The general question becomes how long is the cycle? And
+we don't know.
+
+So -- and this is where it gets a little bit tricky. And on top of everything, you haven't been aggressive with
+buyback. So what am I missing here?
+
+David Zinsner
+
+What are you missing in terms of what, about the buybacks?
+
+Mehdi Hosseini
+Susquehanna Financial Group, LLLP, Research Division
+
+Well, there's only a 3-point upside to this margin guide EBITDA 50% and gross margin of 40%, if I were
+just to average what we have done so far in this up cycle. And then you may push back and say, "Well,
+Mehdi, the cycle could be 2-year cycle, I could run a business at 50% EBITDA and 40% gross margin for
+2 years, not just 2 quarters." And this is where I'm having a hard time to think about sustainability of
+earning growth.
+
+David Zinsner
+
+Well, I mean, I think we're not -- it's hard for me to make a prediction on what the high point is and what
+the low point is. All I want to do is kind of drive profitability through the cycle. And that is not to say that
+we're making any prediction about how long the cycle is or how high the cycle will get. We're just trying to
+drive the profitability through the entire period to generate a good return on invested capital.
+
+The buyback, I'll tell you it has nothing to do with any view on how long the cycle is. We have an opinion
+that over the long term, we can drive very good profitability. We have a good product road map. We have
+good technology leadership, excellent cost in terms of being competitive with others.
+
+So we feel very confident about those. And when you feel confident about those and think about where
+the stock price is today, of course, this is a good price. And we will buy back a fair amount of stock next
+quarter. We have that built into the plan. So that's -- that in no way is in any relationship to what we think
+about the cycle.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+MICRON TECHNOLOGY, INC. FQ3 2021 EARNINGS CALL |  JUN 30, 2021
+
+As far as we can see it, which, of course, is always a bit hazy, we feel good that things will be tight into
+'22, and then we'll see what '22 plays out at. I think we've done -- shown that we can do a very good job
+managing through upturns and managing through downturns, we'll continue to do that.
+
+Operator
+
+Your next question comes from Tom O'Malley with Barclays.
+
+Thomas James O'Malley
+Barclays Bank PLC, Research Division
+
+Dave, this one's for you. You've done a really good job of bringing down OpEx as a percent of revenue
+over the past really 8, 9 quarters. But it's stepping up from a dollar's perspective from May into August.
+Can you talk about what's driving that step up there? And then what the profile from a spend perspective
+should look like as we go into the next fiscal year?
+
+David Zinsner
+
+Yes, so we've been managing OpEx pretty effectively. It does -- it can be a little bit lumpy because there
+are the prequalification expenses that R&D incurs from time to time, depending on what activity is going
+around in terms of the development. The last couple of quarters were pretty light. This quarter, the fourth
+quarter, it's actually going to be a relatively heavy quarter of prequalification expenses. So that's part of it.
+
+I think also we had a little bit of a benefit in the third quarter from the sale of some assets. We took a
+gain on that. And so OpEx was a little bit artificially low in the third quarter because of that gain. It was
+probably about $15 million higher. So once you strip that piece out.
+
+I think longer term, when we're in the really upward part of the cycle, I think we're generally running low
+double digits or in -- I think in fiscal '18, we ran as low as high single digits. And when you're in the kind
+of lower part of the cycle, it kind of runs in the mid-teens and we'd like it to average somewhere in the low
+double digits to low teens over time.
+
+We want to drive, obviously, leverage as we're coming out of the cycle. But I think over time, we're
+not trying to drive a ton of leverage through operating expenses because the one thing that always
+differentiates you from competitors is your ability to invest in products. And we do want to make sure
+we're making the proper level of investment in terms of products that -- to obviously drive profitability and
+drive growth.
+
+Thomas James O'Malley
+Barclays Bank PLC, Research Division
+
+Helpful. Just a quick follow-up. On the NAND side, in the May quarter, you guys talked about low single-
+digit growth. But the last couple of quarters, you've talked about an environment in which things are
+stabilizing. You've sounded more positive really every single time we heard you talk on the NAND
+environment.
+
+Is there a reason why things slowed a bit in the May quarter? And should things pick back up there just
+given the fact that it seems like the demand needs are pretty robust from kind of all the end markets that
+you've talked about?
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Yes, I can address that. So definitely, the semiconductor, the NAND industry overall gross margins got
+pretty challenged in that CQ1, CQ2 time frame. And part of that was driven by the fact that there was a
+substantial amount of CapEx that had been invested and we had articulated for a few quarters that we
+believe that the industry CapEx is at pretty high levels. And that's what ended up playing out in terms of
+the challenges in the gross margin profile.
+
+Of course, NAND has pretty high elasticity of demand. So as pricing fell in NAND, certainly, the demand
+picked up even more and has absorbed a lot of that supply. And things are in pretty healthy shape. We
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+MICRON TECHNOLOGY, INC. FQ3 2021 EARNINGS CALL |  JUN 30, 2021
+
+have posted ASP improvements, as we saw in our fiscal Q3 results. And certainly, we look forward to
+improvements in fiscal Q4 as well.
+
+There is a good deal of demand coming from multiple segments of the market. Some segments of the
+market remain undersupplied. And so as we look at strength in PCs, look at data center strength, look at
+game consoles ramping with SSDs instead of HDDs for the first time, both PlayStation and Xbox, and we
+look at a significant amount of strength coming from automotive and industrial markets, the environment
+is healthy on the demand side.
+
+We feel that as long as the CapEx remains at disciplined levels in the industry, the environment can
+remain healthy. Our intent has always been to grow our supply bit in line with the demand growth in the
+industry. And so certainly, we look forward to continuing to execute well on the NAND side.
+
+We are doing a lot more than just the supply/demand balance, of course, focusing on that. There's a lot
+of focus on our portfolio, the strength of our products, the mix of the portfolio. We spoke about record
+QLC bit mix. These QLC products have dramatically higher profitability for us compared to what TLC can
+drive. And TLC and QLC cost structure in NAND very, very competitive world-class cost structure. So we
+are feeling good about all of that.
+
+And looking ahead, we are looking forward to the introduction of our first vertically integrated platform
+data center NVMe SSD as well. So a lot of good things happening on that front. And we hope to certainly
+improve the ROI in that business going forward.
+
+Operator
+
+Our next question comes from Ambrish Srivastava with BMO.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+Dave, I just wanted to make sure I was on the same page with everybody else, so just correct me if I'm
+wrong. I have heard you guys talk about cost down for fiscal '21 for DRAM mid-single digit. And I think
+Manish said mid to high. And then on the call, somebody said 10%, and you did not correct that. So what
+have you said? Could you just calibrate us on what have you publicly said about the cost down for...
+
+David Zinsner
+
+Yes, I probably should have corrected. Although, I wasn't sure exactly what aspect they were talking about
+that was down 10%. We've said that our cost down -- originally when we came into the year, we said our
+cost down in DRAM would be kind of mid-single digits.
+
+I would say, over the course of the year, we've gotten a little bit more bullish about that, and it was
+certainly trending above that. It's still above that. But suffice it to say, some of this COVID mitigation
+expense, we didn't exactly have dialed in. And so that has been a little bit of a weight -- has weighed us
+down a little bit, but not terribly. I mean, we're still above the mid-single-digit number we thought we
+would be coming into it.
+
+Now we have -- the other thing we've said is that we think at least over the intermediate call the next
+several years, DRAM cost declines probably run in the mid- to high single digits as the industry goes. We
+think we would be in line with that over that time.
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+Thanks, David. And that's right. And what I had been talking about when I was with a longer-term kind of
+trend for us and the mid- to high single digits. And I think as we mentioned at the beginning of the year
+or maybe I mentioned on one of these callbacks last quarter, coming into this year, we made a strategic
+decision to invest more in 1-alpha, which would have a bigger cost benefit, really primary cost benefit
+in fiscal '22. And we actually reduced some of the CapEx on some of the other technology nodes, 1z in
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+MICRON TECHNOLOGY, INC. FQ3 2021 EARNINGS CALL |  JUN 30, 2021
+
+particular, and that is why our cost reduction for this year is maybe somewhat lower than what that range
+would indicate that we're targeting for the longer term.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+Okay, okay. That's helpful because I don't miss -- I do miss a lot of stuff, but I thought I was pretty dialed
+into cost down. When I heard 10%, I said, huh I must have read wrong.
+
+David Zinsner
+
+No, we never said we get to 10%.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+Okay. I think that's important.
+
+David Zinsner
+
+For the industry track kind of numbers.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+And then what have you set for NAND as well for this year?
+
+David Zinsner
+
+So for NAND, we said -- fairly early on, we said it would be in the kind of low double digits, which was
+kind of somewhat driven by mix and that's generally where it's been tracking. I would say, it's also maybe
+tracking a hair negative more recently as well when the dust settles for the same reasons. It was a
+function of this COVID medication expense.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+Got it. Got it. So then my question is on the EUV side and the cap intensity going to mid-30s. What is the
+time frame? Does that go into -- keep staying in the mid-30s up until 2024? Or should we think about that
+as the peak here? What's the right way to think about it?
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+Yes. So as we said on the call, we're planning to introduce EUV on our 1-gamma node in 2024. And then
+thereafter in subsequent years 1-delta. So it will really take us until 1-delta node and beyond to be able
+to have a significant -- to make the whole EUV infrastructure be productive for us. So it will probably go
+towards that 1-delta, which would be after the 2024 time frame where we'll be making prepayments for
+tools, investing in the facilities, infrastructure for this equipment and getting it ramped up into production.
+
+And as I said, it will be an introduction of 1-gamma. 1-delta will be a deeper penetration, more layer
+count. And then so I would think it would be through that 1-delta, which would extend beyond 2024, and
+then we'll start to see hopefully some more improvement and reduction in some of the multipatterning
+that EUV will provide in 1-delta and beyond.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+Got it. Manish, while I have you, what is the die size increase with DDR5 that you guys are expecting?
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+MICRON TECHNOLOGY, INC. FQ3 2021 EARNINGS CALL |  JUN 30, 2021
+
+Yes, we're not giving that specifically. But I think one of the things, Sanjay gave a little color on is one of
+the drivers of that is the addition of on-chip ECC. So kind of used that as an estimate of one of the major
+drivers.
+
+Operator
+
+Your next question comes from Simon Wu with Bank of America.
+
+Simon Wu
+
+Very quickly, any rough idea, the percentage of your PC [ DRAM ] at the 1-alpha node in the U.S., whether
+it can be more than 10% from the August end of quarter, was less than 10%. And the same question
+regarding the 176 layer NAND out of the total NAND. So we want to measure whether it can be more than
+10% or less than 10% of the total PC NAND in DRAM and NAND for this current quarter.
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+I think we did say that we reached a meaningful level of production in FQ3 on both 1-alpha and 176
+layer and that production, obviously, at the fab level in F Q3, Simon, would be -- would allow us to say a
+meaningful level of revenue generation from both of those 2 nodes in FQ1.
+
+And then as we look towards the end of the year, I think we did say in the prepared remarks that we
+would have 176 layer would be more than half of our NAND output by the end of the year. And then we
+said that between 1-alpha and 1z, combination of the 2 would be more than half of our output by the end
+of the year on the DRAM side as well.
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+And that's the end of the calendar year.
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+Calendar year, yes, sorry. Yes, calendar, yes.
+
+Simon Wu
+
+Okay, sure. Yes, because I want to know the definition of the meaningful portion, whether it can be more
+than 10% or less than 10%. It's okay. Sure, sir. And then another, I think it's a little bit kind of not a
+concern, but I'm feeling like the 1-alpha node is very advanced technology. So that should be used to
+maybe 16 gigabits production rather than 8 gigabits or solid 2 gigabit. Sensing 176 layer, I think is pretty
+extensive, very advanced for the 256 gigabit mono chip production. I think your 176 layer should be
+used to maybe 1 gigabit level of the chip production. So the question is whether your 1-alpha node and
+the 176-layer 3D DRAM can be used effectively the larger, larger density because your OEM customers,
+to date prefer maybe smaller, lower density at the maybe 1z node or maybe 96 layers. So any color on
+this, how to maximize your new node use for the larger, larger density, which is much larger than the
+mainstream [ chip-a ] gigabit or 256 gigabit. So what are your OEM customers feedback or reaction to
+your new node base larger than the chip?
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+So thanks, Simon. So I'll start from a technology perspective and Sumit can add the customer side
+and how that's going. I think I'll start with 1-alpha. We have -- it's a very competitive node, and we're
+deploying it across multiple different densities and multiple different aspects of -- whether it's -- it will be
+deployed for mobile, it will be deployed for computer and it's going to have a broad portfolio, and we see
+very good competitiveness on multiple different densities that we're going to have in the 1-alpha node.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+MICRON TECHNOLOGY, INC. FQ3 2021 EARNINGS CALL |  JUN 30, 2021
+
+So I think that -- I don't think we see it as hampering us for some of the lower capacity. We see good
+competitiveness on multiple different densities across multiple different end market applications.
+
+On the NAND side, same thing on our 176. You're right, it is a very advanced node, and we really feel very
+good about our technology position and our decision a couple of years ago to kind of move forward in the
+replacement gate as we transition there to do a small implementation of 128 layer and then jump to 176
+for the more significant deployment there.
+
+One thing to keep in mind on the 3D NAND side is that because of our CMOS under the Array capability,
+that means that we're going to be maybe more capable and effective -- efficient on the die size floor plan
+because we were able to fit all of the CMOS under the Array versus maybe some of the competitors that
+-- and what their comments might be about what they have to do because not all of our competitors have
+adopted CMOS under the Array as yet.
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Yes. And in terms of customers, just like Manish said, we have a pretty broad portfolio of capacity points in
+our die road map. And hence, we can meet most of our customer requirements. Of course, there are some
+low capacity points that we can't always meet, but we don't try to create a portfolio of products that can
+be everything to everyone. We pick the areas where we feel the portfolio can best address customer needs
+in the most optimized way.
+
+And some of the applications that require far smaller capacity points are often just better served through
+legacy nodes. And we do that, for example, in our automotive and industrial markets, some consumer
+markets also serve from legacy nodes. So we use the different module mix in our manufacturing footprint
+to meet the varied kinds of customer demand that we have.
+
+But for the volume part of the market in most of our segments like server, client, mobile, et cetera, our
+176-layer NAND and our 1-alpha can really meet the broad range of capacity requirements that our
+customers have.
+
+Simon Wu
+
+Yes, very clear, Sumit and Manish. I really appreciate. But very one quick clarification, 1-gamma delta
+DRAM node, newly the EUV, right? Still using the market patterning, as you previously commented, right?
+No EUV there, 1-gamma, 1-delta?
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+No. So Simon, so we had previously said that we were evaluating EUV for 1-delta. And what we're
+saying now is that we do see that we will have a significant introduction at 1-delta, but we will have, not
+necessary, significant deployment on 1-delta, but the introduction will happen in 1-gamma with fewer
+layer count and then more layer count on the 1-delta. And we think the 1-gamma will be in the 2024 time
+frame and then 1-delta will come after that.
+
+Operator
+
+And our last question comes from Sidney Ho with Deutsche Bank.
+
+Shek Ming Ho
+Deutsche Bank AG, Research Division
+
+I actually a couple -- 2 quick questions. One is again on DDR5. What is your current expectation of ramp
+schedule in terms of when and how quickly maybe versus DDR4? I know you talk about the bigger die, I
+also heard you also doing more server modules. Do you expect a margin trajectory over a certain period of
+time to be similar to DDR4 with DDR5, maybe low in the beginning and maybe come back up?
+
+I'll ask the second question as well. Just on EUV. I know you talk about 1-gamma in 2024 and then 1-
+delta. I wonder if you have any views on your development of your R&D project on 3D DRAM because one
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+MICRON TECHNOLOGY, INC. FQ3 2021 EARNINGS CALL |  JUN 30, 2021
+
+of the equipment suppliers talk about you don't really need EUV for 3D DRAM. I'm curious if you agree
+with that assessment.
+
+Sumit Sadana
+Executive VP & Chief Business Officer
+
+Yes, I mean I can take the first part of your question on DDR5 and then Manish take the other question.
+So in terms of DDR5, we expect that ramp will start later this calendar year and then fiscal '22 -- sorry,
+calendar '22 will be the time where the ramp starts to really pick up steam in a meaningful way. Later this
+calendar year '21 is just the start of the ramp.
+
+And then as our customers deploy these more advanced CPU platforms in greater numbers, they will
+obviously be increasing their consumption of DDR5 beyond '22 in a very material way. So I think that's the
+schedule we are on.
+
+And I'll turn it over to Manish to talk about the EUV discussion.
+
+Manish H. Bhatia
+Executive Vice President of Global Operations
+
+Sure. Right. So the -- on the question about EUV and how it helps our scaling road map, we see node, that
+we have multiple more nodes than EUV is going to be able to help us with. We -- as I mentioned to Simon,
+just before, we see a meaningful number of layers on -- or a significant number of layers in 1-delta. And
+then we see nodes beyond that, that EUV will allow us to continue to scale.
+
+And we feel very confident in being able to maintain our leadership in DRAM scaling as we go into the
+foreseeable future. So -- and we feel very good about what EUV is going to allow us to do and what our
+scaling -- and the combination of our expertise in multi-patterning as well to help us maintain our lead in
+that.
+
+Operator
+Thank you. This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+MICRON TECHNOLOGY, INC. FQ3 2021 EARNINGS CALL |  JUN 30, 2021
+
+Copyright © 2022 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2022 S&P Global Market Intelligence.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+

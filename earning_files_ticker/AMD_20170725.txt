@@ -1,0 +1,218 @@
+Thank you, Laura, and good afternoon to all those listening in today
+Q2 was a strong quarter for us as we continued to ramp our high-performance product portfolio
+Second quarter revenue increased 19% to $1.22 billion, and gross margin improved year-over-year
+Importantly, we returned to non-GAAP net income profitability in the quarter, driven by strong growth in our Computing and Graphics segment
+Looking at our Computing and Graphics segment, we made excellent progress in the quarter and reported operating profitability for the first time in three years based on our leadership Ryzen processor and GPU product offerings
+The expansion and growing adoption of our Ryzen CPUs, combined with our sixth consecutive quarter of double-digit year-over-year Graphics revenue growth, resulted in a 51% increase in Computing and Graphics segment sales year-over-year
+Client computing revenue increased by strong double-digit percentage from a year ago, driven by a significant ramp and strong sell-through of our Ryzen CPUs in the first full quarter of sales
+Our Ryzen family of processors drove a richer mix of shipments and client ASPs improved significantly from a year ago
+All major PC OEMs have announced premium Ryzen-based desktop systems, with widespread availability expected for the back-to-school and holiday seasons
+As we move into the second half of 2017, we are on track to complete the full family of Ryzen processors, including Ryzen 3 processors targeting the mainstream and value market segments with on-Shop availability later this week; Ryzen Threadripper products for the high-end desktop markets with global component channel availability in early August; Ryzen PRO-based offerings targeting the commercial client segments with availability in Q3; and Ryzen Mobile APUs, which will be available for the consumer market later this year
+In Graphics, GPU revenue increased by a strong double-digit percentage from year ago, with higher unit shipments and ASPs driving growth across our desktop and mobile GPU products
+Demand for Radeon RX GPUs was strong in the quarter, driven by gaming and cryptocurrency mining
+In June, we began the introduction of our Vega GPU architecture with the launch of the Radeon Vega Frontier Edition, delivering a powerful professional workstation graphics card designed to tackle demanding design, rendering and machine intelligence workloads
+Apple announced that our Radeon Pro Vega product will power the new iMac Pro, a workstation-class product line designed for creators running the most demanding workflows
+In addition, Apple also announced expanded iMac offerings, which are powered by the Radeon Pro 500 Series
+We will launch additional Radeon Vega products at SIGGRAPH next week, expanding further in the premium portions of the consumer and professional GPU markets
+Our investments in GPU compute and Radeon Instinct are continuing to build momentum
+We introduced our first Vega-based Radeon Instinct datacenter products in June
+These new GPU accelerators will significantly increase performance, efficiency and ease of implementation for machine learning and high-performance computing workloads
+We also showcased a server powered by AMD's EPYC SoC and four Radeon Instinct MI25 accelerators working together to deliver groundbreaking performance of 100 teraFLOPS
+Interest and excitement are high as we recently started shipments of our Radeon Instinct MI25 accelerators to strategic datacenter customers
+Turning to our Enterprise, Embedded and Semi-Custom segment, revenue declined 5% year-over-year and increased 44% sequentially
+The sequential revenue gains were primarily based on higher Semi-Custom product shipments due to seasonality
+In addition, we reached an important milestone in the quarter, delivering initial EPYC server revenue
+In our semi-custom business, unit shipments were up sequentially and down year-over-year as we enter the fifth year of the current game console sales cycle
+This console cycle continues to outpace previous cycles as Sony recently passed a milestone of 60 million PlayStation 4 consoles shipped
+Last month, Microsoft announced the new Xbox One X with availability in November
+This system will be Microsoft's smallest and most powerful Xbox ever made and will be based on the combination of high-performance CPU and GPU IP that only AMD can provide
+As we look at the remainder of the year and given the maturity of the current game console cycle, we expect semi-custom revenue to be down for the full year
+In our server business, last month, we launched our EPYC family of high-performance datacenter processors, reentering the incredibly important $16 billion datacenter market and setting several new industry performance records
+With up to 32 high-performance Zen cores and an unparalleled feature set, our EPYC family of processors deliver greater competitive performance at every price point across a full range of integer, floating point, memory bandwidth and I/O benchmarks and workloads
+Our two-socket and one-socket EPYC CPUs are designed to deliver industry-leading performance on critical enterprise, cloud and machine intelligence workloads and provide a substantial TCO advantage
+At our EPYC launch event, we were joined by more than 20 leading server manufacturers and global ecosystem partners who showcased optimized support and EPYC-optimized platforms
+We received compelling endorsements from OEM, cloud providers and mega datacenter operators, including HP Enterprise, Dell, Baidu, and Microsoft Azure, with more than 20 EPYC-based platforms announced at launch
+And we expect an additional 20 EPYC platforms to be available in the second half of 2017. With the strong global ecosystem and customer interest we have built around our EPYC processor family, we are on track to reenter the datacenter market in a major way
+In closing, we are very pleased with the trend of our quarterly results and how our products are positioned heading into the back half of the year
+Our business foundation and growth opportunities are strong, based on our high-performance product portfolio and our expanding customer traction
+Given our first half 2017 performance and our visibility into the third quarter, we are happy to report we are progressing ahead of our annual revenue guidance and we look forward to a strong year overall
+Now I'd like to turn the call over to Devinder to provide some additional color on our second quarter financial performance
+Devinder?
+Thanks for your questions
+So we are very pleased with the reception to EPYC
+The launch that we did in June was very well-received
+We had a number of customers as well as partners, OEM providers, ODM guys, as well as cloud providers who participated in that
+The general reception has been very positive
+I would say that interest level is very high
+In fact, we're adding additional customer support to really ensure that we help customers get their platforms up and running
+In terms of what to expect in the revenue ramp, we started shipping early volume in the second half of June
+We would expect that we continue to ramp that revenue through the second half of the year
+We would expect some additional customer announcements in the second half of the year
+And then as we stated with both cloud and the enterprise accounts, depending on their qualification cycles, it can take anywhere up to four quarters to qualify the parts
+But so far so good
+I think very good traction, and we continue to lean in hard on the datacenter opportunities
+Sure, Mark
+So certainly the overall quarter for Graphics was strong
+Q2 tends to be seasonally down, and we were up in the quarter
+So it was better than seasonal
+I would say the better performance was due to two things
+First of all, we did launch our RX 580 and RX 570 gaming cards in April
+And those cards are very, very well-positioned in the market, so they're doing well with gamers
+Relative to cryptocurrency, we have seen some elevated demand
+If you look at GPUs across the world, the inventory in the channel is actually quite lean
+And so we're working on replenishing that inventory
+Our priority, though, really is on our core market, which is the gaming market
+And so a couple of things that we are certainly doing are we're prioritizing supply towards the gaming market
+So you'll see system integrators, as well as on some of the major e-tailers we have bundles with Ryzen and Radeon
+And then some of our partners are also offering mining specific cards that have a different feature set, such that we're really segmenting the market between gaming and mining
+But it's important to say we didn't have cryptocurrency in our forecast, and we're not looking at it as a long-term growth driver
+But we'll certainly continue to watch the developments around the blockchain technologies as they go forward
+Thanks, Mark
+Sure, Matt
+So, look, I think the overall road map execution has been very good, very solid
+I think our customers see that Ryzen performance, the EPYC performance on the CPU side, and then certainly the Vega performance on the GPU side have met our commitments
+And the important thing, particularly in the enterprise market, as well as the commercial market, having a road map – a strong road map with multiple generations is important
+We stated at our Financial Analyst Day that we're already investing heavily in 7-nanometer
+The 7-nanometer will be key for us on both the CPU and the GPU side
+And I would say that development is progressing well
+We're working with multiple foundries on that
+We have multiple design teams that are working, and we expect that that will give us a strong competitive road map for the next several generations
+No, I think you covered it, Devinder
+On the investment front, Matt, just to give you a little bit more color on that, I think we see tremendous opportunity in the datacenter around both CPU and GPU compute
+And so we're taking the opportunity with some of the strength in the business to make sure we lean in to those resources and fully pay off the product investments
+Good question, Ross
+When you take a look at our client business, think of it as desktop and mobile
+And then within the desktop segment, it's channel and OEM
+So Ryzen performed very well
+I think the ASP contribution is very evident on the desktop line item
+But when we look at where we are in the progression of the Ryzen rollout, we're still in the early innings
+So we had our first full quarter of Ryzen Desktop in the channel
+The OEMs launch their desktop products in about mid-June, and so they just started selling at the end of June
+And that will flow through into the second half of the year
+And the mobile products are still our legacy products
+So you saw the mobile ASPs were down slightly as we went from Q1 to Q2, and that was just a mix on some of the legacy business
+But the desktop ASPs were quite strong
+And we should expect that as we go into the second half of the year and we have Ryzen really take off in the OEM sectors as well as once we introduce Ryzen Mobile towards the second half of the year is when you'll see sort of more of the full portfolio over to Ryzen
+So I think you summarized the revenue guidance well
+I think we see the Computing and Graphics business accelerating on the strength of the new products
+We do have a bit of a year-over-year headwind when we compare game consoles
+When you look at our Q3 margin guidance, we are certainly up year-over-year 3 points, and so I think that's the strength of the product portfolio
+I think as we get into the Q4 guidance, we'll talk more about the margin progression
+But what we expected in terms of margin expansion with the premium products is certainly playing out, and that's helping the Q3 guide
+Yes, David
+We will be launching Vega, actually, in a week at SIGGRAPH
+And yes, Vega will be shipping into gaming, into professional workstations, as well as into the GPU compute segment in the third quarter
+Yes
+So Ryzen notebook is on track to launch for the holiday platform sales, and so you should see OEMs launching Ryzen Mobile for the holiday period
+So yes, we will see revenue in the second half of the year
+Thanks, David
+Sure, Ambrish
+So I think from an overall standpoint, we see strong demand in graphics for the third quarter
+I think that's a mix of a couple things
+That's a mix of gaming being seasonally stronger in the third quarter
+That's a mix of inventories being very low in the channel
+And there is a crypto – probably, a cryptocurrency component as well relative to overall demand
+When we look at it as a whole, though, we think that the growth in the business is really on the strength of the products and how the design wins, both OEM and as well as system integrators are improving
+Now, how is it different than sort of a couple of years ago? I think we understand the market much better from the standpoint of the products are significantly stronger
+And so if you look at the product portfolio, not just the current sort of Polaris or RX 5 Series products, but the Vega product coming in, really opens up a larger TAM for us
+And we are working with our add-in board partners to segment the markets in terms of the feature set that go into the cards, as well as prioritizing some of the gamer ecosystems
+So in terms of system integrator supply as well as bundling and OEM supply
+So I think we are doing quite a bit to make sure that we protect against any downside as it relates to cryptocurrency
+But overall, I would view it as GPUs are strong, and we see GPUs continuing to be strong, and so it's a great market to be in
+Yeah, Vivek, I think we are actually very pleased with sort of the conditions around the server market for us
+I mean, it all starts as a good product or a great product
+And so I think the EPYC product performance is very important
+But I think the other conditions that are different and perhaps even more favorable than in the past is the fact that the cloud datacenter guys are making up such a large piece of the market and they tend to move faster in their qualification cycles given the fact that they have more control of their own software environment
+So I think our differentiation is strong
+I think we have – we put out a product that is not only strong on basic CPU performance, but also offers much more flexibility in terms of what you can do with memory and I/O
+I think that value proposition is recognized by the customer set
+So we certainly are looking to ramp the revenue as fast as possible
+Obviously, we continue to watch the competitive market
+It's been an exciting market
+Some would say from a product standpoint there has been a bit of back-and-forth already
+We feel good about how our products are positioned not just today, but how they will be positioned over the next 18 to 24 months
+And so we're going to be very focused on ensuring that we lead with the product message
+Of course, there's a go-to-market element and all of that around that, but I think the competitive environment right now is very focused on product competitiveness
+So I think, Vivek, you're referring to when we initially launched Ryzen 7, there were some games, particularly in 1080p resolution, that were not as good as some of the higher resolutions
+I believe we've worked around a lot of that
+We've seen game developers, content developers really sort of support the Ryzen ecosystem
+I've actually been very happy with how they've jumped on the support of it
+We have been continuing to improve the ecosystem, so if you look at the motherboards and if you look at the memory capability, they've significantly improved just in last three or four months
+I think you'll see as we go through Threadripper launch, which is coming up very shortly, that the Ryzen ecosystem is strong
+And as it relates to EPYC, I think very similar comments
+I think the ecosystem has been very supportive of the EPYC processor family, and so I don't see that as an issue
+I would say, Joe, we have a broad set of customers that we're engaging with
+So, definitely we see top-tier cloud guys very engaged with EPYC and talking about a number of different instances
+Microsoft Azure was at our launch event, and Baidu was at our launch event, and we're working with a number of other cloud vendors as well
+But we also have a very strong OEM support base as well
+So with HPE and Dell putting out a number of platforms with EPYC, I think that will ramp enterprise customers in 2018 as well
+So I view it as really both sides of the equation are important for 2018. I think we will see cloud be a little lumpier, so certainly they tend to buy in stages
+So they may be a little bit lumpier, but I think overall we are very focused on both cloud and enterprise accounts
+Yeah
+Joe, it was completely a function of demand, demand within lead time
+I think from a supply standpoint we've had a very strong supply chain across the board, across both CPU and GPUs
+We are, as I said, in the process of catching up to demand, and so we're certainly increasing some of the production, and that was Devinder's comment about some of the working capital and some of the inventory comments
+Overall, though, I think we're going into a stronger second half of the year
+So it's not unexpected for us to ramp up production
+It's just demand was quite strong, particularly in the April, May timeframe is when we saw a spike, and it takes some time to react to those signals
+Yeah
+Again, Hans, I think we have been working closely with a number of different customers, including in virtualized environments
+We see no particular issues, other than just getting their platforms up and running
+And so I think we continue to believe EPYC will do very well in those environments
+Yeah
+Hans, actually, the feedback has been actually quite good
+And I think, what we are able to do – obviously, it's a decision to make, right? We could've built one big monolithic chip, or we decided very strategically to build a modular approach, because it just gives us so much flexibility when we talk about the combination of CPU cores and I/O
+So, so far so good
+I think there is some work to do to make sure that the latencies are appropriately taken care of, and the customers are working with us on that
+I think the flexibility is really, really appreciated, particularly when you look at what we can do with single-socket servers as well
+So we feel very good about where EPYC is positioned
+I think the customer feedback continues to be very strong, and our goal is to get as many platforms out as possible with EPYC this year
+So yes, John
+Let me answer that
+When you look at our typical seasonality, as you said, we tend to be down in Q4. Now, semi-custom is still a large, large piece of our business, and semi-custom will peak in Q3 and it will come down in Q4. I also think that we want to be cognizant of the fact that some of the graphics demand that we see might be temporal
+So we're not counting on that staying through the full year
+We'll see what happens
+Frankly, I think we'll see what happens with the whole mining stuff
+But I think when you look overall, I think that it shows that the business is strengthening
+And so we like the growth very much
+Ryzen will continue to grow through the second half
+EPYC will continue to grow through the second half
+Vega and our GPU business will continue to grow through the second half
+And the only headwind that we have is sort of the game console business, just as part of normal seasonality
+And then relative to the profit statement
+So I think there are a couple points, John, that I want to make sure that we're clear about
+Although OpEx is going up and R&D is going up, we're doing it in a very thoughtful fashion, and so staying within the confines of the business model is really important
+And as Devinder said earlier, our model that we laid out at Financial Analyst Day for 2017 has us, let's call it at approximately 31% ER, and we're going to stay within that model for sure
+Now, relative to priorities in R&D, it is very much focused on sort of the new growth areas for us, very much focused on datacenter and very much focused on GPU compute, so around machine learning and sort of the entire compute space on the GPU side
+It is fairly incremental in terms of adding things like customer support, field application engineering, software support, given that we're familiarizing people with our architecture
+So I think it's good
+We're happy that the business affords us the ability to increase R&D in this timeframe, and we're using it to accelerate our growth in these high-margin markets
+John W
+Pitzer - Credit Suisse Securities (USA) LLC Thank you
+So, Vijay, without getting too granular about percentage of EPYC revenue, I think what we've said is our target for EPYC, we sort of have -- the midterm target is to get back to double-digit market share, so over 10%
+We think that we have a product and a customer set in an environment that does support that
+It will take longer than this year to get there, so I think this is the multiple-quarter ramp for us, but in terms of how we've laid out the business model, I mean, that's all contemplated sort of in our overall growth model for 2017. As it relates to margins, again, without being very specific, I would say the EPYC margins are highly accretive, even at our current sort of pricing, which offers, I would say, significant value to the customer
+I think it also gives us significant credit for the capability of the product
+And so the margins are accretive to our business model
+Yes, yes
+The Radeon Instinct, similarly, has a lot of interest from the marketplace
+A number of different applications
+We started shipping actually in July to some strategic datacenter customers
+We see that interest continue to ramp
+There I think it is – this is definitely a lumpy business, and so it goes – as a cloud guy puts on a new instance, you would see a larger buy
+And that's the way it would work
+But again, very good market
+I think we're in the very early part of the growth trajectory for AMD in these markets
+And we'll continue to invest and work closely with customers to ramp those platforms
+We're being conservative in our estimates for what will happen as we get in the fourth quarter
+I think the visibility is it's not – it's anyone's guess at this moment
+However, I think what we are doing very clearly is prioritizing sort of the core customer set so that we're segmenting the market
+You can never segment it perfectly, but I think we are segmenting it well
+And we continue to be very closely in tune with our partners and how this develops
+And my expectation is that there will be a leveling off of the demand at some point
+And as we fill the channels, that will become clear what the level-off point is
+But right now, as we said, the channel inventories are very low
+And so it's hard to call the absolute demand, and we're ensuring that we're not over-calling the demand
+Thank you very much, Operator
+We appreciate everyone being with us today
+We look forward to spending more time with you in the coming quarter and thank you for your time

@@ -1,0 +1,1192 @@
+CME Group Inc. NasdaqGS:CME
+FQ3 2021 Earnings Call Transcripts
+Wednesday, October 27, 2021 12:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2021-
+
+-FQ4 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+1.55
+
+1.60
+
+3.23
+
+1.64
+
+6.65
+
+7.36
+
+Revenue  (mm)
+
+1145.70
+
+1109.90
+
+(3.12 %)
+
+1196.28
+
+4789.38
+
+5112.31
+
+Currency: USD
+Consensus as of  Oct-27-2021 5:17 AM GMT
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+FQ3 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.36
+
+1.76
+
+1.61
+
+1.55
+
+1.39
+
+1.79
+
+1.64
+
+1.60
+
+2.21 %
+
+1.70 %
+
+1.86 %
+
+3.23 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Derek Sammann
+Senior MD and Global Head of
+Commodities & Options Products
+
+John C. Peschier
+Managing Director of Investor
+Relations
+
+John William Pietrowicz
+Chief Financial Officer
+
+Julie Winkler
+Senior MD & Chief Commercial
+Officer
+
+Sean P. Tully
+Senior MD and Global Head of
+Financial & OTC Products
+
+Sunil Cutinho
+President of CME Clearing
+
+Terrence A. Duffy
+Chairman & CEO
+
+ANALYSTS
+
+Alexander Blostein
+Goldman Sachs Group, Inc.,
+Research Division
+
+Brian Bertram Bedell
+Deutsche Bank AG, Research
+Division
+
+Christopher John Allen
+Compass Point Research &
+Trading, LLC, Research Division
+
+Daniel Thomas Fannon
+Jefferies LLC, Research Division
+
+Kenneth Brooks Worthington
+JPMorgan Chase & Co, Research
+Division
+
+Kwun Sum Lau
+Oppenheimer & Co. Inc., Research
+Division
+
+Kyle Kenneth Voigt
+Keefe, Bruyette, & Woods, Inc.,
+Research Division
+
+Michael J. Cyprys
+Morgan Stanley, Research Division
+
+Richard Henry Repetto
+Piper Sandler & Co., Research
+Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+Presentation
+
+Operator
+
+Good day, and welcome to the CME Group Third Quarter 2021 Earnings Call. Today's conference is being
+recorded.
+
+At this time, I would like to turn the conference over to John Peschier. Please go ahead, sir.
+
+John C. Peschier
+Managing Director of Investor Relations
+
+Thank you, and good morning, everyone. I hope you're all doing well. I'm going to start with the safe
+harbor language, then I'll turn it over to Terry and our team for brief remarks followed by your questions.
+
+Statements made on this call and in the other reference documents on our website that are not historical
+facts are forward-looking statements. These statements are not guarantees of future performance. They
+involve risks, uncertainties and assumptions that are difficult to predict. Therefore, actual outcomes and
+results may differ materially from what is expressed or implied in any statement. Detailed information
+about factors that may affect our performance can be found in the filings with the SEC, which are on our
+website.
+
+Lastly, on the final page of the earnings release, you will see a reconciliation between GAAP and non-GAAP
+measures.
+
+With that, I'd like to turn the call over to Terry.
+
+Terrence A. Duffy
+Chairman & CEO
+
+Thank you, John, and thank you, all, for joining us this morning.
+
+We released our executive summary, as John said, which provided extensive details on the third quarter
+of 2021. I have John, Sean, Derek, Sunil, Julie Winkler on the call this morning, and we all look forward to
+addressing any questions you have.
+
+Before I begin, in addition to John, who will discuss the financial results, I'm going to have Sean and
+Derek to make some comments. With all the recent news associated with interest rates and energy, I
+thought it was important that they present this morning.
+
+With that, we delivered solid volume during the third quarter of this year as we averaged 17.8 million
+contracts per day, which was up 14% versus third quarter last year. We saw year-over-year strength in
+our interest rates and energy businesses and saw significant options growth of 45% during Q3. Rates
+average daily volume rose 53%, including 78% growth in Eurodollars and 41% growth in treasuries, as
+the expectations of future rate hikes has increased.
+
+We continue to launch innovative new products, tools and services to support customer needs, including
+additions to our suite of micro-sized contracts that allow market users to customize their trading and
+hedging as well as ESG-focused futures contracts that help manage climate-related risk.
+
+In terms of specific products and services, we had 2 consecutive quarterly ADV records and SOFR futures
+in Q2 and Q3 as the market continues to manage their interest rate risk ahead of key transition deadlines.
+Bitcoin futures, ADV increased 170% compared with the third quarter last year. Ether futures are also off
+to a good start since their launch in the first quarter this year. In September, we launched the derivatives
+industry's first-ever sustainable clearing service to help market participants track and report on how their
+hedging activities are advancing their sustainable goals.
+
+Finally, Micro WTI and Micro Treasury yield contracts began trading in July and August, respectively. The
+Micro WTI contract represents the most successful commodity product launch in our history with over 1
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+million contracts traded within the first 20 days and a total of 4.3 million contracts traded since July 12
+launch. Most importantly, this innovative new contract is attracting new customers to our energy market
+as evidenced by the fact that almost 10,000 Micro WTI market participants have not traded any other
+CME Group crude oil product in 2021. You'll hear more about this in a moment from both Derek and Sean,
+respectively.
+
+In the third quarter, non-U.S. ADV was up 13% to 5 million contracts per day. We saw 15% growth in
+Europe, 8% growth in Asia, 32% growth in Latin America and 10% growth in the U.S.
+
+Also during the quarter, we completed our joint venture with IHS Markit and, together, launched, OSTTRA,
+a leading provider of progressive post-trade solutions for the global OTC market across interest rates,
+equities, FX and credit asset classes.
+
+Turning to Q4. We have had a strong start so far in October, averaging more than 20 million contracts,
+which is an increase of 35% month-to-date compared to the same point in October last year. Interest
+rates in energy are up double digits with rates up 90%.
+
+With that, let me turn it over to Sean to give you more flavor as it relates to interest rates.
+
+Sean P. Tully
+Senior MD and Global Head of Financial & OTC Products
+
+Thank you very much, Terry. As Terry said, the financials unit saw a number of significant developments in
+the third quarter, particularly regarding SOFR, the overall rates market and our crypto business. Our silver
+futures saw average daily volume grow to 124,000 contracts per day in the third quarter up over 180%
+year-over-year, and our open interest grew to over 1 million contracts, up 140% year-over-year.
+
+Additionally, in the month of October, we're seeing average daily volume of 227,000 SOFR futures
+contracts and open interest of 1.2 million contracts. Over the last 60 days, our SOFR futures ADV made up
+over 78% of the global SOFR futures volumes and our open interest represents approximately 95%.
+
+Further, on July 29, the Alternative Reference Rate Committee of the Federal Reserve endorsed CME's
+1-month, 3-month and 6-month term SOFR rates. And on September 19, CME began publishing a 12-
+month term SOFR rate as well. Demand for access to our term SOFR rate is very high, as we have already
+executed more than 100 term SOFR licenses to market participants, and we are currently working with an
+additional 300 firms who are also interested in licensing.
+
+Our fallbacks for Eurodollar futures and options have also been a very strong success since we finalized
+our rule book back on March 29. SOFR-linked open interest includes SOFR futures as well as Eurodollar
+futures and options that reference a LIBOR rate which will be set after June 30, 2023. Those contracts
+have grown from 11.8 million open interest on March 29, to 16.3 million open interest as of October 25,
+up 38%. Further, the average daily volume of our SOFR-linked futures and options in Q3 was 1.6 million
+contracts, representing 52% of CME's total short-term interest rate ADV.
+
+In addition, our long-held view regarding the rates market environment continues to gain veracity. Using
+CME's FedWatch tool, we can see the market is now pricing in a 60% chance of tightening by June 2022,
+up from just 17% just 1 month ago. Our FedWatch tool also now indicates an 87% chance of at least 2
+Fed tightenings by the December 2022 FOMC meeting.
+
+In Q3, the improving rates environment, as Terry said, led to a 53% growth in our interest rates ADV
+versus third quarter of 2020. Nonetheless, rate volatility, while higher in the third quarter of 2021 than
+it was in recent quarters, remained historically quite low. For example, in the eighth quarterly Eurodollar
+futures, it achieved just the 37th percentile of volatility versus a history going back to 2007. And our 10-
+year note futures achieved only a 25th percentile volatility rank, showing the current volatility even in Q3
+was very low.
+
+Regarding CME Group's crypto offering, first, let me say, the recent approval of ETFs based on CME Bitcoin
+futures is not only an important milestone for our future contracts but also a positive development for the
+broader Bitcoin ecosystem. This is a direct reflection of the strong growth and client demand for exposure
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+to Bitcoin via CME's transparent, deeply liquid and regulated cryptocurrency futures contracts. The launch
+of ETFs based on CME's Bitcoin futures is validation from the industry of what we've known for some time,
+that CME Bitcoin futures are the leading source of bitcoin price discovery in the industry.
+
+Two new Bitcoin ETFs were launched just last week and another this morning, both of which are based --
+or all 3 of which are based on CME's Bitcoin futures. On the back of those launches, our Bitcoin futures,
+October ADV has risen to over 12,000 contracts or over 60,000 equivalent Bitcoin worth a record $3.5
+billion per day, up 57% over September. Additionally, average open interest in our Bitcoin futures has
+grown to a record 17,433 contracts, up 70% versus September. Our Micro Bitcoin futures volume is also
+up 33% month-over-month, and our average open interest is up 97% month-over-month.
+
+With that, I'll turn it over to Derek.
+
+Derek Sammann
+Senior MD and Global Head of Commodities & Options Products
+
+Thanks, Sean. As Terry mentioned at the top of the call, we have seen a strong return of activity in our
+global energy business in the second half of this year with both crude oil and natural gas prices hitting
+multiyear highs. Overall, this has helped our global energy business to deliver average daily volume
+growth of 18% in the third quarter, led by energy options up 26% year-on-year. WTI futures reached
+the $84 a barrel mark earlier this month for the first time since 2014, as OPEC maintained caution on
+production increases and as U.S. shale steadily recovers from the 2020 decline. Prices were further
+boosted from returning global demand as economies reopen.
+
+In the U.S., gasoline consumption reached 10 million barrels a day in July, marking an all-time monthly
+high. Activity in WTI crude oil futures saw a 26% jump in average daily volume in the third quarter to
+990,000 contracts; the WTI options average daily volume jumping 45%, 129,000 contracts. This helped
+us to deliver strong daily volume growth in our refined products portfolio as well with our gasoline product
+volume of 20% to 196,000 contracts and our heating oil products daily trading volume up 10% to 154,000
+contracts.
+
+This has helped set the stage for the significant success that we've delivered with our Micro WTI futures
+contract. Launched on July 12 of this year, as Terry mentioned, we surpassed 1 million contracts traded
+in the first 20 trading days, and we've already traded more than 4.3 million contracts since launch. Most
+importantly, this innovative new contract is attracting brand-new global customers to our energy market
+as evidenced by the fact that almost 10,000 Micro WTI customers have not traded any other CME Group
+crude oil product in 2021. These new customers come from 118 different countries and represent over
+50% of our Micro WTI customer base. So this has been a significant source of new client acquisition for us.
+
+At the same time, we have also seen the natural gas market experience the highest price level in over 13
+years with U.S. Henry Hub futures hitting a high price of $6.45 earlier this month, more than tripling in
+price from the COVID-driven March 2020 lows. The resulting increase in volatility has boosted our Henry
+Hub futures business with September average daily volume of 496,000 contracts, up 11% year-on-year.
+Henry Hub options were particularly strong in the third quarter with average daily volume up 18% to
+124,000 contracts, achieving our best months of August and September ever.
+
+Participation has been strong from our commercial customers, and we've seen our natural gas futures and
+options open interest jump to 6.2 million contracts in September, which is the highest level we've seen
+since January [ 2018 ].
+
+So overall, we're seeing that the investments we're making in our product portfolio, our global client
+development and our technology pay strong dividends as market volatility returns, as our customer base
+manages their energy risk and CME Group's global benchmark products.
+
+With that, I'll turn it over to John to discuss the financial results.
+
+John William Pietrowicz
+Chief Financial Officer
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+Thanks, Derek. During the third quarter, CME generated more than $1.1 billion in revenue with average
+daily volume up 14% compared to the same period last year. Expenses were very carefully managed and,
+on an adjusted basis, were $412 million for the quarter and $355 million, excluding license fees. CME had
+an adjusted effective tax rate of 23.3%, which resulted in an adjusted diluted EPS of $1.60, up 16% from
+the third quarter last year.
+
+Capital expenditures for the quarter were approximately $33 million. CME paid out more than $300 million
+of dividends during the third quarter, and cash at the end of the quarter was approximately $1.6 billion.
+
+At the start of September, CME and IHS Markit launched OSTTRA, our post trade services joint venture.
+As a result, CME will no longer be recording revenue and expenses associated with our post-trade
+businesses but will be recording our share of the joint venture earnings in the equity and net earnings of
+unconsolidated subsidiaries line out of our income statement.
+
+For the month of September, CME would have recorded approximately $22 million in revenue and $11
+million in expenses but instead recorded approximately $8 million in our share of the adjusted earnings of
+the joint venture. When you take into consideration tax implications and providing support services for the
+joint venture, there was essentially no impact to our overall earnings.
+
+Turning to guidance. We now expect total adjusted operating expenses for 2021 excluding license fees and
+reflecting the impact of our joint venture to come in at approximately $1.5 billion, down about $30 million
+from our guidance at the start of the year. All other guidance remains unchanged.
+
+Finally, we are very pleased to say we achieved our planned $200 million in cumulative run rate expense
+synergies related to the NEX acquisition this quarter. Please refer to the last page of our executive
+commentary for additional financial highlights and details.
+We would like to now open the up the call for your questions. [Operator Instructions] Thank you.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] We'll go ahead and take our first question from Rich Repetto with Piper Sandler.
+
+Richard Henry Repetto
+Piper Sandler & Co., Research Division
+
+Thanks for the macro update because there's certainly a lot of things going on. But on the Bitcoin futures
+ETF, Terry, besides just industry validation, I think it was regulatory validation of both the CFTC and your
+regulatory regime you have for the product as well. So I guess my question is, what kind of precautions
+are you taking -- what I'm talking about is position limits basically to ensure that the role and -- is as
+efficient as possible? And we know there's some volume being generated by these ETF manufacturers.
+
+Terrence A. Duffy
+Chairman & CEO
+
+Rich, thank you. It's a great question. I appreciate you asking it. But the ETFs, as Sean stated in his
+comments, I think are very exciting for -- to be based off of CME futures. I think that in and of itself lends
+to the credibility of our product as a listed futures exchange and the regulation thereof.
+
+To get more directly to your question around position limits associated with it, they are an important
+component to any market when you have a highly regulated entity like CME. So the existing position
+limits in our Bitcoin futures today, as you may or may not know, is 2,000 for spot. And then we have
+accountability levels going back in the deferred months that are much larger than that. But the spot
+month will go to 4,000 in November, and we feel very confident from a risk perspective that we are not
+being reckless in any which way, shape or form, that this has been vetted to our entire team here and with
+the agency.
+
+So we've filed for those changes. We're confident that the product is mature enough now to increase the
+size of the limit. So again, we'll be careful here, Rich. This product, we launched in 2017, not 1917. So this
+is a newer product, a newer asset class, and we will be very, very cautious here. But again, we're excited
+by the uptake and the credibility associated with power shares and some of the other ETFs that decided to
+benchmark against our futures contract.
+
+Operator
+
+[Operator Instructions] We'll go ahead and take our next question from Dan Fannon with Jefferies.
+
+Daniel Thomas Fannon
+Jefferies LLC, Research Division
+
+I was hoping to get a little bit more color on expenses, John. So the implied guidance with the
+adjustments, I assume some pickup in the fourth quarter. Could you maybe explain a little bit just in
+terms of the ramp in the 4Q?
+
+But then given all the moving parts as we think about next year, I know it's a bit early. Maybe give us
+some framework to think about with the JV coming out, the synergies being realized and then the broader
+kind of inflationary pressures we're hearing across kind of the employment and other kind of cost factors
+to think about as we think about '22 and beyond.
+
+John William Pietrowicz
+Chief Financial Officer
+
+Yes. Thanks, Dan. Appreciate the question. So in terms of our expense guidance, we did reduce our
+expense guidance after you adjust for the OSTTRA joint venture by an additional $15 million. So we're
+about $30 million down from our original guidance at the start of the year.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+When you think about what we've done on the expense side, this entire CME team has done an excellent
+job managing our costs. We continue to have that as a strong focus. And to put kind of our expense
+management into perspective, after adjusting for the creation of OSTTRA, we're about $12 million down
+from last year's adjusted expenses and almost $100 million down below 2019 levels.
+
+When you look at our reduction of the $15 million, about half of that reduction reflects lower expected
+travel and in-person events. As you recall, at the beginning of the year, we had about $20 million we put
+in the back half of the year, assuming that we would be able to have additional travel. But as you can see,
+there's still limitations on travel, especially international travel. We have been seeing additional pickup
+in meetings, especially in Europe and London, in particular, but still, international travel is still a little bit
+tough.
+
+And the balance is really -- of our reduction in terms of our guidance is just excellent continued expense
+controls by the entire team, including careful hiring and careful use of contingent labor.
+
+When you take a look at 2020's fourth quarter and 2021's fourth quarter, yes, we do see a pickup in costs.
+The fourth quarter is traditionally our highest expense quarter. Historically, marketing and advertising
+spend tend to be highest in the fourth quarter along with higher project spending as we wind up the
+current year and prepare for the next year. The spending this year reflects that same pattern, and we
+anticipated a higher-than-normal proportion of spend when we built out our spending plans at the start of
+the year.
+
+We expect higher levels of spend in marketing and advertising, including targeting a portion of that spend
+on our successful micro products and in anticipation of a more open operating environment in 2022. We're
+also investing in system projects, including the migration of EBS and streaming services, which would lead
+to more technology-related costs.
+
+Also, our incentive compensation is anticipated to be higher in the fourth quarter of this year than the
+fourth quarter of last year. So those are some of the items which are causing the fourth quarter this year
+to be higher than the fourth quarter last year. But overall, for the entire year, some really impressive
+expense controls by the entire organization.
+
+So in terms of thinking about modeling for next year, we're going through the budgeting process now. So
+it's really too early to provide guidance. We are hopeful for a more normalized environment, which would
+be positive for our business.
+
+When looking at 2022, there are a couple of things to keep in mind. We did postpone salary increases in
+2021 for our staff, and we don't anticipate doing the same this year for 2021 -- I mean, sorry, for 2022.
+Also in an open business environment, which is obviously extremely fluid, we would anticipate increased
+travel, both regionally and globally, and more in-person events, which we would view as positive from a
+business perspective. But again, in November, it's a little tough to see that in 2022 yet. So we'll provide
+some additional guidance when we do our earnings in February.
+
+We are starting to see some of that open up, like I mentioned before, in Europe. We'll continue to invest
+in our systems and technology capabilities with an eye towards accelerating growth globally. It is our
+intention that we will continue our excellent expense management as we build out our plans for next year.
+So that should give you a little bit of a flavor in terms of 2022.
+
+Operator
+
+We'll go ahead and take our next question from Alex Blostein with Goldman Sachs.
+
+Alexander Blostein
+Goldman Sachs Group, Inc., Research Division
+
+I wanted to dig into market data a little bit. It's been flattish over the last 3 quarters. I think there were
+some pricing adjustments that should result in a slightly better near-term trends. So maybe kind of walk
+us through sort of what's been going on behind the scenes in market data and how you're thinking about
+growth in that business going forward.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+Julie Winkler
+Senior MD & Chief Commercial Officer
+
+Sure. Thanks for the question, Alex. The data business has really been quite stable, as you point out. So
+this quarter coming in at 145 million, we were up 4% where we were in Q3 of 2020. So the number of
+professional subscribers that we're seeing for our real-time business, which is the bulk of the revenue, has
+been steady. And the price increase that we saw, $5 per user, has been realized. The big difference that
+we saw between Q2 and Q3 results were really audit findings were down about $2 million, which, again, is
+quite difficult to forecast and ones that is really just the timing of audits that we have underway with our
+clients.
+
+So Sean had mentioned, too, at the beginning of the call, right, a lot of the focus for the team, particularly
+the data sales team has been on the term SOFR rate. We've got a tremendous amount of client
+engagement going on there with 100 licenses already done within the last quarter and 300 more in
+the queue. We are also continuing to see great uptake of those nondisplay policies and pricing that we
+introduced at the beginning of the year as well as our derived business performing very strongly. And
+lastly, just continue to see adoption of our cloud offering with Google on SmartStream. So I think the
+growth is still there. It's just -- again, the real difference in Q3 was based on the audit.
+
+Operator
+
+We can go ahead and take our next question from Ken Worthington with JPMorgan.
+
+Kenneth Brooks Worthington
+JPMorgan Chase & Co, Research Division
+
+I wanted to ask about open interest in the aggregate. Open interest is still hovering around 100 million
+contracts, more or less, and it's been anchored there for a little while. And CME has been highlighting all
+these great things that have been happening. We've got a ton of innovation, OI building SOFR, the build-
+out of the micro products, the strength in energy. And in the macro, you've seen some rate movements
+at the 10-year in anticipation of higher rates at the short end of the curve and the commodity super cycle
+and the huge debt issuance you guys have highlighted. When do you think CME will start to see all these
+good things start to flow into the open interest growth? What's the outlook? When does the good translate
+into OI?
+
+Terrence A. Duffy
+Chairman & CEO
+
+Alex, it's Terry -- or it's Ken, I'm sorry. Ken, it's Terry Duffy. I'm going to let Sean comment, maybe Sunil,
+as well, but let me give you a broad comment here.
+
+The open interest of 100 million to 109 million contracts open, which I think is what you're referring to,
+the trend over the last several -- probably a year or so since we came off of the high of 150 million, a lot
+of it is reflected in the interest rate business. We're going through a massive transition, as Sean pointed
+out earlier, from LIBOR to something else we suspect as SOFR, and people are trying to adjust associated
+with that. We're also seeing the low vol still that's -- even though we've seen an uptick in some of the
+things that you're referencing, the volatility is still significantly lower not only in interest rates but FX. I'm
+talking from a historical standpoint.
+
+That is changing. You're correct in your comments. The question is when does it reflect in open interest.
+We believe there is open -- the participants are in there, participating. But you got to remember, our open
+interest today is a little bit different than it was just a couple of years ago. We didn't have weekly options
+on a lot of these products. We didn't have some of the expirations constantly coming on and off. So people
+are taking exposures for projected periods of time, might be days versus quarters like it was historically.
+So we're seeing people manage their risk in a little bit different way, and I think that's reflective of the
+open interest as well.
+
+So I think those are all a lot of factors going into it, fundamental being the main one, but a lot of it is
+some of the products, the way we offer people to manage risk right now, which I don't see that as a
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+bad problem. I see that as a good problem because open interest, we don't get paid for. We get paid for
+transactions. And the way we're structuring it now, I think that's a much more powerful offering.
+
+But the open interest is a reflection of future trade. We've always said it to people, and we still believe in
+that. But at the same time, we're seeing people participate in the market because of what I just outlined
+a moment ago with options and other products to transition from 1 rate to another, the fundamentals and
+foreign exchange being extremely quiet. And we're also seeing massive directional changes in energy. As
+Derek pointed out earlier, we went from just 1.5 years ago to minus $37.50 to $84 a barrel. So you think
+about the massive directional participation in the marketplace has been truly one way, and a lot of people
+just don't believe that you can go from minus $37 a barrel to $84 a barrel in 1.5 years.
+
+So I think it's just an adjustment to the world that we live in today and people will, again, participate in
+holding more and more open interest. But right now, I don't see it as a bad problem because of what we --
+what I just outlined. And I'll ask Sean to comment more.
+
+Sean P. Tully
+Senior MD and Global Head of Financial & OTC Products
+
+Yes. Thank you, Terry. And thank you, Ken, for the question. Just very briefly in terms of the numbers.
+Year-over-year, the open interest, interest rate is up 14%. In equities, it's up 13%. In foreign exchange,
+it's up 22%. So a very strong year-over-year growth.
+
+In addition to that, another number we track very closely is the number of large open interest holders as
+reported by the CFTC. If you look at the second quarter of this year, and if you look across the financials
+products, rates, equities and foreign exchange, the average large open interest holder number across the
+second quarter was an all-time record high for the combined 3 asset classes.
+
+If you look at the third quarter, we beat the second quarter. So I've had 2 back-to-back all-time record
+numbers of large open interest holders on average. If you look at our interest rates business, the most
+recent numbers from the CFTC indicate the rates business is just 1% below its all-time high in large open
+interest holders, and the foreign exchange business similarly is just a couple of percentage points below
+its all-time high. But I think, overall, the marketplace is extremely healthy and doing well. I don't know
+if...
+
+Terrence A. Duffy
+Chairman & CEO
+
+Well, yes, I don't want to think we're dodging the question because I think your question, Ken, is based
+on 150 million OI, which was a record open interest several years ago. So I think what Sean is giving you
+is coming off of a different base, obviously. So we don't want to be disingenuous either, but they are what
+they are. We've gone through a lot here in the last couple of years with pandemic's uncertainty. People are
+not sure how they're going to manage risk, but I think we're starting to see a return to that. And Sean's
+numbers are reflective of that. And I think that's what's positive as far as the open interest story goes.
+
+Operator
+
+We'll take our next question from Chris Allen with Compass Point.
+
+Christopher John Allen
+Compass Point Research & Trading, LLC, Research Division
+
+I was hoping you can give a little bit more color on OSTTRA just in terms of maybe what were the
+revenues that were included in the P&L for 3Q, i.e., before separations in September. And also, what were
+the year-to-date expenses, if you can kind of think about what's kind of the adjusted starting point as we
+kind of contemplate for next year?
+
+John William Pietrowicz
+Chief Financial Officer
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+Yes. Thanks for the question. This is John. So yes, we're very excited about the launch of OSTTRA. We
+think it's going to be very positive for our customers. It'll -- we'll be able to offer them new and innovative
+products, improved workflow and analytics. And also, we're going to be well positioned to really support
+the global banks, in particular.
+
+So very excited about OSTTRA. We've, like I said, launched it in early September. We've got an integration
+plan that is being executed right now. And so far, we've been very pleased with the leadership there and
+working with our partners at IHS Markit.
+
+So in terms of -- I'm going to break down in more detail the impacts for the month of September and --
+which will be helpful. And then we could talk a little bit about what it looks like kind of going forward.
+
+So in terms of revenue, like I said in my prepared remarks, it was about $22 million in revenue for the
+month of September we would have booked had we not launched OSTTRA.
+
+Of that $7 million is in transaction fees and $15 million is in the other revenue line. From an expense
+perspective, it was about $11 million for the month of September. About $7 million of that was in
+compensation, and the rest was split between technology, other and pro fees.
+
+In the equity and earnings section, equity and net earnings of unconsolidated subsidiaries was $8 million
+in that line. Now that $8 million is net of tax. And then we had $1 million in the other line in that section of
+our income statement. Obviously, when we had the company before the formation of OSTTRA, you'd have
+the tax effect, the $11 million in operating income. So when you net all that out, it's really no impact for
+the month of -- for September.
+
+Now looking at the expense level, the expense levels have been very constant in the $11 million range. So
+there's very little in the way of volatility over the last several quarters. So $11 million per month is a good
+run rate.
+
+And then when you look at the revenue, it -- if you looked at it for a full quarter, if you took the $22
+million, multiply it by 3 to give yourself a quarterly -- quarterly amount of $66 million. If you look over the
+last several quarters, the revenue has been in the $64 million to $66 million range per quarter.
+
+So those are -- those would be the numbers that I would work with in terms of run rates.
+
+Operator
+
+And we'll take our next question from Owen Lau with Oppenheimer.
+
+Kwun Sum Lau
+Oppenheimer & Co. Inc., Research Division
+
+So the volume of Bitcoin futures has been very strong. OI has been increasing but there will be more
+Bitcoin futures trading venues coming up. Could you please remind us the value proposition of CME Bitcoin
+futures franchise and why ETF and other institutional investors will continue to go to CME instead of other
+trading venues?
+
+Sean P. Tully
+Senior MD and Global Head of Financial & OTC Products
+
+Sure. This is Sean jumping in. Thank you for the question. You may recall, it was back in 2017 that
+CME Group devised its new Bitcoin reference rate, which has become an essential reference rate for the
+industry. We also created a reference rate for Ether. So these reference rates are highly used by the world
+now, and again, were created by CME in conjunction with partners. So that's one of the unique value
+propositions.
+
+In addition to that, we offer, as you know, asset classes across the spectrum, across the entire
+commodities spectrum, across the entire financial spectrum, across equities, rates and foreign exchange.
+So I think the combination of all of the products that we offer is enormous. In addition to that, we are
+highly regulated. We are highly transparent and we have an enormous distribution out to our partners.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+CME Group, you, I'm sure, know, has a 170-year history of being the most reliable exchange in the United
+States to offer partners. So I hope that, that helps to understand some of the value propositions.
+
+Terrence A. Duffy
+Chairman & CEO
+
+Well, let me just add to what Sean said, because I think it is important. You referenced the reference
+rates, and Julie Winkler and her team constantly are looking at different ways to bring value to the
+company. And this is just another example, and maybe to further note a prior question that you don't
+have to have transactable ideas in order to generate revenue in the future, and these reference rates are
+something that have been very, very helpful for CME going forward.
+
+And as Sean touched on, what I think is really important to highlight, is derivatory aspect of CME's
+business, especially its crypto offering. You can imagine there's many people that are now more and more
+every day looking for some form of exposure as cryptos are becoming more and more acceptable. The --
+maybe the problem with that would be also the appreciation of the price of the product. People are maybe
+a little bit more concerned about where they go to get that risk, and they want to make sure they're at
+a regulated platform. Another reason the credibility of having a highly regulated platform is a benefit not
+only to our crypto franchise but the entire CME Group. Sunil?
+
+Sunil Cutinho
+President of CME Clearing
+
+One thing we want to add is that we have a very strong record of risk management, especially for both
+Bitcoin and Ether, and we manage that through extreme periods of volatility seen even early this year.
+So we -- this is true with every product that we bring to the market. We have a strong risk management
+experience, and Sean pointed that out. We have over 100 years' experience clearing product.
+
+Operator
+
+We'll take our next question from Kyle Voigt with KBW.
+
+Kyle Kenneth Voigt
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+So you spoke a bit about the LIBOR transition and the record activity in SOFR trading. But Terry, it
+sounded a bit like the transition might be negatively impacting short-end interest rate open interest at the
+moment. So I guess I'm just wondering, as the transition continues over the next couple of years, do you
+expect this to be a headwind to OI or volume over that period of time? Or is this kind of just a near-term
+impact?
+
+And the second part of that question, maybe for John. Do you expect any impact on net fee capture to
+your short-end complex through the transition to SOFR? And maybe you could talk about if there are any
+fee holidays or incentives in place for SOFR trading at the moment and how long those will last?
+
+Terrence A. Duffy
+Chairman & CEO
+
+So Kyle, I think there was about 3 or 4 questions embedded in your question between open interest cost
+incentive plan. So let me pass to Sean to touch on a few of those. John and then I will also give you my
+opinion.
+
+Sean P. Tully
+Senior MD and Global Head of Financial & OTC Products
+
+Yes. So thank you, Kyle. Right now with huge growth in our SOFR futures and, as I said, we're also seeing
+enormous growth in our Eurodollar futures and option, so we're seeing both marketplaces grow in parallel
+side by side. So that's actually a very exciting development. As you go into the next couple of years, that
+will also increase, and we expect to see an increase in the spread trading between the Eurodollars and the
+SOFR futures.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+In addition to that, you may recall we launched BSBY futures, not too long ago, where we're also doing
+about 7,000 to 8,000 contracts a day depending upon the time frame. So the transition of the short-term
+interest rate business to a new rate, whether it is the BSBY or the term SOFR or SOFR, is actually a very
+positive thing in regards to the intercommodities trading between -- or the spread trading between the
+different instruments. So that's actually a very positive development. I also remarked earlier that we've
+seen enormous growth in the SOFR-linked products, again, with an ADV of more than 1.6 million contracts
+a day in the third quarter. So that's growing very strongly.
+
+In terms of incentives, yes, we have had incentives, as anyone who follows us closely knows, whenever
+we start a market. And so we have had significant incentives in our SOFR futures over the recent quarters.
+The good news there is that means that that's already priced into our revenues to a large extent. So
+we will expect to continue those incentives for a period of time. But as you can imagine, as we have
+with all of our products, you know the history, I'm sure, of our Bitcoin futures and how we've reduced
+incentives there, our Micro E-minis and how we reduced incentives there and how those RPCs grew pretty
+dramatically once those marketplaces got up and running.
+
+So we would expect that as we get greater adoption of SOFR relative to Eurodollars, that the incentives
+in SOFR would decline on a relative basis. So again, we're already spending a lot of money on incentives.
+That's already baked in, in the last 12 months. And yes, we will continue to have some incentive spend,
+but I don't expect any kind of a significant increase.
+
+Terrence A. Duffy
+Chairman & CEO
+
+John?
+
+John William Pietrowicz
+Chief Financial Officer
+
+Yes. Thanks, Kyle. And just to echo what Sean said, I think over time, the -- we believe that with the
+value proposition that we have, and we're already seeing significant amount of trading happening in
+Eurodollars post the transition dates. So I think our clients are very comfortable with our -- with the
+conversion program that we got in place and in the fallbacks we've got set up. So very, very excited about
+the -- where -- what the team has done in terms of preparing us for the transition. I think they've done a
+remarkable job in working closely with our clients to ensure that, that happens in a very orderly fashion.
+
+In terms of fees, Sean's right, we do have some market maker programs in place. It's embedded in the
+revenue that we've got right now. Over time, we would view SOFR being treated just like the rest of our
+short-term interest rate products. So I don't see there being any unusual headwinds because of SOFR
+versus any of our other short-term incentive products. And this is something that we, as a team, Julie,
+Sean, myself and Derek and others, we look at our pricing all the time to ensure that we are pricing our
+products appropriately to maximize our top line and to create as much liquidity as we can across our
+platform 24 hours a day.
+
+Terrence A. Duffy
+Chairman & CEO
+
+So Kyle, let me just wrap it up by saying it's really fascinating to me that when you look at the trillions
+of dollars that is benchmarked to LIBOR today, and we are asking the world to transition in a very short
+period of time into something else, you can imagine, just use an example, look at the automobile industry.
+We're going to convert that, but we're talking about a 30-year conversion possibly. We're talking about --
+in just a couple of years, we're going to convert trillions of dollars of assets benchmarked to LIBOR into
+something else, which we believe we're in the strongest position of anybody to capture that risk offset.
+And that is with the products that Sean outlined.
+
+Now that will not be just a measure of open interest. It will be a measure of many things as we go through
+this transition. To me, this might be the most exciting time in the history of interest rate trading that I've
+ever seen in my 41 years here at the CME. So to me, I'm very optimistic about it, but I will not judge it on
+open interest alone. I won't judge it on one particular issue alone. There's many factors that are going to
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+go into this. And Sean outlined some of the things that we have right now, not only on incentives, but with
+the BSBY product, with Bloomberg, with the short-term SOFR rate and with the SOFR futures and options,
+we think we're in a really strong position. And one of the benchmarks is open interest, and just Sean gave
+it to you, we are the leader in that one by a long shot. So I'm very pleased with this transition.
+
+Operator
+
+[Operator Instructions] We'll go ahead and take our next question from Brian Bedell with Deutsche Bank.
+
+Brian Bertram Bedell
+Deutsche Bank AG, Research Division
+
+Just want to go back to the micro size contracts and retail participation broadly. I think a while back, it
+was -- I think retail generated low double-digit percentage of revenue. I just wanted to see if there was
+an update on that and maybe how that's trended over the last couple of years since the creation of all the
+micro size contracts.
+
+And then I would imagine ETFs are considered an institutional customer given that who's actually trading.
+But I don't know if you would put ETF usage on the underlying futures as part of retail or maybe if you
+could talk about it on a pro forma basis, I guess, if that's possible; and then just how you think broadly
+about that success in launching more micro contracts across the franchise.
+
+Terrence A. Duffy
+Chairman & CEO
+
+Yes, it's a great question, Brian. Let me ask Julie Winkler to make a few comments on that, and the rest of
+the team may play in as well. So Julie, go ahead.
+
+Julie Winkler
+Senior MD & Chief Commercial Officer
+
+Yes. Thanks, Ryan. No, you are correct. Retail is a single-digit contribution from a customer segmentation
+standpoint. So still a very -- we're on path for a very strong year in retail. It's looking to be the second
+highest revenue year on record for us. I think the participation there is definitely strongest in the equity
+suite of those micro products. And performance was a bit subdued through some of the quarter until
+volatility started to pick up a little bit in kind of mid-September. And since then, we've definitely seen
+further uptick in the business.
+
+But it kind of also speaks to just the diversity of our suite, right? So the retail adoption of things like our
+agricultural products has never been stronger than what we've seen this year. So ag revenue for retail in
+APAC was up 86%; North American, up 30%. So overall participation to this is very, very strong. We're on
+pace to about 375,000 traders in our markets this year, likely only surpassed by where we ended last year,
+which was a record year.
+
+And we talked quite a bit as well about the new client acquisition in the space. That has been strong as
+well. We've brought on 134,000 new retail traders and really looking -- specifically, when we looked at
+June, July and August, in 2021, we outpaced those levels that we saw in 2020 during those exact same
+months. How we're doing that continues to be the same thing that we've talked about before. It's really
+about driving that retail traffic to our digital properties there. We saw that activity more than double from
+where we were last year. And also just the interest in our educational materials, we've had about 1 million
+retail traders visit those properties through Q3, which is great.
+
+And our partnership, those global broker partners that we have, the educational, the outreach efforts that
+they make a huge part of this. In Asia alone, our broker partners have reached about 1.7 million active
+traders year-to-date. And we've seen our digital educational events activities up over 178%. So I think it's
+that continued focus on really that retail go-to-market that has kept the activity very strong. Do you want
+to add anything?
+
+Sean P. Tully
+Senior MD and Global Head of Financial & OTC Products
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+Yes. No, I don't think I have much to add, right? We've seen very -- we've got good growth in our Micro
+Treasury yields, futures doing about 8,000 a day. Our Micro E-minis month-to-date doing about 2.4 million
+a day. So nothing really to add.
+
+Terrence A. Duffy
+Chairman & CEO
+
+Brian, did that kind of address all your concerns?
+
+Brian Bertram Bedell
+Deutsche Bank AG, Research Division
+
+Yes, just on ETFs, those are considered institutional, I assume, right? Or is there any way to think about
+it?
+
+Julie Winkler
+Senior MD & Chief Commercial Officer
+
+Yes.
+
+Brian Bertram Bedell
+Deutsche Bank AG, Research Division
+
+Just with the Bitcoin usage on the ETFs, I'm thinking you might get more retail participation de facto in
+that as well. I don't know if there's any way to pro forma that.
+
+Terrence A. Duffy
+Chairman & CEO
+
+We wouldn't get more retail participation from that, Brian. You're correct. They are institutionally driven
+products, the ETFs. But the more liquidity that's pumped into the system by the institutional players
+always attracts the retail participants and, conversely, the same way the larger pool of retail participants
+can attract institutional participants. So we see it going both ways, and we see this as an example of that.
+So hopefully that answers your question, but I think you're right on. Sean?
+
+Sean P. Tully
+Senior MD and Global Head of Financial & OTC Products
+
+And maybe one additional comment. In terms of the Micro Bitcoin futures, we are seeing huge growth on
+the back of the ETFs, so greater interest in our Micro Bitcoin futures. So month-to-date, more than 27,000
+contracts. Average daily volume's significantly up from the year-to-date of 21,000, as I mentioned earlier,
+and open interest now at over 65,000 contracts in our Micro Bitcoin. So we've seen enormous growth in
+our micro products, not just our institutional Bitcoin futures post the ETF launch.
+
+Terrence A. Duffy
+Chairman & CEO
+
+So not to counter my colleague because it's not the proper thing to do on an earnings call, but I also
+would attribute a lot of that to fundamentals in the marketplace. We also know crypto made an all-time
+high last week of 60-plus-some-odd thousand, which could be driving some of those micro retail numbers.
+But we do believe, as I said earlier, they work in unison together to bring more volume on both sides.
+
+Operator
+
+We'll take our next question from Michael Cyprys with Morgan Stanley.
+
+Michael J. Cyprys
+Morgan Stanley, Research Division
+
+I was hoping you could update us on your ESG and sustainability products. What sort of traction and use
+cases are you seeing there? And maybe you could talk a little bit about the new product road map, what
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+that looks like. And if you could also elaborate on the new sustainable clearing services that I think you
+launched and made available in September.
+
+Terrence A. Duffy
+Chairman & CEO
+
+Both great questions. I'm going to ask Derek to touch on the product side, and I'll ask Sunil to touch on
+the clearing side. So Derek?
+
+Derek Sammann
+Senior MD and Global Head of Commodities & Options Products
+
+Yes. So appreciate the question, Michael. So I think probably the easiest way to start in our material that
+we precirculated on Slide 4, you'll notice some very detailed comments about some of the products that
+we've launched and what those mean to our franchise, specifically on the environmental product side. As
+you know, we've launched in August, our nature-based GEO contracts. GEO is the global emissions offset
+contracts, that complements the GEO contracts we launched earlier this year. And we continue to see
+significant traction there, not just in terms of the traded volumes but, more importantly, the open interest
+that we're accruing and then the deliveries that we're seeing of these contracts as well.
+
+So since launch, we've actually now seen a peak -- we hit a peak open interest record of just over 10,000
+contracts on December 21. We hit a new record just on Friday. And what's important about that is while
+these contracts are now seen record open interest terms, we're also seeing record amounts of physical
+deliveries of these offset certificates as well. So we've now facilitated the physical delivery of 146,000
+offset credits across 4 separate delivery cycles.
+
+And just to put that into context for what that means for customers that are taking delivery of these
+certificates, that's the equivalent of 146 million metric tons of CO2 equivalent. So this is a market that
+started really about 2 years ago. We partnered exclusively, as we shared with you on previous calls, with
+CBL expanse of the largest spot platform in the voluntary offset market in the carbon markets. And we
+now are delivering record amounts of volume through the platform and delivery of these certificates
+through 4 delivery cycles. We'll have another one this week.
+
+So this is a new market. We just launched our nature-based contracts in August of this year. So that's
+pretty significant traction early on. There is a lot that's expected out of this conference in Glasgow, COP26.
+And as we continue to work with the markets and connect where we are now on the global basis of where
+these kind of go, it's a complement to the work that we've already done and continue to do on the equity
+side where we host the world's largest ESG contract by nominal value, our S&P 500 ESG Index futures,
+which has seen open interest above $4 billion notional value, which is pretty significant.
+
+So when you look at the space, whether it's on the environmental product side, the traction that we're
+seeing in a market that we are at the cutting edge of developing on the voluntary carbon market side
+or how we're servicing the needs of customers that are looking for ESG-compliant investment vehicles,
+we're leaders in both of those spaces. So we're happy with our positioning. We feel like we've chosen good
+partners. And I think the market, as it adapts to a new world of carbon neutrality, we feel like we're in a
+strong position there with the success we've already had.
+
+Terrence A. Duffy
+Chairman & CEO
+
+Thanks, Derek. Sunil, on that clearing?
+
+Sunil Cutinho
+President of CME Clearing
+
+Yes. So thank you, Terry. So on sustainable clearing, we've seen a keen interest from our clients to
+actually track their hedges. They use our entire complement of products, not just what Derek went
+through, but they also use our interest rate and FX and equity products to hedge their exposure. So
+what is important for these clients is to track their activity used to hedge their green investments as an
+example. And we -- in clearing, we provide them a mechanism to actually track those exposures and
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+report on them. This is a novel service. We have just started with a group of clients, and we look to
+expand it to our product line.
+
+Terrence A. Duffy
+Chairman & CEO
+
+Hopefully that gave you a little bit of color on that, Michael.
+
+Operator
+
+And we'll take our last question from Simon Clinch with Atlanta Equity.
+
+It appears there are no further questions at this time. I would like to turn the conference back over to
+management for additional or closing remarks.
+
+Terrence A. Duffy
+Chairman & CEO
+
+Okay. Well, we thank you, all, very much for taking time out of your busy schedules. Once again, we wish
+that you and your families stay safe and healthy during these very difficult days that we're all dealing with,
+and we look forward to talking to you next quarter. Thank you.
+
+Operator
+This concludes today's call. Thank you, all, for your participation. You may now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+CME GROUP INC. FQ3 2021 EARNINGS CALL |  OCT 27, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+

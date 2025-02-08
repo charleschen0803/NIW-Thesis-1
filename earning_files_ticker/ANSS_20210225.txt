@@ -1,0 +1,1179 @@
+ANSYS, Inc. NasdaqGS:ANSS
+FQ4 2020 Earnings Call Transcripts
+Thursday, February 25, 2021 1:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2020-
+
+-FQ1 2021-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+2.55
+
+2.96
+
+16.08
+
+0.96
+
+6.25
+
+6.70
+
+7.20
+
+7.10
+
+567.65
+
+627.77
+
+10.59
+
+356.54
+
+1633.34
+
+1695.50
+
+3.81
+
+1861.85
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Feb-25-2021 11:10 AM GMT
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.79
+
+1.16
+
+1.26
+
+2.55
+
+0.83
+
+1.55
+
+1.36
+
+2.96
+
+5.06 %
+
+33.62 %
+
+7.94 %
+
+16.08 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Ajei S. Gopal
+President, CEO & Director
+
+Annette N. Arribas
+Global Investor Relations &
+Insurance Officer
+
+Maria T. Shields
+CFO and Senior VP of Finance &
+Administration
+
+Nicole Anasenes
+Senior Vice President
+
+ANALYSTS
+
+Gal Munda
+Joh. Berenberg, Gossler & Co. KG,
+Research Division
+
+Hoi-Fung Wong
+Guggenheim Securities, LLC,
+Research Division
+
+Jackson Edmund Ader
+JPMorgan Chase & Co, Research
+Division
+
+Jay Vleeschhouwer
+Griffin Securities, Inc., Research
+Division
+
+John Fred Walsh
+Crédit Suisse AG, Research
+Division
+
+Joseph D. Vruwink
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Matthew John Swanson
+RBC Capital Markets, Research
+Division
+
+Richard Frank Valera
+Needham & Company, LLC,
+Research Division
+
+Tyler Maverick Radke
+Citigroup Inc., Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+Presentation
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to ANSYS Fourth Quarter 2020 Earnings
+Conference Call. With us today are Ajei Gopal, Chief Executive Officer; Maria Shields, SVP and Chief
+Financial Officer; Nicole Anasenes, Senior Vice President; Annette Arribas, Senior Director, Global Investor
+Relations.
+
+At this time, I'd like to turn the conference call over to Ms. Arribas for some opening remarks. Ma'am, you
+may begin.
+
+Annette N. Arribas
+Global Investor Relations & Insurance Officer
+
+Good morning, everyone. Our earnings release, the related prepared remarks document and the link to
+our fiscal year 2020 Form 10-K have all been posted on the homepage of our Investor Relations website.
+They contain the key financial information and supporting data relative to our fourth quarter and full year
+2020 financial results and business update as well as our initial Q1 and fiscal year 2021 outlook and the
+key underlying qualitative and quantitative assumptions.
+
+I would like to remind everyone that in addition to any risks and uncertainties that we highlight during
+the course of this call, important factors that may affect our future results are discussed at length in
+our public filings with the SEC, all of which are also available via our website. We note that the impacts
+of the COVID-19 pandemic on our performance could cause actual results to differ materially from our
+projections. Additionally, the company's reported results should not be considered an indication of future
+performance as there are risks and uncertainties that could impact our business in the future. These
+statements are based upon our view of the business as of today, and ANSYS undertakes no obligation to
+update any such information.
+
+During this call and in the prepared remarks, we'll be referring to non-GAAP financial measures unless
+otherwise stated. A discussion of the various items that are excluded and a full reconciliation of GAAP to
+the comparable non-GAAP financial measures is included in this morning's earnings release materials and
+related Form 8-K.
+
+Before I turn the call over to Ajei, I would like to let everybody know that we are continuing to make
+progress towards our environmental, social and governance road map. Earlier this year, we published
+our first product handprint use case focused on electric vehicles, illustrating how ANSYS Solutions play a
+critical role in solving many of the industry's challenges.
+
+Additionally, we published our nonfinancial materiality assessment, which will guide our ESG strategy as
+well as a human capital infographic highlighting key aspects of our ANSYS culture and talent management.
+All of this information is available in the sustainability section of our Investor Relations website.
+
+I would now like to turn the call over to our CEO, Ajei Gopal, for his opening remarks. Ajei?
+
+Ajei S. Gopal
+President, CEO & Director
+
+Good morning, everyone, and thank you for joining us. Q4 was another excellent quarter for ANSYS,
+capping off the most successful year in our 50-year history. We beat our financial guidance for the quarter
+across all key metrics, including revenue, ACV, earnings per share and cash flow.
+
+Q4 saw stronger-than-expected sales activity, which we believe was driven by a combination of deferred
+customer spending from earlier quarters, greater-than-expected end of year customer budgets in the
+Americas and in EMEA, coupled with increased albeit cautious optimism in the economy, thanks to the
+emergence of COVID-19 vaccines and expected government stimulus activities.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+During Q4, we closed nearly 100 deals over $1 million, a total that includes 8 deals in the 8 figures. One of
+those agreements was the second largest deal in the history of the company, a 5-year $79 million contract
+with an enterprise customer. While economic conditions forces global company to reduce expenses across
+the business, it's renewed and expanded its use of ANSYS core solver technology worldwide. And added
+newly acquired ANSYS technologies, including electronics reliability and dynamic analysis. This contract
+reflects the customer's long-term decision to standardize on ANSYS technology over other vendors and to
+reduce its reliance on physical testing and is a testament to ANSYS' market leadership.
+
+As we have consistently said, our years have become increasingly back-end loaded due primarily to the
+timing of large deals. This steady progression has allowed us sales and operations teams to support
+an increasingly higher magnitude of business in the fourth quarter of each year. Our strong q4 2020
+execution drove record quarterly ACV which was over $100 million higher than the previous largest
+quarter in Q4 of 2019. The strength and volume of business that we closed in Q4 resulted in annual ACV
+growth of almost 10% in constant currency
+
+The year developed largely as we had predicted in our May 2020 call with regards to our performance by
+industry, geography and company size. During the year, we exceeded our expectations with enterprise
+customers including closing the 3 largest deals in our history. That speaks to the importance of ANSYS'
+integrated multiphysics simulation capabilities that connect all the major physics as well as to the trusted
+partnerships that we have built with our enterprise customers.
+
+Moving to products. We advanced our strategy of Pervasive Simulation with our recent delivery of
+ANSYS 2021 release 1 to our customers. With R1, engineers can harness the advances in simulation
+technology, together with ever-increasing computing power to drive new levels of product innovation.
+This comprehensive release features advances across our entire integrated multiphysics portfolio and
+our simulation platform, including in ANSYS Cloud, where customers can now scale beyond 1,000 cores
+for a single job. In ANSYS Discovery, which now includes automated thermal analysis to predict fluid
+and solid thermal behaviors for electronic cooling and heat management devices. And ANSYS Sherlock,
+where customers can now incorporate ANSYS Mechanical's random vibration analysis into their design for
+reliability workflow, thereby improving product reliability and lifetime.
+
+Another key element of R1 is ANSYS HFSS Mesh Fusion. This breakthrough solution simplifies the
+development of modern electronic products, which are incredibly complex systems consisting of multiple
+interacting components. Today, engineers can analyze these systems using 1 of 2 suboptimal techniques,
+either individual component simulation with manual combination, which can be error prone or a one-
+size-fits-all approach, which can result in long simulation time. Using ANSYS HFSS Mesh Fusions game-
+changing technology, an engineer can solve each component at a level of fidelity most relevant for that
+component and then HFSS automatically fuses the results. This virtually eradicates the costs and the risks
+of traditional methods, enabling engineers to efficiently design and optimize complex products. Samsung
+Electronics is using HFSS Mesh Fusion to create optimal designs and to shrink design cycle times and costs
+for its next-generation flat screen televisions. The electronics giant uses this innovative technology to
+develop advanced designs that were previously unimaginable.
+
+Moving to M&A. In Q4, we closed our acquisition of Analytical Graphics, Inc., or AGI. With AGI, we
+will be able to address a broader market called digital mission engineering, which combines mission
+simulation and analysis from AGI with component and system-level simulation from ANSYS. Based on
+a third-party market analysis and primary interviews with industry experts, we believe that the AGI
+acquisition increases ANSYS' total addressable market by $800 million. That market is being fueled by the
+replacement of open-source code, unsustainable in-house code and the ongoing growth in the number of
+missions.
+
+Our combined portfolio will enable customers to simulate up and down the stack starting at the chip level
+and going all the way up to customers' entire mission, increasing the likelihood of success and saving
+them time, money and other crucial resources.
+
+This week, we announced a relationship with Keysight, which connects AGI's mission analysis software
+with Keysight's high fidelity RS systems modeling capability. This partnership builds on an existing
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+relationship, which empowers engineers to evaluate mission level behavior and is a key enabler for
+aerospace applications, amongst others.
+
+PTC, another partner, continues to see success with its OEM of ANSYS technology. In its most recent
+earnings call, PTC reported that Creo powered by ANSYS products grew bookings by more than 20% in the
+quarter. The company highlighted one such deal at Shock linger, which added Creo simulation live to help
+spark innovation and decrease product development cycle times.
+
+As we look ahead to 2021, I'd like to reflect on the COVID-19 pandemic and put it in context of the ANSYS
+business. COVID had an adverse impact on our 2020 results, most pronounced in Q2 and Q3 with some
+customers choosing to be cautious with their spending. However, our strong execution in the back half of
+the year, including the record Q4 performance, resulted in ACV above the high end of our updated May
+guidance and within the originally established range for the year. We are seeing a continuation of Q4's
+cautious optimism in our customer base with the expectation that the economic pressures of the pandemic
+will start to ease in the second half of 2021, but tempered by concerns with virus mutations and vaccine
+rollout schedules.
+
+The takeaway is that we're assuming greater uncertainty in the timing of sales activities than we would
+have, had this been a non-COVID year. We are also planning for 2021 to be heavily back-end loaded.
+Similar to or even slightly more pronounced in 2020. And we expect a wider range of outcomes in our full
+year projections as was the case in 2020. You will hear more about our guidance for 2021 shortly.
+
+Let me now move to the long-term to when the pandemic is behind us. While we are not in a position
+to quantify these considerations, I believe that some customers will cut back during the pandemic, will
+increase spending in R&D and simulation to compensate for other investments in 2020. More important,
+however, I believe that we will see a number of tailwinds that serve to increase the post pandemic market
+growth rates as compared with our pre-pandemic projections.
+
+First, in a recent survey of nearly 900 executives and managers across industries, the firm McKinsey
+found the pandemic may have accelerated digital transformation by as much as a decade. I believe this
+is particularly relevant for our customers and that they will hasten their digital transformations post-
+pandemic. In the process driving increased and deeper use of simulation.
+
+The pandemic proved that R&D engineers are effective when working from home. And that they can use
+simulation to successfully develop products even with no access to their physical labs. As companies move
+to hybrid work models post pandemic, they must accelerate their digital transformations to replace legacy
+product development processes with modern tools and techniques. Multiphysics simulation with its core
+value proposition of helping to accelerate time to market and to deliver cost savings will be key to these
+transformations.
+
+Next, the pandemic seems to have pushed customers to accelerate roadmaps and to innovate faster in
+areas such as telecommunications and consumer electronics. We are also seeing increased R&D in the
+creation of eco-friendly products such as electric vehicles and lightweight, fuel-efficient aircraft engines,
+as we discussed in our last earnings call. All of these products are sophisticated and complex and require
+integrated multiphysics simulation for design and development. That will continue to drive increased post-
+pandemic demand across our entire portfolio, including our newly acquired AGI mission offerings.
+
+To summarize, despite the disruptions caused by the pandemic, Q4 was an outstanding quarter, marked
+by record financial results. Looking long term, we believe that the pandemic may actually cause our total
+addressable market to go faster than our pre-pandemic projections. This makes me confident that as the
+market leader, ANSYS will be able to continue to drive strong and profitable long-term growth.
+
+Our next speaker is Maria Shields. As you may know, Maria has been our CFO since 1998. And for those
+of you counting, that's 90 quarterly earnings calls. She's been instrumental in guiding ANSYS on a
+remarkable journey from our initial public offering in 1996 to our status today as a simulation industry
+leader. And it's very fitting that we have delivered record results in her last full quarter as CFO. On March
+1, she will transition into a new role of Senior Vice President of Administration, where she will focus on
+company culture, talent and technology to help us operate at even greater efficiencies.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+Former board member, Nicole Anasenes will succeed Maria as CFO on March 1. With her experience in the
+tech sector as well as the knowledge of ANSYS, Nicole has hit the ground running since joining ANSYS full-
+time in December. In addition to the traditional CFO responsibilities, Nicole will directly oversee our M&A
+function as well as ANSYS' digital transformation. Nicole was CFO and COO at Squarespace, she was CFO
+at Infor, and spent 17 years with IBM in various leadership positions in finance, mergers and acquisitions
+and market development including as CFO of IBM's software middleware business and its cloud business.
+
+I'll now turn the call over to Maria to discuss our Q4 and 2020 financials, and then to Nicole to give details
+around the 2021 outlook and assumptions for the year. Maria?
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+Thank you, Ajei. I truly appreciate the kind words and your ongoing support and partnership over the past
+4 years.
+
+Hello, everyone. We are very pleased to report another strong quarter, resulting in record financial
+performance for both the quarter and the year. I'll spend a few minutes walking through an overview of
+the Q4 financial highlights. And then I'll turn the call over to Nicole to add qualitative and quantitative
+color around our initial outlook and key assumptions for the first quarter and full year 2021.
+
+Before I get into the details of our financial highlights, I would like to take a moment to say thank you
+to the entire ANSYS team. Your focus on execution, collaboration and ongoing commitment to customer
+excellence, enabled us to finish with both a record quarter and year across both operational and financial
+fronts. Despite the many uncertainties and disruptions that accompanied the COVID-19 pandemic.
+
+We are also very excited about the closing of the AGI acquisition in early December. And the positive
+progress that the teams have made on integration activities.
+
+We closed the quarter with total revenue of $628 million or constant currency growth of 24%, and
+operating margin and EPS results that were both well above the high end of our Q4 guidance. This is quite
+a testament to the strength and durability of the ANSYS business model. Particularly when you consider
+the strong comparable of Q4 2019. Let me also add that consistent with every quarter of this past year,
+our revenue results as we closed out 2020 and were driven by solid sales execution.
+
+Other key financial metrics for the quarter continue, with 20% constant currency growth in ACV to a total
+of $666 million, of which 83% was from recurring sources. This compares to 78% in last year's fourth
+quarter. This is a new record for Q4 with respect to both total ACV and the percentage that is attributable
+to recurring sources.
+
+Q4's revenue results reflect the continued trend in solid lease sales that we've been experiencing
+throughout 2020, with a record 54% constant currency increase in lease license revenue.
+
+For the first time in 2020, in the fourth quarter, we reported a return to growth in the paid up software
+license line with 11% growth in constant currency. This yielded [78%] constant currency growth in
+our software license revenue. The increase in lease license sales, combined with high renewal rates on
+maintenance contracts contributed to building our deferred revenue and backlog to a Q4 total of $967
+million, an 11% increase over last year's comparable balance. The strong top line results, combined with
+our continued focus on fiscal discipline, helped to drive a fourth quarter gross margin of 92% and an
+operating margin of 52%, which finished well above the high end of our Q4 guidance. With respect to
+taxes, our effective tax rate in Q4 was 19.5%, in line with our expectations.
+
+The net result was fourth quarter EPS of $2.96 and which also finished well above the high end of our
+guidance. We further strengthened our cash and balance sheet position in the fourth quarter with cash
+flow from operations that totaled $174 million, a 25% increase over last year's fourth quarter. The
+quarter's cash flow benefited from very strong receivables collection as well as the deferral of certain tax
+payments into 2021. And this translated to a new record of $547 million for the full year. We closed the
+year with a total of $913 million in cash and short-term investments, and a total debt balance of $798
+million.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+Let me just close by saying that we are extremely fortunate to have finished 2020 with the best financial
+performance in our 50 year history. These results are a testament to the resiliency of the ANSYS business
+model, and to the tenacity, dedication and hard work of our employees, customers and partners.
+
+Now let me turn the call over to Nicole, who will continue with the topic of guidance. Nicole?
+
+Nicole Anasenes
+Senior Vice President
+
+Thank you, Maria. First, I want to echo Maria's congratulations and gratitude to the entire ANSYS team for
+such an amazing 2020. And together, we delivered stellar outcomes in the face of unprecedented business
+uncertainty, the 1 ANSYS culture of teamwork and commitment to customer success that drove those
+results is 1 of the many reasons I am so thrilled to join the team.
+
+Looking into 2021, I want to share some of the key dynamics we have factored into our guidance. Due
+to the continued uncertainty about the timing and impact of a return to normal business operations post
+the pandemic, our guidance ranges continue to be wider than those we have historically provided pre
+pandemic. We anticipate that the current environment will continue through the first half of the year and
+expect a recovery in the business environment during the second half of the year with increased global
+economic stimulus and the global availability of vaccines.
+
+We continue to believe the impact will have a disproportionate effect on our small and medium-sized
+customers versus larger customers throughout 2021. We estimate trade restrictions between the U.S. and
+China have adversely impact our annual sales by approximately [$25 million].
+
+While the trade environment has been rapidly changing and may continue to do so under the new U.S.
+administration, our outlook factors in the existing trade restrictions and dynamics that are in place today.
+We are expecting to see a continued mix shift from perpetual licenses to lease licenses as customers
+continue to find the flexibility of lease licensing and operating on the cloud more appealing. The reduced
+capital outlay associated with the leasing model is also more appealing to certain customers during a time
+of economic uncertainty.
+
+Our blended renewal rates across maintenance and leases have historically been approximately 90%, with
+the renewal rates on maintenance agreements being even higher. Our renewal rates have remained high,
+with only a slight reduction as compared to our historical experience. And our assumptions are that they
+will pick up slightly in 2021 toward historical levels.
+
+We continue to adjust our spending to reflect our expectations for the pace at which economic recovery
+will occur while balancing the need to invest for the long-term opportunity that we see ahead.
+
+We have also maintained and intend to continue our commitment to invest in our acquired companies as
+well as R&D in certain digital transformation projects as those projects are critical to our ability to operate
+efficiently and scale the business for future growth. We completed the acquisition of AGI on December 1,
+and have factored the expected impact into guidance, which translates to approximately 1 negative point
+of margin. We expect this dilutive impact to be the most pronounced in the first year post acquisition,
+consistent with our past experiences and approach to integration.
+
+As we look ahead to 2021, we expect to see a very similar seasonal pattern as we've seen in prior years,
+with a disproportionately large Q4, driven by customer planning and year-end spending patterns.
+
+In Q4 2020, we saw an outsized shift in customer behavior in December relative to what has historically
+occurred. There was a significant and unexpected acceleration in customer decisions to both purchase
+and pay. We exceeded the high end of our Q4 2020 guidance on ACV by $26 million with 20% constant
+currency growth and full year 2020 cash flow guidance by $72 million and grew 9%.
+
+Our strong finish leaves us optimistic and reinforces our belief that customers view simulation is essential
+and will continue to invest in their own digital transformation.
+
+Our full-year 2021 guidance reflects an improvement in momentum in both ACV and cash flow.
+However, some of the impact of that momentum started in December of 2020, which was seen in the
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+overachievement above the high end of our guidance. While this momentum is positive, the dynamic also
+negatively affects 2021 growth comparisons for key financial metrics. For example, the $26 million of
+overachievement in ACV creates a [ 82% ] headwind to 2021 ACV growth.
+
+Although the environment remains fluid, and we are still in the midst of the pandemic, we believe that if
+post COVID economic recovery and the current trade environment remains in line with our expectations,
+our long-term guidance of $2 billion ACV in 2022 is attainable.
+
+Now let me get to the specifics of our guidance. In full-year 2021, we expect non-GAAP revenue in the
+range of $1.790 billion to $1.875 billion, which is growth of 6% to 11% or 3% to 8% in constant currency,
+and EPS of $6.44 to $6.92.
+
+For Q1 2021, we are projecting non-GAAP revenue in the range of $335 million to $360 million, which is
+8% to 17% growth or 5% to 12% in constant currency. And EPS of $0.73 to $0.90.
+
+Our outlook for full year 2021 is to maintain industry-leading operating margins, which we expect to be
+in the range of 40% to 41%, and Q1 2021 operating margin in the range of 24% to 27.5%. The lower
+Q1 2021 operating margins reflect the seasonal nature of our business, with a relatively lower revenue
+contribution in the quarter, similar to what we experienced in Q1 of last year with an operating margin
+below 30%.
+
+For full-year 2021, we expect ACV in the range of $1.750 billion to $1.825 billion, which translates to 8%
+to 13% growth or 6% to 11% in constant currency. As we mentioned earlier, we expect ACV to be highly
+skewed towards the fourth quarter.
+
+We are expecting to deliver full year operating cash flow in a range of $475 million to $515 million. This is
+reflective of our current view on full year ACV and profitability. It considers the continued trend of request
+for extended payment terms negotiated in new contracts as well as the timing of certain early collections
+and deferred tax payments in 2020 and that collectively raised full year 2020 cash flow and lowers the full
+year 2021 outlook.
+
+Additional details related to the cash flow guidance and specific impact to full year 2020 and 2021 are
+more fully provided in our prepared remarks document.
+
+Further details around specific currency rates and other key quantitative and qualitative assumptions that
+have been factored into our outlook for Q1 and full-year 2021 are also contained in the prepared remarks
+document.
+
+I am so proud of and thrilled to be part of the team who has delivered such outstanding results despite
+so many macro headwinds and business disruptions during a time of personal hardship for many. I am
+confident that with this team, we will be able to continue to deliver on our strategy of pervasive simulation
+and help our customers achieve their innovation and sustainability goals.
+Operator, we are now ready to open the call for questions.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question today comes from Jackson Ader from JPMorgan.
+
+Jackson Edmund Ader
+JPMorgan Chase & Co, Research Division
+
+Great. And I guess we should start off with Maria, hard fell, congratulations on your 90th call, and we're
+sad to see you go from the CFO role, but glad that you're sticking around with ANSYS, and welcome to
+Nicole.
+
+First question, though, is for Ajei and your comments about the TAM growth pre and post-pandemic. So
+can we just get a little bit more color? Is this expectations for all the different components of the TAM,
+given the core simulation and then the growth opportunities in IoT and electrification and others? Or were
+you talking specifically about just maybe 1 or 2 components of that total TAM mix?
+
+Ajei S. Gopal
+President, CEO & Director
+
+Jack, thanks for the question. So my comments very specifically in the script on TAM, one was around the
+increase in TAM as a result of the AGI acquisition, which we said added about $800 million to our total
+addressable market.
+
+The other comments about tailwinds that I spoke of were more -- were harder to quantify. As I said in
+the script, the point about digital transformation is that we have seen customers embrace simulation
+more during the pandemic. And certainly, with the recognition that their engineers could work from home
+effectively away from corporate labs, that's also been another tailwind for the use of simulation. So we
+expect to see that continue, certainly with the value proposition of simulation being able to drive product
+to market faster and save money. So that's a tailwind.
+
+And the second 1 that I pointed to was, in certain areas, we've seen increased levels of investment. Now
+those are -- I specifically call our telecommunications and electronics consumer, and those are areas which
+require multiphysics simulation analysis. So it really reflects on the multi physical nature of our portfolio,
+which I think was the question that you were asking.
+
+But also, the other interesting thing that we've noticed, which I pointed to in the comments, is in the area
+of eco-friendly products. And I'm not sure if it's coincident or there's a coevality here with the pandemic.
+But with the -- in that area, we've seen certainly increased levels of investment whether it's electric
+vehicle, which we've identified and pointed to before, but also on other things like lightweighting and eco-
+friendly aircraft engines and others. And so this area continues to be also an area of increased growth and
+something that requires multiphysics simulation. So that was the context of my comments, Jackson.
+
+Jackson Edmund Ader
+JPMorgan Chase & Co, Research Division
+
+Great. And then a quick follow-up on the $26 million of ACV upside in the quarter. Was that comment,
+Maria or Nicole, was that -- that this was ACV that was coming up for renewal maybe in 2021 and was
+pulled into 2020?
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+No. It was specifically just increments above what we had forecasted. There -- we -- in addition to very
+solid sales execution, we did see year-end budget flush, which we didn't see in Q4 of 2019, but we did
+see that this year. And I think some of it was just pent-up demand from perhaps Q2 and Q3 where people
+were on the sidelines. And with some of the enthusiasm around perhaps the second half of 2021, a return
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+to some sense of normalcy and growth and the vaccines. I think that we just saw some enthusiasm in the
+customer base that we hadn't experienced in the earlier part of the year.
+
+Operator
+
+Our next question comes from Ken Wong from Guggenheim Securities.
+
+Hoi-Fung Wong
+Guggenheim Securities, LLC, Research Division
+
+And also my best wishes to Maria. Hopefully, you won't be a stranger going forward. So this question for
+you, Ajei. In terms of the shift to digital, and I realize ANSYS Cloud is still small today, but just wondering
+how that might affect the adoption of ANSYS Cloud? And as we look ahead, would that be a positive from
+a monetization perspective relative to on-prem release?
+
+Ajei S. Gopal
+President, CEO & Director
+
+Yes. So if your question -- the question was about ANSYS Cloud and I guess usage during the pandemic
+or during the last year. If you look at usage, the demand for ANSYS Cloud continue to increase. And
+we've seen usage increasing by over 100% between 2019 and 2020. And what's interesting, and I think
+I mentioned this in the last call as well, we've had customers who've used ANSYS Cloud and reached a
+much more efficient than solution they would have on-premises.
+
+For example, Rockwell Automation, I think I mentioned, is using ANSYS Cloud to accelerate its product
+development process, and they showed that they were able to reduce simulations run times by about
+50%, which allows, obviously, their engineers to solve problems more accurately. And the reason for that
+is because ANSYS Cloud is optimized for the ANSYS workload, and we've done some work to make sure
+that the Azure infrastructure and which it runs as appropriate, and we can take advantage of the latest
+hardware and interconnect that Azure has available. So absolutely, ANSYS Cloud is certainly something
+that customers taking advantage of during this time. We've made the majority of our flagships available
+on ANSYS Cloud, mechanical, fluids, electromagnetics, et cetera. I just talked about the scale out that we
+have available there on the script as well as things like new workloads like OPTIS, SPEOS, VRX.
+
+So we're seeing the usage across all of our physics, and we're obviously seeing greater usage. And that,
+coupled with the flexibility that we have, which allows customers to bring their own license or bring their
+own hardware license or software license or just moving in to a SaaS world, that hybrid flexibility that we
+can afford, I think gives customers a lot of options.
+
+That being said, while we're excited about the cloud offering, and we're very encouraged by the rapid
+progress, I think it's important to note that the majority of our customers today use ANSYS products on-
+premises in their own data centers or in their own private cloud, and so ANSYS Cloud is obviously growing
+rapidly, but it's still a very small piece of our business today and for the foreseeable future.
+
+Hoi-Fung Wong
+Guggenheim Securities, LLC, Research Division
+
+Ajei and then maybe also another one for you, Ajei. Just wondering if the chip shortage has had any
+impact on the RedHawk business or potentially changed the buying behavior of any of your automotive or
+consumer electronics customers?
+
+Ajei S. Gopal
+President, CEO & Director
+
+No, I think you're talking about the semiconductor, the availability of manufacturing of semiconductor
+chips and the shortage of that. I think that has -- that's a sort of a different cycle. On the design side, we
+continue to see demand, robust demand for our products because there continues to be robust demand
+and growth in both semis and electronics.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+So no negative impact at all, just the market tailwinds for usage of those technologies. And the fact is,
+as customers are going to more and more advanced process nodes, the investments that we've made in
+RedHawk, and in particular, in RedHawk-SC is starting to pay off. And that obviously translates into more
+demand for our technology.
+
+Operator
+
+Our next question comes from Rich Valera from Needham & Company.
+
+Richard Frank Valera
+Needham & Company, LLC, Research Division
+
+And let me add my congratulations to Maria on a great run and your new role, and welcome to Nicole. And
+with that, I just wanted to ask about the Asia PAC business, where you've seen some pretty meaningful
+underperformance relative to the rest of the business. And I know you said it's a -- it was restriction in
+COVID, but can't help but contrast that with the really strong demand that the pure-play EDA companies
+are seeing in Asia, kind of exceptional strength, especially out of China. And I would have thought at least
+kind of chip centric side of your business would be seeing that. So just wondering if you can kind push into
+that area and give us a little sense of what's going on under the covers?
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+Yes. So Rich, what I'd say is some of Asia's performance is also influenced just like the other geographies
+relative to the timing of large deals. And so if you take a look at 2019, there were some larger deals
+in Asia Pacific that drove some of the growth that we enjoyed in 2019. We have, like many U.S.-based
+software companies, we have felt the impact of the sanctions on our business in China. And specifically,
+China is one of those markets that still is a perpetual market for us just because of the timing of when
+they get access to money and then they tend to consume large quantities of licenses that we'll get them
+through to the next cycle.
+
+So I think the combination of the underperformance in not only China due to sanctions, but we also saw
+underperformance in India during 2020 that also influenced what you saw in Asia Pac's results.
+
+Ajei S. Gopal
+President, CEO & Director
+
+And I'd just point out that China is less than 5% of our overall business, I think something like 4%. So it's
+a relatively small piece of our business, overall.
+
+Richard Frank Valera
+Needham & Company, LLC, Research Division
+
+Got it. And then just as a follow-up, I know you've talked about the -- you've had some headwinds from
+COVID, particularly on the smaller customer side. Have you at all tried to quantify that, what the headwind
+was in 2020?
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+No, Rich, we can't do anything with precision around that. We just know that in seeing the performance of
+the channel versus the direct, the enterprise and strategic customers were much more willing to continue
+to invest through the cycle, and largely because they didn't have some of the liquidity issues that the SMB
+market that we saw.
+
+Operator
+
+Our next question comes from John Walsh from Crédit Suisse.
+
+John Fred Walsh
+Crédit Suisse AG, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+Thank you to Maria for all the help with the ramp and welcome to Nicole as well. Maybe 2 questions here,
+if I may. One, on the operating margin guidance expectations for next year. I think in the prepared script,
+you called out some headwinds from the dilution for the acquisitions, I think that explains a good portion
+of maybe the delta versus consensus, but also wanted to understand maybe what you guys are doing in
+terms of SG&A, R&D? I think you added 300 people to your sales and marketing this year. Should we think
+that, that kind of picks up as you take advantage of this TAM in front of you?
+
+Nicole Anasenes
+Senior Vice President
+
+Yes. Sure. Thanks, Sean. So yes. So the AGI, as we discussed in the remarks, contributed to about 1 point
+impact, and it really accounts for a meaningful portion of the year-to-year expense growth. In the second
+half of last year, we onboarded about 300 people outside of acquisitions, and we ended at about 4,800
+people.
+
+In 2021, we continue to make targeted investments in headcount. So we are going to continue to invest
+and grow. We are confident in the long-term outlook of the business. And -- but they're going to be more
+targeted and primarily in areas of R&D and to some degree, the sales and operational roles that support
+our digital transformation.
+
+Operator
+
+Our next question comes from Jay Vleeschhouwer from Griffin Securities.
+
+Jay Vleeschhouwer
+Griffin Securities, Inc., Research Division
+
+Ajei, I'll direct my 2 questions to you. But first, for Maria and on a personal note, it's been a fascinating
+quarter century. So thank you for that, welcome Nicole.
+
+So for Ajei, in the last call, we touched on the subject of your availability of and development of what we
+call domain-specific applications or industry solutions. Perhaps the work you're doing with BMW and a
+simulation tool chain for automotive as an example of that, plus API now, of course, the question is, how
+are you anticipating the rollout of or adoption of what you suggested would be more and more industry
+solutions? So how is that factoring into your thinking on results over the next couple of years?
+
+And then relatedly, over the last 2 or more years, the company has been depicting its technology
+roadmap, your eighth long-term technology dimensions, each of which is interesting. But perhaps you
+could talk about the progress you've made on those or more specifically, which of those 8 are perhaps
+priorities for 2021 and beyond in terms of internal investments or how you think they might actually affect
+financial results?
+
+Ajei S. Gopal
+President, CEO & Director
+
+So Jay, thanks for the questions. There's a lot that we could go through, and I'm -- I, maybe in the
+interest of time, I'll just focus on a couple of things. When you think about our journey as a company,
+we've gone from providing point technologies back when we started like structures. Over the years,
+we've brought together a comprehensive set of physics through a combination of acquisitions as well as
+organic development. And now we have a full-fledged set of physics that are integrated together. And it's
+this integration capability across all of these physics that's profoundly important. And we've continued
+to add to that with materials technologies, for example, with optimization capabilities, et cetera. And
+that has led to the building up of our platform capability, which is profoundly important to be able to
+address and provide that agility to support different industry applications. And because we have all of
+these multiphysics capabilities integrated together and exposed on a platform, that makes it easier for
+our customers as well as our own ACE engineers to build industry-specific or customer-specific solutions
+that take advantage of the core capabilities that we provide as well as integrate with core components that
+might be available from outside of our own ecosystem.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+So that's been the direction that we're pursuing. Our technology is available both on-premises and in the
+cloud. And I think we have a very robust and a very strong technical underpinnings to be able to support
+not only the more traditional use case where you're dealing with. We use the simulation of the tool, but
+also we the use of simulation within as part of an integrated platform to deliver value-added applications
+to customers. And you're seeing this in some of the announcements that we've made. You referenced
+one of them with respect to BMW. We've made some announcements in the health care space and others
+where we're working with partners who are able to provide application-specific intelligence that wraps on
+top of our simulation solutions because of the way we're that architecting our platforms and our capability.
+
+Now with respect to the long-term road map, I would refer you, one of those key elements is the platform.
+And obviously, we just talked about platform a second ago. Another area that perhaps might be interesting
+is AI/ML where we've talked about the use of machine learning. We see that we continue to make
+investments in AI/ML capability because we really see AI/ML as an orthogonal but supportive technology
+simulation. Simulation makes AI/ML better, the insight from AI/ML better and AI/ML can support insights
+from simulation.
+
+And you see this -- you see these technologies and techniques already being incorporated into our
+products. You see this, for example, in our semiconductor portfolio, and you continue to see this
+integrated into other aspects of our products, whether it comes to usability, whether it comes to helping
+customers or helping engineers navigate the solution space and so forth. And we can obviously go into
+more details, but in the interest of time, let's just leave those there.
+
+Operator
+
+Our next question comes from Gal Munda from Berenberg.
+
+Gal Munda
+Joh. Berenberg, Gossler & Co. KG, Research Division
+
+Firstly, I'd just like to touch a little bit on this trend that you continue to see in the larger deals. And
+maybe, Ajei, can you talk a little bit about the predictability of those deals and what you've learned over
+the last few years, especially in terms of the sales cycles or the pipeline? It seems like the ability be to
+able to close those deals during the pandemic definitely shows that there's an increased activity. So maybe
+just a little bit of color around how those sale cycles maybe have evolved over the last few years?
+
+Ajei S. Gopal
+President, CEO & Director
+
+So Gal, thanks for the question. So your question is really how we are integrating with some of these
+larger customers and how are we working with them? So if you recall, when we went through the go-to-
+market transformation that we spoke off a couple of years ago, and when we really started to accelerate
+in the last couple of years, it was around putting together a traditional customer pyramid where we had
+enterprise customers at the top of the pyramid and enterprise customers were deemed to be such, not
+only because they had significant spending powers and have large and complex problems to solve. And
+therefore, we're spending a lot of money on R&D. But also because we had enterprise customers who were
+-- who are being supported by specialized teams. And so we would have -- we were able to allocate to
+these enterprise customers, dedicated account management, both on the technical side as well as the
+sales side to help navigate through the account.
+
+That process has been underway for a few years. When you -- and so that gives us within some of these
+large customers, it gives us great relationships and a very good understanding of what's going on and
+we've been able to help educate the customers about the capabilities that ANSYS can provide. That,
+coupled with the other comment I made about digital transformation. Clearly, this is an important area
+for customers and in -- the digital transformation of that product life cycle continues to be important. The
+pandemic, as I've mentioned earlier, accelerated that and made it clear and manifest customers that they
+need to enable their engineers to be able to work from anywhere. And that's obviously possible through a
+digital thread and simulation in some sense is the most -- the purest digital representation of a product.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+And so that was -- that's the second sort of broad thread about the recognition that people can be
+effective, engineers can be effective to taking advantage of the technology from wherever. I think the
+third and perhaps the most important is that, look, at the end of the day, simulation provides tremendous
+value to customers. They are -- we've talked about this for a long time. We've said, look, we can help
+you accelerate product to market, that's one area, that drives top line revenue growth. And we've also
+said, we can help you save money. We can help you save money because you don't have to build physical
+prototypes, you can do the proverbial more with less. And that also resonates with customers, especially
+in tough economic times.
+
+So when you put all of this stuff together, it's no wonder that we're seeing some large deals from
+customers. This is not accidental. This has been planned. This has been multi-years and planning to make
+sure that we build these relationships to help them with their digital transformation and to continue to
+drive investments in the portfolio and to continue to show the value that simulation will provide.
+
+Operator
+
+Our next question comes from Joe Vruwink from Baird.
+
+Joseph D. Vruwink
+Robert W. Baird & Co. Incorporated, Research Division
+
+Maria, big congratulations to you, and my welcome to Nicole. Ajei, I wanted to go back to just the
+comment in discussion on TAM growing faster. This trend towards system-level engineering, it's happening
+across many of your end markets. It's a notable one. You just discussed how it complements the ANSYS
+platform strategy. I would have expected that some of these developments would have been on the long-
+term planning road map. So I guess the question is, how or why are these developing differently such that
+now it seems to be actually exceeding your expectations?
+
+Ajei S. Gopal
+President, CEO & Director
+
+Well, firstly, with respect to our analysis of the TAM, if you go back to our Investor Day from a couple of
+years ago, 2019, we did a pretty comprehensive analysis of the TAM and where it is today and where it's
+going. And we talked about a number of areas. We talked about the core business. We talked about, which
+is the historical use of simulation and the design and validation phase of the product life cycle. We talked
+about high-growth solutions like electric vehicles or electrification, autonomy, IoT, 5G. And then we talked
+about simulation being used in nontraditional use cases and things like predictive maintenance through
+digital twins and so forth.
+
+And what we did when we presented when we presented that, as we pointed out that the -- that there was
+more predictability on the base case use cases of simulation as it's historically been. But in some of these
+longer-term opportunities, in particular, simulation being used, for example, in predictive maintenance
+and digital twins, we pointed out that there was a significant amount of variability, depending on the rate
+of adoption of digital technologies and we talked about how that was being affected by assumptions you
+make about the pace and rate of deployment of capabilities that may have historically not used simulation.
+
+So that's the -- that's where we were a couple of years ago. The observations that we've seen in the
+pandemic, as I said in my script, have been very specifically on certain areas. The digital transformation
+comment is real. Customers are recognizing they need to spend more -- to pay more attention to
+the digital transformation. We've talked a lot about this on the call already. And so that, we believe,
+represents an aggregate tailwind, an acceleration of activities that may have taken place already,
+but those -- that's an acceleration. And when you start to think about some of these other areas like
+electronics, consumer electronic -- consumer electronics, telecommunications, again, the pandemic
+caused people to think more about what does it mean for the communications infrastructure? How do I
+interact with my office working remotely, et cetera? And you started to see that level of interest in the end
+markets, which has obviously translated into increased demand in the electronics and high-tech vertical
+for us, which translates across to a number of our products.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+And as I said, in certain areas like green, it's not clear that it's directly related to the pandemic, but we
+continue to see increased focus on this. Perhaps it's because of broader recognition of the importance of
+ESG initiatives, maybe it's because of the pandemic, but we're continuing to see more activities there.
+And again, this entire area of getting to an eco-friendly set of products accelerates activities that might
+otherwise have taken longer, come in a little bit earlier.
+
+So I think the core recognition in the elements of the market remain what we had talked about, the
+question is timing. And as I said also in the call, it's hard for us to quantify what the effects of these
+tailwinds are going to be. So I want to be very clear that we see this anecdotally, but it's hard -- we are
+not quantifying the effects of these tailwinds at this point.
+
+Operator
+
+Our next question comes from Tyler Radke from Citi.
+
+Tyler Maverick Radke
+Citigroup Inc., Research Division
+
+And best wishes to Maria and Nicole. I think in the past, ANSYS has talked about how R&D budgets are
+one of the first budgets to be restored out of the downturns and ANSYS as a company typically sees kind
+of the inflection faster than maybe some of your peers in the industrial space. And I guess with the strong
+Q4, you put up 20% constant currency organic ACV growth, large deals, budget flush, it would appear
+that certainly, you're seeing some strength here, and some might see -- might argue you're seeing some
+of these budgets come back online. But when I look at your guidance, it implies that ACV growth doesn't
+really get much better on an organic basis next year. So I guess, what's driving that? Are there certain
+end markets or GEOs that you're seeing caution? Or is it just conservatism? I know there is a CFO -- with
+the CFO transition, just trying to understand what would drive such a relatively cautious outlook given the
+strong results you put up here in the quarter?
+
+Nicole Anasenes
+Senior Vice President
+
+So let me characterize kind of some of the assumptions that we put into guidance. And I'd say the first
+thing I'd point out is what Maria spoke about, which is significant overachievement of ACV and therefore,
+revenue in the rest of the P&L in the quarter. And so that overachievement on the ACV side alone is about
+a 2-point headwind to growth year-to-year.
+
+And so what we're seeing really -- what we saw in the fourth quarter leaves us a lot of optimism that
+things -- once that we get through the capitulation of the pandemic that things -- that there's a strong
+demand for simulation that customers are accelerating their digital transformation and that we are well
+positioned based on the investments we've made in the portfolio over the past couple of years, because
+we've been investing through the pandemic that come out of it with a position of strength that we're going
+to benefit from it.
+
+I think what we're expecting to see and what's baked into the guidance is that, generally speaking, the
+first half is going to continue to have its ups and downs really because of COVID uncertainty. And by the
+second half of the year, we expect to see more momentum in economic activity as things start to open
+up and government continue to do the right thing to support economic development. And so we have
+visibility into the first quarter as to the full year pipeline. And the guidance really reflects the strength
+of the pipeline. And like other years, we're expecting to see it more back-end loaded from an ACV and a
+revenue perspective, driven by the timing of large multiyear deals and customer planning activities.
+
+So from our perspective, sitting here in February, it's just a little difficult to predict such a significant level
+of overachievement that we saw in the fourth quarter, sitting where we're at right now. But the situation is
+fluid and will continue engaging with you throughout the year to update it as we know more.
+
+Operator
+
+Our next question comes from Matthew Swanson from RBC Capital Markets.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+Matthew John Swanson
+RBC Capital Markets, Research Division
+
+Yes. This is Matt Swanson on for Matt Hedberg. Maria, I'll just add on my congratulations. Nicole,
+welcome. Look forward to working with you. A question for both of you. I mean, just given the strength of
+your year during this challenging pandemic, does it open up or change your philosophy at all around M&A?
+Just thinking there might be some value and some opportunities for some companies that maybe weren't
+able to fare as well throughout this year. And maybe from a technology tuck-in standpoint, maybe some
+time sensitivity around companies that might not be able to make it through this pandemic?
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+Yes. So Matt, what I'd say is, look, we always have an active pipeline of M&A. We've got a team that's
+dedicated, and we're always looking for things that complement the portfolio and that align with our
+strategy of pervasive simulation. And equally as important, that align with our culture. We've been
+extremely successful in integrating these acquisitions over the past 20-plus years. Because we look for
+companies that are like us, that are dedicated to customer excellence, that are dedicated to advancing
+the technology and solving the world's most complicated problems and so we will absolutely continue to
+actively search for opportunities to add to the portfolio and to continue to maintain our leadership in this
+exciting space.
+
+Matthew John Swanson
+RBC Capital Markets, Research Division
+
+And then, Ajei, if I could just add a quick one for you. Could you just talk a little bit more about Moxie,
+which was amongst last week and then kind of more broadly, just -- I feel like in this environment,
+especially those high ROI solutions might be really compelling for your customers. Could you just talk a
+little bit about how that plays into the demand process right now?
+
+Ajei S. Gopal
+President, CEO & Director
+
+So Moxie, again, I don't want to get too detailed here, but Moxie is a new capability that's being offered
+by AGI and essentially it engineers -- it enables engineers to execute behavioral SysML models in a virtual
+simulation environment, such as AGI's SDK toolkit. And it's really to be able to analyze and validate
+the models to make sure that they can meet mission requirements. So we're very excited about the
+technology. I think it adds to our portfolio and our capabilities. And we can certainly talk more about the
+technical details perhaps at a later point.
+
+Operator
+
+And ladies and gentlemen, with that, we've reached the end of the allotted time for today's question-and-
+answer session. I'd like to turn the conference call back over to Ajei for any closing remarks.
+
+Ajei S. Gopal
+President, CEO & Director
+
+Thank you, operator. Q4 was an excellent quarter and a great inning to a strong 2020, all thanks to our
+1 ANSYS team around the world. We continue to demonstrate the strength of our business as well as our
+deep customer relationships. Several of those customers will discuss their use of ANSYS simulation during
+our upcoming Simulation World, which is on April 20 to 21 of this year. This virtual event, the largest of
+its kind through tens of thousands of customers, prospects, students, press and, of course, investors last
+year. This year, our Simulation World will feature customers such as Johnson & Johnson, HPE, Ferrari, Pratt
+& Whitney and Northrop Grumman. You can register by attending simulationworld.com.
+
+Thank you for attending today's call, and I hope you enjoy the rest of your day.
+
+Operator
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+Ladies and gentlemen, with that, we'll conclude today's conference call. We thank you for attending. You
+may now disconnect your lines.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+ANSYS, INC. FQ4 2020 EARNINGS CALL |  FEB 25, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+

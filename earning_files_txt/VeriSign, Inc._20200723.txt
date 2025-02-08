@@ -1,0 +1,694 @@
+VeriSign, Inc. NasdaqGS:VRSN
+FQ2 2020 Earnings Call Transcripts
+Thursday, July 23, 2020 8:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ2 2020-
+
+-FQ3 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+1.32
+
+Revenue  (mm)
+
+312.65
+
+1.40
+
+314.36
+
+6.06
+
+0.55
+
+1.33
+
+6.56
+
+6.04
+
+314.88
+
+1258.92
+
+1333.88
+
+Currency: USD
+Consensus as of  Jul-13-2020 5:54 PM GMT
+
+FQ3 2019
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.31
+
+1.33
+
+1.26
+
+1.32
+
+1.36
+
+1.31
+
+2.96
+
+1.40
+
+3.82 %
+
+(1.50 %)
+
+134.92 %
+
+6.06 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+VERISIGN, INC. FQ2 2020 EARNINGS CALL |  JUL 23, 2020
+
+Call Participants
+
+EXECUTIVES
+
+D. James Bidzos
+Founder, Executive Chairman &
+CEO
+
+David Atchley
+VP & Corporate Treasurer
+
+George E. Kilguss
+Executive VP & CFO
+
+Todd B. Strubbe
+President & COO
+
+ANALYSTS
+
+Nicholas Freeman Jones
+Citigroup Inc., Research Division
+
+Robert Cooney Oliver
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Sterling Auty
+JPMorgan Chase & Co, Research
+Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+VERISIGN, INC. FQ2 2020 EARNINGS CALL |  JUL 23, 2020
+
+Presentation
+
+Operator
+
+Good day, everyone. Welcome to VeriSign's Second Quarter 2020 Earnings Call. Today's conference is
+being recorded. Recording of this call is not permitted unless preauthorized.
+
+At this time, I would like to turn the conference over to Mr. David Atchley, Vice President of Investor
+Relations and Corporate Treasurer. Please go ahead, sir.
+
+David Atchley
+VP & Corporate Treasurer
+
+Thank you, operator.
+
+Welcome to VeriSign's Second Quarter 2020 Earnings Call. Thank you to everyone for joining our call
+today, and we hope each of you are staying safe and healthy. Joining me remotely from their respective
+locations are Jim Bidzos, Executive Chairman and CEO; Todd Strubbe, President and COO; and George
+Kilguss, Executive Vice President and CFO. Thank you in advance for your patience if we experience any
+interference, delays or sound quality issues during today's call.
+
+This call and presentation are being webcast from the Investor Relations website, which is available under
+About VeriSign on verisign.com. There, you will also find our second quarter 2020 earnings release. At the
+end of this call, the presentation will be available on that site, and within a few hours, the replay of the call
+will be posted.
+
+Financial results in our earnings release are unaudited, and our remarks include forward-looking
+statements that are subject to the risks and uncertainties that we discuss in detail in our documents
+filed with the SEC, specifically the most recent reports on Form 10-K and 10-Q. VeriSign does not update
+financial performance or guidance during the quarter unless it is done through a public disclosure.
+
+The financial results in today's call and the matters we will be discussing today include GAAP results
+and 2 non-GAAP measures used by VeriSign, adjusted EBITDA and free cash flow. GAAP to non-GAAP
+reconciliation information is appended to the slide presentation, which can be found on the Investor
+Relations section of our website available after this call.
+
+In a moment, Jim and George will provide some prepared remarks. And afterward, we will open the call
+for your questions.
+
+With that, I would like to turn the call over to Jim.
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Thanks, David, and good afternoon, everyone.
+
+With the increased demand for and reliance on Internet services during the COVID-19 crisis, the secure
+and reliable operation of our infrastructure becomes even more important. Our focus remains on our
+mission, which is to ensure the availability of our critical infrastructure. We have been and are prepared
+to continue operating all of our services, including registry services for .com and .net, and our route
+operations at the rigorous standards of performance and availability governed by ICANN, with most of our
+employees continuing to work remotely. Our focus on mission is emphasized by the fact that the company
+last week marked 23 years of 100% availability of the .com and .net domain name resolution system. This
+achievement is the result of the dedication and expertise of our team and of our specialized infrastructure.
+
+Also, as part of our response to the COVID-19 crisis, we announced in March a freeze of the wholesale
+prices in all of our TLDs, including .com, through the end of 2020. Today, given the current environment,
+we are further extending that price freeze for the wholesale prices in all of our TLDs through March 31,
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+VERISIGN, INC. FQ2 2020 EARNINGS CALL |  JUL 23, 2020
+
+2021. Additionally, we are also extending the waiver of the wholesale restore fee for expired domain
+names through the end of 2020.
+
+Now I will address our quarterly results.
+
+Q2 of 2020 was another consistent quarter for VeriSign in which we focused on our core business,
+expanded the domain name base and delivered solid financial results. Regarding second quarter
+operational highlights, at the end of June, the domain name base in .com and .net totaled 162.1 million,
+consisting of 148.7 million names for .com and 13.4 million names for .net, with a year-over-year growth
+rate of 3.8%. During the second quarter, we processed 11.1 million new registrations and the domain
+name base increased by 1.41 million names. Although renewal rates are not fully measurable until 45
+days after the end of the quarter, we believe that the renewal rate for the second quarter of 2020 will be
+approximately 72.8%. This preliminary rate compares to 74.2% achieved in the second quarter of 2019
+and 75.4% last quarter.
+
+For 2020, we now expect a domain name base growth rate of between 2.75% and 4%. This updated
+range, which recognizes the ongoing uncertainty presented by COVID-19, reflects the strength we have
+seen in new registrations and our expectation for domain name base growth for the balance of the year.
+
+During the second quarter, we continued our share repurchase program that resulted in 730,000 shares
+of common stock repurchased for $150 million. At June 30, 2020, $676 million remained available and
+authorized under the current share repurchase program, which has no expiration.
+
+Our financial and liquidity position remains stable with $1.2 billion in cash, cash equivalents and
+marketable securities at the end of the quarter. We continually evaluate the overall liquidity and investing
+needs of the business and consider the best uses for our cash, including potential share repurchases.
+
+Now I'd like to turn the call over to George.
+
+George E. Kilguss
+Executive VP & CFO
+
+Thanks, Jim, and good afternoon, everyone.
+
+For the quarter ended June 30, 2020, the company generated revenue of $314 million, up 2.6% from the
+same quarter in 2019, and delivered operating income of $207 million, up 2.5% from $202 million in the
+same quarter a year ago.
+
+Operating expense totaled $108 million, up from $105 million in the second quarter a year ago and
+up from $106 million last quarter. The sequential increase in operating expense is primarily a result of
+increased sales and marketing spend during the quarter. The operating margin in the quarter came to
+65.8% compared to 65.9% in the same quarter a year ago.
+
+Net income totaled $152 million compared to $148 million a year earlier, which produced diluted earnings
+per share of $1.32 in the second quarter this year compared to $1.24 for the same quarter last year.
+
+Operating cash flow for the second quarter was $215 million and free cash flow was $204 million
+compared with the $165 million and $154 million, respectively, from the second quarter last year.
+Operating cash flow in the second quarter benefited from the lower cash tax payments due to the
+permitted deferral of approximately $50 million in U.S. federal tax payments until the third quarter of
+2020. Additionally, the deferred revenue balance increased during the quarter as a result of the strength in
+new registrations.
+
+I will now discuss full year 2020 guidance.
+
+Revenue is now expected to be in the range of $1.255 billion to $1.265 billion. This revenue range forecast
+reflects the updated domain name base growth of between 2.75% and 4% that Jim mentioned earlier.
+
+Operating margin, which includes stock-based compensation, is still expected to be between 64.5% and
+65.5%. This guidance range reflects our expectation of incremental and continued investment in our
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+VERISIGN, INC. FQ2 2020 EARNINGS CALL |  JUL 23, 2020
+
+operational infrastructure, security capabilities, and sales and marketing expense during the remainder of
+2020.
+
+Interest expense and nonoperating income net is now expected to be an expense of between $75 million
+to $80 million. This updated range reflects the additional $5 million gain recognized during the second
+quarter related to the sale of our Security Services business.
+
+Capital expenditures are still expected to be between $45 million and $55 million.
+
+We still expect our full year effective tax rate to be a benefit of between 2% and 5%, which reflects the
+$168 million income tax benefit recognized in the first quarter. For the balance of 2020, we still expect tax
+expense as a percent of pretax income of between 19% and 22%. Cash taxes for 2020 are now expected
+to be in the range of 18% to 20% of pretax income.
+
+In summary, VeriSign continued to demonstrate sound financial performance during the second quarter,
+and we look forward to continuing our focused execution in the second half of 2020.
+
+Now I'll turn the call back to Jim for his closing remarks.
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Thank you, George.
+
+I'd like to say again that our priorities are our mission of ensuring the availability of our critical
+infrastructure and the safety of our people. Internet usage has increased during the pandemic and
+reliance on online services even more so. For many people who are working from home and isolating at
+home, online services are critical, and more businesses and individuals that never depend on Internet
+infrastructure for their livelihood. Our record of .com and .net DNS availability speaks volumes about
+our commitment to our mission. I'd like to acknowledge the team here at VeriSign for their hard work in
+maintaining our uptime record even during the pandemic.
+
+Given that participants are dialing in remotely for this call, I would like to walk through a few questions
+which we believe are on your mind before we open the call for your additional questions.
+
+The first question: With today's announced extension of the price freeze, how should we think about the
+limited pricing flexibility you have for .com?
+
+First, as a reminder, the wholesale price for .com domain names has been unchanged at $7.85 for 8 years
+since 2012. Also, as a reminder, our wholesale prices for .com are governed by our registry agreement
+with ICANN. The retail price that the end user actually pays for a domain name is set by the retail channel,
+which is the registrars who have no regulation of their pricing. Additionally, there's an unregulated
+secondary market for domain names. With that background, under Amendment 3 to the .com Registry
+Agreement, VeriSign is now permitted to raise the wholesale price of .com domain names by up to 7% in
+each of the final 4 years of every 6-year period. Within the current 6-year period, the first year in which
+we may increase the wholesale price ends on October 25, 2021. And we expect to effectuate a .com
+wholesale price increase before that October 21 date -- 2021 date.
+
+The second question: Are there any updates on the status of .web?
+
+Answer: As we noted last quarter, a final hearing is currently scheduled to begin on August 3 in the
+independent review process, or IRP, that affiliates initiated in November 2018. That hearing is scheduled
+to take place via videoconferencing. As a reminder, VeriSign is not a party in these IRP proceedings but
+was granted the right to participate in certain limited aspects. Also, as a reminder, an IRP under ICANN's
+bylaws is for the purpose of ensuring that ICANN followed its own policies and procedures when making
+decisions. Our expectation is that following the resolution of the IRP, the ICANN Board will make a final
+decision on the delegation of the .web TLD.
+
+Question 3: Can you help me better understand what is impacting the increase in new registrations and
+the lower preliminary quarterly renewal rate for the second quarter?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+VERISIGN, INC. FQ2 2020 EARNINGS CALL |  JUL 23, 2020
+
+Most of the strength in new registrations came from registrars in North America. While we don't have
+the same visibility that retailers do, based on feedback from our retailers, they are seeing increased
+demand from small businesses getting online. This strength was partially offset by slower activity from
+registrars in China. As it relates to the preliminary quarterly renewal rate, the year-over-year decrease is
+primarily related to a lower overall first-time renewal rate. Year-over-year, the overall previous renewal
+rate remained relatively consistent.
+
+Question 4: Are there any updates to the donations you announced earlier this year?
+
+Yes, there are. During the first quarter, we made an initial $2 million donation to organizations assisting
+those impacted by COVID-19 locally and nationally. During the second quarter, we made a cash
+contribution of $1 million to the Equal Justice Initiative in support of their work. We are actively working
+on an expansion to our VeriSign Cares program beyond the $3 million the company donated during the
+first half of the year, again, with a focus on providing assistance to those impacted during the COVID-19
+crisis. I'm sure you have questions, and I can only say that these additional efforts should be further along
+by the time we talk to you again next quarter.
+And now we'll open the call for your questions. Operator, we're ready for the first question.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+VERISIGN, INC. FQ2 2020 EARNINGS CALL |  JUL 23, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] And we'll now take our first question from Rob Oliver with Baird.
+
+Robert Cooney Oliver
+Robert W. Baird & Co. Incorporated, Research Division
+
+So on -- if I can maybe provide a little bit more. Remarkably, the domain growth is back now above where
+it was pre-COVID, at least at the lower end of the range, which is pretty remarkable. You mentioned
+some of the drivers there, U.S. strength. Can you maybe flesh that out a little bit more? And then China
+weakness maybe being responsible for the lower renewal rate. Can we perhaps get a little bit more color
+on that, both geographically, as well as some of the economic puts and takes around SMBs and what you
+guys are seeing there? And then I had one follow-up.
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Okay. Rob, I think we can try. First of all, let me just say that basically, the strength came from
+predominantly North America with small businesses getting online. As to geography, I think we have
+limited visibility, but let me invite George to comment further.
+
+George E. Kilguss
+Executive VP & CFO
+
+Yes. Thanks, Jim, and thanks for the question, Rob. So as Jim mentioned, in Q2, we did see strength in
+gross additions or new registrations in North America. I will also say EMEA and APAC were also strong.
+They also improved in the quarter year-over-year. And China was a little bit lower. As far as the China
+gross adds, they were similar to the gross add levels we had last quarter there, but they were down from
+year ago levels. As far as renewal rates, Jim mentioned they were down about 1.4% in total year-over-
+year. And we saw that decline, primarily, it manifests itself in lower first time renewal rates, and they were
+down also in most markets that we keep a track -- keep an eye on. And as Jim also mentioned, we're
+a thin registry. We talked to before. We don't have direct visibility into the end user. So it's a little more
+difficult for us to understand the economic impact per se. But in general, gross adds were very strong this
+quarter. Our net adds were good. They were 1.4 million. It was very similar to, if not slightly above, third
+quarter -- I'm sorry, second quarter of 2019 when they totaled 1.3 million.
+
+Robert Cooney Oliver
+Robert W. Baird & Co. Incorporated, Research Division
+
+George, I appreciate it. And then just a follow-up. And I think it makes a lot of sense on the suspension
+of the price increase given the pandemic. And so I guess I would just ask if there's anything beyond the
+obvious in terms of the rationale there. And then you do draw a line on the sand that you guys will avail
+yourself of the price increase in October, which I believe would get you guys the 4 years of the final 6
+years. I just want to make sure we understand that properly. And if there's anything else you can add to
+flesh that out.
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Sure. Thanks, Rob. I don't think -- I can't even need to add anything. You summarized it accurately. We
+are taking another freeze of prices through March 31, 2021. That is related to the current environment.
+The date of the first year period of our available price increase is October 25, 2021. And you accurately
+stated that we expect to effectuate .com wholesale price increase before that date.
+
+I think we're ready for another question, operator.
+
+Operator
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+VERISIGN, INC. FQ2 2020 EARNINGS CALL |  JUL 23, 2020
+
+We'll move to Nick Jones with Citi.
+
+Nicholas Freeman Jones
+Citigroup Inc., Research Division
+
+The first one, just as you extend the waiver for restore fees. Can you walk through maybe what the
+implications there are? Is there kind of a building group of domains that are up? They could potentially -- I
+guess you guys could generate some revenue from these restore fees that maybe fall off. Would you then
+recognize those as churned? I guess if you could walk through kind of the dynamic of the restore fees and
+maybe provide a little bit of color on -- is there like a buildup coming down? And I have one follow-up after
+that.
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Okay. Let me invite Todd or George to answer your question.
+
+Todd B. Strubbe
+President & COO
+
+Yes. This is Todd, Nick. First off, the impact of waiving the restore fees is immaterial to our financials, and
+it's accounted for in the revenue guidance we provided today. There's a period of time after a registrar
+deletes a domain name. That's known as the redemption grace period. It's a 30-day period. And the
+registrant has a chance to get the name back then before it goes into general availability. So it's those
+names we're talking about that's already been deleted by the registrar. And so this restore fee is in
+addition to the standard registration and renewal fee associated with the domain name renewal. And we
+don't disclose our wholesale restore fee, which is charged to the registrar. And of course, they determine
+what the actual retail restore fee is. And we've seen many registrars pass on the waiver from a retail
+perspective. So anecdotally, we believe that small businesses and individuals are benefiting from our
+waiver.
+
+Nicholas Freeman Jones
+Citigroup Inc., Research Division
+
+Got it. And then I guess one follow-up on operating margin. With kind of the increased SMB interest
+and having a digital presence, is there potential leverage in the sort of the marketing bucket kind of
+throughout the rest of the year as maybe you don't need to advertise or be as aggressive in that OpEx
+line?
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Yes. Thanks, Nick. I mean, clearly, every quarter, we're looking at our expenses and making sure we're
+spending the appropriate amount in each of the categories to drive profitable growth and support the
+business. Sales and marketing expense sequentially was up. And we do have plans to continue marketing
+activities throughout the year. But those costs, again, are factored into the guidance that we provided. But
+we do expect to continue to invest in sales and marketing activity for the rest of 2020 year.
+
+Operator
+
+And we will take our last question from Sterling Auty with JPMorgan.
+
+Sterling Auty
+JPMorgan Chase & Co, Research Division
+
+A couple of questions. So the new guidance for the domain growth for the full year, what have you
+factored in for the last 2 quarters in terms of the pace of new registrations and the renewal rate?
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+VERISIGN, INC. FQ2 2020 EARNINGS CALL |  JUL 23, 2020
+
+George?
+
+George E. Kilguss
+Executive VP & CFO
+
+Yes. So we don't guide to gross registrations or renewal rates. We guide to the net zone increase. Clearly,
+we've done pretty well here through the first half of the year. And we expect that there'll be continued
+demand for the products. But as far as what will happen specifically to the renewal rate into the quarter or
+gross adds, we'll wait and see. We clearly publish the gross adds of new unit information and the domain
+name base on our website. You can see what is going on there. But our full year guidance is the guidance
+we provide. We don't break it up quarterly.
+
+Sterling Auty
+JPMorgan Chase & Co, Research Division
+
+All right. But maybe just to follow up and try it a different way. At least qualitatively, I think if we look
+at some of the previous economic cycles, when we get to this point, we tend to see increased business
+closures. And I think we saw that manifest itself in the renewal rate in the June quarter. Are you at
+least incorporating an idea of a lower renewal rate in the back half and maybe a higher elevation in new
+registrations just qualitatively?
+
+George E. Kilguss
+Executive VP & CFO
+
+We don't forecast or model our results in that way. We do a lot of algorithmic computations and models
+that have proven fairly accurate over the prior period. And we use that algorithmic model to guide us,
+not only for the quarters or year, but also in our planning. It's been fairly reliable for us. And so that's
+the methodology that we're looking at. It's very hard to go down and forecast demand by an end user or
+by a registrar or by a country level. We clearly look at those results. But the data is so voluminous that
+we have to use algorithms to help us do that. And the algorithms, which is, like I said before, have been
+relatively accurate, are giving us the range that we've put out here for our guidance.
+
+Sterling Auty
+JPMorgan Chase & Co, Research Division
+
+That makes sense. Can you give us what the number of domain names up for renewal in the September
+quarter looks like? And how does that compare against what you just had in June? And what does it look
+like versus September a year ago?
+
+George E. Kilguss
+Executive VP & CFO
+
+Yes. So the number of names that were up for renewal in the second quarter 2020 was 35.1 million. We
+expect 34.2 million to be up for renewal next quarter in the third quarter. When I go back a year ago, in
+the second quarter of 2019, that was closer to 33.3 million and the third quarter of 2019 was 32.6 million.
+
+Sterling Auty
+JPMorgan Chase & Co, Research Division
+
+All right. Great. And then last one. And I think I can guess the answer, but I still want to ask it anyway
+because it's been a topic of a lot of investor conversations that I've had. You mentioned that you are going
+to take advantage of the price increase before the October deadline. We know you have the 6-month
+window in terms of announcement. But based on the comments that you've given, are you leaving open
+the possibility that you might at least announce the price increase prior to that March time frame that
+you've extended the price freezes until?
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+I'm not entirely sure I understand your question. But I think maybe the answer can be determined by
+having me merely state that, as you point out, there is a 6-month notice that's required to effectuate a
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+VERISIGN, INC. FQ2 2020 EARNINGS CALL |  JUL 23, 2020
+
+price increase before we have to provide 6 months' notice. And obviously, we will do that. The date of
+the expiration of the first year of the 4 price increases available in the 6-year period is October 25, 2021.
+And we, of course, by virtue of today's announcement, are freezing wholesale prices in all of our TLDs
+through March 31, 2021. So I think a little bit of math could answer your question. There's certainly a
+point somewhere, right? Go ahead. I'm sorry.
+
+Sterling Auty
+JPMorgan Chase & Co, Research Division
+
+Absolutely. Yes. I think that's fair. Yes. No. I think that's fair. Maybe just to sneak one last one in.
+GoDaddy's acquisition of the NeuStar registry assets brings a -- let's say a stronger, financially sound
+company into the registry operations. How do you view their entrance into the registry space? And how do
+you think that might influence consolidation of registries moving forward?
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Well, GoDaddy has been and is -- always has been an important channel partner for us, obviously, I mean
+ever since all the way back to when Bob Parsons started and built that company. We certainly expect that
+to continue. End users see tremendous value in .com and .net and those TLDs. And we know that our
+channel partners recognize that value as well. I just should point out that vertical integration is not new.
+Several of other of our registrar channel partners also operate TLD registries. Google has Google registry.
+Name.com has Donuts with over 200 TLDs in it. In each of those cases, these registrars continue to be an
+important channel partner to VeriSign for our TLDs. So I expect those relationships to continue.
+
+Operator
+
+And that does conclude our question-and-answer session. I'd like to turn the conference back over to Mr.
+Atchley for closing remarks.
+
+David Atchley
+VP & Corporate Treasurer
+
+Thank you, operator. Please call the Investor Relations department with any follow-up questions from this
+call. Thank you for your participation. This concludes our call. Have a good evening.
+
+Operator
+And once again, that does conclude today's conference. We thank you all for your participation. You may
+now disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+VERISIGN, INC. FQ2 2020 EARNINGS CALL |  JUL 23, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+

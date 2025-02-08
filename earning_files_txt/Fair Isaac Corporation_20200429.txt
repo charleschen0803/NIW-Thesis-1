@@ -1,0 +1,996 @@
+Fair Isaac Corporation NYSE:FICO
+FQ2 2020 Earnings Call Transcripts
+Wednesday, April 29, 2020 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ2 2020-
+
+-FQ3 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+1.76
+
+2.14
+
+Revenue  (mm)
+
+298.27
+
+307.97
+
+Currency: USD
+Consensus as of  Apr-28-2020 5:45 PM GMT
+
+14.44
+
+1.31
+
+2.20
+
+7.83
+
+8.89
+
+311.11
+
+1216.14
+
+1262.11
+
+FQ3 2019
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.92
+
+1.69
+
+1.86
+
+1.76
+
+2.50
+
+2.01
+
+1.80
+
+2.14
+
+29.53 %
+
+18.93 %
+
+(3.23 %)
+
+14.44 %
+
+COPYRIGHT © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+Steven P. Weber
+VP of Investor Relations &
+Treasurer
+
+William J. Lansing
+President, CEO & Director
+
+ANALYSTS
+
+Brett Richard Huff
+Stephens Inc., Research Division
+
+Jeffrey P. Meuler
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Manav Shiv Patnaik
+Barclays Bank PLC, Research
+Division
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+William Warmington
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+Presentation
+
+Operator
+
+Greetings. And welcome to the FICO Quarterly Earnings Call. I'd now like to turn the call over to Steve
+Weber. Please go ahead.
+
+Steven P. Weber
+VP of Investor Relations & Treasurer
+
+Thank you. Good afternoon, everyone, and thank you for joining FICO's Second Quarter Earnings Call. I'm
+Steve Weber, Vice President of Investor Relations, and I'm joined today by our CEO, Will Lansing; and our
+CFO, Mike McLaughlin.
+
+Today, we issued a press release that describes financial results compared to the prior year. On this call,
+management will also discuss results in comparison to the prior quarter in order to facilitate understanding
+of the run rate of our business. Certain statements made in this presentation may be characterized as
+forward-looking under the Private Securities Litigation Reform Act of 1995. Those statements may involve
+many uncertainties that could cause actual results to differ materially. Information concerning these
+uncertainties is contained in the company's filings with the SEC, in particular, the risks and factors -- risk
+factors and forward-looking statements portions of such filings. Copies are available from the SEC, from
+the FICO website, or from our Investor Relations team.
+
+This call will also include statements regarding certain non-GAAP financial measures. Please refer to the
+company's earnings release and Regulation G schedule issued today for a reconciliation of each of these
+non-GAAP financial measures compared to the most comparable GAAP measure. The earnings release and
+Regulation G schedule are available on the Investor Relations page of the company's website at fico.com
+or on the SEC's website at sec.gov. A replay of this webcast will be available through April 29, 2021.
+
+And now I'll turn the call over to Will Lansing.
+
+William J. Lansing
+President, CEO & Director
+
+Thanks, Steve. And thank you, everyone, for joining us for our second quarter earnings call. First, I hope
+you and your families are healthy and staying safe as we go through this pandemic. As we all know, these
+are unprecedented times. No one can predict with any certainty, the scale or length of disruption from
+COVID-19 or how severe the economic and health impact will be. The many unknowns include the scope
+and effect of further public health responses as well as governmental regulatory fiscal and monetary
+policies. As we usually do, we posted some slides with our results on the Investor Relations section of our
+website. I'll be referencing a few of those today during our presentation.
+
+Today, I'll go over the results for our second fiscal quarter and first half of the year, then I'll talk about
+how we're viewing our business in light of the current situation, and how we plan to execute on a plan to
+remain strong while preparing for the opportunities when this crisis ends.
+
+As we show on Slide 2, we've been successful in moving to a work-from-home structure and have not
+skipped a beat in how we serve the needs of our customers. In fact, nearly all of our 4,000-person global
+workforce are currently working from home. We responded early, closing our China office in February,
+and we followed the lead of local state and national authorities in 43 offices in 32 different countries.
+I'd like to take this opportunity to thank all of our employees who've responded to the quickly unfolding
+circumstances and have allowed us to adjust to ensure that key internal and client project deliverables
+remain on track.
+
+We were well prepared to move to this model. Over the last year, we've increased our usage of video-
+based communication. Before the pandemic, it was a valuable tool to drive collaboration and reduce travel.
+It's now a critical business practice. Our technology team had already built a robust VPN infrastructure
+that permits remote access to secured networks and servers. That infrastructure and our cloud-based
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+solutions and support has meant that we are able to serve our customers without any significant loss
+of productivity. And as always, our cybersecurity team has been focused on protecting customers,
+environments and sensitive data.
+
+It hasn't been easy. There are uncertain and stressful times for everyone, but I'm proud of the business
+continuity efforts we've undertaken to prepare for potential issues, whatever they may be, and how those
+efforts have paid extraordinary dividends as we are able to adapt to the challenges we face.
+
+Finally, we've established an internal coronavirus response team. These are all examples of a resilient
+culture of dedicated professionals who are stepping up to the daily challenges we face.
+
+So I'm pleased to report that we had a very strong second fiscal quarter. We reported revenues of $308
+million, an increase of 11% over the same period last year. We delivered $58 million of GAAP net income
+and GAAP earnings of $1.94 per share. We delivered $64 million of non-GAAP net income and non-GAAP
+EPS of $2.14. This fact that we began to experience COVID related -- in spite of the fact that we've begun
+to experience the COVID-related disruption in late March. We were able to generate $84 million in new
+bookings, which is impressive considering that most of our deals are closed at the end of the quarter, right
+when businesses were closing and everyone was transitioning to work from home.
+
+We continue to have a strong pipeline and believe many of our solutions are exactly what our customers
+are looking for as they focus on risk management. Our software revenue was up a modest 3% this
+quarter. Applications were down 1% as we had fewer upfront license sales and less services revenue
+than last year. Decision Management Software was up 20%, with increases in both license sales and
+transactional revenue from deals we've signed in previous quarters.
+
+In the Scores business, we had another great quarter due to special pricing that began to take effect. Total
+revenues were up 24% versus the prior year and totaled $129 million. On the B2B side, revenues were
+up 27% over the same period as last year. B2C revenues were up 15% this quarter. Scores, particularly
+B2B is also an area of risk during volatile economic times as some of those revenues are tied to things
+like originations of new loans. The strength of our business and our conservative financial practices have
+allowed us to build a healthy balance sheet. As you can see on Slide 4, we have ample liquidity and
+borrowing capacity. But as we look ahead, it's impossible to fully understand what the possible impacts to
+our markets will be and to predict when the economy will improve. Because of these uncertainties, we are
+retracting our full year guidance.
+
+I'd like to direct you to Slide 5 to remind everyone what our original guidance was, where we stand
+now halfway through the year, and what we would need to do in the back half to achieve those original
+numbers. In the spirit of transparency, this slide provides more details of our guidance than what we've
+previously disclosed, including more granularity around revenues. The red highlights areas of potential
+higher risk in the coming months, with B2B scores, as I said, it's difficult for us to accurately forecast what
+will happen with volumes in the near term. Because the scores are sold through bureaus that report to us
+in arrears, we don't have visibility to real-time data. In times of disruption, this is especially difficult until
+we can begin to see the trends in the data. We anecdotally know that mortgage volumes have been strong
+and auto has been weak, but it's difficult to quantify what's happening today, let alone the next several
+months.
+
+Now on the software side, we have a great deal of visibility into our transactional and maintenance
+revenue streams and believe those revenues to be very resilient. It's more difficult to estimate how many
+deals we'll be able to close and what potential impact that would have on license and service revenue. We
+know that we have a strong pipeline of deals and fully expect to close many of them, but there's clearly
+more uncertainty than there was a few months ago.
+
+We also believe that we'll spend less than originally planned. We will likely see savings in some revenue-
+based expenses, and we'll spend less on travel and marketing and other discretionary areas. We're
+scrutinizing our expenses more than ever, and we're committed to being as efficient as possible.
+
+In short, we don't know the severity or duration of disruptions in credit markets or technology purchases.
+Declines in Scores volume will have a negative impact on our revenues despite the special pricing that we
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+started to see this quarter, but it's difficult to know, for instance, the declines in auto sales now create a
+backlog of buyers in the fall or if this is part of a longer downturn. And while sales cycles for our solutions
+will likely be longer, we don't yet know how much is due to customers reassessing purchases versus the
+logistical challenges of remote selling.
+
+That said, we remain confident in our business model. We've got a great start to the year. We have a
+large amount of recurring revenue. While we expect our software revenues in the second half of the year
+to be lower than our guidance due to C-19, we also expect expenses to decline due primarily to reduce
+sales and marketing expense and employee travel. These expense reductions will mitigate the impact on
+our bottom line. And we expect to have other operating expense savings due to general disruption. So
+even though top line volatility is difficult to predict, we could still meet our original bottom line guidance
+if a number of factors play out. These are exceptionally volatile times, but we remain optimistic and are
+actively managing the business to bridge the short-term difficulties while building long-term value.
+
+I'll share some summary thoughts later, but now I'd like to turn the call over to Mike for further financial
+details.
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+Thanks, Will, and good afternoon, everyone. As usual, I'll start with some detail around the revenue for
+Q2 fiscal '20. FICO's revenue for the quarter was $308 million, an increase of 11% over the prior year. Our
+Applications segment revenue were $140 million, down 1% versus the same period last year. The decrease
+in revenue was driven primarily by lower license and professional services revenue. Software applications
+bookings for the quarter were $48 million, down 24% from last year, due in large part to COVID-related
+disruptions and sales efforts at the end of March. In our Decision Management Software segment, Q2
+revenues were $39 million, up 20% over the same period last year. The increase was primarily due to
+license and SaaS subscription revenues from our Decision Management platform products. Decision
+Management Software bookings were $23 million in Q2, down 17% from the previous year, similarly due
+to software sales disruptions at the end of the quarter.
+
+Finally, our Scores segment revenues were $129 million, up 24% from the same period last year. B2B
+scores revenue was up 27% over the same period last year, and B2C revenues were up 15% from the
+same period. We do expect disruptions to Scores volumes, particularly on the B2B side as loan originations
+declined in some credit verticals. As Will said, Scores volumes are reported to us monthly in arrears, and
+so we do not have visibility in the Scores volumes real-time.
+
+Turning to our global revenue mix. In our second fiscal quarter, 78% of total revenues were derived from
+our Americas region. Our EMEA region generated 14%, and the remaining 8% was from the Asia Pacific
+region. Recurring revenues derived from transactional and maintenance sources represented 78% of total
+revenues in the quarter. Consulting and implementation revenues were 16%, and license revenues were
+6% of the total. Revenues derived from our cloud-delivered Software as a Service, or SaaS products,
+were $74 million for the quarter, which included $58 million in transactional revenue and $17 million in
+professional services revenue. That's an increase of 12% from the previous year for our SaaS business.
+
+Total bookings, including our Scores segments for the quarter totaled $84 million, down 20% from last
+year. Those bookings generated $12 million in current period revenues, a 14% yield. SaaS bookings were
+$31 million for the quarter, which was up 6% from the previous year.
+
+Our operating expenses totaled $232 million in this quarter, down $14 million from the prior quarter,
+due primarily to decreases in travel, marketing and other discretionary expenses and the $3 million in
+restructuring costs in Q1 that did not recur in Q2.
+
+FICO's GAAP operating margin for the second quarter was 25%, and our non-GAAP operating margin, as
+shown in our Reg G schedule, was 32%. GAAP net income this quarter was $58 million, up 75% from the
+prior year. Our non-GAAP net income was $64 million for the quarter, up 36% from the same quarter last
+year.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+Our effective tax rate this quarter was about 7%, which included about $12 million of excess tax benefits
+resulting from stock-based compensation activities. We expect our effective tax rate to be around 10% to
+12% for the full fiscal year.
+
+Free cash flow for the quarter was $55 million compared to $44 million in the same period last year. Free
+cash flow for the trailing 4 quarters was $259 million.
+
+Turning to the balance sheet. At the end of the quarter, we had $109 million in cash. This is down $2
+million from last quarter, primarily driven by share repurchases, partially offset by cash generated from
+operations. Our total debt face value is $959 million with a weighted average interest rate of 4.44%.
+At the end of the quarter, we had drawn $124 million on our $400 million revolving line of credit. We
+anticipate drawing on that facility to pay for the $85 million maturity of senior notes coming up in July.
+
+Our leverage ratio as calculated for our revolving line of credit was 2.25x. As a reminder, our current
+covenant is 3.0x, and that covenant will expand to 3.25 when the notes mature in July.
+
+Turning to return of capital. We bought back 290,000 shares in the second quarter for $96 million, at an
+average price of $331 per share. At the end of March, we had about $64 million remaining on the board
+repurchase authorization.
+
+Finally, as Will said, because of the uncertainty around COVID-19 and the impacts on the economic
+environment, we are withdrawing our previously issued financial guidance.
+
+With that, I'll turn it back over to Will for some final comments. Will, are you there?
+
+William J. Lansing
+President, CEO & Director
+
+We are reconnecting. Can you hear me?
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+Can you hear me now, Will?
+
+William J. Lansing
+President, CEO & Director
+
+Okay. Work-from-home challenges. I'd like to end our prepared remarks today with some positive news.
+We're conducting a series of live webinars that we're calling building resiliency, adapting to the challenges
+of today. These webinars, which are almost a virtual FICO world, began last week and continued through
+May 28. The topics fall within 6 tracks: adaptability, digital customer engagement, risk management,
+operational efficiency, building trust, and protecting customers. I'd encourage you to check it out.
+Information is available on our website and there are a number of keynote sessions I think will be of
+interest to our investors, including one I'll be doing jointly with Equifax' CEO, Mark Begor, on May 14.
+
+Finally, I'd like to thank all of you for joining us today. These are challenging times, but I'm convinced
+we're up to the challenge. We can't control the external factors we face, but we can control how we
+respond and plan for the future. We're stewards of remarkable assets, and we remain optimistic as we
+look to the future. We'll bridge this period of disruption as we have in the past and will emerge place
+for growth. We'll be as transparent as possible as we work through this uncertainty, and we'll provide
+guidance as soon as we have a better understanding of the economics and commercial environment.
+
+So I'll now turn it back to Steve for Q&A.
+
+Steven P. Weber
+VP of Investor Relations & Treasurer
+Thanks, Will. We are now ready to take your questions. Operator, please open the lines.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] And our first question is from Manav Patnaik with Barclays.
+
+Manav Shiv Patnaik
+Barclays Bank PLC, Research Division
+
+I was just curious if you could talk to us about the volume trends that you saw in the quarter in the -- if I
+understand, you can't see what's happening beyond that, but maybe what that growth was in the quarter
+and maybe how it looked like in March versus the prior 2 months?
+
+William J. Lansing
+President, CEO & Director
+
+You're talking about B2C, Manav?
+
+Manav Shiv Patnaik
+Barclays Bank PLC, Research Division
+
+No. B2B.
+
+William J. Lansing
+President, CEO & Director
+
+B2B. Mike, I don't know if you have the detail on that.
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+Yes. So the big 3 buckets of volumes in that part of our business, as you know, are the mortgage
+business, the auto business, and then credit cards, personal loans, what we call the other segment.
+Mortgages were up, as you would expect, given some of the refi dynamics that have been in place for a
+number of months and in the auto and other segments, the volume changes were -- on a year-over-year
+basis were in the single-digit percentages. So not really anything to write home about there. With respect
+to the end of the quarter, the impact was close enough to the end of March, which is the last reports we
+have from our partners at the bureau. So we did not see anything informative from those volumes at the
+end of March. Frankly, what you've heard from the bureaus in their quarterly reports over the last week or
+number of days have more real-time information than we have on that front.
+
+Manav Shiv Patnaik
+Barclays Bank PLC, Research Division
+
+Got it. And maybe just on the B2C business as well. I mean, your mix of business there has changed over
+the years. Do you anticipate that to be countercyclical or acyclical or how should we think about that?
+
+William J. Lansing
+President, CEO & Director
+
+So far, it's holding up nicely. And with respect to myFICO, for example, it's up. It's not surprising when
+consumer is very focused on their credit at this kind of a time.
+
+Manav Shiv Patnaik
+Barclays Bank PLC, Research Division
+
+Okay. And then just last one, if I can squeeze it in. You talked about strong visibility on your transactional
+and maintenance side of the software. So I was just curious if you could just give a little bit color on what
+you're seeing from your customers. I mean, has that decelerated, is that being pushed out much later like
+any parts there, please.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+William J. Lansing
+President, CEO & Director
+
+Yes. It is being pushed out. So remember, we have a very long sales cycle, 250-day sales cycle. So we
+had a lot of stuff that was in process that was closer to the end than to the beginning of the process. And
+so that stuff, some of that pushed to next quarter, some of it got closed. The banks haven't been hit in
+the way they were back in 2007, 2008. It's a -- this is a different kind of a situation, as you know. And so
+we haven't seen them pulling back on their investment plans at least not so far. Now it probably would be
+naive to believe that everything will be business as usual. And I'm sure on the margin, there'll be some
+business that we are hoping for that won't happen, but we haven't seen tremendous changes in behavior
+other than the time line for getting transactions done slowing down a little bit.
+
+Operator
+
+And we have a question from Bill Warmington of Wells Fargo.
+
+William Warmington
+
+So I wanted to ask if you could talk a little bit about what the revenue exposure is in Scores for those 3
+buckets: credit card, mortgage and auto. That would be for the -- I'm assuming for the B2B side.
+
+William J. Lansing
+President, CEO & Director
+
+Bill, I think, as Mike mentioned a minute ago, broadly, mortgage looks like it's going to be up. Auto looks
+like it's going to be way down, credit cards and personal loans down. But I think you probably do better
+reading into the numbers that you see from the bureaus than asking us to speculate because we don't
+have it yet.
+
+William Warmington
+
+No, no. I was -- I appreciate that in terms of the volumes, but once we get a sense of the volumes, then
+we have to map it to the FICO B2B revenue. And I was just asking for some help in terms of how big is
+credit card as a percentage of revenue these days? How big is mortgage? How big is auto? How does that
+break down across the Scores B2B universe?
+
+William J. Lansing
+President, CEO & Director
+
+Mike, do you have those percentages? I don't know if you have them handy.
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+Yes. Bill, we haven't shared those in the past, and I don't think this is the forum to change that disclosure
+practice, but I guess I can't say that it hasn't changed materially, at least through the end of March to
+what we've had in the past. So if your assumption in the past worked for you, I would continue to use
+that.
+
+William Warmington
+
+Okay. I don't know if they're working or not, but they're out there. All right. Well, then when you guys
+are talking about -- you made some references to margins and how there is some natural reduction in
+expenses going along with revenue and T&E reductions, freezing hiring and so on. Is the thought to try
+to preserve the margin that was implied in the original guidance, which looks like it was around 32%,
+33% EBITDA, that's adjusted EBITDA level around 30% operating margin. Is that the thought to try to --
+if there is lower revenue to try to preserve that margin percentage? Or your thought is to try to actually
+raise that margin percentage to offset the decline and deliver the same level of EPS?
+
+William J. Lansing
+President, CEO & Director
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+I think, Bill, you can expect that we'll take every step within our power to manage our expenses to
+maximize the margin. So while we don't have complete control over the top line. We obviously have a little
+more control over the bottom line, and so I would hope that we could do better than preserving the rate.
+But again, if you look at the slide in our deck, we basically laid out what would have to be true for us to hit
+the prior guidance.
+
+William Warmington
+
+Correct. Okay. And then I guess in the context of expenses, I wanted to ask about your plans for
+continued investment in the software business and how that's going? Does -- you had mentioned when
+you gave the original guidance, you talked about some opportunities for increased efficiency within the
+software business. I want to see how that's all -- or how you're weighing all that now?
+
+William J. Lansing
+President, CEO & Director
+
+Well, as being an impact that COVID has been on our company, we were engaged in and continue to be
+engaged in a really extensive review of every activity that we have going on in the company. And our
+goal is to really focus on things that are truly strategic and to deemphasize things that are less strategic.
+And that initiative, that work proceeds to pay. That has not been slowed in the least by COVID. I think,
+if anything, we're more committed than ever to getting as much of our capability onto the platform as
+quickly as possible so we can start to see the returns to scale that we're all looking for. So I would say that
+our investment plans on strategic and platform stuff, completely unchanged. If anything, we're looking for
+ways to free up resources to put even more against it, but then things that are off-platform off-strategy,
+we're scrutinizing those very carefully.
+
+William Warmington
+
+And then last one for me. I wanted to ask about the FICO Resilience Index. It sounds like an interesting
+product. It looks like your -- maybe you could talk a little bit about what the plan is for that one in terms
+of the rollout. It looks like Equifax is the only one right now doing a test with it. But how soon do you think
+that's going to -- before that actually starts to generate some revenue? How big could it be?
+
+William J. Lansing
+President, CEO & Director
+
+We think it's going to be very big. It's not going to generate any revenue in the near term because our
+plan is to provide it for free along with FICO Scores. So if you buy a FICO score, you can also get the FICO
+Resiliency Index along with it. We think that there's tremendous demand, maybe worth spending just a
+minute on what it is.
+
+This is some really smart stuff that our guys came up with that helps us to differentiate amongst
+consumers and evaluate their credit. Within any particular FICO Score, they're -- that's at a point in
+time and a point in the economic cycle, and there are individuals who are more resilient and there are
+individuals who are less resilient.
+
+And the traditional way of dealing with downturns, and we see it today is that lenders raise their lending
+thresholds. They raise their cutoffs. And while obviously, that's the prudent thing to do, we'd love for that
+to be a little more sophisticated and surgical and be able to evaluate some of the individuals below those
+cutoffs with more precision. And that's really what FICO Resiliency Index does.
+
+It'll be bundled with the FICO Score. It will be widely available to anyone who's buying FICO Scores. It is
+currently in test, as you said, with Equifax and the Dow, Experian will have it out too. TU should follow.
+And yes, we have high expectations because it's been very well received today.
+
+Operator
+
+And we have a question from Jeff Meuler with Baird.
+
+Jeffrey P. Meuler
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+Robert W. Baird & Co. Incorporated, Research Division
+
+Just within the software businesses, I understand that bookings are going to be impacted, which can
+impact revenue, license revenue, professional services, but in terms of client usage, I think there was a
+mention of collections and recovery. I'm guessing that's because of some collection hiatuses, but seeing
+some negative impacts there, but just what are you seeing across the different software businesses, any
+kind of positives or negatives by the different products to call out?
+
+William J. Lansing
+President, CEO & Director
+
+We're seeing more in CCS and customer communication. That's up a bit because the lenders are engaged
+in a lot more back and forth with their consumer customers than they have been in the past. So that's up
+a little. The others, not tremendously different impact. I mean, we're not seeing huge proportional shifts
+or anything.
+
+Jeffrey P. Meuler
+Robert W. Baird & Co. Incorporated, Research Division
+
+Okay. And then within B2B scores, how much of it is tied to, I guess, origination or marketing-type
+volumes? And how much of it is stickier account management or open access program type scores in
+terms of B2B's revenue mix?
+
+William J. Lansing
+President, CEO & Director
+
+We don't break it out. We don't break it out. I think it's fair to assume that there'll be a little less
+origination activity. I mean, that's not an unreasonable assumption.
+
+Jeffrey P. Meuler
+Robert W. Baird & Co. Incorporated, Research Division
+
+Okay. And then there was 2 comments as you were talking about the special pricing. One was, began to
+take effect and then started to see just any sense of roughly how much of the special pricing was -- the
+benefit was felt this quarter versus yet to be feathered in?
+
+William J. Lansing
+President, CEO & Director
+
+We have felt it. Yes, it's come in.
+
+Operator
+
+We have a question from Brett Huff with Stephens.
+
+Brett Richard Huff
+Stephens Inc., Research Division
+
+Question to follow-up on what I thought was an interesting comment you made on bank health, and Will,
+I think you phrased it, the banks weren't hit -- aren't hit yet as hard or aren't hit as hard as maybe in the
+Great Recession just given this isn't bank led. A lot of our clients are trying to suss out kind of how banks
+are reacting. So could you just flesh out that a little bit more? I think you mentioned that you haven't seen
+any major changes in investment. Kind of what is their attitude as you talk with them about what their
+game plan is and how you can help them?
+
+William J. Lansing
+President, CEO & Director
+
+Well, I think that they're much better prepared than the last time. Their balance sheets are stronger, they
+have more capital on hand. They learned the last time around, and I also think that the government and
+the Fed has jumped in, in a way very quickly in a way that they didn't the last time around, took longer.
+And so I think it's those kinds of things. And as you can see from their public statements, if you look at
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+the public statements from the big bank CEOs, they're obviously planning to weather this much better
+than the last time around.
+
+Brett Richard Huff
+Stephens Inc., Research Division
+
+That's helpful. And any particular products that have peaked more interest in the last 6 weeks? I'm
+assuming maybe collections or something like that, but anything that has kind of sparked -- spiked up
+given the changes in the outlook?
+
+William J. Lansing
+President, CEO & Director
+
+Just as I mentioned earlier, there's more usage of our Customer Communication Services, which is the
+last mile customer -- consumer customer contact. That -- those volumes are up. Remember, long sales
+cycle. And so you wouldn't see things change quickly. The things that are in place, we're seeing more
+volume in places you'd expect like that, like the CCS. But otherwise, we're not -- we're expecting with all
+the transaction volume down -- credit card transaction volume down, it may have an impact on Falcon
+volumes. But most of our Falcon business is priced by account. And so I'm not sure how much impact it
+would really have on...
+
+Brett Richard Huff
+Stephens Inc., Research Division
+
+Okay. Last question for me is, as you -- one of the things that a lot of folks have been asking us is kind
+of the value proposition that the FICO Score continues to provide and even at higher prices, were of the
+opinion that it's still one of the best deals going in risk management and portfolio management. Any
+conversations, and I don't know how much you can talk with banks about this, but what is the -- any
+added views on how does that value play out in an uncertain situation like this for banks? Do they perceive
+it differently? Are they looking to buy it differently, buy it more, et cetera, for that risk management in a
+situation like this?
+
+William J. Lansing
+President, CEO & Director
+
+So the answer is, yes, we strongly believe that it's a tremendous tool. The FICO Score is a tremendous
+tool for evaluating creditworthiness and more needed, more necessary, more in demand than ever in times
+like these. The Resiliency Index that I mentioned earlier is tied up in that. And the way we think about it
+is we're constantly innovating and trying to find ways to bring ever more sophistication to that evaluation,
+to that decision. And that's worked out pretty well. Will they be pulling account management scores more
+frequently in these times, to be determined, we'll see. It wouldn't be a shock.
+
+Operator
+
+[Operator Instructions] And we have a question from Surinder Thind with Jefferies.
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+Will, I'd like to start with a question on the Scores business. Can you talk a little bit about the strength
+in the B2C segment? There was a little bit of a color on it earlier, but a double-digit growth at this point
+seems really strong. And yet, how should we think about the consumer in this environment? And then
+maybe even from a competitive perspective in the sense that there are perhaps other competing services
+out there that are also trying to at least mimic providing consumers score type information for free?
+
+William J. Lansing
+President, CEO & Director
+
+Yes. I mean, that's been going on for years. There are players out there who provide non-FICO Scores
+to consumers to help them, to give them a sense for what their creditworthiness. But since lenders
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+predominantly use FICO Scores, there's a mismatch there. Consumers are sometimes confused, but
+we've been working for a long time on trying to clear out that confusion to make sure that consumers
+understand that a credit score is not a FICO Score, unless it's a FICO Score. And that the -- what they're
+trying -- what the consumer is trying to understand is what the lender thinks of them. What the lenders'
+evaluation of their creditworthiness is, then the FICO Score is the way to do it.
+
+We have an arrangement with Experian, our partner, where Experian provides FICO Scores to the
+consumers and their consumer offerings. We offer, obviously, FICO scores in our own consumer offering
+in myFICO. We think that there's more appetite and interest in that than ever. Just kind of given the
+situation, people are concerned about their credit. And so we feel pretty good about that business.
+Obviously some of that business is tied to origination of credit cards and to the extent that there's a
+decline there, that'll slow that down.
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+That's helpful. And then in terms of any color on -- is Experian the primary source of the B2C revenues?
+Or is myFICO a considerable percentage as well?
+
+William J. Lansing
+President, CEO & Director
+
+Experian is bigger than myFICO. It's -- revenues?
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+In terms of revenues, yes.
+
+William J. Lansing
+President, CEO & Director
+
+No. Our myFICO is a good business, too, a good-sized business, too. I don't think we break out the
+specifics of it. But experience is also very important to that business.
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+Understood. And then in terms of just a big picture question for the Scores business. Obviously, it is a very
+transaction-driven business. Is there consideration to maybe moving more towards a licensing model just
+to reduce some of the volatility? Or is there an appetite from that from clients? Or is there any kind of
+discussions? Obviously, I think it was last quarter, I believe that there was a big licensing deal. Any color
+or thoughts that you might be having with clients, especially maybe in the current environment around
+something like this?
+
+William J. Lansing
+President, CEO & Director
+
+Most of our Scores business is priced per score.
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+Understood. Meaning that from your guys' perspective, from a strategy perspective, desire for you guys to
+go more towards a licensing model?
+
+William J. Lansing
+President, CEO & Director
+
+Well, we're pretty happy with the model that we have. I don't know that we're looking to modify it.
+
+Surinder Singh Thind
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+Jefferies LLC, Research Division
+
+Understood. And then moving towards the software business. Can you talk a little bit about the
+applications business versus DMS, maybe the idea being that how should we maybe think about the mix
+of sales on a go-forward basis? Is the sales force being incentivized to maybe sell DMS over applications?
+Or I know in the past at times, you guys have talked about that you're agnostic, but obviously, DMS is the
+platform of the future?
+
+William J. Lansing
+President, CEO & Director
+
+Right. We have historically paid a little bit extra attention to -- from a sales force perspective to selling
+DMS-based products. But at the end of the day, we sell to our customers what they need and if it's
+DMS-based, fantastic. And if it's not, then so be it, we'll do it that way. So -- and we compensate our
+salespeople regardless of what it is they sell. I think your point's well taken, though. And as we think into
+the future, we likely will favor DMS sales over non-DMS sales. So I think that's the piece of the business to
+really watch. That's the future.
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+That's helpful. And then maybe turning to expenses. I mean, obviously, given the strength of your
+cash flows, the balance sheet has a firm, I mean, do you really have to think about playing defense in
+the current environment? I got the sense that you guys were obviously watching expenses carefully.
+Obviously, that's good to do at any point in time, but how should we just think about your overall expense
+allocation at this point or investment versus maybe what it would be under normalized conditions? How
+much of a difference are you guys kind of seeing? Obviously, there's a natural component to it. Meaning,
+obviously, the less travel, less marketing-type stuff. But just any color there would be helpful as well.
+
+William J. Lansing
+President, CEO & Director
+
+If you're asking about COVID specific kind of implications that you just mentioned them. It's things like
+travel, and it's the fact that when revenue is lower, we have less expense associated with servicing that
+revenue. So that part is for sure. I wouldn't say that we're in a place where suddenly because of COVID,
+our backs are to the wall, and we have to rethink our entire expense structure. I think we're doing the
+thing that management always does, which is reviewing whether every dollar is well spent, and we are
+engaged in that process and continue to be engaged in that process. But I wouldn't call it an emergency or
+a response to COVID. I think he's just running the business.
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+Okay. No, understood. And that was actually my point that you guys really do have a strong cash flows
+balance sheet so that you don't perhaps need to be as defensive as maybe other organizations are.
+
+William J. Lansing
+President, CEO & Director
+
+Absolutely.
+
+Surinder Singh Thind
+Jefferies LLC, Research Division
+
+And then I guess turning to I guess, the question being, in terms of just the -- when I look at the
+personnel expenses, headcount is up over year-over-year, but the personnel costs are down. Is that
+mostly like variable comp that is the delta there? Or how should we be thinking about that difference?
+
+William J. Lansing
+President, CEO & Director
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+Mike, do you want to take that?
+
+Michael I. McLaughlin
+Executive VP & CFO
+
+It's 2 things. So as you may recall, we had a restructuring expense in the last quarter. Part of that was to
+reduce headcount. And so there's some of that. And then also, we accrue throughout the year, year-end
+incentive bonuses, both cash and stock-based, based on certain expected outcome. And that outcome, we
+could exceed it or underperform. And the rate at which we accrue those year-end does have an impact on
+the period-to-period labor costs. The big picture, though, is that headcount is essentially flat. I think it's
+up 0.5% versus where we were last quarter, and there's nothing significant going on in terms of the mix of
+compensation or the rate of change of compensation per person.
+
+Operator
+
+There are no further questions at this time.
+
+Steven P. Weber
+VP of Investor Relations & Treasurer
+
+Thank you. Thank you, everyone, for joining today's call. We look forward to talking with you again soon.
+Stay safe and healthy, and thank you again.
+
+Operator
+That concludes the call for today. We thank you for your participation and ask that you please disconnect
+your lines.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+FAIR ISAAC CORPORATION FQ2 2020 EARNINGS CALL |  APR 29, 2020
+
+Copyright © 2022 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2022 S&P Global Market Intelligence.
+
+Copyright © 2022 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+

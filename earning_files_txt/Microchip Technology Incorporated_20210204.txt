@@ -1,0 +1,1365 @@
+Microchip Technology Incorporated 
+
+NasdaqGS:MCHP
+FQ3 2021 Earnings Call Transcripts
+Thursday, February 04, 2021 10:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2021-
+
+-FQ4 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+1.58
+
+1.62
+
+Revenue  (mm)
+
+1348.56
+
+1352.10
+
+Currency: USD
+Consensus as of  Feb-04-2021 2:31 AM GMT
+
+2.53
+
+0.26
+
+1.65
+
+6.34
+
+7.23
+
+1387.18
+
+5355.61
+
+5892.06
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+FQ3 2021
+
+1.35
+
+1.44
+
+1.43
+
+1.58
+
+1.46
+
+1.56
+
+1.56
+
+1.62
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+8.15 %
+
+8.33 %
+
+9.09 %
+
+2.53 %
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Ganesh Moorthy
+President, COO & Director
+
+James Eric Bjornholt
+Senior VP & CFO
+
+Stephen Sanghi
+CEO & Chairman
+
+ANALYSTS
+
+Ambrish Srivastava
+BMO Capital Markets Equity
+Research
+
+Christopher Caso
+Raymond James & Associates,
+Inc., Research Division
+
+Christopher Adam Jackson
+Rolland
+Susquehanna Financial Group,
+LLLP, Research Division
+
+Harsh V. Kumar
+Piper Sandler & Co., Research
+Division
+
+Janet Ramkissoon
+
+Toshiya Hari
+Goldman Sachs Group, Inc.,
+Research Division
+
+Unknown Analyst
+
+Christopher Brett Danely
+Citigroup Inc., Research Division
+
+Vivek Arya
+BofA Securities, Research Division
+
+Craig Matthew Hettenbach
+Morgan Stanley, Research Division
+
+Denis Pyatchanin
+Needham & Company, LLC,
+Research Division
+
+Gary Wade Mobley
+Wells Fargo Securities, LLC,
+Research Division
+
+Harlan Sur
+JPMorgan Chase & Co, Research
+Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+Presentation
+
+Operator
+
+Good day, everyone, and welcome to Microchip's Third Quarter Fiscal 2021 Financial Results Conference
+Call. As a reminder, today's call is being recorded. At this time, I would like to turn the call over to Chief
+Financial Officer, Eric Bjornholt. Please go ahead.
+
+James Eric Bjornholt
+Senior VP & CFO
+
+Thanks, Pauline, and good afternoon, everyone. During the course of this conference call, we will be
+making projections and other forward-looking statements regarding future events or the future financial
+performance of the company. We wish to caution you that such statements are predictions and that actual
+events or results may differ materially. We refer you to our press releases of today as well as our recent
+filings with the SEC that identify important risk factors that may impact Microchip's business and results of
+operations.
+
+In attendance with me today are Steve Sanghi, Microchip's Chairman and CEO; and Ganesh Moorthy,
+Microchip's President and COO. I will comment on our third quarter financial performance, and Steve and
+Ganesh will then give their comments on the results and discuss the current business environment as well
+as our guidance. We will then be available to respond to specific investor and analyst questions.
+
+We had an unintentional posting of our earnings release on our website shortly before the normally
+scheduled timing today. Once we determined this occurred, we moved quickly to get the releases sent out
+over our normal distribution processes.
+
+We are including information in our press release and our conference call on various GAAP and non-GAAP
+measures. We have posted a full GAAP to non-GAAP reconciliation on the Investor Relations page of our
+website at www.microchip.com, which we believe you will find useful when comparing our GAAP and non-
+GAAP results. We have also posted a summary of our outstanding debt and our leverage metrics on our
+website.
+
+I will now go through some of the operating results, including net sales, gross margin and operating
+expenses. Other than net sales, I will be referring to these results on a non-GAAP basis, which is based
+on expenses prior to the effects of our acquisition activities, share-based compensation and certain other
+adjustments as described in our press release.
+
+Net sales in the December quarter were $1.352 billion, which was up 3.3% sequentially and above the
+midpoint of our quarterly guidance. We have posted a summary of our GAAP net sales by product line and
+geography as well as our total end market demand on our website for your reference.
+
+On a non-GAAP basis, gross margins were a record of 63%, operating expenses were 23.2% and
+operating income was a record 39.8%. Our factory underutilization charges decreased from $12.2 million
+to $3.7 million sequentially as we continue to ramp our factories to respond to the strong business
+conditions. We expect the continued ramp of our factories to lead to no underutilization charges in the
+March quarter. Non-GAAP net income was $444.9 million. Non-GAAP earnings per diluted share was $1.62,
+$0.05 above the midpoint of our guidance.
+
+On a GAAP basis in the December quarter, gross margins were a record at 62.6% and include the impact
+of $6.4 million of share-based compensation expense. Total operating expenses were $600.2 million and
+include acquisition intangible amortization of $231.6 million, special charges of $4.3 million, $5.4 million of
+acquisition-related and other costs and share-based compensation of $44.8 million. The GAAP net income
+was $36.2 million or $0.13 per diluted share and was adversely impacted by $142.1 million loss on debt
+settlement associated with debt refinancing activities in the quarter.
+
+Our December quarter GAAP tax expense was impacted by a variety of factors, notably, the tax benefit
+recorded on the convertible debt exchange transactions occurring during the period. Our non-GAAP cash
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+tax rate was 4.25% in the December quarter. We expect our non-GAAP cash tax rate for fiscal '21 to be
+about 4.8%, exclusive of the transition tax, any potential tax associated with restructuring the Microsemi
+operations into the Microchip global structure and any tax audit settlements related to taxes accrued in
+prior fiscal years. We have many tax attributes and net operating losses and tax credits as well as U.S.
+interest deductions that we believe will keep our cash taxes low in the future.
+
+Our inventory balance at December 31, 2020, was $666.1 million. We had 120 days of inventory at the
+end of the December quarter, which was flat to the prior quarter's level. Inventory at our distributors in
+the December quarter were 26 days, which is a record low level and down from 30 days at the end of the
+prior quarter. In the current environment, it is quite challenging for Microchip or its distributors to increase
+days of inventory.
+
+In the December quarter, we exchanged $1.086 billion of our 2025, 2027 and 2037 convertible
+subordinated notes for cash, shares of our common stock and a new convertible bond that matures in
+2024. While these transactions did not impact the overall level of debt on our balance sheet, we believe
+that these convertible exchanges will benefit stockholders by significantly reducing share count dilution
+to the extent our stock price appreciates over time, which Steve will comment on further in his prepared
+remarks.
+
+In calendar year 2020, we reduced the amount of convertible bonds on Microchip's balance sheet by
+approximately $2.9 billion. In the December quarter, we also issued a $1.4 billion senior secured bond
+with a maturity date of February 15, 2024, and an interest rate of 0.972% and used the proceeds from
+that transaction to pay off our Term Loan B which we were paying an interest rate of about 2.15% on.
+
+Our cash flow from operating activities was $509.7 million in the December quarter. As of December 31,
+our consolidated cash and total investment position was $372.7 million. We paid down $289.7 million of
+total debt in the December quarter, but please remember that this is inclusive of the cash paid for our
+various debt financing activities in the quarter, including putting a capped call in place for our newly issued
+convertible bonds.
+
+Over the last 10 full quarters since we closed the Microsemi acquisition and incurred over $8 billion in
+debt to do so, we have paid down $3.24 billion of debt and continue to allocate substantially all of our
+excess cash beyond dividends to aggressively bring down this debt. We have accomplished this despite the
+adverse macro and market conditions during most of this period, which we feel is a testimony to the cash
+generation capabilities of our business as well as the ongoing operating discipline we have. We continue to
+expect our debt levels to reduce significantly over the next several years.
+
+Our adjusted EBITDA in the December quarter was a record $593.4 million, and our trailing 12-month
+adjusted EBITDA was $2.271 billion. Our net debt-to-adjusted EBITDA, excluding our very long-dated
+convertible debt that matures in 2037 and is more equity-like in nature, was 3.93 at December 31, 2020,
+down from 4.04 at September 30, 2020. But please note that the amount of the 2037 bonds were reduced
+by $407.7 million during the December quarter as part of the financing transactions, which has impacted
+this metric. Our dividend payment in the December quarter was $96 million.
+
+Capital expenditures were $21.4 million in the December 2020 quarter. We expect between $50 million
+and $60 million in capital spending in the March quarter and overall capital expenditures for fiscal '21 to
+be between $87 million and $97 million. In the last quarter's conference call, we explained that our capital
+expenditure plan for fiscal '21 had increased as we more rapidly prepared for growth in our business as
+well as actions we were taking to increase our internal capacity in the face of constraints our outsourcing
+partners are experiencing.
+
+Our fiscal '21 capital expenditures are coming in lower than we indicated last quarter due to longer
+equipment lead times and deliveries pushing out due to overall industry conditions. We continue to add
+capital to maintain and operate our internal manufacturing operations, support the production capabilities
+for our new products and technologies as well to selectively bring in-house some of the wafer fabrication,
+assembly and test operations that are currently outsourced. We expect these capital investments will bring
+gross margin improvement to our business and give us increased control over our destiny during periods
+of industry-wide constraints. Depreciation expense in the December quarter was $40.3 million.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+I will now turn it over to Ganesh to give his comments on the performance of the business in the
+December quarter. Ganesh?
+
+Ganesh Moorthy
+President, COO & Director
+
+Thank you, Eric, and good afternoon, everyone. Let's start by taking a closer look at microcontrollers. Our
+microcontroller revenue performed well with revenue sequentially up 3.3% as compared to the September
+quarter. On a year-over-year basis, our microcontroller revenue was up 5.9%.
+
+We continue to introduce a steady stream of innovative new microcontroller solutions, including: the first
+safety-certified capacitive touchscreen controllers for the home appliance market; the first Trust&GO WiFi
+module, delivering powerful 32-bit microcontroller functionality and verifiable identity; the industry's
+highest density secured Ethernet switching solution for hyperscale data centers and telecom service
+providers; and last but not least, 3 new broad market 8-bit microcontroller families to extend our
+leadership in this product line. Microcontrollers overall represented 53.7% of our revenue in the December
+quarter.
+
+Moving to analog. Our analog revenue also performed well and was sequentially up 3.1% as compared
+to the September quarter. On a year-over-year basis, our analog revenue was up 2.6%. During the
+quarter, we continued to introduce a steady stream of innovative analog products, too, including the
+first cryptographic companion device supporting in-vehicle network security solutions; a new family of
+configurable 12-bit digital-to-analog converters; the first highly integrated radiation-hardened motor
+controller; and finally, a family of low-latency PCI Express 5.0 and Compute Express Link retimers. Analog
+represented 27.6% of our revenue in the December quarter.
+
+Our FPGA revenue was down 8.5% sequentially as compared to the September quarter. On a year-over-
+year basis, our FPGA revenue was up 7.1%. As we cautioned on our prior conference calls, FPGA revenue
+does have some lumpiness associated with it because of the large exposure to the aerospace and defense
+market and the associated purchasing patterns. During the quarter, we announced a radiation-hardened
+fourth-generation FPGA family and a low-power radiation-tolerant fifth-generation PolarFire FPGA family.
+FPGA represented 7.3% of our revenue in the December quarter.
+
+Our licensing, memory and other product line, which we refer to as LMO, was up 13% in revenue
+as compared to the September quarter with strength in licensing revenue driving this growth. LMO
+represented 11.4% of our revenue in the September quarter.
+
+A quick note about our product line reporting. Given the relatively smaller size of our FPGA product
+line at about 7% of our revenue as compared to our microcontroller and analog product lines, we have
+decided that starting in calendar year 2021, we will no longer break out the FPGA product line separately.
+Our FPGA products remain important to our overall total system solutions goals. We continue to make
+significant investments in our FPGA products and expect those investments will help drive our long-term
+growth and total system solutions initiatives. Going forward, we will combine our FPGA revenue with our
+LMO, or licensing, memory and other, revenues into a new category that we'll just call Other.
+
+From an end market standpoint, we continue to see the automotive, industrial and consumer markets
+strengthened further in the December quarter, approximating a V-shaped recovery in the second half
+of calendar year 2020 as compared to the first half. The end markets have benefited earlier in the year
+from the work-from-home-related demand search. Namely, computing, communications and data center
+remained at more normal demand patterns as the surge we saw in the June quarter dissipated.
+
+The Huawei ban, which was in effect for all of the December quarter and represented 1% to 2% of our
+overall revenue, had a more pronounced negative impact on our data center business where it was a
+more meaningful percentage of that business. Finally, demand for our products that go into the office
+environment, which we refer to as enterprise demand, remained weak as most businesses remain
+predominantly with the work-from-home policies that's deferring enterprise spending for the office
+environment.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+The supply chain constraints that started in the September quarter continued to grow through the
+December quarter. A robust overall business environment, accentuated by rising demand from the
+automotive, industrial and consumer markets combined with low levels of inventory in the distribution
+channel resulted in constraints in practically all of our internal and external factories. Since September,
+we have been ramping our internal factories as well as investing in capital additions to further expand our
+internal capacity. We have also worked with our supply chain partners to increase our fab, assembly and
+test capacity allocation.
+
+However, based on the current strength of the business environment, we expect that the constraints
+we are currently seeing are likely to continue through much of calendar year 2021 and possibly into
+calendar year 2022. As a result, we have seen our lead time stretch out for many of our products where
+the constraints are most acute. We have also experienced increases in material and subcontracted
+manufacturing costs and have taken steps to secure capacity for 2021. Steve will discuss more in his
+prepared remarks about our actions to address the current environment of increasing manufacturing cost
+and seemingly insatiable demand.
+
+Let me now pass it to Steve for comments about our business and our guidance going forward. Steve?
+
+Stephen Sanghi
+CEO & Chairman
+
+Thank you, Ganesh, and good afternoon, everyone. Today, I would like to first reflect on the results of the
+fiscal third quarter of 2021. I will then provide guidance for the fiscal fourth quarter of 2021.
+
+The December quarter represented the shift of the business cycle back to revenue growth with a 3.3%
+sequential growth in a quarter where ordinarily, we would see a 3% sequential decline from typical
+seasonal factors. December quarter revenue also grew over prior year's December quarter by 5%. We
+started ramping our internal factories in September as well as investing in capital additions to expand
+our internal capacity. We also started working with our supply chain partners to receive more allocation
+from wafer foundries and assembly test subcontractors. These efforts improved product availability in the
+December quarter but still constrained some of the revenue upside.
+
+We delivered a record non-GAAP gross margin of 63% helped by significant reduction in factory
+underutilization and better overhead utilization from revenue growth. We also achieved non-GAAP
+operating margin of 39.8%, an all-time record and getting very close to an emotional 40% mark. We also
+hit a record EBITDA of $593.4 million despite revenue not at a record yet showing the robust strength
+of our business model. Our consolidated non-GAAP EPS was $1.62, $0.05 above the midpoint of our
+guidance. This was also our 121st consecutive quarter of non-GAAP profitability.
+
+Now I will discuss our guidance for the March quarter. Our bookings were exceptionally strong in the
+December quarter and were an all-time record. We received bookings both for short term as well as into
+the future quarters. The backlog is also an all-time record. Please remember that bookings as well as the
+backlog is what is shippable in the next 12 months. The backlog for the March quarter is the strongest
+starting backlog I have ever seen. Our bookings have remained strong in January. On the operational side,
+the December quarter was constrained by product availability. We will have more internal and external
+capacity in the March quarter since we have had multiple months to ramp, although I believe that wafer
+fab as well as back-end constraints are here to stay with us through calendar year 2021.
+
+In response to the business environment, we have taken 3 actions. First, in the middle of December,
+we changed our cancellation and pushout terms with our customers and distributors. The standard
+terms used to be that an order cannot be canceled or pushed out once it is within 45 days of shipment.
+We changed our standard terms so that an order cannot be canceled or pushed out within 90 days of
+shipment effective January 1, 2021. We gave customers a couple of weeks to adjust their backlog before
+it went firm for 90 days. In response to our change in terms, we did not see any unusual cancellations
+or pushouts, which indicates to us that the backlog was firm and needed by our customers. That gave us
+a solid backlog for the March quarter, which cannot be canceled or pushed out. Therefore, we can batch
+process the orders and use our manufacturing assets most efficiently knowing that what we build will get
+shipped.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+The second action we took was that we sent a letter to our customers on January 4, 2021, informing them
+of the business environment. We also informed them that we are seeing broad-based cost increases and
+some aggressive commercial terms from our supplier base, and we must pass these cost increases to our
+customers through a broad-based price increase.
+
+The third action we took just this morning. We posted a letter on our website and sent it to our customers
+and distributors announcing a new program called the Microchip Preferred Supply Program, or PSP. This
+program offers our customers the ability to receive prioritized capacity in the second half 2021 and first
+half 2022.
+
+The program has the following elements: the customers participating in this program will have to place
+12 months of orders, which will be noncancelable and non-reschedulable. The capacity priority will begin
+for shipments in July 2021. The program will not be a guarantee of supply. However, it will provide the
+highest priority for those orders which are under this PSP program. And the capacity priority will be on a
+first-come, first-served basis until the available capacity is booked. We will, of course, reserve a portion of
+our capacity for new customers, small long-tail customers and new designs.
+
+We expect that a significant portion of our capacity will be booked under this new program. With a large,
+committed, noncancelable backlog for 12 months, Microchip will be in a stronger position to make capacity
+and raw material commitments to our suppliers, buy capital equipment with confidence, hire employees
+and ramp up manufacturing and manufacture products more efficiently.
+
+Taking all these factors into consideration, we expect our net sales for March quarter to be up between 5%
+to 10% sequentially. The March quarter guidance at the midpoint would represent record GAAP net sales
+with the prior record being in the September quarter of 2018. The September quarter of 2018, based on
+GAAP sell-in revenue recognition, was $1.432 billion.
+
+Some of you may still carry a sell-through-based number of $1.513 billion for September 2018 in your
+historical financial model spreadsheets. The March quarter will also be limited by product availability on
+many product lines. Our guidance assumes working through a myriad of capacity constraints qualifying
+incremental equipment installed, qualifying alternate subcontractors in some cases and still dealing with
+the risk of production constraints with a new wave of COVID cases plaguing the planet and at the same
+time, ramping up vaccinations.
+
+For the March quarter, we expect our non-GAAP gross margin to be between 63.3% and 63.7% of sales,
+which would be a new all-time record. We expect non-GAAP operating expenses to be between 23.2% and
+23.6% of sales, and we expect non-GAAP operating profit percentage to be between 39.7% and 40.5% of
+sales. We expect our non-GAAP earnings per share to be between $1.67 per share to $1.79 per share. We
+also expect to pay down another approximately $350 million of our debt in the March quarter.
+
+Finally, I want to cover one other area, which is our future cash return strategy. At the rate we're paying
+down debt, we expect to break a net leverage of 3 within a year and continue to decrease from there. At
+that time, we expect to begin distributing more of a substantial amount of free cash flow to the investors
+in the form of dividends and stock buybacks.
+
+Regarding buybacks, through multiple tranches of convertible debt buyback, we have essentially bought a
+substantial amount of stock back from the future. This is because as the stock price rises and exceeds the
+conversion price of the debt, convertible debt dilutes the share count. [ Trying to ] convert back prevents
+future dilution as the stock price rises. Our first convert buyback was in March 2020 when Microchip's
+stock price was about $71. Since then, we have done 4 other buyback transactions at various stock prices.
+
+By doing these various buyback transactions, we have purchased a total of $3.525 billion in face value
+of our convertible bonds. For the transactions from March 2020 to September 2020, we issued a total of
+about 20.4 million shares of our common stock to the investors for in-the-money value of their bonds. If
+these bonds have remained outstanding until an assumed stock price of $140 per share with the stock
+price about now, the dilution would have been about 26.4 million shares.
+
+Thus, our repurchases had the impact of creating a savings of about 6 million shares worth $840
+million savings to our investors at $140 per share. This calculation does not include our November
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+2020 transaction, which was very recent and executed at $133.47 per share, so it is not yet accretive.
+Therefore, while we have not done an open market stock buyback in the last year, our convert transactions
+have had the impact of a buyback of approximately 6 million shares. At some point in the future, we
+expect to start pure stock buyback from the open market.
+
+We are also initiating a path to higher dividends and not waiting until our leverage reaches a given number
+before the dividend starts to increase. In this regard, we announced today that the Board of Directors
+have approved a dividend increase of 5.8% sequentially to $0.39 per share, up from $0.3685 previously.
+We expect to continue to increase dividends quarterly as part of our cash return strategy.
+
+Given all of the complications of accounting for our acquisitions, including amortization of intangibles,
+restructuring charges and inventory write-up on acquisitions, Microchip will continue to provide guidance
+and track its results on a non-GAAP basis except for net sales which will be on a GAAP basis. We believe
+that non-GAAP results provide more meaningful comparison to prior quarters, and we expect that the
+analysts -- and we request that the analysts continue to report their non-GAAP estimates to first call.
+With this, Pauline, will you please pool for questions?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] And we'll take the first question at this time.
+
+Stephen Sanghi
+CEO & Chairman
+
+We can't hear you. Maybe you're on mute.
+
+Unknown Analyst
+
+Steve, can you hear me?
+
+Stephen Sanghi
+CEO & Chairman
+
+Yes, now.
+
+Unknown Analyst
+
+Apologize. I didn't hear my name get called. I just heard caller. Apologize for that. Just really quickly.
+We've lived through multiple times of you sending out customer letters, and we kind of have an
+understanding of how the market responds to that. I'd be kind of curious, the preferred supplier
+agreement that you talked about in your opening remarks, is this the first time that you have done that?
+And if it's not, what's been the historical response to programs like this?
+
+Stephen Sanghi
+CEO & Chairman
+
+So the Preferred Supply Program is brand new. I have not ever implemented it in my 42 years of career,
+and I have never seen anybody else do that, too. The program is largely a response to the current
+environment because bookings level is just so strong and people are booking parts out in time. The
+industry seems to be 30% plus short to really what the capacity requirement is. And many of our
+customers have been asking what can they do if they give us longer-term demand, longer-term orders.
+Will that give them parts? Will that give them better support?
+
+Now customers can give us longer-term orders. But if the orders are cancelable or reschedulable after
+90 days, which was the case prior to the program, then I could have a lot of orders for September and
+December and could buy capital, hire people to ramp. But just before I get there, people could cancel
+if there was a double ordering, people were asking more than they need and they cancel part of the
+orders. So that is often the problem always, and you guys ask the question, is there any double ordering
+or whatever. And this program basically eliminates all that. It asks the customers to place 12 months
+of backlog, which will be noncancelable, non-reschedulable so I can take that one to the bank, buy raw
+material, do batch processing, grow the capacity and give them preferential supply. So this is the first time
+we have implemented it. It's just the need of the times.
+
+Unknown Analyst
+
+And I know it was just this morning, but what do you expect the intended response to be from your
+customers?
+
+Stephen Sanghi
+CEO & Chairman
+
+Well, a small number of customers we already have feedback through the day, including a couple of
+distributors, the response is positive. They would place such orders. I don't expect any customer to place
+their entire backlog on every product on the PSP program because customers themselves have some
+programs where they are solid, that the demand is good, they have a good market share on that particular
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+design. But some others could be some new programs where the demand is yet not known. So I think
+customers will really take a lot of the product and put it on PSP and some others that they won't.
+
+Operator
+
+And we'll take the next question. It comes from Toshiya Hari.
+
+Toshiya Hari
+Goldman Sachs Group, Inc., Research Division
+
+Steve and Ganesh, given the current supply and demand situation, what are your thoughts on pricing
+across your microcontroller and analog business? And if you can kind of speak to gross margins on the
+back of that, that would be helpful. And I guess sort of related to that, given the preferred supplier
+program, how should we think about the economics of that program?
+
+Stephen Sanghi
+CEO & Chairman
+
+So we sent a letter to our customers on January 4, really informing them, first, of the business
+environment and also informing them that we were seeing broad-based cost increases and some very
+aggressive commercial terms from our suppliers who were facing similar issues from their suppliers really
+up and down the supply chain and we must pass these cost increases to our customers through really a
+broad-based price increase. So after writing that letter, then we need to really develop that program, and
+we've got several hundred thousand SKUs and going through the price increase on which part and how
+much and passing on to the customers, working through their contracts and long-term prices and stuff like
+that. So all that really has been implemented at this point in time. We aren't breaking out what portion of
+the guidance is price increase. That's kind of relatively difficult. But the price increases have already been
+made effective.
+
+As far as the economics of the PSP program, the economics of the PSP program really are in having a
+committed noncancelable, non-reschedulable backlog on the books that we can build it in batches, buy
+raw material ahead if we wanted, increase our inventory if we wanted to serve that and build it whenever
+we have a lull. Essentially, that's where the economics are to be able to serve the customers better who
+joined the program and Microchip not be subject to ordering more than they need and double ordering
+because they're not going to double order and order more than they need if they cannot reschedule or
+cancel. So that's where the economics are. There's no price change with that price program. It's totally
+separate. I don't know if that answers your question.
+
+Operator
+
+We'll take the next question. It comes from Vivek Arya.
+
+Vivek Arya
+BofA Securities, Research Division
+
+Steve, you used the phrase significant revenue growth in calendar '21, and you're starting the year at
+about 10% year-on-year growth. Is that a significant number? Is it something higher than that? And more
+importantly, what kind of growth can your supply chain support this year?
+
+Stephen Sanghi
+CEO & Chairman
+
+Well, I -- I don't know, you must have not heard what I said. I thought I talked about -- the question
+really was that Street had 7% growth. Do you expect something higher than that? And my answer was
+yes. So whatever anybody interpreted it, I don't know what significant means. And I can't really give you
+a number for the growth for the year, although I think the revenue is more constrained by capacity than
+the demand, at least now and for the next several quarters.
+
+Which leads to your second question, what can -- what kind of growth the supply chain support. I think
+one of the problems that we're dealing with is that the supply chain is not as stable. We're finding that
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+the assembly test subcontractor will commit that they can do x number of parts per week, and as we get
+there, they would change that number. They would lower that number or push it out by a couple of weeks.
+Well, what happened? What happened was they got a de-commitment from their suppliers. They didn't get
+some bonders they were expecting. They couldn't hire some people. Somebody tested positive for COVID,
+so they had to send 50 people home who had come in contact with it.
+
+So there's no slack in the system. Everything that gets built gets shipped. There's absolutely no slack in
+the system. So any perturbation, there was an earthquake in Taiwan, we had a car that hit our substation
+in a fab in Oregon that knocked out about 3 or 4 days, partial knockout, not complete, none of those
+things are [ amicable ] because all factories are working 7 days a week, full board. So any delay in
+equipment just leads to a de-commitment. So I think those are all the myriad of problems we are dealing
+with in adding equipment, adding people, qualifying additional subcontractors, getting our customers to
+waive qualification.
+
+Automotive are the hardest customers to qualify production in a different plan or to approve a change.
+And in the last 6 months, we have been so successful in getting even all the automotive customers that
+they would buy the product from this alternative assembly site or test site and all that. So we're getting
+help in that area, but it's still a very, very complicated process to put it all together. And therefore, we're
+not willing to dollarize the number or what percentage we could grow, not yet.
+
+Operator
+
+We'll take the next question. It comes from Craig Hettenbach.
+
+Craig Matthew Hettenbach
+Morgan Stanley, Research Division
+
+Steve, just a question on the disti inventory at 26 days. When would you expect that to perhaps get
+back to kind of within normal ranges? And any trends you could share just by geography in terms of disti
+resales?
+
+Stephen Sanghi
+CEO & Chairman
+
+So distribution would love to grow the inventory in this environment to serve the end customers better.
+But disti inventory can't grow. There is just not enough product available to grow the inventory because
+the product keeps getting shipped out. Another point I would like to make is that our inventory as well
+as distributor inventory is calculated based on last 90 days of sales. So it's based on the prior quarter. So
+essentially, if you -- the real value of the inventory is to support the future.
+
+So if you take our guidance and take the midpoint of that guidance, let's say, and calculate the days of
+distributor inventory or Microchip inventory based on that guidance, then the inventory numbers are
+extremely low. But they're calculated as we report, which is a standard convention based on the prior
+90 days. In a very stable environment, flat sales, it doesn't matter. But in a significant growth, the real
+inventory is actually much lower than the numbers we're reporting. And we don't think it's going to grow.
+I think our internal inventory will drop this quarter, we expect, by several days, and distribution will do the
+same.
+
+Craig Matthew Hettenbach
+Morgan Stanley, Research Division
+
+Got it. And then just a follow-up for Ganesh on the total system solution. Any progress there or things you
+can share with us in terms of developments?
+
+Ganesh Moorthy
+President, COO & Director
+
+Sure. So it's not a 1 quarter of progress. It's a multi-quarter activity that we've had. The processes that
+need to be put in place have been there. New processes are going in. It is reflected in how we see the
+design activity taking place, some of which we've shared anecdotally in some of the conferences. We will
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+share some more this coming quarter as well. But I think the power of the whole coming together, putting
+all the different parts of Microchip on a customer's board, is very much strong and alive and a key part of
+our growth strategy.
+
+Operator
+
+We'll take the next question. It comes from Gary Mobley.
+
+Gary Wade Mobley
+Wells Fargo Securities, LLC, Research Division
+
+So I know you started the December quarter with your distributor inventory levels slightly below average.
+And it looks like you under shipped into the channel by about $26 million in the December quarter. Is that
+how we should think about perhaps what -- how much higher your revenue could have been if you had
+available production capacity and whatnot in a similar amount as we look out into the March quarter?
+
+Stephen Sanghi
+CEO & Chairman
+
+Well, we had unsupported orders for every geography for every product line for direct as well as for
+distribution. So just picking a number that the distribution inventory went down by and just saying that's
+the revenue we missed for the December quarter will not be [ equative ]. We're not breaking out the
+number, but the total amount of revenue that we missed also was also from direct and essentially, every
+geography.
+
+Gary Wade Mobley
+Wells Fargo Securities, LLC, Research Division
+
+Okay. As my follow-up, I wanted to ask about your philosophy towards M&A when you get to that magical
+net leverage ratio of less than 3x. Is that -- should we take that to mean that you're also open to some
+M&A transactions at that point as well?
+
+Stephen Sanghi
+CEO & Chairman
+
+I think we have spoken extensively about this in the past, saying that we believe there was an era of M&A
+in the last 12 years or so. We did 16, 17, 18 acquisitions, a few large ones public and lots of them small
+private. And all of that was intended to scale the company 10x or so, and now we are over $5.4 billion
+company and really not have a scale disadvantage to our competitors. I think we have achieved that. And
+today, we have a product line with which we can complete a customer's entire solution and essentially
+have all the parts built out of Microchip products. And other than resistors and capacitors and connectors
+and battery, everything else is really made from Microchip.
+
+So today, there is not that need for M&A, and there are no gaping holes. So we are really building our
+strategy going forward on organic growth built from really large amount of success in providing total
+system solutions to the customers. There could be a tuck-in acquisition here and there, private, small,
+really buying some people which is a technology pipeline or something like that. But there's really no plan
+currently for doing any kind of large acquisition even after we reach a certain leverage.
+
+Operator
+
+We'll take the next question. It comes from Chris Caso.
+
+Christopher Caso
+Raymond James & Associates, Inc., Research Division
+
+The first question is about some of the capacity additions that you're undertaking now. Could you talk
+about, one, the direction of CapEx over the next couple of quarters as you try to address these -- some
+of these supply constraints? How long does it take to get the capacity in place? And then lastly, to what
+extent are you looking to address these constraints through internal means as opposed to getting them
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+through outsourcing? What's going to be the quicker and more sustainable path to getting some more
+product to your customers?
+
+Stephen Sanghi
+CEO & Chairman
+
+Eric, you want to take the CapEx question?
+
+James Eric Bjornholt
+Senior VP & CFO
+
+Sure. Sure. So we've indicated that in the very short term, so the March quarter, we're expecting to spend
+between $50 million and $60 million in CapEx. We've kind of given general guidance to The Street that
+longer term, we expect our CapEx as a percentage of net sales to be somewhere between 3% and 4%.
+This quarter, we'll be going through our annual operating plan for our next fiscal year, and we'll provide
+kind of a more detailed forecast in fiscal '22. But I wouldn't be surprised if we're on the high end of that
+range for next fiscal year. We've been well below it for the last 2 fiscal years. And so [ quite clearly ], the
+demand environment is driving that.
+
+And I'll start with the second piece of the question and Steve or Ganesh can add on to it, but we have
+been making significant investments in assembly and test expansion. And actually, this last quarter, we did
+55% of our assembly in-house. That's up significantly quarter-on-quarter, and we did 57% of our final test
+in-house. So these metrics tend to be slow moving, but we are making progress on that and it's allowing
+us to take a little bit more control of our own destiny. So with that, I'll turn it back to Steve.
+
+Stephen Sanghi
+CEO & Chairman
+
+So I think one of your questions implied that what portion of the CapEx we were spending for internal
+versus external. I think 100% of our CapEx is really being applied to grow the capacity internally. The
+external capacity growth, we're getting it just by getting larger allocation and negotiating for a larger
+piece of the total capacity pie at the foundries and subcontractors. We're not really spending our CapEx
+dollars in growing their capacity. But our capacity is growing significantly outside also. But overall, as Eric
+mentioned, especially in the assembly and test area, a large portion of the capacity growth is happening
+inside.
+
+Christopher Caso
+Raymond James & Associates, Inc., Research Division
+
+All right. As a follow-up, given the strongly better-than-seasonal March, the fact that you've got backlog
+that's difficult to fill all of that, how do we think about seasonality through the rest of the year? And there
+are always difficult questions right now, but any kind of qualitative comments that you could provide
+would be helpful.
+
+Stephen Sanghi
+CEO & Chairman
+
+I think seasonality has been difficult to define for Microchip for some time because of all these
+acquisitions. And especially with Microsemi, the end market mix changed so much that we said, if you've
+got a year or 2 years of stable environment, then one could figure out what the seasonality would be.
+And we haven't gotten that stable environment. First was the U.S.-China trade then last year was COVID.
+And this year is just runaway growth or capacity constraints. So in this environment, it's not the seasonal
+factor that's changing what you can or cannot do. It's a combination of how much capacity you can grow,
+what the overall demand is. So I can't really comment much on seasonality in this kind of environment.
+
+Operator
+
+We'll take the next question. It comes from Harlan Sur.
+
+Harlan Sur
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+JPMorgan Chase & Co, Research Division
+
+Maybe as a follow-up to the last question. I know the difficulties and complexities in quantifying full
+year revenue generation potential, but maybe more near term. I assume that the team is almost fully
+booked for the June quarter, maybe you guys can confirm that, and that would include any unshipped
+delinquencies from March. In June, we could argue about seasonality, but typically, June is up sequentially.
+So your foundry wafer requirements are probably already fixed for June given the lead times from your
+foundry partners. But wondering if you guys would be able to bring on and qualify additional wafers and
+assembly and test capacity in time to support higher levels of revenues from where you are here in March,
+if it plays out that way in June.
+
+Stephen Sanghi
+CEO & Chairman
+
+So you can't qualify different fabs in a matter of 3 months or 6 months. Depending on what the process
+and products are, it's a much longer effort. So a lot of the capacity growth is really coming out of growing
+capacity where the processes are already installed. We got some processes that are installed outside as
+well as inside. And most of the other -- the majority of our processes either run outside or run inside. And
+when they run outside, they usually only either run in one foundry or the other foundry.
+
+So there's really no process that runs in 3 or 4 different foundries. They may run in 3 or 4 different fabs of
+the same foundry. Like -- take TSMC. It could run in 3 different fabs of TSMC, but it doesn't run in TSMC
+as well as Global as well as UMC or something. So the capacity growth is largely coming from where the
+processes are already installed from a fab standpoint.
+
+From an assembly test standpoint, yes, we're qualifying additional alternate assembly subcontractors
+which could give additional capacity. But there also, majority of the growth in assembly as well as test
+is coming from buying capital and installing in 3 of Microchip's large facilities: 2 in Thailand and 1 in the
+Philippines. They're basically doing a record amount of assembly and test every day, and capacity is rising
+every week, every month, every quarter for the rest of the year.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+I guess my question is...
+
+James Eric Bjornholt
+Senior VP & CFO
+
+So there was a second comment there from Harlan talking about or kind of implying that June quarter is
+fully booked, and that is not the case. June quarter isn't fully booked. The March quarter isn't fully booked.
+It can be fully booked on certain products, and maybe Ganesh can expand on that a little bit.
+
+Ganesh Moorthy
+President, COO & Director
+
+Yes. I mean even for this quarter, we have strong backlog, but we have some terms yet to take, and there
+are terms to take for the June quarter. As Eric mentioned, there are certain product lines which can be
+much closer to being booked up. And that's typically -- it is starting at a much higher backlog than would
+-- a normal quarter would be. Now there is still work to be done, and there's capacity coming online,
+which will help with some of the growth, both that's helping this quarter as you can see versus December
+and some more into June.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+Okay. So you answered my -- what was going to be my third question or what was my third question in
+that, which is irrespective of how the demand plays out, if June quarter backlog ends up suggesting a
+higher June quarter, you guys would have the capabilities in place, foundry or internal, to drive higher
+revenue levels sequentially in the June quarter?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+Stephen Sanghi
+CEO & Chairman
+
+Absolutely, yes.
+
+Operator
+
+We'll take the next question at this time. It comes from Ambrish Srivastava.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+One in near term and then I had a longer term, Steve, and really just wanted to make sure I understood
+that part. On the near term, the preferred supplier program, you started just this morning. But does the
+guide for March, does it include the change in cancellation from 45 to 90? Is that part of -- has that been
+implemented long enough to reflect in the March guide?
+
+Stephen Sanghi
+CEO & Chairman
+
+So that was told to the customers in early December. Maybe it was the middle of December, around maybe
+8th to 10th of December, and we gave them then the following 3 weeks or so to make any changes to the
+backlog they wanted to make. And on January 1, the backlog will go hard for the 90 days. So -- and there
+were very few changes made, and there were just meaningless, very small changes. So as of January 1
+then, whatever was on our books for the March quarter became firm, so no changes could be made. And
+that backlog position for the March quarter was very strong, strongest we have ever seen in our careers.
+
+Now as Ganesh answered earlier and Eric answered, that doesn't mean the March quarter was fully
+booked because you always have products where there's product available and customers and distributors
+can continue to come and buy those products where the lead time is still fairly short and shippable within
+the quarter. But a very large number of products were also completely booked and nothing available for
+March. On some products, even nothing available for June. So the impact of that 90 days was effective
+on January 1. And then as you go -- as you finish the month of January, then the backlog is now hard for
+February, March, April. By the end of February, the backlog will be hard for March, April and May. So that
+was a 90-day program.
+
+The PSP program is an entirely new program. The 90-day program was applicable to all customers
+worldwide, direct or distribution. The PSP program is a customer's option. It's not -- we can't force them
+to give us 1 year of backlog. So that was an option given to the customer that they can have an ability to
+get preferred supply support if they would give us 12 months of noncancelable backlog, which helps us
+in bringing capacity online and buy capital and hire people with confidence and it gives them preferential
+capacity. So there is something in it for both.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+Got it. Got it. So...
+
+James Eric Bjornholt
+Senior VP & CFO
+
+I just want to make sure this is clear. I want to make sure this is clear that, that has 0 impact on the
+March quarter.
+
+Ganesh Moorthy
+President, COO & Director
+
+Or the June quarter for that matter.
+
+Stephen Sanghi
+CEO & Chairman
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+Yes. The [indiscernible]
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+Yes. No, I understand. I just want to make sure...
+
+Stephen Sanghi
+CEO & Chairman
+
+The PSP program support starts from July. Now the orders, they can place it now for 12 months. But if
+they come up with a whole bunch of new orders for March, April, May, June, they can't get the supply
+ripped off from other people who have placed a backlog before. So PSP capacity support does not begin
+until July.
+
+Ambrish Srivastava
+BMO Capital Markets Equity Research
+
+Got it. I wasn't confused about PSP. I just wanted to make sure that the March quarter is -- it sounds
+like you were able to pull together a lot of internal and external to guide to what you did, and it also has
+some solidity, for lack of a better word, because of the 90-day that you started in December. That's what
+I wanted to understand because there's a concern about double booking, that sounds like the way you
+have framed it and the way you're running the business at this point. It seems like you have quite a lot of
+visibility on that.
+
+My longer-term question, Steve, and thanks for addressing that. Your business model is transforming
+and you've been talking about M&A being less of a priority given where the valuations are and focus on
+organic. So the question -- and you addressed it by saying the buyback, even though not directly, you
+have been bringing down dilution. What was the point you made on dividend? I missed that. What's the
+formula that you have in place for dividend growth?
+
+Stephen Sanghi
+CEO & Chairman
+
+We don't really have a formula in place. We just -- Board will meet every quarter and decide the dividend
+for every quarter. In the current quarter, we grew the dividend by 5.8%. And you could expect that Board
+will grow the dividend every quarter, and that's really our commitment. We -- I told in the last couple of
+quarters that we will build a glide path towards higher dividend, and this is a glide path towards a higher
+dividend. So if you accumulate the increase in dividend for 4, 5, 6 quarters, then by middle of 2022, you
+already would have a significantly higher dividend after seeing 6 increases at the time we just did. That's
+really what we're trying to do to get to higher dividends. And by that time, the leverage would have come
+down and such that higher dividend will really be supportable at that point in time from the cash flow and
+still have enough cash available to keep bringing the debt down further.
+
+Operator
+
+We'll take the next question. It comes from Chris Danely from Citi.
+
+Christopher Brett Danely
+Citigroup Inc., Research Division
+
+I guess just a little bit of color on the capacity constraints and shortages. So Steve, you talked about it
+being in the automotive, industrial and consumer sectors or end markets. Most of your competitors are
+just saying automotive. Would you expect this to spread to those other end markets for your competitors
+and other folks in semis? And then what -- when do you remember these shortages being this bad? Do we
+have to go back to like 2010 or 2000?
+
+Stephen Sanghi
+CEO & Chairman
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+I do not remember shortages being this bad ever. So this is just like a -- this is a Six Sigma event in terms
+of shortages, call it, a Black Swan event, although that's more meant for negative. We -- I don't really
+know what other competitors are seeing what, but our capacity for automotive products and industrial
+products and consumer products is really common. It runs out of same fabs, the same processes.
+Sometimes they are the same parts that we can ship into an automotive or ship into an industrial. So the
+capacity constraints would really be shared by all markets.
+
+Now the largest increase in demand has been in automotive where in the June quarter, automotive
+demand went to 20% of normal because all the factories shut down. And as that demand has gone back
+to 95% of normal or 100% of normal, that's a 5x increase in auto demand. So they are seeing sort of the
+worst shortages because they didn't place their orders. They didn't really guide towards having this strong
+V-shape recovery. So they're [ partly ] a little worse than that, but the capacity is common.
+
+There's also a fact that in automotive, a $1 part can prevent a $40,000 car from shipping. In industrial, a
+$1 part could just prevent a [ 1999 ] power drill from that shipping. So the hard factor is quite different.
+So therefore, the noise from automotive, the escalations of the management team and the pressure and
+all that is really at a different level.
+
+Operator
+
+We'll take the next question. It comes from Harsh Kumar.
+
+Harsh V. Kumar
+Piper Sandler & Co., Research Division
+
+First of all, congratulations on the [ tremendous ] [indiscernible] what you're seeing. Steve, I have 2, and
+I'm just going to lump them all into one. I wanted to go back to what Harlan was talking about earlier.
+As you get over your supply issues, let's say, whether it's June or July, am I incorrect in thinking based
+on your -- kind of what you mentioned in the press release as having a very strong year, that as you're
+able to supply, should you not expect a second half that is better or stronger? Or how can you think about
+linearity from here? And then for Eric, the question is on gross margin. If I'm not mistaken, you're at
+your target or very close to it. With no M&A, would [ they not be a potentially ] to think about that gross
+margin [ model you have ] as you get more and more efficient?
+
+Stephen Sanghi
+CEO & Chairman
+
+So I think taking the question of capacity, you mentioned somehow that we catch up by June, July. We
+don't expect to catch up on demand capacity balance for the balance of the calendar year 2021 and could
+possibly go into 2022. I mean we already know that the demand on lots and lots of products succeeds
+where we have no product available. If you place an order today, we were shipping you in September,
+October, and people are booking September, October, November fast. And with PSP program, we're going
+to get backlog all the way through next January, February. So I don't think the capacity issue is getting
+solved in the next 4, 5, 6 months. I think we're talking a 12-month at least to solve that, to really have
+the capacity to get in balance. I don't remember the other part of your question for Eric.
+
+James Eric Bjornholt
+Senior VP & CFO
+
+Yes. I'll take the gross margin question. So we did actually update our long-term targets for gross and
+operating margin back in December. We took the gross margin target to 65% and the operating margin
+target to 42%. So we essentially achieved what was our prior target of 63% on the gross margin with
+these last quarter results and are guiding at the midpoint to about 63.5% this quarter.
+
+So gross margin has absolutely been a highlight over the last couple of years, and we're continuing to do
+all the right things to be efficient in our operations to drive improvements. And I'm not sure if you have
+more follow-up than that, but we definitely have outlined 5 or 6 things that are going to help us continue
+to make improvement on gross margin into the future and we can go through that separately if you'd like,
+Harsh.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+Operator
+
+We'll take the next question. It comes from Janet Ramkissoon.
+
+Janet Ramkissoon
+
+Nice creativity, guys, with this new program. I was going to ask a question about the margins as well. It
+just seems to me that if you have a lot of visibility and you could procure supplies in a more timely and
+efficient manner and just plan better, generally speaking, as you go -- as you exit 2021, you should be in
+a position where you would hit those target margins -- you could hit those target margins a lot sooner. Am
+I correct in thinking that, Steve? Or is there something I'm missing?
+
+Stephen Sanghi
+CEO & Chairman
+
+Well, the PSP program doesn't really do anything to the margin. [ Anecdotally ], it could make us more
+efficient if we get a large amount of backlog, lots and lots of customers take up on that offer and then we
+can build the product more efficiently. It could help a little bit on the cost side of the equation. But PSP
+program wasn't launched to drive margins. It was launched to get a firm customer backlog that we can
+be confident of growing our capacity and not have any double ordering or excess ordering in that backlog
+which could go away when we get there. That's why it was launched. It was not launched for margin, and
+I don't think it's going to have a lot of impact on margin.
+
+Now as we are growing through this growth period, you have 3 or 4 things happening. Number one, all
+the underutilization is going away. Most of it is going away in March, but some could be going away in
+June. Number two, as the incremental capacity is being added, the incremental capacity usually is more
+productive because you're not adding the entire -- every machine. You're adding bottlenecks here and
+there. So when you add that capacity, the incremental margin thrown for every dollar of revenue tends to
+be better. And you could go back in the price cycles and calculate incremental margin to get some idea.
+
+The third being we are bringing some products, both in fab and assembly and test, from outside to inside
+and those moves are accretive. There could be something else. The impact of price increase, I think, is
+going to be relatively benign because we largely launched that to offset the cost increases, but you can't
+always increase the price on a product where you have seen the cost increase. You got to look at the
+product, whether there's a competitive element there or it's a proprietary product. So the price increase
+and cost increase don't completely match product-by-product. But overall, we might get some benefit
+certainly in revenue, probably not in margin.
+
+Janet Ramkissoon
+
+That's very helpful. Great quarter.
+
+Operator
+
+We'll take the next question at this time. It comes from Denis Pyatchanin.
+
+Denis Pyatchanin
+Needham & Company, LLC, Research Division
+
+I'm here to ask a question on behalf of Raji Gill. Is there any chance you could provide us with some more
+color on the various kind of end market gross margins? Kind of how did those move throughout the last
+quarter? If you maybe can break it out by your reporting segments?
+
+Ganesh Moorthy
+President, COO & Director
+
+We don't break out gross margin either by end market or by product line. So we report at a company
+level, and that's all we have.
+
+Denis Pyatchanin
+Needham & Company, LLC, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+I see. And if you -- as a follow-up, how do you expect kind of the recent investments into the internal
+capacity to impact your margins over the next 3 quarters? Would you say that there's going to be a
+noticeable impact of the internal capacity coming online? And has that been factored into your guidance?
+Or do you expect that to maybe hit towards the kind of the end of the calendar year?
+
+Stephen Sanghi
+CEO & Chairman
+
+Well, I think -- go ahead, go ahead.
+
+Ganesh Moorthy
+President, COO & Director
+
+No, I was going to say I think these come on slowly. They're not going to make big quarter-to-quarter
+changes in what they're at. Directionally, each of them is a small step in the road map that we have said
+we want to improve our gross margins to the long-term target. But I would not be looking for quarter-by-
+quarter. These are making big changes in the gross margin of the company overall.
+
+Operator
+
+We'll take the next question. It comes from Christopher Rolland from Susquehanna.
+
+Christopher Adam Jackson Rolland
+Susquehanna Financial Group, LLLP, Research Division
+
+Just 2 quick ones for me, and then I'll get off. I guess, Steve, first of all, PSP, ultimately, what percent
+of revenue do you expect to go through the PSP program versus other? And then secondly, as you bring
+some internal capacity home even on the wafer side, does this bring up a conversation about 300-
+millimeter fab or not? Is that -- at what point does that become of interest to Microchip?
+
+Stephen Sanghi
+CEO & Chairman
+
+So I think the first part of your question, what portion of the revenue we expect to go through PSP, we
+really have no idea. It's never been done before. It's being launched by taking on questions from many
+large customers saying, "What can you do to make sure I get capacity support in the second half? I'm
+delinquent now. You're not giving me everything I need. So how can I ensure that I get that in future?"
+
+And so we came up with this program and saying, "If you commit that your orders for the next 12 months
+are noncancelable, non-reschedulable, then we will go, with confidence, build the product and give you
+preferential support." So we do not know what the uptake would be, and I'm just purely guessing. We just
+launched it this morning, and I've gotten 3 or 4 inputs since then, one from a major distributor and [ 2 ]
+from customers, one customer I talked to personally. So I think this is hot off the press. So that's that.
+
+The other part of your question was the 300-millimeter. There is no plan to do any 300-millimeter inside.
+We continue to have 2 large 8-inch fabs and 1 large 6-inch fab, a number of small 4-inch sort of fabs that
+we are transitioning products away from those 4 inches to our 6-inch and 8-inch fabs. The 12-inch of peak
+capacity continues to be at our foundries for any foreseeable future.
+
+Operator
+
+There are no further questions at that time, and that ends our question-and-answer session for today. I'd
+now like to turn the conference back over to Mr. Sanghi. Please go ahead.
+
+Stephen Sanghi
+CEO & Chairman
+
+Yes. I want to thank everyone for attending the call. Also, I want to say that this is my last call as CEO.
+As many of you know, Ganesh Moorthy would be the CEO starting March 1. I would still attend the call. I
+will stay engaged with the investors, but Ganesh will take the lead role. And if some of you are expecting
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+to find a softer version of Steve, you may not get that. Internally, he's feistier than I am, but we'll see
+externally how Ganesh acts. So thank you all. Bye-bye.
+
+Operator
+This concludes today's call. Thank you for your participation. You may now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+MICROCHIP TECHNOLOGY INCORPORATED FQ3 2021 EARNINGS CALL |  FEB 04, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+

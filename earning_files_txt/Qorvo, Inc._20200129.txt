@@ -1,0 +1,1181 @@
+Qorvo, Inc. NasdaqGS:QRVO
+FQ3 2020 Earnings Call Transcripts
+Wednesday, January 29, 2020 10:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2020-
+
+-FQ4 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+GUIDANCE
+
+CONSENSUS
+
+GUIDANCE
+
+CONSENSUS
+
+1.68
+
+1.86
+
+10.71
+
+1.14
+
+1.55
+
+5.70
+
+-
+
+6.68
+
+852.62
+
+869.07
+
+1.93
+
+726.11
+
+-
+
+3157.42
+
+3213.94
+
+3415.84
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Jan-29-2020 7:54 AM GMT
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.06
+
+1.15
+
+1.30
+
+1.68
+
+1.22
+
+1.36
+
+1.52
+
+1.86
+
+15.09 %
+
+18.26 %
+
+16.92 %
+
+10.71 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+7
+
+2
+
+ 
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Douglas DeLieto
+Vice President of Investor
+Relations
+
+James L. Klein
+Corporate VP and President of
+Infrastructure & Defense Products
+
+Mark J. Murphy
+Chief Financial Officer
+
+Robert A. Bruggeworth
+President, CEO & Director
+
+Steven E. Creviston
+Corporate VP & President of Mobile
+Products
+
+ANALYSTS
+
+Rajvindra S. Gill
+Needham & Company, LLC,
+Research Division
+
+Seth Gilbert
+UBS Investment Bank, Research
+Division
+
+Srinivas Reddy Pajjuri
+SMBC Nikko Securities America,
+Inc., Research Division
+
+Blayne Peter Curtis
+Barclays Bank PLC, Research
+Division
+
+Toshiya Hari
+Goldman Sachs Group Inc.,
+Research Division
+
+Christopher Caso
+Raymond James & Associates,
+Inc., Research Division
+
+Vivek Arya
+BofA Merrill Lynch, Research
+Division
+
+Craig Matthew Hettenbach
+Morgan Stanley, Research Division
+
+William Chapman Peterson
+JP Morgan Chase & Co, Research
+Division
+
+Edward Francis Snyder
+Charter Equity Research
+
+Harsh V. Kumar
+Piper Sandler & Co., Research
+Division
+
+Karl Fredrick Ackerman
+Cowen and Company, LLC,
+Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+Presentation
+
+Operator
+
+Good day, and welcome to the Qorvo Inc. Q3 2020 conference call. Today's conference is being recorded.
+
+At this time, I would like to turn the conference over to Douglas DeLieto, Vice President, Investor
+Relations. Please go ahead.
+
+Douglas DeLieto
+Vice President of Investor Relations
+
+Thanks very much, John.
+
+Hello, everybody, and welcome to Qorvo's Fiscal 2020 Third Quarter Earnings Conference Call.
+
+This call will include forward-looking statements that involve risk factors that could cause our actual
+results to differ materially from management's current expectations. We encourage you to review the safe
+harbor statement contained in the earnings release published today as well as the risk factors associated
+with our business in our annual report on Form 10-K filed with the SEC because these risk factors may
+affect our operations and financial results.
+
+In today's release and on today's call, we provide both GAAP and non-GAAP financial results. We provide
+this supplemental information to enable investors to perform additional comparisons of operating results
+and to analyze financial performance without the impact of certain noncash expenses or other items that
+may obscure trends in our underlying performance.
+
+During our call, our comments and comparisons to income statement items will be based primarily on non-
+GAAP results. For a complete reconciliation of GAAP to non-GAAP financial measures, please refer to our
+earnings release issued earlier today available on our website at qorvo.com under Investors.
+
+Sitting with me today are: Bob Bruggeworth, President and CEO; Mark Murphy, Chief Financial Officer;
+James Klein, President of Qorvo's Infrastructure and Defense Products Group; Eric Creviston, President of
+Qorvo's Mobile Products Group; as well as other members of Qorvo's management team.
+
+And with that, I'll turn the call over to Bob.
+
+Robert A. Bruggeworth
+President, CEO & Director
+
+Thanks, Doug, and welcome, everyone.
+
+Qorvo delivered record EPS in the December quarter driven by strength in our end markets of 5G, WiFi
+and defense. I'm especially pleased with how our team is engaging with customers to enable breakthrough
+products and contribute to multiyear technology upgrade cycles.
+
+In Mobile Products, the acceleration of 5G is driving demand for Qorvo's high performance and highly
+integrated solutions. Carriers are bringing advanced 5G services across new frequency spectrum and that's
+driving greater complexity in handset designs as board space remains constrained.
+
+Qorvo is solving that complexity by integrating the industry's broadest portfolio of technologies and
+advancing the state-of-the-art in functional integration.
+
+Looking at December, we enjoyed significant design win traction for our BAW-based multiplexers across
+a range of band combinations, including our hexaplexers and our recently launched micro BAW-based
+quadplexer. These are multiplexers enable advanced carrier aggregation, and they are critical to next-
+generation higher data rate applications.
+
+We also secured multiple design wins to supply low-, mid-high and ultrahigh band solutions for next-
+generation 5G smartphones. These are highly integrated and high-performance 4G, 5G solutions, enabling
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+customers to reduce product footprint, enhance system performance and deliver products to market even
+faster.
+
+Design wins for our ultrahigh band FEMs were broad-based across customers and mated with multiple 5G
+cellular chipsets. Qorvo solutions deliver highly differentiated performance at higher frequencies as we
+expand our content in the next wave of 5G smartphones.
+
+Consistent with what we said last quarter, we continue to expect approximately 300 million 5G handsets in
+calendar year '20, adding approximately $2 billion to the mobile RF TAM.
+
+Turning to IDP. Our GaN customer engagements broadened during the December quarter as we ramp GaN
+high-power amplifiers and small signal components at a third major OEM in support of 5G massive MIMO
+deployments.
+
+To support China Mobile's deployment of 5G small cells, we ramped our newest BAW filters at a top-
+tier infrastructure OEM. We also introduced breakthrough GaAs FEMs addressing the more demanding
+requirements of second-generation 5G millimeter wave base stations.
+
+In our connectivity business, we enjoyed a rebound in demand driven by WiFi 6 and supported by our
+recently released GaAs and BAW processes. Customer demand for our newest WiFi 6 FEMs was broad-
+based in support of CPE, retail and mobile applications.
+
+For the connected home, we began sampling the industry's first radio solution combining a ZigBee, Thread
+and Bluetooth Low Energy SoC with a WiFi 6 FEM to enable next-generation distributed WiFi networks.
+
+For the connected car, we introduced a complex -- excuse me, we introduced a complete V2X front end
+solution featuring our recently released 5.9 gigahertz WiFi coexist BAW filters, which are quickly gaining
+traction among automotive OEMs and Tier 1 suppliers.
+
+Finally, we continue to expand our customer base in the programmable power management end market,
+shipping power management ICs into data center solid-state drives for 2 of the top 3 storage providers.
+
+After the quarter closed, we signed definitive agreements to acquire Decawave, a pioneer in ultra-
+wideband solutions for mobile, automotive and IoT applications, and Custom MMIC, a leading supplier of
+high-performance GaAs and GaN MMICs for defense and aerospace applications.
+
+Adding Decawave establishes our position in the emerging market for ultra-accurate, ultra-secure short
+range location solutions. Custom MMIC expands our portfolio of high-performance GaAs and GaN solutions
+for the defense and aerospace industries.
+
+Looking forward, we see both IDP and Mobile Products growing year-over-year in the March quarter on the
+strength of our broad technology portfolio and strong underlying trends in our end markets.
+
+And with that, I'll hand the call over to Mark.
+
+Mark J. Murphy
+Chief Financial Officer
+
+Thanks, Bob, and good afternoon, everyone.
+
+Qorvo's revenue for the third quarter was $869 million, $19 million above the midpoint of our guidance
+and driven by stronger-than-expected mobile demand.
+
+Mobile revenue of $662 million exceeded our expectations on Asia-based customer demand, including 5G
+solutions. IDP revenue improved sequentially to $207 million on strong defense volumes and remained
+down year-over-year due to export restrictions on infrastructure products.
+
+We expect IDP revenue to increase again sequentially and return to year-over-year growth in the March
+quarter on sustained strength in defense, the ramp of WiFi 6 and broader 5G infrastructure customer
+demand.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+Non-GAAP gross margin in the December quarter was 49.3%, with better-than-expected manufacturing
+costs and favorable mix effects.
+
+Non-GAAP operating expenses were $176 million, which were at the low end of our guidance range. Non-
+GAAP net income in the December quarter was $221 million, and diluted earnings per share was $1.86,
+$0.19 over the midpoint of our guidance.
+
+Cash flow from operations in the December quarter was $301 million, and CapEx was $41 million, which
+yielded free cash flow of $260 million. Our free cash flow through the first 9 months of fiscal '20 was over
+$600 million, exceeding any prior full fiscal year.
+
+We repurchased $125 million of stock in the quarter and completed an opportunistic $200 million add-on
+to our 2029 unsecured notes issued earlier in the quarter.
+
+During the December quarter, we completed the purchase of the remaining equity in Cavendish Kinetics,
+an RF MEMS company, further strengthening our technology portfolio for switches, tuners and other
+products.
+
+As Bob mentioned, following the quarter end, we signed definitive agreements to acquire 2 companies that
+we have been evaluating for extended periods. With both companies, there is excellent strategic alignment
+and cultural fit. Decawave, a pioneer and leading supplier of ultra-wideband solutions, adds to Qorvo's RF
+technology leadership and opens up access to a large, new and rapidly growing wireless market.
+
+Custom MMIC, a leader in high-performance GaAs and GaN MMIC solutions for defense and aerospace
+markets, is a bolt-on to IDP's core business. The combined purchase value of these 2 acquisitions is
+approximately $500 million, which will be funded from existing cash on hand. Our guidance assumes both
+transactions close in February, and the financial impact, slightly dilutive to earnings in the near term, is
+reflected in our March guide.
+
+Turning to our March quarter outlook. We expect revenue between $800 million and $840 million or $820
+million at the midpoint; non-GAAP gross margin of approximately 48.5%; and non-GAAP diluted earnings
+per share of $1.55 at the midpoint of our guidance.
+
+Our revenue outlook for the March quarter reflects continued robust mobile 5G demand and a return to
+year-over-year growth for IDP. For mobile, we expect March quarter sales to decrease sequentially but
+with less-than-normal seasonality.
+
+For IDP, we project March quarter sales to increase on sustained strength in defense, the ramp of WiFi 6
+and broader 5G infrastructure customer demand. While Qorvo's current near-term outlook is strong and
+channels are healthy, trade and other factors, including potential demand and supply chain effects related
+to the coronavirus concerns, contribute to challenges and uncertainty forecasting the outlook.
+
+On gross margin, our March quarter guide of approximately 48.5% is down sequentially, consistent with
+comments I made during our last earnings call.
+
+Non-GAAP operating expenses are projected to increase in the March quarter to approximately $185
+million on higher personnel costs, including payroll effects and incremental costs associated with acquired
+businesses.
+
+Net interest expense will increase with our notes add-on and a lower cash balance following acquisitions.
+We expect our March quarter non-GAAP tax rate to be approximately 7.5%.
+
+On capital expenditures, we project less than $190 million this fiscal year and remain highly disciplined on
+adding capacity. Our free cash flow forecast for the year is now over $700 million.
+
+As the December quarter results and our March outlook show, Qorvo is helping customers grow in 5G,
+WiFi, defense and other markets by solving their challenges with best-in-class technology, award-winning
+quality and supply dependability.
+With that, I'll turn the call back over to John for questions.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] And our first question comes from Karl Ackerman with Cowen and Company.
+
+Karl Fredrick Ackerman
+Cowen and Company, LLC, Research Division
+
+I have 2 questions, if I may. The first question is on margins. So I get the seasonal softness in the March
+quarter. But as you finalize the consolidation of your saw fab in Greensboro -- to Greensboro, your 5G
+ultra high-band PAD FEM content likely proliferates across the top 6 mobile OEMs later on this year and
+IDP returns to growth in the back half, why can't operating margins approach 30% by the end of this
+year?
+
+Mark J. Murphy
+Chief Financial Officer
+
+Yes. Karl, 2 -- this is Mark. 2 effects on operating margins in the March quarter. One is -- and I'll start with
+OpEx. As I mentioned, OpEx is going to increase sequentially due to a number of factors, payroll effects
+and the incremental costs associated with the acquisitions.
+
+Moving up to gross margin. Consistent with what I said last quarter, we will see a sequential decline in
+gross margin, which is typical around seasonal product mix effects. So yes, this is very much in line with
+what I said last quarter, about 100 basis points or so decrease sequentially.
+
+Karl Fredrick Ackerman
+Cowen and Company, LLC, Research Division
+
+Got it. For my follow-up, regarding your March outlook, it seems you're base assumptions call for a slightly
+less seasonal decline at -- or I guess a seasonal decline in your largest customer but a sizable uptick at
+China handset providers and maybe some stability at your Korean customer given all the design wins you
+alluded to last quarter and, of course, earlier today in your prepared comments. First, am I thinking about
+that the right way? Second, how should we think about the revenue opportunity from China handsets? I
+think for the overall industry, would you endorse content for mainstream handsets advancing from $1 to
+$2 to like $6?
+
+Robert A. Bruggeworth
+President, CEO & Director
+
+Karl, I'll take the beginning of that. From a perspective of just looking at it year-over-year, both
+businesses are returning to growth year-over-year, that's great to see. IDP business sequentially is
+growing very nicely. So that's also offsetting some of the seasonality. It's typically flat to up slightly. So
+that's doing well. And in our mobile business, very pleased with how much we're offsetting year-over-year
+the decline that we've seen at Huawei, and it's broad-based. So we're seeing strength across the customer
+base, but I'll let Eric add a little more color to the specifics of the customer base that you asked about.
+
+Steven E. Creviston
+Corporate VP & President of Mobile Products
+
+Sure. Yes. As you referenced, the 5G rollout in China is very much on track and content gains there
+associated with more bands and wider bands and multiple carrier operation and so forth, is leading to an
+expansion of the dollar content as well as units a bit higher than we had originally planned. In terms of
+dollar content opportunity that you referenced, it's not at all unusual in these 5G handsets to see total
+dollar content in the $10 to $12 range and they tend to buy as much of that as possible from 1 supplier.
+So we have many handsets in China now where we have $8 to $10 worth of RF content.
+
+Operator
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+Our next question comes from Toshiya Hari with Goldman Sachs.
+
+Toshiya Hari
+Goldman Sachs Group Inc., Research Division
+
+Congrats on the strong results. My first one was on IDP. You guys talked about WiFi 6 and comms
+and defense contributing to growth in the March quarter. Can you kind of help us quantify sort of the
+magnitude of all 3 on a relative basis? And if you can speak to sustainability beyond the March quarter for
+those 3 buckets, that would be helpful. And then I have a quick follow-up.
+
+James L. Klein
+Corporate VP and President of Infrastructure & Defense Products
+
+Yes, this is James. Now the year-over-year growth will be relatively small, but considering we lost one
+of our top customers just a few quarters ago, I am really pleased with the efforts of the team to return
+back to growth so quickly. I think it does demonstrate the underlying strengths of the products that we
+have and the markets that we serve. Defense, low-power wireless and power management will all have
+double-digit year-over-year growth quarters in March. WiFi, as we talked about, with the ramp of WiFi
+6 is returning, and it'll have a high single-digit type growth rate. And then other markets that we serve,
+I think, will be a mix of up and downs. Still at the phase of deployments in base stations where we're
+starting ramps and starting to recover, but with loss of Huawei, we're obviously still significantly off of our
+all-time highs in base station.
+
+Toshiya Hari
+Goldman Sachs Group Inc., Research Division
+
+Got it. And then my second one is for Mark. In terms of free cash flow, it looks like for the full year, you're
+thinking free cash flow margins of 22-ish percent based on your Q4 revenue guide and your full year
+free cash flow commentary, which I think is the highest free cash flow margin since the merger. I guess
+importantly, going forward, do you feel like there's more upside from there? Or is this as good as it gets?
+And to the extent you do think there's more upside, what are some of the levers that you can pull to
+improve margins? And then sort of related to that, as you continue to build cash, how are you thinking
+about cash usage between organic investments, M&A and shareholder return?
+
+Mark J. Murphy
+Chief Financial Officer
+
+Yes. There's a lot in that question, Toshiya. I'll work through it. So yes, we're really pleased with the
+progress we've made on free cash, and it's been the absolute focus for the company. We've gone from
+$224 million free cash flow in the year (sic) [ for fiscal 2017 ] up to we're now forecasting over $700
+million in just -- in a number of years here. And we reached close to 30% basically -- right almost on
+top of 30% in the third quarter of free cash flow margins. And I think that's an objective we set some
+time ago for the full year. So we're not going to -- as you said, we're going to be closer to 22%, but we
+continue to see the ability to expand free cash flow margins. And it's -- nothing has really changed there.
+I've gone through this in previous calls. We're pursuing a model and investing in a way to achieve stronger
+and more sustainable free cash flow generation over time. And that comes from investing in the right
+technologies of which you see some of that in the acquisitions we announced today. It's selecting the
+right products and having a rigorous portfolio management process, which we've executed on. It's driving
+productivity in operations and sourcing. And I can't say enough about the job the ops team is doing in
+meeting customer quality expectations and on-time delivery and doing it efficiently. And then the ops
+alignment with the business is as good as it's ever been in the company. So seeing great things there. And
+then finally, we're just focused on reducing capital intensity, and all those factors have helped with margin
+expansion.
+
+On gross margin specifically, yes, there's room to run, we believe. We're still not at the utilization levels
+that we had hoped this year. The infrastructure market softness has impacted us in a couple of areas
+in the network, particularly Texas GaAs, GaN in Oregon. We -- in the fourth quarter or in the December
+quarter, we had period costs in Florida. As I think Karl mentioned, those do drop off in March, but we still
+have some period costs associated with Farmers Branch and some small period costs elsewhere.
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+And then yes, over time, we expect IDP to improve as a percent of the overall mix. And I've talked about
+portfolio management and operations productivity and so forth. So I believe in the ability of our business
+to grow the top line. We have a number of levers to expand margins. We're focused on spending capital
+only when we need to and then driving free cash flow growth which has -- allows us to make prudent
+investments either for accretion or on technology.
+
+Finally, you asked about capital allocation, basically. The last 12 months, we've generated $754 million of
+free cash flow. We've repurchased $689 million of shares. So over 90% return to shareholders. And then
+over this time, we've also completed the purchase of 2 companies over $500 million. That's not including
+the 2 we announced today. So we'll continue to, again, drive free cash flow growth and then look for
+investments that make sense for Qorvo. We've said technology investments for both mobile and IDP and
+then bolt-ons for IDP is typically how we look at things. And then depending on our leverage and other
+factors, we'll return cash to shareholders.
+
+Operator
+
+And our next question comes from Harsh Kumar with Piper Sandler.
+
+Harsh V. Kumar
+Piper Sandler & Co., Research Division
+
+Congratulations, fantastic execution and congratulations on that cash flow number. I had -- I'm going to
+put you on a spot here, Bob. You had a pretty strong mobile March guide, and you're also basically saying
+pretty good strength in 5G, pretty good design win traction. I take that to be that the strength in March,
+the better-than-seasonal strength in March is not going to come at the expense of the rest of the year.
+Historically, June, September, December have all been much better quarters. Could you just maybe, to the
+best that you can -- I know it's a tough one, but best you can, provide us some color?
+
+Mark J. Murphy
+Chief Financial Officer
+
+Maybe -- Harsh, this is Mark. Maybe I'll step in. And we're going to provide more information on the FY '21
+at the next earnings call.
+
+As it relates to June, we're not going to provide detailed guidance in that quarter either, but I think
+maybe this is a time to talk about risks of the June quarter. Now we feel good about the March quarter.
+Yes, there's coronavirus concerns and -- first, our thoughts are with those affected in the region, but
+we've been revisiting our outlook based on those concerns. We're comfortable with our forecast and feel
+that we've adjusted for what we perceive now as some risk. But we've been keeping a close eye in the
+situation, including extensive checks on the supply chain. To date, we've seen no material impact for our
+supply chain or with demand signals. However, the situation is evolving. So we've reflected some added
+risk, as I mentioned, to our March guide, including, as you'll notice, a wider range of outcomes.
+
+So to your question, likewise, we're thinking about potential effects into the June quarter. And even
+though our channels are lean, we are concerned about how this plays out because we just don't know.
+
+As it stands now, we would estimate the June quarter to be between $750 million to $800 million of
+revenue. But again, it's early. There's a lot of uncertainty around that. We'll provide a more detailed
+update at a later date and a fiscal year '21 view on our next earnings call.
+
+Harsh V. Kumar
+Piper Sandler & Co., Research Division
+
+That's fair. We -- I appreciate the color that you gave. As a follow-up, the strength in China that you guys
+are seeing, maybe one for Bob or Eric, what kind of customers is that coming from? Is that coming from
+the Tier 2s? Or is that also, to some extent, coming from Huawei at this point?
+
+Steven E. Creviston
+Corporate VP & President of Mobile Products
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+Right. Yes. It's primarily throughout Asia, so Korea and China as well, where relatively high end 5G
+handsets are still entering the channel for now. We're beginning to also see our large customers in China,
+so Vivo, Oppo, Xiaomi, for example, bringing 5G further down into the portfolio with some of the handsets
+that'll be launching in the March quarter.
+
+Operator
+
+Our next question comes from Bill Peterson, JPMorgan.
+
+William Chapman Peterson
+JP Morgan Chase & Co, Research Division
+
+Great job on the results and guide. Maybe first one for Eric. And going back to your Analyst Day from 1.5
+years, I guess closer to 2 years ago, you talked about some unique advantage of your BAW relative to
+other filter technologies, so net BAW and so forth. You've been discussing ultrahigh band wins and n79 in
+particular, and also now recently you're talking about traction with your new micro BAW. I guess, can you
+give us an update on how your BAW is helping you win relative to competitors I guess both in tranche as
+well as new entrants for some of these 5G specific bands? And I guess in terms of other content, you've
+been talking with us about antennaplexing, we haven't heard as much about that recently, but how has
+that been playing out? And I guess how can you meet the demands in that given your portfolio, your BAW
+portfolio?
+
+Steven E. Creviston
+Corporate VP & President of Mobile Products
+
+Right. Yes. Thanks, Bill. The technology road map has continued to progress for us. Since we've formed
+the company, we've really made just a ton of progress in improving the performance of our SMR BAW
+filters and also our ability to integrate them into modules and, also together, to make antennaplexers and
+high-level multiplexers and so forth. So that's maturing and getting more and more competitive every
+single month.
+
+In addition, of course, at the same time, the market's asking for higher performance. More bands are
+being added, it seems every quarter, wider bandwidths, multichannel operation and so forth. So there's
+plenty of challenges to be met with the filter technology. And it's frankly a pretty target-rich environment
+right now for these opportunities.
+
+So I think it's fundamental technology combined, really, with our ability to integrate it with also very,
+very good power amplifiers, for example, in the ultrahigh band opportunities, power amplifier efficiency
+and power levels are very important to accomplish and then, of course, our leadership in switching
+technologies and putting all those into high-level modules together. It's very similar to the fundamental
+trends we've talked about for several quarters now. We're just continuing the march on driving the
+investments into the core technologies to make it better.
+
+William Chapman Peterson
+JP Morgan Chase & Co, Research Division
+
+Okay. Great. And I guess the next question, I guess, both you and James can chime in. On the top of the
+millimeter waves, obviously, some of your competitors are talking of the millimeter wave opportunities. It
+appears like you and your closest competitor are really still focused on sub-6. I guess for the mobile side,
+what unique and different solutions could you bring into the market? What are the key hurdles to address?
+What are key base technologies, power amplifiers, switching filters and so forth? And I guess from James'
+side, what -- you spoke to it a little bit earlier in the prepared remarks, but how do you see the growth of
+millimeter wave and the impact to his business and some of the unique, I guess, things that he can bring
+to the market as well?
+
+Steven E. Creviston
+Corporate VP & President of Mobile Products
+
+Yes. So thanks. I'll start. This is Eric. So the unique strengths that we bring to millimeter wave in the
+mobile side is really leveraging the work that James has done in the infrastructure side and defense
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+applications, developing advanced gallium arsenide processes for millimeter wave operations. So we've
+released new commercial versions of those processes and have introduced those to multiple handset
+manufacturers and platform providers. We're building prototypes to help demonstrate the capability
+of mobile millimeter wave and showing what could be done in terms of thermal dissipation and power
+efficiency and battery life and so forth. But at the end of the day, I think the big question is just whether
+the business model is going to close on it. I think there's a lot of challenges in millimeter wave in a
+mobile application. By definition, you're moving in a mobile application and the path losses is quite high
+in millimeter wave. So we'll see. We're certainly getting lots of demonstrations out there. You're seeing
+carriers put up a millimeter wave in multiple cities, and we're going to be participating in helping to
+validate the market.
+
+James L. Klein
+Corporate VP and President of Infrastructure & Defense Products
+
+And Bill, this is James. And as far as infrastructure is involved, I mean, we're certainly engaged, very
+similar to what we showed in our Analyst Day almost a couple of years ago about how we see more and
+more of those systems using GaAs-based front ends, getting away from pure silicon solutions because it's
+just a much more efficient implementation. But we're also seeing fixed wireless come onboard and the last
+mile, if you call it, and we've released some products just last quarter to start to address those kind of
+parts of the market, and again, kind of leading the industry in efficiency based on those GaAs processes,
+in particular, some of the smallest gate links that we've released in production, so really high-frequency
+focused type activities.
+
+I also want to add to the BAW question. We talked about how BAW is enabling inside mobile, Eric did,
+but it's also been a big benefit for us in the WiFi market. We've released iFEMs in the 2.4 gigahertz, and
+we've been sampling those at 5 gigahertz as well. We're also using our new 5 gigahertz processes to
+release products in the automotive space and into small cells and base stations. So we are using our filter
+technology to really allow us to compete in several different markets and for me particularly in the higher
+frequencies.
+
+Operator
+
+Our next question comes from Timothy Arcuri with UBS.
+
+Seth Gilbert
+UBS Investment Bank, Research Division
+
+This is Seth Gilbert on for Tim. Just as, I guess, a follow-up to one of the earlier questions. June is usually
+up something like mid-single digits quarter-over-quarter, and September is usually around the double
+digits quarter-over-quarter. So just curious of this much new higher -- this new higher base for March, is
+this still the right way to think about seasonality as we look out into June and into September?
+
+Mark J. Murphy
+Chief Financial Officer
+
+Yes. Seth, this is Mark. I reluctantly go to June because of the coronavirus concerns, and I gave a revenue
+number there. The only thing I would add, just to make sure folks are appreciative of it, we tend to go
+down from our March to June quarter on gross margins. So we would see the revenue guide I gave and
+then we would see a gross margin in the 47 -- somewhere between 47 and the high 47s, low 47s to high
+47s. So -- and then we have OpEx increasing. But beyond that, I'm not going to talk about September.
+I'm not going to give detail on fiscal '21. I would just say that we believe we're investing in the right areas
+with -- and selecting the right products, building our capabilities to support growth in the market. And we
+expect to grow, and then we're driving for free cash flow generation. And I'll provide more in -- during the
+next earnings call.
+
+Operator
+
+Our next question comes from Chris Caso with Raymond James.
+
+Christopher Caso
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+Raymond James & Associates, Inc., Research Division
+
+I guess first question is about the content opportunity between the premium tier and the mass tier phones
+when you transition to 5G. And I guess in the 4G generation, most of the content was in the premium
+tier phones. So that was, if I look at your total content opportunity, that was the largest part of your mix.
+Does that shift somewhat as you move to 5G because you're moving those mass tier phones from such a
+low content to something? How does that change your sort of mix exposure of your total revenue between
+sort of premium tier phones and mass tier phones, obviously, realizing mass tier phones represent more
+volume?
+
+Steven E. Creviston
+Corporate VP & President of Mobile Products
+
+Right. That's an excellent question, really. And I mentioned a little bit ago seeing -- not unusual to see $10
+to $12 worth of RF content and sometimes even higher in some of our China-based handsets, which are
+primarily mass tier. They're at the higher end today, but that's what's driving down into the mass tier as
+we speak. And so if you look at kind of percentage increase from 4G to 5G, it's much, much higher than
+-- it's more like a 2x in content now. And as we've talked about before, it's not only adding the 5G proper,
+if you will, content, but also bringing all of the 4G up to higher levels of capability as well in each of those
+5G handsets.
+
+So to your point, we see content increases in the premium tier for sure. But as a percentage of the total,
+they're more on the order of, call it, 20%, 25% of content increase, where in the mass tier, you're seeing
+more like a double or even more of content. So it does tend to mute the mix effect slightly, I would say, as
+we go into 2020.
+
+Christopher Caso
+Raymond James & Associates, Inc., Research Division
+
+That's helpful. As a follow-up, you've talked a little bit about ultra wideband. And obviously, you sound like
+-- you did an acquisition in there. I guess how important is ultra-wideband to you in terms of revenues
+today? And I guess where do you see it going not just within handsets but also opportunities for ultra-
+wideband and IoT type devices, how significant can that be?
+
+Steven E. Creviston
+Corporate VP & President of Mobile Products
+
+Right. It's another good question. We -- as you probably know, we're the leading supplier of ultra-
+wideband front ends today into the mobile handsets, although it's a relatively small market today, but it's
+really just emerging. And I think between the fact that it's now beginning to penetrate mobile handsets,
+we believe it will eventually be absolutely required in every handset. That, combined with the fact that
+the connected car consortium has adopted the technology for future keyless entry systems, we think this
+is really just the very beginning of an inflection point. We are absolutely thrilled to be adding Decawave,
+a fantastic company, great people, great technology. They've been at this 15 years, it's really truly
+pioneered, as we said, the technology. And so we see beyond the automotive and the mobile applications,
+we think a whole host of both consumer and industrial IoT applications are there as well.
+
+So when we look forward by 2024, we're modeling at $2 billion to $4 billion worth of additional TAM. And
+we think there'll be just a few people positioned to capture it. So pretty exciting.
+
+Operator
+
+And our next question comes from Ed Snyder with Charter Equity Research.
+
+Edward Francis Snyder
+Charter Equity Research
+
+Eric, on China, how much of your strength there, I mean, is from, say -- I want to juxtapose the different
+factors that are affecting China because it's obviously becoming a very big part of your business. But -- so
+if you could maybe give us some idea of how much of it is coming from 5G content upside versus 5G being
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+pushed into more phones than we expected versus OEMs moving their old 4G Phase 2 designs to module?
+So 5G content versus units versus the shift to modules in 4G. And if you could, what percentage of your
+revenue you think you're getting from China at this point?
+
+And then, James, it sounds like defense is not only acting as you expected, but also leading the
+charge.MACOM just announced on the call last night, they're finally getting the GaN on silicon carbide. So
+I'm trying to get an idea of how sticky are the applications for your GaN-on-SiC in both 5G base stations?
+And then if you could talk to some degree about how that applies to defense, too. And then I have a
+follow-up.
+
+Steven E. Creviston
+Corporate VP & President of Mobile Products
+
+All right. So regarding the first part of your question, the strength we're seeing throughout China right
+now is largely driven by 5G content. That's the primary driver. And I think I spoke last quarter about
+seeing the need for more like dual signaling capability, for example, driving additional switching and
+antenna work, the -- and then I forgot what -- all 3 of the categories. But at the bottom would be the
+modules in 4G-only handsets. That's probably the least impactful. Right now, the insight is heavily driven
+by 5G and mostly content more than units.
+
+James L. Klein
+Corporate VP and President of Infrastructure & Defense Products
+
+Yes. This is James. I mean, certainly, we believe we've got great technology in -- with our GaN and have
+been doing very well in the defense market. And we are seeing GaN grow well north of what the market is
+growing. And so we also continue to make investments in scale and in reducing our costs, which we think
+are key enablers to that technology to continue to proliferate.
+
+As far as stickiness, I mean, obviously, in defense, that market is characterized, as you know, long cycles
+in programs. And so I would consider that a very sticky market.
+
+In base station, we are seeing the trends go just about like what we've talked about for the last couple
+of quarters. We are seeing massive MIMO systems to deploy. And we're also seeing GaN take significant
+share from LDMOS. And so both of those are great trends for us, and we're capitalizing on those trends.
+And I think it's a good part of how we've been able to turn the business around fairly quickly.
+
+Edward Francis Snyder
+Charter Equity Research
+
+Excellent. And then for my follow-up, Eric, if I could. Broadcom announced a supply agreement with Apple.
+I guess it was -- I can't remember, this week or last week. And I know it's probably more of a frame
+agreement but they cited $15 billion, et cetera. Last time they did this, which was some years ago, those
+ensuing 2 or 3 years that followed that agreement were marked by lack of content for Qorvo in there. So
+how does this change the landscape, or does it at all, in your view irrespective of if they keep the business
+or not? And what does that do for the mix of your -- not just your BAW, but your revenue? Does it shift
+more to China in the upcoming 2 years or so? And do you even have any indication of that?
+
+Steven E. Creviston
+Corporate VP & President of Mobile Products
+
+Well, frankly, it doesn't have any particular impact on our investments today. We're picking our battles,
+investing in areas where we think the highest probabilities are. It's a target-rich environment right now for
+integrated modules as well as for discrete components based on BAW technology. As I said, we've got a lot
+of advancements coming in the BAW technology and well-placed, great relationships across the industry
+and across all baseband manufacturers and tiers. So the announcement itself and our understanding of
+what it includes does not impact our current investment plans.
+
+Operator
+
+Our next question comes from Blayne Curtis with Barclays.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+Blayne Peter Curtis
+Barclays Bank PLC, Research Division
+
+Just curious on the deals. You said it closes in February. Is there anything you can wrap around that in
+terms of revenue and OpEx contribution? And then I have a follow-up.
+
+Mark J. Murphy
+Chief Financial Officer
+
+Yes. Blayne, we'll provide more. It's not a material amount of revenue, and it's an increase in OpEx. It's all
+reflected in our guide. And it's dilutive in the near term.
+
+Blayne Peter Curtis
+Barclays Bank PLC, Research Division
+
+Got you. And then, Mark, I know this is preliminary guidance for June. I'm just a little confused on the
+seasonality here. You're seeing all the strength in China. Usually Apple is not stepping down as much in
+June. I'm just trying to understand what you're baking in for a sequential decline in June.
+
+Mark J. Murphy
+Chief Financial Officer
+
+Yes. Blayne, I'm not going to go into any more detail. What we've provided is our best view given current
+demand signals and then adjusted for some risk factor and in what is a very uncertain situation at the
+moment. So doing our best to provide you at least a directional call that far out.
+
+I think the concern as we sit here today is right now, the channel is lean and healthy. The demand signals
+have not been -- yet been affected. But we do have -- the Chinese New Year will wrap up, and people will
+take stock of what's going on with this health situation in China and elsewhere. So I think we're just being
+mindful of that and providing some sort of directional view for you.
+
+But in the June quarter, it's still a story of what you've heard on the call today about 5G-related handset
+growth, content associated with that growth, continued WiFi growth, defense strength and infrastructure
+recovery.
+
+Operator
+
+Our next question comes from Craig Hettenbach with Morgan Stanley.
+
+Craig Matthew Hettenbach
+Morgan Stanley, Research Division
+
+Yes. Just first question for Mark, just following up on the acquisitions. I think you said immaterial to
+revenue, but you said, was it $500 million in terms of total cost for both?
+
+Mark J. Murphy
+Chief Financial Officer
+
+Yes.
+
+Craig Matthew Hettenbach
+Morgan Stanley, Research Division
+
+Could you maybe just help frame just kind of the opportunity over the next couple of years in terms of
+how maybe sizing like that business in terms of where you see it potentially going?
+
+Mark J. Murphy
+Chief Financial Officer
+
+Yes. I mean most of the purchase price is associated with the Decawave acquisition, in fact, over 2/3
+of it, so over 3/4 of it. So the -- and that is a technology investment. As Eric said, it's technology for a
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+market that we think is a several billion dollar market in a number of years. And that's going to take time
+to develop, and it's a largely immaterial revenue and dilutive.
+
+The smaller acquisition, Custom MMIC, is a defense bolt-on and the -- very easy-to-integrate, right in
+James' wheelhouse on defense products, advanced technology defense products. We see in the -- for
+the part of the March quarter that we haven't integrated, it'll provide about $3 million of revenue in that
+quarter. And on a full quarter basis, it'll be roughly $5 million or so for the near term. And it's accretive
+immediately.
+
+Operator
+
+Our next question comes from Raji Gill with Needham & Company.
+
+Rajvindra S. Gill
+Needham & Company, LLC, Research Division
+
+A question on the RF infrastructure market win. When do you expect that to rebound? Any color in terms
+of what you're seeing with the mobile operators in terms of deploying these base stations across the
+world? Are there some regions that are starting to catch up, others starting to kind of slow down? Any
+color there in terms of RF infrastructure will be helpful.
+
+James L. Klein
+Corporate VP and President of Infrastructure & Defense Products
+
+Okay. Yes, this is James. So we definitely are seeing deployments going predominantly today below 6
+gigahertz, predominantly in China. What's helping us in talking about recovering our businesses, we are
+seeing massive MIMO continue to take more share, if you want to talk about that, and share of base
+stations, and that's a big content, big for us, about 10x of what we would have in fact for a base station.
+So that's driving the recovery.
+
+I think the absence of Huawei is obviously a challenge for us in the industry because it's about 50% of the
+share. But as we said in Bob's prepared remarks, we are ramping with our third customer in that space.
+And I think that will fuel us to recover the business.
+
+Deployments, look about on track, a little bit of share mix changes in the last quarter, but it appears that
+there were somewhere in that 400,000 or so base stations that were deployed last year. And it looks like
+that will grow about 50% this year. So somewhere in that 600,000 base stations deployed.
+
+MIMO content will probably go up to maybe 20% last year to 30% or greater this year. So positive trends.
+I think we heard yesterday about some frequency allocations in the U.S., and we hope that, that will also
+spur development to push forward in the United States.
+
+Rajvindra S. Gill
+Needham & Company, LLC, Research Division
+
+And on a follow-up, you talked about GaN taking share against LDMOS base station. What's driving that
+transition? What's the catalyst for that?
+
+James L. Klein
+Corporate VP and President of Infrastructure & Defense Products
+
+Yes. Threefold. One is the move to higher frequencies and GaN's performance advantage at higher
+frequencies, also broader bandwidths associated with 5G. And again, GaN has a better ability to deal
+with those higher or broader frequency levels. And then in some cases, just higher output power. But in
+general, the technology is just very well suited to move in these directions that we've talked about before
+of higher frequency and broader bandwidths.
+
+Operator
+
+Our next question comes from Srini Pajjuri with SMBC Nikko Securities.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+Srinivas Reddy Pajjuri
+SMBC Nikko Securities America, Inc., Research Division
+
+A couple of clarifications. Mark, maybe you can talk about how many 10% customers you had in the
+quarter. And also if you could give us what percent of the mix in mobile was China in the quarter.
+
+Mark J. Murphy
+Chief Financial Officer
+
+Yes. So we had 2 10% customers in the quarter, and I don't break out by region our sales by quarter.
+
+Srinivas Reddy Pajjuri
+SMBC Nikko Securities America, Inc., Research Division
+
+Got it. And then is it fair to say that Huawei is still kind of minimal on the mobile side or did it grow in the
+quarter?
+
+Mark J. Murphy
+Chief Financial Officer
+
+Yes. Huawei was one of the 10% customers, actually. And it was stronger than we expected, along with
+the other Asia-based handset producers. I said on the call -- the last call that we expected Huawei to be
+about 5% in the second half. They were larger than that in the December quarter. So that statement is still
+correct. It's just that the -- obviously the weighting is not uniform across the second half. So we expect
+them to be about a 5% customer second half, obviously, the largest portion of that in the December
+quarter.
+
+I think it's important to note here that we're seeing broad-based strength related to 5G across the Asia
+handset producers and, importantly, across all chipset producers. And I think the March guide drives home
+that point.
+
+Operator
+
+And our next question comes from Vivek Arya with Bank of America Securities.
+
+Vivek Arya
+BofA Merrill Lynch, Research Division
+
+Congratulations on the strong results. First one, I'm curious what does the shape of the 5G handset
+rollout look this year? Is it kind of more balanced first half, second half? Is it more 60%, 70% back half
+weighted? When I look at the 300 million or so market size, it's much higher than what others are, and
+that's closer to 200 million? So I'm just curious how you are seeing the 5G rollout, what you have seen so
+far and what do you think the shape of the year looks like for the market?
+
+Steven E. Creviston
+Corporate VP & President of Mobile Products
+
+I would say it's pretty uniform across the year. Obviously, we're getting up to a very strong start. Concerns
+that Mark had about coronavirus and so forth might impact demand and supply, we'll see how it goes. But
+I wouldn't have any other more specific comment on profile.
+
+Vivek Arya
+BofA Merrill Lynch, Research Division
+
+And for my follow-up, there have been some concern about the pace of wireless deployments. We heard
+that from Xilinx and Texas Instruments. I'm curious if you had noticed any of those slowdowns, and I
+apologize if you answered this already, but what are you baking in for your base station sales going into
+the March quarter?
+
+James L. Klein
+Corporate VP and President of Infrastructure & Defense Products
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+Yes. I mean what's really been driving our recovery is again massive MIMO. The -- for us, as we get that
+shift, we get about a 10x content lift. So I think if we were only in a macro or only looking at a macro
+view, I would say, yes, we'd see the deployments going slower and the business being slower. But because
+of content pickups and on top of us now being able to compete in the power amplifier slot with GaN, I
+guess that's really what's really fueling maybe a bit difference with us and some of the other folks in the
+business. Now that said, we are still way off our historical highs from where we had been a year ago or so.
+So a long way to go before we recover from the restrictions on being able to ship to Huawei, which again
+I'll restate is about 50% of the market at this point.
+
+Operator
+
+That concludes today's question-and-answer session. At this time, I will turn the conference back to
+management for any additional or closing remarks.
+
+Robert A. Bruggeworth
+President, CEO & Director
+
+Thanks for joining our call tonight. We hope to see many of you at our upcoming investor events, and
+we look forward to speaking with you on our fourth quarter earnings call. Thanks again, and have a good
+night.
+
+Operator
+This concludes today's call. Thank you for your participation. You may now disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+QORVO, INC. FQ3 2020 EARNINGS CALL |  JAN 29, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+

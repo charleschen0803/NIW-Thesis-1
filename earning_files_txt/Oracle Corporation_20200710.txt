@@ -1,0 +1,786 @@
+Oracle Corporation NYSE:ORCL
+FQ1 2021 Earnings Call Transcripts
+Thursday, September 10, 2020 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ1 2021-
+
+-FQ2 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+0.86
+
+0.93
+
+Revenue  (mm)
+
+9180.61
+
+9368.00
+
+Currency: USD
+Consensus as of  Sep-10-2020 5:23 PM GMT
+
+8.14
+
+2.04
+
+0.94
+
+4.05
+
+4.41
+
+9594.05
+
+39248.21
+
+40057.07
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+FQ1 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.89
+
+0.96
+
+1.15
+
+0.86
+
+0.90
+
+0.97
+
+1.20
+
+0.93
+
+1.12 %
+
+1.04 %
+
+4.35 %
+
+8.14 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+ORACLE CORPORATION FQ1 2021 EARNINGS CALL |  SEP 10, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Ken Bond
+Senior Vice President of Investor
+Relations
+
+Lawrence J. Ellison
+Co-Founder, Chairman & CTO
+
+Safra Ada Catz
+CEO & Director
+
+ANALYSTS
+
+Brad Alan Zelnick
+Crédit Suisse AG, Research
+Division
+
+Heather Anne Bellini
+Goldman Sachs Group, Inc.,
+Research Division
+
+James Derrick Wood
+Cowen and Company, LLC,
+Research Division
+
+Mark L. Moerdler
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+Philip Alan Winslow
+Wells Fargo Securities, LLC,
+Research Division
+
+Raimo Lenschow
+Barclays Bank PLC, Research
+Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ORACLE CORPORATION FQ1 2021 EARNINGS CALL |  SEP 10, 2020
+
+Presentation
+
+Operator
+
+Welcome to Oracle's First Quarter 2021 Earnings Conference Call.
+
+Now I'd like to turn today's call over to Ken Bond, Senior Vice President.
+
+Ken Bond
+Senior Vice President of Investor Relations
+
+Thank you, Erica. Good afternoon, everyone, and welcome to Oracle's First Quarter Fiscal Year 2021
+Earnings Conference Call. A copy of the press release and financial tables, which includes the GAAP to
+non-GAAP reconciliation and other supplemental financial information, can be viewed and downloaded
+from our Investor Relations website. Additionally, a list of customers being mentioned on this conference
+call, which have purchased Oracle Cloud Services or went live on Oracle Cloud this quarter, will also be
+available from our Investor Relations website. On the call today are Chairman and Chief Technology
+Officer, Larry Ellison; and CEO, Safra Catz.
+
+As a reminder, today's discussion will include forward-looking statements, including predictions,
+expectations, estimates or other information that might be considered forward-looking. Throughout
+today's discussion, we will present some important factors relating to our business, which may potentially
+affect these forward-looking statements. These forward-looking statements are also subject to risks
+and uncertainties that may cause actual results to differ materially from statements being made today.
+As a result, we caution you from placing undue reliance on these forward-looking statements, and we
+encourage you to review our most recent reports, including our 10-K and 10-Q and any applicable
+amendments, for a complete discussion of these factors and other risks that may affect our future results
+or the market price of our stock. And finally, we are not obligating ourselves to revise our results or
+publicly release any revisions to these forward-looking statements in light of new information or future
+events.
+
+Before taking questions, we'll begin with a few prepared remarks. And with that, I'd like to turn the call
+over to Safra.
+
+Safra Ada Catz
+CEO & Director
+
+Thanks, Ken, and good afternoon, everyone. Before I start, I want to make sure you understand that we
+will be making no comments regarding the press reports about TikTok, so there's no need to ask.
+
+So now to Oracle's results. As you can see, we had a great quarter. As usual, I'll review our non-GAAP
+results using constant dollar growth rates unless I say otherwise. This quarter, revenue was more than
+$150 million, above the midpoint of guidance, and EPS was $0.07 above the midpoint. Currency helped a
+little, but this quarter was all about solid execution on the sales side and disciplined management of our
+operations as operating income grew 8%, our best result in 3 years.
+
+As I've said previously, and only briefly interrupted by COVID-19, our mix of business is increasingly
+favorable. What that means is that our growing businesses are growing faster and are now larger than our
+declining businesses. Our Fusion SaaS momentum is very strong. We're seeing the success of Autonomous
+Database, which will continue to get even better now that we have Autonomous Database available on
+Cloud at Customer.
+
+Our total Cloud Services and License Support revenues for the quarter were $6.9 billion, up 2% from last
+year, and accounted for 74% of total company revenue.
+
+GAAP application subscription revenues were $2.8 billion, up 4%. Our Fusion apps were up 26%, with
+Fusion ERP up 33% and NetSuite ERP up 23%. Fusion HCM was up 22%. And our Fusion retention rate,
+which are already high, continue to go up.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ORACLE CORPORATION FQ1 2021 EARNINGS CALL |  SEP 10, 2020
+
+GAAP infrastructure subscription revenues were $4.1 billion, up 1%, with database revenue up 3%.
+Autonomous Database consumption revenue was up 64%, and annualized consumption revenue for OCI
+was up 130%. License revenues were $886 million, up 8%. So all in, total revenues for the quarter were
+$9.4 billion, up 2%.
+
+As usual, we have continued to be disciplined in our spending, with operating expenses actually down 3%
+this quarter.
+
+Non-GAAP operating income was $4.2 billion and, as I said, up 8% from last year, and our best operating
+income growth in 3 years. Obviously, we're thrilled with these results, and I expect that Q2 will be good as
+we're beginning to see our operating income become a bigger part of our EPS growth. Operating margin
+was 45%, up nearly 300 basis points from 42% last year.
+
+The non-GAAP tax rate for the quarter was 19.1%, slightly below our base tax rate of 20% as a result of
+some discrete items. And EPS was $0.93 in U.S. dollars, up 15% in U.S. dollars, 14% in constant currency,
+and that is despite an interest expense being $120 million higher year-over-year for the quarter. The GAAP
+tax rate was 13.3%, also a result of some discrete items, and GAAP EPS was $0.72 in U.S. dollars, up
+16% and up 15% in constant currency.
+
+Operating cash flow over the last 4 quarters was $13.1 billion with capital expenditures of $1.6 billion
+and free cash flow of $11.5 billion over that same period. We now have more than $42 billion in cash and
+marketable securities.
+
+The short-term deferred revenue balance is $9.9 billion, down 4% in constant currency from a year
+ago due entirely to timing differences in customer payments. Gross deferred revenue was, in fact, up in
+constant currency, and it was up 2%.
+
+As we've said before, we're committed to returning value to our shareholders through technical
+innovation, strategic acquisitions, stock repurchases, prudent use of debt and a dividend. This quarter, we
+repurchased nearly 90 million shares for a total of $5 billion. Over the last 12 months, we've repurchased
+361 million shares for a total of $19.2 billion. Over the last 10 years, we have reduced the shares
+outstanding by 40%. In addition, we've paid out dividends of $3 billion over the last 12 months, and the
+Board of Directors again declared a quarterly dividend of $0.24.
+
+Now to the guidance. Again, my guidance today is on a non-GAAP basis and in constant currency. Now
+currency, though, is extremely volatile as you can see in what happened in this quarter and -- but
+assuming current exchange rates remain the same as they are now, currency should have a slightly less
+than 1% positive impact on total revenue and potentially $0.02 positive effect on EPS for Q2.
+
+So with that, total revenues are expected to grow between 1% to 3% in U.S. dollars. And because we will
+have slightly under a 1% tailwind, so in constant currency, that kind of rounds into 0 to 2% but probably
+at the higher side.
+
+Non-GAAP EPS in constant currency is expected to grow 8% to 12% between $0.96 and $1 in constant
+currency, but again, that's assuming a $0.02 tailwind, so non-GAAP EPS in USD is expected to grow 10%
+to 14% and to be between $0.98 and $1.02 in U.S. dollars.
+
+Now my EPS guidance for Q2 assumes our base tax rate of 20%. However, as you see, it's usually a little
+below it; sometimes, it's a little above it. However, onetime cash events could cause the actual tax rates
+for any given quarter to vary. But I expect, in normalizing for these things, it will average to 20% so that's
+what I targeted in this guidance.
+
+And with that, I'll turn it over to Larry for his comments.
+
+Lawrence J. Ellison
+Co-Founder, Chairman & CTO
+
+Thanks, Safra. Let's see, Oracle occupies a unique position in the cloud market. Oracle is the only cloud
+vendor that competes in both the enterprise applications market, SaaS; and the infrastructure-as-a-
+service market, IaaS. Our competitors in SaaS are people like Salesforce and Workday. Our competitors in
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ORACLE CORPORATION FQ1 2021 EARNINGS CALL |  SEP 10, 2020
+
+IaaS are people like Microsoft and Amazon. They're different markets. We're the only one that spans these
+2 markets. It's a very interesting dynamic.
+
+I believe we have the best technology in the market today at both the applications layer and the
+infrastructure layer of the cloud. While analysts have ranked Oracle Cloud applications #1 in both market
+share and customer satisfaction for some time: we're #1 in customer satisfaction in HCM, we're #1
+in customer satisfaction in ERP, I can go on, but what's interesting is that those same analysts are
+beginning to take notice of the technical quality and customer satisfaction associated with Oracle's cloud
+Infrastructure-as-a-Service business.
+
+I'd like to read an approved statement from IDC about their recently published survey. In the 2020
+Industry CloudPath survey that IDC recently released where it surveyed 935 IaaS customers, on their
+satisfaction with top IaaS vendors, including Oracle, Amazon Web Services, Microsoft, IBM and Google,
+Oracle IaaS, OCI, received the highest satisfaction score and the biggest year-over-year score increase
+of all IaaS vendors. In addition, 86% of those surveys said they expect their spend on Oracle IaaS and
+OCI to increase in the future. I suspect this comes as a big surprise to many of you and many of our
+competitors, just as Zoom picking Oracle infrastructure surprised a lot of people in the recent past.
+
+I know the biggest question for investors has been can Oracle preserve its huge market-leading database
+franchise into this new cloud era. Well, interesting question; obviously, an extremely important question
+to me and everyone here at Oracle. But if Oracle Cloud Infrastructure, OCI, is, in fact, as IDC describes
+it: the best IaaS platform in the market, the IaaS platform with the highest customer satisfaction, and
+that same IaaS, OCI, is the foundation for the world's only autonomous database, where do you think the
+Oracle database -- installed base is going to go?
+
+What we're beginning to see is that it's just starting to migrate. And it's migrating to both the Oracle
+Public Cloud, the only place you could get the Autonomous Database, and Oracle Cloud at Customer
+-- excuse me, the only other place you can get the Oracle Autonomous Database, and Oracle Cloud
+Infrastructure all together. Customers are picking Oracle Cloud Infrastructure and the Oracle Autonomous
+Database for a few very basic and very obvious reasons: much better security, much better reliability,
+much better performance and dramatically lower cost, much, much lower cost than AWS. And that's why
+people are -- and I'll talk about being -- people like 8x8, another video conferencing system, are moving
+entirely from AWS onto the Oracle Cloud. In fact, there is not a major video conferencing company that
+isn't talking to Oracle about moving to the Oracle Cloud.
+
+Vim is a perfect example of why customers are choosing Oracle Cloud Infrastructure. We see the benefits
+of choosing OCI in Zoom's results. Zoom's recent earnings were stunning. Zoom may be the fastest
+company ever to have their company name become a verb. At Oracle, we love to Zoom as most of our
+employees continue to work from home. And we love that Zoom's usage of Oracle Cloud Infrastructure
+services delivered triple-digit revenue growth in sequential quarters, from Q4 last year to Q1 this year.
+
+OCI cloud data centers are opening all over the world at a record pace. We now have 26 OCI regions live
+around the world, edging out Amazon AWS, which currently has 24 regions. And we'll be adding at least
+another 10 regions in the next 9 months. We're not slowing down. We're speeding up. Oracle Database
+Cloud at Customer is functionally identical to the Oracle Database and the Public Cloud. That's why we're
+seeing the migrations going both places. They're going to Database Cloud at Customer, which is a unique
+Oracle offering, and they're going directly into our Public Cloud. The price is the same in both cases, the
+Database is fully serverless and elastic in both cases. You only pay for what you use in both cases, and
+there are no upfront fees in both cases.
+
+We are seeing very rapid adoption of Oracle Database Cloud at Customer among our very largest
+customers, and this is just the beginning. In 2018, we delivered the world's first autonomous database.
+And the Oracle Autonomous Database is still the world's only autonomous database. Then in 2019, we
+introduced the world's first autonomous operating system. And today, Oracle Autonomous Linux is still the
+world's only autonomous operating system.
+
+Now in 2020, we've introduced Oracle Autonomous Data Guard, which effectively eliminates site
+downtime. If the data center running your application goes down for any reason, Autonomous Data
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ORACLE CORPORATION FQ1 2021 EARNINGS CALL |  SEP 10, 2020
+
+Guard immediately switches and automatically -- immediately and automatically switches that application
+over to another data center. No human intervention is required to keep your application running without
+interruption, and no human labor is required to set up and configure Autonomous Data Guard. To use
+Autonomous Data Guard, there's nothing to learn and nothing to do. You just have to turn on a single
+switch. Only Oracle offers this autonomous reliability feature.
+
+Another unique OCI offering is our dedicated region, Gen2 Cloud at Customer. Customers can now put our
+entire Gen2 public cloud behind their firewall in their data center, all of it. It's not just the Oracle Database
+behind your firewall, it's every service that's in our public cloud: compute, storage, Fusion applications,
+plus the Autonomous Database, Autonomous Linux, Autonomous Data Guard, everything. And we manage
+it and maintain it for the customer. You get all the benefits of the cloud, but it's in your data center behind
+your firewall. No one, not Amazon, not Microsoft, not Google, nobody but Oracle can give customers a
+complete public cloud in their data center behind their firewall.
+
+Our strategic services are growing rapidly. Autonomous revenue grew -- Autonomous Database revenue
+grew 64% in annualized consumption. Our Gen2 OCI consumption rate was 130%. We're clearly growing
+faster than the market, and we're taking market share in the process.
+
+With that, I'll turn it back to Ken.
+
+Ken Bond
+Senior Vice President of Investor Relations
+Thank you, Larry. Erica, if you could please queue up the audience for questions, we'll go to Q&A now.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ORACLE CORPORATION FQ1 2021 EARNINGS CALL |  SEP 10, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from Mark Moerdler with Bernstein Research.
+
+Mark L. Moerdler
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Congratulations on the strong quarter and especially on license and margins. I'd like to ask about
+the guidance. While Q1 was strong, the economic disruption of COVID-19 is not yet over, and yet
+you're guiding what looks strongly. Can you give us some more color on why you feel so confident? And
+specifically, are you modeling an increased strength in Database, SaaS, ERP and HCM? How big a factor is
+Gen2 cloud in the guidance? Any information would be appreciated.
+
+Safra Ada Catz
+CEO & Director
+
+Sure. Thanks for the question. So it's really following the path that we were on before COVID really hit
+in March. And so we were -- what is going on is very basically an extrapolation of what's happening in
+the business. So the things that are going very well and are growing and are getting larger and larger is
+everything associated with the cloud. And that does have implications on license because options grew not
+only -- Database options grew not only double digits but actually 20-something percent. And Analytics also
+grew because, as you know, with Oracle licenses, you can bring them to our cloud.
+
+But in addition, Exadata and some of our Oracle-specific hardware that's very strategic still continues to do
+well. But really, the big barn beaters are the fact that our SaaS business is large and growing quickly, and
+now, OCI and our Database Cloud products and services are growing and they're getting larger and larger.
+And so because we've got annual consumption revenue growing over 100%, and this kind of -- this now
+overwhelms the fact that some of our businesses -- I'll give you an example, on-premise consulting. This
+business continues to get smaller, and so it's completely overwhelmed by the businesses that are growing
+faster.
+
+And commitment to our database is incredibly strong. More and more of our customers want to bring their
+Oracle databases to the Oracle Cloud. And then, of course, you have the cases that Larry talked about
+where our just Oracle Cloud Infrastructure Gen2 is just so good and so much cheaper and so performant
+and secure that more and more applications want to come to that. So that's really what's going on. I'm
+not seeing into the future. I'm basically looking at what's going on under the covers, and it's a very easy
+extrapolation as our installed bases of our cloud businesses continue to grow.
+
+Operator
+
+Our next question comes from Brad Zelnick with Crédit Suisse.
+
+Brad Alan Zelnick
+Crédit Suisse AG, Research Division
+
+Great. And I'll echo my congrats to the company as well. I want to ask about Cloud at Customer. Clearly,
+there's a lot of excitement for how it can enable very large customers to adopt Autonomous Database
+and have all the benefits of OCI behind the firewall. And I appreciate it's only really become available in
+the last few months. But maybe for Larry, from a product market fit perspective, could you explain why
+this is such a big deal? And for Safra, are there any leading indicators you can point to, maybe backlog
+or anything else, to help us understand the leading demand for these products and which I assume it
+supports your confidence in the overall business accelerating?
+
+Lawrence J. Ellison
+Co-Founder, Chairman & CTO
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ORACLE CORPORATION FQ1 2021 EARNINGS CALL |  SEP 10, 2020
+
+Yes. I think I can explain it very clearly. So we've been working on Oracle Autonomous Database for
+several years. As I mentioned in my preamble, we came up with Oracle Autonomous Database in 2018.
+But if you're an on-premise user, there was no way to get access to the Oracle Autonomous Database
+until a couple of months ago. So the Oracle Autonomous Database was available in our public cloud and
+has been for 3 years, and it keeps getting better and better. But if you're a big on-premise customer, you
+didn't have the late -- assets to our latest and greatest database. It was a very strange situation for Oracle
+that our latest technology was not available to the vast majority of our customers.
+
+All of a sudden, with Cloud at Customer, with Database Cloud at Customer, at very low prices, you can get
+Oracle Autonomous Database and all the latest and greatest features we offer in the database and have it
+delivered to your data center behind your firewall. And we think the growth here is going to be explosive.
+We had a version 1. I'll just -- full disclosure, we had a version 1 of this that was rather difficult to install
+and difficult to use. And version 2 is kind of the extreme opus that we learned a lot. And version 2 is really
+a plug-and-play. It goes in very, very fast. And it's very simple to use, incredibly reliable. And we expect
+this to be one of the great stories this fiscal year. We think this is going to be triple-digit growth, Oracle
+Database Cloud at Customer.
+
+And the other thing is it's just going to preserve our database franchise. There's 2 ways that -- people
+are going to make the choice to upgrade and move from their current version of Oracle to Autonomous
+Database. And once in Autonomous Database, they're not going anywhere.
+
+Operator
+
+Our next question is from Heather Bellini with Goldman Sachs.
+
+Heather Anne Bellini
+Goldman Sachs Group, Inc., Research Division
+
+I guess Safra, OCI had a great quarter, and obviously, it's had really impressive growth with customers
+like Zoom that you highlighted. Can you talk to us a little bit about the pipeline momentum you're seeing
+with OCI as customers accelerate their migrations to the cloud? And also, can you share with us what type
+of workloads and applications are seeing the most traction with it? Or is it really broad-based?
+
+Safra Ada Catz
+CEO & Director
+
+Okay. Let me start, but I know Larry is going to want to say a few things about this. So first of all, you
+have to understand that our Fusion customers are also on OCI, which means that all of the applications
+that they want to build themselves, all custom things that are on the Oracle Database, they're going to
+be putting them on OCI also. In addition, just realize that many of our database customers stayed on-
+premise and waited for us to have OCI Gen2, which is powerful enough, secure enough and scalable
+enough for their crown jewels. And they've literally waited. And I know, and I have visibility into sort
+of the future, because often they want to do what we call BYOL, bring your own license, but they often
+need options. And so I can see their intentions when they're buying those options to bring those database
+workloads.
+
+Now it is falling into the same categories that you've seen historically with us. The communications
+industry, the financial services industry, all of the industries that have very important high-performance
+applications that run on Oracle, they've been waiting to put them at OCI. And so we see that. Now some
+of them are putting it into public cloud. Many of them, actually many more than I would have expected,
+and then others, are doing Cloud at Customer. And this second generation of Cloud at Customer, now
+with Autonomous Database, is just so powerful for our customers. So we're talking about app customers,
+database customers, custom applications.
+
+And then there are applications that otherwise just run at some of the competing cloud services that
+when they do, just like Zoom did, like 8x8, a whole bunch of others that really use a lot of network, a lot
+of compute, may use a lot of storage, may have a lot of egress, back and forth taking data in and out,
+they realize that Oracle is both more performant. And since you pay by the minute, the day, the hour, it's
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ORACLE CORPORATION FQ1 2021 EARNINGS CALL |  SEP 10, 2020
+
+much, much cheaper. So we compete at every level of the stack, and it's really very, very, very broad-
+based for us.
+
+I don't know, Larry, if you want to talk about -- add some more to that.
+
+Lawrence J. Ellison
+Co-Founder, Chairman & CTO
+
+Yes. I'll add a little bit of color. When Safra says our customers waited for us, let me add a little more
+information. A lot of those customers actually tried to run Oracle with AWS. They tried. It just didn't work
+very well. So they've decided maybe they should wait. And so they did. So they did try. They looked
+around, they experimented, but the vast, vast, vast majority didn't work very well. We have an Exadata
+cloud service. We have -- Autonomous Database is not available any place but the Oracle Cloud. Exadata
+database service isn't available any place but the Oracle Cloud. We're much better at -- you'd expect
+us to be much better at running Oracle applications than anybody else, and we are. And a significant
+percentage of enterprise applications, I don't know, 40% -- 30%, 40% are Oracle applications. So that's
+just a gigantic installed base that we think is going to be moving to the Oracle -- we're starting to watch it
+move to the Oracle Cloud. That's one fact. So they tried, didn't work. So they're coming to us.
+
+Next thing. A lot of our application customers, we've got well over 7,000 customer -- Fusion application
+customer -- 7,000 Fusion ERP customers. Now those customers are beginning to build data warehouses
+around their ERP data. Everyone does. And they're building those data warehouses using Autonomous
+Database and Oracle Analytics and the Oracle Cloud using Oracle infrastructure services. The Oracle
+Analytics Cloud is in Oracle infrastructure services, in OCI service. The Autonomous Database in OCI
+service. So our application customers, pretty much all of our medium and large application customers will
+become, in the not-too-distant future, infrastructure customers. A lot -- again, and you've got to add them
+onto it. So these are people that are SaaS customers that are going to become infrastructure customers.
+
+On-premise database customers are going to become infrastructure customers, either in the form of Cloud
+at Customer or Public Cloud. Then there are the surprises like Zoom and 8x8. And -- but there are more
+surprises like that. I think Zoom is a great example because it proves that the Oracle Cloud is secure,
+reliable, high performant and economical. They picked it because there's nothing to do with the Oracle
+Database. It has nothing to do with them being a SaaS customer. That was just purely an evaluation of
+our cloud versus Microsoft's versus Google's versus Amazon's.
+
+And another example of that is high-performance computing, car companies simulating crashes. Now
+why would anyone go to the Oracle Cloud to do high-performance computing when you can go to Google
+or you can go to Microsoft or you can go to AWS? Well, because we're much faster, therefore -- we're
+much, much faster. And therefore, they get the simulations done faster, but they've got to be willing to
+pay less. Almost every car -- well, maybe that's too strong. Half the car companies around the world are
+now either using our high-performance computing or evaluating our high-performance computing because
+we benchmark so well against the competition. And this is all new business, like the video conferencing
+business.
+
+So the OCI team did a spectacular job of building a second generation, learning from what Microsoft did,
+what Google did, what Amazon did and then building the next generation. And it's so good, we're winning
+business everywhere. So -- and again -- and these are very early days. Gen2 OCI is relatively new, and
+Gen2 Cloud at Customer is even newer. And these are both fabulous products that I think are going to do
+extremely well over the next few years.
+
+Operator
+
+Our next question comes from Raimo Lenschow with Barclays.
+
+Raimo Lenschow
+Barclays Bank PLC, Research Division
+
+Congrats from me as well. Originally, I wanted to ask about the enterprise edition of TikTok, but you
+said I shouldn't ask about TikTok so a different question now. The -- could you maybe discuss -- like, we
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ORACLE CORPORATION FQ1 2021 EARNINGS CALL |  SEP 10, 2020
+
+talked about the strength in cloud, but the other thing that stood out this quarter was how much better
+you did compared to your peers on the license side. You were up where everyone kind of was down quite
+significantly. And you touched on some of the drivers, but maybe you could double-click on some of that
+again because that stands really out as something that we haven't seen in the industry.
+
+Lawrence J. Ellison
+Co-Founder, Chairman & CTO
+
+Can I -- I'd like to comment on that because I think our license business is really misunderstood. People
+think our -- they see license business and they translate in their brain, license means on-premise. That
+is not true for us. It may be true for everybody else, by the way; probably is true for everybody else,
+but it's not true for us. We have this thing called Bring Your Own License to the cloud. We encourage our
+customers to buy licenses -- buy more licenses. And our pitch is you can run those licenses in your data
+center on-premise or you can bring those licenses to the cloud and get big discounts running database in
+the cloud.
+
+So you cannot look at our growth and our database license business and say that's the old -- a revival of
+the old on-premise business. That is not correct. A lot of these people, we have -- when we see -- ULAs
+and these big contracts for database, the reason people are buying more licenses, a lot of them -- not
+all of them but a majority of them -- is because they have the flexibility of bringing those licenses to our
+Public Cloud, to Cloud at Customer and getting big discounts, getting a benefit, getting better prices by
+doing that. And a lot of people are doing this. So again, don't translate license to mean not cloud. A lot of
+the license is, in fact, cloud as well as on-premise.
+
+Safra Ada Catz
+CEO & Director
+
+It's driven -- in fact, it's driven by their plan to move to the cloud. And that is very, very clear because
+they're buying the specific options which, as I said, the options number, a very high percentage growth
+this quarter, because it's really in preparation for their move to the cloud. But I will also tell you then, that
+is available also in analytics and in some of the other technology licenses. So analytics is very strong, the
+database option is extremely strong, very much pointing in the direction of moving to the cloud. So that's
+really what is driving it. It's not -- it's generally not going to be staying on-premise. Some, of course,
+stays on-premise and some will stay on-premise indefinitely, but many companies will be either hybrid or
+will be Cloud at Customer or, of course, in the public cloud. And that's really what's going on here, and it's
+really quite clear.
+
+Operator
+
+Our next question comes from Derrick Wood with Cowen and Company.
+
+James Derrick Wood
+Cowen and Company, LLC, Research Division
+
+Congrats on a strong quarter. I wanted to ask about the hardware side of the business. This is the first
+quarter we've seen without negative growth in a long time. And to see you hitting 70% gross margin,
+pretty impressive and far sooner than what we would have thought. So does this tell us that you're mostly
+through bleeding off the commodity pieces and that the majority of growth is driven by Exadata and Cloud
+at Customer? And how should we generally think about the directional trends from here in both -- in terms
+of growth and margins?
+
+Safra Ada Catz
+CEO & Director
+
+Yes. So the hardware growth is entirely dominated by our strategic hardware products, which is really
+most focused around Exadata. Revenue in Exadata was up 15%; bookings in our strategic hardware,
+also up very, very high double digits. And we have actually an enormous Exadata backlog, really the
+largest -- it's actually double what it was -- more than double what it was last year. And the reality is that
+this segment is very, very strong. We -- it has now gotten large enough. And the issue for us in Q4, as I
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ORACLE CORPORATION FQ1 2021 EARNINGS CALL |  SEP 10, 2020
+
+mentioned, was really around supply chain. And that's taking a while to resolve itself, but we were able to
+make and ship a lot of Exadatas but we have an enormous backlog still behind that. And so that's really
+what's dominating.
+
+And of course, what that points to is a commitment by our customers to Oracle. You don't buy an Exadata
+to run anything but Oracle database application -- database systems. And that commitment to the Oracle
+platform has really shown up in this area. Cloud at Customer is not recognized upfront. Cloud at Customer
+is not recognized in the hardware line at all. In fact, it is recognized in the cloud line when they go online
+and they consume credit, so -- cloud credit. So it doesn't show up in that on-premise hardware line at all.
+
+Operator
+
+Our final question comes from Phil Winslow with Wells Fargo.
+
+Philip Alan Winslow
+Wells Fargo Securities, LLC, Research Division
+
+Congrats on a great start to the fiscal year. Just wanted to focus on applications, we haven't really talked
+about that a lot on this call. Obviously, you gave out some really strong numbers with Fusion Cloud. Safra,
+you talked about some of the puts and takes in the overall business. And I wonder if you could talk about
+those sort of applications specifically.
+
+Safra Ada Catz
+CEO & Director
+
+Sure. I mean really, when you think of our application business, you really have to think about Fusion,
+and especially Fusion ERP, HCM, our back office; you have to think about NetSuite. Those are the fastest-
+growing segments. And you have to take into account that we have some other things in that business
+that are smaller, and some of them are from acquisitions. And that is the less strategic part of our
+business. And as that gets smaller, it's sometimes replaced by Fusion. That's why that business is really
+doing very, very well because the ERP -- everything Fusion, Fusion ERP, HCM, this whole area really
+growing quickly.
+
+I mean what you see is many of our customers, both E-Business Suite, SQL stuff, JD Edwards customers.
+But we also see a new phenomena, which is, historically, it would be hard to push a door of an SAP
+customer, an SAP on-premise customer, too. But now we find that many of those doors are not only can
+be -- basically are already open for us. So as the only provider of ERP in the cloud for large -- medium,
+large companies, the Fusion products are really taking off. And so we've been replacing not only our own
+products and other companies, but we've made a significant foothold in SAP customers simply because
+they're really very frustrated with their -- with the vendors that they have installed on-premise. So this
+business for us is an enormous opportunity, and it's really just chugging on all cylinders worldwide, in fact.
+
+Ken Bond
+Senior Vice President of Investor Relations
+
+Thank you, Safra, and thank you, Phil. A telephonic replay of this conference call will be available for 24
+hours. Dial-in information can be found in the press release issued earlier today. Please call the Investor
+Relations department with any follow-up questions from this call, and we look forward to speaking with
+you.
+
+Thank you for joining us today. And with that, I'll turn the call back to Erica for closing.
+
+Operator
+Thank you for joining today's Oracle's First Quarter 2021 Earnings Conference Call. We appreciate your
+participation. You may now disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ORACLE CORPORATION FQ1 2021 EARNINGS CALL |  SEP 10, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+

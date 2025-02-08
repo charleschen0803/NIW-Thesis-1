@@ -1,0 +1,1283 @@
+CDW Corporation NasdaqGS:CDW
+FQ3 2021 Earnings Call Transcripts
+Wednesday, November 03, 2021 12:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2021-
+
+-FQ4 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+2.05
+
+2.13
+
+3.90
+
+1.85
+
+7.70
+
+8.36
+
+Revenue  (mm)
+
+5323.49
+
+5300.00
+
+(0.44 %)
+
+5079.72
+
+20387.39
+
+21525.66
+
+Currency: USD
+Consensus as of  Nov-03-2021 3:58 AM GMT
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+FQ3 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.51
+
+1.53
+
+1.80
+
+2.05
+
+1.82
+
+1.74
+
+2.02
+
+2.13
+
+20.53 %
+
+13.73 %
+
+12.22 %
+
+3.90 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+12
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Albert Joseph Miralles
+Senior VP & CFO
+
+Christine A. Leahy
+President, CEO & Director
+
+Kevin White
+
+ANALYSTS
+
+Adam Tyler Tindle
+Raymond James & Associates,
+Inc., Research Division
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+Kathryn Lynn Huberty
+Morgan Stanley, Research Division
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+Matthew John Sheerin
+Stifel, Nicolaus & Company,
+Incorporated, Research Division
+
+Ruplu Bhattacharya
+BofA Securities, Research Division
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research
+Division
+
+Shannon Siemsen Cross
+Cross Research LLC
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+Presentation
+
+Operator
+
+Hello, everyone, and welcome to the CDW Third Quarter 2021 Earnings Call. My name is Bethany, and I'll
+be coordinating this call for you today. [Operator Instructions] I will now hand the call over to your host
+Kevin White, Director of Investor Relations. Kevin, over to you.
+
+Kevin White
+
+Thank you, Bethany. Good morning, everyone. Joining me today to review our third quarter results are
+Chris Leahy, President and Chief Executive Officer; and Al Miralles, Chief Financial Officer. Our third quarter
+earnings release was distributed this morning and is available on our website, investor.cdw.com, along
+with supplemental slides that you can use to follow along during the call.
+
+I'd like to remind you that certain comments made in this presentation are considered forward-looking
+statements under the Private Securities Litigation Reform Act of 1995. Those statements are subject
+to risks and uncertainties that could cause actual results to differ materially. Additional information
+concerning these risks and uncertainties is contained in the earnings release and the Form 8-K we
+furnished to the SEC today and in the company's other filings with the SEC.
+
+CDW assumes no obligation to update the information presented during the webcast. Our presentation
+also includes certain non-GAAP financial measures, including non-GAAP operating income, non-GAAP
+operating income margin, non-GAAP net income and non-GAAP earnings per share. All non-GAAP
+measures have been reconciled to the most directly comparable GAAP measures in accordance with SEC
+rules.
+
+You'll find reconciliation charts in the slides for today's webcast and in our earnings release and Form 8-K
+we furnished to the SEC today. Please note that all references to growth rates or dollar amount increases
+in our remarks today are versus comparable period in 2020, unless otherwise indicated.
+
+In addition, all references to growth rates for hardware, software and services today represent U.S. net
+sales only and do not include the results from CDW U.K. or Canada. Replay of this webcast will be posted
+to our website later today.
+
+I also want to remind you that the conference call is property of CDW and may not be recorded or
+rebroadcast without specific written permission from the company. With that, let me turn the call over to
+Chris.
+
+Christine A. Leahy
+President, CEO & Director
+
+Thank you, Kevin. Good morning, everyone. I'll begin today with an overview of third quarter results and
+drivers of performance. Al will take you then through a more detailed look at our financials as well as our
+capital allocation strategy and outlook. We'll move quickly through our prepared remarks as we always try
+to do to ensure we have plenty of time for questions.
+
+But before I get started, I do want to pause for a moment to honor the life and legacy of our former CEO,
+Tom Richards, who passed away last week after a valiant fight with cancer. I suspect most of you on this
+call have likely met Tom in person. I'm certain that everyone on this call has been impacted by Tom. He
+was a fierce competitor and equally a kind human being.
+
+Tom had a lot of what we like to call it CDW Tomism, simple ways of getting to the essence of something
+in a way that's stuck. One of my personal favorites is when Tom used to say at CDW, we take what we do
+seriously, but we don't take ourselves too seriously. That's the essence of who we are. That is our CDW
+culture, captured so simply and amplified so strongly by Tom Richards.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+Tom also had an unexpected way of signing off on our earnings call, usually with a right comment about
+an upcoming holiday like Halloween or Mother's Day or even Valentine's Day. As a result, we always ended
+these calls on a high note and with a chuckle.
+
+Tom knew his audience well. In honor of Tom, I'd like to kick off this earnings call with the tagline he
+penned on every communication to a coworker. Tom always signed off with "You make a difference,"
+literally injecting into each coworker, Tom's personal belief in them and their important impact. On behalf
+of all of our coworkers around the globe, our customers and our partners, our communities and our
+investors, I would like to say thank you to Tom, you made a difference.
+
+Let me turn now to Q3 performance. Once again, CDW posted strong top line growth and profitability.
+Overall demand was strong and the teams did a great job addressing customer needs. For the quarter, we
+delivered record net sales of $5.3 billion, 11.4% higher than last year and up 10.7% in constant currency.
+
+Non-GAAP operating income of $435 million, up 12.6% and non-GAAP net income per share of $2.13,
+15.4% higher than last year on a reported basis and up 15.8% in constant currency.
+
+Our ability to deliver this strong top line and profitability was the result of 3 key drivers: our balanced
+portfolio of customer end markets, the breadth of our product and solutions portfolio and our ongoing
+execution against our 3-part strategy, which is focused on taking share and investing in the solutions and
+capabilities our customers need and want.
+
+Let me walk through each one of these and share some detail about how they contributed to our
+performance. First, our balanced portfolio of customer end markets. As you know, we have 5 U.S. sales
+channels: corporate; small business; health care; government, which includes federal and state and local
+customers; and education with K-12 and higher ed.
+
+We also have our U.K. and Canadian operations, each serving public and commercial customers. All of
+these operations represent meaningful businesses in their own right. Often different factors impact these
+diverse customer end markets. And this quarter, we saw that play out as our commercial business in the
+U.S., our small and corporate channels and our international operations posted significant double-digit
+increases, while our U.S. public's business posted a mid-single-digit decline.
+
+From a macro perspective, supply remains under pressure this quarter. Demand outpaced supply and lead
+times extended, particularly in several solutions areas. The team continued to leverage our distribution
+centers, extensive logistics capabilities, deep vendor partner relationships and strong balance sheet
+and liquidity position to navigate the supply environment. They did an exceptional job working with our
+partners to stay on top of availability status.
+
+Our sellers and technical specialists also worked with customers and whenever possible, found alternative
+available product and built alternative solutions. These efforts helped mitigate some of the pressure and
+our backlog increase was consistent with last quarter. The tight supply environment continued to impact
+prices, which our teams were generally able to pass along.
+
+Let's take a deeper look at third quarter customer end market performance. Commercial customer
+priorities remain the same as in the second quarter, digital transformation, security and hybrid and cloud
+solutions. Customers continue to prioritize investments to enable the future and add resiliency to their
+operations to strengthen and secure infrastructure platform and end points.
+
+Within this backdrop, Corporate increased 25% and customer demand remains strong. While many
+customers delayed return to office, they continued to prepare as well as invest to facilitate hybrid work.
+This drove ongoing strong double-digit increases in transactions, propelled by notebook, audiovisual and
+desktop. At the same time, digital transformation remained a top priority. While buying sentiment was
+clearly there, in many cases, the product was not.
+
+Writings were strong, but with extended lead time backlog built during the quarter. Lack of product
+availability, particularly in NetComm and storage muted corporate solutions growth.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+Small business also delivered another exceptional quarter of growth, increasing almost 40%. The team
+continued to help customers with remote enablement, security and video, driving strong growth across
+both transactional and solutions categories.
+
+As we have shared previously, small business customers tend to be more flexible in their technology
+requirements. So while they did see some impact from supply constraints, small business did not
+experience as much as Corporate, a great example of the power of diverse end markets.
+
+You also see the power of our diverse end markets and our public performance. Net sales for our
+government channel decreased 33%. Federal declined double digits, in large part due to the overlapping
+of our Device-as-a-Service solution for the U.S. Census Bureau and other client device programs that were
+particularly strong last year.
+
+Security remains robust, with net sales up more than 30%. The gears of Washington were slower than
+typical at federal year-end, and we had contracting delays in several large contracts. This is not unusual.
+Given the magnitude of federal contracts, timing can influence performance. You've heard us talk about
+Federal's lumpy nature in the past. This will unwind, and we expect to see a reversal back to growth in the
+first half of 2022.
+
+State and local posted a mid-single-digit decline. Stimulus funding remained largely unallocated to the
+local level. This is because access to the multiyear American Rescue Plan Act funding with deadlines in
+2024 led to greater focus on multiyear budget planning.
+
+At the same time, state and local customers were focused on digesting last year's meaningful stimulus-
+funded IT investments. We continue to work with our customers, but given the complexity of the various
+funding opportunities and multiyear phasing, we do not expect to see projects moving ahead meaningfully
+until early 2022.
+
+Education increased by 2%. Higher Ed delivered high single-digit growth, driven by ongoing focus on
+campus connectivity and enhancing the dorm room experience with double-digit growth in both security
+software and servers.
+
+The K-12 team did an excellent job and matched last year's record net sales coming in flat on top of last
+year's 30%-plus growth. This was consistent with the expectations we shared on our year-end 2020 call,
+where we looked for strong nonseasonal first half performance to be followed by a deceleration in the
+second half.
+
+Chromebook availability continued to improve during the quarter and client devices increased low single
+digits on top of last year's stimulus equity and access-driven growth. Overall, transactions increased low
+single digits on top of last year's strong double-digit growth. Solutions declined driven by a double-digit
+decline in net comp, largely reflecting supply challenges.
+
+We continue to expect above historical net sales against some very tough unseasonal fourth quarter
+compares. Healthcare posted a 31% increase despite the second wave of COVID, staff shortages and
+limited ICU bed availability during the quarter. Some projects that have been sidelined did resume. This
+was particularly the case in security and health care remains a target for cybercrime.
+
+Our security experts continue to guide hospital systems to find the best solutions that protect their
+sensitive data and security sales increased strong double digits.
+
+Other, which represents our U.K. and Canadian operations, increased over 30% on a reported basis. Both
+the U.K. and Canada delivered mid-20% growth in local currency. Customer priorities in both markets
+remain the same as the U.S. digital transformation, security and hybrid and cloud solutions, as do their
+investments to enable the future and add resiliency to their operations.
+
+Both operations experienced increased back orders. Clearly, the 11%-plus sales growth we delivered
+demonstrates the power of the first driver of our performance, our balanced portfolio of customer end
+markets. It also demonstrates the power of the second driver of our performance this quarter, the breadth
+of our product and solutions portfolio, which you can see in our major category performance.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+Transactions increased low double digits, driven by client device growth in video. Solutions were flat with
+double-digit increases in servers and collaboration tools, offset by declines in NetComm and Enterprise
+Storage.
+
+Drilling further down into key solutions categories, cloud customer spend once again increased strong
+double digits. We saw robust growth across all 3 top cloud workloads: security, Infrastructure-as-a-Service
+and Productivity. We expect strong customer demand for cloud solutions to continue, and we are well
+positioned to deliver.
+
+And once again, given its ongoing importance to our customers, our security practice delivered excellent
+results. Customer spend was up strong double digits. Our teams continue to guide customers on their
+security posture, assess their environment, design the best approach and deploy and manage the
+solutions throughout its life cycle.
+
+Overall, for the quarter, we delivered double-digit growth in hardware, low single-digit growth in software
+and strong double-digit growth in services. Software net sales increased low single digits. Strong double-
+digit increase in security software, database software and backup and recovery were partially offset by
+declines in network management software, storage and telephony-related software.
+
+As I have shared before, services are fundamental to our go-to-market approach and a key enabler of
+our value proposition. This quarter's nearly 30% growth was a product of both organic performance and
+inorganic contribution and was driven by both professional and managed services.
+
+And this leads to the final driver of our performance in the quarter, the impact of investments we are
+making in our 3-part strategy for growth. As you know, in October, we announced our planned acquisition
+of Sirius Computer Solutions.
+
+When we announced the acquisition, I shared how it deepens and adds scale to our services capabilities,
+capabilities that will ensure we remain the trusted technology adviser to our customers as they accelerate
+their digital transformation.
+
+Notice I said deepens Sirius' additive to our existing capabilities, capabilities we have built through both
+organic and inorganic investments, capabilities that enable us to serve customers as their trusted adviser,
+whether in a physical, digital or cloud-based environment in the U.S. and internationally.
+
+Why so many investments in services capabilities? Simply put, services are becoming an increasingly
+larger component of total e-customer IT spend. For CDW, services position us to enable the whole
+solution, increase our engagement with customers and stickiness, and provide insights into opportunities
+to further help our customers across the full IT life cycle.
+
+Today, IT leaders are accountable for both running the business and using technology to transform the
+business and deliver strategic outcomes to both run the business and transform it, leaders need to invest
+resources where they can have the greatest impact and do so with the greatest speed.
+
+Services are critical to making this happen. To address this need, we have built engineering services
+capability that span the full stack and full life cycle. Our technical organization has grown to more than
+3,700 presales specialists and engineers.
+
+Today, we can deliver complex digital transformation solutions from code to cloud and data center to
+database and deliver them quickly. Let me share an example of how our services team is helping a global
+online home retailer to transform their business for their next wave of growth, a transformation that was
+hindered by legacy technology.
+
+To accelerate their transformation, our customer opted for a combination of public cloud technologies
+and new cloud native pattern. This would create the agility they needed essentially an on-demand
+environment. A great idea about accelerating cloud technology requires specialized expertise that is
+inefficient to keep on staff, and that is where CDW came in.
+
+First, we leveraged our cloud managed services and offloaded some of the cloud projects from the
+customer to CDW. Then we pulled in our Digital Velocity Talent orchestration services or DVT. DVT
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+orchestration supplies customers with talent to work inside the customer's existing teams, talent that is
+becoming more and more vital in today's environment.
+
+Digital Velocity Talent orchestration delivers highly vetted resources, whether already employed by CDW or
+sourced by us. CDW Services enabled the solution, but it did so much more. As you can imagine, this level
+of high-touch integration creates customer loyalty with ongoing relationships on the ground and continued
+exchange between CDW and the customer, ultimately leading to more business, great for the customer
+and great for CDW.
+
+This is an excellent example of our 3-part strategy in action and how M&A enhances our organic
+investments to ensure we remain our customers' #1 choice as a trusted adviser. Solving key business
+problems for our customers in today's environment requires strong service and solutions capabilities,
+capabilities that when combined with our great relationships and competitive advantages of scale, scope
+and disciplined execution, enable us to win in the marketplace and deliver sustainable, profitable growth
+today and in the future.
+
+And that leads me to our expectations for the balance of the year. We continue to look for growth in 2021
+to come in between 9.25% and 10% in constant currency, split roughly between 5% IT market growth and
+425 to 500 basis points of CDW market outperformance.
+
+This reflects our expectation that supply constraints do not mitigate any time in the near future. but do
+not get materially worse. Remember, these constraints don't just reflect component shortages, but also
+labor and logistics challenges. Challenges we do not expect to reverse in the near term, and challenges
+that we do not expect to resolve as a flush rather gradually.
+
+As far as wildcards, in addition to the fluid supply situation and the potential for another wave of COVID,
+given the slowdown in third quarter GDP growth, we will keep a watchful eye out for any slowdown in the
+economy.
+
+As we do, we will continue to do what we do best, leverage our competitive advantages to help
+our customers address their IT priorities and achieve their strategic objectives and out-execute our
+competition.
+
+I hope you can tell from my comments that this quarter's performance reinforced our confidence that we
+have the right strategy in place, a strategy that serves us well when contrasted with macro or customer-
+specific challenges and positions us for sustainable growth, a strategy designed to continue our evolution
+as the leading IT solutions provider, and most importantly, a strategy that delivers profitable growth and
+returns to shareholders.
+
+This confidence underpins today's action by our Board to increase our quarterly cash dividend by 25%. I
+know many of you may be wondering what we expect for next year. We are in the middle of our planning
+process. And as we always do, we'll provide our outlook for 2022 on our year-end conference call.
+
+And with that, let me turn it over to Al, who will share more detail on our financial performance. Al?
+
+Albert Joseph Miralles
+Senior VP & CFO
+
+Thanks, Chris, and good morning, everyone. I'll start my prepared remarks with more detail on the third
+quarter, move to capital allocation priorities and then finish up with the 2021 outlook.
+
+Turning to our third quarter P&L on Slide 8. Consolidated net sales were $5.3 billion, up 11.4% on a
+reported and an average daily sales basis. On a constant currency average daily sales basis, consolidated
+net sales grew 10.7%. Net sales and channels most impacted by COVID-19 last year, Corporate, Small
+Business and International continue to rebound, posting strong double-digit growth in the quarter and
+delivering sales above 2019 levels.
+
+This quarter's growth also benefited from strong double-digit performance in health care, but was
+tempered by a slowdown in education and decline in government. On the supply side, overall backlog
+increased several hundred million dollars in the quarter and continues to be elevated year-over-year.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+The team did a great job leveraging CDW's competitive advantages so the backlog did not increase even
+more. Gross profit for the quarter was $915 million, an increase of 10.8% on a reported basis. Gross
+margin was 17.3%, down approximately 10 basis points versus last year. This is primarily driven by lower
+product margin, partially offset by an increase in the mix of net service contract revenue, primarily in
+Software-as-a-Service in addition to strong Professional and Managed Services performance.
+
+Turning to SG&A on Slide 9. Non-GAAP SG&A increased 9.2%. Increase is primarily driven by payroll costs
+including sales compensation, which moves gross profit growth, and performance-based compensation
+consistent with higher attainment against financial goals.
+
+Finally, it reflects investments in the business, including increased coworker counts focused on execution
+of our strategy. Coworker count at the end of the third quarter was 11,098, up 432 from the second
+quarter and 1,118 over prior year. The increase in coworker count reflects organic and inorganic
+investments to support high-growth solution areas and our own digital transformation.
+
+GAAP operating income was $386 million, up 21.6%. Non-GAAP operating income, which better reflects
+operating performance, was $435 million, up 12.6%. And non-GAAP operating income margin was 8.2%.
+
+Moving to Slide 10. Interest expense was $36 million, down 9.4%. The decrease was primarily due to
+savings from last year's refinancing. Our GAAP effective tax rate, shown on Slide 11, was 23.9%. To get
+to our non-GAAP effective tax rate, we adjust taxes consistent with non-GAAP net income add-backs, as
+shown on Slide 12.
+
+For the quarter, our non-GAAP effective tax rate was 25.3%, up 200 basis points versus last year's rate,
+primarily due to a onetime impact of state and foreign tax benefits recognized in the prior year.
+
+As you can see on Slide 13, with second quarter weighted average diluted shares outstanding of $139
+million, GAAP net income per share was $1.91, up 43.2%. Our non-GAAP net income was $298 million in
+the quarter, up 12.3%. And non-GAAP net income per share was $2.13, up 16.4% from last year.
+
+Turning to year-to-date results on Slides 14 through 19. Net sales were $15 billion, an increase of 13.1%
+on a reported basis and 13.7% on an average daily sales basis. We had 1 fewer selling day year-to-date in
+2021, which will be made up in Q4, and we have 1 extra selling day compared to the prior year.
+
+On a constant currency average daily sales basis, year-to-date consolidated net sales were 12.6% higher
+than the prior year. Gross profit was $2.6 billion, up 11.3% and gross profit margin was 17%, down
+approximately 20 basis points year-over-year.
+
+Operating income was roughly $1.1 billion and non-GAAP operating income was $1.2 billion, up 18.7%.
+Net income was $773 million and non-GAAP net income was $834 million, up 20.7%. Non-GAAP net
+income per share was $5.89, up 23.5%.
+
+Turning to the balance sheet on Slide 20. At September 30, cash and cash equivalents were $245 million
+and net debt was $3.8 billion. Liquidity remains strong with cash plus revolver availability of approximately
+$1.4 billion.
+
+Year-to-date free cash flow was $341 million, as shown on Slide 21. This is lighter than last year's record
+$1.2 billion of free cash flow, which benefited from timing and onetime items.
+
+Year-to-date, we saw some of the timing reverse as we mixed out of vendors with extended payment
+terms. Additionally, working capital increased to support our strong year-to-date growth, and we
+continue to make strategic investments in inventory to support our customers through this choppy supply
+environment.
+
+Moving to Slide 22. The 3-month average cash conversion cycle was 25 days, up 9 days from last year's
+third quarter. Increase was primarily driven by mixing out of vendors with longer payment cycles, in
+addition, to holding customer-driven stocking positions and the timing of receipts and shipments.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+Turning to capital allocation on Slide 23. Our 2021 priorities remain the same. First, increase the dividend
+in line with non-GAAP net income, including today's 25% increase to the dividend. The increased annual
+dividend of $2 is approximately 25% of trailing 12-month non-GAAP net income through September.
+
+The Q4 2021 dividend demonstrates our confidence in the earnings power and cash flow generation of the
+business and marks the eighth consecutive year of increases since our initial public offering in 2013.
+
+Our dividend has grown at a compound annual growth rate of 36% from its initial level. We will continue to
+target a 25% payout ratio going forward, growing the dividend in line with earnings.
+
+Second, we ensure we have the right capital structure in place with a targeted net leverage ratio of 2.5x to
+3x. We ended the third quarter at 2.3x.
+
+Third, supplement organic growth for strategic acquisitions, Sirius, which we announced on October 18
+and our recent Focal Point and Amplified IT acquisitions are great examples.
+
+And fourth, we return excess cash after dividends and M&A to shareholders through share repurchases.
+During the quarter, we continued to deploy cash consistent with our capital allocation priorities, returning
+$505 million to shareholders, including $55 million of dividends and $450 million of share repurchases at
+an average price of approximately $188 per share.
+
+We continue to expect to return approximately $1.7 billion to shareholders for the full year 2021, including
+$1.5 billion in share repurchases with the balance from dividends.
+
+Going forward, we continue to execute against our capital allocation priorities as we have done since
+2014. In 2022, post closing of the Sirius acquisition, we expect to have an initial net leverage ratio of
+approximately 3.3x. While our capital allocation priorities will remain the same, we will shift our objectives
+to focus on paying the dividend and reducing debt.
+
+As a result of this focus, we'll put a lower priority on M&A and share repurchases until our net leverage is
+in our target range of 2.5x to 3x, which we expect to achieve by the end of 2022. We continue to expect
+to close the Sirius acquisition in December, and we intend to share additional thoughts on the financial
+impacts of consolidating Sirius into CDW on our fourth quarter call.
+
+Moving to the outlook for 2021 on Slide 24. Supply and product lead times remain fluid, making it
+challenging to comprehensively forecast with a high degree of confidence. On the demand side, we
+continue to see strong activity and momentum, particularly with both U.S. and international commercial
+customers.
+
+On the supply side, visibility remains a challenge. Constraints continue to notebooks, desktops, video,
+NetComm and data center categories, resulting in longer lead times and a higher backlog. With the
+exception of Chromebooks, the supply environment has not improved since our last earnings call; we do
+not expect it to improve in the near future.
+
+With that context for full year 2021, we continue to expect the U.S. IT market to grow approximately 5%
+and our net sales to grow 425 to 500 basis points faster than the U.S. IT market in constant currency. This
+assumes a consistent supply chain environment and impact to our backlog.
+
+We feel good about the health of the business, and we continue to navigate the fluid supply environment.
+We continue to expect currency to contribute an approximately 80 basis points of the full year net sales
+growth, assuming exchange rates of $1.38 to the British pound and $0.80 to the Canadian dollar.
+
+Moving down the P&L. We now expect non-GAAP operating income margin to be in the high 7% range for
+full year 2021. As you've heard us say, we believe now is the time to invest in the business and expect
+investments made in the fourth quarter to drive an operating margin, which will deliver our full year
+outlook.
+
+Putting it all together, we now expect non-GAAP constant currency earnings per share growth in the
+high teens. call it, 18% plus or minus 25 basis points. Currency is expected to contribute an additional
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+70 basis points to earnings per share growth. Additional modeling thoughts for annual depreciation and
+amortization, interest expense and the non-GAAP effective tax rate can be found on Slide 25.
+
+For free cash flow, our long-term rule of thumb remains unchanged at 3.75% to 4.25% of net sales,
+assuming current tax rates. However, given the timing impacts that contributed 2020's significant over
+delivery and ongoing customer-driven stocking positions as well as the time of receipts and shipments,
+we expect 2021 free cash flow to come in slightly below the low end of the range. Additional modeling
+thoughts on the components of free cash flow including capital expenditures and the cash conversion cycle
+can also be found on Slide 25.
+That concludes the financial summary. As we always do, we will provide updated views on the macro
+environment and our business on our future earnings calls. And with that, I'll ask the operator to open up
+for questions. [Operator Instructions] Thank you.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] First question comes from Adam Tindle at Raymond James.
+
+Adam Tyler Tindle
+Raymond James & Associates, Inc., Research Division
+
+Chris, I wanted to start on Sirius to see if you had some early feedback from customers now that the
+announcement has been out? And specifically wondering if those Sirius enterprise customers are perhaps
+willing to breach the conversation on utilizing CDW's transactional portfolio that Sirius didn't have?
+
+And conversely, the CDW mid-market customers more interested in Sirius's services portfolio. So kind of a
+qualitative view from the customer perspective on potential revenue synergies in this deal.
+
+Christine A. Leahy
+President, CEO & Director
+
+Thanks for the question. And you know, we're in a little bit of a quiet period here as we go through the
+various regulatory approvals. That said, one of the areas that we focus very quickly was feedback. And I
+would just tell you, it's been really, really positive on both fronts.
+
+So our customers at CDW are delighted about the acquisition and really looking forward to the combined
+entity and the capabilities that they help bolster CDW given their reputation in the market and the quality
+of their services.
+
+And the reciprocal is true as well. I talked to Joe Mertens late in the day of the announcement, and he
+made his way through a lot of customers as had their frontline sellers. And it was, for the most part, all
+positive. So again, we think that as I said the word before a home run deal, and we're going to make it
+work really well, and our customers seem to be excited. Our partners equally are thrilled. It's exactly what
+they were looking for us to do and they're thrilled.
+
+Adam Tyler Tindle
+Raymond James & Associates, Inc., Research Division
+
+Right. And I think that aspect of home run deal has some investors wondering a little bit more on Sirius
+recent performance. The purchase price was very attractive, all-cash-in nature, and there was some
+skepticism on what's been going on with the business in 2021.
+
+I know you gave us color based on 2020, but maybe you could help dispel any of that concern by talking
+about what you've seen out of Sirius performance in 2021?
+
+Christine A. Leahy
+President, CEO & Director
+
+Well, look, they're doing just fine and their customers like us in areas like federal, which we talked about
+today, are enterprise customers. And as you know, that can be a lumpy business. So when we did our
+diligence and looked at the pipeline and the types of programs they're running with customers, they were
+having a similar impact that we were having with regard to our larger customers.
+
+Some things being delayed, some things being planned, not yet rolled out necessarily, particularly in terms
+of delays going back to the office, et cetera. But I would tell you that we feel very confident, Adam, in
+the health of their business and the prospects of the business, in the pipeline for the business and in the
+opportunities for Sirius and CDW as a combined entity.
+
+Operator
+
+The next question comes from Shannon Cross at Cross Research.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+Shannon Siemsen Cross
+Cross Research LLC
+
+I wanted to dig a bit more into backlog composition. If you're seeing any order cancellations? Or how it
+developed over the quarter, maybe linearity just to get an idea of how sustainable and sticky do you think
+the backlog will be?
+
+Albert Joseph Miralles
+Senior VP & CFO
+
+Shannon, this is Al. So a couple of things that I would note. So going into the quarter, we maybe would
+have expected that there'd be a bit of a kind of a modest view of backlog. I'd say overall for the quarter, it
+was a bit more than modest. And let's call it, in terms of just all characteristics similar to Q2, and a couple
+of variants or components that maybe looked a little different.
+
+And I think Chris touched on this in the prepared remarks is that we saw a bit more of an effect from a
+solutions perspective and that would included notably net common storage. Notwithstanding that similar
+to Q2, and look, I would just note the all things considered, the team did an exceptional job navigating
+through that and delivering on the results.
+
+Shannon Siemsen Cross
+Cross Research LLC
+
+And okay. So -- but you don't -- you're not seeing double orders, you're not worried about any kind of loss
+of backlog?
+
+Albert Joseph Miralles
+Senior VP & CFO
+
+We are not. I would just note that -- look, I think there's a component in the backlog that there's likely
+some pull forward, right? It's been a tenuous environment. And so there are customers that I think
+probably have a perspective that knowing that this doesn't have a clear end date maybe get in front of
+some of their projects, and so there's probably a component that's pulled forward.
+
+We're not feeling the effects or seeing the effects of either double bookings or order cancellations.
+
+Shannon Siemsen Cross
+Cross Research LLC
+
+Okay. And then just a quick question on Chris, maybe how are you thinking about inflation? And clearly,
+you can pass through higher product cost. But I just sort of, in general, as you go through your budgeting
+and planning for 2022, are you thinking more transitory? Or are you sort of planning for some of these
+cost increases to be here for the long term?
+
+Christine A. Leahy
+President, CEO & Director
+
+Yes, Shannon, you'll hear more about our planning next year. As we think about it, look, it feels like the
+perspective out there is maybe a little worse than transitory. And so we will just keep our eye on the
+economy and how this could impact in particular different segments of our business. For example, I think
+about Small Business, they are really doing a terrific job right now, but we're keeping a very close eye
+on that segment of the market to understand how the economy might be impacting them, where their
+optimism is, their ability to hire, et cetera.
+
+So as we always do, we'll keep an eye on it. It feels a little worse than transitory. But again, we think that
+technology is an A1 priority, and our customers will continue to invest in technology. if, in fact, it becomes
+a little more expensive, we think they'll keep the priority there.
+
+And look, if we can keep the economy coming out of the pandemic with the momentum we seem to be
+building and positive nature in the economy, we're feeling pretty good.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+Operator
+
+The next question comes from Ruplu Bhattacharya of Bank of America.
+
+Ruplu Bhattacharya
+BofA Securities, Research Division
+
+Chris, I wanted to ask about the education market. In 3Q '20, 4Q '20, you had $2 billion quarters. And
+again, this year in June and September, you've again had $2 billion quarters. So there's a year-on-year
+headwind from the Mississippi Department of Education project that you had in December.
+
+So how should we think about -- can you give us your thoughts on this end market going into 4Q? I mean
+how do you balance -- I mean, what are your thoughts on the stimulus package and the benefit you can
+get there versus the year-on-year headwinds you've had from a stronger year ago quarter?
+
+Christine A. Leahy
+President, CEO & Director
+
+Thanks for reminding the team of the great performance. They will appreciate that. Look, we called this
+out earlier in the year, and I mentioned it again in our prepared -- my prepared remarks, but it's really
+been unseasonal, and we expected to see the first half of this year be quite strong as it has been, but we
+have -- we are lapping a big back half of the year. So we would expect to still continue to see, I'll call it,
+solid performance and it's a bit unseasonal because at the end of the year.
+
+But it's going to decelerate in our view, and it will be difficult to overcome the level of growth that we
+saw last year. That said Ruplu, it's the stimulus funding, for example, the Emergency Connectivity Act is
+yet another source of funds for education institutions to be able to fortify their classrooms in the hybrid
+environment.
+
+The one thing with that funding is schools are able to use it for orders that are placed. So we're working
+our way through what if that money relates to orders that have been placed, but we're confident that
+there's a large portion that are additive to the base.
+
+And again, the team, as they always do, has done a phenomenal job helping our K-12 customers work
+through that funding. So as you've heard me say before, I feel very confident in education over the long
+term. It is a growth area. The education market has inflection points, and we have always been ahead
+of those inflection points, whether it's how the classroom itself changes, whether it's going to hybrid,
+whatever those are, we are usually there.
+
+And I'll tell you, Amplified IT, which we just added, is taking us to yet another leg of growth for K-12 with
+their cloud-enabled capabilities and their IP developed technology that they offer for classrooms. So tough
+half year, but the team is doing very well in long-term growth area.
+
+Ruplu Bhattacharya
+BofA Securities, Research Division
+
+Okay. Maybe for my follow-up, if I can ask Al about operating margins. So you had another good quarter,
+another quarter of above 8% operating margin, and you're guiding an increase for the full year to high 7s.
+If we just look at core CDW and not consider Sirius right now, which is accretive to the company.
+
+But if we just look at core CDW, do you think that having a high 7s operating margin is a sustainable level
+going forward? What are the puts and takes that we need to keep in mind?
+
+Albert Joseph Miralles
+Senior VP & CFO
+
+Yes, sure. Thanks for the question, Ruplu. So I think you just hit it at the end there. Look, there are lots of
+puts and takes in any given quarter. And I'll just start, if you just put aside the supply chain environment,
+right? Mix does really matter.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+So if we think about components what's transactional, what's solutional from a mix perspective, that
+matters. Channel mix matters. All those things have an impact, I'll say, to start on your gross margin. And
+obviously, then the kind of the drop down from an operating margin perspective.
+
+So let's just keep that in minds. And again, kind of supply chain will matter as well. In the case of this
+particular quarter and maybe as an example, so on a sequential basis, our gross profit margin increased
+from the prior quarter, right?
+
+And some moving parts there in terms of mix there, that is a little bit less public mix from a channel
+perspective, and then you've got transactional solution. And then very notably, Ruplu, I would just note
+the fact that your 100% gross margin items will have an impact. In this quarter, our 100% gross margin
+items grew faster than our net sales. So that's going to have an impact as well.
+
+And so again, all of that steeped in focus on gross margin. Then finally, if we walk that down to operating
+margin, it's been just a matter of the -- at what pace is our non-GAAP SG&A spend happening? In the
+case of this quarter, I would say our non-GAAP SG&A spend lags some of that growth in gross profit. And
+so we dropped more to the operating margin for the quarter.
+
+And when you look to our outlook, relative to what that operating margin was for this quarter, we're giving
+an outlook of high 7s. And that reflects that we would expect in the fourth quarter that spend is going to
+pick back up and it's going to balance us back out to a high 7s on the operating margin.
+
+As you look forward, look, I think you get a good sense for the strategy and the movement in where we're
+going longer term in terms of mixing into services and mixing into 100% gross margin, all those mix
+components will matter as we go forward.
+
+Operator
+
+The next question on the line comes from Jim Suva at Citigroup.
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+Probably a question for Chris. But when we think about stimulus, the timing of it, the political nature of it
+is a little bit hard to pinpoint. But then when we layer in the supply chain challenges and deal with schools
+and local governments and smaller-sized governments and municipalities who may not be as tech savvy
+as the Fortune 50 or 500.
+
+Can you talk a little bit about the visibility? Are they starting to place orders or starting to say, "Hey, if this
+gets approved and if we get this amount, here's what I want." Because it seems like with the long lead
+times, if they say they want to implement something in the summer for education, we're getting to a point
+of window where you won't be able to procure the items. So any talk or color on the discussions you're
+having around these topics?
+
+Christine A. Leahy
+President, CEO & Director
+
+Yes. Jim, there's a lot packed in there, stimulus across many different segments. So let me start with
+education, which is I think where you were going there. Yes, it's complicated, right? We've got the supply
+ecosystem that is -- has got some impacts to it right now. So we're trying to manage through all of that.
+
+Here's what I'd say about K-12. You know we have a lot of experience understanding funding, stimulus
+funding and other types of funding for educational institutions. So we sit side-by-side with our customers
+to make sure they understand both where the dollars can be used for what products in particular or for
+what outcomes because sometimes outcome based, and what the deadlines are and what those deadlines
+mean?
+
+Do you have to have the product in-house? Do you have to have the product order placed? So there's a lot
+of navigating that's going on, and I feel highly confident that the team is doing a phenomenal job with our
+customers and that our K-12 customers are not going to lose out on any funding. That's really clear.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+In the state and local space where we've got stimulus funding coming down, it's been a bit complicated
+because the funding packages, there were 3 of them, as we've talked about before. The CARES Act
+package, for example, had a deadline at the end of the coming year, that was from March of last year.
+
+The end of last year, it was -- there was nothing for states and locals in the stimulus package. And then in
+March, there was a hefty amount. But as we all know, when it comes to state and local, it's about budget
+cycles, and it's about funding deadlines.
+
+So the spending that's taken place in 2021 is primarily from the CARES package with a deadline this
+year. What we're seeing now is, I don't want to call it slowing down, but I'm going to say a moderating in
+planning and state and local governments now have the funding where they don't have to spend until the
+end of 2024.
+
+And so they are now looking at a multiyear approach. Pretty unusual this multiyear approach, but that's
+what they're doing. And we're helping them with it. There's a lot of complexity. It's very solution-based in
+my view, in terms of what customers are trying to do. So we don't really expect that to meaningfully come
+to fruition until early next year.
+
+But there's just a lot of tentacles, and they're all different based on the stimulus package and on the
+actual market that we're talking to. But again, I would just reiterate that this is something we do. It's
+frankly a core capability like working with partners. It's a core capability to understand in the federal state
+and local education, health care spaces, where the funding is, what it means, what the deadlines are and
+how to use it and then to basically walk our customers through it. So I know that was a long answer, I
+hope it was helpful.
+
+Operator
+
+The next question on the line comes from Katy Huberty at Morgan Stanley.
+
+Kathryn Lynn Huberty
+Morgan Stanley, Research Division
+
+Just given the backlog commentary, can you talk about the gap between net sales growth and orders or
+writing growth in 3Q and maybe how that compared to the second quarter? Then I have a follow-up.
+
+Albert Joseph Miralles
+Senior VP & CFO
+
+Sure. Katy, this is Al. Look, we won't quote the exact delta there, but I think it's safe to say that we
+continue to see strong written demand and that continues to show up. And that's part of what bolsters our
+confidence. Certainly, shipments have lagged that. And again, I'll go back to my comment, I would say
+the delta there and the mix looks like the second quarter did and that would be consistent across products
+with the one caveat that as we mentioned, Solutions was a little bit stronger or a little worse than it was in
+Q2.
+
+Kathryn Lynn Huberty
+Morgan Stanley, Research Division
+
+Okay. And then Al maybe a follow-up for you. The ending cash balance of $245 million is lower than your
+typical buffer. Can you just talk about the drivers of cash outflow in the quarter and the financing needs
+near term to rebuild that buffer and also to fund the Sirius acquisition?
+
+Albert Joseph Miralles
+Senior VP & CFO
+
+Sure. Sure. So first, on the Sirius acquisition. I think we mentioned on the previous call, we have
+committed financing in place. So we expect that we are going to finance the acquisition fully.
+
+From a cash balance perspective, I think, Katy, if you compare it to where we were at the end of the
+year and maybe a year ago, certainly, we look lower. And a couple of things there. One, we had a debt
+refinancing or financing, I should say, in 2021. So that bolstered that cash position.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+And then notably, for 2021, we've used a fair amount of cash for the existing acquisitions we've had as
+well as share repurchases. So I think the combination of where we sit from a cash balance on our revolver
+availability perspective, we feel quite good with where we stand and then we feel quite good about our
+ability to create and generate free cash flow in 2022.
+
+Operator
+
+The next question comes from Matthew Sheerin at Stifel.
+
+Matthew John Sheerin
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Chris, I wanted to just ask about the strong cloud growth that you're seeing, particularly Infrastructure-
+as-a-Service. And I'm wondering if some of that is positively impacted by the fact that customers maybe
+are moving or accelerating towards the cloud because of the product in infrastructure, on-prem product
+shortages? Are you seeing any of that in terms of customers saying, "Yes, maybe now is the time to move
+because we don't want to wait?"
+
+Christine A. Leahy
+President, CEO & Director
+
+Yes, Matt, it's a great question. We've been asking ourselves that as well and talking to customers about
+it, given the kind of pervasive and persistent nature of the supply chain and the fact that it continues
+to extend, I would say -- I would characterize it this way: customers are rethinking and considering
+accelerating some movement to cloud and potentially rearchitecting some of their solutions in more -- in a
+public cloud-like environment versus, for example, on-prem cloud.
+
+But what I wouldn't characterize it as is just a wholesale shift. Customers are still very strategic in how
+they think about both flexibility, obviously, and scalability, but also cost. And if you combine all of those
+things together, they're still looking for the absolute best solution and, therefore, not just doing the
+wholesale shift.
+
+So I guess the answer would be: we are having those conversations, we are seeing some decisions made
+around accelerating to public cloud, but I wouldn't say that it's with and wholesale, if that helps.
+
+Matthew John Sheerin
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Got it. Okay. And then on the PC demand that you're seeing, which it sounds like that continues to be
+strong. You've talked about shortages, particularly on the commercial side. What are your thoughts there
+in terms of the PC cycle? And are you seeing any early signs of adoption of Win 10? And do you see that
+as a driver going forward?
+
+Christine A. Leahy
+President, CEO & Director
+
+Well, look, I wouldn't say that I've seen necessarily early adoption just yet. But as is always the case,
+there will be early adopters, and there will be later adopters, and they will be our customers. So we'll help
+them through that.
+
+You all are familiar with the end of life for Win 10 and the timing for Win 11 around the 2024-2025
+time period. So it will be a driver. It's not been a driver yet. I think PCs generally, you've heard me say,
+I continue to believe in PCs. I think that we have more PC density now. We are going to see sort of
+replacement cycles of PCs for a couple of reasons, wear and tear, but also the technology improves at a
+faster pace and client devices are more and more important to the productivity of the people using them.
+
+You also have use cases that are expanding. And the hybrid work model obviously is really driving PC
+usage. So we will -- we feel good about PC growth and Win 11 will certainly be a driver of that at some
+point over probably a couple of year period.
+
+Operator
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+The next question comes from Samik Chatterjee at JPMorgan.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+Great. Chris, I just wanted to start off and go back to your comments, you mentioned this a couple of
+times now about monitoring the SMB segment for economic activity just given the increase in cases, et
+cetera. And you mentioned you haven't seen any sizable impact yet, but is there something more on
+a regional basis when you look at across the U.S. or maybe in some international markets on a more
+regional kind of specific basis you're seeing any changes in activity from your customers where maybe
+there is a stronger correlation to how cases are trending? Any insights on that? And I have a follow-up,
+please.
+
+Christine A. Leahy
+President, CEO & Director
+
+Yes, sure. Here's what I would say about the current environment. We're watching it, as is everybody, and
+we're cautious about it. And we put it in the category of wildcard because I don't know that -- anybody
+knows what's going to happen. But we all also know there's been more momentum around vaccination
+availability at lower ages, antivirals, the rate of vaccine, particularly when we think of our locations, the
+U.K. and Canada, the U.S. is a little lower, but that's obviously diverse geographically.
+
+All of that said, I'll tell you the sentiment of our customers is, we're moving forward. We're thinking and
+investing for getting back to kind of a robust environment and economy, and we're thinking forward. So I
+think a little bit unlike going into last year's winter months where the cautiousness, I would say, was on a
+really high level.
+
+We're just feeling customers saying, we got to invest. And so if we're not going to be going back to work
+until early next year or work from anywhere, we've got to invest. And that is, I would say, ubiquitous
+across the markets that we serve.
+
+So we -- in 2020, we talked about the unevenness and the impact of certain geos, certain industries, et
+cetera, I just feel like the tone has really changed to the platform of we got to get back, we got to get
+back, we got to build for the future. So that's what we're seeing.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+Okay. A quick follow-up. I think you're clearly indicating that the operating margin in 3Q doesn't repeat in
+4Q and you have incremental spend coming through. How much of that is, as you mentioned, some of the
+catch-up on SG&A versus what you outlined as is the right time to spend? And I'm just trying to think of
+what portion of that incremental spend should I be annualizing for the next year?
+
+Albert Joseph Miralles
+Senior VP & CFO
+
+Sure. Thanks, Samik. So look, in the fourth quarter, we'll give more guidance with respect to what that
+looks like for 2022 and reflective of our combination with Sirius, right? So -- but let me just focus my
+comments on fourth quarter. I would say the non-GAAP SG&A spend is just an unevenness or a timing
+effect of that spend in Q3 that probably lagged a bit.
+
+In Q4, we'd expect that to pick up. There's probably a component there that as we think about the Sirius
+combination, we're thinking more broadly about what that combination looks like and how does that
+ultimately impact our investment spend?
+
+That being said, we're going to continue forward in Q4 with the efforts that we've been focused on and
+notably our own digital transformation as well as to continue to invest in the high-growth solutions and
+services areas.
+
+Operator
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+The final question comes from Keith Housum of Northcoast Research.
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+Chris, I'm just kind of thinking here through the investments that companies are making in technology
+and based on the supply chain shortages that they are. Is there a willingness of your customers to move
+to another solution set or a hardware solution set that can be fulfilled by the end of the year? Because
+the thinking is a lot of these companies have IT budget, they want to spend anyway, and there's always a
+project to wish that they want to do.
+
+Are people willing to convert to other projects in order to spend that money? Or are they holding on until
+the products are available?
+
+Christine A. Leahy
+President, CEO & Director
+
+Yes. It's a great question. And I'd say it really depends frequently on the customer set. So small
+businesses have always been more nimble and less kind of tied to particular requirements. And we have
+seen success there. And I think in my prepared remarks, we indicated the supply chain, while they were
+impacted, supply chain constraints didn't impact them as much as in corporate because we could help
+them find alternatives.
+
+When you get to larger organizations, it becomes harder because those organizations have specific
+requirements. And they really don't want to shift off of them. It creates more work, frankly, within the
+organization. What we've seen there, and I think Al mentioned it is, we have worked with our customers
+to get in line earlier.
+
+So a lot of customers have been working very hard to get their orders in earlier than they typically would
+in hopes that they will get -- get the product by year-end. All that said, anywhere that there are, I'll say,
+mission -- less than mission-critical type technology that we can help them find alternative whether it's a
+brand, whether it is the cloud, whether it's something else that they can be using, you can bet we're doing
+it.
+
+But you're absolutely right, there's going to be a lot of pressure as we go into the back end of the year to
+get that product out, and we expect we'll be able to help them do it.
+
+Keith Michael Housum
+Northcoast Research Partners, LLC
+
+Got you. And as a follow-up here. In terms of the shortages that you're experiencing, are you finding that
+those shortages over this quarter, I guess, over the previous quarters, are they consistent with specific
+product set or solution sets? Or is it really kind of like a game of whack-a-mole where, I guess, fixed in
+one area, but a new product source comes up in another area?
+
+Christine A. Leahy
+President, CEO & Director
+
+Well, there's -- I said this before, you've got the kind of supply chain ecosystem. And so you've got -- you
+have capacity, you got components. You've got logistics, you've got labor, you've got all of this impacting
+the ability to get product.
+
+And it has kind of shifted through the course of the year. So we've had on the transactional side, notebook
+and video and monitors and things like that, that have been constrained. Chromebooks were very much
+constrained, okay? Chromebook has started to ease up a little.
+
+That's planning a good 13 months ago to get to that point by the OEMs. What we saw the shift this year in
+this past quarter and a little before was solutions product now being more constrained. And we mentioned
+NetComm, in particular and Storage in particular.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+So that is a problem when things are moving around, particularly when what customers need are
+comprehensive and holistic solutions, not just key parts. So whack-a-mole is a good word or a good term
+for it.
+
+Operator
+
+We have no further questions registered on the line. So I'll hand the call back to Chris Leahy to conclude
+the call.
+
+Christine A. Leahy
+President, CEO & Director
+
+Bethany, thank you. I want to recognize the incredible dedication of our coworkers around the globe
+and their extraordinary commitment to serving our customers, our partners and all of CDW stakeholders
+and thank you to our customers for the privilege and opportunity to serve you. And to our investors and
+analysts participating in this call, we appreciate you and your continued interest in and support of CDW,
+and we look forward to talking with you again next quarter. Have a good day.
+
+Operator
+This concludes today's conference call. Thank you for joining. You may now disconnect your lines.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+CDW CORPORATION FQ3 2021 EARNINGS CALL |  NOV 03, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+

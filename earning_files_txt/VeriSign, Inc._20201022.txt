@@ -1,0 +1,694 @@
+VeriSign, Inc. NasdaqGS:VRSN
+FQ3 2020 Earnings Call Transcripts
+Thursday, October 22, 2020 8:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2020-
+
+-FQ4 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+1.35
+
+1.38
+
+Revenue  (mm)
+
+316.07
+
+317.88
+
+Currency: USD
+Consensus as of  Aug-18-2020 7:04 AM GMT
+
+2.22
+
+0.57
+
+1.35
+
+6.49
+
+6.00
+
+318.62
+
+1261.36
+
+1342.97
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+1.33
+
+1.26
+
+1.32
+
+1.35
+
+1.31
+
+2.96
+
+1.40
+
+1.38
+
+SURPRISE
+
+(1.50 %)
+
+134.92 %
+
+6.06 %
+
+2.22 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+7
+
+2
+
+ 
+VERISIGN, INC. FQ3 2020 EARNINGS CALL |  OCT 22, 2020
+
+Call Participants
+
+EXECUTIVES
+
+D. James Bidzos
+Founder, Executive Chairman &
+CEO
+
+David Atchley
+VP & Corporate Treasurer
+
+George E. Kilguss
+Executive VP & CFO
+
+ANALYSTS
+
+Nicholas Freeman Jones
+Citigroup Inc., Research Division
+
+Robert Cooney Oliver
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Sterling Auty
+JPMorgan Chase & Co, Research
+Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+VERISIGN, INC. FQ3 2020 EARNINGS CALL |  OCT 22, 2020
+
+Presentation
+
+Operator
+
+Good day, everyone. Welcome to VeriSign's Third Quarter 2020 Earnings Call. Today's conference is being
+recorded. Recording of this call is not permitted unless preauthorized. Now at this time, I'd like to turn the
+conference over to Mr. David Atchley, Vice President of Investor Relations and Corporate Treasurer. Please
+go ahead, sir.
+
+David Atchley
+VP & Corporate Treasurer
+
+Thank you, operator. Welcome to VeriSign's Third Quarter 2020 Earnings Call. Thank you to everyone for
+joining our call today, and we hope each of you are staying safe and healthy.
+
+Joining me remotely from their respective locations are Jim Bidzos, Executive Chairman and CEO;
+Todd Strubbe, President and COO; and George Kilguss, Executive Vice President and CFO. This call and
+presentation are being webcast from the Investor Relations website, which is available under about
+VeriSign on verisign.com. There you will also find our third quarter 2020 earnings release.
+
+At the end of this call, the presentation will be available on that site, and within a few hours, the replay
+of the call will be posted. Financial results in our earnings release are unaudited, and our remarks include
+forward-looking statements that are subject to the risks and uncertainties that we discuss in detail in
+our documents filed with the SEC specifically the most recent reports on Forms 10-K and 10-Q. VeriSign
+does not update financial performance or guidance during the quarter unless it is done through a public
+disclosure. The financial results in today's call and the matters we will be discussing today include GAAP
+results and 2 non-GAAP measures used by VeriSign, adjusted EBITDA and free cash flow.
+
+GAAP to non-GAAP reconciliation information is appended to the slide presentation, which can be found
+on the Investor Relations section of our website available after this call. In a moment, Jim and George
+will provide some prepared remarks, and afterwards, we will open the call for your questions. With that, I
+would like to turn the call over to Jim.
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Thanks, David, and good afternoon, everyone. Today, VeriSign reports $318 million in revenue for the
+quarter, up 3.1% from the same quarter a year ago. But before we dive deeper into our results, I wanted
+to speak just a bit about COVID-19 and how we're addressing it within VeriSign. With the increased
+demand for internet and online services during the COVID-19 pandemic, the secure and reliable operation
+of our infrastructure has become even more important. Our focus remains on our mission, which is to
+ensure the availability of our critical internet infrastructure for the benefit of Internet users.
+
+We continue to operate our registry services for com and net, and our root operations at the rigorous
+standards of performance and availability governed by our agreements with ICANN, while most of our
+employees continue to work remotely.
+
+Now I'll address our quarterly results. The third quarter of 2020 was another consistent quarter for
+VeriSign, in which we focused on our core business, expanded the domain name base and delivered solid
+financial results.
+
+Regarding third quarter operational highlights. At the end of September, the domain name base and .com
+and .net totaled $163.7 million, consisting of $150.3 million names for .com and $13.4 million names
+for .net. With a year-over-year growth rate of 4%.
+
+During the third quarter, we processed 10.9 million new registrations and the domain name base increased
+by 1.65 million names. Although renewal rates are not fully measurable until 45 days after the end of the
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+VERISIGN, INC. FQ3 2020 EARNINGS CALL |  OCT 22, 2020
+
+quarter, we believe that the renewal rate for the third quarter of 2020 will be approximately 73.4%. This
+preliminary rate compares to 73.7% achieved in the third quarter of 2019 and 72.8% last quarter.
+
+For 2020, we now expect a domain name base growth rate of between 3.5% and 4%. This updated range
+reflects the strength we have seen in new registrations and our expectations for domain name base
+growth for the remainder of the year, balanced with the ongoing uncertainty presented by COVID-19.
+
+During the third quarter, we continued our share repurchase program that resulted in 823,000 shares
+of common stock repurchased for $170 million. At quarter end, $506 million remained available and
+authorized under the current share repurchase program, which has no expiration date.
+
+Our financial and liquidity position remained stable with $1.15 billion in cash, cash equivalents and
+marketable securities at the end of the quarter. We continually evaluate the overall liquidity and investing
+needs of the business and consider the best uses for our cash, including potential share repurchases. And
+now I'd like to turn the call over to George.
+
+George E. Kilguss
+Executive VP & CFO
+
+Thank you, Jim, and good afternoon, everyone. As mentioned, for the quarter ended September 30, 2020,
+the company generated revenue of $318 million, up 3.1% year-over-year and delivered operating income
+of $207 million compared with $206 million in the same quarter a year ago.
+
+Operating expenses totaled $111 million, up from $103 million in the third quarter a year ago and up from
+$108 million last quarter. The increase in operating expense reflects our continued investments throughout
+the year in personnel to support our cybersecurity and infrastructure initiatives, among other factors.
+
+The operating margin in the quarter came to 65% compared to 66.7% in the same quarter a year ago,
+and 65.8% last quarter.
+
+Net income totaled $171 million compared to $154 million a year earlier, which produced diluted earnings
+per share of $1.49 in the third quarter this year compared to $1.30 for the same quarter last year.
+
+As noted in our earnings release, net income for the third quarter included a previously unrecognized
+income tax benefit of $24 million, which increased diluted earnings per share by $0.21 and resulted from
+the remeasurement of VeriSign's accrual for uncertain tax positions.
+
+Operating cash flow for the third quarter was $140 million and free cash flow was $125 million compared
+with $208 million and $197 million, respectively, for the third quarter last year.
+
+Operating cash flow and free cash flow in the third quarter were both lower, mainly due to the permitted
+deferral of $52 million in U.S. federal tax payments until the third quarter, which we mentioned in our last
+quarter's call. I will now discuss updated full year 2020 guidance.
+
+Revenue is now expected to be in the range of $1.262 billion to $1.267 billion. This revenue range reflects
+the updated domain name base growth of between 3.5% and 4% that Jim mentioned earlier.
+
+The operating margin, which includes stock-based compensation, is now expected to be between 64.75%
+and 65.25%. This guidance range reflects our expectation of incremental and continued investments in
+our operational infrastructure and security capabilities as well as sales and marketing expenses during the
+fourth quarter of 2020.
+
+Interest expense and nonoperating income net is still expected to be an expense of between $75 million
+and $80 million. Capital expenditures are now expected to be between $45 million and $50 million.
+
+We now expect our full year effective tax rate to be a net benefit of between 6% and 9%, which reflects
+the $168 million and $24 million of previously unrecognized income tax benefits recorded in the first
+quarter and the third quarter, respectively. Cash taxes for 2020 are still expected to be in the range of
+18% to 20% of pretax income.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+VERISIGN, INC. FQ3 2020 EARNINGS CALL |  OCT 22, 2020
+
+In summary, VeriSign continued to demonstrate sound financial performance during the third quarter and
+we look forward to continuing our focused execution for the remainder of 2020. Now I'll turn the call back
+to Jim for his closing remarks.
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Thank you, George. I'd like to say again that our priorities continue to be our mission of ensuring the
+availability of our critical infrastructure and the safety of our people. Internet usage has increased during
+the pandemic and reliance on online services even more so. For many people who are working from home
+and isolating at home, online services are critical and more businesses and individuals that ever depend on
+Internet infrastructure for their livelihood.
+
+I'd like to acknowledge the team here at VeriSign for their hard work in maintaining our critical internet
+infrastructure even during a pandemic. We'd like to walk through 2 questions, which we believe are on
+your mind before we open the call for your additional questions.
+
+First question, are there any updates regarding your plans to use the limited pricing flexibility you have
+for .com? No update from what we said last quarter. We still expect to effectuate the dot-com wholesale
+price increase before October 25, 2021, and the prices for all of our TLDs are frozen through March 31,
+2021.
+
+Second question. Are there any updates on the status of .web? As we noted last quarter, a final hearing
+was scheduled in August. The hearing took place in early August. The participants, including VeriSign, then
+submitted their post hearing briefs. A final decision from the panel may be issued later this year or early
+next year. As a reminder, VeriSign is not a party in these IRP proceedings but was granted the right to
+participate in certain limited aspects. Also, as a reminder, an IRP under ICANN's bylaws is for the purpose
+of ensuring that ICANN followed its own policies and procedures when making decisions.
+Our expectation is that following the resolution of the IRP, the ICANN Board will make a final decision on
+the delegation of the DoT Web TLD. And now we'll open the call for your questions. Operator, we're ready
+for the first question.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+VERISIGN, INC. FQ3 2020 EARNINGS CALL |  OCT 22, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] We'll take our first question from Rob Oliver with Baird.
+
+Robert Cooney Oliver
+Robert W. Baird & Co. Incorporated, Research Division
+
+Great. Jim, just to start with you. Just overall, I'd love to get your thought on the domain environment,
+clearly coming out of COVID, a lot of concerns about small business, small business failure. And you guys
+have consistently from that time when you took down the guide on domain growth have kind of ratcheted
+back up and came in at 4 this quarter, pretty impressive. So I just was wondering if you could maybe step
+back and talk a little bit about what you're seeing in the environment, a lot of new business starts and it
+would seem that, that would be offsetting some of the kind of macro concerns that they may be weighing
+on small businesses or maybe they're holding on to their websites? I would love to hear your thoughts
+there. And then I had a quick follow-up.
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Okay. Thanks for the question. Well, I'll make a comment or two, and then I'll invite George and Todd to
+comment as they see that market having developed over the crisis. I'll just say that, as I mentioned in
+my remarks, obviously, people are making greater use of the Internet for a wide variety of reasons for
+their livelihood or in the pursuit of a livelihood and starting new businesses. Others may not be faring as
+well. There are a lot of complex reasons that people register, keep and delete domain names, and there's
+a complex sort of analysis that leads to where the increased growth resulted in the quarter.
+
+Overall, the numbers speak for themselves in that it was a solid quarter of additional growth. There's
+clearly additional Internet usage. There's clearly additional growth in the domain name space as a result
+of that. And it's quite clear as you see in our results and as you observed. And George and Todd, I'll invite
+you to comment, if you like.
+
+George E. Kilguss
+Executive VP & CFO
+
+Sure. This is George Kilguss. So as Jim mentioned, we had a good quarter. New registrations were $10.9
+million, which was up about 980,000 new names from a year ago, but very similar to last quarter. And the
+trends that we're seeing here in Q3 are very similar to last quarter in that we saw strength in registrations
+from North American registrars, EMEA registrars and APAC registers.
+
+New units from China-based registrars during the quarter were similar to Q2 level. However, they were
+down year-over-year. But overall, a very solid quarter, continuing to see good demand here in the third
+quarter. And I think, as Jim said, those are just secular trends that we're seeing with people, seeing the
+value and the utility of having a website and getting a domain name to better service their customers and
+maximize their e-commerce objectives. And I think we're helping to support that, those small businesses
+in doing that. And those trends, at least so far this year have been good for us.
+
+Robert Cooney Oliver
+Robert W. Baird & Co. Incorporated, Research Division
+
+Great. That's helpful. And my follow-up, George, is for you. I think you mentioned in your prepared
+remarks, a common relative to Q4 in sales and marketing expenses. And just wanted to just ask on that.
+Anything out of the ordinary relative to kind of standard practice on investing in your channel around.com
+growth? And any color you can add there would be great.
+
+George E. Kilguss
+Executive VP & CFO
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+VERISIGN, INC. FQ3 2020 EARNINGS CALL |  OCT 22, 2020
+
+Yes, Rob, I would say nothing out of the ordinary. I think if you look in the past couple of years, we have
+tended to spend a little bit more in the sales and marketing area in the fourth quarter just based on the
+timing of events. This year, we had some activities that we're going to do early in the year, but with the
+pandemic in full swing, we kind of pivoted on some of those efforts, and we've repositioned them here in
+the fourth quarter. So I don't think there's anything unusual there, just the normal management of our
+marketing activities throughout the year.
+
+Operator
+
+I'll take our next question from Nick Jones with Citigroup.
+
+Nicholas Freeman Jones
+Citigroup Inc., Research Division
+
+Great. I guess, 2. The first one, I guess, a little bit more on .web. Can you expand on the decision that's,
+I guess, coming either later this year or early next year, I guess, in terms of is this kind of a definitive
+decision that puts this matter to rest? Or is it more of a decision to potentially extend the matter longer?
+Just any, I guess, color on how to think about the timing of what we're waiting to hear.
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Well, we're waiting to hear the final resolution of this IRP. And just as a reminder, this IRP, this form of
+arbitration, it's used in the ICANN community actually involves 2 parties primarily. That's affiliate who's
+essentially the plaintiff here and ICANN who is the defendant. And as I mentioned in the question that I
+asked and answered, this is about whether ICANN follows its own policies of procedures when it makes
+decisions. So that is what the panel will decide. And our expectation, as I said, is that following that
+resolution, the ICANN board then -- the matter will be returned to ICANN for its process, which is to make
+a final decision on the delegation of the .web TLD. So that's the expectation. As in any litigation, it's really
+not proper to speculate on those outcomes, obviously, when something is pending. But we do know in the
+process, what's pending here, which is a decision by the panel. And they have the final hearing what's
+scheduled and it was held. And of course, as a participant, but not a litigant, so to speak, we were there
+at the table. So we're waiting. Hopefully, by the end of this year or early next year. We will hear from the
+panel. They will answer the allegations by the plaintiff affiliates against ICANN and then the matter should
+be handed to the ICANN Board for resolution on the .web issue. That's our expectation. And that's what
+we hope to see, and then we'll certainly share with you what we know, when we know it beyond that.
+
+Nicholas Freeman Jones
+Citigroup Inc., Research Division
+
+Great. And then a follow-up. Just 1 follow-up on, I guess, just .com market share. So there's some third-
+party data out there that kind of indicates.com is regaining share despite they're kind of being more I
+guess, new TLDs. Why do you think that is? Is that what you're seeing? Can you speak to kind of any
+trends you're seeing there maybe making.com more popular versus new TLDs? I guess just any thoughts
+or color around that would be great.
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Well, I'll just say this I mean, I don't know what data you're referring to, so I can't really address that
+specifically. I can tell you, though, that the market does not consist only of.com and then new gTLDs
+or alternate TLDS, there's a large and thriving market of country code TLDs like .cn for China, .de for
+Germany. Many of those have been commercialized like .co from Colombia, .co is a commercialized TLD
+that many, many organizations and individuals have chosen to brand themselves on. And there are a large
+number of those. So the market is far broader than that.
+
+COM is a good brand, and its performance is strong. And registrants like the .com brand because it helps
+them get found. But beyond that, without seeing what you're referring to, I really can't comment on it.
+I would just caution that very often, when I've seen people talk about the market, they haven't really
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+VERISIGN, INC. FQ3 2020 EARNINGS CALL |  OCT 22, 2020
+
+considered how large that market is. I would also refer you to our domain name brief. I think there's a
+good survey of all of the TLDs there.
+
+And I think if you look at that, you might get a slightly different picture. So I hope that's helpful.
+
+Operator
+
+We'll now take our last question from Sterling Auty with JPMorgan.
+
+Sterling Auty
+JPMorgan Chase & Co, Research Division
+
+So going back to the domain name growth. In the context of the guidance that you've given for the full
+year, it would seem to indicate a slowdown in the year-over-year new registrations embedded in that. So
+I guess my question is, do you think that there was some onetime benefits from COVID that you're not
+factoring into the guidance for the fourth quarter? Or what else is kind of influenced -- influencing how you
+kind of guided here for full and how you kind of guided here for a full year.
+
+George E. Kilguss
+Executive VP & CFO
+
+Sterling, this is George. Yes. So as you know, Sterling, there are just simply less selling days. I would
+put it in the fourth quarter. Typically, we see the fourth quarter new registrations dip seasonally. So
+we're keeping an eye on that. Also, I think there's still some uncertainty with regard to COVID and how
+that disease may pick up here globally. And so some of that caution is also in the guidance that we're
+providing.
+
+Sterling Auty
+JPMorgan Chase & Co, Research Division
+
+Understood. And I know that .com is a thin registry. But based on your interactions with registrars and
+industry participants, any sense as to what percentage of domains that are coming on board have e-
+commerce attached to them at this point? Or any other type of granular breakdown you might have?
+
+George E. Kilguss
+Executive VP & CFO
+
+Yes. As you mentioned, Sterling, it's in registry. We don't quite have that detail. We do hear from the
+registrars that they are seeing more small businesses stand up websites and grow that portion of their
+business, which I think is good for our business. But as far as the granular detail, I don't have that for
+you, I'm sorry.
+
+Nicholas Freeman Jones
+Citigroup Inc., Research Division
+
+And that kind of brings. I don't know if you guys have seen it, but the Census Bureau has a number
+of business applications. And it looks like there was a significant spike in late summer coming into the
+fall. And based on that comment, I'm wondering if you're seeing some of those come in? Or is there the
+potential that there might be a delayed tailwind from maybe new business formation?
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+Well, speaking for myself, I haven't seen that data. I don't know that we've correlated any data like that to
+domaining registrations in our common net zone. I think registrars are probably the first place that there
+would be some indication of that. I think clearly, we have some indication from them that new business
+starts are on the up and that there are increased domain name registrations in the U.S. associated with
+that. So I think in general, the answer to your question is yes, that there's nothing I can think of in the
+data that would disagree with what you're saying. But any detail or correlation, I don't think we have any.
+
+Sterling Auty
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+VERISIGN, INC. FQ3 2020 EARNINGS CALL |  OCT 22, 2020
+
+JPMorgan Chase & Co, Research Division
+
+Got it. And one housekeeping, George, what's the number of names up for renewal in Q4?
+
+George E. Kilguss
+Executive VP & CFO
+
+In Q4, 34.8 million.
+
+Sterling Auty
+JPMorgan Chase & Co, Research Division
+
+All right. Great. And very last one. You commented a little bit, so I wanted to just put a fine point. Given
+bringing down the high end of the operating margin for the full year, what would you say the incremental
+spend that you're now factoring into that guidance is going to that maybe wasn't there before? Or is that
+the wrong way to look at it?
+
+George E. Kilguss
+Executive VP & CFO
+
+Well, I think I mentioned it in my prepared remarks. The increased expense year-over-year is really going
+to increased headcount. We've added about 30 or 36 heads since -- 36 heads since the beginning of the
+year. And a lot of those additional headcounts are people that we have focused on are cybersecurity and, I
+would say, software, network engineering functions. And those show up in our R&D and our G&A functions.
+And so at the end of the quarter, our headcount was about 908 employees, so that was up from 872 at the
+end of the year.
+
+So I mean the only other thing I'll say is, look, we've -- we came out of 2018 with a similar level of
+headcount. We had about 900 people. We've been as high as 1,000 employees in the business.
+
+If you step back and look at the prior years, we've been in a GAAP operating expense range of around
+$110 million, $112 million a quarter, clearly in 2020 here. In 2019 as we got out of -- we sold the VSS
+security business. We had some moving pieces as we were reorganizing the company. But -- and right
+now, we're at about $111 million for the quarter of GAAP operating expense here.
+
+So we've been in this range for a long period of time. And we're, as we always are, we're managing the
+expenses of the business to meet the needs of the business. And I think we've been doing that reasonably
+well over the past the 7 or 8 years, and we're going to continue to do that.
+
+But the -- to answer your question, it's really been this additional headcount that we've added in our
+security and stability initiative.
+
+Sterling Auty
+JPMorgan Chase & Co, Research Division
+
+Understood.
+
+D. James Bidzos
+Founder, Executive Chairman & CEO
+
+And Sterling, this is Jim. Sterling, I would just add too, that there's always a baseline of funding that we
+make available and increase just simply because a huge aspect of what we do is cybersecurity, which is
+very difficult to predict, the threat environment is constantly evolving. It's generally always intensifying
+and increasing and so there are constant investments we make in training, education, new hires, people,
+technology, hardening our infrastructure, improving its resiliency that are ongoing. In addition, there are
+responses that we have to make to new threats that are anticipated. These just are routine and happen all
+the time, but the precise nature, the precise response, and therefore, the price -- the precise budgetary
+aspect of the response is difficult to predict. What you're seeing is our best estimates based on a long
+history of experience of doing these kinds of things.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+VERISIGN, INC. FQ3 2020 EARNINGS CALL |  OCT 22, 2020
+
+In addition, we fund research and that research evolves. And we recently identified, for example, a huge
+number of queries that were out coming into the root servers, a massive spike in queries that were
+literally the result of unintentional activities with that browser behavior that we were able to actually
+highlight, point out, and help rectify and eliminate a huge amount of volume that was hitting the -- all 13
+of the root servers.
+
+There's quite a bit of this research that we do and published. We've done work in name collisions. We do
+a lot of root instrumentation that helps manage and improve performance and security across the net, we
+identified the names that are the source of botnets and other sorts of cyberattacks. We share those with
+different companies, government agencies. So the teams that are working on that are always evolving,
+growing, training, hiring additional folks. That's our primary mission.
+
+We address it in many broad ways, but it's our top priority. So it shouldn't be a surprise that at times,
+you're going to see increased spending on it. It's just the nature of the business that we're in. And that's
+our expertise, and that's our mission.
+
+Operator
+
+And that concludes our question-and-answer session. I would now like to turn the conference back over to
+Mr. Atchley for any additional or closing remarks.
+
+David Atchley
+VP & Corporate Treasurer
+
+Thank you, operator. Please call the Investor Relations department with any follow-up questions from this
+call. Thank you for your participation. This concludes our call.
+
+Have a good evening.
+
+Operator
+Thank you. And that does conclude today's conference. Thank you all for your participation. You may now
+disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+VERISIGN, INC. FQ3 2020 EARNINGS CALL |  OCT 22, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+

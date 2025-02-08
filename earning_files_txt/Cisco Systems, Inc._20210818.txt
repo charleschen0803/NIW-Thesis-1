@@ -1,0 +1,1312 @@
+Cisco Systems, Inc. NasdaqGS:CSCO
+FQ4 2021 Earnings Call Transcripts
+Wednesday, August 18, 2021 8:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2021-
+
+-FQ1 2022-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+0.83
+
+0.84
+
+1.20
+
+0.81
+
+3.21
+
+3.22
+
+0.31
+
+3.41
+
+13039.26
+
+13126.00
+
+0.67
+
+12806.38
+
+49721.39
+
+49818.00
+
+0.19
+
+51889.84
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Aug-17-2021 8:51 AM GMT
+
+FQ1 2021
+
+FQ2 2021
+
+FQ3 2021
+
+FQ4 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.70
+
+0.76
+
+0.82
+
+0.83
+
+0.76
+
+0.79
+
+0.83
+
+0.84
+
+8.57 %
+
+3.95 %
+
+1.22 %
+
+1.20 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Charles H. Robbins
+Chairman & CEO
+
+Marilyn Mora
+Director of Global Investor
+Relations
+
+Richard Scott Herren
+Executive VP & CFO
+
+ANALYSTS
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC,
+Research Division
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research
+Division
+
+Benjamin James Bollin
+Cleveland Research Company
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research
+Division
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc.,
+Research Division
+
+Fahad Najam
+MKM Partners LLC, Research
+Division
+
+Timothy Patrick Long
+Barclays Bank PLC, Research
+Division
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+Jeffrey Thomas Kvaal
+Wolfe Research, LLC
+
+Meta A. Marshall
+Morgan Stanley, Research Division
+
+Paul Jonas Silverstein
+Cowen and Company, LLC,
+Research Division
+
+Roderick B. Hall
+Goldman Sachs Group, Inc.,
+Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+Presentation
+
+Operator
+
+Welcome to Cisco's Fourth Quarter and Fiscal Year 2021 Financial Results Conference Call. At the request
+of Cisco, today's conference is being recorded. If you have any objections, you may disconnect.
+
+Now I would like to introduce Marilyn Mora, Head of Investor Relations. Ma'am, you may begin.
+
+Marilyn Mora
+Director of Global Investor Relations
+
+Thanks, Michelle. Welcome everyone to Cisco's Fourth Quarter Fiscal 2021 Quarterly Earnings Conference
+Call. This is Marilyn Mora, Head of Investor Relations, and I'm joined by Chuck Robbins, our Chair and
+CEO; and Scott Herren, our CFO.
+
+By now, you should have seen our earnings press release. A corresponding webcast with slides, including
+supplemental information, will be made available on our website in the Investor Relations section following
+the call. Income statements, full GAAP to non-GAAP reconciliation information, balance sheet, cash flow
+statements and other financial information can also be found in the Financial Information section of our
+Investor Relations website.
+
+Throughout this conference call, we will be referencing both GAAP and non-GAAP financial results, and
+we'll discuss product results in terms of revenue and geographic and customer results in terms of product
+orders unless stated otherwise. All comparisons made throughout this call will be made on a year-over-
+year basis.
+
+The matters we will be discussing today include forward-looking statements, including the guidance
+we will be providing for the first quarter and full year of fiscal 2022. They are subject to the risks
+and uncertainties, including COVID-19, that we discuss in detail in our documents filed with the SEC,
+specifically the most recent reports on Forms 10-K and 10-Q, which identify important risk factors that
+could cause actual results to differ materially from those contained in the forward-looking statements.
+
+With respect to guidance, please also see the slides and press release that accompany this call for further
+details. Cisco will not comment on its financial guidance during the quarter unless it is done through an
+explicit public disclosure.
+
+With that, I'll now turn it over to Chuck.
+
+Charles H. Robbins
+Chairman & CEO
+
+Thank you, Marilyn, and good afternoon, everyone. I hope you're all remaining healthy and staying
+safe. Our team at Cisco ended fiscal 2021 with an incredibly strong finish. We had an outstanding Q4
+performance and fiscal year revenue, reflecting strength across our portfolio, customer segments and
+geographies. Our product order growth was the highest we've seen in over a decade, and we're continuing
+to see strong customer reception to the accelerated investments in software and subscriptions. This great
+momentum is reaffirming our position as the worldwide leader in technology that powers the Internet and
+the digital enterprise.
+
+As I think about our achievements over the past year, 3 things stand out to me. First, the exceptional
+execution of our teams. We achieved these results through the extraordinary efforts of our leadership
+team, our partners, and most importantly, our people around the world who operated with incredible
+speed and at an unprecedented scale to deliver this growth.
+
+Second, our transformation and strategic investments are paying off. The benefits of our shift to software
+and subscriptions are clear, and they are helping both Cisco and our customers move with greater speed
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+and agility. And third, the power of our portfolio. The groundbreaking innovation we are investing in today
+will serve as the foundation for our customers' futures.
+
+These 3 factors position us exceptionally well for growth as we enter our next fiscal year as evidenced
+by our results this quarter. We are more confident than ever that we are in a strong position to help
+our customers be successful. As we look forward, we are laser-focused on providing our customers the
+technologies they will need to successfully navigate highly dynamic environments at an incredibly rapid
+pace.
+
+With the rise of COVID variants and the inconsistent pace of vaccine deployment around the globe,
+organizations must be resilient and adaptable as we've seen how quickly the world around us can change.
+While this may impact certain short-term plans like return to office for many, one thing is clear: there
+is tremendous demand for Cisco's technology. No matter how or when the global recovery takes shape,
+we are executing on our vision of rebuilding a better world, one that is digital, sustainable, inclusive and
+highly secure.
+
+I believe we're at a pivotal moment in our company's history as we have a massive opportunity to
+transform what has been the traditional office and define the future of hybrid work. As our customers look
+to create safer hybrid workplaces as well as collaborative and engaging experiences for their customers
+and employees, we believe they are becoming increasingly reliant on Cisco technologies to help them with
+their transformation and resiliency.
+
+Enterprises are increasingly seeking digital and cloud-enabled services, which is driving demand for our
+solutions and leading to new and expansive market opportunities for Cisco. We're in a unique leadership
+position to build and deliver innovative cloud-to-edge infrastructure platforms that our customers need.
+With the depth and breadth of our hardware, software, silicon and optics solutions, we are helping
+companies solve their biggest challenges. Whether it's adopting modern application architectures, shifting
+to hybrid work and hybrid cloud, securing their enterprise or meeting their ESG goals, Cisco is helping our
+customers thrive in a hybrid world.
+
+These industry dynamics helped drive our strong fourth quarter performance. The momentum we saw in
+Q3 accelerated through Q4 as we delivered robust revenue growth, increased earnings, strong margins
+and record operating cash flow. We also generated strong double-digit growth in product deferred
+revenue, reflecting the success of our transformation around driving subscriptions and recurring revenues,
+which increases our visibility into future performance.
+
+We are seeing IT budgets grow as companies begin to implement their critical future plans and business
+confidence increases. However, we do recognize that uncertainty remains around COVID-19, and we are
+closely monitoring the delta variant and its impact on customer spending. Right now, we are not seeing
+any additional impact to our business aside from the component shortage we've been facing over the past
+several months.
+
+Moving to the performance of our customer segments. As I mentioned, we delivered the highest product
+order growth in over a decade with growth of 31% driven by strength across all of our end markets. This
+outstanding performance is also up over 17% from our pre-COVID Q4 levels in fiscal year 2019. We saw
+double-digit growth in every one of our customer segments. This strength is being driven by stronger
+customer investment and substantial network upgrades to help modernize and secure their environments
+to support the new way of working.
+
+Specifically in our enterprise business, we had the best quarter in terms of product orders in over a decade
+and saw very strong order growth of 25%. We also had our third consecutive quarter of acceleration in our
+commercial, service provider and public sector businesses with all of these segments showing growth in
+excess of 20%.
+
+In our webscale business, we saw increased momentum, delivering record performance with over 160%
+order growth. And on a trailing 4-quarter basis, orders grew over 80% due to customers adopting
+products across the portfolio and early traction of our 400-gig solutions, a huge testament to the
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+investments we have made in accelerating innovation and the differentiated value we're bringing to these
+customers.
+
+From a product portfolio perspective, we also had a very balanced performance. As customers prepare
+for office reopenings and hybrid work, they are increasing their investment across our networking,
+cloud security and unified communications portfolios. In Q4, we saw double-digit revenue growth in
+campus switching, Catalyst 9000, high-end routing, wireless and in our Zero Trust solutions, along with
+strength in our security endpoint portfolio. We also had very strong adoption of our Acacia optical solutions
+driven by increasing customer demand for leading-edge technology to address their growing bandwidth
+requirements.
+
+The transformation of our business to more software and subscriptions continues to show tremendous
+progress as we achieved over $4 billion in software revenue in Q4, an increase of 7% sequentially and
+up 6% year-over-year. Within that, subscription revenue grew 9% in Q4 and 15% for the full fiscal year.
+For perspective, software represented 31% of our business in Q4. And for the full year, when combined
+with our services business, they represent over 53% of revenue, clearly highlighting the success of our
+continued business transformation.
+
+In addition to delivering strong financial results, our innovation engine continues to accelerate. Over the
+last year, we introduced an impressive number of new capabilities across our entire portfolio while also
+doubling down on more flexible consumption models, including our core networking capabilities as a
+service, highlighted by the recent launch of Cisco Plus. Our new Cisco Plus solutions deliver cross-portfolio
+technologies to help solve our customers' biggest needs with faster time to value. Our initial Network as
+a Service offerings deliver hybrid cloud technologies and will later expand to a broader catalog of services
+built and delivered with our partner ecosystem.
+
+Cisco Plus improves speed, agility and scale with on-demand solutions that intelligently adapt to
+our customers' business needs. While still early days in its launch, Cisco Plus directly aligns with our
+transformation goals around driving more subscription-based recurring revenue via the cloud.
+
+Our unique strengths improvement strategy give us the confidence to move at a more accelerated pace.
+You will see us continue to invest in our key growth areas and technology shifts like hybrid cloud, hybrid
+work, 5G, WiFi 6, Edge, security and cloud-native architectures to extend our technology leadership
+positions. You will also see us deliver even more strategic offers to enable our customers to thrive in
+a cloud-first digital world. These include full stack observability to improve their digital experiences by
+providing visibility and insights across their entire technology stack and Secure Access Service Edge, or
+SASE, designed to enable seamless secure access to applications anywhere their users work. Given the
+momentum we're seeing in our business, we have more conviction than ever that we are investing in the
+right areas, and we'll continue to extend our competitive advantages and drive growth.
+
+Before I turn it over to Scott for more details on the quarter and our expectations for the next fiscal year,
+let me give you an update on the supply environment. While we are seeing increasing demand for our
+technology, we are also continuing to manage through the component shortage challenges that nearly
+every company is experiencing. Our world-class supply chain team, as always, is doing an incredible
+job navigating this complex situation by working with our global suppliers to meet customer demand as
+quickly as possible.
+
+Looking ahead, we expect the supply challenges and cost impacts to continue through at least the first half
+of our fiscal year and potentially into the second half.
+
+In summary, demand for our technology is very strong, and our strategy is more relevant than ever. This
+allows us to deliver greater value to our customers, partners and communities as we all adapt to new
+ways of living and working. I am very encouraged by the recovery trajectory across the board and with
+our momentum. I am confident in our strategy and investments. I feel great about the innovation we are
+driving in our portfolio, and I'm incredibly proud of what our teams and partners have achieved. I look
+forward to building on these insights with a more comprehensive deep dive on our multiyear vision and
+strategic growth drivers at our virtual Investor Day on September 15, and I hope you'll join us.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+Thank you again for your time. And with that, I'll turn it over to Scott for additional detail.
+
+Richard Scott Herren
+Executive VP & CFO
+
+Thanks, Chuck. Our fourth quarter reflects a strong close to our fiscal year with significant momentum
+across our business. We saw robust customer demand, demonstrating the third consecutive increase in
+product order growth and solid execution by our teams. I'll provide some detail on our financial results for
+the quarter, then cover the full fiscal year, followed by our guidance.
+
+Q4 was a very strong quarter in a very dynamic environment. We executed exceptionally well with greater
+than 30% product order growth year-on-year and more than 17% order growth versus our pre-COVID Q4
+fiscal '19 product bookings, driven by strength across our portfolio. In fact, it was the strongest product
+order growth rate in over a decade. We also had strong results across revenue, net income, earnings per
+share, and as Chuck said earlier, record operating cash flows.
+
+Total revenue increased to $13.1 billion, up 8% year-over-year, coming in at the high end of our guidance
+range for the quarter. We saw strength in a number of product areas and across all geographies. Our
+business continued to recover well and build momentum with sequential revenue growth of 3%. Our
+non-GAAP operating margin was 33.5%, up 50 basis points. Non-GAAP net income was $3.6 billion, and
+non-GAAP earnings per share was $0.84, both up 5% year-over-year and exceeding the high end of our
+guidance range.
+
+Now let me turn to provide more detail on our Q4 revenue. Total product revenue was $9.7 billion, up
+10%. Service revenue was $3.4 billion, up 3%. Infrastructure platforms performed very well with revenues
+up 13%. All businesses saw double-digit growth with the exception of data center. Switching had strong
+growth driven by double-digit increase in campus switching, led by our Catalyst 9000 and Meraki switching
+offerings. We also had solid growth in our data center switching portfolio with the Nexus 9000 products.
+Routing grew driven by both the service provider and enterprise markets as we saw strong adoption
+across our portfolio, including robust uptake of our Cisco 8000 platform.
+
+Wireless had strong growth driven by the continued ramp of our WiFi 6 products and our Meraki wireless
+offerings. Data center revenue declined driven primarily by servers as we experienced continued market
+contraction. Applications were down 1% driven by a slight decline in our collaboration portfolio. However,
+recurring subscription revenue within our WebEx suite grew 9% in Q4. We also saw solid growth in IoT
+software, AppDynamics, cloud contact center and our cloud calling platforms.
+
+Security was up 1%. Our cloud security and Zero Trust portfolios performed well with greater than 20%
+growth as we had continued momentum in our Duo and Umbrella offerings. Our Security recurring
+subscription revenue grew 13% in Q4 and 18% for the full fiscal year. In both applications and Security,
+we are seeing strong revenue growth in the strategic areas that we and our customers are investing in.
+
+We continue to transform our business, delivering more software offerings and driving growth in
+subscriptions and recurring revenue. Software revenue was $4 billion, an increase of 6%. Subscriptions
+were 81% of total software revenue, up 3 points year-over-year. Software subscription revenue grew 9%
+in Q4 and 15% for the full fiscal year. As we continue to increase our software subscriptions, we're driving
+higher levels of recurring revenue.
+
+Additionally, the strength of our portfolio and transition to more software and services is driving growth in
+remaining performance obligations, or RPO. At the end of Q4, RPO crossed the $30 billion mark at $30.9
+billion, up 9%. RPO for product was up 18% and service was up 3%. Approximately 53% of the total RPO
+is short term, meaning it will be recognized as revenue in the next 12 months. As I mentioned, we had
+exceptionally strong order momentum in Q4 as total product orders were up 31% with strength across the
+business.
+
+Looking at our geographies. The Americas was up 34%, EMEA was up 24% and APJC was up 29%.
+Total emerging markets were up 25% with the BRICS plus Mexico up 37%. In our customer segments,
+commercial was up 41%; service provider was up 40%; enterprise returned to growth and was up 25%,
+while public sector was up 22%.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+Non-GAAP total gross margins came in at 65.6%, up 60 basis points year-over-year. Product gross margin
+was 65%, up 180 basis points. And services gross margin was 67.4%, down 240 basis points, which was
+in line with our expectations as we do see variability from quarter-to-quarter. The increase in product
+gross margin was driven by productivity improvements from lower freight and other costs, partially offset
+by relatively modest price erosion.
+
+As we discussed last quarter, we continue to manage through the supply chain constraints seen industry-
+wide due to component shortages. We've closely partnered with our key suppliers, leveraging our volume
+purchasing and extended supply commitments as we address the supply challenges and cost impacts,
+which we expect will continue at least through the first half of our fiscal year and potentially into the
+second half. Our #1 ranked global supply chain team continues to perform at a world-class level.
+
+When we look at the impact of acquisitions on our Q4 results year-over-year, there was a positive 210
+basis point impact on revenue and no material impact on our non-GAAP earnings per share. From a cash
+perspective, operating cash flow for the quarter was a record $4.5 billion, up 18% year-over-year, driven
+by strong cash collections. We ended Q4 with total cash, cash equivalents and investments of $24.5
+billion, up approximately $900 million sequentially.
+
+In terms of capital allocation, we returned $2.4 billion to shareholders during the quarter that was
+comprised of $1.6 billion for our quarterly cash dividend and $791 million of share repurchases. We
+continue to invest organically and inorganically in our innovation pipeline. During Q4, we closed 5
+acquisitions: Kenna Security, Socio Labs, Slido, Sedona Systems and Involvio. These investments are
+consistent with our strategy of complementing our internal innovation in R&D with targeted M&A to allow
+us to further strengthen and differentiate our market position in our key growth areas.
+
+Turning to the full fiscal year results. Overall, our financial results were solid in a very challenging global
+pandemic environment with strong operational execution. Revenue was $49.8 billion, up 1%. Total non-
+GAAP gross margin was 66.1%, up 10 basis points. And our non-GAAP operating margin was 33.5%, down
+30 basis points.
+
+From a bottom line perspective, our non-GAAP net income was flat at $13.6 billion and non-GAAP earnings
+per share was $3.22. We delivered operating cash flow of $15.5 billion, flat compared to fiscal '20. From
+a cap allocation perspective, we returned $9.1 billion in value to shareholders over the fiscal year, which
+represents 61% of our free cash flow. That was comprised of $6.2 billion in quarterly cash dividends and
+$2.9 billion of share repurchases.
+
+We also increased our dividend for the 10th consecutive year in fiscal 2021, reinforcing our commitment
+to return capital to our shareholders and our confidence in the strength and stability of our ongoing cash
+flows. We remain firmly committed to maintaining a strong balance sheet to fuel our organic and inorganic
+growth initiatives as well as continuing our cap allocation strategy by returning a minimum of 50% of our
+free cash flow to shareholders annually.
+
+To summarize, we had a great Q4 and a solid fiscal year with strong operational execution. We're seeing
+returns on the investments we're making in innovation and driving the continued shift to more software
+and subscriptions, driving more recurring revenue, delivering growth and driving shareholder value.
+
+Now let me provide our forward-looking guidance. We are pleased to initiate the additional practice of
+providing an annual outlook to complement our regular quarterly look ahead for fiscal year 2022. The
+successful transformation we've been executing around driving a higher proportion of our revenues
+from subscriptions, recurring and deferred revenue, is affording us additional visibility into our outlook
+for future growth. Please note, our guidance is subject to the disclaimer regarding forward-looking
+information that Marilyn referred to earlier.
+
+Our financial guidance for Q1 is as follows. We expect revenue growth to be in the range of 7.5% to 9.5%
+year-on-year. We anticipate the non-GAAP gross margin to be in the range of 63.5% to 64.5%, reflecting
+the continuing increase in supply chain costs we are incurring as we protect shipments to our customers.
+Our non-GAAP operating margin is expected to be in the range of 31.5% to 32.5%. Non-GAAP earnings
+per share is expected to range from $0.79 to $0.81.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+Our financial guidance for the full year fiscal '22 is as follows. We expect revenue growth to be in the
+range of 5% to 7% year-on-year. Non-GAAP earnings per share is expected to range from $3.38 to
+$3.45, also up 5% to 7% year-on-year. In both our Q1 and full year outlook, we're assuming a non-GAAP
+effective tax rate of 19%.
+
+Looking ahead, we're excited to host a Cisco virtual Investor Day on Wednesday, September 15, 2021,
+which we will webcast live, and hope you can join us.
+
+I'll now turn it back to Marilyn so we can move into the Q&A.
+
+Marilyn Mora
+Director of Global Investor Relations
+Thanks, Scott. Michelle, let's go ahead and queue up the Q&A line.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+Question and Answer
+
+Operator
+
+Samik Chatterjee from JPMorgan.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+I guess, Chuck, Scott, just wanted to kind of get your thoughts on getting -- in terms of the timing of
+getting a full year guide out here. I would think most other companies would have said this is -- with
+supply chain uncertainty, this is probably not the right time to get a full year guide out. So definitely
+appreciate the full year guide and kind of wanted to understand what's providing that higher visibility.
+You mentioned the transformation. But also, how is the -- how are the orders feeding into that visibility?
+And what are you kind of baking in, in terms of supply chain in that full year guide overall? How much
+of -- kind of, what you're baking in, in terms of headwind into that full year guide from a supply chain
+perspective?
+
+Richard Scott Herren
+Executive VP & CFO
+
+Yes. It's a great question, Samik. Thanks for that. It really is one of the benefits of the transformation
+we're making. As we move to more and more of a software and services and recurring revenue base, we
+have greater visibility. One of the stats that we just talked about is our remaining performance obligations
+of $30.9 billion, of which 53% of that will turn into revenue in the next 12 months.
+
+We also have a good feel for what other renewals are going to come up and what our renewal rate is as
+we work our way through this. So we have a pretty good sense of a big chunk of our revenue and how
+it's going to grow. We also have a good view of pipeline and what that looks like ahead. And one of the
+things that I would say about that pipeline is it's one of the -- it's -- we've seen year-on-year growth in
+the pipeline for Q1 better than we've ever seen in the last several years. So we see good growth in the
+pipeline as well. So it's -- when you add all that up, that's what gives us the confidence to give a full year
+guide.
+
+What I would say is, the -- to your question about supply chain and what's the assumption on supply
+chain, the way to think about that is that's the difference between the high end and the low end of the
+guide. We expect the supply chain to impact us through the first half of the year. And then at the low end
+of the guide, we think we continue to have supply chain impacts through most of the second half as well
+with some clear up at the end. At the high end of the guide, we think that we begin to clear up the supply
+chain issues, supply and demand comes back more into balance earlier in the second half.
+
+So that's the -- that's why we gave the full year guide. I think -- certainly, we have the confidence with
+the visibility we have and what's baked into that based on some of the uncertainties still out there with the
+supply chain.
+
+Operator
+
+Meta Marshall from Morgan Stanley Investment Research.
+
+Meta A. Marshall
+Morgan Stanley, Research Division
+
+Maybe coupling on to that question. Just how should we think about kind of the incremental 150
+basis point sequential gross margin decline in the guidance? And just how much of that is incremental
+supply chain impact? And would you expect to abate that through either price changes or supply chain
+improvement to improve that throughout the year?
+
+Richard Scott Herren
+Executive VP & CFO
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+Yes. Thanks, Meta, for that. What we -- when you look at the Q4 gross margin, obviously, it came in better
+than what we had expected and what we had guided to. And there was really favorable product mix built
+into that, some of that being driven by a good quarter for software, as you heard on the call earlier.
+
+Looking ahead, we've taken several steps to ensure that we can continue to have supply and deliver
+products to our customers. They're in the midst of their own transformations. They're all in the midst of
+doing the things they have to do to adapt to a world that's not only a hybrid work world, but one with the
+rise of the delta variant that it's added complexity. It's not a, "Hey, the world is going to go back to normal
+at some point. It's -- I need to continue to have this kind of flexibility ahead." We're trying to support
+that, and at the same time, the supply and demand imbalances and some of the key components around
+semiconductors and memory and some of the same things you hear from others of our peers. That turns
+into higher component costs as we buy from those suppliers.
+
+We are also to ensure even greater supply going to brokers to get additional supply from -- versus what
+we can get directly from our suppliers, and in some cases, qualifying second sources where we have
+to. Each of those obviously drives cost, and it takes a while for those costs. We've been in that process
+through Q4, and we'll be in it through Q1. It takes a while for those costs to flow through our standard
+costing system and show up in the cost of goods sold.
+
+There's a little bit of unfavorable product mix headwind as well in Q1 as we have a good sense of the
+products that don't have those same impacts that we will be able to ship that are sitting in backlog. So
+that's what's driving that sequential change. As you know, we did put in place a price increase. Very
+selective, very targeted, only on the products where we were seeing the higher component costs. That
+went into effect August 7. But we always honor quotes that are out there for 30 days beyond that pricing
+because many of those quotes were produced before the price increase was put in.
+
+So scroll 30 days ahead from August 7 before the first orders come in with those higher prices, and then
+it takes a while for those orders to come in, get built and shipped back out to customers and for us to
+realize the benefit of that on the top line. So think of those price increases as being something that we'll
+feel more of the benefit of in Q2 and Q3 versus what we see in Q1.
+
+Operator
+
+Paul Silverstein from Cowen.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Scott, to pick up on the previous 2 questions. If I look at your annual guidance, it's strong revenue.
+It's almost $1 billion above the consensus number. The EPS is more in line. It's slightly light, but not
+meaningfully. But the difference, obviously, is gross margin and/or OpEx. I appreciate that COVID's
+elevated your cost structure as well as all of your peers. Can you give us any granular insight in terms of
+translating the revenue upside that you're looking at that you're expecting relative to the more modest
+EPS outlook for the year in terms of gross margin versus OpEx?
+
+Richard Scott Herren
+Executive VP & CFO
+
+Yes. Paul, it really is gross margin-driven. And there's still -- there continues to be uncertainty and when
+the supply and demand gets back into balance on many of those components. That's why you see the
+range that we put out there at 5% to 7%, and that ripples through to the bottom line as well.
+
+I think that -- the only other comment I'd add on that front, I don't want to get into parsing it down to the
+various elements, at least at this point, but there's still uncertainty and given that uncertainty, and this
+being the first time we've given you annual guide. It's prudent. We're trying to be prudent with the guide
+we put out there as well.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+Scott, with respect to OpEx, is it your plan to grow OpEx more modestly than revenue? You're going to --
+you're looking at some pretty healthy revenue growth this year. Will you restrain your OpEx growth below
+revenue to try to drive some leverage?
+
+Richard Scott Herren
+Executive VP & CFO
+
+Yes. I'll start and, Chuck, you may want to add on to this. The way that you see the guidance laid out
+5% to 7% growth on the top line and 5% to 7% growth on the bottom line, we're looking at balanced
+profitable growth. And I think that's the way you should expect us to run the business going forward is
+balanced profitable growth. 5% to 7% on both the top and bottom line is a pretty strong performance,
+certainly relative to where we've been over the last few years. And so again, I don't want to get into --
+Paul, I know what you're poking at. I really don't want to get into parsing down the elements of that, but
+the core principle is balanced profitable growth.
+
+Charles H. Robbins
+Chairman & CEO
+
+Paul, can you ask -- I'm sorry, Paul. Go ahead.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Just one last question on this. Is there any reason why your cost structure from a gross margin
+perspective -- if we envision going back to the 21st century and getting beyond COVID, is there any
+reason why your gross margin structure would not go back to where it was, if not better? I recognize
+you've got mix and other factors that influence one way or the other from quarter-to-quarter. But as a
+general proposition, should we expect your gross margin structure return to what it was pre-COVID?
+
+Richard Scott Herren
+Executive VP & CFO
+
+That is our expectation, Paul, over time. I mean, again, I don't want to predict that for this fiscal year,
+just given some of the uncertainties in the supply chain. But it is our expectation that it gets back there.
+And over the longer term, as we continue to build a bigger mix of software into our revenue stream, that
+should also provide a bit of a tailwind to our margins.
+
+Operator
+
+Aaron Rakers from Wells Fargo.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+I wanted to kind of ask the supply chain question a little bit differently. As you see the order momentum
+and the pipeline build commentary that you laid out, obviously, is quite positive. How are you assessing
+kind of the perishability of demand? Are you seeing any signs where customers might be double ordering?
+Or how do you just think about that in the function of the guidance that you've laid out?
+
+Charles H. Robbins
+Chairman & CEO
+
+Yes. Aaron, this is Chuck. Thank you for that. Look, we expected to be asked about pull-ahead. I think
+there's a couple of things that I would say. We obviously can't calculate that directly. We've looked at
+several indicators, our pipeline analysis, channel orderings, our sales force opportunity movement, order
+cancellation rates, future pipeline build. And we don't see any signs of ordering well ahead of needs other
+than lining up with what our lead times are.
+
+And we have customers that are large carriers, large telcos, cloud players, who have 12-, 18- to 24-month
+capacity plans. And so they look at our lead times, and they are going to order into that based on what
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+they have. But we would not say there was a significant amount of pull-ahead other than dealing with the
+lead times.
+
+And the other thing that I would just highlight is that, Scott pointed out earlier, after the real strong order
+growth we saw in Q4, we're sitting with the best start from a forecast pipeline perspective that we've had
+in several years. So that would lead us to believe that this is a trend that we should see continuing for a
+little while.
+
+Operator
+
+Tim Long from Barclays.
+
+Timothy Patrick Long
+Barclays Bank PLC, Research Division
+
+Could you just dig into the software angle a little bit? Numbers seem pretty strong, yet, the applications
+and security lines trailed a little bit on the product side. So could you just parse that through for us?
+
+And then second, just did want to follow up on that cloud piece that was so strong in the quarter. Chuck,
+any other color you can give on that? It sounded pretty broad-based, but I'm assuming some of your
+peers also, to the last question, saw a little bit more advanced -- more longer lead time orders. Or is there
+anything else in that huge cloud number?
+
+Charles H. Robbins
+Chairman & CEO
+
+Yes. Thanks, Tim. So on the applications front, we expected that you guys might want to ask about
+that. And there's a couple of things to keep in mind. In both applications and Security, the order rates
+were certainly higher than the revenue rates. So that's the first thing I would tell you. The recurring
+subscription portions within each of those businesses were also very positive. As Scott said, in Security,
+within -- I mean, in collaboration within applications, WebEx suite, the recurring subscriptions within
+WebEx suite revenue was up 9% in Q4, 16% for the year. We had solid growth in IoT, AppD, cloud contact
+center and cloud calling.
+
+What's also in there, if you will recall, is there's phones and handsets and there's some on-prem software
+that's associated with collaboration, and some of those were impacted by supply chain. But the future
+growth areas actually for us looked really good.
+
+On the Security front, Cloud Security Zero Trust over 20%. The Security recurring subscription revenue,
+up 13% in Q4, up 18% for the year. So that was solid as well. And again, our next-generation firewall
+demand was really good. But some of the legacy products and the supply chain created a little bit of a
+revenue headwind there. But again, orders were stronger than the revenues. We would expect those to
+normalize over the next few quarters.
+
+As we get to webscale, look, this is a -- I have to tell you that preparing for this call, I reflected over the
+last 5, 6 years of having this discussion. And I always said that we would start talking about webscale
+when it was meaningful, and I guess I can now declare it meaningful. We made multiyear investments
+building the Cisco 8000 with new silicon, the optics and the software. And we had phenomenal growth.
+And it was 160% order growth this quarter over almost 30% order growth a year ago in the same quarter.
+
+And the customers are really adopting our entire portfolio, including the enterprise side, but over half
+of that business landed in their cloud infrastructure. We also see 400-gig taking off in -- and really in a
+meaningful way. I'll give you a couple of stats on that because someone's probably going to ask it.
+
+In Q4, 400-gig ports, our orders were up 668% and for the year, 400-gig port orders were up 831%. We
+have over 400 customers that have deployed, and we've taken orders for almost 180,000 ports total. So
+it's really moving forward. And I think those are the things that -- and we won several franchises in the
+cloud webscale space. We continue to do proof of concepts. We're in validation and certification stages and
+others. So we always said that we missed the first transition with these players and that we wanted to be
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+prepared for this next architectural transition, and I think our teams have done a great job putting us in a
+good position.
+
+Operator
+
+Rod Hall from Goldman Sachs.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+A lot of ports, Chuck, a lot of ports. So I have 2 questions for you. One is regarding the order growth. I'm
+curious about linearity there. The last time we saw free handle on that was back in 2010 when you guys
+were exiting the GST. But it seems like those orders could accelerate from here, and I'm curious whether
+you think that's a possibility or how probable an acceleration is from that 31% growth rate.
+
+And then I wanted to come back to this pricing commentary. And I'm curious what the durability of these
+prices is, what your intention would be once these component costs, these underlying costs go down.
+Will you flex these prices right back down again? Or do you expect this to sustain themselves a little bit
+longer? Just curious what you -- what your plan on pricing would be as these underlying costs change.
+
+Charles H. Robbins
+Chairman & CEO
+
+Yes. Let me start and I'll let Scott comment on the pricing issue as well. You asked a couple of questions
+there, Rod. On linearity, just to give you the quarter, it started hot and ended hot, right? It was from day
+1 to the end. So this was not like we were 5% growth till the last month and then it accelerated. It was
+pretty consistent throughout the entire quarter.
+
+You mentioned the ability to accelerate. I certainly wouldn't expect 31% order growth to be the new
+standard. But I think that there are certainly going to be -- it just feels like our customers are dealing
+with -- they're coming out. They're making decisions about modernizing their infrastructure and their
+technology assets to deal with this new hybrid work. And I think now what they're seeing is with the delta
+variant, they're understanding that this may not be one move back to the office, right? This is going to
+-- they have to -- they're going to have to be resilient. They're going to have to build adaptability in for
+future because we could have the next variant 6 months from now. And I think that's what customers are
+thinking through right now.
+
+The comment I'd make on pricing, and then I'll let Scott talk about the durability of them is, one thing that
+-- as we talk about gross margin in the quarter we just finished, the pricing element of gross margin was
+actually at the very low end of our normal range, which means we're holding pricing with our sales teams,
+which is a good sign right now. So once these things start flowing through, if that trend continues, then
+we would certainly see the favorable impact that we expect. Scott?
+
+Richard Scott Herren
+Executive VP & CFO
+
+Yes. I think that's right. I think, Rod, the other way that I'd ask you to think about the price increases
+we just announced on August 7. Those are really -- they're not motivated by driving top line as much as
+they're motivated by offsetting some of the cost increases we're seeing.
+
+Now there's a lag effect, right? It's going to take time before we see those prices show up actually in our
+revenue stream, but they're really motivated by that. And so we'll continue to assess as we always do,
+if we need to make another price adjustment, up or down. We'll continue to make those assessments
+going forward. So it's -- don't think about them as being motivated, though, by top line drivers. It's really
+motivated by offsetting some of the higher costs that we're seeing.
+
+But the other thing I would just close on this one is that we have a price increase methodology that we
+deploy on a regular basis for different portfolios. We just don't talk about on earnings calls every time.
+But we -- so this is a muscle we have that we actually use on a fairly regular basis when the conditions
+warrant it.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+Operator
+
+Sami Badri from Credit Suisse.
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research Division
+
+My first question is on your gross margins and just the costs of products. And the question really is just
+around how much of these cost inputs can Cisco control versus how many of them are not controllable at
+all, right? So that's kind of the first question.
+
+And then the second question is, going back to some of your wins with the Series 8000, how much of
+these wins are completely new deployments versus you going head-to-head with an incumbent or going
+head-to-head with other competing vendors for those deployments, right, or existing replacement or new
+deployments? And that would be great.
+
+Richard Scott Herren
+Executive VP & CFO
+
+Sure, Sami. I'll start on the cost of goods sold. It's overwhelmingly driven by the component costs and the
+contract manufacturing costs to do the various levels of assembly inside there versus something that we
+have the ability to flex up or down. So I would think of that as being significantly driven by some of the
+factors that we've talked about with the imbalance of supply and demand.
+
+Charles H. Robbins
+Chairman & CEO
+
+And Sami, on your second question, it's really difficult to say which ones are new, which ones did we
+compete with an incumbent. But I will tell you, we're competing with incumbents on every one of them
+because -- I mean, even if it's a new architecture, they're building, they have incumbents who are
+certainly competing with us. These are all super competitive. And our teams have built some great
+technology.
+
+And so it's -- and to -- and the cloud providers, they like diversity in their supply chain. They like diversity
+from a supplier perspective. And one other data point I meant to give earlier when Tim asked about the
+cloud business that we gave on the call last time I want to make sure we share with you again, webscale
+comprised 30% of our service provider segment from an orders perspective for the quarter.
+
+Operator
+
+Simon Leopold from Raymond James.
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc., Research Division
+
+I think you've sort of alluded to 31% order growth not being sustainable. Can you give us some idea of
+what you see as really the sustainable or more normalized level? And also, if you could comment on your
+purchase order commitment because I've assumed that the substantial commitments you've made help
+you lock in and secure pricing when you made those commitments and represents, I guess, a way of
+controlling the headwind as we think about the full year model. I want to make sure I'm understanding
+that correctly.
+
+Richard Scott Herren
+Executive VP & CFO
+
+Sure. I'll start on the second part of that, and then I'll let Chuck weigh in on the order growth. Clearly,
+as we locked in some of that -- some of the work that we did on supply, and particularly going after
+components that are particularly at an imbalance between supply and demand, we locked in both, right?
+We looked at both the costs that would come in for that and what the committed delivery schedule was on
+those. So we have a good sense of that for a subset of our components.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+There's still going to be fluctuation in some areas. Memory is a good example where there's going to
+continue to be fluctuation in pricing, and we'll continue to monitor that. You saw us -- you've seen us in
+the past make price adjustments based on memory cost increases, and I would expect that to be kind of
+an ongoing process there. But for the ones that we locked in, which are the -- I think, the ones that are
+-- have the greatest imbalance and the highest demand both for us and for our competitors, we locked in
+both from that standpoint.
+
+Charles H. Robbins
+Chairman & CEO
+
+Yes. And on the order side, that's a difficult question to answer. What I would say is that it's the first time
+we've given long-range guidance or annual guidance on both revenue and EPS. We have the Investor Day
+coming up on the 15th, where we're going to talk about the key growth drivers in our business, and we're
+also going to begin to share new metrics that will give you a flavor of the business in a different way. So I
+think that's what -- as we spend time on that day, I think the drivers of growth will be clear to you. And I
+think the bookings will only be one metric that we'll look at relative to future performance.
+
+Operator
+
+Fahad Najam from MKM Partners.
+
+Fahad Najam
+MKM Partners LLC, Research Division
+
+In terms of the order strength, do you have any way of parsing out any kind of double ordering or forward
+pull-in orders from your customers? And have you adjusted for that? And I have a follow-up.
+
+Charles H. Robbins
+Chairman & CEO
+
+So Fahad, as I said earlier, we -- what we've looked at is we've compared a lot of the -- our pipeline pull-
+ahead activity. We've looked at our future pipeline. We've looked at order cancellation rates, and we just
+don't see anything. So based on what we know now -- we certainly think customers are placing orders
+further in advance because of lead times, which is just logical, but that's basically -- when you see the
+order growth we saw in Q4 and then you see the forecast pipeline that we see going forward, it would
+suggest that there's still a fair amount of demand out there.
+
+Richard Scott Herren
+Executive VP & CFO
+
+Fahad, we're staying on top of that as much as possible, as you can imagine. And Chuck talked earlier
+about some of the data points we're looking at to try to get a feel for it. Order cancellations would be one
+indication of double ordering from us and another party. That's order cancellation rates have actually come
+down modestly. Return rates, looking at the pipeline and the pipeline growth. So we're not seeing it at any
+material level.
+
+I think the other thing -- the other data point we gave is the growth of commercial. So if you look at the
+orders -- the overall order growth, commercial was up 41%. And I think where you might expect to see
+some of what you're talking about is actually in the enterprise segment or NSP. And we saw significant
+growth in commercial. And I don't think you'd expect to see as much of that kind of a double ordering
+process happen in that customer size.
+
+Fahad Najam
+MKM Partners LLC, Research Division
+
+Appreciate that. Chuck, if I could ask you a big-picture question. Before COVID-19 happened, I think you
+had mentioned that for the first time, virtually every product line in Cisco that your products have been
+refreshed. To the extent, how much of the strength you're seeing is a function of product refresh cycle that
+is taking place across all your product lines versus total new growth? For example, like edge cloud, which
+I think is going to be a total new network growth architecture that's never been deployed before, so kind
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+of like the new phase of growth. So how much of the strength you're seeing is a function of this refresh
+versus kind of a new phase of growth in your net business?
+
+Charles H. Robbins
+Chairman & CEO
+
+Yes. What I would say is there are several transformations that are occurring or transitions that are
+occurring across our customer base that we're just well positioned for. I mean if you think about
+what's happened with 5G and WiFi 6, this whole move now to hybrid work, the whole re-architecting of
+infrastructure to support hybrid cloud, this 400-gig transition that we spoke about earlier, I mean these
+are all things that we have been working on our portfolio.
+
+So I think the refreshed portfolio and the new innovation that has been brought forward is just timely
+because we're on the front end of some of these big transitions that we've been talking about for several
+years. So I think that's really what's driving it.
+
+The teams have -- at the Investor and Analyst Day on the 15th of September, we're going to have our
+engineering leaders talking about what all they've done and what the future looks like and what the
+innovation pipeline looks like. And I feel really good about what they've built, but we have a lot of plans
+for new technology and new capabilities.
+
+Operator
+
+James Suva from Citigroup Global Markets.
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+It's Jim Suva. I had one question. The long-term full year outlook of sales and EPS is greatly appreciated.
+And I noticed that's a big difference and shows a lot of conviction. But on the EPS, normally, you also have
+some stock buyback going in. But some companies include stock buyback in their EPS guide, some don't.
+So what I'm wondering is on your EPS guide, does it include some normal stock buyback? I know this
+year was different when you bought Acacia for about $4.5 billion and COVID and such. But I'm just kind
+of wondering about how we should think about that EPS? Does it include stock buyback? Or what are the
+components of the EPS growth that match sales?
+
+Richard Scott Herren
+Executive VP & CFO
+
+That's a great question, Jim. It only assumes that we -- our share buybacks offset dilution. So think of
+that -- as you do in your own modeling, think of the share count to be roughly flat to where it ends this
+year.
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+Thank you so much for the clarification. It's great to hear all the details.
+
+Richard Scott Herren
+Executive VP & CFO
+
+Thanks, Jim.
+
+Operator
+
+Jeff Kvaal from Wolfe Research.
+
+Jeffrey Thomas Kvaal
+Wolfe Research, LLC
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+I'm hoping to get a little bit of clarification into the software growth trajectory. Yes, it sounds like it's a
+great year overall, the fourth quarter maybe you can close as well as you'd like. And if we could talk about
+what the trajectory we should expect for software growth in 2022, that would be splendid.
+
+Charles H. Robbins
+Chairman & CEO
+
+I'll start with some color and then, Scott, you can chime in. I think -- look, we continue to add more
+software capabilities across the portfolio. We continue to transition -- we've transitioned a lot of our
+portfolio to subscription-based even for the hardware side of the business. Most of the acquisitions that we
+do come in as subscription or SaaS software businesses. So we would expect to continue just this move
+towards it becoming a greater percentage of our portfolio.
+
+And in the next couple of years, we think we also will see some of the renewal volume will start kicking
+in on top of it as well. But it's already -- the transformation has already made a big difference. Scott and
+I were looking at last quarter when we did guidance for Q4. Having the software revenue that came off
+the balance sheet significantly altered positively what we were able to guide from a revenue perspective
+in Q4 versus what we would have done 5 or 6 years ago. I mean it was meaningful. And so we're going to
+continue to invest in this capability. We're going to continue to drive software. It's a huge important part of
+the business. Teams have done a great job. Scott?
+
+Richard Scott Herren
+Executive VP & CFO
+
+Yes. Jeff, what I'd say is that $4 billion of software revenue over the last 90 days, we're one of the biggest
+software companies in the world. I mean annualize that or look at the trailing 12 months makes us
+certainly somewhere in the top 10 in software companies in the world. We posted 6% overall growth and
+9% growth in subscriptions even off that base. So I think the software business is actually doing quite well
+for us.
+
+If what's underneath your question is what you saw in applications, I'll go back to what we said earlier
+about what's happening in applications. Underneath that, you got to remember, that includes the entire
+Collaboration portfolio. So not just the software pieces and not just the recurring software pieces, there's
+hardware elements there. There's some legacy on-prem elements there. Both of those were headwinds. In
+the subscription software revenue piece of both applications and Security, we saw double-digit growth. We
+had nice growth year-on-year for the full year in both of those. So I actually feel good about where we're
+headed on that.
+
+Jeffrey Thomas Kvaal
+Wolfe Research, LLC
+
+Great. And then a quick clarification. Do you all plan to update the annual guidance every quarter for us?
+
+Richard Scott Herren
+Executive VP & CFO
+
+We'll assess it every quarter and update as needed. The big variable in there, of course, is what happens
+with supply chain and when do we start to see a little more balance come to supply and demand across
+some of our key components. And I think that will dictate when we've got a good view for updating.
+
+Operator
+
+Ben Bollin from Cleveland Research.
+
+Benjamin James Bollin
+Cleveland Research Company
+
+I also want to focus a little bit on software. A few specific items. The first I'm curious how you think about
+your average contract duration and what you're seeing on kind of average invoice duration as you shift
+more to software. Any high-level implications you see for cash flow over time?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+The second item is curious if you've seen any trends with early renewals from the early D&A customers,
+what's happened at those renewals? And then the last piece, how do you think about longer term, making
+sure you're driving good utilization and consumption of the software licenses within the customer base?
+
+Charles H. Robbins
+Chairman & CEO
+
+You want to take the first?
+
+Richard Scott Herren
+Executive VP & CFO
+
+Yes. Okay. You managed to get in 3 there here, Ben, on the 1-question limit. I'll talk a bit about duration
+first. You see -- in our remaining performance obligations, you see the nice growth. $30.9 billion in total
+RPO is a record for us. What I'd say is underneath there, the short term is about 53% of that. They're
+growing somewhat balanced, slightly more growth in long term than in short term, but that's what you'd
+expect given that many of the -- remember in the short term is just the next 12 months or the first year.
+The long term is anything beyond that. So it's not surprising to see long term grow a little bit more. We're
+not seeing a big change in duration overall.
+
+And maybe I'll go ahead and hit the last one, Chuck, and then leave the D&A question for you. As we look
+at the renewal rates and the actions we have to take, our renewal base is obviously growing and becoming
+much more important to us ahead. And obviously, renewals are dependent on adoption. So we put in place
+very specific processes to understand where our customers are on usage and on adoption. And you got to
+-- if you don't drive the adoption, you don't get the renewal. And so we're attacking it at that level. I think
+the team has done a nice job getting some headlights on that, some early warning and getting ahead of
+ensuring that we actually get the adoption we need.
+
+Charles H. Robbins
+Chairman & CEO
+
+Yes. And that's connected to the D&A renewal thing because we actually have customer service -- I mean
+customer success specialists that are in the field that are working with customers every day. We've got
+virtual inside organization also doing customer success. So the adoption piece is really important.
+
+As it relates to D&A, the -- we've had sort of a handful in the first half of this year of those renewals
+that will come through. There's a little bit more in the second half. And in fiscal '23 is where it's actually
+a much more meaningful number. And our teams have been working on the underlying processes, the
+metrics, the process, the systems, measurements. And the engineering teams have been working really
+hard on continuing to evolve the offer to ensure that there's enough innovation going forward that will
+optimize our opportunity on the renewal side of it.
+
+So it's a bit early, and I'd say maybe second half of next year, we can -- or this fiscal year, we can give you
+a little more on that. And then into fiscal '23 is when it's a decent sized number.
+
+Marilyn Mora
+Director of Global Investor Relations
+
+Chuck, do you want to come with some closing remarks or I can close it up?
+
+Charles H. Robbins
+Chairman & CEO
+
+I'll close and I'll hand it to you. So I'm really proud of our team. I'm really proud of the performance, and
+we're certainly pleased with the demand that we've seen. I'm super happy with the transformation. We
+believe our investments are paying off, our software business, the work we're doing with the webscale
+and the cloud providers and across the portfolio. I think our technology will help our customers deal
+with this emerging focus on resiliency and agility and adaptability. And then most of all, I want to thank
+our teams for the incredible execution, not only in Q4, but over the last 12 to 18 months during a very
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+complicated time. And I'd like to also just remind you and encourage you all to join us on September 15
+for the Investor Day. Thank you.
+
+Marilyn Mora
+Director of Global Investor Relations
+
+Thanks, Chuck. So Cisco's next quarterly earnings conference call, which will reflect our fiscal 2022 first
+quarter results will be on Wednesday, November 17, 2021, at 1:30 p.m. Pacific Time, 4:30 p.m. Eastern
+Time.
+
+Again, I'd like to remind the audience that in light of Regulation FD, Cisco's policy is not to comment on its
+financial guidance during the quarter unless it is done through an explicit public disclosure.
+
+We will now plan to close the call. If you have any further questions, feel free to contact the Cisco Investor
+Relations group. And we thank you all very much for joining today's call.
+
+Operator
+Thank you for participating on today's conference call. If you would like to listen to the call in its entirety,
+you may call 1 (800) 388-4923. And for participants dialing from outside the U.S., please dial 1 (203)
+369-3800. This concludes today's call. You may disconnect at this time.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+CISCO SYSTEMS, INC. FQ4 2021 EARNINGS CALL |  AUG 18, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+

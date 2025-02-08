@@ -1,0 +1,1480 @@
+Verisk Analytics, Inc. NasdaqGS:VRSK
+FQ4 2019 Earnings Call Transcripts
+Wednesday, February 19, 2020 1:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2019-
+
+-FQ1 2020-
+
+-FY 2019-
+
+-FY 2020-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+1.12
+
+1.13
+
+0.89
+
+1.14
+
+4.37
+
+4.38
+
+0.23
+
+4.84
+
+670.50
+
+676.80
+
+0.94
+
+683.59
+
+2600.26
+
+2607.10
+
+0.26
+
+2837.54
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Feb-19-2020 3:48 AM GMT
+
+FQ1 2019
+
+FQ2 2019
+
+FQ3 2019
+
+FQ4 2019
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.03
+
+1.10
+
+1.13
+
+1.12
+
+1.03
+
+1.10
+
+1.12
+
+1.13
+
+0.00 %
+
+0.00 %
+
+(0.88 %)
+
+0.89 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+11
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Eric Schneider
+Chief Technology Officer
+
+Lee M. Shavel
+Executive VP & CFO
+
+Mark V. Anquillare
+Executive VP & COO
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Stacey Jill Brodbar
+Head of Investor Relations
+
+ANALYSTS
+
+Jeffrey Marc Silber
+BMO Capital Markets Equity
+Research
+
+Jeffrey P. Meuler
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Joseph Dean Foresi
+Cantor Fitzgerald & Co., Research
+Division
+
+Andrew Charles Steinerman
+JP Morgan Chase & Co, Research
+Division
+
+Keen Fai Tong
+Goldman Sachs Group Inc.,
+Research Division
+
+Andrew Owen Nicholas
+William Blair & Company L.L.C.,
+Research Division
+
+Kevin Damien McVeigh
+Crédit Suisse AG, Research Division
+
+Andrew William Jeffrey
+SunTrust Robinson Humphrey,
+Inc., Research Division
+
+Manav Shiv Patnaik
+Barclays Bank PLC, Research
+Division
+
+Toni Michele Kaplan
+Morgan Stanley, Research Division
+
+William Arthur Warmington
+Wells Fargo Securities, LLC,
+Research Division
+
+Ashish Sabadra
+Deutsche Bank AG, Research
+Division
+
+Charles Gregory Peters
+Raymond James & Associates,
+Inc., Research Division
+
+Gary Elftman Bisbee
+BofA Merrill Lynch, Research
+Division
+
+Hamzah Mazari
+Jefferies LLC, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+Presentation
+
+Operator
+
+Good day, everyone, and welcome to the Verisk Fourth Quarter 2019 Earnings Results Conference Call.
+This call is being recorded. [Operator Instructions] At this time, for opening remarks and introduction, I
+would like to turn the call over to Verisk Head of Investor Relations. Stacey Brodbar. Ms. Brodbar, please
+go ahead.
+
+Stacey Jill Brodbar
+Head of Investor Relations
+
+Thank you, Sarah, and good morning, everyone. We appreciate you joining us today for a discussion
+of our fourth quarter and full year 2019 financial results. Today's call will be led by Scott Stephenson,
+Verisk's Chairman, President and Chief Executive Officer, who will provide a brief overview of our business.
+Eric Schneider, Chief Technology Officer, will then provide an update on our technology strategy, including
+our cloud migration. Lastly, Lee Shavel, Chief Financial Officer, will highlight some key points about our
+financial performance. Mark Anquillare, Chief Operating Officer, will join the team for Q&A.
+
+The earnings release referenced on this call as well as the associated 10-K can be found in the Investors
+section of our website, verisk.com. The earnings release has been attached to an 8-K that we have
+furnished to the SEC. A replay of this call will be available for 30 days on our website and by dial-in.
+
+Finally, as set forth in more detail in today's earnings release, I will remind everyone that today's call may
+include forward-looking statements about Verisk's future performance. Actual performance could differ
+materially from what is suggested by our comments today. Information about the factors that could affect
+future performance is contained in our recent SEC filings.
+
+Now I will turn the call over to Scott.
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Thanks, Stacey. Good morning, everyone.
+
+I'm pleased to share that '19 was another strong year for Verisk, marked by solid financial results while
+we continued to invest for future growth. Normalizing for the revenue impact of the injunction related to
+our Root measurement solutions, we've delivered organic constant currency revenue growth of 6.9% and
+organic constant currency adjusted EBITDA growth of 7.7%, demonstrating organic margin improvement
+in 2019. Moreover, our growth was driven by broad-based strength across our insurance vertical and
+marked improvement in energy and specialized markets.
+
+The consistency of our growth comes from 4 sources: first, intimacy with our customers; second, ever
+deeper levels of integration between our solutions and their environments; third, a steady stream of
+innovative new solutions; and fourth, the cross-sell of existing solutions to existing customers.
+
+Within Insurance, we continue to enjoy strong market uptake of our platform to analytic environments
+including LightSpeed for automated underwriting and Touchstone for catastrophe modeling. These
+solutions are being well received by both the traditional P&C insurers as well as the InsurTech start-ups,
+who need data analytics to effectively price and sell in a competitive market. We've experienced great
+success with the InsurTech segment with more than 100 new sales wins in 2019 alone.
+
+Our Energy and Specialized Markets segment delivered improved growth in 2019, driven by particularly
+strong results in our market and cost intelligence solutions as well as improvements within our core
+research at Wood Mackenzie. In addition, we delivered strong top line growth and improving profitability
+from our breakout areas, including the Lens platform and our chemicals and energy transition solutions.
+As always, we are in close conversation with our customers as they navigate the near-term macro
+environment.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+In Financial Services, 2019 was a year of transition as we evolved from a tops-down orientation to a
+bottoms-up approach with an emphasis on steady growth. Along that journey, we took a very deep look
+at all our solutions in Verisk financial solutions and concluded that our data hosting business, what we
+call Argus data warehouse, no longer aligns with our core business model. As such, earlier this month,
+we entered into an agreement to transition the Argus data warehouse by transferring approximately 50
+people and licensing our intellectual property to a partner so that we could focus on data analytics. We
+believe this transaction will position the Financial Services segment for stronger growth and higher levels
+of profitability going forward.
+
+Continuing on the strategic front, on February 1, Verisk closed on the previously announced sale of our
+aerial imagery sourcing group to Vexcel Group. This transforms Geomni into an asset-light operation with
+a focus on advanced data analytics. Moreover, it meaningfully reduces the cost structure of our Geomni
+business while giving us access to the leading U.S. image library along with favorable economics.
+
+Regarding our roof measurement solution, we have applied for a patent on our new technology for roof
+measurement while continuing with our plan to appeal the recent court decision.
+
+On February 14, we closed on the sale of our compliance background screening business. This business
+was in the claims subsegment of our Insurance business. This transaction will allow us to continue to have
+access to this important data set but in a more capitally efficient manner.
+
+Together, these 3 portfolio changes are examples of how we are actively managing our mix of businesses
+to capitalize on our competitive advantages and stay close to our proven business model of offering
+platform to analytics solutions and unique analytic objects. These moves position Verisk for continued,
+long-term sustainable growth and improving returns on capital.
+
+On the strategic acquisition front, in December, we acquired FAST, a leading SaaS company for the life
+insurance and annuity industry. FAST offers a modular, flexible policy administration system that allows
+life insurance companies to modernize legacy systems in stages and without a large upfront capital
+commitment. It also provides a channel for Verisk to deliver our new analytic objects to the life insurance
+industry. Adding FAST to the Verisk portfolio is a strong step forward as we make advances into the life
+insurance market. The software intensity of our overall business has increased over the years, and we are
+excited about the opportunity for FAST software to deliver our analytics and embed more deeply into life
+insurance customers' workflows. I'm pleased with the early steps towards integration with FAST.
+
+Another key strategic initiative for Verisk is our journey to migrate to the cloud, what we refer to internally
+as cloud first. We have made significant progress on this campaign and are poised to keep the momentum
+going. When we first started this journey in earnest 2 years ago, we saw customer feedback and listened
+carefully to their concerns. Today, in all of my discussions with CEOs of our customers across all of our
+verticals, there's full support of our migration to the cloud as our customers realize the benefits of Verisk's
+faster pace of innovation and our ability to enter new geographies more quickly. Eric Schneider, our
+Chief Technology Officer, will discuss with you in more detail our cloud migration and broader technology
+strategy.
+
+2019 was also a milestone year for our ESG objectives. We became a participant in the UN Global
+Compact, the world's largest sustainability initiative, which encourages companies to align their operations
+and strategies around universally accepted principles in the areas of human rights, labor, environment and
+anticorruption. We view participation as an extension of the vision and principles represented by our Verisk
+way and an appropriate calling card as our business grows and embraces all geographies, cultures and
+people. Several Verisk businesses work with UN-sponsored initiatives addressing human rights and climate
+weather issues by contributing data analytics, professional insight and scientific expertise. Additionally, the
+Global Compact distinguishes Verisk with customers and prospects and sets an example for our suppliers
+and business partners.
+
+On the environmental front, we again reported to the Carbon Disclosure Project or CDP. And for the
+second consecutive year, we balanced 100% of our reported scope 1 and 2 emissions and scope
+3 business air travel with the purchase of energy attribute certificates and carbon offsets. We're
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+committed to reducing our emissions and have continued to do so through office consolidations, building
+improvements and greater data processing efficiency.
+
+In the fourth quarter, we named Pat McLaughlin as our Chief Sustainability Officer, a first for Verisk,
+reporting directly to me. Pat and I have worked together for nearly 20 years. And in that time, Pat led
+a major business unit for us. His depth with the company gives him intimate knowledge of who we are
+and what we value. And so in 2014, I asked Pat to work with leadership and employees across Verisk to
+build a framework for understanding and addressing our impact on society, including the environment.
+He is championing sustainability efforts across our operations and advancing initiatives for measuring and
+reporting Verisk in the context of sustainability.
+
+I would also like to publicly welcome Laura Ipsen to our Board of Directors. Laura joined us at the end
+of 2019 and brings with her more than 25 years of experience working as a technology executive at
+Microsoft, Cisco and Oracle, yielding a deep knowledge of the cloud, artificial intelligence and SaaS
+business models. Laura becomes the fourth women serving on Verisk's Board of Directors and also our
+fourth new Director in the past 5 years.
+
+Finally, I'm pleased to announce that our Board of Directors has approved an 8% increase in our cash
+dividend to $0.27 per share this quarter and has also increased our share repurchase authorization by
+$500 million. These actions underscore confidence in the stability of our business, its profitability and its
+cash flows. Our core position within our 3 verticals is sound, and we are confident in our ability to deliver
+on our strategies to drive long-term shareholder value as we focus on serving our customers while also
+investing in market-leading innovation and our people.
+
+So with that, let me turn it over to Eric to provide some insight into our technology strategy.
+
+Eric Schneider
+Chief Technology Officer
+
+Thank you, Scott.
+
+Technology is mission-critical to our business. And as such, we are continually working to optimize our
+technology environment and are always striving to be best in class. Working in partnership with our
+business units, we have identified 4 strategic areas of equal importance, dedicating much of our focused
+energy to them as we believe these are the areas most impactful for driving growth and efficiency in our
+business. The 4 areas are: first, data stewardship; second, analytics; third, our cloud-first strategy that
+Scott referenced; and fourth, our people. I'd like to take a few minutes to describe each of these and what
+we are doing.
+
+Let me start with data stewardship. One of our key distinctives is our unique data assets as data is the
+core of everything we do. Within this area of strategic focus, we are advancing how we protect data,
+how we acquire new data assets and how we process data more efficiently. Our relentless focus on data
+stewardship continuously increases the usefulness of our data and analytics for our customers. To reach
+the next level, we recently added the role of chief data officer in each of our industry verticals. This role
+is responsible for driving our data agenda. Together, our 3 chief data officers are sharing best practices
+across verticals to amplify the value of our data.
+
+More specifically, the chief data officers are identifying new and valuable data assets, making our assets
+more usable, improving and unifying data stewardship, modernizing our data processing pipelines and
+standardizing data governance across the enterprise. For example, they champion the standardization and
+adoption of data protection methods like tokenization for sensitive information across our broad portfolio
+of products. For new data sets, our chief data officers discover and align both internal and partner data
+for valuable business applications. They are leading with cloud-based architectures to speed up data
+processing times for faster consumption by our customers. And finally, they continuously add higher
+quality data assets with more coverage, actively improve data quality and use cutting-edge techniques like
+artificial intelligence and machine learning to link our data assets.
+
+Improved data assets with strong governance form the basis of our analytics portfolio, which I would like
+to speak about next.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+On the analytics front, we are pushing the envelope by bringing advanced analytics and machine learning
+techniques to solve the business challenges facing our customers. We successfully partnered with
+regulators to enable the use of machine learning techniques to improve analytical outcomes. We are
+developing novel methods to leverage unstructured data sets, such as images and audio, in conjunction
+with our already differentiated structured data assets to further improve their value. Our AI and machine
+learning center of excellence, together with our business units, leverage our university partnerships to
+bring research and advanced techniques quickly and efficiently into our solutions for our customers. Our
+team's focused on accelerating our innovation process and leverage our analytics platform to explore
+scores of ideas through quick proofs of concepts, such that we are focusing our energies on ideas that
+quickly gain market traction.
+
+Now let's turn to our cloud-first strategy. We are well underway on our journey to the cloud. We are
+multi cloud-enabled and have workloads running in all leading cloud providers. Approximately 1/3 of our
+compute environment is currently running in the cloud. Our multi-cloud strategy aligns our migration
+approach with our customer requirements when and where necessary, and the pace of our migration
+continues to meet our customers' expectations. We are leading the migration via our centralized cloud
+center of excellence, which is offering advanced capabilities to our businesses in the areas of cloud
+architecture, financial management, security, operations and training. Each of our businesses in all 3
+verticals actively engage and work closely with our center of excellence to ensure a secure, timely and
+cost-effective migration takes place.
+
+A significant benefit of our move to the cloud is our ability to reduce and forecast our compute costs. In
+the cloud, our unit costs are reduced and are linear, in lockstep with our utilization of cloud services. We
+are taking advantage of near infinite compute capacity by flexing and contracting in direct response to
+demand by both scaling horizontally for peak periods and contracting, turning environments off when not
+needed. Let me share an example of an environment we have moved from on-premise data centers to the
+cloud and the benefits we are realizing.
+
+Our telematics platform, which houses over 100 billion miles of driving data, has been completely
+rearchitected to enhance the quality and timeliness of the analytic provided to our customers. By moving
+to the cloud, we have reduced processing cycle time while, at the same time, reducing costs, offering an
+overall improved experience for our customers or our telematics solutions. As we move forward, we will
+incur transitional costs associated with rearchitecting and optimizing our solutions to best benefit from
+cloud platforms.
+
+Fourth, and perhaps most importantly is our people. Our talent access is superior globally, and we
+continue to build and attract world-class talent in both our data science and cloud disciplines. Data
+scientists and cloud architects want to work with us because we have some of the most interesting
+business problems to solve, and we are doing so in the cloud. Our data science excellence program is an
+immersive 4-plus year rotational training program that brings the brightest talent from top schools to
+Verisk and exposes them to our customers' business challenges as meaningful contributors to our analytic
+teams. And from a cloud perspective, we are advancing the cloud skills of our people. Our teams have
+obtained hundreds of cloud certifications, and we plan to double that number in 2020. In addition, we
+have augmented our internal teams by attracting experienced cloud professionals in the areas of cloud
+architecture, security and development operations.
+
+We continue to invest and optimize in all 4 of these strategic initiatives and are confident in the value they
+are bringing to our people, to our customers and to Verisk overall. Now let me turn the call over to Lee,
+who will provide an update on our financials.
+
+Lee M. Shavel
+Executive VP & CFO
+
+Thanks, Eric. First, I would like to bring to everyone's attention that we have posted a quarterly earnings
+presentation that is available on our website.
+
+Moving to the financial results for the quarter. On a consolidated and GAAP basis, revenue grew 10.2%
+to $677 million. Net income decreased 9.6% to $132 million while diluted GAAP earnings per share
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+decreased 8% to $0.80 for the fourth quarter of 2019. The year-over-year decrease in GAAP net income
+and EPS is primarily the result of acquisition-related earnout expenses of $28 million as many of our
+acquisitions are on target to achieve payments for strong performance. In addition, a higher effective tax
+rate due primarily to higher option exercises in the prior year period related to expiring options associated
+with our IPO 10 years ago reduced net income and EPS in the quarter.
+
+Moving to our organic constant currency results. Adjusted for nonoperating items, as defined in the non-
+GAAP financial measures section of our press release, we believe that our operating performance remains
+solid. On an organic constant currency basis, and including the impact of the injunction, Verisk delivered
+revenue growth of 5.4% for the fourth quarter of 2019. Growth was led by the Energy and Specialized
+Markets segment, which was our fastest-growing segment for the second consecutive quarter. Insurance
+also delivered solid growth, while Financial Services results were stable.
+
+Organic constant currency adjusted EBITDA growth was 9%, reflecting leverage from organic growth
+across all 3 segments. Total adjusted EBITDA margin for the quarter was 47.1%, flat with the prior year
+period, including substantial investment. This total adjusted EBITDA margin includes both organic and
+inorganic revenues and adjusted EBITDA. Normalizing for the revenue impact of the injunction, organic
+constant currency revenue grew 6.3%, organic constant currency adjusted EBITDA increased 11% and
+total adjusted EBITDA margin expanded to 47.5%. Moreover, on an organic basis, and particularly on
+the pre-investment organic basis that we've discussed before, we saw margin expansion in all 3 of our
+segments, demonstrating the exceptional operating leverage at the core of our businesses.
+
+On that note, let's turn to our segment results on an organic constant currency basis. As you see in
+the press release, Insurance reported 5.2% revenue growth while adjusted EBITDA increased 6.6%
+for the quarter. Normalizing for the impact of the injunction, Insurance would have achieved 6.5%
+organic constant currency revenue growth and 9.1% organic constant currency adjusted EBITDA growth,
+demonstrating margin expansion while also investing for future growth. Within our underwriting and
+rating business, organic constant currency revenue growth accelerated to 8.2% and was very broad-
+based across our solution sets in personal lines and commercial lines. We saw healthy growth in our
+industry-standard insurance programs, LightSpeed suite of products, property-specific underwriting
+and catastrophe modeling solutions revenue. We also had positive contributions from our international
+business.
+
+Within claims, organic constant currency revenues declined 1%, primarily driven by the injunction.
+Normalizing for the impact from the injunction, claims delivered 2.9% organic constant currency
+revenue growth, held back by fewer severe weather events this year as compared to last year, reducing
+transactional revenue growth. However, our claims subscription revenues continued to see solid growth
+and were primarily driven by claims analytics and repair cost estimating solutions.
+
+Insurance adjusted EBITDA margin was 53% for the quarter, flat with the prior year period. Normalizing
+for the impact from the injunction, the Insurance segment adjusted EBITDA margin came in at 53.5%,
+reflecting leverage from the organic growth, offset in part by continued investment.
+
+Energy and Specialized Markets delivered revenue growth of 7.1% for the quarter, driven by particularly
+strong sales of our market and cost intelligence solutions and core research revenues as well as
+contributions from our chemicals, solutions and the energy transition practice. We also had positive
+contributions from environmental health and safety and weather and climate analytics revenues. Energy
+and Specialized Markets adjusted EBITDA increased 23.8%, reflecting leverage on strong sales, balanced
+with ongoing investments in breakout opportunities, including our Lens platform, chemicals and the
+energy transition practice. Adjusted EBITDA margin expanded to 32% from 30.8%.
+
+Financial Services revenue grew 2.1% in the quarter, led by growth in fraud and credit risk management
+solutions as well as portfolio management solutions. This was offset in part by declines in enterprise data
+management revenues. As Scott discussed, we have decided to transition our data hosting operations to
+a partner, which will better position this segment for more predictable, sustainable growth. As evidenced,
+the Financial Services segment would have delivered revenue growth of 7% in the quarter without the
+impact of the Argus data warehousing business. Financial Services segment adjusted EBITDA increased
+6.2%, and adjusted EBITDA margin expanded to 40.3% from 37.9%, reflecting strong cost discipline.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+Our reported effective tax rate was 23.2% for the quarter compared to 18.6% in the prior year quarter,
+primarily due to the impact of a higher level of option exercise in the prior year period. For the full year,
+our effective tax rate was 20.9%, which was in line with our targeted range. For 2020, we expect our tax
+rate to be between 19% and 21%. Though there will be likely some quarterly variability related to the
+impact of employee stock option exercises, which depends in part on the Verisk stock price and employee
+personnel decisions.
+
+Adjusted net income was $188 million diluted adjusted EPS was $1.13 for the fourth quarter of 2019,
+up 8.7% from the prior year. This increase reflects organic growth in the business, contributions from
+acquisitions and lower average share count. These increases were offset in part by higher depreciation and
+amortization, increased interest expense and a higher effective tax rate.
+
+Net cash provided by operating activities was $176 million for the quarter, up 1.7% from the prior year
+period, reflecting primarily a higher effective tax rate due to the option exercises in 2018 mentioned
+earlier. Capital expenditures were $64 million for the quarter, down 16.3% from the prior year period,
+primarily the result of reduced capital expenditure at Geomni. CapEx represented 9.5% of total revenue in
+the quarter.
+
+As we look to 2020, we expect capital expenditures to be in the range of $250 million to $270 million.
+Included in this number are one-time expenditures of approximately $35 million related to the
+consolidation of office space that we have planned in 2 key cities, London and Boston. We are excited
+about the long-term benefits of having our business units and people together under one roof.
+
+Related -- relating this to Capex, we expect fixed asset depreciation and amortization to be within a range
+of $170 million to $180 million in comparison to the $186 million for 2019. Depreciation and amortization
+should be lower year-over-year, helped by the sale of our imagery sourcing group, including the planes
+and sensors to Vexcel. We expect intangible amortization to be approximately $165 million in 2020 in
+comparison to $138 million in 2019. Both depreciation and amortization elements are subject to FX
+variability, the timing of purchases and completion of projects and future M&A activity. Free cash flow was
+$112 million for the quarter, an increase of 16% from the prior year period, primarily due to lower capital
+expenditures.
+
+During the fourth quarter, we returned $141 million in capital to shareholders through share repurchases
+and dividends. We repurchased approximately 700,000 shares at a weighted average price of $145.07
+for a total cost of $100 million. At December 31, 2019, we had $128 million remaining under our share
+repurchase authorization. We remain committed to ongoing capital return to shareholders. And as Scott
+mentioned, we are pleased that Verisk's Board of Directors approved an additional authorization of $500
+million for share repurchases as well as an 8% increase in our cash dividend to $0.27 per share this
+quarter.
+
+As Scott mentioned, we have recently engaged in a series of transactions that focus our portfolio of
+businesses to fully capitalize on our key distinctives and our core competitive advantages. Each of these
+transactions is unique in its structure, but share the motivation of active capital discipline and achieving
+more predictable long-term growth at Verisk.
+
+Before I conclude, and looking ahead to the first quarter, I want to inform you of a timing shift in expenses
+between the first and second quarters that will impact our reported financial results. The company recently
+changed the timing of the grant of long-term incentive compensation into the first quarter from the
+second quarter previously. This timing change aligns Verisk with a greater market and more closely timed
+employee compensation with calendar year results. The resulting impact will be increased expense of $10
+million in the first quarter related to long-term incentive compensation, but that will reverse to a benefit in
+the second quarter.
+
+We are excited about the opportunities to invest in our business and remain focused on long-term
+profitable growth and solid returns on capital. We remain confident that we have the financial strength and
+capital structure to support investment for the long term. We continue to appreciate all the support and
+interest in Verisk.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+Given the large number of analysts that we have covering us, we ask that you limit yourself to one
+question. And with that, I'll ask the operator to open the line for questions.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions]Your first question comes from the line of Manav Patnaik from Barclays.
+
+Manav Shiv Patnaik
+Barclays Bank PLC, Research Division
+
+My question is around the cloud-first strategy. So just kind of a 2-parter. So one, Scott, when you
+referenced, you were talking to your customers, and they are supportive of your move. Are the customers
+also sort of in this cloud move and are ready to adopt it? Or will there be a transition period of duplicate
+costs in order to serve the customer better? And then, Lee, I was just hoping you could put some financial
+parameters around it, like how much of spend savings, et cetera, we might start thinking about.
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Yes. So I'll start with that, Manav. Our customers are in various stages of considering how they're going
+to manage their own technical infrastructure. I would say, in general, that our company has moved faster,
+probably considerably faster in modifying our compute environment relative to our customers, but it
+doesn't really create an added burden for our customers or put more costs into the system as we work
+with them. In fact, if anything, the interface between us and the customer becomes a little bit easier to
+manage. So there's no systemic increase in costs. We -- obviously, as we've talked many times, we are
+adding the cloud dimension to our business even as we are working to retire the premise dimension of our
+business. The premise dimension comes off sort of in shelves. The cloud sort of grows in a linear fashion,
+as Eric said before. But we've absorbed all that into our P&L and are just -- we continue to head in the
+same direction at the same pace. And so it all feels very organic. The customers, it's really nothing but
+good for customers, and it doesn't add an additional burden for them. And Lee, I don't know if you want to
+just talk a little bit more about the specifics.
+
+Lee M. Shavel
+Executive VP & CFO
+
+Sure. And Manav, thanks for the question. I appreciate that. Very simply, we aren't providing an estimate
+of the cost savings for a couple of reasons. One is that this is a multiyear project as we are rolling out
+these transitions across many data sets, many individual businesses. And while we're tracking it on each
+of those bases, and we look at each of those situations as test cases, where we can see the savings,
+we can see the return on capital for the investments that we're making, because of the rolling impact
+of us achieving some savings, investing in the transition over time, we don't want to create a fixed
+benchmark. I think from our perspective, our view is that this activity will generate both operational
+improvements in terms of lower OpEx relative to this function. And so there will be a margin benefit that
+supports our overall margin improvement objectives as well as EBITDA growth ahead of revenue growth
+as well as capital efficiencies that will boost our return over time. But given that it is deeply embedded
+within our businesses and something that we're managing as part of their full technology spend, it's not
+something that at, an, aggregate level, we are going to provide kind of full estimates for that reason. But
+we absolutely have seen those benefits in the projects that we have executed within specific data sets in
+the businesses, and we'll expect that to kind of roll forward as we prosecute this initiative over time.
+
+Operator
+
+Your next question comes from the line of Andrew Steinerman from JPMorgan.
+
+Andrew Charles Steinerman
+JP Morgan Chase & Co, Research Division
+
+Lee, it's a margin question. So the fourth quarter 2019 reported EBITDA margins were flat year-over-
+year. That's reported. That's including past acquisitions as well as the drag from the roof reported junction.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+You were good to say how much of that drag for the roof report injunction is. And also, we're seeing the
+operating leverage coming from the breakout initiatives at the core. So as such, is Verisk positioned to see
+2020 reported EBITDA margins to be flattish to perhaps leaning forward?
+
+Lee M. Shavel
+Executive VP & CFO
+
+Yes. So thank you, Andrew. I appreciate the question and the consistent focus on margin. We bring the
+same discipline in looking at our overall business. So I appreciate the fact that what you've recognized is,
+at the core, we are generating very strong and consistent operating leverage in the businesses on a pre-
+investment basis. So in the fourth quarter, we did see that margin expansion for all of our core businesses
+before the impact of our breakouts, which include Geomni as well as the impact from our acquisitions.
+And so we -- it certainly shouldn't come as a surprise that Geomni was a significant impact in terms of
+investment in the fourth quarter of 2019 as it was in -- for the year as a whole. And so that element will
+certainly benefit from the transaction with Vexcel. So at least that component in 2020 should have a
+substantially reduced impact overall on margins. But that's balanced then against, of course, the ongoing
+investment in our businesses that we make on a return basis as well as the impact from acquisitions. Our
+long-term objective continues to be to generate EBITDA growth in excess of revenue growth on an organic
+basis and to improve that margin over time. And I think going into 2020, we feel as confident as ever in
+our ability to achieve that.
+
+Operator
+
+Your next question comes from the line of Toni Kaplan from Morgan Stanley.
+
+Toni Michele Kaplan
+Morgan Stanley, Research Division
+
+Scott, just thinking about your strategy of getting out of the data collection and aerial imagery and also
+the data hosting business in Argus, it doesn't sound like your view on the value of data has changed, but
+maybe just some tangential ways of how you get the data and what you do with it is slightly changing.
+And so I just wanted to understand, like does the new partnership around the Argus data warehouse
+change anything with regard to the ownership of data and just how you're thinking of that? And then, Lee,
+if you could give some additional color on the financial impacts like the net cost savings from the Vexcel
+transaction and how much revenue in total will be reduced by all the portfolio actions.
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Yes. Thanks, Toni. So first of all, our view of the value of unique data assets is completely unchanged.
+And actually, if anything, I think, going forward, unique data assets actually will be even probably more
+rare. Not that we feel that there is any -- there will be -- we will take any step back in terms of the
+volume or the value of the data that we've got. So our view of that as a part of our business is completely
+unchanged. Data remains the oxygen in our bloodstream, and it always will.
+
+So the 2 changes that we made, first of all, what I would really like to emphasize around the Vexcel
+transaction is that we actually put ourselves in position to have an even better data set. Vexcel was,
+as we've already described, already engaged in data capture. They're also one of the globe's leading
+providers of sensor technology. And so putting together our image capture process with their methods and
+some of the commitments they already had to creating this image library, we actually have access. We
+will have access, and we have access to a better set of images than we had before. And that substantially
+improved economics. So it's merely about how do we get to the data, not are we interested in the
+data? And with the move with the Argus data warehouse, that's a little bit different because the Argus
+data warehouse was not about our gathering of data from customers. It was really customers who had
+observed our facility with dealing with their data. And they said, "Can you essentially white label your
+way of managing data to me?" And we said yes as another benefit for our customers. And what happened
+over time is this whole space of hosting data warehouses and particularly, cloud-enabled, has just sort
+of exploded over the last several years. And it was never founded -- the ADW work was never founded
+upon providing us a data source, which we then translate through our analytics. It was really more of an
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+accommodation for our customers in their own workflows. So there's really no change in terms -- well,
+there is 0 change in terms of our access to data in the financial segment. So we view data as we always
+have. We have as much or better access to data than we used to, and our economics have improved as a
+result of these changes that we made. Lee, anything you care to add to that?
+
+Lee M. Shavel
+Executive VP & CFO
+
+Yes. Toni, to give you some sense that, from a financial impact standpoint, I understand you want to get
+a sense from a revenue perspective, that we would kind of roughly estimate approximately in the fourth
+quarter there were approximately $8 million of revenues associated with the image capture business that
+we'll be moving to Vexcel. So that gives you kind of some sense of the scale. From an EBITDA standpoint,
+there's not a material impact from the impact of those revenues. So kind of roughly equivalent level of
+EBITDA expense associated with that. But on a year-over-year basis, we are expecting a -- the benefit of
+eliminating the costs associated with the individuals and the flight operations associated with that image
+capture business that we will no longer continue to bear even though we will continue to have access to all
+of that data on very preferential terms looking ahead. So it will clearly be a benefit to us from an EBITDA
+perspective.
+
+Operator
+
+Your next question comes from the line of Gary Bisbee of Bank of America.
+
+Gary Elftman Bisbee
+BofA Merrill Lynch, Research Division
+
+I wanted to ask just a bit more about the margins in the quarter. So a quarter ago, you'd talked about in
+the loss of revenue from the injunction not having enough time to really get at or reduce those costs, and
+yet the Insurance margin was quite strong. So obviously, you're able to get rid of a bunch of that cost.
+And on the Energy business, we'd also thought there would be maybe more of a drag than it appeared
+there was from the Genscape deal that I think you owned for a couple of months in the quarter. So just
+help us think about, as we think moving into Q1 and moving forward, what the dilution from Genscape is
+and what -- how we think about the Geomni lost sales and the impact of that all in with Vexcel.
+
+Lee M. Shavel
+Executive VP & CFO
+
+Yes. Thank you, Gary. So a lot of elements here, so let me try to give you a couple of components of
+that. So I think the statement that we made in the third quarter with regard to not being able to make
+substantial headway on the expense for Geomni in the fourth quarter is accurate kind of specific to the
+overall entity within our GAAP results. Naturally, the Vexcel transaction, we'll be moving a substantial part
+of that expense, not all of it. We will have operating expenses associated with our analytics component of
+that business that will be retained. But in excess of the majority of the expenses, we'll move out of the
+business. But the margin uplift within Insurance really wasn't driven by cost savings within Geomni. I think
+it was just the natural operating leverage within the business as a whole.
+
+And specific to the Energy and Specialized Markets discussion, there are market and cost intelligence
+business and the strong growth that we experienced within that business as well as cost discipline at
+Wood Mackenzie was really the primary contributor to the margin expansion within that business and for
+the business as a whole. And so there, we are benefiting from a very strong growth in that product and
+relatively low associated expense expansion within that. So I think that is when we looked at that margin
+strength, there were certainly some component of it within Insurance, but a lot of that benefit came from
+those activities. So as I mentioned, with regard to Andrew's comments, I think all of those effects, we
+think, will put us in a very good position to continue to work towards that margin expansion objective that
+we have over the long term in 2020.
+
+Operator
+
+Next question comes from the line of Hamzah Mazari from Jefferies.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+Hamzah Mazari
+Jefferies LLC, Research Division
+
+Historically, you guys have not talked a whole lot about your commercial sales organization on calls.
+Maybe just give us an update. Is that an opportunity? How do you measure sales force productivity? And
+any changes to incentives maybe that you've made there or haven't made as you look forward to growth?
+It seems like you're doing a lot of acquisitions around software to sort of penetrate customers, but any
+thoughts as to adding salespeople and going after more revenues?
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Yes. So obviously, an important dimension of our business across all the verticals, we take a 3-tier
+approach to selling. So we have account representation, where there we have people who are owning
+our end-to-end relationship with our customer. Then we have product specialists, whether they be data
+analytics solutions or software solutions. Almost everything that we do is very technical. And so we do
+need people who are focused on specific parts of our product suite to go in, present credentials, work
+on issues of integration, et cetera. And then thirdly, we have inside sales to help us cover what, in some
+cases, is the fairly long tail of smaller customers inside of our market spaces. Generally, we find it a good
+use of money to expand our go-to-market team, and we're always looking to do that. And the only other
+thing I would say, and this ties a little bit to the point that Lee was just on, as we make acquisitions,
+which are inside of verticals that we're already serving, one of the things we think hard about is, how
+are we going to integrate the 2? And I will say, by the way, that we had ambitious plans for Genscape
+integration. And the team has met all of their marks. And so it's gone very, very well. But one of the
+places where we're fairly slow to take any costs out actually is with respect to market representation. So
+as we say, integrate something that we acquire, we actually want to hold on to the go-to-market resources
+as much as we possibly can. And then we're always asking the question, would more be helpful? I mean,
+in general, I would just say that I've really been pleased and impressed with what our teams accomplished
+in 2019 in terms of building our book of business. So yes, it's always on our mind. We've always had the
+same structure. We always lean into more investment in that area when it makes sense.
+
+Operator
+
+Your next question comes from the line of Jeff Meuler from Baird.
+
+Jeffrey P. Meuler
+Robert W. Baird & Co. Incorporated, Research Division
+
+With the preface that I fully recognize the importance of data and analytics as a source of value in the
+solutions, Scott, I would love kind of your perspective on where you draw the lines or what types of
+software solutions you expect to provide. So just talking about the increased software intensity, the life
+insurance software acquisition and some other software acquisitions you've done. But you also continued
+to partner with the likes of Guidewire and I think there was a relatively recent announcement with Duck
+Creek. So what types of software solutions do you expect to provide? Where do you look to partner? Do
+you increasingly compete against some of those vertical software providers over time?
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Yes. No. It's a good question, and it does relate to the fabric of our company. So bottom line for me is that
+I would only want to see us in software businesses that have the potential to yield data assets that we can
+use and reuse for analytic purposes. That's really sort of the bottom line. So there are core transaction
+processing platforms that tend to exist in all the verticals that we serve. And to the extent that those
+particular platforms are unlikely to yield any sort of data rights, then it's just less likely to be of interest to
+us. That's the first dimension of it.
+
+And the second sort of relates to the first, and that is what we're really interested in is what we call
+platform to analytic environment. So we want to be the place where somebody who's trying to make a
+decision goes. They go in the morning and they stay there much, if not all, of the day. That's our ambition.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+That's where we want to be. Almost by definition, if that's the nature of the software you're providing,
+then you are close to the data sets. So that's really the distinction that I would trace for you here.
+
+Operator
+
+Your next question comes from the line of Andrew Jeffrey from SunTrust.
+
+Andrew William Jeffrey
+SunTrust Robinson Humphrey, Inc., Research Division
+
+Appreciate you taking the question. When I think about a few callout drivers that you discussed in
+Insurance, I'm thinking about the opportunities in life and InsurTech, which sounds pretty robust, as well
+as the U.K., which I think as mentioned -- Lee, I think you mentioned as being pretty strong. Can you,
+over the next few years, perhaps quantify or dimensionalize how those may bend the growth curve in your
+Insurance business?
+
+Lee M. Shavel
+Executive VP & CFO
+
+Sure. So I'm going to -- I'll take a first cut at it, and I'm sure Mark can provide some broader perspective
+on it. So I think as it relates to the InsurTech dimension, our view is that it contributes to incremental
+growth across 2 dimensions. One is that we have a group of new clients that we are serving in a
+traditional context with our industry standard products and other data sets. But the other dimension is
+that they are bringing innovation, new ways of doing things that is putting more of a focus around our
+traditional customers to utilize data more intensively than they may have in the past. And that is creating
+new opportunities for us to develop products to support their needs. And our LightSpeed suite of products
+is probably a perfect example of that dynamic. And so it is -- I would describe it one level as accelerating
+the demand and the expansion of analytic objects and demand for platform analytics that has enabled our
+underwriting and rating business to generate levels of growth, as you've seen in this quarter, that probably
+wouldn't have been expected 2 or 3 years ago. So I think that's one dimension of it. And we've spent a
+lot of time thinking about the life opportunity, and I'll hand it over to Mark to describe how we see that
+opportunity influencing and providing incremental growth for us.
+
+Mark V. Anquillare
+Executive VP & COO
+
+So let me basically say it this way. I think there's 2 types of InsurTechs. One is I'm an insurer or probably
+a managing general agent of an underwriting business or at least trying to find business. There, what
+they are looking for is to get into business fast and automate. And that drive towards automation, drive
+towards technology has been a wonderful opportunity for us. And we have had some great sales there,
+and it has accelerated growth across all of insurance. There's also InsurTech that they're trying to do some
+technology around data and information and, although probably on the outskirts, could be competitive
+over time. So we certainly keep track of them. I guess the theme that I'll bring out, which kind of may tie
+together a couple of questions is, our customers are interested in content. That's king. But at the same
+time, they're pushing towards automation. They want this seamless ecosystem so that they can tap into
+any data or any solution, whether it's their own or a third party. And they expect, through a series of APIs
+and micro services, to be able to consume that information or consume that application in a very seamless
+way. And I think that is a large part of why we're thinking that the FAST acquisition will help us quite a bit.
+It is that light touch, quick implementation, low upfront costs that life insurers are looking for. And we see
+the same thing. Probably P&C is a little bit ahead from an analytics perspective, but we see the same thing
+for our P&C customers. So hopefully, that provides a little broader color.
+
+Operator
+
+Our next question comes from the line of George Tong from Goldman Sachs.
+
+Keen Fai Tong
+Goldman Sachs Group Inc., Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+Your pace of M&A activity has picked up in recent quarters, particularly with the acquisition of Genscape.
+When you had a similar level of M&A activity in 2018, EBITDA margins did contract by about 100 bps.
+So diving deeper into margins in the year ahead, can you discuss how the margin profile of Genscape
+compares to your earlier acquisitions, particularly ones being integrated in 2018, and if you intend to
+change your pace of investment activity in the breakout opportunities this year ahead versus earlier
+years?
+
+Lee M. Shavel
+Executive VP & CFO
+
+Yes. Thanks, George. So whenever we talk about the margin impact, I want to kind of start with the
+fact that the important thing for all of our businesses is that they have fundamental operating leverage
+that allows us to deliver on EBITDA growth in excess of revenue growth. Because we think that's the
+fundamental value creation driver for that business. And so we look at each of those businesses. And
+every business has a different margin dynamic, but we want to make certain that, that dynamic is
+present, and we have the ability to improve upon that over time. We -- so when we are looking at
+acquisitions, George, we are fundamentally making a capital decision and a growth decision in terms of,
+is this going to be a good use of capital, can we generate a good return on the business and what we can
+do to enhance it? And beneath that, is there operating leverage that will allow us to continue to generate
+that EBITDA growth over time? And so when we talk about our organic constant currency revenue growth,
+yes, we are making that adjustment so that we see that dynamic across our business as a whole. We tend
+not to be overly focused on the portfolio impact of the acquisitions because if it is a good return acquisition
+and it has operating leverage, then it will allow us to generate that EBITDA growth over time. And I think
+talking about an individual acquisition like Genscape, which is going to come in at a lower margin than the
+rest of the business, that will naturally have a portfolio impact. But what we can -- we hope to generate
+with that business and its association with Wood Mackenzie and generating incremental returns and
+incremental margins should really drive what we're focused on, which is that EBITDA expansion ahead of
+revenue growth. So I know that isn't a complete answer to your question, but, philosophically, I think it's
+important to understand that that's the way we think about those acquisitions and their contribution.
+
+Operator
+
+Your next question comes from the line of Kevin McVeigh from Credit Suisse.
+
+Kevin Damien McVeigh
+Crédit Suisse AG, Research Division
+
+Lee, you talked about kind of 3 different portfolio transactions in the area of Financial Services and
+Insurance. Can you give us kind of the overall revenue and margin impact from those dispositions?
+
+Lee M. Shavel
+Executive VP & CFO
+
+So I think I gave the impact from the Vexcel transaction. So -- and the other ones, I think we can deal
+with in a follow-up call. They're not that material overall to the business. I think the $8 million is really
+the bulk of it. So we can probably find -- we can fine-tune that with you off-line separately, but it's -- the
+Geomni-Vexcel transaction that would have a more significant impact. The rest are less significant.
+
+Operator
+
+Your next question comes from the line of Jeff Silber from BMO Capital Markets.
+
+Jeffrey Marc Silber
+BMO Capital Markets Equity Research
+
+Just wanted to step back and kind of look at your portfolio of assets. You did some pruning, I think, over
+the past quarter or so. Is there anything else left to divest? And then, also, do you see synergies between
+your 3 major verticals? Obviously, within Insurance, there's a lot, but I'm just wondering cross synergies
+with the other verticals.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+So we're always looking at the mix of assets we've got, but I would say that I think we have done a
+fair amount of the kind of work that was expressed in those 3 moves. We'll always keep our eyes open,
+but there's nothing major which is imminent. To your question about synergies across the verticals, we
+have repurposed energy data into the Insurance vertical. We're looking at opportunities to tie together
+observations from retail banking with consumer forms of insurance. So that work is always going on in the
+background. But the thing I would really highlight for you is all of the technical work that Eric described
+before, this is the kind of work where it would be more burdensome for any one of our verticals or even a
+business unit inside of a vertical to take it on, on their own because these are pretty large expenditures.
+And if you're going to do it right, you have to really commit to these things. Eric talked about the work you
+have to do to transition to the cloud or to create the data fabric inside of the platform data environment
+that we provide to all parts of Verisk. And not only does doing this work excellently in the center provide
+acceleration to each of the businesses inside of each of the verticals, but it really represents a very cost-
+efficient way of doing it as well. And so that is -- that's actually, to me, one of the large major points of
+logic as to why we should be in multiple verticals. And another one is all of what we do in these verticals,
+and not every vertical has this quality, but all the verticals that we're in, the opportunity for unique
+differentiated data assets exists. And that's not true in a lot of verticals, but it is true in the places where
+we do business.
+
+Lee M. Shavel
+Executive VP & CFO
+
+I would add as a case in point, we often get questions about the relevance in -- of the Financial Services
+business. And as we've talked about, they deal with a data set that is, in order of magnitude, if not more,
+larger than many of our other businesses. But the expertise that we have developed in cloud technology
+and data analytics within that business generates a return on intellectual capital that we have leveraged
+in our Lens platform, within the Insurance business as we're implementing that cloud technology, and
+probably wouldn't be as effective in bringing those efficiencies and advantages if we hadn't been dealing
+with that data center, with that level of expertise. And so I think it's a great kind of case in point of how
+we leverage that.
+
+Mark V. Anquillare
+Executive VP & COO
+
+Yes, I'll just -- I don't want to answer too many times. But case in point is inside the London insurance
+market, the expertise and technology associated with the Verisk financial services assets were combined
+with kind of ISO expertise to build a platform there that has been kind of changing some of the London
+market transaction processing. So it'll be very effective.
+
+Operator
+
+Your next question comes from the line of Ashish Sabadra from Deutsche Bank. .
+
+Ashish Sabadra
+Deutsche Bank AG, Research Division
+
+So a quick question on claims. Even excluding injunction, it was a bit soft because of the fewer other
+events. I was just wondering if you can provide any color on how much of the revenue is generated from
+these other events. And as we think about going forward, should we see this business reaccelerate given
+the stability of the subscription business?
+
+Mark V. Anquillare
+Executive VP & COO
+
+So this is Mark. Thanks for the question. So first of all, I want to start with the Insurance business as
+a whole was very strong. We think of it as a portfolio, and we're very pleased with the interaction with
+customers and where we've progressed. Specifically to claims, I think there's 3 things that we've seen
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+over the course of a little longer term and, clearly, short term. One, I think we've talked about some of
+the extensions we've had really on the claims fraud or claims fraud detection side of the world related to
+outside of P&C health companies and the like, where we've brought some kind of -- some big customers
+in, and that's kind of rolled off. But more specifically, as it relates to the fourth quarter, clearly, the
+injunction affected us. We weren't able to deliver the growth that we've been delivering inside of Geomni.
+That was a negative. And the other thing that was clearly changed or different in the fourth quarter of
+'19 relative to '18 was a relatively modest set of storms. There was a very quiet storm season. This isn't
+about catastrophes. This is just severe weather throughout the nation that had quite a bit of impact on
+what I'll refer to as the claims business. So those 2 things were kind of the anomalies in the quarter. I will
+reinforce the underlying business, the underlying economics remain very strong. Customer engagement,
+very strong. And I think the mission we're on with regard to automation and automating claim adjusting is
+kind of the theme inside the industry. So we remain optimistic.
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+And Mark, let's just clarify real quick. When you talk about the effect of the health insurers coming into
+our ClaimSearch platform that you referred to as rolling off, what you meant was it provided -- it's not that
+they went away.
+
+Mark V. Anquillare
+Executive VP & COO
+
+They certainly didn't.
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+They're still in the process as much as they ever were.
+
+Mark V. Anquillare
+Executive VP & COO
+
+The grow-over....
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Right.
+
+Mark V. Anquillare
+Executive VP & COO
+
+Kicked in.
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+It represented growth in 2018 and into 2019. But now they're in, and there's all that we have.
+
+Operator
+
+Your next question comes from the line of Greg Peters from Raymond James.
+
+Charles Gregory Peters
+Raymond James & Associates, Inc., Research Division
+
+The large insurance brokers seem to be pushing data analytics as a growth area for their business. Can
+you tell us how you're working with them? Or should we view their strategies as potentially encroaching
+on your business? They've also reported good organic revenue growth, and it's in part due to the strong
+pricing environment in commercial lines. Can you talk to us about how your business is affected by pricing
+trends in commercial lines insurance? And then finally, on LightSpeed, can you give us an idea of the size
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+of that business? I've been struggling to identify actual customers in our channel checks, but that doesn't
+mean I'm looking in the right place. So any help there would be appreciated.
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Well, you managed to get 3 questions in there at least.
+
+Mark V. Anquillare
+Executive VP & COO
+
+I don't know. I think I counted...
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+I'll just take -- Mark, why don't you and I do this together? I'll just take the first part of that, which is
+the question about the brokers. So the brokers -- and we really do not have a lot of overlap. The brokers
+from time to time attempt put together some forms of data analytics in order to try to add value inside
+of their customer relationships. But fundamentally, we -- they're much more of a service-oriented kind
+of a business. We license subscription solutions to our customers. And the brokers touch a good number
+of situations. And they have the data associated with the transactions that they're engaged in, but those
+data sets are really not overlapping of the data sets that we have got. And so, I mean, it's a practical
+matter out in the marketplace. We just don't compete with the brokers, and nor do I think we will compete
+with the brokers. They're just a fundamentally separate kind of an environment. And in fact, they operate
+as customers because, particularly, our catastrophe modeling solutions are made available to them as well
+as to others. So yes, if I was running one of the major brokerages -- actually, if I was running almost any
+business in the world, I would try to make it more data analytic as a way of trying to achieve advantage.
+And that's what they're working on. But I don't. Their business model and ours is very different, basically,
+and I think will remain. So Mark, you want to take on those other points?
+
+Mark V. Anquillare
+Executive VP & COO
+
+Yes. And I'll just add to yours. I think from a brokering theme perspective, clearly, they're looking to
+differentiate themselves that they are providing analytics. I think most of that analytics, at least the
+way we've seen it, is sold into and provided to the corporate customer, where we're more on the insurer
+side of that. I think your second question was around pricing and pricing impact. So commercial line's
+a hardening market, if you will. I think the short answer is that if our customers are growing quicker,
+there's more opportunity to focus on top line, focus on dancing and potentially purchasing new solutions
+to foster that growth. So I think it's a friendly environment when everyone's growing, and it's probably
+more opportunities to buy new solutions or extend them. We do have this wonderful solution inside of
+underwriting and rating our ISO business. When it is a difficult period or it's a soft market, people have to
+go back to the actuarial fundamentals. They have to go to fundamentals around how I underwrite because
+they want to be profitable. So clearly, that supports our business as well, but I think everyone is in a
+better shape with a high tide floating all boats.
+
+Last question, I think, was around LightSpeed. Let me say it this way. The way we've packaged
+LightSpeed is we are trying to take -- and in the world of insurance, I'll use personal automobile, you can
+get online, and you can get a quote pretty quickly. But what typically happens is, after you get that quote,
+people then run all the different reports to get information about you, whether you're in an accident,
+whether you're impacting history, less accidents. And all of that motor vehicle record data, all that costs
+money. So they then run that information, and they more or less change the price in about 35% of the
+cases. That's a customer-unfriendly way to go. So we are pushing this data-forward strategy. We are
+trying to move to point of sale, so there's no separation between buying a quote that is more attractive
+for the consumer. And we are very uniquely positioned in the commercial lines market because of the
+data and information we have, more so than even in personal lines. And that strategy, that approach has
+been meeting quite a bit of receptivity among major customers, both large ones and those InsurTechs
+we're talking about. So when we talk about LightSpeed, it's a package of solutions and products. And
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+many, many insurers are buying pieces, and a few very large ones have signed up for what I'll call the full
+package. So that has definitely been contributing to growth inside of our underwriting and rating business.
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+When customers use it, Mark, I just -- I would think a lot of them actually identify with Verisk rather than
+saying, "Oh, that's Touchstone," because it's a whole series of services.
+
+Mark V. Anquillare
+Executive VP & COO
+
+Yes, Right.
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+And we tie them together as Touchstone, but I think the customers are relating to the overall brand,
+Verisk.
+
+Operator
+
+Your next question comes from the line of Bill Warmington from Wells Fargo.
+
+William Arthur Warmington
+Wells Fargo Securities, LLC, Research Division
+
+And the question I had was to see if we could get an update on the new product pipeline, specifically
+around loan verifier, also some of the life insurance underwriting products, and then maybe also if you
+could comment on how you plan on leveraging some of the unstructured data sets, audio and images that
+Eric mentioned in his comments.
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Why don't you take those on, Mark?
+
+Mark V. Anquillare
+Executive VP & COO
+
+Sure. So let me kind of walk through those. I think you were talking about loan verifier. You were
+talking about life insurance and some unstructured data. So let me start with the final 2 because in
+some ways, they're connected. So life insurance, we think, provides a pretty big opportunity for us.
+We do have some solutions already available. So think about our catastrophe modeling, what we refer
+to as extreme event modeling. We do work around longevity models, mortality shock model. Think of
+pandemic, coronavirus, we do that type of work, and that fits into some of the life insurance models that
+are necessary and interesting. What we're also doing is we're doing work around models that it relates to
+specific underwriting decisions. So that is around partnerships with the medical inspection bureau, which
+represents a group inside of life around, I'll call it, physicals and health. We've done some work around
+electronic health care records and doing some analytics there. The 2 analytics that you're most focused
+on, we have done some work around tobacco. We've done some work around avocation. If you're kind of
+like skydiving, that doesn't make you the best risk. And kind of combining some of the technology that
+Eric and his team were talking about with some of the specialists we have from an insurance perspective,
+we have used some voice recognition technology, which allows us to understand things about your voice
+and whether there's indication that may lead to tobacco use as an example. So hopefully, you can kind of
+understand one small example of how it fits into, a, a wonderful technology group helping an insurance
+business extend into insurance. And FAST provides some of that. Hopefully, that responds...
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+Maybe talk a little bit also, Mark, about using imagery to interpret damage to vehicles.
+
+Mark V. Anquillare
+Executive VP & COO
+
+Absolutely.
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Without having to send a human being.
+
+Mark V. Anquillare
+Executive VP & COO
+
+So I think one of the things that we would love to do as a part of automated adjusting is do a quick look.
+So this is a what I'll refer to as low severity type of crash, small dollars, but highly frequent. You can do
+a quick review and make payments. So we have some abilities to take a look at images. Just think about
+machine learning and understanding a couple of things. One, is the image legitimate and accurate based
+upon time and date and stamp and things like that? Was it manipulated? But we go beyond that to do a
+few more things. One, we're saying, is it salvageable or not? Should it be a complete loss? And then, two,
+if it's salvageable, we can do a quick estimate as to what's going to cost to repair it. And those are the
+type of things that advanced analytics provide to automate this process. And it's a quick way to do things
+that have typically taken quite a bit of time and effort to in the past. Great.
+
+Bill, I think you also talked about loan verifier. Loan verifier is another important idea for us. What it does,
+though, with any of our really differentiated ideas, it does take us time to aggregate data. So what we are
+working with is working with insurers to get information and access to a lot of that information behind the
+scenes, so that we can connect those folks who are on the loan side of things, think of the banks, with
+those insurers, who are kind of ensuring that risk, and piece those together. Some of that information we
+have in-house. At the same time, we have a very strong standard stewardship approach to things, and we
+can only use data for use cases that have been provided to us. So we're working with insurers to validate
+the use case and honestly bring on customers. So hopefully, maybe a little long-winded, but a full answer
+to your questions.
+
+Operator
+
+Your next question comes from the line of Andrew Nicholas from William Blair.
+
+Andrew Owen Nicholas
+William Blair & Company L.L.C., Research Division
+
+Realizing your acquisitions of Genscape and FAST are still pretty fresh. I was hoping you could provide an
+update on how those integrations are trending. And then any commentary on the early pipeline build for
+those products?
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Integrations are right on track with both of them. We actually just reviewed that a week ago. And with
+respect to everything from cost factors to sales, they are performing almost exactly the way that we
+expected them to. And in both cases, they nest very nicely inside of existing organizations. So these
+transitions have been very organic. And the pipelines are good. The pipelines are strong.
+
+Lee M. Shavel
+Executive VP & CFO
+
+And the only thing I would add is I think that there is a genuine enthusiasm, in the case of Genscape
+among the Wood Mackenzie team, for the ability to utilize that data and integrate it in their analysis and
+the products that they're serving for their clients. So every time I'm in contact with Wood Mackenzie, I
+hear their enthusiasm for utilizing that data. FAST is more recent, but I can tell you, I think the -- on the
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+insurance side, particularly on the life side, our ability to work with them, as we described before, a high
+level of excitement about what we can potentially accomplish together.
+
+Operator
+
+Your final question comes from the line of Joseph Foresi from Cantor Fitzgerald.
+
+Joseph Dean Foresi
+Cantor Fitzgerald & Co., Research Division
+
+Yes. So maybe I should ask like an 18-part question. I'm just -- I'll give you a softball to end the day.
+On the insurance and energy side, maybe you could talk about the differences in the demand backdrop
+heading into 2020 versus 2019, either from a pipeline or a necessity on your customer part perspective.
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Yes. So let me just give you the perspective that really explains Verisk Analytics. We have -- and this
+has been true for a long period of time, our company has grown faster than the end markets that we
+serve. And the reason is that our customers are rotating their own budgets in the direction of what it is
+that we do. They want to become more automated, and they want to become more deeply analytic in
+the way that they run their businesses. So you will see a lot of discussion about the level of technology
+spending on the part of the companies that populate the verticals that we serve. And that in and of itself is
+a very constructive trend, but you have to actually take that pool of spending and break that down further
+into sort of data center keep-the-lights-on sort of spending versus the platform's analytic environments,
+analytic objects that we provide. And even within the technology category, there has been a rotation in the
+direction of what we do. So if you're looking for explanation in terms of where our business is and where
+it's going to go, that is the driving force of what our companies are trying to do. And the fact that because
+of our vertical approach, we understand their issues. We have deeply intimate relationships because we
+sell -- in the case of insurance, we may be selling up to 20 families of solutions to our customers. And
+from all this depth of relationship and all of the data that they make available to us, it is really the perfect
+place from which to try to think about the next thing that they need and work collaboratively with them
+to develop it. And that's why our business grows. The actual macro environments inside of insurance
+and energy, I mean, they sort of wax and wane a little bit. But I don't -- those will not, in my view, have
+explanatory power in terms of the growth of our business in 2020, 2021 and on.
+
+Operator
+
+There are no further questions at this time. Presenters, you may continue.
+
+Scott G. Stephenson
+Chairman, President & CEO
+
+Yes. Great. Well, thanks, everybody, for joining us. And as Lee mentioned, we'll have a number of follow-
+ups with you, and look forward to those. Thanks for your interest. We'll speak with you soon.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation. You may
+now disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+VERISK ANALYTICS, INC. FQ4 2019 EARNINGS CALL |  FEB 19, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+

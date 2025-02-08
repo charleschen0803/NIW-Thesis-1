@@ -1,0 +1,1343 @@
+Tesla, Inc. NasdaqGS:TSLA
+FQ3 2020 Earnings Call Transcripts
+Wednesday, October 21, 2020 9:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ2 2020-
+
+-FQ3 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+CONSENSUS
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+(0.03)
+
+0.60
+
+Revenue  (mm)
+
+5404.38
+
+8313.70
+
+26.67
+
+5.50
+
+1.89
+
+3.30
+
+29987.97
+
+42730.04
+
+Currency: USD
+Consensus as of  Oct-20-2020 3:22 AM GMT
+
+FQ3 2019
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+(0.05)
+
+0.35
+
+(0.04)
+
+(0.03)
+
+0.37
+
+0.41
+
+0.23
+
+0.44
+
+NM
+
+17.14 %
+
+NM
+
+NM
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Andrew D. Baglino
+Senior Vice President of Powertrain
+& Energy Engineering
+
+Carl Peterson
+Director of Engineering
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Jerome Guillen
+President of Automotive Division
+
+Martin Viecha
+Senior Director for Investor
+Relations
+
+RJ Johnson
+Global Head of Commercial Energy
+
+Zachary J. Kirkhorn
+Chief Financial Officer
+
+ANALYSTS
+
+Adam Michael Jonas
+Morgan Stanley, Research Division
+
+Benjamin Joseph Kallo
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Charles Eugene Munster
+Loup Ventures, LLC
+
+Colin William Rusch
+Oppenheimer & Co. Inc., Research
+Division
+
+Dan Meir Levy
+Crédit Suisse AG, Research
+Division
+
+Philippe Jean Houchois
+Jefferies LLC, Research Division
+
+Pierre C. Ferragu
+New Street Research LLP
+
+Rod Avraham Lache
+Wolfe Research, LLC
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Presentation
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the Tesla Q3 2020 Financial Results and
+Q&A Webcast. [Operator Instructions]
+
+I would now like to hand the conference over to your speaker, Mr. Martin Viecha, Senior Director of
+Investor Relations. Please go ahead, sir.
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Thank you, Sherry, and good afternoon, everyone, and welcome to Tesla's Third Quarter 2020 Q&A
+Webcast. I'm joined today by Elon Musk, Zachary Kirkhorn and a number of other executives. Our Q3
+results were announced at about 1 p.m. Pacific Time in the update deck we published at the same link as
+this webcast.
+
+During this call, we will discuss our business outlook and make forward-looking statements. These
+comments are based on our predictions and expectations as of today. Actual events or results could differ
+materially due to a number of risks and uncertainties, including those mentioned in our most recent filings
+with the SEC. [Operator Instructions]
+
+But before we jump into the Q&A, Elon has some opening remarks. Elon?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Thanks, Martin. All right. So Q3 was our best quarter in history. We achieved record production and
+deliveries, record revenue, record net income, both GAAP and non-GAAP, and record free cash flow of $1.4
+billion. This is really due to the amazing execution by the Tesla team. I could not be more proud to work
+with such a great group of people. Just really k****** performance across -- throughout the world.
+
+Of course, we had our Battery Day. So we hosted -- showed our plans for how we can expand in the future
+and improve core battery technology, core cell technology at the form factor level, chemistry level and
+I think most significantly at the manufacturing technology level. There's only -- a comment I made in
+the past is that I think Tesla's long-term competitive strength will be primarily manufacturing. This is
+counterintuitive, but I'm quite confident this will be what happens.
+
+All right. So we presented what the team has been working on for a long time with batteries. We wanted
+to step back and really rethink batteries from scratch. First principles thinking, just look at it from
+fundamental physics and say what -- rather than compare to other products in the market, just say from
+a physics standpoint, if you -- what's the limit of physics? What's the platonic idea of a perfect cell and
+how close can we get there? And that was our aspiration. And I think we've got a pretty good approach
+to it, which will only get better over time. And we went through all of the interesting solutions for every
+important part of battery design and production. And we'll continue to iterate on that and just recursively
+improve the core cell and battery technology.
+
+The result, we think, in a few years, will be batteries that cost half as much and where the capital
+expenditures required are 1/3 or less of what they are today. And we expect Giga Berlin will see our first
+battery cell production line at scale.
+
+Regarding the Full Self-Driving beta release. The Autopilot team, again, just a really all-star team. I
+spent a lot of time with the Autopilot team. And there's a lot of really talented people in that team who've
+worked incredibly hard to make the -- to get the beta release out. So I'd just really like to thank them for
+their hard work. And it's just a very smart group of people. So I think we're starting very slow and very
+cautiously because the world is a complex and messy place. And so we're -- we put it out there last night,
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+and then we'll see how it goes and then probably release it to more people this weekend or early next
+week. And then just gradually step it up until we have, hopefully, a wide release by the end of this year.
+
+And of course, as the system collects more data and -- it becomes more robust. So it's sort of like how
+does Google as a search engine get better. It's because everyone is programming it by asking questions
+all the time and clicking on particular links. So it's got this great feedback loop, and that makes it an
+extremely effective search engine. It's the same thing for autonomy. Having on the order of 1 million
+cars that are providing feedback and specifically feedback on strange corner case situations that you just
+can't even come up with in simulation, this is the thing that is really valuable. It's not like the obvious
+stuff, obvious stuff you can do in simulation. But weird corner cases, only a reality can give you that. So
+that's -- but we're able to say, okay, we need to train the system on this corner case situation and look for
+examples so we can then try it against those examples and improve some very esoteric corner cases.
+
+And it's also important to emphasize that this is a generalized neural net-based approach. There is no
+need for high-definition maps or a cellphone connection. So the car -- the system is designed such that
+even if you have no connectivity whatsoever and you're in a place that you have never been to before and
+no Tesla has ever been there, the car should still be able to drive, just like a person. That is the system
+that we are developing and aiming to release this year.
+
+Then in terms of capacity build out, we're making progress on 3 major factories. We're continuing to
+expand Shanghai significantly, which is going incredibly well. The Tesla China team is just, I mean,
+incredibly good. Super smart, work hard. It's like I'm always amazed by how much progress the Tesla
+China team makes. It's beyond all reasonable expectations.
+
+And then we're under construction in Berlin and Texas -- and Austin. So we're also making good progress
+there. Yes. Good. It's overall going well. I should make a point that for Berlin and Austin, we do expect to
+start delivering cars from those factories next year. But because of the exponential nature of the spool up
+of a manufacturing plant, especially one with new technology, it will start off very slow at first and then
+become very -- upward, will become very large. Just in general, manufacturing follows the S-curve. And
+I think sometimes, people, if they haven't spent a lot of time manufacturing, kind of think that once you
+have a factory, you can just sort of turn it on and it's at capacity. But it will typically take about 12 to 18
+months to reach capacity. And that is a very fast period of time, especially for new technology. So yes, I'd
+say 12 to 24 months even.
+
+So generally, what I see is the manufacturing capacity is underestimated in the beginning for quite
+some time. Then it is sometimes overestimated because this is an S-curve. It goes exponential to linear
+to logarithmic. And it's actually an incredibly hard thing just bringing a production plant up to volume
+technology.
+
+If -- because you can actually think of it like you've got, through first-order approximation, 10,000 unique
+parts or processes, all of which operate on an S-curve and -- with a bunch of uncertainty, and you can just
+slide 10,000 S-curves on an X-axis, and that's what bringing up a large automotive plant is like. And which
+one is the laggard, which one is the leader, it's very difficult to tell, and it's constantly changing. So it's
+really one of the most difficult challenges I've ever seen.
+
+So let's see. In conclusion, thank you. What we've achieved would not be possible without the incredible
+hard work of tens of thousands of Tesla employees and all people at our suppliers as well. I'd like to thank
+our suppliers. We continue to grow as fast as we can while focusing on cost control and improving quality.
+And ultimately, the best company will be that which makes great products at an affordable price, and
+that's our goal. I think I've never felt more optimistic about the future of Tesla than I do today. I'd also like
+to thank investors who have stuck with us through thick and thin. This is -- I think there's a lot more good
+stuff to come.
+
+All right. With that, we can move to questions.
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Thank you, Elon. I think our CFO, Zachary Kirkhorn, has some opening remarks as well.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Okay. Sure.
+
+Zachary J. Kirkhorn
+Chief Financial Officer
+
+Yes. Thanks, Martin. Overall, our financial health continues to rapidly improve with Q3 being another great
+quarter on nearly all dimensions, as Elon has mentioned. On net income, we achieved our fifth sequential
+quarter of profitability, our best net income, and nearly double-digit operating margins.
+
+Two things that are important to note to set context for Q3 profitability. First, the regulatory credits
+business was stronger than our expectations, and we are tracking to more than double this year compared
+to last. Second, as a result in the rise of the market cap of the company, the second and third tranche of
+the CEO grant vested during the quarter. Additionally, we have begun expensing 1 more tranche, resulting
+in roughly $300 million of combined period expense.
+
+I think it's reasonable to view the quarter excluding both these items to get a true sense of the health of
+the core business.
+
+On automotive gross margin, including regulatory credits, it increased materially from 18.7% to 23.7%,
+with some of our programs achieving greater than 25% gross margin. Keep in mind that inefficiencies
+related to factory shutdowns affected our margins in Q2. We continue to reduce our manufacturing and
+operational costs. We are also seeing benefits from the ongoing upward trend of locally built and delivered
+cars, which has increased from under 50% at the beginning of last year to over 70% most recently, which
+is a core component of our cost reduction strategy. We are also seeing financial benefits from improved
+vehicle reliability across the feet -- across the fleet.
+
+Services and other margin approved yet again, driven by our used vehicle business and efficiencies in our
+service operations. In the Energy business, we achieved record storage deployments, aided by the positive
+reception of the Megapack and Powerwall products as production and deployments grow. Additionally, our
+solar deployments doubled, and we're continuing to make progress on that front.
+
+On cash flows, our cash balance increased to $14.5 billion, which includes free cash flows of $1.4 billion,
+our highest yet. Our operating cash flows were $2.4 billion, including a $600 million benefit from working
+capital as we've made progress on days of receivables and inventory despite a reduction in days of
+payables. Note that the majority of our operating cash flows are driven by the strengthening of our core
+operations.
+
+Capital expenses grew to $1 billion, driven by Model Y investments in Shanghai, Berlin and Austin. As were
+previous investments in Model 3 Shanghai and Model Y in Fremont, we're expecting these programs to
+have already fully paid for their respective investments by the end of this year.
+
+Looking forward to 2021 and 2022, we have revised up our expectations for capital spending by $2
+billion to $2.5 billion, which we have ample liquidity and expected cash flows to fund. This is driven
+by an increase in in-source scope for certain factories, including battery cell manufacturing as well as
+investments to enable greater capacity expansion in the future. While we expect the return on our
+investments to remain very strong, keep in mind that with additional scope and location-specific costs, the
+payback of these investments may be slightly longer than what we saw in Model 3 in Shanghai and Model
+Y in Fremont.
+
+Financing cash flows were $4.5 billion as we reduced use of our working capital lines, offset by a $5 billion
+equity raise in September. Note that we're currently expecting over $1 billion in early convert paydowns in
+Q4, primarily associated with the 2021 conversions, but also our 2022 and 2024.
+
+Looking forward, we remain focused on strengthening the core fundamentals of the business. We are
+increasing production to meet demand, reducing costs, including localization, driving higher efficiency
+across the business and tightening our cash conversion cycle. We've made tremendous progress on
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+this front over the last 1.5 years. We're also aiming to achieve our original 2020 guidance of 500,000
+deliveries despite the operational interruptions earlier in the year. While this goal remains a genuine
+challenge, we believe it's possible with tight execution across the company.
+
+So congratulations again to the Tesla team for a great quarter and a great year. I'll hand it over to RJ
+Johnson, who joined Tesla earlier in the year and is leading our Energy business for a few comments.
+
+RJ Johnson
+Global Head of Commercial Energy
+
+Thank you, Zach. First, I'd like to also thank and congratulate the team on a job well done. Q3 was a
+strong quarter for the Energy business, and we're poised for continued strong growth in Energy storage
+and solar. Megapack is going to be a large growth segment for the business, and deployments will
+continue to expand rapidly as the product reaches full capacity. We have more demand than supply
+through 2021, and we continue to ramp the product to match unprecedented demand across the globe
+through 2023 and beyond. Our order book is rapidly filling up through 2023 in a multiple gigawatt-hour
+scale.
+
+Large-scale solar plus storage is now more cost-effective than traditional fossil fuel generation in many
+locations across the globe. This trend will continue as we remove cost, which will further displace existing
+and new fossil fuel generation. This is true for stand-alone storage as well.
+
+Many customers are utilizing Autobidder to maximize returns as we optimize our hardware and software
+with advanced real-time bidding strategies that continue to outperform the market where deployed. For
+Powerwall, we see continued strong demand for residential storage as customers seek increased reliability
+and backup home generation. We have a very large backlog of Powerwall orders, and we continue to
+invest to increase capacity to fulfill customer orders. We're just now capturing the full power of customer-
+sited solar plus storage as customers in some jurisdictions are providing services back to the grid when
+they don't need to consume energy or have backup power. This has massive potential to reduce system
+cost and make the grid more efficient globally.
+
+In the United States, we lowered our residential solar retrofit price to $1.49 a watt after tax incentives,
+which is the lowest in the industry. We're able to do this by leveraging our online vehicle ordering
+infrastructure, which substantially reduces the soft costs associated with sales and marketing. As a
+result, our fixed costs remained relatively flat as our volume and efficiency increase, leading to increased
+profitability in the retrofit business. We're using the same methodology across the entire Energy business,
+including service, to capitalize on the technology backbone of the company.
+
+Solar Roof is especially exciting as we've gained significant experience over the last year in the installation
+process, which is a key enabler to scale the business. We've recently demonstrated our ability to complete
+Solar Roof installation in just 1 day. Please note, this still requires 1 to 2 days to remove the existing roof
+and prepare it for the Solar Roof installation. Clearly, there will be a range of installation times based
+on size, complexity, weather and other factors. Overall, our reduced installation time provides a better
+customer experience and will enable the business to grow exponentially as scale effects allow for increased
+efficiency.
+In closing, we believe the Energy segment is poised for a strong growth as we continue to focus on
+increasing scale while reducing cost to maximize profitability. I want to thank the team again for their hard
+work, and I look forward to another strong quarter ahead of us.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Question and Answer
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Thank you very much, everyone. And let's begin with questions from say.com. The first question from
+retail shareholders is, is Tesla planning to start 4680 cell production at Giga Berlin at the same time as
+vehicle production? Can Tesla share more information on what products will use the battery cells from the
+pilot line in Fremont?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes. Drew, do you want to take that?
+
+Andrew D. Baglino
+Senior Vice President of Powertrain & Energy Engineering
+
+Sure. Yes, we will incorporate 4680 design solutions into many applications in time across both energy and
+vehicle. And we can use our pilot production facility in Fremont to support the new factory in Berlin as it
+ramps.
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Thank you very much. Let's go to the next question, which is question #2 from retail shareholders. Does
+Tesla's tabless cell design allow for significantly higher peak charging rates? Does it improve the required
+taper curve?
+
+Andrew D. Baglino
+Senior Vice President of Powertrain & Energy Engineering
+
+Yes. The fundamental limitation on charge rate in lithium-ion batteries is avoiding lithium plating on
+the anode. And while the tabless architecture helps avoid overheating because it's a more power-dense
+architecture at high continuous charge rates, it doesn't change the anode plating story. Electro design and
+anode material choice more directly determines the maximum charge rate and how to avoid that lithium
+plating problem.
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Okay. Thank you very much. The third question from retail is, would FSD be able to be transferred to our
+next vehicle or pay a transfer fee? It would add a broad -- it would add to brand loyalty the same way
+gaming companies and cellphone companies keep you in their ecosystem by letting you transfer purchases
+to upgraded hardware.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes. I think we'll give it some thought.
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Okay. The fourth question is, what are the remaining constraints to be solved for Solar Roof installations to
+ramp significantly? Carl?
+
+Carl Peterson
+Director of Engineering
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Yes. I'm Carl Peterson. I'm on the Solar Roof engineering and installation. The biggest constraint right now
+in Solar Roof ramp is getting enough installers on board and trained and experienced. We've made a lot
+of progress on this in Q3, and we're continuing to hire. The next opportunity is improving the material
+flow on the job site. We've talked about this a lot in the factory as well that setting up the right packaging,
+kitting so that every installer on the roof has the parts they need at their fingertips. Also, we've had great
+response from third-party roofing contractors as they're ramping up installations for Solar Roof on their
+customer homes, which is a big source of future growth.
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Thank you, Carl.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes. I mean here's the way to think about that product, in my opinion. You have to say, I think, what do
+you want the world to look like? When you look around the neighborhood in the future, decade from now,
+what do you want? What products are going to make your life better? What future do you want? And I
+think a future where we've got beautiful roofs with -- generating energy that are tough and resilient and
+better in every way than a regular roof and alive with energy, that's the future we want. Solar Roof is a
+killer product. This will become obvious next year.
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Thank you. And the last question from retail shareholders is, you recently referred to Tesla as a
+conglomerate of start-ups. Other than manufacturing electric cars, what do you suppose will be the most
+valuable business units within Tesla over the next 5 to 7 years? Could you envision any of them ever
+spinning out from Tesla?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Well, yes, as I think about this today, I mean Tesla is probably -- there's in excess of a dozen start-ups
+effectively in Tesla. Every major product line is a start-up. Every new -- big new plant is a start-up. And
+sometimes, frankly, we have to learn the lesson a few times before it sinks in. But even things like service
+and sales are start-ups. Other car companies, OEMs, they don't own their sales and service. So we have
+to create our service network. We have to create our sales and delivery network. We have to do this in, I
+don't know, 40 countries, multiple languages. Something that people don't really even know much about is
+our internal applications team that writes the core technology that runs the company.
+
+We are not dependent on enterprise software. Like for those who understand what this means, this
+is a very big deal. And my hat is off to the great work of the internal applications team. They are like
+the nervous system, the operating system of the company, the Tesla operating system, extremely
+fundamental. Obviously, insurance is substantial. So insurance could very well be, I don't know, 30%,
+40% of the value of the car business, frankly. And as we've talked about before, with a much better
+feedback loop, instead of being statistical, it can be specific. And obviously, somebody does not have to
+choose our insurance. But I think a lot of people will. It's going to cost less and be better, so why wouldn't
+you?
+
+And the whole autonomy thing is a start-up. The computer chip was -- designing our computer chips was
+a start-up. Obviously, cells are a start-up. Designing and making our own power electronics for the drive
+units, designing, manufacturing our own motors. Chargers, the Supercharger network is a start-up. The
+thing, I think, that people just don't really understand about Tesla is that it's a whole chain of start-ups.
+And they're like, well, you didn't do that before. Yes, but we're doing it now. I mean I think, so far, we
+have not -- we've maybe been a bit slow with some of the start-ups, but I don't think we've had any of
+them fail. So, so far, so good. No plans to spin anything out. That just sounds like added complexity.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Thank you very much. Let's go through institutional investor questions. The question #1 is, as a bridge
+to the ride-hailing network, could you leverage the insurance product to give customers the ability to rent
+out their vehicles via the app, thereby enabling the car to make money for them? So basically proprietary
+version of Turo.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+We're -- I think we're going to focus on enabling the robotaxi system. So you can just basically -- like
+that's a sub -- that's just really quite a small subset of the overall robotaxi or robocar thing, where you
+can have the car be autonomous for you. You can have the car be -- share with friends and family. You can
+add or remove it from the network. You can have it be entirely in the network. I mean if you're an Uber or
+Lyft driver, you could be managing a fleet of 10 cars. This sort of seems like a shepherd tending the flock
+type of thing. It's like you just get more, way more leverage. So I think that's sort of -- we could do that.
+It wouldn't be very difficult, but we're going to just be focused on just having an autonomous network that
+has sort of elements of Uber, Lyft and Airbnb. Yes.
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Thank you. And the second question from institutionals is, residential energy use accounts for roughly the
+same magnitude of carbon emissions as road transport. Today's boilers and aircon units are profoundly
+unsexy. Could you elaborate on hints that HVAC advances with the Y could also find use in a domestic
+system?
+
+Andrew D. Baglino
+Senior Vice President of Powertrain & Energy Engineering
+
+Yes.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes. Go ahead, Drew.
+
+Andrew D. Baglino
+Senior Vice President of Powertrain & Energy Engineering
+
+I was just going to say, I mean, I think one of the things we focused on with the Model Y and now Model
+3 heat pump system was learning how to build a tightly integrated system capable of moving heat to and
+from anywhere really, powertrain, battery, cabin, the environment, in -- outside ambient temperatures, all
+the way down to like negative 20 C, so 30 C. And that's definitely applicable to the home needs of heating
+and cooling the home and the water in your house, so certainly applicable. Elon?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes, absolutely. I think like the heat -- for heat pump in the car, being able to use the batteries both as a
+thermal and an electric energy reservoir is very significant. Same thing could be applied to a home with
+the water heater, so -- and the back of pack itself, of course. So I think there's potential for an integrated
+home system that kind of does power generation/storage, heating/cooling, air filtration, water purification
+in a really tight package. We don't actually have like a prototype or anything, but I think conceptually, that
+is something that would be probably good to have.
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Thank you. The third question from institutionals is, if meeting your long-term volume targets requires
+price reductions that preclude you from achieving your low double-digit stated margin targets for the auto
+business, will you still reduce prices accordingly?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Well, we want to make our cars more affordable, and it's really important to separate out affordability
+from value for money. If the car is too expensive or any given product is too expensive, then -- and
+people don't have enough money in their bank account, they simply can't buy it no matter what the value
+proposition is. So it is important to lower the prices in order to -- such that people can literally just have
+enough money to buy it. I do not think we lack for desire for our product, but we do lack for affordability.
+And so we have to improve the affordability of our products so they are not out of reach of people. We
+want to bring them more in reach over time but also improve our cost of production. Obviously, we
+get hopefully a little bit better every year, sometimes a lot better. And in terms of margins, all of these
+margins are going to look pretty comically small when you factor in autonomy.
+
+Zachary J. Kirkhorn
+Chief Financial Officer
+
+Yes. 2 things I'll add to that. Without a doubt, I mean, we're moving forward to push as much volume
+as we reasonably can. So Elon talked to earlier kind of how the S-curve and the time line of incremental
+factories looks like. And so we're moving full speed ahead with as much volume as we can reasonably
+move forward with. The second comment I'd make is, if you just look at the journey of the company over
+the last 1.5 years, we have grown volumes and grown gross margins despite a number of price reductions
+over that period of time, and we have cut OpEx fairly stable during that period of time as well.
+
+And so the key is what Elon mentioned here. I mean we have to improve the affordability of the vehicle.
+We have to also continue to make progress improving the cost structure of not only COGS but of OpEx,
+which we've demonstrated over the last 1.5 years, I think, quite successfully, and improve the value of the
+vehicles at the same time. So in addition to reducing the cost of the car, we're making the cars better. And
+that's the formula to sell the volume. That's what we're focused on.
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Thank you very much. The fourth question from institutionals is, at what point do you expect to have
+enough internal or external battery capacity to start ramping up stationary storage deployments again?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes. We're ramping up stationary storage a lot. So I mean, it's approximately doubling. We expect it's
+approximately double next year. So that's pretty good. And hopefully, we can accelerate that in years to
+come.
+
+Andrew D. Baglino
+Senior Vice President of Powertrain & Energy Engineering
+
+And approximately doubling it this year, too. So the growth...
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes, yes, yes. I mean if you just keep doubling things, pretty soon, you hit the mass of the universe, and
+we'll need to start turning Jupiter into cells.
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+And the last question from institutionals is, manufacturing is hard. Delays happen. What contingencies
+do you have in place to ensure that bottlenecks that you might encounter while renting internal cell
+production will not preclude you from your ability to hit your Model Y production volume targets in Berlin
+and Texas?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes. So I think it's -- we're trying to derisk 2021 so that there's almost no dependency on our internal
+cell production. It's very, very small. The internal cell production will help us ramp in '22, but we're not
+dependent on it for '21.
+
+Andrew D. Baglino
+Senior Vice President of Powertrain & Energy Engineering
+
+And to derisk the manufacturing system itself, that was one of the reasons why we located our pilot
+production facility here in Fremont, so we can rapidly iterate on manufacturing scale-up challenges,
+provide rapid feedback to the design of both the product and the equipment.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes. And our pilot line is pretty big as pilot lines go. It's -- it will be in the top 10 cell factories on Earth, I
+believe.
+
+Andrew D. Baglino
+Senior Vice President of Powertrain & Energy Engineering
+
+Yes, that's true.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Subscale one, yes, so...
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Thank you very much. And now we can go to questions from analysts online. Sherry?
+
+Operator
+
+[Operator Instructions] Our first question will come from Rod Lache with Wolfe Research.
+
+Rod Avraham Lache
+Wolfe Research, LLC
+
+Just wanted to ask about the targets from your Battery Day. Looked like you could be approaching
+something like 20 million vehicles by 2030 if you hit those goals. Could you maybe share with us a little bit
+more of a midterm target, like where would you be by 2025? And maybe give us a little bit more insight
+into the investment required to get there, just to put that extra $2 billion to $2.5 billion per year into
+context.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes. I mean I think the tricky thing with trying to predict things midway through an exponential is that if
+things are doubling every year or even just growing 50%, then if you shift 1 -- plus/minus 1 year, it has
+a huge effect on the number. So -- and it sounds like, wow, you either massively exceeded or massively
+undershot. But it's -- actually, what's going on is a giant S-curve. So a whole bunch of pretty big S-curves
+that integrate into a gigantic S-curve. So that's why it's difficult to predict the middle. And I'm not saying
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+for sure we'll hit 20 million vehicles. But it does seem like a good goal to have because that would mean
+that we're replacing 1% of the global fleet per year.
+
+And it's difficult to say that we're -- are we really changing the world if we're not switching out 1% of the
+global fossil fuel vehicles? I mean it's -- I'm not sure that we can make that argument unless we change
+at least 1% of the vehicles per year. So that's where the 2 -- the 20 million vehicle per year comes from.
+It's like 1% of 2 billion vehicles, which is the global fleet currently. The global fleet is growing. So probably
+will be a bit bigger in the future. So it's hard to say. It's like map an S-curve to a $20 million -- a 20
+million vehicle target in 2030, and we will slide it around and see what that number looks like. That will
+give you about as much insight as we have.
+
+Rod Avraham Lache
+Wolfe Research, LLC
+
+Okay. And just secondly, if solid-state lithium metal were to become viable, could you just maybe just
+pass along your perspective on that? And would you be able to repurpose most of what you're putting into
+place for changes in technology?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes. I mean answering the first part, the cell production system is fairly agnostic on anode, cathode,
+electrolyte, separator, that kind of thing. It's -- we could change, and we will change, and upgrade the
+-- all aspects of the cell. So -- and we could, for example, make ion phosphate or nickel manganese or
+something like that. It's quite adaptable. So I wouldn't say just too much more about it. The lithium, like
+a pure lithium anode is maybe not -- it's not as great as it may sound. Yes. Volumetrically, you're not
+gaining all that much because if you got nothing on the -- let's say on the anode side, you got -- and you
+just play out lithium, it's got to go somewhere, so you got to have room for it.
+
+Andrew D. Baglino
+Senior Vice President of Powertrain & Energy Engineering
+
+Yes. Lithium is less volumetrically dense in the pure metal form than it is intercalated into silicon. So it's
+kind of hard to understand, but that's the truth. And then as we showed in our presentation, the total
+anode cost that we're talking about is only $1 or $2 per kilowatt hour. So the value of like removing the
+anode material isn't super high either. So yes, I fully agree, Elon.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes, exactly. But if it turned out that a pure lithium anode is the right move, that would simply -- that
+would be no problem.
+
+Andrew D. Baglino
+Senior Vice President of Powertrain & Energy Engineering
+
+Right. Agreed.
+
+Operator
+
+Our next question will come from Colin Rusch with Oppenheimer.
+
+Colin William Rusch
+Oppenheimer & Co. Inc., Research Division
+
+You're talking about in-sourcing a number of processes. Can you talk a little bit about which processes
+you're moving in-house and the equipment that you're planning to make yourself versus some of the
+equipment that you'd be buying from other folks?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Sorry, are you talking about the -- for cell manufacturing or selling or...
+
+Colin William Rusch
+Oppenheimer & Co. Inc., Research Division
+
+Well, cell manufacturing, I'm pretty sure as well as on the molds that you talked about. But in terms of the
+CapEx budget that you mentioned earlier, talking about the -- a number of processes coming in-house and
+which equipment pieces you're planning to make yourself versus buying?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Okay. Well, I mean, Tesla is absolutely vertically integrated compared to other auto companies or basically
+most any company. We have a massive amount of internal manufacturing technology that we built
+ourselves. We literally make the machine. In fact, we design it -- so like, okay, what are the things we
+want to make, design a machine that will make that thing, then we make the machine. This is what -- this
+makes it quite difficult to copy Tesla, which we're not actually all that opposed to people copying us, but
+it's quite difficult because you can't do catalog engineering. You can't just I'll pick up the supplier catalog,
+I'll get one of those machines, one of that machine, bingo, I'm now Tesla.
+
+You have to -- there is no catalog. What catalog -- so we made the machine that made the machine that
+made the machine. It gets -- no, no, we don't want to get carried away here. But -- and quite frankly,
+we would like to outsource less. That would be great. Because then if we could outsource -- if we take
+something that we're doing and outsource it, then we could take those people, and they -- we're going to
+have them do something else.
+
+But yes, it's like we're just making a crazy amount of machinery internally. This is -- Tesla is not well
+understood. If you just walk around the factory, you'd just get a sense for it. And -- yes. I don't know if
+this is like a smart move. But I just know like, hey, if we're trying to make progress and nobody's got the
+machines that we need, we've got to make it, so we do.
+
+Colin William Rusch
+Oppenheimer & Co. Inc., Research Division
+
+Okay. And then the second question is really around the balance sheet has really changed. You guys have
+run off, land, and you've got a lot more cushion at this point. And obviously, there's opportunities around
+insurance to drive out some of the cost of ownership as well as financials. How are you guys thinking
+about that as you move into trying to accelerate demand a little bit and your ability to leverage your
+access to capital and enable some of those other products? Is that changing from where you've been in
+the past?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes. I mean something like insurance is a good example of a product that's basically made by our internal
+applications team. So we made the insurance product and connect it to the car, look at the data, calculate
+the risk. This is all internally -- basically internal software application. It's pretty low capital but has very
+high return. I don't know. We're trying to spend money at the fastest rate that we can possibly spend it
+and not waste it. That's our current plan. And so it's quite hard to spend money without wasting it, or
+just -- we're like really just trying to not waste too much of it, frankly. We will certainly waste some of it,
+but trying to waste, not to waste too much of it, this is very difficult. But otherwise, we just try to spend
+money as quickly as possible in a way that is sensible and yields more value than it costs.
+
+Operator
+
+Our next question will come from Adam Jonas with Morgan Stanley.
+
+Adam Michael Jonas
+Morgan Stanley, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Hey, Elon, a question on LIDAR. If LIDAR were totally free, would you want to use it in your cars near
+term? Would that tech significantly help Tesla on the training of your neural network for FSD?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+I mean totally free, well, I think probably -- I think even if it was free, we wouldn't put it on.
+
+Adam Michael Jonas
+Morgan Stanley, Research Division
+
+Okay. Let's follow up then. Amazon appears to be investing and building an autonomous or electric
+transport network of some ilk through some organic investments, but also Zoox, Aurora, Rivian, et cetera.
+What advice would you give Jeff Bezos in his endeavor?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Well, I don't know how much he cares about this, but I guess, he sure is investing a lot of money in it.
+I mean I think you obviously need to focus -- if you care about autonomy, you need to focus on vision
+because the entire road system is based on passive optical. So you have to solve passive optical for -- to
+have a self-driving system that is a generalized solution. And once you solve passive optical, you've solved
+self-driving, so why bother with anything else?
+
+Operator
+
+Our next question will come from Pierre Ferragu with New Street Research.
+
+Pierre C. Ferragu
+New Street Research LLP
+
+A very simple one. You haven't talked that much about like the Cybertruck today. And I was wondering
+how like the ramp of that product is looking like. When we should see the product hitting the road? And
+how fast do you expect to ramp volumes? Then I have a quick follow-up.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Sure. I was in the studio actually on -- last Friday with Franz and the team just going over just sort of
+some improvements to the Cybertruck. Generally, with -- at Tesla, we really aim to make the car that
+is delivered better than the car that is unveiled. Because it always drive me crazy, car companies would
+unveil these awesome looking cars, like, great, you can't wait until they make that. And then the car
+they actual make is like much worse, and -- but it's just -- it's like really disappointing? So man, we
+always want to make the car that we deliver be better than the car we unveil. And that's the goal with the
+Cybertruck. So there's like a lot of small improvements compared to what was unveiled. I think it's going
+to be better than what we showed. And yes, it's cool. Like it's going to be made in Austin. So it's kind of
+dependent on completing that factory. And there are obviously new technologies with the high hardness
+kind of armored exoskeleton.
+
+This is -- it's never been done before, so there'll probably be some challenges along the way. And
+obviously, something that's extremely high hardness and difficult to scratch or dent is also difficult to
+form. So it's -- there's manufacturing challenges there. That's why it's so cleaner. Although it also looks
+good, I think, from a cleaner standpoint.
+
+Yes. If all goes well, we'll be able to do some Cybertruck deliveries towards the end of next year, yes. So
+it's difficult to predict. I would say there's probably a lot of deliveries in '22 and some deliveries towards
+the end of next year if things go well.
+
+Pierre C. Ferragu
+New Street Research LLP
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Okay. And now I'm trying to get a sense of how next year is going to look like. So if I look at your
+production capacity at the end of this year, it's going to be almost 850,000 units on an annualized basis.
+And you're going to increase capacity in Shanghai, open Berlin. You say today you would open Austin as
+well. So you're probably going to end the year above 1 million units. And so am I right thinking next year
+we should expect to deliver like somewhere like between 840,000 and 1 million cars during the year?
+
+Zachary J. Kirkhorn
+Chief Financial Officer
+
+Yes. We'll...
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes -- go ahead, Zach.
+
+Zachary J. Kirkhorn
+Chief Financial Officer
+
+Yes, we'll provide guidance on 2021 after next earnings call.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+I mean it's in that vicinity. Yes. You're not far off.
+
+Operator
+
+Our next question will come from Dan Levy with Crédit Suisse.
+
+Dan Meir Levy
+Crédit Suisse AG, Research Division
+
+Just wanted to start with a question on the quarter. Zach, maybe you could give us a sense of where
+directionally Model Y and China Model 3 gross margin was in the quarter relative to Fremont Model 3? And
+then just a little more color on the gross margin in the quarter. Was this just purely a function of higher
+volume? Or was there also FSD revenues? Just puts and takes on the gross margin in the quarter.
+
+Zachary J. Kirkhorn
+Chief Financial Officer
+
+Sure. On your question about FSD, there was a small amount of that deferred revenue release. It's not
+particularly material in the $10 million range for the quarter. With respect to product margins, what
+we're seeing across the board is just continued reduction in cost, really across every product. Shanghai
+continues to make good progress there. Model Y cost is also coming down quite quickly as we ramp
+that. But we've guided in the past that Model Y cost should be roughly equivalent to the Model 3 built in
+Fremont costs. It's not quite there, and it's also a bit of a moving target. As Model 3 Fremont cost comes
+down, Model Y also has to come down with that. But we're generally seeing strength in Shanghai margin,
+strength in Model Y margins. And not too far off of this, we're seeing strength in Model 3 Fremont, S and X
+margins. So overall, for the quarter, I think it was quite a good story for the products.
+
+Dan Meir Levy
+Crédit Suisse AG, Research Division
+
+Great. Great. And then just as a follow-up, I wanted to ask about your strategy in Europe. And I think
+your strategy generally has been you cut costs and that allows you to cut price, and you can generate the
+extra volume. And I think that's what we're seeing in China and the use of LFP. That's a good example. So
+once you ramp in Berlin, what's the reasonable expectation of what pricing might look like in Europe? And
+how flexible are you going to be on pricing to generate incremental reg credit, so margins out of the gate
+that are a little low, but that are then used for the reg credits that help to offset that?
+
+Zachary J. Kirkhorn
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Chief Financial Officer
+
+Yes. But what I think I would say generally to the question is, I mean, we've been in a position for some
+time now where we are prioritizing where in the world we send our production. And there's different
+factors to that depending upon when different product changes are made, what the logistics routing looks
+like, different things going on in different markets. But we are in a position where we need to prioritize.
+I mean what we're trying to do as fast as we possibly can is get production up higher so that we're not
+in a position of needing to prioritize again. There are -- yes, I think that gets at the sentiment of your
+question.
+
+Operator
+
+Our next question will come from Gene Munster with Loup Ventures.
+
+Charles Eugene Munster
+Loup Ventures, LLC
+
+A question on the Semi. If you could just walk us through the development of Megachargers, platooning
+and maybe just how you think about autonomy for Tesla Semi and what is -- how you envision it
+impacting the broader trucking industry beyond just EV.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Well, actually, Jerome, do you want to answer that?
+
+Jerome Guillen
+President of Automotive Division
+
+Yes. We continue the development of the Semi. And in particular, Megachargers, we realized that the 350-
+kilowatt or so that we might be looking for cars is not going to be enough for Semi. So we're looking for
+something much more powerful than that, that can achieve essentially charging at first the Semi as during
+a break, during your driving time so that you can drive until the next break, yes. So there is no usable
+or efficient time wasted for charging the Semi. That's the goal. We're working with other parties to make
+sure that there is a standard infrastructure that will be able to be deployed for all customers. Yes. That's
+probably all I can say at this point, yes. So we're not working on...
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Sorry, go ahead.
+
+Jerome Guillen
+President of Automotive Division
+
+Just we're not working in isolation. Yes. We're trying to -- we have to invent it because it doesn't exist. But
+we're trying to invent something that could be helpful for everybody.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes. Just a note on the sort of Semi. The Semi does consume a lot of cells. So it's, call it, 4 to 6x more
+than a passenger vehicle. Vehicle, 5, 5x-ish. So if we are cell-constrained, it is -- it kind of -- it's difficult
+to ramp up the Semi because there's no cells. So we need to solve the cell constraint before ramping
+Semi to significant volume. That's the only real constraint on Semi's progress. And just we found over and
+over again, we just kept running into cell production limitations. And then we're just taking things out of
+one pocket and putting them in another. So we just need more cells so that we can do more stationary
+storage, more vehicles, more vehicle lines. Matter of fact, we need more cells.
+
+Charles Eugene Munster
+Loup Ventures, LLC
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Makes sense. A question just, as you think about -- you've talked about robotaxi and how you think that's
+going to impact kind of humans moving around. How do you think about Semi impacting freight longer
+term? I mean is this something that is nice to have and a complement to all of your tech in new markets?
+Or do you think that this could be a material business?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+I think it's very material for sure. I mean really long term, all transport will go autonomous. Yes. Horses
+are already autonomous. But all transport will go autonomous, yes, so including Semi. So it will be pretty
+significant.
+
+Jerome Guillen
+President of Automotive Division
+
+The technology that we're putting in Semi is identical to what we're putting in the other vehicles.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes. It's just bigger and more motors.
+
+Operator
+
+Our next question will come from Ben Kallo with Baird.
+
+Benjamin Joseph Kallo
+Robert W. Baird & Co. Incorporated, Research Division
+
+Elon, what do you think the biggest structural issue is with the, let's call it, old school OEMs, or 1 or 2
+of the structural issues, for them not getting their act together and catching up with you? And then you
+mentioned what you -- we want the world to look like ahead of us. What do you envision that? Is it like
+just Tesla or Tesla and Rivian or what?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Well, I do think there will be other car companies. I don't think we're going to be the only one. So I mean,
+the things that -- like what other car companies do even in the auto segment is quite a small subset of
+what Tesla is. So Tesla, we design and build. We're very vertically integrated. So we're designing and
+building so much more of the car than other OEMs who will largely go to the traditional supply base and
+like I call it, catalog engineering. So it's not very adventurous, and it basically ends up like older products
+end up looking the same because they're going to the same suppliers.
+
+So I mean, to the degree that you inherit legacy components, you inherit the legacy limitations and
+cost structure. And so you kind of need to make new ingredients, new parts, and then you need -- then
+there's no machine to make those parts. So you have to make the machine that makes the part. So Tesla
+is like -- we're probably -- I mean we might be, in order of magnitude, more vertically integrated than
+other car companies. And which we're not now, we certainly will be. And then we also have to create
+actually our sales and service and distribution system in, I don't know, something in the order of 40
+countries, somewhere, it will be over 100 countries. Whereas the other car companies do not own their
+sales and service and distribution. So they kind of assemble parts from a supplier base and then hand
+them to a dealer base. So it's just like -- it's not just -- it's like comparing Tesla to a car company, like just
+comparing just really one facet or dimension of Tesla, we're like maybe 10% in common with other car
+companies.
+
+Operator
+
+And our final question today will come from Philippe Houchois with Jefferies.
+
+Philippe Jean Houchois
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Jefferies LLC, Research Division
+
+I've got 2. The first one for me is try to understand your business model for stationary storage, have your
+thoughts on it. I mean there are 2 broad directions for me. One is selling hardware, which is a bit of a
+cost-plus business. And I'm just wondering if there's an opportunity where Tesla could actually share into
+the savings that utilities, in particular, could be able to achieve in like grid stabilization. The information
+I was able to get on your business in Australia a few years ago suggest that given the savings that are
+achieved, your hardware could have been sold at a higher price. I'm just wondering if you have -- can
+share your views on where the business probably is going.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Yes, I think you're probably right about that. I mean RJ and Zach, what do you guys think?
+
+RJ Johnson
+Global Head of Commercial Energy
+
+Yes. I mean we're already seeing this in Australia, where we're seeing behind-the-meter aggregation that
+is providing grid services back to the grid, which effectively reduces the price to the customer and reduces
+the prices for the grid operator. So you're seeing this trend happening across the globe. And it's going to
+be at the residential level as well as the wholesale level. So Megapack on one end and then Powerwall on
+the other side. Those 2 working together in tandem and the software layer on top of it, Autobidder being
+that, that really is going to help make the grid more efficient using the hardware platform and software
+together.
+
+Andrew D. Baglino
+Senior Vice President of Powertrain & Energy Engineering
+
+And just a point of clarification, like that the large power plant in -- large battery power plant in Australia,
+like we continue to operate that power plant and generate revenue in the market. So whether we could
+have sold it for more or less, like we're continuing to make money off of that power plant.
+
+Philippe Jean Houchois
+Jefferies LLC, Research Division
+
+Okay. And the follow-up question I had was, during the Battery Day, you talked about this cell vehicle
+integration approach. It's very interesting. And when I look at that -- when I think about it, it looks like
+this means that the skateboard designed that Tesla pioneered and many of your followers are using is
+going to become obsolete. Or am I not thinking about it the right way?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+It will be obsolete long term, yes. I mean -- yes.
+
+Philippe Jean Houchois
+Jefferies LLC, Research Division
+
+And long term, are we talking -- yes?
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+I mean several years from now. It's not like existing cars stop having value. It's just that if you have a
+structural pack, where the pack is contributing structural value to the car because of like the -- sort of
+like the composite honeycomb effect of share transfer between upper and lower plate, then anything that
+doesn't do that is going to have to have duplicate hardware. It's going to weigh more. It's going to cost
+more. And then the same goes for the front and rear castings.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+To be frank, we're trying to make the car like you'd make a toy. If you had a toy model car, how would --
+and then it's got to be real cheap and look great, how would you make that? You'll cast it. And that's how
+it's done. It would be absurd to make it up of tiny little pieces of stamp metal joined in complex ways. So
+it's sort of a natural thing to do.
+
+And then the same goes for using the energy storage, the battery as a structure, which is done for aircraft
+wings and for rockets. The early rockets and aircraft, they had a separate aeroshell from the propellant
+tanks or fuel tanks, and then they realized that doesn't make sense. And you've got to integrate -- you've
+got to have your fuel tank in wing shape. You've got to have your propellant tanks in the shape of the
+body of the rocket, for example. You don't want to put a box on a box, basically. So -- which over many
+years made it like basically uncompetitive to have an aircraft that has separate fuel tanks from the wings.
+The wings need to be fuel tanks. But like I wouldn't think of this as like it's like an overnight transition. It's
+several years. But then like I said, over time, it just won't be competitive to have a different architecture,
+in my opinion.
+
+Martin Viecha
+Senior Director for Investor Relations
+
+Thank you very much. Unfortunately, this is all the time we have for the Q&A today. I appreciate all your
+great questions, and we'll speak to you again in about 3 months. Thank you. Goodbye.
+
+Elon R. Musk
+Co-Founder, CEO & Director
+
+Thank you.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation. You may
+now disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+TESLA, INC. FQ3 2020 EARNINGS CALL |  OCT 21, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+

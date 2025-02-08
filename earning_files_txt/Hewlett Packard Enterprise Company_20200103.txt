@@ -1,0 +1,1150 @@
+Hewlett Packard Enterprise Company 
+
+NYSE:HPE
+FQ1 2020 Earnings Call Transcripts
+Tuesday, March 03, 2020 10:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ1 2020-
+
+-FQ2 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+0.44
+
+0.44
+
+0.00
+
+0.42
+
+1.84
+
+1.95
+
+Revenue  (mm)
+
+7205.01
+
+6949.00
+
+(3.55 %)
+
+6978.70
+
+28959.36
+
+29514.91
+
+Currency: USD
+Consensus as of  Mar-03-2020 5:03 AM GMT
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+FQ2 2019
+
+FQ3 2019
+
+FQ4 2019
+
+FQ1 2020
+
+0.36
+
+0.40
+
+0.46
+
+0.44
+
+0.42
+
+0.45
+
+0.49
+
+0.44
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+16.67 %
+
+12.50 %
+
+6.52 %
+
+0.00 %
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+11
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Andrew Simanek
+VP, Head of Investor Relations &
+Director
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+ANALYSTS
+
+A.M. Sacconaghi
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+Kanghui Ong
+Deutsche Bank AG, Research
+Division
+
+Kathryn Lynn Huberty
+Morgan Stanley, Research Division
+
+Shannon Siemsen Cross
+Cross Research LLC
+
+Simon Matthew Leopold
+Raymond James & Associates,
+Inc., Research Division
+
+Wamsi Mohan
+BofA Merrill Lynch, Research
+Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+Presentation
+
+Operator
+
+Good morning, afternoon and evening, and welcome to the First Quarter 2020 Hewlett Packard Enterprise
+Earnings Conference Call. My name is Sean, and I'll be your conference moderator for today's call.
+[Operator Instructions] As a reminder, this conference is being recorded for replay purposes.
+
+I would now like to turn the presentation over to your host for today's call, Mr. Andrew Simanek, Head of
+Investor Relations. Please proceed.
+
+Andrew Simanek
+VP, Head of Investor Relations & Director
+
+Good afternoon. I'm Andy Simanek, Head of Investor Relations for Hewlett Packard Enterprise. I'd like to
+welcome you to our fiscal 2020 first quarter earnings conference call with Antonio Neri, HPE's President
+and Chief Executive Officer; and Tarek Robbiati, HPE's Executive Vice President and Chief Financial Officer.
+
+Before handing the call over to Antonio, let me remind you that this call is being webcast. A replay of the
+webcast will be made available shortly after the call for approximately 1 year. We posted the press release
+and the slide presentation accompanying today's earnings release on our HPE Investor Relations web page
+at investors.hpe.com.
+
+As always, elements of this presentation are forward-looking and are based on our best view of the world
+and our businesses as we see them today. For more detailed information, please see the disclaimers
+on the earnings materials relating to forward-looking statements that involve risks, uncertainties and
+assumptions. For a discussion of some of these risks, uncertainties and assumptions, please refer to HPE's
+filings with the SEC, including its most recent Form 10-K. HPE assumes no obligation and does not intend
+to update any such forward-looking statements.
+
+We also note that the financial information discussed on this call reflects estimates based on information
+available at this time and could differ materially from the amounts ultimately reported in HPE's quarterly
+report on Form 10-Q for the fiscal quarter ended January 31, 2020.
+
+Also, for financial information that has been expressed on a non-GAAP basis, we have provided
+reconciliations to the comparable GAAP information on our website. Please refer to the tables and slide
+presentation accompanying today's earnings release on our website for details.
+
+Throughout this conference call, all revenue growth rates, unless noted otherwise, are presented on a
+year-over-year basis and are adjusted to exclude the impact of currency.
+
+Finally, please note that after Antonio provides his high-level remarks, Tarek will be referencing the slides
+in our earnings presentation throughout his prepared remarks. As mentioned, the earnings presentation
+can be found posted to our website and it is also embedded within the webcast player for this earnings
+call.
+
+With that, let me turn it over to Antonio.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Thanks, Andy. Good afternoon, everyone. Thank you for joining us today.
+
+HPE's first quarter results demonstrate continued progress against our strategic priorities to shift our
+company to higher-margin and more recurring revenues against a dynamic market backdrop. I am
+disappointed that our overall revenue of $6.9 billion reflects a 7% decline for the quarter, primarily due
+to declines in our Compute business. However, I am pleased with the results in several key areas of our
+business aligned to our strategy. Our pivot to as a service is gaining momentum. Our annualized revenue
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+run rate grew 19% year-over-year. We started reporting this new metric last quarter to provide more
+transparency into the recurring and higher-margin benefits of shifting to our as a service model.
+
+We grew HPE GreenLake services orders 48% year-over-year. HPE GreenLake gained 65 new logos in
+Q1 and has surpassed 800 total customers. We returned to growth in our Intelligent Edge business, with
+revenue up 4% year-over-year. And we continue to see profitable growth in areas of investment, including
+high-performance compute, hyperconverged infrastructure, big data storage and operational services
+orders, with continued improvements in our services attach intensity.
+
+Our Q1 revenues were impacted by a number of factors. First, like many of our peers, we continue to
+see uneven and unpredictable demand due to macro uncertainty. This has resulted in longer sales cycles
+and delayed customer decisions. Second, commodity supply constraints disrupted our ability to meet our
+customers' demand this quarter, particularly in our Compute and high-performance compute businesses.
+
+Additionally, the outbreak of the coronavirus at the end of January impacted component manufacturing,
+resulting in higher quarter end backlog. In both of these cases, we have established specific mitigation and
+recovery plans with each of our suppliers.
+
+Finally, we encountered a challenge in consolidating our manufacturing site in North America. We have a
+plan in place to address the Q1 issue and are confident that our efforts will result in increased efficiency
+and agility as we move forward.
+
+It is important to note that even with the revenue shortfall, we improved our non-GAAP gross margin
+by 210 basis points year-over-year to 33.2%. We drove non-GAAP earnings per share of $0.44, up 5%
+year-over-year and in line with our outlook, while also investing for future innovation. And we delivered
+improved free cash flow compared to last year's level and in line with Q1 normal seasonality.
+
+While market uncertainty continues and new global developments like the coronavirus have emerged, we
+have taken the right actions to mitigate against these evolving dynamics. Some of these actions include
+further cost take-out in our back-end operations as a part of our HPE Next program, which has been a key
+enabler of our gross and operating margin improvement. We have extended the program through fiscal
+year 2021 and expect incremental savings while maintaining the original net cash impact.
+
+As Tarek will cover in more detail, because of the actions we have taken to address the uncertainty and
+the expected recovery of supply chain constraints over time, we are comfortable maintaining our fiscal
+year '20 non-GAAP EPS outlook. But there are too many unknowns at this point to provide second quarter
+guidance. Also, we do feel it is prudent to revise our fiscal year '20 free cash flow outlook from $1.9 billion
+to $2.1 billion to $1.6 billion to $1.8 billion given that we expect some impact on cash conversion cycles
+driven by the ongoing recovery from supply constraints and impact of the coronavirus. These are the right
+pragmatic actions to take, and I am confident in our ability to deliver in our strategy.
+
+Our customers continue to reaffirm their need for hybrid capabilities to advance their digital
+transformations and harness the power of their data wherever it lives: in the cloud; on- and off-premises;
+and increasingly, at the edge. As the edge-to-cloud Platform as a Service company, HP is uniquely
+positioned to capitalize on these trends and help our customers transform.
+
+Before Tarek provides more specifics about the quarter, let me highlight a few of our business and
+segment results. First, our Intelligent Edge business outperformed competitors across the industry. We
+grew in all geographies, posting double-digit growth in North America despite the challenging macro
+environment, and we delivered double-digit growth in our Aruba-branded products. Over the last 2
+quarters, we have been actively enhancing our sales coverage model in North America, and I am proud of
+the team's hard work and our momentum. We declared the opportunity at the Intelligent Edge early, and
+we continue to invest in bringing a cloud experience to the edge, where data is increasingly created. At
+the core of this strategy is HP Aruba Central, the only cloud-native and simple-to-use platform that unifies
+network management, AI-powered insights and IoT device security for wired, wireless and WAN networks
+and soon 5G and edge computing. More than 58,000 unique customers are using Aruba Central.
+
+In Q1, Aruba, which pioneered the software-defined branch solution for deployment and management of
+large retail networks, further enhanced our solution by integrating Aruba Branch Gateways with Aruba
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+Central. By providing a single point of control for SD-WAN, wired and wireless networking, Aruba can help
+customers achieve secure, simplified branch connectivity at scale.
+
+Our customers continue to recognize our innovation at the edge. For instance, in the first quarter, the
+Office of Information Technology at Princeton University turned to Aruba AOS-CX to support its wired
+initiative and seamlessly integrate with Aruba wireless with a goal of creating a complete mobile-first
+campus of the future. Sub-Zero, a leading luxury appliance maker, updated its wired with wireless
+infrastructure through Aruba AOS-CX and [ Eastern Wireless ] to support IoT in high-end appliances. Both
+our Aruba AOS-CX and Wi-Fi 6 solutions continue to gain traction in the market.
+
+The customer examples I share are a testament of our differentiated innovation. I am excited about
+how our market leadership is helping customers redefine experiences at the edge. We will continue to
+enhance our portfolio with the integration of 5G and mobile edge computing to capitalize on this significant
+opportunity.
+
+Turning to Hybrid IT. As we announce at our Securities Analyst Meeting last fall, we are providing revenue
+and operating profit disclosures in 4 business segments, Compute, High Performance Compute & Mission-
+Critical Systems, Storage and Advisory & Professional Services, aligned to customer demands and market
+trends. Tarek will walk you through the financial results in greater detail, but let me share a few high-
+level observations. As I noted earlier, our Compute revenue was impacted by a combination of factors and
+came in lower than anticipated for the quarter. However, we did see an acceleration in unit volumes, which
+were up mid-single digits year-over-year, excluding Tier 1 and China. Our High Performance Compute
+& Mission-Critical Systems segment includes the first full quarter of Cray. We are excited about the
+combination of HP and Cray and the growing TAM. We have been awarded more than $2 billion in HPC
+business expected to be delivered in the next 3 years. Programs include the U.S. Department of Energy's
+El Capitan system at the Lawrence Livermore National Laboratory and Frontier Supercomputer at Oak
+Ridge National Laboratory, among others.
+
+Our new segmentation provide greater insights into the size, strength and attractive financial profile of
+our HP Storage business, which is a $5 billion business with an operating margin of 18%. We gained
+momentum in key areas during the quarter and expect to gain share in external disk. Big data storage
+grew 45% year-over-year and demonstrates early success with our MapR acquisition. Hyperconverged
+infrastructure also continued to grow, up 6%. HP InfoSight, our cloud-based AI operations platform,
+gained momentum across both Storage and Compute. I am proud of our focused efforts and innovation
+that have created one of the most comprehensive intelligent data platform in the industry, which will
+continue to provide customers with superior simplicity and performance.
+
+Our Advisory & Professional Services business provides strategy, technology planning and consultant
+services that help customers navigate their digital transformation from edge to cloud. With increased focus
+and simplification of this business, we drove demand across the HPE portfolio and significantly expanded
+operating margins this quarter, up 12.5 points year-over-year.
+
+Our customer wins demonstrate the strength of our strategy and breadth of our portfolio. For example,
+HPE was recently selected by Zenuity, a joint venture between Volvo Cars and Veoneer, to help make
+next-generation autonomous driving cars a reality. HPE will provide the crucial AI and high-performance
+computing required to gather, store, organize and analyze data from its global network of test vehicles
+and software development centers. The end-to-end solution will be delivered as a service through HP
+GreenLake. Rohde & Schwarz, a global electronics company, wanted to reduce storage complexity and
+reclaim management time, already relying on 3PAR for business-critical applications, the company chose
+Nimble Storage to help manage a 20% year-over-year growth in data. This new combination has improved
+performance threefold.
+
+Volkswagen Group selected HPE to deliver state-of-the-art compute and mission-critical servers to run its
+apps and solutions like SAP HANA, virtual desktop infrastructure and others focused on big data analytics,
+AI and autonomous driving. Our offerings such as HPE Superdome Flex, HPE ProLiant Gen10 servers and
+HPE Pointnext support services will power the data and apps for the Volkswagen Group's 12 global brands.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+In Q1, we continued to accelerate innovation. We achieved a major milestone in our pivot to as a service
+with the launch of HPE GreenLake Central platform. HPE GreenLake Central is an advanced cloud platform
+that provides customers with a consistent cloud experience for all their applications and data wherever
+they live through an operational console that runs, manages and optimizes their entire hybrid estate.
+We launched our HPE Container Platform, which is the first enterprise-grade Kubernetes-based container
+solution. It leverages HPE's acquisition of BlueData and MapR together with 100% open-source Kubernetes
+software. This platform provides customers with a common and faster path to run legacy and cloud-native
+applications with persistent storage connectivity.
+
+And we acquired Scytale, an innovative software company focused on service authentication. The Scytale
+team are the founding contributors to 2 open-source projects that they are positioned to become the de
+facto standard for identifying and securing enterprise workloads, both on- and off-premises. Our Scytale
+acquisition is consistent with our targeted approach to M&A that brings critical talent and complementary
+technologies to HPE. We look for accretive, value-enhancing acquisitions that improve our competitive
+positioning and accelerate our strategy.
+
+Finally, our HPE Financial Services business continues to provide us with a critical competitive advantage.
+In Q1, overall financing volume increased 2%. GreenLake represented more than 40% of our HPE leasing
+volume. HPEFS uses multiple levers to help customers accelerate their digital transformations while
+contributing to the circular economy. Through asset upcycling and accelerated migration, HPEFS free up
+well over $500 million in our customers' budgets over the last 2 years. This business helps our customers
+capture value from older assets, achieve their sustainability goals and invest in new technologies as a
+service.
+
+As we advance our business objectives to meet our customer needs and deliver for our shareholders,
+we continue to be guided by a very strong purpose. I am tremendously proud of our environmental
+stewardship, our investments in our people and our culture of integrity and inclusion. HP was just
+recognized as one of the most ethical companies by Ethisphere Institute. We were also proud to be named
+to Bloomberg's Gender-Equality Index. These are very important measures of how HP delivers for our
+team members, customers, shareholders and our global communities.
+
+In summary, in Q1, we faced continued macro uncertainty which, combined with supply and
+manufacturing constraints, impacted our revenue, particularly in Compute. Despite these issues in the
+current market backdrop, we continue to execute with discipline and made progress against our strategic
+priorities. We outperformed the market in critical areas like Intelligent Edge. We gained traction in high-
+performance compute with the acquisition of Cray. We advanced our pivot to as a service, all while
+delivering EPS and gross margin expansion. While we made progress in these important areas, we know
+we have work to do to improve in others.
+
+We are living in an uncertain time, but what is certain is our commitment to continue to manage our
+business with focus and discipline. I believe in our sound strategy, in our talented team and in our
+differentiated technology. This combination will enable us to execute our pivot to provide our customers
+and partners unique edge-to-cloud experiences delivered as a service. And by doing so, we expect to
+deliver long-term profitable growth and generate stakeholder value.
+
+With that, let me turn it over to Tarek to provide more details about the quarter.
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Thank you very much, Antonio. Now let me provide more detail on our financial results for the first quarter
+of fiscal year 2020. As I have done before, I'll be referencing the slides from our earnings presentation
+to highlight our performance in the quarter. Also please note that we are now reporting results according
+to our new segmentation. This will provide more granular detail on the financial performance of our
+businesses and our progress towards becoming the edge-to-cloud Platform as a Service company. Please
+refer to our recently filed Form 8-K for more detailed information, which includes historical reconciliation
+tables for the last 2 years.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+Antonio already discussed the high-level points for the quarter, but I want to briefly reiterate the main
+takeaway. We are continuing to execute on our transition to higher-margin and more recurring revenue
+areas in a challenging business environment. We also remain confident that we have the right strategy in
+place and are taking the right actions to lay a foundation for sustainable, profitable growth in the future.
+
+Turning to Slide 2, with the financial highlights for the quarter. Despite the top line challenges from uneven
+demand and component supply and manufacturing constraints that I'll provide more detail on shortly,
+we continued to expand non-GAAP gross margins, which improved by 210 basis points this year, driven
+primarily by portfolio mix shift, cost of services efficiencies and commodity cost tailwinds. This gross
+margin expansion combined with other income and expense benefits that included record equity interest
+contributed from our ownership in H3C and share buybacks resulted in diluted non-GAAP EPS of $0.44,
+which is up 5% year-over-year and in line with our original outlook for the quarter.
+
+On the cash front, free cash flow was a use of $185 million, which was in line with the prior year and
+normal seasonality. Consistent with our capital management policy, we paid $156 million in dividends and
+repurchased $204 million in shares. From a macro perspective, as Antonio mentioned, geopolitical factors
+continue to cause business uncertainty, particularly in larger enterprise deals, creating an uneven and
+unpredictable business environment. This was further exacerbated by supply constraints, both component
+shortages and our North American manufacturing site consolidation, which affected the Compute business,
+in particular. We expect component shortages to remain a headwind and this situation to alleviate as we
+progress through the year.
+
+The North American manufacturing site consolidation has created near-term execution challenges that
+we are actively addressing and expect to have improved efficiencies and agilities in our supply chain
+moving forward. Adding to the uncertainty is the potential disruption to demand and supply caused by the
+coronavirus outbreak. The health issue is causing disruption to both supply and demand, and while we
+cannot quantify the real impact at this time, we're monitoring the situation closely and are working with
+our suppliers to minimize potential impact.
+
+We'll now move to Slide 3 that shows our performance in the quarter in accordance with our new
+segmentation. I won't take you through every number, but let me hit a few key points. In the Intelligent
+Edge segment, we grew 4%. Our changes to North America sales leadership and go-to-market
+segmentation are paying off with double-digit growth in North America and 13% growth in overall
+wireless LAN product. While we continue to make relevant R&D and sales investments this year, we're also
+delivering significant improvement in profitability with operating margins of 9.7%, up 630 basis points
+year-over-year.
+
+In Compute, revenue declined 15% this quarter due to the previously highlighted uneven demand
+environment, component supply constraints and North American manufacturing site consolidation, yet we
+delivered a 9.5% operating profit margin in line with last year. With respect to units, excluding Tier 1 and
+China, our units were up mid-single digits year-over-year and have also been growing sequentially since
+Q2 2019.
+
+In High Performance Compute & Mission-Critical Systems, we grew revenue 6% that included our first
+full quarter contribution from Cray. Our HPC business has been awarded over $2 billion of business that is
+expected to be delivered through fiscal year '23. We will also optimize the Cray cost envelope and expect
+triple-digit millions in annualized run rate cost synergies to be recognized by the end of the next fiscal
+year, significantly adding to the operating profit and margins of HPC & MCS.
+
+Within Storage, we made progress against a competitive backdrop, maintaining flat sequential revenues
+with notable strength in big data growing at 45% year-over-year and hyperconverged infrastructure
+growing at 6% year-over-year this quarter. Note that this is the first quarter we are reporting
+hyperconverged infrastructure in Storage aligned to our peers.
+
+In Advisory & Professional Services, we are reporting for the first time in our new segmentation, revenue
+was flat, and we significantly improved operating margins by 12.5 points year-over-year as we focus
+on eliminating unprofitable business. For operational services, which is included across Compute, HPC &
+MCS and Storage, orders were up 1% year-over-year, and revenue was down 2%. Our services intensity,
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+which is the ratio of attach revenue per unit, was up year-over-year again in every business segment this
+quarter, with double-digit growth in HPC & MCS services intensity driven by Cray. This demonstrates that
+the underlying profitability of the units we sell and the attach rates continue to be robust.
+
+Within HPE Financial Services, we expanded our net portfolio of assets, which was up 2% in constant
+currency this quarter, with longer contract terms supporting GreenLake, and we maintained a solid return
+on equity of approximately 15% again this quarter with bad debt loss ratio of 0.4%, which is best-in-
+class within this industry. And while not shown on this slide, communications and media solutions that
+is included in our Corporate Investments segment is a strategically important business to us, providing
+software and services capabilities to telco service providers. It is showing improved momentum.
+
+Orders in CMS were up 10% sequentially, and revenue was up 2% due to improved momentum of the
+telco software and services business.
+
+Slide 4 shows the ARR slide that I discussed at our Securities Analyst Meeting in October 2019. Please
+reference the same presentation for a deep dive into what makes up the ARR. Our Q1 '20 ARR actuals
+came in at $511 million, a 19% year-over-year growth that accelerated from last quarter. Our HPE Aruba
+Central platform is starting to gain traction, with revenue growing triple digits year-over-year. We also
+continue to see strong growth in GreenLake services orders, which are up 48% year-over-year. As we
+progress towards building our go-to-market as a service motion and remain focused on offering a full
+suite of differentiated solutions that can be consumed as a service, we are confident in achieving our ARR
+growth guidance of 30% to 40% compounded annual growth rate from fiscal year '19 to fiscal year '22.
+
+Slide 5 shows our EPS performance to date. Non-GAAP diluted net earnings per share of $0.44 in Q1 is
+in line with our previously provided outlook of $0.42 to $0.46 due to disciplined execution, expanding
+gross margins and favorable other income and expense. This represents year-over-year growth of 5%.
+Also, please note, our OI&E performance in Q1 of fiscal year '20 does not change our fiscal year '20 OI&E
+outlook. As we foreshadowed during last October's Securities Analyst Meeting, we continue to expect OI&E
+to be a $0.03 to $0.05 per share headwind in fiscal year '20.
+
+Turning to gross margins on Slide 6. We continue to deliver significant year-over-year gross margin
+expansion that was up 210 basis points year-over-year to 33.2% as we shifted to higher-margin offerings
+like the Intelligent Edge with Aruba Central, hyperconverged infrastructure, the addition of Cray and
+commodity cost tailwinds.
+
+Moving to Slide 7. We have continued to improve operating profit since the beginning of Q1 of fiscal
+year '18 while making strategic investments in R&D and sales to support long-term profitable growth.
+In Q1 of fiscal year '20, we are now consolidating a full quarter of additional operating expenses from
+the Cray acquisition that will be optimized going forward. Furthermore, given the additional uncertainty
+in the business environment introduced this quarter, we are taking near-term actions that will enable
+us to protect and expand our profitability in fiscal year '20 while continuing to make critical long-term
+investments. As Antonio mentioned, we will extend the HPE Next program into fiscal year '21 and expect
+incremental savings while maintaining the original net cash impact.
+
+Turning to cash flow on Slide 8. Operating cash flow declined with revenue $461 million year-over-year.
+Free cash flow for Q1 was in line with normal seasonality at negative $185 million, in line with the prior
+year, thanks to planned net CapEx benefits in the quarter. Please remember, our normal seasonality is for
+cash to be used in the first half and then we generate significant amounts of free cash flow in the second
+half of the fiscal year.
+
+Now as a reminder, on Slide 9, we maintained a solid balance sheet with our cash flow generation, and we
+have a disciplined returns-based process for evaluating investments and capital returns. We are committed
+to maintaining an investment-grade credit rating that is evidenced by our current operating net cash
+position. Consistent with our capital return commitments in Q1, we returned $360 million in the form
+of share repurchases and dividends. As part of our capital allocation framework, we also target value-
+enhancing acquisitions to improve our competitive positioning and to accelerate our strategy of pivoting
+to as a service that provides us with higher levels of recurring revenue and profitability. As with any
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+investment we consider, we follow a rigorous evaluation process, cognizant of size, valuation, financial
+impacts, such as accretion dilution, and strategic fit.
+
+Now turning to our outlook on Slide 10. As discussed, we are in an increasingly uneven business
+environment, but at this point, we are comfortable maintaining our fiscal year '20 non-GAAP EPS outlook
+of $1.78 to $1.94 given the cost actions we plan to take and the expected recovery of supply chain
+constraints over time. However, there is still considerable uncertainty in the short term due to the
+unknown potential impacts from the coronavirus, so we're not in a position to provide a second quarter
+outlook.
+
+From a cash flow perspective and given our negative cash conversion cycle, we expect some current
+year impact on working capital receivables with elongated sales cycles persisting and the need to build
+inventory levels due to the supply chain constraints. Consequently, we feel it is prudent to revise our fiscal
+year '20 free cash flow outlook from $1.9 billion to $2.1 billion to $1.6 billion to $1.8 billion. We remain
+committed to our previously announced capital management policy of returning 50% to 75% of free cash
+flow to shareholders and now expect to be at the higher end of that range for fiscal year '20.
+
+So overall, we continued to make progress against our strategic priorities within an uneven environment
+and introduced new challenges this quarter. We're taking the appropriate actions to navigate the near-
+term uncertainty while executing against our vision and strategy that is clearly resonating with customers.
+We will continue to shift our portfolio to higher-margin, software-defined solutions and focus on delivering
+our edge-to-cloud platform, offering our full portfolio as a service by 2022. This will ultimately drive
+sustainable, profitable growth and shareholder returns for the long term.
+Now with that, let's open it up for questions. Thank you.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions]
+
+Our first question will come from Katy Huberty with Morgan Stanley.
+
+Kathryn Lynn Huberty
+Morgan Stanley, Research Division
+
+Tarek, how much do you think the temporary factors like component constraints, the supply chain
+disruption from coronavirus and the factory consolidation in North America had on total revenue?
+
+And then as a follow-up, Antonio, given how important revenue growth is for stock price performance
+and valuation, can you talk about the investments you're making and the time line investors should think
+about to return the company to growth? And how dependent is that path on M&A?
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Okay. Katy, thank you for the question. With respect to how much those short-term disruptions have
+accounted for our revenue performance, I would say quite a lot. There are 3 things that affected our
+revenue performance. These are the macro environment softness; the second thing is supply chain
+constraints; and the third one is also the manufacturing node consolidation in North America. We've
+taken steps to address what's under our control. Nonetheless, coronavirus has affected the tail end of the
+quarter and injected a new degree of uncertainty. And when you look at the revenue performance of the
+company, most of the decline came in the Compute category that we refer to in our new segmentation,
+and that decline has a lot to do with what you referred to from a supply chain standpoint.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Yes. Katy, thanks for the question. I just would like to add to Tarek that we feel pretty good about the
+recovery and the node consolidation that's under our control. All the other factors, Tarek explained very
+well. In terms of when you think about investment long term, we have been very clear where we want to
+invest.
+
+The investment, obviously, is in Intelligent Edge. We see that as the next frontier, big opportunity for us.
+We continue to do so. And I have to say I'm incredibly pleased with the Q1 performance because we said
+that business will return to growth, and we show -- we demonstrated that's the case. We outperformed
+the market and every single competitor there. And we are very, very pleased with the differentiation we
+have in that portfolio with higher margins. So for us, that's one area of investment.
+
+Much of that growth has happened organically. But we always look for would it make sense for us in
+terms of accretive addition in terms of intellectual property and talent, right, that we want to continue to
+expand that set of experience we delivered at the edge? And as I said in my opening remarks, we are on a
+journey to integrate 5G and mobile edge computing on a very robust cloud-based solution called HP Aruba
+Central, which is all subscription-based, and obviously, we can deliver that through GreenLake.
+
+Obviously, the other piece of this is what I call intellectual property to make our core business stronger.
+And that's all software-defined at the core with some additional, call it, intellectual property in the silicon
+space. That's what the core of the Cray acquisition was all about. The Cray acquisition is all about software
+in a cloud-native environment to run these big data-intensive workloads, and silicon was all about that.
+
+And as I think about the pivot to as a service, also, we're looking for software that will make our as a
+service experience unique and differentiated in a true edge-to-cloud platform. And as I announced in my
+remarks, we introduced 2 key platforms: one is HPE GreenLake Central, which is the console, the control
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+point for managing and deploying workloads at the edge, in the core on-/off-premises, so we've added
+managed services layer on top of that; and then the container platform, which is a true cloud-native
+environment where you can run both legacy and cloud-based workloads.
+
+So those are the things we are doing. But I just want to emphasize we have a very stringent, rigorous
+process here on return on invested capital. And I see as an -- M&A as 1 of the 3 levers to drive innovation:
+organic is one aspect; partnership is the other one; and inorganic. And I say that the last 15 acquisitions
+have been part of it, has been always in that vein. And that's our goal.
+
+Operator
+
+Our next question will come from Jeriel Ong with Deutsche Bank.
+
+Kanghui Ong
+Deutsche Bank AG, Research Division
+
+To start off, is there any guidance for revenue for the year? And focusing on the quarter itself, could you
+quantify -- or for the guided quarter, could you quantify maybe how much below seasonal do you think
+these coronavirus impacts and supply chain constraints could impact the next quarter?
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Okay. So let me start by the second part of your question, which is how much of an impact will the
+coronavirus have on our business. Well, first, as we already flagged, the health and safety of our
+employees, customers and partners is our priority. And you know that out of abundance of caution for
+them, we've made the decision to cancel or postpone most of the HPE-sponsored events through April.
+
+Unfortunately, this is also causing supply and demand disruptions and affecting our revenue profile. The
+outbreak at the end of January started to impact component manufacturing and resulted in constrained
+supply and higher quarter-end backlog worldwide, and we have been in constant contact with our
+suppliers and are establishing specific mitigation and recovery plans. So this is affecting our revenue
+profile for the full year. This is why we're not guiding in the short term. And relative to what we said at
+SAM, where we were experiencing -- we're thinking we would be returning to growth in fiscal year '20, I
+don't think that it is likely at this stage that we'll grow in fiscal year '20 as a whole for the fiscal year. But
+we do anticipate recovery of those supply chain constraints over time and face easier comps during the
+course of the year.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+I would like to add a couple of comments. One is on the coronavirus. Obviously, this is very fluid at this
+point in time. There is uncertainty. We have a daily process with each of our suppliers that we manage
+very, very tightly. And some of those suppliers are dependent on other suppliers because, as you can
+imagine, the supply chain is a little bit longer with Tier 2, Tier 3 suppliers that provide what I call low-
+level components to build what I call the printed circuit boards or the PCAs or the PCBAs, and that's a
+challenge we see today. And we see recovery, but obviously, it's going to take time. And that's why Tarek
+said we cannot provide right now a definite guidance. I think it would be not appropriate. And that's why
+we felt prudent not to provide Q2 but because the recovery is going to happen through the year that we
+felt comfortable reaffirming the 2020 guidance.
+
+Remember, when we went to the Security Analyst Meeting in October, we said that we expect to grow
+the company on a 3-year basis long-term plan of 1% to 3%. I think that piece is still complete and intact
+because, as you can see, as we pivot the portfolio to higher value and higher margins, at the same time,
+the pivot to as a service, which is going extremely well, and then obviously that Intelligent Edge business
+growing, that's how we think about the long-term growth in the right margin profile.
+
+Obviously, the Compute at this point in time was the challenge short term. I don't think it was off
+compared to some of our peers. In fact, in some cases, we did better than our peers. But that was a
+disappointment. And obviously, we need to stabilize and manage it through the supply chain recovery.
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+Operator
+
+Our next question will come from Toni Sacconaghi with Bernstein.
+
+A.M. Sacconaghi
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Yes. I have a question and a follow-up. First, I was wondering if you could provide book-to-bill information
+or backlog information for the Compute business for this year relative to the end of Q1 last year. I think
+that would provide incremental confidence and insight into how much of this is component in your inability
+to fulfill versus how much of this is kind of a demand issue. So book-to-bill for Compute this year versus
+last year and/or backlog for compute this year versus last year. And I have a follow-up, please.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Sure, Toni. Thanks for the question. I don't have the book-to-bill, but I can tell you we entered Q2, which
+is the quarter we're in, with higher backlog than we anticipated. And definitely, it's more on the elevated
+side. And so that's true for Compute and as well a carryover for high-performance compute, which, at the
+core of that product, Toni, is the legacy HPE Apollo. So we entered Q2 with a higher elevated backlog that
+we have seen.
+
+I don't see yet -- let me qualify this. Outside China, I haven't seen yet a significant impact on demand
+so far. Definitely, in China, as you know, we have a different setup with our H3C partnership there, and
+you should expect a short-term impact in China. But right now, they are working through it. But I will say,
+right now, we haven't seen a significant impact. If anything, actually, it creates short-term opportunities.
+I can tell you because of the coronavirus, we see customers coming to us and saying, "Can you ship this
+product to take care of the fact that my employees are not going to be at work." We see some demand in
+specific areas of workload-optimized solutions.
+
+And as I said in my opening remarks, we do have as awarded business, which, obviously, we have to build
+and ship more than $2 billion in HPC business that we have to ship over the next several quarters in the
+next 2 years. And that business is doing very well from my vantage point. But it is obviously segregated in
+2 different segments: Compute; and on the other hand, HPC & Mission-Critical.
+
+A.M. Sacconaghi
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Okay. If I could just follow up, I'd love to get your impression of the stock. It's obviously very beaten
+down, and I'd like your view on that. And you've talked about your openness to doing acquisitions, and I'm
+wondering if you could clarify whether there's a size limit or whether you would go to $10 billion.
+
+But also, are there other structural moves that you would consider? So would you consider taking on debt
+and aggressively repurchasing your own shares given the valuation right now, like HPQ has done? And
+would you consider other portfolio moves, such as divesting businesses like, just for example, because
+it's small and orphaned, A&PS or other businesses? So how -- what do you think of the stock, how big the
+acquisition size? Would you think about debt repurchase and how about divestment?
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Sure. And I'm going to start, then I'm going to give it to Tarek. Let me talk about the stock. Listen, I think
+it is a disappointing kind of situation, in my view. We are heavily discounted. There is no question about it.
+But think about the last 9 quarters, Toni, and think about the gross margin expansion and EPS expansion
+we have had. It's pretty remarkable. I mean, in the last 2 years, we expanded the margins every single
+quarter, and we have expanded EPS every single quarter. So my vantage point, we have done the right
+things. We have made the company leaner, meaner, and at the same time, we have taken big, big, big
+challenges, and we have managed it through. So I think, for us, is to continue to focus on the areas where
+we see the opportunity to compete and win in higher margins, but obviously, the stock also is thinking
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+about long-term growth, and I understand that. And obviously, a big component of that is our Compute
+business. But in the end, I think the stock is heavily discounted, and I'm disappointed in that.
+
+On the M&A, we have been very clear since day 1 that we look at assets that they are accessible, that
+generally are accretive or we can manage the dilution very quickly. But ultimately, it has to have strategic
+fit in the context of our strategy, obviously, whether it's the edge-to-cloud architecture and pivoting to
+as a service. I think the assets we have acquired makes complete sense from that vantage point, and
+we have delivered strong results. Size is important, but I will say it's more strategic fit and obviously
+the return on that investment capital, which we have incredible strong discipline and where we have
+demonstrated that over the last 2 years.
+
+And so maybe I will go pass it now to Tarek because you asked the question about taking debt and buying
+stock and so forth.
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Yes. So Toni, I would say -- Antonio answered the question on the stock. I would simply point to you at
+the performance of the various parts of our business, the Intelligent Edge, which has outperformed the
+sector quite substantially this quarter, what's the value of that? If you look at our Storage business, which
+has done better than most of the players in the market and is of the same size as a very large pure-play
+listed company, what's the value of that? And if you look at our HPC & MCS business and the $2 billion
+of backlog contracted revenues that would come in, what's the value of that? And then you have to look
+at other players in the sector and compare our Compute business to them and see that also for those
+players, the Compute business is valued negatively from an equity standpoint. But it does generate cash,
+and we have to figure that out.
+
+Finally, let me finish by saying H3C, the put option, what's the value of that? It's a listed company, and
+it's pretty substantial. So I'll let you conclude whether the stock is beaten down or not and how much it's
+beaten down. And you probably, in your own question, you have the answer.
+
+With respect to acquisitions -- sorry, go ahead.
+
+A.M. Sacconaghi
+Sanford C. Bernstein & Co., LLC., Research Division
+
+No. I was just going to say, you basically said I think it's really beaten down, especially on some of the
+parts. So then are you or why wouldn't you consider much more aggressively repurchasing your own
+shares at these levels?
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+So the thing that we -- let me just finish up answering the other part, and I'll come back to your question
+on buying shares. With respect to acquisitions, Antonio answered very, very clearly. We remain disciplined
+in that field. We're not going to look at acquisitions that don't fit our investment criteria from an accretion/
+dilution standpoint. It's very, very important we do that.
+
+A&PS, specifically for A&PS, it's a very strategic business that pulls a lot of revenue and profits in other
+parts of the organization, and it's essential for enabling the as a service pivot.
+
+Now coming back on to your question with respect to aggressive buybacks, we did in the past 2 years
+execute a $7 billion capital return program to shareholders. We returned $2.9 billion by way of dividends
+and $4.1 billion by way of buybacks. And what we did flag at SAM is the fact that we are going to continue
+to return capital to shareholders in line with our free cash flow generation capacity. We're not going to
+deviate from this because it's important that we continue to think about the long-term value of those
+businesses, and each one of those businesses has its own investment profile and needs to be therefore
+catered for.
+
+Operator
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+Our next question will come from Shannon Cross with Cross Research.
+
+Shannon Siemsen Cross
+Cross Research LLC
+
+I wanted to look more at your cost-cutting actions. I think you talked about taking actions during the
+current quarter, which may be curtailing travel, which obviously would save money. But more importantly,
+how are you thinking about the expansion of Next? Is this sort of a reevaluation of your cost base? Or is it
+more sort of a continuation of your usual productivity actions? And then I have a follow-up.
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Sure. So thank you, Shannon, for this question. First and foremost, you may recall when I joined HPE 14
+months ago, I used the expression at SAM in 2018 that looking at our cost structure was akin to a fitness
+exercise. And it's always important that we look at our cost structure based on the revenue profile that we
+have, and it's no different right now. Specifically to HPE Next, we are continuing the implementation of the
+program in that context where we have to align our cost structure to the new business climate that exists.
+We're not announcing a new restructuring plan, and what is happening is that through the implementation
+of the new segmentation, we have identified new savings opportunities in each of the businesses, and we'll
+continue to streamline our operations in that context.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+I will say, Shannon, a couple of things. So I think the work we have done in the last 2 years give us
+insights on how we can streamline our operations and be even more agile and focus on everything we do.
+And as you recall, the HPE Next was really transformative from the process standpoint as well as from
+the IT perspective. And I will say, for the vast majority, everything was executed flawlessly, and we have
+delivered the results of the gross margin expansion you see. As we implemented this new segmentation,
+now we can see through even better visibility on what else we can go do. And as Tarek just said it, right,
+the reality is you never stop focusing on improving your operations. And because HPE Next actually at the
+core was a cultural transformation, it gave us the ability now to take further actions, which are actually, I
+will argue, timely considering the uncertainty we live in. But it's to do the hard things now as these things
+recover to come on the other end even stronger than before.
+
+On the short-term actions, I think, first, we have to protect our employees, first and foremost. I think it's
+important, and that was the first step. And then, obviously, that comes with the benefits from the savings,
+but I want to be clear, this is all about protecting our employees to make sure they don't get exposed for
+things they don't need to.
+
+Shannon Siemsen Cross
+Cross Research LLC
+
+And then can you talk a little bit about what you've seen just in the last couple of weeks in terms of
+production capability or capacity and things coming online? I'm just curious because some of the other
+companies in the space have started to mention that they're seeing some improvement in the supply
+chain, again, this is more on the China side, but just in terms of availability of components in that. And
+one we talked to even indicated that almost on a daily basis, things were getting better. So I'm just
+curious as to if you can talk at all about near-term trends.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Yes. No. That's correct. We see kind of the same thing. Obviously, some companies have been aligned for
+some time, and they have been recovering on a daily basis the output of their facilities or their capacity.
+Obviously, the biggest constraint they had at the time was labor because, obviously, depending on the
+region within China, but eventually became the entire China, for the most part, is the health measures and
+certifications that they have to go through. But in general, I will say it's progressed every single day, and
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+whether it's people coming online or people improving the output of whatever we're already doing. And so
+that's progressing.
+
+And so you have to take it day by day. And obviously, what we're doing is, because we have a global
+supply chain here, is China is one aspect, but also how we manage inventory and how we manage the
+distribution of those orders in a way we can maximize the return while these things gets back to normal.
+
+That's how we are managing. And to be honest, we have a very stringent process with war rooms and
+talking to suppliers every single day. I personally have talked to at least 50 of them myself and have direct
+contact with each of them.
+
+Operator
+
+Our next question will come from Wamsi Mohan with Bank of America Merrill Lynch.
+
+Wamsi Mohan
+BofA Merrill Lynch, Research Division
+
+Your free cash flow guidance came down, but EPS did not. I was wondering, are you still expecting
+the same operating profit dollars? Or are there other items, some benefits below the line that are
+contemplated within your guidance? And I have a follow-up.
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Yes. Thank you, Wamsi. So you remember last year, this time of the year, we did say that from a free cash
+flow standpoint, working capital would be a contributor to cash. And that is what happened last year. This
+year, we have attained the point where our cash conversion cycle is negative. And whilst we do deliver
+the EPS guide, and we confirmed it for Antonio, the drop in revenue will inevitably have a drag on the free
+cash flow generation. That is because we have a negative free cash flow cycle.
+
+So the way cash tracks earnings is a combination of what happens in the P&L at EPS level but also the
+working capital component that comes with the P&L and the revenue from the accounts receivables side
+and also the fact that we need to build inventory to be able to cater for the supply chain shortages that we
+explained. That is what is behind the difference between the P&L EPS performance and the free cash flow
+guide that we put forward.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+And I will say, in 2020, obviously, it's a timing issue as we recover the supply chain. And that is a timing
+from the -- when we can build and ship these products, obviously, and also the fact that we have to
+rebuild some of the inventory because as the operations in China and other parts of the world maybe were
+impacted, we had to manage that inventory, and now we have to rebuild it back over time.
+
+Wamsi Mohan
+BofA Merrill Lynch, Research Division
+
+Okay. Antonio, you commented on sort of the uncertainty surrounding 2Q, but you also seem to be
+confident on the fiscal year guide. I understand HPE Next is under your control, but what gives you
+confidence that this demand comes back? It's clear that things in China are improving, but when you sort
+of think about the demand environment globally, what gives you confidence that the demand is going to
+come back in the second half? Because that's what it seems implicitly what is embedded in your full year
+guide.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+Yes. I mean, first, let's start with some of the businesses I have reported earlier and Tarek provided detail.
+Obviously, the Intelligent Edge, we see continued momentum. That is continuing right now as we speak.
+We feel pretty good about that. Much of the supply chain is not gated in China for the Intelligent Edge,
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+so that's a positive news. Then, obviously, on high-performance computing, that demand continues to be
+solid, and we have a very interesting pipeline ahead of us with a unique, differentiated portfolio. So the
+need for processing data through AI, machine learning, big data-intensive workloads continue to be very
+high. That's not stopping.
+
+As we think about these new storage platforms, particularly what I call Intelligent Data platform, the data
+growth requires that the data gets stored and gets managed and ultimately insights are extracted from it.
+So that's positive as well.
+
+Right now, as I said earlier, as we enter Q2, we enter with a sizable backlog because we couldn't ship it in
+Q1 everything we wanted. And at the same time, we haven't seen yet outside China a significant impact.
+But obviously, as we think about the second -- back of the year here, obviously, we expect to -- things
+to return to a level of normalcy that eventually will allow us to continue to progress against that. That's
+how I see it right now. And because of everything we do, both from a mix perspective, with the pivot
+to, obviously, as a service, which is a long-term opportunity and growing, and the fact we're taking our
+own actions here with HPE Next and other ones, that's where, at this point in time, we felt comfortable in
+affirming the original guidance that we provided here on EPS. But we felt prudent to adjust the cash flow
+for the dynamics Tarek explained earlier.
+
+Operator
+
+Our final question will come from Simon Leopold with Raymond James.
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc., Research Division
+
+I've got 2, one is probably really simple, so I'll ask that one first, and then a follow-up. What are your
+expectations for the full year's net CapEx? If you could answer that, and then I've got a follow-up.
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Look, net CapEx for this year is not a particularly large number. In this first half of the year, we have
+benefited from in-plan sales that have reduced our overall CapEx consumption, and we think that from
+a CapEx standpoint, we're in line with prior years. I don't see, beyond the first quarter performance, a
+significant uptick in CapEx this year.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+We don't have any specific CapEx expenditures that are extraordinary from what we have seen before.
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc., Research Division
+
+Okay. And then the other one I wanted to see if you could give us some better insight is to understand
+how much money you would be able to borrow, say, for acquisitions or other purposes yet still maintain
+your investment-grade credit rating. I believe that's important to you. So just -- I want to get a better
+understanding of what the sort of maximum borrowing could be.
+
+Tarek A. Robbiati
+Executive VP & CFO
+
+Well, it really depends on what you borrow the money for, to some extent, right? And that's the question.
+But if you really want to look at how do we maintain our investment-grade rating and what would be our
+borrowing capacity maintaining that investment-grade rating, it's probably around the $5 billion mark.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+But I want to make sure that one thing is clear, right? We are committed to maintain our credit rating.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+Andrew Simanek
+VP, Head of Investor Relations & Director
+
+Great. I think with that, we can close down the call.
+
+Antonio Fabio Neri
+CEO, President & Director
+
+All right. Thank you.
+
+Andrew Simanek
+VP, Head of Investor Relations & Director
+
+Thank you, everyone, for joining us.
+
+Operator
+Ladies and gentlemen, this concludes our call for today. Thank you.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+HEWLETT PACKARD ENTERPRISE COMPANY FQ1 2020 EARNINGS CALL |  MAR 03, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+

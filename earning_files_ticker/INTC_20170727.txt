@@ -1,0 +1,209 @@
+Thanks, Mark
+Q2 was an outstanding quarter in which we set a number of records
+We beat the expectations we set in April, primarily as a result of stronger desktop and notebook microprocessor volume, and set a second quarter revenue record
+We're executing well to our priorities, and after adjusting for the McAfee transaction, revenue grew 14% year over year while non-GAAP operating margin grew 30%
+Our data-centric businesses were up 16% year over year
+Technology and performance leadership are fueling our results
+And in Q2, we extended our leadership with new breakthrough products in client computing, the data center and memory
+With industry-leading products and strong first half results, we're on a clear path for another record year
+As we shared in February and reinforced in April, our strategy is to make Intel the driving force of the data revolution across technologies and industries
+I outlined our top four priorities for the year in support of that strategy: growing the data center and adjacencies, ensuring a strong and healthy PC business, growing IoT and devices and executing flawlessly in memory and FPGAs
+I'd like to take a few minutes to highlight our progress in Q2. First, DCG
+The Data Center business grew 9% in Q2 and remains on track to high single digit growth for the year
+Strong public cloud growth continued, with revenue up 35%
+Enterprise was down 11%, as workloads continued to migrate to the cloud and memory and solid-state drive constraints impacted server deployments
+Comm service provider revenue was up 17%, while adjacencies, which serve all customer segments, rose 12%
+Cloud and comm service provider together are the growth engine in the data center, and together now make up nearly 60% of DCG's revenue
+In 5G we're demonstrating end to end leadership in client and infrastructure
+We have five ongoing trials with leading global service providers and 15 more in the pipeline
+And we're on track with our development of IA, FPGA and ASIC silicon platforms based on new radio standards
+Earlier this month, we launched Xeon Scalable, formerly known as Skylake and with it, the industry's biggest platform advancement in a decade
+Using Xeon Scalable, our customers have already achieved over 50 third-party verified performance world records and are seeing more than 1.6x performance increase over our prior generation product across a wide range of real world workloads
+For example, the new AVX-512 instructions double floating point performance, benefiting use cases like HPC, VR and AI
+In fact, artificial intelligence inference throughput improves by 2.4x gen to gen
+And when this silicon innovation is combined with our AI software frameworks optimizations, customers like Amazon Web Services are seeing inference performance improvements of more than 100x
+The enthusiasm for Xeon Scalable resulted in our largest early ship program ever
+We delivered more than 500,000 units to over 30 customers who appreciate outright performance leadership
+The data center is central to our strategy and is a remarkable opportunity
+By 2021 we expect the data center to be a $65 billion silicon opportunity, and we're less than 40% of the total available segment today
+As we build out the adjacencies like Ethernet, Silicon Photonics and 3D XPoint memory and pull them all together with rack scale design, we'll be positioned to deliver even higher levels of performance and efficiency to our customers and increase our percentage of the total TAM
+The Client Computing Group also delivered fantastic results
+Revenue was up 12% over last year as product leadership combined with a disciplined segmentation strategy led to rising Core mix
+We along with our customers and partners in the PC supply chain are driving the evolution of the PC experience, as users seek out high performance and new form factors
+We launched the powerful new Intel Core X-series processor family including a new Core i9 Extreme Edition processor, extending our performance leadership
+And we'll be shipping our first 10-nanometer products near the end of the year beginning with a lower volume SKU and followed by multiple SKUs and a volume ramp in the first half of 2018. We've seen some modest improvements in the PC consumption but we continue to expect a mid single digit TAM decline for the full year
+We also began shipping our next generation 4G LTE modem known as the 7480 to customers
+As I mentioned earlier, we're continuing to make great progress with our wireless ecosystem, laying the groundwork for 5G, and starting in 2018, Intel will partner on what is expected to be the first 5G showcase at the Olympic games
+In our Internet of Things business, we're focused on four key verticals, retail, video, industrial and transportation
+We saw strong growth across all four, leading to a 26% increase in revenue
+We're specifically excited to see the ramp of our IVI designs with both Jaguar Land Rover and Toyota
+We're also about to mark a very important milestone in our transformation
+We expect to close the acquisition of Mobileye in the third quarter, several months earlier than expected
+Autonomous driving is a massive compute workload that will disrupt industries and save lives and we are investing to win in this important segment
+I'm excited to welcome the Mobileye team to Intel
+Together, we expect to be the global leader in the $70 billion autonomous driving systems, data and services market opportunity by accelerating auto industry innovation and delivering cloud to car solutions faster and at a lower cost
+And we're looking forward to talking with you in more detail about our plans and the progress we're making in this segment later this quarter
+Memory and FPGAs round out our priorities for the year
+Our memory business grew 58% over last year, setting an all-time revenue record
+A cornerstone for our strategy in this segment is differentiated technology
+And that differentiation was on display earlier this month when we announced availability of the industry's first, and to date only, 64-layer 3D NAND SSDs
+Our floating gate architecture already enabled industry-leading density at 32 layers
+And we believe our density lead is even greater at 64. We also shipped more than 200,000 units of our revolutionary Optane memory for clients, which are available via our OEM partners and channel partners and have more than 50 data center customers testing Optane SSDs currently which will ship for revenue this year, Optane DIMMs remaining on track for availability next year
+Our memory factory, Fab 68, continues to exceed expectations, ramping ahead of schedule in terms of both output and yield
+This will be a big part of our overall supply growth in the second half, which we expect to be greater than 20%
+The combination of strong execution and favorable market conditions is accelerating our path to profitability
+Core NAND returned to profitability this quarter ahead of our earlier estimate and we expect it to remain profitable for the balance of the year
+We also now expect the entire NSG segment to be profitable for the full year of 2018 versus our prior end of 2018 target
+Lastly, our FPGA business was down 5% over last year on weaker data center and comms sectors, but remains on track to our mid single digit growth target for the full year, with broad reacceleration in the second half across markets, including the Data Center segment
+At their Build Conference in May, Microsoft disclosed a major advancement in the deployment of Intel FPGAs resulting in the industry's fastest public cloud network and new technology for acceleration of deep neural networks
+Audi selected Intel for the Level 3 autonomous driving system in its upcoming A8 where our Cyclone V SoC FPGA technology will perform object and map fusion as well as parking pilot and sensor data pre-processing
+We're also seeing strong adoption of our 14-nanometer Stratix 10 FPGAs
+We continue to gain key design wins in our focus segments, and we're on track to production later this year
+To sum it up, I'm very pleased with our progress, and I'm more confident than ever in Intel's future and growth
+Based on our strong first half and higher expectations for the PC business and the expected close of Mobileye, we're raising our full-year revenue forecast from $60 billion to $61.3 billion and our non-GAAP EPS forecast from $2.85 to $3.00. We continue to see intense competition across our businesses
+That's the reality of the attractive markets in which we participate
+The competition makes us stronger, and we're ready for it
+We're executing well to our strategy to transform from a PC-centric company to a data-centric company that powers the cloud and billions of smart and connected devices
+The PC TAM is down more than 15% versus four years ago
+Despite that headwind, our revenue is up more than 15% and our operating profit has grown more than 30%
+More than 40% of our revenue now comes from our data-centric businesses outside the PC sector
+And those businesses together are growing at double-digit rates
+And while we're growing the top line, we're intensely focused on operating efficiency
+We now expect spending as a percent of revenue to decline about 160 basis points versus last year, bringing it below 34%, on track to the 30% goal we're committed to, to hit by 2020. And with that, I'd like to hand it over to Bob
+Thanks, Blayne, for the question
+So I'll start and Bob can add some comments at the end
+We think the data center continues to be just a great growth engine for the company
+And you saw the 9% growth this quarter
+What we have really been also focusing on at the same time is really increasing operating margin, and I want to make that point
+You saw our operating margin increase to 38% this quarter
+You'll see us continue to raise that operating margin so that we're back at the 40% plus operating margin for the back half and for the year
+So first wanted to lay that groundwork
+What we've projected for the second half is quarters that are pretty much in line
+We continue to expect enterprise to continue to decline
+It declined a bit more in the second quarter than I think we had really projected
+It declined at about 11%
+But if you look at Q1, it declined a little less than we expected at 3%
+But we still expect it to decline in those high single digit numbers
+Cloud though, and grew greater than we what expected at 36%
+We expect it to be in the mid 20s, probably more likely
+And then networking and comms, 17% and the adjacencies at 12%
+So we expect that trend to continue
+We don't need any big shifts in those trends to really get to that high single digit growth rate for the data center
+We talked about Xeon Scalable
+The initial reaction has been extremely positive
+You see the largest number of prequalification samples sent out to customers
+You see the cloud applications
+We try to talk about it's the largest performance improvement in a decade, gen to gen
+So we're seeing a very large ramp in the second half as we move on with the Xeon Scalable
+And so I think that's what's going to fuel second half 2017, and then but it's going to continue on into 2018 as well
+So I think that's how we see the second half playing out
+Sure
+So let's make sure we clarify, right, so on traditional NAND, we are breakeven this year
+And we broke even actually this quarter, and we expect to remain there the rest of the year
+When we talk about for next year, that's inclusive of 3D XPoint
+And so the difference is really as we ramp products on through the XPoint and as we ramp out the rest of Fab 68, both of those
+Whenever you're ramping a factory, because you have a certain amount of underutilization of the equipment just as you start to get it going, you tend to have slightly higher costs
+And so that's what you see as the driver for the rest of the profitability growth as we go into next year
+I want to also say that the 64-tier NAND products gives us a cost and performance advantage just because they're leading edge products as well that is going to play into as we move through the remainder of this year and next year
+So it's 64-tier products on traditional NAND, the ramp-out of Fab 68, and then the real startup and continuation in getting the rest of the products qualified on 3D XPoint is what gets us – everything profitable next year
+I don't want to say that they're going to "normalize"
+In fact, there's not going to be a major shift
+The trend of – look, enterprise is going to continue to decline
+We estimate, and again, this is just based on what we get from our customers, talking to the industry
+It's going be in the high single-digit decline
+I think you'll see quarters like Q2 that was 11%
+You'll see quarters like Q1 that were 3% or 4%
+We've seen quarters higher than the 11% over the last couple years
+So it's going be lumpy as we see this shift, but the overall macro shift of enterprise to cloud or traditional on-prem systems to cloud is going to continue
+I think we'll also see, we still again, talking to our partners, thinking that mid-20% for cloud growth, but I think we'll see quarters like this quarter that was a little bit high
+Other quarters we've had in the past have been more in line
+So I don't think we're talking about something going normalizing
+I'd say it's still going to stay relatively lumpy like this
+But if you look at it over the long haul, even when you look at the first half of the year, 11% down this quarter, 3% down last quarter, you take a look at those on average and you get to that high single-digit number
+So I still feel like that's going to be roughly about where it goes down, and then the cloud will continue to grow at that rate plus additional as more of the growth goes into the cloud
+Sure, Vivek
+I think in general, we see competition across almost every one of our platforms, whether it be in the data center or in the client business, and it's come from a variety of sources
+You're right, AMD has raised up a bit with their more recent products, but you see us responding
+This is a traditional performance battle that we're very accustomed to, and we're comfortable in reacting and competing very aggressively in
+And so you see us coming out with our Xeon Scalable
+You'll see us make maneuvers like we accelerate our Core i9 products, which are all the way up to 18 thread systems on the client based products
+So I'd tell you that yes, we're seeing increased competitive pressure from a variety of places
+But that actually will just drive us even harder, make us better in the end
+And we're comfortable that we can make the right products to deliver the right performance against those
+Sure, so on 10-nanometers we are sampling, engineering samples to customers currently
+The yields on 10-nanometers are continuing to improve pretty much right in line with the forecasted ramp rates
+It's a new technology, so you always have some problems to get solved but we're pretty comfortable with where we're at right now
+Like we said in the earnings script, we are set to qualify the first production products right towards the end of the year
+You'll see those start to ship in the first half of next year and you'll see a ramp of SKUs
+One of the things we're seeing is each one of these technologies, and actually products that we generate, we're generating quite a few more SKUs, Vivek
+And so you'll see a variety of SKUs progressing through 2018 as we ramp the 10-nanometer products, starting with the, I'll call it, more simpler SKUs at the beginning, going all the way through the high performance, high complexity SKUs towards the middle and back half of the year
+Which is it's a traditional ramp like you see us push out on a new product ramp
+So I think, Stacy, first, we're quite proud of the growth rate we're seeing and especially the growth rates in the growth segments
+We're forecasting mid 20s for the cloud business, the networking and storage business and adjacencies on down
+What we're having to counter is not only the comps that Bob talked about, but the declining function of the enterprise, right
+And so those two things counter those growth rates
+Now, as the enterprise continues to shrink, it will become less and less moving forward
+So we agree that over time, this will become a smaller and smaller impact to the growth rates
+But right now, it's still a large enough percentage
+It weighs on our ability to get the growth rate higher
+Sure, John
+So we expect the second half of 2017, from an ASP perspective, to be pretty much what you've seen in the past, where ASPs continue to increase on the various platforms of Xeon, right
+So looking at each one, you'll see ASPs overall increasing
+What you're seeing on this is a little bit of mix, right, so as you saw, networking and storage grow at 17%, the adjacencies at 12%
+Those are starting to become a little bit more a percentage of that business and those draw down the overall ASPs a little bit
+But if you look within just the Xeon core function, those ASPs continue to increase at about the normal rates that you'd expect, especially as you move into a new architecture like Xeon Scalable
+John W
+Pitzer - Credit Suisse Securities (USA) LLC That's helpful
+And then for my follow-on, just turning to the Client Compute Group, your ability to sort of segment that market and drive higher mix has been sort of a multiyear endeavor with a lot of success
+What inning do you think you guys are in in that process, especially with AMD coming to market with new products? Is there still a mix, a potential story here, and what would drive that?
+I actually think there is
+So I think if you take a look at this, John, what's driven this has not been clever segmentation necessarily
+It's been the ability to segment into specific markets and specific performance
+And so things like Core i9 are a good example where you're really targeting performance
+And so what I believe is that what the growth areas in the client space, gaming, virtual reality, thin and light, they're requiring performance and power
+And remember those are always somewhat tradeable as you take a look at this
+And so those trends are going to continue, and that's why that's as we talked about, how do you feel about competition, where do you see competition playing
+We believe our leadership and performance will continue to allow that trend to continue and continue to allow the trend within CCG to continue as well
+And that's part of what drove the forecast for the second half
+Pitzer - Credit Suisse Securities (USA) LLC Thank you
+So, yes is the simple answer, Romit
+Remember this isn't necessarily us raising prices
+So it's not we're out there going and saying okay, I'm going to charge $10 more for the next Core i7. It's actually the percentage of units that are being bought at those higher units, and we continue to deliver higher performance at the same price with each one of these generations
+So what you're seeing is actually an overall trend that, yes, units are down
+We talked about that, both I and Bob, around TAM being down somewhere in that low to mid-single-digit range
+And that's pretty much in line with what I'm seeing third parties here
+Some third parties are a little bit better than that
+But for the most part, we're within a couple of percent
+But yes, we believe that there is room for continued demand, for movement upwards
+So the number of Core i7s
+the number of Core i9s, the number of people buying the performance thin and light laptops, those are going to continue
+And you see it in our OEM partners and the type of systems they are producing and the type of systems they're bringing to market
+Now they are targeting that more and more as well
+It's continuing to climb
+It is, but don't forget even within that Core mix, Romit, you have the ability to continue to scale up
+So Core i3 versus Core i5 versus Core i7 and now we've introduced the Core i9, which is even higher performance
+So we saw early on people choosing Core over Pentium or Atom, for example, and you saw the Core mix move up
+You're now seeing not only that continue to climb, but you're going to see within Core the amount of Core i7s, Core i9s, Core i5s continue to climb as well
+And that's why we continue to see that there are legs behind this
+And you said are we getting credit for this, so we don't think when you look overall this business, last year's performance with great growth in all of the segments
+You look at this year's performance so far in the first half and our projections now in the second half, we think that our ability to segment, to drive better operating margin, and to continue to drive performance into the PC and keep it more and more profitable while we invest and grow these other businesses, we think that there's an option around Intel that is quite good
+Yes, it's very little
+We don't give out exact percentages by SKU like that
+But I can genuinely tell you that it is really just the beginning of the ramp of the Xeon Scalable
+And so its impact into Q2 was minimal at best
+What you'll see is, as it ramps into the second half, it becomes a higher and higher percentage, and really the big volume is going be 2018. So that's when it really takes over from the way the data center looks from a revenue and profit standpoint
+What we're excited about is we talked about the 500,000 units that are out there
+That was the highest number of pre-samples
+That shows you the demand by the big infrastructure guys around the performance
+They were willing to take the product even before, quote, we were ready to start shipping it
+And then the number of records we've broken already in performance, we talked about 50 records worldwide already
+Those are laying the groundwork for how this ramp is going look and feel as we move into the second half and into 2018.
+So our whole strategy around the memory is that we are focused on differentiation and performance and specifically around supporting the data center
+We do sell into client as well but that's not the main focus of this business
+And so I'd tell you when we talk about our growth and when we talk about our projections for the rest of this year and why we're investing in the future, that 64-tier NAND gives us the ability to be a better cost but the high performance end
+So we're not going after commodity SSDs that you're going to see even in high-end workstations necessarily
+It's really focused towards the data center products
+Even still, there's not all SSDs and data centers are high-end performance
+So we're comfortable with where we are in a market share
+We want to balance those investments against the demand for these high performance areas and make sure we keep that in balance
+And our real goal is then to move more and more of the business towards the 3D XPoint as we move into next year because that really differentiates us again as we really change the hierarchy between memory and storage as the data center DIMM memory systems come out

@@ -1,0 +1,1068 @@
+Micron Technology, Inc. NasdaqGS:MU
+FQ1 2021 Earnings Call Transcripts
+Thursday, January 07, 2021 9:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2020-
+
+-FQ1 2021-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+0.97
+
+Revenue  (mm)
+
+5893.10
+
+Currency: USD
+Consensus as of  Jan-07-2021 11:48 AM GMT
+
+0.69
+
+5662.03
+
+2.72
+
+3.86
+
+21274.77
+
+24271.07
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.47
+
+0.37
+
+0.76
+
+0.97
+
+0.48
+
+0.45
+
+0.82
+
+1.08
+
+2.13 %
+
+21.62 %
+
+7.89 %
+
+11.34 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+Call Participants
+
+EXECUTIVES
+
+David A. Zinsner
+Senior VP & CFO
+
+Farhan Ahmad
+Senior Director of Investor
+Relations
+
+Sanjay Mehrotra
+CEO, President & Director
+
+ANALYSTS
+
+Christopher Brett Danely
+Citigroup Inc., Research Division
+
+Christopher James Muse
+Evercore ISI Institutional Equities,
+Research Division
+
+Harlan Sur
+JPMorgan Chase & Co, Research
+Division
+
+John William Pitzer
+Crédit Suisse AG, Research
+Division
+
+Joseph Lawrence Moore
+Morgan Stanley, Research Division
+
+Karl Fredrick Ackerman
+Cowen and Company, LLC,
+Research Division
+
+Mitchell Toshiro Steves
+RBC Capital Markets, Research
+Division
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research
+Division
+
+Toshiya Hari
+Goldman Sachs Group, Inc.,
+Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+Presentation
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to Micron Technology's Fiscal First Quarter
+2021 Financial Conference Call. [Operator Instructions] It is now my pleasure to introduce Farhan Ahmad,
+Vice President, Investor Relations.
+
+Farhan Ahmad
+Senior Director of Investor Relations
+
+Thank you, and welcome to Micron Technology's Fiscal First Quarter 2021 Financial Conference Call. On
+the call with me today are Sanjay Mehrotra, President and CEO; and Dave Zinsner, Chief Financial Officer.
+Today's call will be approximately 60 minutes in length. This call, including the audio and slides, is also
+being webcast from our Investor Relations website at investors.micron.com. In addition, our website
+contains the earnings press release and the prepared remarks filed a short while ago.
+
+Today's discussion of financial results will be presented on a non-GAAP financial basis unless otherwise
+specified. A reconciliation of the GAAP to non-GAAP financial measures may be found on our website. As
+a reminder, a webcast replay will be available on our website later today. We encourage you to monitor
+our website at micron.com throughout the quarter for the most current information on the company,
+including information on the various conferences that we will be attending. You can follow us on Twitter at
+MicronTech.
+
+As a reminder, the matters we will be discussing today include forward-looking statements. These forward-
+looking statements are subject to risks and uncertainties that may cause actual results to differ materially
+from the statements made today. We refer you to the documents we filed with the SEC, specifically our
+most recent Form 10-K and 10-Q for a discussion of risks that may affect our future results.
+
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we
+cannot guarantee future results, levels of activity, performance or achievements. We are under no duty
+to update any of the forward-looking statements after today's date to conform these statements to actual
+results.
+
+I'll now turn the call over to Sanjay.
+
+Sanjay Mehrotra
+CEO, President & Director
+
+Thank you, Farhan. Good afternoon, and Happy New Year, everyone. Micron delivered strong revenue and
+earnings in the fiscal first quarter. I'm proud of the Micron team for continuing our business momentum
+and putting Micron in a better technology and product position than ever before despite the ongoing
+challenges posed by the pandemic.
+
+We began shipping the industry's most advanced NAND with 176 layers. And in DRAM, we made good
+progress on our 1-alpha node and are on track to begin volume production in the first half of calendar
+2021. We believe DRAM is past the bottom of the industry cycle and expect improving trends through
+calendar 2021 as the digitization of the global economy continues, fueled by artificial intelligence, cloud,
+5G and the intelligent edge, including smart vehicles. Against this backdrop, Micron is poised to emerge
+stronger, and we are excited about our future.
+
+I will start with a quick update on our manufacturing operations. In early December, 2 separate events
+affected our Taiwan DRAM operations. The first event was a power outage at our Taoyuan facility, which
+occurred on December 3, the last day of our fiscal first quarter. The second event, a 6.7-magnitude
+earthquake off the northeast coast of Taiwan occurred on December 10. The earthquake was felt at both
+our Taoyuan and Taichung locations.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+The investments we have made over the last few years in facilities' redundancy and cleanroom control
+substantially mitigated the impact of these 2 events. However, these disruptions have reduced our
+available fiscal second quarter DRAM supply and negatively influenced our costs in the short term. The
+expected impact of these events is factored into our outlook.
+
+Micron continues to make solid progress on our key goals: first, to deliver industry-leading technology and
+improve our cost structure; second, to bring differentiated products to market and improve our product
+mix; and third, to grow our share of industry profits while maintaining stable bit share. From fiscal year
+'16 to fiscal year '20, we substantially improved our EBITDA margin for our combined DRAM and NAND
+business, while the rest of the industry in aggregate was roughly flat. And over the last few years, we
+have accelerated our technology road map in both DRAM and NAND. As a result, for the first time in our
+history, Micron has technology leadership in both DRAM and NAND simultaneously.
+
+Now that we are leading the industry in technology capability, going forward, we expect to maintain
+this competitive position through a more typical cadence for node transitions consistent with the rest of
+the industry. In DRAM, we are making good progress on our 1-alpha node. This will be an outstanding
+technology node for Micron, delivering a 40% improvement in bits per wafer over our 1Z. A substantial
+portion of this improvement comes from our chip design concepts that provide greater memory array
+efficiency.
+
+Following the extraordinary improvements of our 1-alpha node, we anticipate lower gains in bits-per-
+wafer growth as more complex interfaces such as DDR5 are introduced and as DRAM technology scaling
+challenges continue. We are also making progress with differentiated DRAM products such as GDDR6 and
+6X for graphics. In the fiscal first quarter, we saw strong growth in bit shipments for these products. We
+also began revenue shipments of HBM2E products.
+
+In NAND, in early November, we began volume production of our second-generation replacement gate
+node, which is the most advanced in the industry, combining our replacement gate architecture, CMOS
+under the Array and advanced charge-trap process technology. It also features double the power efficiency
+and write performance of Micron's 96-layer 3D NAND. These improvements are essential for addressing
+future high-end mobile applications.
+
+We began shipping 176-layer consumer SSDs in the fiscal first quarter and will be introducing products
+built with this technology across the rest of our product portfolio over the course of next several months.
+We are also driving product innovations and cost reductions through an increased mix of QLC NAND, and
+we are leading the industry with the broadest portfolio of QLC SSDs across client, consumer and data
+center markets. QLC helps to make SSDs more cost-effective and accelerates the replacement of HDDs
+with SSDs. QLC SSD adoption continues to grow, and our bit mix of QLC SSDs increased further in F Q1.
+
+Turning to end markets. In data center, cloud and AI will drive long-term growth, with memory and
+storage becoming an increasing portion of server BOM cost. New compute architectures are enabling more
+memory channels and higher density modules, contributing to increases in server memory content. Micron
+is positioned for success in this market with a broad portfolio of high-bandwidth, high-quality and power-
+efficient products.
+
+Cloud and enterprise DRAM revenue declined sequentially from a very strong 14-week F Q4, with ongoing
+enterprise market weakness. In F Q1, we began revenue shipments for our ultra-bandwidth HBM2E
+memory, which is used for data center AI training and inference.
+
+We are making progress on the DDR5 transition, which will double bandwidth and reduce power
+consumption, and we plan to start that transition in the second half of fiscal 2021.
+
+In data center SSDs, we continue to make progress on our NVMe portfolio and completed several
+customer qualifications in F Q1. We also continue to maintain our leadership position in SATA. Data
+center SSD revenue declined sequentially but was up year-over-year as cloud growth offset a decline in
+enterprise. We remain focused on strengthening our data center NVMe SSD road map with internally-
+developed controllers and have new product introductions planned in the coming quarters.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+Our F Q1 mobile revenue was up sequentially driven by solid execution and improved handset demand. A
+better-than-expected transition of Micron's mobile business from Huawei to other mobile customers also
+contributed to our revenue upside in F Q1.
+
+Micron is well positioned to win in the 5G era with our industry-leading product portfolio. We had several
+key achievements in our mobile business in F Q1. We maintained LP5 solutions leadership and grew our
+LP5 shipments, were the first to market with uMCP5 and achieved record MCP revenue.
+
+In PC, the continued remote work and learning trend drove strong notebook and Chromebook demand in
+the quarter despite pockets of nonmemory component shortages in the supply chain. We delivered strong
+sequential growth in PC DRAM shipments driven by this demand.
+
+In client SSD, NVMe represented over 90% of the client SSD bits, with nearly half of those NVMe SSD bits
+being QLC. Consumer SSDs had a second consecutive record quarter for bit shipments, and we shipped
+the world's first 176-layer-based consumer SSDs.
+
+In graphics, we achieved strong GDDR6 and 6X bit shipment growth driven by new game console and PC
+graphics product launches. Micron has a strong position in this high-growth market with a broad product
+portfolio and deep customer partnerships.
+
+We had a record auto revenue quarter, resulting from the resumption of auto manufacturing around the
+globe and the continued growth of memory and storage content per vehicle. We also achieved qualification
+of our 1Z LP4 DRAM and began sampling our 96-layer-based UFS NAND.
+
+Electric vehicles have higher semiconductor content. And as EVs continue to proliferate, we expect our
+auto business to continue to excel. In addition, as autonomous driving features advance, this content
+growth trend will accelerate further.
+
+Micron's quality and market share leadership uniquely positions us to not just benefit from this growth
+but also to drive innovative solutions for next-generation vehicles in collaboration with our ecosystem of
+customers and industry partners.
+
+Now turning to our view of calendar 2020 industry demand. During F Q1, overall demand was strong
+across most end markets despite shortages of nonmemory components in PC, mobile, auto and graphics.
+Cloud demand was healthy, while enterprise demand was weak due to the economic environment. As a
+result of the stronger-than-expected demand at the end of the year, we now estimate that calendar 2020
+industry DRAM bit demand growth was slightly above 20%, while NAND bit demand growth was in the
+mid-20s.
+
+Now for our calendar 2021 outlook. In DRAM, we are past the bottom, and the industry is in tight supply
+across major market segments. As a result, we are already seeing our calendar Q1 pricing starting to
+increase in several parts of the market.
+
+16-gigabit adoption in client and data center modules has increased, causing the same supply tightness
+that was previously seen in 8-gigabit to also now be visible in 16-gigabit. We expect calendar 2021 DRAM
+industry bit demand growth of high teens, with DRAM industry supply to be below demand. Stronger-
+than-expected industry demand has reduced supplier DRAM inventories. Low inventories, combined with
+disciplined industry CapEx in 2020 and a vaccine-driven recovery from the pandemic should result in a
+further tightening of the DRAM market through calendar 2021. In addition, we will also benefit from higher
+content in 5G phones, which are forecast to double in unit sales in 2021 to around 500 million units. We
+anticipate healthy unit growth in the PC market, and graphics should continue to benefit from new gaming
+consoles and from new gaming cards launched in the second half of last year. We expect the cloud market
+to grow at a healthy pace, and enterprise market recovery will be driven by the timing of the broader
+economic recovery.
+
+Calendar 2021 industry NAND bit demand growth is expected to be approximately 30%, with supply
+potentially higher. The NAND market is challenging in the near term. However, we believe that as the year
+progresses, elasticity, coupled with pandemic recovery, should lead to improving demand. We believe the
+market can stabilize over the course of 2021 if suppliers moderate their production growth.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+Long term, we expect DRAM bit demand growth CAGR of mid- to high teens and the NAND bit demand
+growth CAGR of approximately 30%.
+
+Turning to Micron supply. We target our long-term bit supply growth CAGR to be in line with industry bit
+demand growth CAGR for both DRAM and NAND. However, there can be year-to-year variability caused
+by node transition timing. In both DRAM and NAND, we expect our calendar 2021 bit supply growth to be
+below the industry demand growth, and we plan to use inventory to support bit shipment growth that is in
+line with industry demand growth.
+
+For fiscal 2021, we expect DRAM cost reductions in the mid-single-digit percent range with somewhat
+higher levels of cost reduction on a like-for-like basis. We anticipate NAND cost reductions in the low to
+mid-teens percent range. We are targeting fiscal 2021 CapEx to be approximately $9 billion to support our
+long-term goal of maintaining a stable share of industry bit supply. If demand expectations change, we
+remain flexible to adjust our CapEx.
+
+As we look ahead, we are excited about the growth and health of our diverse end markets, which continue
+to benefit from powerful secular technology trends, including AI, cloud, 5G and the intelligent edge.
+These trends are already enabling the data economy and increasing the importance of DRAM and NAND.
+Memory and storage industry revenues have grown faster than the broader semiconductor industry from
+approximately 10% of semiconductor industry revenues in the early 2000s, to now approaching 30%. We
+expect that our TAM growth will continue to outpace the rest of the semiconductor industry over the next
+decade.
+
+Micron's focus on technology and product leadership, operational excellence and deep customer
+partnerships positions us well to grow our relevance and profit share in the industry.
+
+I will now turn it over to Dave to provide our financial results and guidance.
+
+David A. Zinsner
+Senior VP & CFO
+
+Thanks, Sanjay. Micron delivered very strong fiscal first quarter results, with revenues and earnings
+coming in well above the guidance range provided in our last earnings call. We saw an improving business
+environment through the quarter, and demand and pricing were better-than-expected for both DRAM
+and NAND. Total F Q1 revenue was approximately $5.8 billion, down 5% quarter-over-quarter, but up
+12% year-over-year. Adjusting for the extra week in the prior quarter, revenue increased 3% sequentially
+driven by strength in a broad set of markets, including auto, graphics, client, mobile and consumer. F
+Q1 DRAM revenue was $4.1 billion, representing 70% of total revenue. DRAM revenue decreased 7%
+sequentially but was up 17% year-over-year. Bit shipments were down in the low single-digit percentage
+range sequentially, and ASPs were down in the mid-single-digit percentage range quarter-over-quarter.
+
+F Q1 NAND revenue was approximately $1.6 billion, representing 27% of total revenue. NAND revenue
+increased 3% sequentially and was up 11% year-over-year. Bit shipments increased in the high-teens
+percentage range sequentially, while ASPs declined in the low teens percentage range quarter-over-
+quarter. Half of the decline was attributable to a change in mix, which included a greater portion of
+components.
+
+Now turning to our revenue trends by business unit. Revenue for the Compute and Networking Business
+Unit was approximately $2.5 billion, down approximately 16% sequentially but up 29% year-over-year.
+We had solid sequential growth in graphics and client revenues, while data center revenues declined
+sequentially, coming off a particularly strong quarter for cloud, the loss of the extra week and continued
+weakness in enterprise.
+
+Revenue for the Mobile Business Unit was $1.5 billion, up 3% sequentially and up 3% year-over-year.
+Mobile demand remains strong as 5G momentum increases and the mobile market recovers from the
+impact of the pandemic.
+
+Revenue for the Storage Business Unit was $911 million, roughly flat from the prior quarter and down
+6% year-over-year. As a reminder, 3D XPoint revenues are now reported in the Compute and Networking
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+Business Unit. Excluding 3D XPoint from the prior year's quarter, SBU revenues would be up 14% year-
+over-year.
+
+Finally, revenue for the Embedded Business Unit was $809 million, up 24% sequentially and up 10% year-
+over-year. EBU revenue was the highest since Q1 fiscal '19 driven by a record auto revenue as demand
+recovered from pandemic-related shutdowns.
+
+The consolidated gross margin for F Q1 was 30.9%, down 400 basis points from the prior quarter. Our
+gross margin was impacted by pricing declines and a greater mix of NAND. Operating expenses were
+$811 million in F Q1 as we continue to tightly manage expenses. We're expecting to increase operating
+expenses in the second half of this fiscal year as the previously delayed fiscal '21 salary increases take
+effect at the beginning of F Q3 and we incur additional prequalification-related expenses in F Q3 and F Q4.
+As a result, we anticipate that F Q3 expenses will increase approximately 10% sequentially from F Q2, but
+of course, we remain flexible to reduce operating expenses from those levels should business conditions
+warrant.
+
+F Q1 operating income was $973 million, resulting in an operating margin of 17% compared to 21%
+in the prior quarter and 12% in the prior year's quarter. Net interest expense was flat quarter-over-
+quarter at $31 million. We expect the net interest expense to be approximately $35 million in F Q2. Our
+F Q1 effective tax rate was 7.4%. We expect our tax rate to be in the mid- to high single digits for the
+remainder of fiscal '21.
+
+Non-GAAP earnings per share in F Q1 were $0.78, down from $1.08 in F Q4 and up from $0.48 in the year
+ago quarter. EPS included $0.02 of nonoperating income related to gains from investments in our venture
+arm, Micron Ventures.
+
+Turning to cash flows and capital spending. We generated approximately $2 billion in cash from operations
+in F Q1, representing 34% of revenue. Net capital spending was approximately $2.8 billion during the
+quarter. We expect approximately $9 billion in capital spending for fiscal '21, with spending weighted
+towards the first half of the fiscal year.
+
+Free cash flow in the quarter was negative $816 million. We expect free cash flow to remain negative
+in F Q2 but to improve from the F Q1 level driven by increased cash flow from operations. As we said
+previously, we expect to generate healthy free cash flow during the second half of fiscal '21. Although we
+didn't repurchase shares in F Q1, we remain committed to returning greater than 50% of our annual free
+cash flow to shareholders through share repurchases.
+
+We made significant improvement on our days of inventory and ended F Q1 with $5.5 billion of inventory
+or 125 days versus 135 days last quarter.
+
+As we look ahead to F Q2, I want to share some changes to our upcoming inventory reporting. Starting
+in F Q2, we will be using a FIFO or first in, first out approach to inventory valuation as opposed to the
+average cost method that we have historically used. Concurrently, we're introducing a new costing
+methodology that uses standard costing. These changes will help us improve our business reporting by
+valuing inventory at the most recent production cost and aligning with general semiconductor industry
+practices. While we expect no material impact to our non-GAAP results from these changes, we do expect
+to record a onetime noncash charge of approximately $300 million, which will impact our F Q2 GAAP
+results and reduce the carrying value of our inventory. Unlike certain valuation adjustments or write-
+downs to inventory, this is a permanent methodology change that will not result in a material impact to
+our future costs or margins.
+
+Concurrently with these changes, we will also reclassify spare parts from inventory to other current assets,
+which also better aligns with the rest of the industry. This new representation will reduce our inventory
+balance, and consequently, our days of inventory will decline by approximately 10 days versus the old
+methodology. Applying this 10-day decline, our F Q1 days of inventory would have been approximately
+115 days, and our new days of inventory target is approximately 95 to 105 days. We expect to reach our
+days of inventory target in the second half of fiscal '21.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+We ended the quarter with total cash of $8.4 billion and total liquidity of approximately $10.9 billion. F Q1
+ending total debt was $6.6 billion.
+
+Now turning to our outlook. We are seeing improving conditions across multiple DRAM end markets with
+strong demand in cloud, client, auto and mobile. This demand recovery would be even stronger if it
+weren't for the shortages of nonmemory components in several markets.
+
+On the supply side, as Sanjay mentioned, a power outage and an earthquake have limited our DRAM
+supply and we are rapidly drawing down on our inventory across DRAM and NAND. From a gross margin
+perspective, the power outage and earthquake impact will be a headwind to our DRAM cost reductions in F
+Q2. Additionally, the timing of new DRAM and NAND node ramps also limits our cost reductions for F Q2.
+
+With all these factors in mind, our non-GAAP guidance for F Q1 is as follows: we expect revenue to be
+$5.8 billion, plus or minus $200 million; gross margin to be in the range of 31%, plus or minus 100 basis
+points; and operating expenses to be approximately $825 million, plus or minus $25 million. Finally,
+based on a share count of approximately 1.15 billion fully diluted shares, we expect earnings per share
+to be $0.75, plus or minus $0.07. As we look beyond F Q2, we anticipate that a vaccine-driven economic
+recovery, combined with secular trends such as 5G adoption and AI, will result in stronger demand.
+
+In the second half of fiscal '21, we expect improved financial performance driven by strengthening market
+conditions and a stronger cost reduction across DRAM and NAND.
+
+In closing, we're confident in Micron's ability to deliver strong long-term revenue growth and cross-cycle
+profitability. Over the last 4 years, Micron has delivered average gross margins of 40%, EBITDA margins
+of 50% and return on invested capital of 20%. We believe Micron's strong performance will continue cross-
+cycle. As we look to the expected upturn in the DRAM business in calendar 2021, Micron's relentless focus
+on execution positions us well to generate solid returns for our shareholders.
+
+I will now turn the call over to Sanjay for closing remarks.
+
+Sanjay Mehrotra
+CEO, President & Director
+
+Thank you, Dave. Over the last year, Micron delivered strong performance in the face of significant
+challenges from COVID. I'm thankful to the Micron team, whose tenacity and resilience enabled us to
+navigate this challenging period and maintain production at normal levels while continuing to advance our
+technology and product portfolio.
+
+Micron is poised to emerge stronger in calendar 2021 as the world recovers from the pandemic. We are
+confident in our road map to further enhance our competitive position while exercising supply discipline.
+We are in a better position than ever before, and this has been recognized by our customers. Recently,
+Micron received supplier awards from multiple customers, including from Tier 1 China smartphone OEMs.
+We also continue to make great strides in advancing our corporate responsibility agenda.
+
+In November, Micron published our fiscal year '20 annual diversity, equality and inclusion report, detailing
+our progress over the year and our commitments for fiscal year '21. In 2020, we increased our female
+Board representation and also made investments to improve the presentation of all underrepresented
+groups, including Blacks and Latinx in technical and leadership roles. We expanded our pay equity
+initiative beyond gender to also include other underrepresented groups and to consider total compensation
+across pay and equity awards. We are working with industry organizations to establish best practices
+in supplier diversity and to support the inclusion and competitiveness of diverse suppliers in the
+semiconductor industry.
+
+And finally, we leveraged the power of Micron's influence in the communities where we live and work to
+advocate for greater social justice and safety globally. We are also proud to report that in November, we
+were added to the Dow Jones Sustainability Index, joining the ranks of the most sustainable American
+companies. We aim to build on this recognition as we advance on our sustainability goals this year.
+Thank you, and now we will open the call for questions.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Chris Danely with Citigroup.
+
+Christopher Brett Danely
+Citigroup Inc., Research Division
+
+Merry New Year and thanks for -- let me ask the question. In terms of what's impacting you, I guess
+you can sort of control or fix the power outage and the earthquake. But you also mentioned that there's
+shortages of nonmemory components out there that are impacting you as well or impacting the memory
+industry. Can you maybe quantify those? And is that issue getting any better? Or could it get any worse?
+And could this, I guess, hinder any sort of upturn in DRAM this year?
+
+Sanjay Mehrotra
+CEO, President & Director
+
+So let me be clear, that when we were referring to nonmemory component shortages, we were referring
+to those in our end markets, our customers experiencing certain end market shortages. And yes, without
+those end market -- without those nonmemory component shortages, yes, the overall demand could have
+been even somewhat higher. And these nonmemory component shortages that some of our customers are
+experiencing, they relate to general tightness in the foundry space, logic, 8-inch, 12-inch nodes, where
+some of our customers in their end market hardware are experiencing certain shortages. So that's what
+we are referring to.
+
+Of course, with respect to our own supply chain, this is an area given some of the foundry shortages that
+are existing today. We are continuing to manage our supply chain today. We do not see for this quarter
+any specific shortages in terms of our ability to supply any nonmemory shortages with respect to our
+ability to supply product to our customers. Of course, as we highlighted in our script, we do see certain
+shortages in memory, particularly in DRAM, across several parts of the market.
+
+And with respect to our own supply chain aspects, we have factored those in the outlook that we have
+provided. And we -- our supply chain has really an excellent operations team, and we continue to work
+with our suppliers, with our partners, to make the best assessment in terms of managing our own supply
+chain. So again, to be clear, we were not pointing to any nonmemory component shortages in this quarter
+for our own manufacturing supply chain. We were referring more to our customers' end markets where
+they're experiencing certain nonmemory component shortages. Of course, from the point of view of our
+own supply chain, we continue to monitor some of the trends that are there in the tech supply chain, with
+certain parts of the supply chain running tight. We continue to monitor those in terms of any impact on
+our business as well as work closely with our customers to understand those demand trends.
+
+Operator
+
+And our next question comes from the line of John Pitzer with Crédit Suisse.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Sanjay, I wanted to go back to your comments you made about your expectation for DRAM demand, both
+this year of high teens and longer term of mid- to high teens. I'm just kind of curious if you can give us a
+little bit more insight of how you're building up those models. And I'll push back a little bit because we've
+got a very strong gaming console this year. We've got the move to 5G. As Ice Lake ramps, we're going to
+go from 6 to 8 channels in the server market. It seems like the risk to that forecast on demand is to the
+upside this year. And then conversely, as you think about server as a percent of your DRAM business over
+the last 5 years, it's gone from 15% to 30% approximately, and given what we see around DRAM densities
+going into next-generation compute, especially around AI workloads, I would think that the historic 20%
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+bit growth in DRAM demand should be something the industry should be able to maintain. I'm just kind of
+curious as to why you don't believe that.
+
+Sanjay Mehrotra
+CEO, President & Director
+
+So John, I mean, we are giving you our best estimates with respect to demand assessment, and you're
+absolutely right to point out that the end market demands are, certainly, the demand trends are strong.
+The trends, the secular trends of AI, 5G, cloud and intelligent edge, including smart vehicles, is absolutely
+strong growth driver for memory and storage in the years to come.
+
+Keep in mind, for calendar year 2020, particularly in the late part of calendar year 2020, the demand
+went up strongly. So when we look at DRAM demand growth for calendar year 2020, we said that it is
+somewhat above 20% in calendar year '20 on a year-over-year basis. So that's what is really adjusting
+some of our assessment for calendar year '21 in terms of high teens for the DRAM demand growth.
+
+In terms of how we come about these numbers, we are always working closely with our customers. We
+-- our market intelligence team is assessing the end market demand trends. What we see is, over the
+course of next few years for DRAM, that stronger than the average of the market would be mobile. 5G will
+be a long-term growth driver in 2021. We do expect that 5G phones will be twice of what they were in
+calendar year 2020, going from 250 million units to 500 million units. And no question that average DRAM
+content in the 5G phones increases substantially as well, with minimum DRAM and 5G smartphones being
+6-gigabyte.
+
+Yes, graphics, gaming consoles, new gaming consoles, new gaming graphics cards, also a strong driver
+and stronger than the average in 2021 of the DRAM growth. Cloud, we expect to be healthy and strong in
+2021 as well based on all the reports that you have seen from various cloud suppliers about their CapEx
+investments and their workloads moving more toward AI and machine learning, driving greater demand.
+And auto, certainly, in 2021, auto unit sales will be rebounding. And all of these -- and auto, of course,
+as vehicles are becoming more intelligent, also driving greater content. All of these markets that I just
+mentioned, mobile, graphics, cloud, auto, we believe they will grow stronger than the average of the
+market in 2021.
+
+Weaker than the average of the market would be the PC, although PC overall will have unit growth in
+2021, and Micron is well positioned with the DC market as well -- PC market as well. All I'm saying is that
+compared to the average of the industry, the DRAM bit growth in PC, I believe, will be somewhat less than
+the average. And enterprise continues to be somewhat weak as well. And with the recovery rebound from
+the pandemic, we would expect, during the course of the year, enterprise will recover as well.
+
+So these are all -- this is how we look at the end markets in 2021, and this is what leads us, particularly
+on the heels of a very strong above 20% bit growth in calendar year 2020, this is what leads us to project
+a high teens kind of number for 2021. And when we look beyond that, as you noted, we see that, overall,
+DRAM CAGR, multiyear CAGR, will be high teen -- mid-teens to high teens. Some years, maybe a little
+bit less, some years, a little bit more, but we are talking about the general CAGR there. And of course,
+we work closely with our customers. We work closely with understanding their demand. And we also have
+annual supply agreements with several of our customers in vast parts of the market. This is all what helps
+us build the intelligence that led us to the numbers.
+
+And John, we look at these numbers from -- on a very regular basis. We assess them. And of course,
+we may make adjustments as is necessary. And when we make adjustments in those projections, we, of
+course, make adjustments in our own expectations of how to manage our supply because our goal is to
+manage our supply growth to be in line with the industry demand growth on a CAGR basis.
+
+Operator
+
+And our next question comes from the line of C.J. Muse with Evercore.
+
+Christopher James Muse
+Evercore ISI Institutional Equities, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+And Sanjay, Dave, Happy New Year. I guess I would like to focus on cost-downs. And you talked about
+down mid-single digits in fiscal '21. I'm curious, what kind of impact is embedded in that number for the
+disruption that you have seen in the last month? And then as you think about the ramp of 1-alpha and
+the 40% increase in bit output versus 1Z, I would love to hear your thoughts on what kind of acceleration
+we should see in cost-downs on the year-end side beyond August and when we really see that uptick in
+savings through your 1-alpha ramp?
+
+David A. Zinsner
+Senior VP & CFO
+
+Okay. So I'll take that, C.J. So on the cost-downs for this year, as we mentioned, DRAM, our expectation
+is that we would see mid-single-digit cost-downs this year. That is -- or the cost impacts of the disruptions
+we experienced at the beginning of this quarter and late last quarter are embedded in that for sure. As
+you look into more as -- I should say, as we progress through this year and into next year, 1-alpha will
+become more and more of our volume. That should bode well for our cost declines. And well, that's one
+of the reasons why we think most of the cost decline we'll see in DRAM is really back end, back half of FY
+'21-loaded. But we do expect to see that lead to further cost improvements in FY '22 as well.
+
+Operator
+
+Our next question comes from the line of Karl Ackerman with Cowen.
+
+Karl Fredrick Ackerman
+Cowen and Company, LLC, Research Division
+
+Maybe just to follow up on C.J.'s question on DRAM cost declines, I would like to move over to NAND.
+I appreciate the commentary on NAND cost improvement, which you've called out, low to mid-teens.
+Is there a way to quantify the cost headwind from your transition to replacement gate because I would
+imagine, that would be fairly sizable even in fiscal 2021. And I had a quick follow-up.
+
+David A. Zinsner
+Senior VP & CFO
+
+Yes. So yes, so I think if you looked at last year, FY '20, our cost declines were pretty negligible, actually,
+on NAND because of the transition to the first generation of replacement gate. And really, the only area
+where we got any sort of cost declines was in the changeover in depreciation for NAND from 5 to 7 years.
+As we move into the second generation, as we talked about, we -- this 176-layer has a particularly good
+cost structure. And so that will obviously be the big factor in terms of driving our cost declines in the low
+teens for this year. And again, we're going to be ramping this through the year and into next year, so we
+do feel like this will be a tailwind for our cost reductions as well. You didn't ask about this, but on top of
+that, we -- as we talked about on the call, we have good momentum in QLC. That should be also a good
+tailwind for NAND costs as well.
+
+Karl Fredrick Ackerman
+Cowen and Company, LLC, Research Division
+
+Got it. You recognized a record graphics DRAM quarter. Just kind of curious if graphics are now closer to
+20% of the segment now. And then, I guess, what sort of graphics DRAM demand are you seeing from
+GPUs used for cryptocurrency mining now that those currencies are now at an all-time high?
+
+Sanjay Mehrotra
+CEO, President & Director
+
+And so with respect to graphics, that is in single digits. Overall, as part of the industry as well as part of
+our business, if anything, Micron actually leads in the graphics segment. With respect to our leading-edge,
+high-performance, power-efficient DRAMs, our GDDR6, our GDDR6X products are very well-positioned
+with industry-leading specifications in the graphics market. You know about GDDR6X that we introduced
+with the PAM4 interface with twice the data transfer rate of the traditional DRAM memory beforehand.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+So we are very proud of our leadership in the graphics market. And certainly, some part of the graphics
+market addresses the cryptomining applications as well. So that's embedded within our graphics revenue
+that we talk about. Basically, some of the graphics cards that are built using GDDR6 and GDDR6X memory
+and other graphics memory that we supply are used in cryptomining applications. And cryptomining is
+just pointing to yet another continuing digitization of the economy, yet another application. It will be an
+important -- cryptocurrency will certainly be very important in the future. And the data mining needs
+there, cryptomining needs, definitely needs, high-performance memory, and Micron DRAM memory, Micron
+graphics products are well positioned in that part of the market there.
+
+Operator
+
+Your next question comes from the line of Timothy Arcuri with UBS.
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research Division
+
+I guess I had 2. First, Sanjay, I wanted to double-click on a prior question. So I understand that the
+demand was better during the late part of last year, but you also took down your forecast for this year. You
+were thinking up 20%, and now you're up more like high teens. So is there any component of digestion
+that you're fearing in mobile? Is that part of the 2? Or is it just the math that you have the same number
+of bits off of a higher base last year? And then I had a follow-up on -- it's for Dave.
+
+Sanjay Mehrotra
+CEO, President & Director
+
+Yes. It simply is, Tim, the latter of what you just said, that it is. The overall demand in 2021, we
+absolutely, based on all the demand drivers that we see, that we described in our script, we see really
+continuing strong trend of demand in 2021. So it is what you said that 2020 has a higher base because
+2020 demand for DRAM went above 20% with that higher base. Compared to our prior expectations, we
+just said that high teens. Nonetheless, let there be no confusion. I mean 2021, overall DRAM demand
+trend across the board, across our markets, except for the enterprise, where we have said enterprise
+weakness will go away once the pandemic recovery takes hold fully on the economies. But whether it is
+auto or it is smartphones or it is cloud or graphics, all of these end markets are pointing to strong demand
+of units as well as strong demand for average content increases in 2021.
+
+So we are very excited about the demand opportunities. And keep in mind, this is in the backdrop of
+CapEx management, disciplined CapEx management in the DRAM industry, leading really to a supply
+environment where we think that the supply growth will be less than the industry demand growth in 2021,
+which sets up 2021 very nicely for the DRAM fundamentals. And that too, with Micron's execution on
+technology and products, continuing to strengthen our position there, really very proud and excited about
+Micron's position with industry-leading 1-alpha node now, which, of course, over the course of next several
+quarters, we'll be ramping into production.
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research Division
+
+Dave, super quick. You didn't buy back any stock. And I know that you burn more cash than maybe you
+thought because there was some working capital that was a little -- that sort of worked against you.
+But why not give -- why not buy back stock given the improving outlook? And obviously, you're going to
+generate a lot of free cash flow during the fiscal back half of the year and your stock seems to be biased
+higher. So why not buy back any stock during fiscal Q1?
+
+David A. Zinsner
+Senior VP & CFO
+
+Yes. I wouldn't read too much into it. I mean we -- if you look back over the last couple of years, I think
+we generated, I don't know, mid-$4 billion levels of cash flow. And if you combine the converts and the
+buybacks, we spent probably closer to $4.7 billion or so on all of that. So we're definitely committed to the
+buyback. I would expect that our target is certainly to generate free cash flow for the year. And I think you
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+can expect us to remain committed in terms of returning at least or more than 50% of the free cash flow
+in the form of buybacks.
+
+The one other metric that we do to try to focus on is our net cash, our cash excess of our debt. And of
+course, when we're not generating cash flow, we're generating native cash, we eat into that a bit. And so I
+think, just to be cautious, we wanted to make sure that we didn't eat into that net cash balance too much.
+But not really reflective of any view on the stock price, and we remain buyers over time of the stock. So...
+
+Operator
+
+And our next question comes from the line of Harlan Sur with JPMorgan.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+Your cloud business remained relatively healthy through calendar year '20, and I know that the team is
+expecting strength this year. But maybe more from a near-term perspective, there does seem to be some
+growing indications that data center spending is going to start to reaccelerate here in the first half of this
+calendar year. On top of that, you have some of the new processor ramps that are coming to the market
+as well. Is the team seeing a strength here in Q2 in your forward orders or customer forecast? And then
+can you just give us an update on your DDR5 server products? Are you guys finished with qualification of
+these new products ahead of the second half adoption cycle?
+
+Sanjay Mehrotra
+CEO, President & Director
+
+So with respect to cloud, yes, I mean, compared to our pre-COVID expectations, 2020 was a strong
+year for cloud, and we did well. It was good for the industry, and it was good for us as well. And yes, we
+definitely, in 2021 as well, continued to see strength in cloud, a healthy business environment, a healthy
+demand for cloud and continuing to work with our leading-edge technology nodes as we get that ready
+into production with 1-alpha or to get that qualified with our customers.
+
+So yes, cloud is a long-term secular demand driver for our industry. And again, it is the trend of AI and ML
+and the workloads that are requiring more memory. And you are absolutely right to note that companies
+are, in 2021, introducing new CPUs and compute architectures, which will have more cores, which will
+have more channels, more DRAM attach rate. And with the end market appetite of a need for more
+memory and the compute architectures and processors enabling greater DRAM attach rate in the servers,
+yet this trend of more memory in the cloud environment will continue, and this trend is here to stay for a
+considerable period of time, even beyond the 2021 time frame.
+
+With respect to DDR5, that is really in the very early innings at this point. We are happy with our product
+position there. And the DDR5 will start picking up in terms of revenue opportunity later on in 2021.
+
+We're still in the qualification phases and will become a revenue opportunity, but we are well positioned.
+
+Operator
+
+Your next question comes from the line of Joe Moore with Morgan Stanley.
+
+Joseph Lawrence Moore
+Morgan Stanley, Research Division
+
+You guys continue to have this kind of negative leaning language on NAND, but you did inject that it
+could improve over the course of this year if people moderate their plans. Like what -- it seems like the
+spending is fairly front half-loaded and will moderate over the course of the year. Were you looking at
+there to sort of gauge whether that could get better or worse over the course of the year? And what's the
+-- am I right to sort of say that there's a little bit more optimism in the way that you phrase that?
+
+Sanjay Mehrotra
+CEO, President & Director
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+So certainly, NAND, as traditionally had been the case, has elasticity that is an important part of the
+NAND market. And elasticity will continue to drive greater content in the various end market applications
+from the smartphones, to client notebook computers, to data center applications as well. And post the
+pandemic, we definitely expect that across the tech space, there will be pent-up -- release of pent-up
+demand, and that itself, for a couple of years, is going to drive increasing demand.
+
+Overall, when we look at 2021, we expect the demand growth in NAND to be approximately 30%. And
+our estimation is that supply, perhaps somewhat above demand. And as the elasticity kicks in, as the
+post-COVID, post-pandemic and world demand environment builds up as well as with greater focus from
+the industry in terms of management of the supply, then we do believe that NAND fundamentals can
+strengthen.
+
+As far as Micron is concerned, I mean, we definitely are extremely focused on managing our supply
+growth with discipline. With our 176-layer NAND, we are very excited about our industry-first position with
+this technology, but we manage our supply growth and we expect that Micron supply -- overall supply
+growth will be below the industry demand growth. And of course, we'll supplement that with some of the
+inventory, so that in terms of our shipment growth in 2021, it will be in line with the industry demand
+growth expectation. But management of the supply, I think, is an important factor in the industry in terms
+of, over time, returning to the healthier levels of the NAND industry, along with elasticity and post-COVID
+NAND demand environment.
+
+Operator
+
+And our next question comes from the line of Toshiya Hari with Goldman Sachs.
+
+Toshiya Hari
+Goldman Sachs Group, Inc., Research Division
+
+I wanted to ask about CapEx and curious about the internal debate as today at Micron. Obviously, you
+guys didn't make any changes to your full year budget of $9 billion. But on the DRAM side, Sanjay, is
+it fair to say, given the outlook over the next year or so, if there is a bias internally, the bias is to the
+upside from a spending perspective? And conversely, on the NAND side, you've -- to Joe's question, you've
+struck this cautionary note over the past couple of quarters. I realize you guys are being fairly prudent
+and focusing on your transition, but what would you need to see for you to turn constructive -- sorry,
+conservative from a spending perspective in NAND?
+
+Sanjay Mehrotra
+CEO, President & Director
+
+So again, I think, both for DRAM and for NAND, I think it is extremely important for us at Micron on an
+ongoing basis to stay disciplined with respect to supply growth, with respect to investments in CapEx, to
+manage our supply growth to be in line with the industry demand growth expectations on a CAGR basis.
+And this is where our focus is because that's the best way to generate ROI on our investments. We feel
+very good about our CapEx discipline and our focus on really driving profitability of the business through
+increasing our share, not just chasing bit share, but increasing the profit share of the industry. And this is
+where our focus on differentiated solutions, both in NAND as well as in DRAM, to strengthen our position,
+to strengthen the mix of the product portfolio, is an important part of our strategy. But with respect to the
+CapEx discussions, it always is about really discipline on supply growth, staying in line with the demand
+growth.
+
+Operator
+
+And our final question comes from the line of Mitch Steves with RBC Capital Markets.
+
+Mitchell Toshiro Steves
+RBC Capital Markets, Research Division
+
+I wanted to double-click on one. I'm sure you're going to get this on all these callbacks. So when you talk
+about the DRAM impact for Q2 -- or sorry, the second quarter guide, can you walk us through like kind of
+the magnitude of the impact, i.e., how much of that 31% kind of midpoint is being negatively impacted
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+by DRAM? Any sort of qualitative answer there would be very helpful. And then secondly, as it relates to
+NAND, it sounds like you guys are a little bit cautious there. Can you maybe talk us through what you
+guys expect to see from the smartphone market given the fact that we're going to see kind of an elevated
+Q1 due to the change in product cycles? But then how should we think about kind of 2H, calendar 2H
+smartphone demand as you guys see it right now?
+
+David A. Zinsner
+Senior VP & CFO
+
+Okay. So I'll take the first one, and Sanjay will take the smartphone question. So yes, of course, there was
+a cost impact or will be a cost impact in the second quarter associated with this disruption. I wouldn't say
+it's massive. It's measured in tens of basis points, not hundreds of basis points that we factored into the
+quarter.
+
+Sanjay Mehrotra
+CEO, President & Director
+
+And with respect to smartphone content growth, certainly, with 5G, the average content will continue to
+increase in smartphones. We have talked about in the past that -- how DRAM content in smartphones is
+8-gigabyte to 12- to 16-gigabyte even in certain phones and average content increase in the smartphone
+market will be in the double digits. And again, in the smartphone, I think it's important to understand that
+not only is it about the 5G number of units increasing, more than doubling calendar year '20 over calendar
+year '21, going from 250 million 5G smartphones in '20 to 500 million-plus in 2021, but the average
+content of DRAM is increasing in these 5G phones as well. So that's a multiplicative impact with respect to
+the DRAM demand growth in the smartphone market.
+
+And if you look at the CAGR of DRAM content over the course of the next 3 years or so, that CAGR of
+average content growth in the smartphone market is in the double digits range. So smartphone will
+continue to be a strong market, and we are very well-positioned with our NAND and DRAM combination
+to address the growing opportunities in the smartphone markets. We mentioned in this earnings call
+prepared remarks that our MCP revenues, MCPs with multichip packages that include DRAM as well as
+NAND, we are extremely well-positioned being the manufacturer of both DRAM and NAND. That revenue,
+MCP revenue, hit a record in our fiscal Q1 time frame.
+
+So smartphone continues to be strong and the largest market for DRAM and NAND, and we are really well-
+positioned there and quite excited about the opportunities here, including introduction of our LPDDR5 and
+uMCP5 industry-leading solutions.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating, and you may
+now disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+MICRON TECHNOLOGY, INC. FQ1 2021 EARNINGS CALL |  JAN 07, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+

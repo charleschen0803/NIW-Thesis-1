@@ -1,0 +1,1158 @@
+Advanced Micro Devices, Inc. 
+
+NasdaqGS:AMD
+FQ3 2021 Earnings Call Transcripts
+Tuesday, October 26, 2021 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ3 2021-
+
+-FQ4 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+GUIDANCE
+
+CONSENSUS
+
+EPS 
+Normalized 
+
+0.66
+
+0.73
+
+10.61
+
+0.68
+
+2.51
+
+-
+
+3.10
+
+Revenue  (mm)
+
+4113.21
+
+4313.00
+
+4.86
+
+4247.59
+
+15690.66
+
+16108.95
+
+18235.07
+
+Currency: USD
+Consensus as of  Oct-26-2021 4:06 AM GMT
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+FQ3 2021
+
+0.48
+
+0.44
+
+0.54
+
+0.66
+
+0.52
+
+0.52
+
+0.63
+
+0.73
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+8.33 %
+
+18.18 %
+
+16.67 %
+
+10.61 %
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Devinder Kumar
+Executive VP, CFO & Treasurer
+
+Laura A. Graves
+Corporate Vice President of
+Investor Relations
+
+Lisa T. Su
+President, CEO & Non-Independent
+Director
+
+ANALYSTS
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC,
+Research Division
+
+Blayne Peter Curtis
+Barclays Bank PLC, Research
+Division
+
+Christopher Caso
+Raymond James & Associates,
+Inc., Research Division
+
+John William Pitzer
+Crédit Suisse AG, Research
+Division
+
+Joseph Lawrence Moore
+Morgan Stanley, Research Division
+
+Matthew D. Ramsay
+Cowen and Company, LLC,
+Research Division
+
+Ross Clark Seymore
+Deutsche Bank AG, Research
+Division
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research
+Division
+
+Toshiya Hari
+Goldman Sachs Group, Inc.,
+Research Division
+
+Vivek Arya
+BofA Securities, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+Presentation
+
+Operator
+
+Hello, and welcome to the AMD Third Quarter 2021 Earnings Call and Webcast. [Operator Instructions] As
+a reminder, this conference is being recorded.
+
+It's now my pleasure to turn the call over to Laura Graves, Corporate Vice President, Investor Relations.
+Please go ahead, Laura.
+
+Laura A. Graves
+Corporate Vice President of Investor Relations
+
+Thank you, and welcome to AMD's Third Quarter 2021 Financial Results Conference Call. By now, you
+should have had the opportunity to review a copy of our earnings press release and accompanying
+slideware. If you have not reviewed these documents yet, they can be found on the Investor Relations
+page of amd.com.
+
+Participants on today's conference call are Dr. Lisa Su, our President and Chief Executive Officer; and
+Devinder Kumar, our Executive Vice President, Chief Financial Officer and Treasurer. This is a live call and
+will be replayed via webcast on our website.
+
+Before we begin, I would like to note that we will host our Accelerated Data Center Premiere virtually on
+November 8, with feature presentations by Dr. Lisa Su; and Data Center executives Forrest Norrod and
+Dan McNamara. This event will also be available on amd.com. Dr. Su will also attend Credit Suisse's 25th
+Annual Technology Conference on Tuesday, November 30. Ruth Cotter, Senior Vice President, Worldwide
+Marketing, Human Resources and Investor Relations, will attend the Barclays Global Technology, Media
+and Telecom Conference on Tuesday, December 7. And our fourth quarter 2021 quiet time is expected to
+begin at the close of business on Friday, December 10.
+
+Today's discussion contains forward-looking statements based on current beliefs, assumptions and
+expectations, speak only as of today and as such, involve risks and uncertainties that could cause actual
+results to differ materially from our current expectations. Please refer to the cautionary statement in
+our press release for more information on factors that could cause actual results to differ. We will refer
+primarily to non-GAAP financial measures during this call. The full non-GAAP to GAAP reconciliations are
+available in today's press release and in the slides posted on our website.
+
+Now with that, I'll turn the call over to Lisa. Lisa?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Thank you, Laura, and good afternoon to all those listening in today. Our business performed extremely
+well in the third quarter as our leadership product portfolio and strong execution drove record quarterly
+revenue, operating income, net income and earnings per share. We delivered our fifth straight quarter
+of greater than 50% year-over-year revenue growth, with each of our businesses growing significantly
+year-over-year and data center sales more than doubling. Third quarter revenue grew 54% to $4.3 billion.
+Gross margin expanded by more than 4 percentage points and operating income doubled year-over-year.
+
+Turning to our Computing and Graphics segment. Third quarter revenue increased 44% year-over-
+year to $2.4 billion, driven by our latest generation Ryzen, Radeon and AMD Instinct processors. In
+client computing, sales grew by a strong double-digit percentage year-over-year and declined slightly
+sequentially. Ryzen 5000 processor shipments increased by a double-digit percentage sequentially,
+resulting in a richer product mix as we believe we gained revenue share for the sixth straight quarter.
+
+In desktops, we launched our Ryzen 5000 processors with integrated Radeon graphics for the channel to
+strong demand as third-party reviews highlighted the leadership computing and graphics capabilities and
+energy efficiency of these processors. In notebooks, Acer, Asus, HP and Lenovo, all expanded their mobile
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+offerings powered by Ryzen 5000 mobile processors as we continue gaining momentum in the premium
+consumer, gaming and commercial markets.
+
+Commercial client growth year-over-year was based on new deployments across public sector and Fortune
+1000 technology, energy and automotive customers as the number of AMD-based commercial notebook
+designs available from the largest OEMs increased significantly year-over-year. We're also seeing strong
+growth in the workstation market. According to IDC, Threadripper PRO processors now powered the best-
+selling workstations in their category in both North America and EMEA as we continue winning high-
+volume deployments across key verticals including media and entertainment, engineering, architecture
+and automotive.
+
+In Graphics, revenue more than doubled year-over-year and grew by a strong double-digit percentage
+sequentially, driven by shipments of our next-generation AMD CDNA 2 data center GPUs and demand for
+Radeon 6000 GPUs in the channel. AMD RDNA 2 GPU sales grew significantly in the quarter as we ramped
+production and expanded our top to bottom portfolio with the launch of the midrange Radeon RX 6600 XT
+cards that deliver leadership 1080p gaming performance at their price point. Data center graphics revenue
+more than doubled year-over-year and quarter-over-quarter, led by shipments of our new AMD CDNA 2
+GPUs for the Frontier exascale supercomputer at Oak Ridge National Laboratory.
+
+Frontier was architected specifically to deliver breakthrough HPC and AI compute performance and
+provide a blueprint for how supercomputing, enterprise and cloud customers can enable exascale-level
+performance over the coming years by combining AMD CPUs, GPUs and software. We are very pleased
+with the performance of our AMD CDNA 2 GPUs and look forward to providing more details on their
+leadership performance next month.
+
+Turning to our Enterprise, Embedded and Semi-Custom segment, revenue increased 69% year-over-year
+to $1.9 billion, driven by strong growth in EPYC processor and semi-custom sales. Semi-custom revenue
+grew sequentially and year-over-year as demand for the latest Microsoft and Sony consoles remains very
+strong. We expect semi-custom revenue to increase sequentially in the fourth quarter as we further ramp
+supply to address the ongoing game console demand.
+
+Turning to server. We delivered our sixth straight quarter of record server processor revenue as sales more
+than doubled year-over-year and grew by a significant double-digit percentage sequentially. Third-gen
+EPYC processors continue ramping faster than the prior generation and contributed the majority of our
+server CPU revenue in the quarter.
+
+In cloud, multiple hyperscalers expanded their third-gen epic processor deployments to power their
+internal workloads. And both Microsoft Azure and Google announced multiple new AMD-powered
+instances. Cloudflare, Vimeo and Netflix also all recently announced new deployments powered by EPYC
+processors, with Netflix highlighting how they doubled their streaming throughput per server while also
+reducing their TCO.
+
+Enterprise growth was particularly strong in the quarter as the more than 100 third-gen EPYC processor
+platforms from Dell, HPE, Lenovo, Supermicro, Cisco and others ramp into broader end customer
+deployments. We expanded our wins in the quarter with Fortune 1000 financial services, automotive and
+aerospace companies and see significant ongoing growth opportunities as our enterprise server pipeline
+has more than doubled year-over-year.
+
+In supercomputing, we won multiple installations in the quarter, highlighted by Argonne National
+Laboratory selecting third-gen EPYC processors to power the new Polaris supercomputer that will be
+used to test and optimize software in preparation for future exascale class systems. Overall, we are very
+pleased with the momentum we have built in our data center business as server CPU and GPU revenue
+grew to a mid-20s percent of overall revenue in the quarter.
+
+Turning to our Xilinx acquisition. We are making good progress towards securing the required regulatory
+approvals and remain on track to close by the end of the year. The Xilinx acquisition provides significant
+benefits to AMD, including expanding our product portfolio with leadership adaptive computing and AI
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+solutions and further diversifying our customer base into complementary markets, including wired and
+wireless communications, industrial and automotive.
+
+In closing, our record third quarter results and the significant acceleration of our business in 2021
+demonstrate that we have the right products and strategies to drive best-in-class growth and significant
+shareholder returns. We continue growing faster than the market, driven by our consistent execution
+and the investments we have made to build leadership products. Our supply chain team has executed
+extremely well in a challenging environment, delivering incremental supply throughout the year,
+supporting our strong revenue growth. We are also investing significantly to secure additional capacity to
+support our long-term growth. Our product portfolio and road maps have never been stronger, and I look
+forward to sharing more details about our next-generation server CPUs and GPUs at our Accelerated Data
+Center Premiere on November 8.
+
+Now I'd like to turn the call over to Devinder to provide some additional color on our third quarter financial
+performance. Devinder?
+
+Devinder Kumar
+Executive VP, CFO & Treasurer
+
+Thank you, Lisa, and good afternoon, everyone. AMD had another excellent quarter. Our leadership
+products and growing data center momentum are driving record revenue, record profitability and
+significant cash flow generation. Third quarter revenue was $4.3 billion, up 54% from a year ago, driven
+by strong revenue increases across all businesses and up 12% from the prior quarter.
+
+Gross margin was 48%, up 440 basis points from a year ago, driven by strong revenue mix and
+competitive products. Operating expenses were $1.04 billion compared to $706 million a year ago as we
+continue to invest in our long-term product road maps and scaling our business.
+
+Operating income more than doubled to $1.06 billion, up $530 million from a year ago, driven primarily by
+revenue growth. Operating margin was 24%, up from 19% a year ago. Net income grew to $893 million,
+up $392 million from a year ago. Diluted earnings per share was $0.73 compared to $0.41 per share a
+year ago. This includes a 15% effective tax rate compared to 3% a year ago.
+
+Now turning to the business segment results. Computing and Graphics segment revenue was $2.4 billion,
+up 44% year-over-year, driven by significantly higher client and graphics processor revenue. Computing
+and Graphics segment operating income was $513 million or 21% of revenue compared to $384 million
+or 23% a year ago. The increase in operating income was primarily driven by higher revenue, which more
+than offset higher operating expenses. Operating margin was slightly lower year-over-year, primarily due
+to investments in R&D and go-to-market.
+
+Enterprise, Embedded and Semi-Custom segment revenue was $1.9 billion, up 69% from $1.1 billion
+the prior year. The strong revenue increase was primarily driven by significantly higher EPYC processor
+and semi-custom sales. EESC operating income was up significantly at $542 million or 28% of revenue
+compared to $141 million or 12% a year ago. Operating income growth was primarily driven by higher
+revenue and richer product mix, partially offset by higher R&D and go-to-market expenses.
+
+Turning to the balance sheet. Cash, cash equivalents and short-term investments were $3.6 billion. We
+utilized $750 million to repurchase more than 7 million shares of common stock in the third quarter of
+2021 as part of our ongoing stock repurchase program. Free cash flow was $764 million compared to $265
+million in the same quarter last year and $888 million in the prior quarter.
+
+On a quarter-over-quarter basis, free cash flow was lower as we made strategic investments in long-term
+supply chain capacity to support future revenue growth. Inventory was $1.9 billion, up $137 million from
+the prior quarter in support of continued revenue growth.
+
+Let me now turn to the fourth quarter outlook. Today's outlook is based on current expectations and
+contemplates the current global supply environment and customer demand signals. We expect revenue to
+be approximately $4.5 billion, plus or minus $100 million, an increase of approximately 39% year-over-
+year and approximately 4% sequentially. The year-over-year increase is expected to be driven by growth
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+across all businesses. The quarter-over-quarter increase is expected to be driven by higher server and
+semi-custom sales.
+
+In addition, for Q4 2021, we expect non-GAAP gross margin to be approximately 49.5%; non-GAAP
+operating expenses to be approximately $1.15 billion; non-GAAP interest expense, taxes and other to be
+approximately $170 million; and the diluted share count to be approximately 1.22 billion shares. For the
+full year 2021, we now expect revenue to increase approximately 65% over 2020, driven by growth across
+all businesses, up from the prior guidance of 60%. In addition, we continue to expect gross margin to be
+approximately 48% for the full year.
+
+In closing, we delivered another outstanding quarter with very strong year-over-year revenue growth,
+significant financial momentum and record profitability. Our leadership products position us well to drive
+future growth, significant cash generation and strong shareholder returns.
+
+With that, I'll turn it back to Laura for the question-and-answer session. Laura?
+
+Laura A. Graves
+Corporate Vice President of Investor Relations
+Thank you, Devinder. Operator, we're ready for our first question.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question today is coming from Blayne Curtis from Barclays.
+
+Blayne Peter Curtis
+Barclays Bank PLC, Research Division
+
+Great results. Just kind of curious, the overall outlook for Q4. So computing graphics being down. I was
+just curious if that was more the supply. You're still growing sequentially. And obviously, I would assume
+you prioritize servers. Just kind of curious what you're seeing in the computing graphics market. And is
+it anything related to supply constraints for you that would be down sequentially or maybe downstream
+constraints.
+
+And then maybe for Devinder. Just curious, you're still growing gross margin. I'm assuming embedded,
+semi-custom and service kind of offsetting. So just kind of walk us through the nice increase in gross
+margin for Q4.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Sure, Blayne. Thanks for the question. So as it relates to the fourth quarter and where we are. Look,
+we're overall very pleased with our performance in terms of the second half of the year. It's playing out
+about what we expect it to be in the PC market. So as you're asking about computing and graphics.
+We had seen that the PC market and user demand is strong overall, but there are some matched set
+constraints in the PC market. And so for that reason, we've called the PC market really flattish. I would not
+have said down. I would have called it flattish as we look into the fourth quarter.
+
+However, as we look overall at the business, I think the data center business has performed very well, and
+we see strong demand there, and we're continuing to see that. And as well, the console business, overall
+gaming is also quite strong. And so we see growth in servers and semi-custom as we go into the fourth
+quarter.
+
+And then on the margin dynamics, Devinder, do you want to cover that?
+
+Devinder Kumar
+Executive VP, CFO & Treasurer
+
+For Q4?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes.
+
+Devinder Kumar
+Executive VP, CFO & Treasurer
+
+Yes. So Q4, it is up slightly based from our guidance, 1 point from Q3, and that's really product mix,
+higher margin from server, offset by semi-custom revenue also been higher going from Q3 to Q4. So we're
+very pleased with the progress on the gross margin. As you look at the Q3 results, up 440 basis points
+from last year, up 80 basis points from last quarter and the progression into Q4, obviously driven by the
+server, our revenue growing. I'm very pleased with that also.
+
+Operator
+
+Our next question today is coming from Vivek Arya from Bank of America.
+
+Vivek Arya
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+BofA Securities, Research Division
+
+Congratulations on the strong results and the consistent execution. Lisa, how are you feeling about the
+spending environment in the data center as you look over the next several quarters? And especially your
+server road map versus the competition because they are planning to launch several new and important
+products early next year. So I was just wondering how you're thinking about the competitive landscape
+and the spending landscape over the next year.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Sure. So thanks, Vivek, for the question. I think overall, we're feeling very, very good about the server
+business or the data center market. I think from a market standpoint, we've seen a strong market year
+in 2021 in both cloud and enterprise and we see that continuing into 2022. I think from a competitive
+position standpoint, I think Milan is extremely well positioned. So we were very pleased with sort of the
+adoption rate of Milan. We said that we expected it to grow faster than Rome, and it has. And so the
+crossover with Milan and Rome in the third quarter is an important metric for that.
+
+Going into the fourth quarter, we continue to see a strong environment. And then as the competitive
+environment goes into 2022, we always expect the competition to be strong, but our focus has been
+consistent execution of our road map, and we feel very good about Zen 4 and Genoa in 2022. I think we
+feel very good about the competitive positioning there. And we continue to believe that data center is the
+most strategic part of our business, and we're making good progress with our customers and partners.
+
+Vivek Arya
+BofA Securities, Research Division
+
+Got it. And for my follow-up, Lisa, AMD has done very well in terms of gaining share at the hyperscalers.
+Where are you in that journey? Is there still a lot of share gains to be had at hyperscalers? And
+importantly, can you repeat that in the enterprise? Or do you think your competitors' incumbency limits
+the share gain opportunity in the enterprise?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. So Vivek, what I would say there is, our business has been more cloud weighted with the
+hyperscalers than enterprise, that continued here in the third quarter. I do believe that there is significant
+additional opportunity for us in the cloud. So as we work with these partners, it is about sort of expansion
+of workloads. Really, there's more tailoring of workloads as well as we go forward. And then there's also
+just more customers and broader penetration in both Tier 1 and Tier 2 cloud guys. So I think that's a good
+market for us.
+
+On the enterprise side, I would say, we saw a very strong enterprise quarter here in the third quarter. I
+think the strength of Milan with our OEMs in terms of the breadth of the platforms, is very good, and we're
+seeing a good traction with sort of Fortune 1000 companies.
+
+So I would say, overall, I think we see a growth trajectory for both our cloud and enterprise business. I
+think in the enterprise, the key thing has been to get more familiarity with EPYC, and we've made very
+good progress there. And so I feel very good about where that's going.
+
+Operator
+
+Our next question is coming from Matt Ramsay from Cowen.
+
+Matthew D. Ramsay
+Cowen and Company, LLC, Research Division
+
+Obviously, Lisa has some really strong progress with data center crossing, I guess, 1/4 of the business
+here with the results. I did want to ask a question specifically on your server business in China. Your
+competitor called out China and some of the turmoil that's gone over there as a reason why some of their
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+cloud business had some headwinds in the third quarter. And maybe you could comment on how you see
+spending over the last quarter and then in the next couple of quarters, specifically in that end market in
+China. And then I have a follow-up.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Sure, Matt. So again, what I would say is our data center business performed very well in the third
+quarter, that was across both cloud and enterprise. And in cloud, that was across geographies. So we
+haven't seen anything particular as it relates to China or there. What I would say is we continue to work
+with the breadth of customers. And we're in the process of really rolling out sort of broader adoption
+across the customer set. So I think we saw a pretty normal environment for demand.
+
+Matthew D. Ramsay
+Cowen and Company, LLC, Research Division
+
+As my follow-up, kind of unrelated. You guys mentioned in the comments, still plans to get the Xilinx deal
+closed by the end of the year. And I think that's important as then there's a lot of things that you can talk
+about more, maybe more openly about the heterogeneous compute strategy for the business over the
+long term. Lisa, maybe you could walk us through to the extent that you can talk about it, obviously, there
+are some things that you can't talk about.
+
+But to the extent you can, what milestones you've achieved behind the scenes that make you feel
+confident and what hurdles are still there to have the confidence? I mean I guess we've got weeks till we
+get into the month of December and things kind of slow down a little bit regulatory-wise. So I just wonder
+what gives the confidence that we can get there and what we should expect?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Sure, Matt. So look, we've been working diligently on the closure of the Xilinx acquisition. I would say
+we're through the vast majority of what we need to do in the regulatory front. We're finishing up here.
+And there's very good progress on the integration side. So we've done a lot on the integration. I think
+we're excited with the plans that we have. And then on the regulatory front, again, as I said in the
+prepared remarks, we've made good progress, and we believe we're on track to close at the end of the
+year.
+
+Operator
+
+Our next question is coming from Toshiya Hari from Goldman Sachs.
+
+Toshiya Hari
+Goldman Sachs Group, Inc., Research Division
+
+Congrats on the strong results. Lisa, I had 2 questions as well. First, on your outlook for 2022. I realize
+it's early, and I certainly don't expect you guys to provide a point estimate. But I think people are kind of
+concerned that you've been sort of overgrowing, if you will, relative to your long-term growth rate. You
+grew 45% last year. You're on track to grow 65% this year, given your long-term through-cycle growth
+target of 20%. Again, there is concern that you could decelerate going into next year, given PC dynamics
+and competitive dynamics and so on and so forth.
+
+So again, I don't expect you to give any quantification of next year, but if you could describe the year
+qualitatively, what are the potential pluses and minuses at this point, that would be super helpful? And
+then I've got a quick follow-up.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Sure. So look, as you said, it's a little bit early to talk about quantitatively. I'll cite qualitatively, what we
+see is, look, we see a positive demand environment. And that's a market statement, but that's also an
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+AMD statement, right? I think the strength of our product portfolio has multiple growth vectors. Data
+center continues to be a very important one for us. I think we're -- we continue to make progress in the
+graphics market, and we think graphics is a good growth vector. Our console business, we would expect
+would be -- I mentioned earlier that it'd be up in the fourth quarter, and we would expect it to be up in
+2022, just given the strength of the demand environment there.
+
+And so on the PC side, the comments I'll make on the PC side are -- the end user demand appears to be
+strong. So there's a good amount of refresh going on, whether you're talking about consumer and your
+high-end consumer or commercial or gaming. There are some supply constraints around matched sets
+that we believe will continue into the first half of the year. That being the case, what we're using from a
+planning assumption standpoint, is that the PC market may be flattish as we go from 2021 into 2022. But
+even within that environment, we think there are opportunities for us to continue to grow.
+
+So overall, I think we're very focused on execution, very focused on working with our customers to make
+sure that we're aligned with what they need and overall feel very good about our product portfolio going
+into 2022.
+
+Toshiya Hari
+Goldman Sachs Group, Inc., Research Division
+
+Got it. That's super helpful. And then as my quick follow-up, a similar question on gross margins. I'm not
+sure if this is for Lisa or Devinder. You're guiding Q4 to 49.5%, which is obviously significant progress from
+a year ago. Given some of the dynamics you've talked about whether it be the growth potential in server
+CPU, the mix within server CPU, and I'm sure the mix dynamics on the client side, I think most of us do
+expect a pretty nice positive trajectory into 2022, potentially with a five handle in terms of, again, gross
+margins.
+
+But any risks or any headwinds that we should be aware of? I think your foundry partner is raising pricing.
+There is cost inflation generally across the board, but any risk items that we should think about at this
+point?
+
+Devinder Kumar
+Executive VP, CFO & Treasurer
+
+I wouldn't say it, but I think is about managing the situation. As Lisa said, with the growth factors that we
+have, we expect to continue making progress from where we are currently and especially predicated on
+the competitive leadership products we have. We're very pleased with the progress we've made over the
+last few years. But without getting to specifics, I think you can assume that we continue to make progress
+with the mix of revenue, mix of products and the competitive products that we are introducing also into
+2022.
+
+Operator
+
+Our next question is coming from Stacy Rasgon from Bernstein Research.
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+My first one, I wanted to ask about data center GPU. I know you said it more than doubled. But can you
+give us an approximate feeling for how big that is it? Are we still talking like tens of millions of dollars? Or
+is it larger than that? And what are your expectations for how that's going to ramp as Frontier and some
+of the other supercomputers that a lot of that stuff is going into our ramping over the next like couple of
+years?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Sure. So Stacy, on the data center GPU side, the third quarter was a larger quarter for the data center
+GPU. This is where we shipped the Frontier shipments that are now in the build cycle. It is still a relatively
+small business compared to the CPU side. So our expectation is that going into the fourth quarter, it's
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+a lumpy business for us. So Q3 was a strong quarter given the shipments of -- for Frontier. We would
+expect, as we go into the fourth quarter, that it will be down sequentially quarter-on-quarter. But still, it's
+a strong growth year overall for a business that we think is a significant strategic growth driver for us over
+the next few years.
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Got it. For my follow-up, I just wanted to ask about Q4. So obviously, you would sort of give an implied
+guidance for Q4 last quarter. The guidance now is obviously decently higher. Can you just talk a little bit
+about what is driving that upside relative to where your expectations were last quarter?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Devinder, you want to talk about that? Or...
+
+Devinder Kumar
+Executive VP, CFO & Treasurer
+
+On the revenue, I think -- go ahead.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+I'm sorry, were you asking about revenue or margin, Stacy?
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Well, both, if you're willing to answer both, both.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Okay. All right. Let me start and then let -- I want to make sure I answer your question. How's that? So
+look, on the revenue side, when we look at the sequential growth, we have been able -- look, the supply
+chain, this is about really supply chain optimization.
+
+And we have been able to secure some additional supply, given some of the work that we've been doing.
+And we see strong demand across the board. But sequentially, what we're guiding to is stronger server
+demand as well as gaming, and gaming includes the semi-custom game consoles, as well as our graphics
+business is doing quite well as well.
+
+And then in terms of the sequential margin, it's similar. I mean we're having servers, some improved mix
+and graphics driving upside. And that's partially offset by the consoles which are below corporate average.
+But net-net, I think it's a positive sequential both on revenue and margin.
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+I guess what I'm asking is, for example, are your expectations for servers into Q4 now higher than they
+were 3 months ago when you gave implied guidance for Q4?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Yes, it is.
+
+Operator
+
+Our next question today is coming from Joe Moore from Morgan Stanley.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+Joseph Lawrence Moore
+Morgan Stanley, Research Division
+
+I'm wondering if you could talk about graphics a little bit. It seems like that's the business that's probably
+struggled the most to get silicon and you've shown some pretty nice growth there. What's the prognosis
+for that business going forward? And in the past, you've said you're comfortable that there's relatively low
+cryptocurrency exposure there. Is that still the case?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Sure, Joe. Look, the graphics business did have a strong third quarter. I think that's true for graphics
+gaming as well as data center GPU. I think the portfolio that we have there with RDNA 2 has turned
+out really well. So we're pleased with how it's positioned competitively in the marketplace. And overall,
+gaming has been a secular trend that has continued with very strong demand.
+
+In terms of crypto, our view is that it's really negligible revenue for us in the third quarter. It's not a
+segment that we have been servicing. We've tried very much to try to keep our gaming graphics focused
+on gamers. And we were able to increase some of the supply for graphics, and that's one of the reasons
+that we saw the sequential growth that we saw. And going into the fourth quarter next year, again, I think
+we see gaming overall as a strong segment for us, and the product set is very good. So we feel good
+about it.
+
+Operator
+
+Our next question is coming from Aaron Rakers from Wells Fargo.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+I have 2 quick questions, if I can as well. Just kind of sticking on the expectations in the next year,
+appreciating that you're not going to give a full guide. I'm just curious how we should think about the
+semi-custom business given how sizable that's been to the overall growth in 2021. Any framing of how
+you expect 2022 to shape up at this point?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Sure, Aaron. So again, if you look at the overall growth that we had in 2021, I would say it was actually
+quite balanced across all of our businesses. The semi-custom business was in the second year of ramp,
+and demand has exceeded supply. We've been able to ramp that as we've gone through the year.
+
+As we look into 2022, the historical view of game consoles has been year 4 is the peak, at least that's
+what it was in the last generation. What we expect in this generation is, again, very strong demand going
+into 2022. So we would expect it to grow into 2022, which would be the third year of the cycle, and then
+we'll see what happens after that. But overall, I think our view is we have a very balanced business with
+multiple growth drivers across data center, PCs, graphics as well as consoles.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+That's very helpful. And then the follow-up question is on your own supply chain side. I know in the
+prepared comments you said working on securing adequate supply given your growth trajectory. Are you
+currently able to meet on the goal of the demand that you currently see? And can you give any color of
+what -- how we should think about the supply situation on your end?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. So I mean we've been working on ramping the supply chain really for more than a year. If you think
+about sort of dynamics here. What I'd like to say is, overall, the demand has been very, very high. So the
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+fact that we can grow revenue this year 65% year-on-year, I think, is a testament to the supply chain
+work. I think if we had more supply, we could certainly ship more.
+
+That being the case, I think we're prioritizing in the most strategic segments. And we have invested
+significantly in capacity for additional capabilities, and we'll see some of that come online as we go
+through 2022. And we're going to continue to be aggressive to secure additional capacity because we
+believe our product portfolio will enable that growth.
+
+Operator
+
+Our next question today is coming from John Pitzer from Credit Suisse.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Congratulations, Lisa. Lisa, my first question is back on the supply side of things. I'm just wondering if you
+can help me better understand, was it more of an issue in your PC business or your server business? And
+I guess, especially as we look into next year, as supply begins to loosen up, this year, given how tight the
+overall ecosystem was, competing on price didn't make a lot of sense.
+
+As supply begins to accelerate across the ecosystem, how are you thinking about pricing, especially in lieu
+of your large competitor kind of resetting their gross margins for next year? In your view, does that give
+them more wiggle room? Or do you think that they're being pretty benign on the pricing side of things on
+that gross margin reset?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. So maybe let me -- there's a lot of various aspects to that, John. So let me try to take it in pieces.
+As it relates to current supply, I want to make sure that we're clear. I mean we have brought on a
+tremendous amount of additional supply, and that's part of the reason that we overachieved the Q3 results
+and then we guided higher in Q4. So I do think that we have done a lot of work on our supply chain.
+
+In the PC market, in particular, I think the market is not necessarily constrained on CPUs, but more
+constrained on matched sets. And so we're trying to ensure that we're not building inventory in the
+channel. And that's part of the optimization that we do is to ensure that as we ship sell-in processors that
+we see matched sets to sell through. And so from that standpoint, we think inventory is very healthy at
+the OEMs, and that's an important factor as we go into 2022.
+
+As it relates to what happens with the pricing environment as supply eases up. I think, right now, what
+we see is a -- again, it's an environment where most people are prioritizing supply. As we go into 2022,
+though, I think this is all about the product. And what we view is -- our focus in sort of our product line
+has been moving up the stack, ensuring that we're providing significant value to our customers in terms of
+total cost of ownership on the server side and innovative features and capabilities on the PC side and the
+graphics side. And we're going to continue to do that.
+
+I mean we're excited about our product portfolio into 2022. We're going to continue to be very aggressive
+on the overall road map. And with that, I think our game plan is exactly what it was, what it always has
+been, which is lean into the product cycle, and the deep customer relationships and continue to build that
+out over time.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+That's helpful. And then as my follow-up, Devinder, you did a good job kind of explaining the year-over-
+year changes in operating margins in the compute and graphics business. I'm wondering if you could talk
+a little bit about sequentially what happened. Revenue was up and op margins were down a little bit. Is
+that just the influence of the very strong growth in GPUs going into the data center? Because it sounds like
+in the core compute business mix probably got better sequentially for you. So I'm just trying to make sure
+I understand all the dynamics you play.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+Devinder Kumar
+Executive VP, CFO & Treasurer
+
+Yes. If you're talking about the CG segment, it's investments, right? Some investments in R&D and go
+to market. And also, we have a lot of new products coming into 2022, and there's expenditure involved
+ahead of the curve before you introduce the products in the next year. And that's really what happened in
+the transition quarter-over-quarter.
+
+Operator
+
+Our next question today is coming from Chris Caso from Raymond James.
+
+Christopher Caso
+Raymond James & Associates, Inc., Research Division
+
+First question is about the supply constraints and how that affects seasonality as we go into the beginning
+of next year. And obviously, you're making efforts to bring on more supply. You spoke about in PC these
+constraints with regard to matched sets. I'm sure at this point, you don't want to provide guidance for Q1,
+but how should we be thinking about seasonality for Q1 as we contemplate these supply constraints?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes, Chris, I think it's a little bit early to talk about Q1. I mean I think -- let's see what would we say
+about seasonality. I don't have a lot to say other than typically, Q1 is down from Q4. That's typically what
+the pattern is, given the consumer-related businesses. It might be a little bit subseasonal as we go into
+this first quarter just given the demand environment, but we'll have to see how things play out over the
+next couple of months.
+
+Christopher Caso
+Raymond James & Associates, Inc., Research Division
+
+All right. A little bit of a bigger picture question for my second question. And we've heard and seen from
+some of the hyperscalers is a trend of, in some cases, doing some custom designs, doing it on their own,
+often with ARM-based designs. Do you consider that an opportunity or a threat for AMD? And to what
+extent are you engaged with some of those hyperscalers on some of these custom designs because you do
+have an IP portfolio yourself?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. Chris, on that, we definitely view it as an opportunity, right? So I think what's happening in the
+data center market is that as the need for compute gets larger, sort of this tailoring of compute for the
+various workloads is an important trend. I think our IP portfolio today is very strong. I think it will even be
+stronger given some of the things that we have in plan to allow more tailoring. And we are working very
+closely with a number of hyperscalers on sort of the vision of compute over the next few years and how
+we might put together some different solutions between our CPU, GPU, interconnect capability and then
+with the addition of Xilinx as well coming into our portfolio. So lots of opportunity there for customization.
+I think that's a key trend that we're certainly going to lean into.
+
+Operator
+
+Our next question is coming from Ross Seymore from Deutsche Bank.
+
+Ross Clark Seymore
+Deutsche Bank AG, Research Division
+
+Let me ask a question echoed with a congrats of other people on the strong results. Lisa, I just wanted to
+ask about the comparison on your CNG side between the C and the G and specifically on the client graphic
+side of things. Clearly, this year has been a really strong year for AMD. Can you just talk about the go-
+forward on the client side in that?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+I think we're all pretty well aware of what's going to happen in the data center GPU side. But how do we
+reconcile your commentary on where you think the PC market would be in the flattish area versus the
+strength you've had in GPUs this year in a strong GPU market? Do you think that continues next year?
+How much of it is AMD specific? Or if the PC market is weaker, is that something that's a little bit of a
+headwind for AMD?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. So again, what I would say is our market share is still, I would say, underrepresented, whether you're
+talking about the client sort of CPU or APU side or the GPU side. I think what we have seen here in the
+third quarter and then into the second half of the year is our graphics business has performed quite well.
+It is channel driven in the sense that there's still strong demand amongst gamers for GPUs.
+
+As we go into 2022, though, I don't view sort of the PC market as a headwind for the company. I think as
+we look at all of these markets, of course, we do a bunch of scenario planning if the market is up or if it's
+down. I think there are many who think that the market may be up.
+
+There are some who think that market may be down. And that's why we're choosing to model sort of the
+base case is flattish. But even within that market, whether you're talking about client CPUs or -- client
+GPUs, we think we have opportunities to gain share and grow in that business, just given the strength of
+our product portfolio and the fact that we are sort of underrepresented to we think the -- sort of what we
+can expect given those products.
+
+Ross Clark Seymore
+Deutsche Bank AG, Research Division
+
+And I guess as my follow-up, just one for Devinder on the OpEx side, and I'll give the same disclaimer
+that I know you're not going to give any specifics about next year, but you guys have done a great job of
+lowering your OpEx intensity throughout this year. I think you're going to be closer to 24% versus your
+26% to 27% entering the year and 25% as of last quarter.
+
+So great expansion there in margins and better leverage. As we look forward, though, I think the third
+quarter was the first time where you guys spent enough that it actually impacted a segment where the
+operating margin fell a little bit. And I think we all understand why you're doing that and it feeds great
+growth. So it's not a negative.
+
+But as I look into '22, do you think next year can be another year where your operating leverage is
+positive? Or do you expect to be able to spend closer to your former targets in kind of the 25% to 27% of
+sales range?
+
+Devinder Kumar
+Executive VP, CFO & Treasurer
+
+I think, fundamentally, and what you observe is right, very disciplined from an OpEx standpoint, investing
+in the growth is important. Many of the things that Lisa talked about earlier is all about growth in many
+different vectors. And obviously, that requires funding from an OpEx standpoint, whether it's R&D, go-to-
+market, hiring, which we are doing from a viewpoint of the growth in the company.
+
+And I think from a modeling standpoint, a guidance standpoint, you can assume that the growth in OpEx
+will be lower in revenue. Margin continues to expand, OpEx flattish or even down. I mean you can model
+it, but very disciplined on that standpoint and making sure that we are investing for the growth is a top
+priority for us.
+
+Operator
+
+Our final question today is coming from Timothy Arcuri from UBS.
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+I had 2. I guess, first, Lisa, no one has asked about software yet. I was wondering if you can update us on
+your software efforts. And maybe as you get close to closing Xilinx, how much that sort of changes things
+for you on the software side and maybe how your search for software talent has been? And then I had a
+follow-up.
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Sure, Tim. So yes, we continue to invest heavily in software, particularly on the data center GPU side. We
+-- with our next-generation GPU architecture, MI200, which we'll be talking a little bit about in the next
+few weeks, we have made significant investments in progress. Our focus has been on using sort of the
+Frontier beachhead with high-performance computing and expanding that into AI and working with our
+partners on that software development. So overall, continue to make good progress there. I think the
+Xilinx acquisition and bringing in sort of that software talent also provides opportunities to optimize across
+the overall portfolio in terms of just the software infrastructure that people want in an overall ecosystem.
+So very strategic area that we're making good progress in.
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research Division
+
+And I guess just last question for me. So server share, if I look at your guidance for Q4, it looks like you're
+going to be in the 12.5% to 13% share, if I use the entire TAM, and that's up like 500 basis points versus
+last year Q4. So I guess the question is, like, is that a reasonable trajectory into next year? As if we're
+sitting to 12 months from now, would you be surprised if you gained another 500 basis points next year?
+And sort of where do you think about where that share can go?
+
+Lisa T. Su
+President, CEO & Non-Independent Director
+
+Yes. So I think, overall, our server trajectory has been very strong. I mean I think we're very pleased with
+the trajectory here in 2021. I think having a number of quarters where we're doubling the revenue year-
+on-year kind of speaks to the progress there. As we go into 2022, we still believe we are a share gainer
+in that environment just given the strength of our portfolio and let's call it, platforms that are still yet to
+launch across our customer set.
+
+So we're continuing to play out the strategy of a data center being a place where our technology is very
+differentiated. And we think that's true in the third generation with EPYC, and we certainly are very
+focused on ensuring that the next generation with Zen 4 and Genoa are similarly well positioned in the
+marketplace.
+
+Operator
+
+We reached the end of our question-and-answer session. I'd like to turn the floor back over for any further
+or closing comments.
+
+Laura A. Graves
+Corporate Vice President of Investor Relations
+
+We're good. Thank you very much, operator, and thank you to everyone for joining us today. We
+appreciate your time and participation and your support of AMD. Have a good afternoon.
+
+Operator
+Thank you. That does conclude today's teleconference and webcast. You may disconnect your line at this
+time, and have a wonderful day. We thank you for your participation today.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+ADVANCED MICRO DEVICES, INC. FQ3 2021 EARNINGS CALL |  OCT 26, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+

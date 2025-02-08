@@ -1,0 +1,1289 @@
+Juniper Networks, Inc. NYSE:JNPR
+FQ4 2020 Earnings Call Transcripts
+Thursday, January 28, 2021 10:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2020-
+
+-FQ1 2021-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+0.53
+
+0.55
+
+3.77
+
+0.25
+
+1.54
+
+1.55
+
+0.65
+
+1.65
+
+1193.17
+
+1222.60
+
+2.47
+
+1029.64
+
+4416.01
+
+4445.10
+
+0.66
+
+4546.57
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Jan-28-2021 9:48 PM GMT
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+0.25
+
+0.34
+
+0.43
+
+0.53
+
+0.23
+
+0.35
+
+0.43
+
+0.55
+
+SURPRISE
+
+(8.00 %)
+
+2.94 %
+
+0.00 %
+
+3.77 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Jess Ian Lubert
+Vice President of Investor
+Relations
+
+Kenneth Bradley Miller
+Executive VP & CFO
+
+Rami Rahim
+CEO & Director
+
+ANALYSTS
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research
+Division
+
+Alexander Henderson
+Needham & Company, LLC,
+Research Division
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc.,
+Research Division
+
+David Vogt
+UBS Investment Bank, Research
+Division
+
+Timothy Patrick Long
+Barclays Bank PLC, Research
+Division
+
+Jeffrey Thomas Kvaal
+Wolfe Research, LLC
+
+Paul Jonas Silverstein
+Cowen and Company, LLC,
+Research Division
+
+Roderick B. Hall
+Goldman Sachs Group, Inc.,
+Research Division
+
+Ryan Boyer Koontz
+Rosenblatt Securities Inc.,
+Research Division
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research
+Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+Presentation
+
+Operator
+
+Greetings and welcome to the Juniper Networks Fourth Quarter and Fiscal Year 2020 Financial Results
+Conference Call. [Operator Instructions] As a reminder, this conference is being recorded.
+
+It is now my pleasure to introduce your host, Jess Lubert. Thank you, Jess. You may begin.
+
+Jess Ian Lubert
+Vice President of Investor Relations
+
+Thank you, operator. Good afternoon, and welcome to our fourth quarter 2020 conference call. Joining me
+today are Rami Rahim, Chief Executive Officer; and Ken Miller, Chief Financial Officer.
+
+Today's call contains certain forward-looking statements based on our current expectations. These
+statements are subject to risks and uncertainties and actual results might differ materially. These risks are
+discussed in our most recent 10-Q, the press release and CFO commentary furnished with our 8-K filed
+today and in our other SEC filings. Our forward-looking statements speak only as of today and Juniper
+undertakes no obligation to update any forward-looking statements. Our discussion today will include non-
+GAAP financial results. Reconciliation information can be found on the Investor Relations section of our
+website under Financial Reports.
+
+Commentary on why we consider non-GAAP information a useful view of the company's financial results
+is included in today's press release. Following our prepared remarks, we will take questions. [Operator
+Instructions]
+
+With that, I will now hand the call over to Rami.
+
+Rami Rahim
+CEO & Director
+
+Good afternoon, everyone, and thank you for joining us on today's call to discuss our Q4 and full year
+2020 results. I hope you and your families are well and my thoughts go out to all those affected by the
+pandemic.
+
+2020 was an unprecedented year, which presented challenges that none of us could have predicted a year
+ago. The biggest being the emergence of the global pandemic. This event materially impacted our supply
+chain, the way we work and collaborate and how we engage with our customers around the world. The
+pandemic also impacted the health of our customers, employees and people close to us in our personal
+lives.
+
+Despite these challenges, we grew our enterprise business for a fourth consecutive year. We grew our
+cloud business for a second consecutive year, and we made progress stabilizing our Service Provider
+business, with orders in this vertical growing on a full year basis even though revenue declined. These
+results were made possible by the efforts of our employees who have executed exceptionally well, and
+I'd like to give a special thanks to all of them for not only enduring, but excelling in the face of adversity.
+We're proud to be one of the keepers of the global Internet, and the world needed the Internet in 2020
+more than ever.
+
+We are exiting 2020 following 2 consecutive quarters of year-over-year growth and entering the new
+year with good momentum. This is a direct result of the strategic actions we have taken around how we
+go-to-market, how we align our business and how we complement our organic business with thoughtful
+acquisitions, such as Mist that create new revenue streams and pull-through sales of our existing
+products.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+While these actions should set us up to sustainably grow our business starting this year, I'd like to
+highlight several key areas of strategic focus where we plan to double down in the new year, which you'll
+hear us talk more about during our upcoming Investor Day event on February 12.
+
+First, delivering industry-leading customer experiences through superior technology, engagement, quality
+and support. While we're entering 2021 with the highest customer satisfaction scores we have ever
+seen, we view customer experience as our true north and are committed to doing even better. We think
+delivering superior customer outcomes will enable us to win across all of the markets and verticals we
+serve.
+
+Second, focusing our business on specific use cases, which include the AI-driven enterprise, cloud-ready
+data centers and automated WAN with connected security embedded in each. These use cases each
+represent a large opportunity that spans across verticals we serve. Each of these use cases is likely to see
+attractive market tailwinds over the next several years and focusing our resources on these areas should
+enable us to accelerate our growth as these opportunities unfold.
+
+As I discussed last quarter, we have reorganized our sales, product management and engineering teams
+around these business opportunities, and we will begin disclosing our revenue mix in this format when we
+report our Q1 results.
+
+Third, capturing the value presented by our recent acquisition and making sure 128 Technology, Apstra
+and Netrounds deliver similar returns on investment to what we are seeing with Mist, which continues
+to exceed expectations and is positively impacting sales of the broader Juniper portfolio. I am very
+encouraged by the early customer interest in each of these transactions, which is building confidence
+these businesses will positively impact our performance in the future.
+
+We firmly believe we are taking share and that the deliberate actions we have taken, along with some of
+the investments we have made, should position us to not only capitalize on the big market opportunities,
+such as 400-gig and 5G that will unfold over the next few years but also to see broader market success
+that decreases our sensitivity to macro trends. We believe our plans will enable us to emerge from the
+pandemic stronger than we entered and deliver sustainable top and bottom line growth over the next
+several years even if end-market conditions remain challenged.
+
+Now I'd like to provide some additional insights into the quarter and address some of the key
+developments we are seeing within each of our core market verticals. Starting with enterprise. We
+delivered record revenue in the December quarter and experienced high single-digit order growth year-
+over-year, which exceeded our own expectations. While we saw particularly strong demand in the North
+American market, strength was broad-based across geographies, and we secured a significant multiyear
+opportunity with an international Global 10 account for our wireless, wired and SD-WAN portfolio driven
+by our Mist AI differentiation. Based on our results, we believe we are taking share and that our enterprise
+business is likely to be our fastest growth vertical in 2021.
+
+Our optimism is fueled by the building customer response to our AI-driven enterprise offerings and
+specifically, the momentum we are seeing around Mist, which saw new logos grow by more than 125%
+year-over-year, and orders increased by nearly 140% year-over-year.
+
+In addition to robust wireless growth driven by Mist AI, we experienced strong adoption of our wired
+assurance capabilities and record pull-through of our EX switching portfolio. In total, our current mystified
+business of Mist wireless LAN, wired assurance, Marvis virtual network assistant and associated EX pull-
+through generated more than $150 million worth of revenue in 2020, and we expect to materially grow
+this business over the next few years.
+
+We would also remind you that Mist is a software subscription business with 30% to 35% of each deal
+recognized ratably, generating a healthy deferred revenue stream, which will be recognized in the future.
+
+The Mist technology is truly unique and delivers a compelling solution for AI-driven client-to-cloud
+operations. Not only does our solution minimize IT costs with proactive automation and self-driving
+action but it assures secure user experiences with end-to-end service levels and AI-driven support. This
+experience-first focus is resonating in the market and is one of the reasons Gartner recently positioned
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+us in the leaders quadrant for wired and wireless access, where we were named the Leader of Leaders in
+terms of ability to execute.
+
+The acquisition of 128 Technology represents the next evolution of our AI-driven enterprise vision.
+128 Technology will not only enable Juniper to provide a superior application and user aware SD-WAN
+experience as compared to all other SD-WAN offerings in the market but also to extend the value of Mist's
+secure AI engine and cloud management capabilities from client to cloud.
+
+Our Service Provider segment also exceeded our expectations in Q4 and we have been encouraged
+to see this business begin to stabilize in 2020 following several difficult years. The improved Service
+Provider results we delivered, both in Q4 and for the full year 2020, are due in large part to the deliberate
+diversification efforts we have undertaken, which has enabled us to overcome weak spending trends at
+several of our large U.S. Tier 1 customers.
+
+We believe the strength we are seeing with U.S. cable operators and international carriers is likely to
+continue through the upcoming year and we remain optimistic regarding our ability to capture more
+switching and security opportunities within the Service Provider vertical in addition to core and edge
+routing deployments.
+
+Not to be overlooked, we remain optimistic regarding the access/aggregation and metro routing
+opportunities, which, in aggregate, represent a $2 billion portion of the market that is growing and where
+Juniper historically hasn't played. We introduced our first product targeting this opportunity during the
+second half of this past year and plan to introduce additional solutions through the course of 2021. Early
+interest in our metro offerings is encouraging, and we believe the combination of these products with
+Netrounds software automation capabilities should present a compelling value proposition that enable us
+to win in this attractive portion of the market.
+
+Based on our current pipeline, we remain confident in our ability to further stabilize our Service Provider
+business during the upcoming year, despite the ongoing challenges facing many of our customers in this
+vertical.
+
+Our cloud business also exceeded our expectations in Q4 and grew on a full year basis for a second
+consecutive year despite an anticipated decline in spending by what has historically been our largest cloud
+customer. We have been able to achieve this growth through improved momentum with other hyperscale
+accounts and continued success with our Tier 2 customers, which we plan to call cloud majors going
+forward.
+
+Our hyperscale pipeline remains healthy, and we continue to see strong wide-area momentum with these
+important customers, particularly for our routing solutions, which experienced strong growth from both a
+revenue and an orders perspective during the most recent quarter. While business with these customers
+is likely to remain lumpy, especially as old projects complete and new projects ramp up, the funnel of new
+high-value opportunities we have been seeing in this footprint continues to exceed the headwinds we also
+see from old projects completing.
+
+The value of our routing stack remains critical to these customers and some of the innovations we have
+been delivering in software around SONiC and containerized routing are opening up new use cases to
+expand our TAM and will further increase the value of our technology to this critical customer set.
+
+Importantly, we also remain optimistic regarding our potential to gain share with cloud majors, which we
+view as a large and growing market opportunity. Our potential here is not only driven by the strength
+of our portfolio, and Apstra will further enhance our position, but this is also an area where we see
+opportunities to diversify by gaining share within existing accounts and opening up new logos through an
+incremental go-to-market effort. Based on our current pipeline and the momentum we are seeing at both
+hyperscale and cloud majors, I expect us to grow our cloud business in 2021.
+
+Importantly, we are continuing to make progress on 400-gig and currently have more than 100 wins for
+our 400-gig capable products. While many of our wins are addressing wide-area use cases, where we
+have historically been strong, we're also seeing an increased level of success in data center switching
+opportunities. We continue to expand our 400-gig product set and deliver new features needed to gain
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+share in this critical market opportunity. We believe we have the right product and customer engagement
+to both protect our wide-area footprint and capture switching share as the 400-gig cycle unfolds across
+our cloud and carrier customers starting later this year.
+
+On this last point, I'd like to spend a few minutes on Apstra, which has the potential to accelerate our
+success in the data center switching market, both within cloud majors and large enterprise accounts.
+Fabric management is a key determinant of success in many of these opportunities, and Apstra not only
+provides us with leadership here but also in the area of closed-loop assurance, which allows customers to
+quickly troubleshoot and remediate problems in large data center environments.
+
+We believe Apstra's capabilities are highly differentiated and offer customers the industry's best day 0, day
+1 and day 2 automated operations. We think these capabilities have the potential to significantly improve
+customer experience and accelerate the momentum in our data center switching business, both in cloud
+majors as well as large enterprise environment.
+
+Our software business performed well in Q4 and accounted for 12% of our overall sales. As a company,
+we remain laser-focused on capturing more software and in particular, more SaaS and subscription-
+based software. While high-value SaaS and subscription software are a smaller percentage of our overall
+software revenue stream today, they are growing rapidly, which is a trend we expect to continue over the
+next several years. This growth is primarily being driven by the strong adoption of our Mist Cloud as well
+as other software-based subscription offerings. The recent acquisitions of 128 Technology, Netrounds and
+Apstra will further accelerate our efforts to capture more software revenue in the years to come.
+
+I'd like to mention that our services team delivered another solid quarter and on a full year basis, 2020
+was another year of service revenue growth due to strong renewals and attach rates as well as growth in
+our SaaS and software subscriptions.
+
+Our services team continues to execute extremely well and ensure our customers receive an excellent
+experience. I would like to extend my thanks to our customers, partners and shareholders for their
+continued support and confidence in Juniper. I especially want to thank our employees for their hard work
+and dedication, which is essential to creating value for our stakeholders.
+
+I will now turn the call over to Ken, who will discuss our quarterly financial results in more detail.
+
+Kenneth Bradley Miller
+Executive VP & CFO
+
+Thank you, Rami, and good afternoon, everyone. I will start by discussing our fourth quarter results and
+then cover the fiscal year 2020 and end with some color on our outlook.
+
+We ended the fourth quarter of 2020 at $1.223 billion in revenue and non-GAAP earnings per share of
+$0.55, both above the midpoint of guidance. Revenue grew 1%, which was the second consecutive quarter
+of year-over-year growth. The higher than midpoint results were driven by strength across all verticals.
+
+Looking at our revenue by vertical. On a year-over-year basis, Enterprise posted a record quarter,
+growing 7% year-over-year and 14% sequentially. Cloud grew slightly year-over-year and increased 11%
+sequentially. Service Provider declined 4% year-over-year and was essentially flat sequentially.
+
+From a technology perspective, routing increased 9% year-over-year and grew 7% sequentially. Switching
+decreased 2% year-over-year and increased 14% sequentially. Security decreased 14% year-over-year
+and grew 19% sequentially. Our Services business decreased 1% year-over-year and increased 2%
+sequentially. Software revenue was approximately 12% of total revenue in the fourth quarter.
+
+Non-GAAP gross margin was 60.0% in the quarter, which was in line with our expectations.
+
+In reviewing our top 10 customers for the quarter, 3 were Cloud, 6 were Service Provider and 1 was in
+Enterprise. Our top 10 customers account for 30% of our total revenue as compared to 33% in the fourth
+quarter of last year.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+Product deferred revenue was $105 million, up 5% sequentially and down 21% year-over-year due to
+the timing of the delivery of contractual commitments. Deferred revenue related to our software-as-
+a-service and software subscription offerings, which grew year-over-year, are included in our Services
+deferred revenue. Non-GAAP operating expenses increased 2% year-over-year and 4% sequentially. The
+higher-than-anticipated costs were driven by higher variable compensation, mostly in the go-to-market
+organization, as a result of higher revenue as well as the acquisition of 128 Technology.
+
+Cash flow from operations was $126 million for the quarter, an increase both year-over-year and
+sequentially. We paid $66 million in dividends, reflecting a quarterly dividend of $0.20 per share. We also
+repurchased $75 million worth of shares.
+
+Total cash, cash equivalents and investments at the end of the fourth quarter of 2020 was $2.4 billion.
+I would like to point out that there was a timing difference between our new debt issuance and the full
+retirement of the previous debt which was completed in January. As a result of this timing difference, our
+total cash and debt balances are elevated by approximately $485 million and $425 million, respectively, as
+of year-end.
+
+Moving on to our full year results. Total revenue for 2020 was $4.445 billion, which was flat versus 2019.
+Our Enterprise business grew 3% for the year, despite the impact of the pandemic. This was our fourth
+consecutive year of full year growth in Enterprise. Our Cloud business grew 2% for the year, the second
+consecutive year of growth. Our Service Provider business began to stabilize and performed as expected,
+declining 4% for the full year.
+
+Looking at our technologies, routing declined 1% and switching grew 2% and security declined 9% year-
+over-year. Our Services business grew 1%. Software was 10% of total revenue, the second year of
+software being at or above this level.
+
+In reviewing our top 10 customers for the year, 5 were Cloud, 4 were Service Provider and 1 was in
+Enterprise.
+
+Non-GAAP gross margin declined by 90 basis points in 2020, primarily due to the additional logistics and
+other supply chain-related costs related to COVID-19, partially offset by improvement in our Service gross
+margin.
+
+Throughout the year, we continue to focus on disciplined operating expense management with a modest
+increase of less than 1% on a non-GAAP basis. Non-GAAP operating expense as a percentage of revenue
+was 43.7%. Non-GAAP diluted earnings per share was $1.55 in 2020.
+
+For the year, we had cash flow from operations of $612 million, which increased $83 million compared to
+2019.
+
+During 2020, we took a balanced approach to capital allocation. We repurchased $375 million worth
+of shares and paid $264 million in dividends for a total capital return of 125% of free cash flow to
+shareholders. In addition, we acquired 2 growth-oriented companies that we believe will help us return
+to sustainable revenue growth and margin expansion over time. We also improved our capital structure
+by refinancing a portion of our debt, locking in historically low long-term financing rates and extending
+our average maturity while preserving our investment-grade credit profile. I am proud of the strategic
+approach the team has taken to ensure our financial resilience through these challenging and uncertain
+times.
+
+Now I would like to provide some color on our guidance, which you can find details in the CFO
+commentary available on our Investor Relations website. At the midpoint of our revenue guidance,
+revenue is expected to be up 6% year-over-year, which includes less than $10 million from our recent
+acquisitions. We expect non-GAAP gross margin to experience normal seasonal patterns in the first
+quarter. Excluding the anticipated impact of increased COVID-related costs, non-GAAP gross margin would
+be approximately flat versus the first quarter of last year.
+
+We expect first quarter non-GAAP operating expense to increase sequentially, primarily due to the
+inclusion of approximately $20 million of operating expenses related to the recent acquisition as well as
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+the annual reset of variable compensation and the typical seasonal increase in fringe costs, partially offset
+by a decline in commission expense.
+
+In addition, our first quarter non-GAAP EPS guidance includes the dilutive impact of the recent
+acquisitions.
+
+Before we move on to Q&A, I would like to provide some comments on our expectations for the full year
+2021. Our 2021 revenue and non-GAAP earnings expectations remain unchanged relative to the forecast
+we provided during our Q3 2020 earnings call. However, we have updated our growth expectations to
+account for the revenue and the non-GAAP earnings upside that we experienced in Q4 2020 as compared
+to the midpoint of our guidance. We have also factored in the acquisition of Apstra, which is expected to
+be dilutive to our non-GAAP earnings during the first half of 2021, but be breakeven on a full year basis.
+
+In terms of full year revenue, we expect organic growth of approximately 2% to 3% and we anticipate an
+additional 1% of growth from the recent acquisitions. Beyond the first quarter, we expect revenue to grow
+sequentially each quarter in 2021.
+
+While non-GAAP gross margin can be difficult to predict, we expect full year gross margin of approximately
+60% due to the higher volume, reduced COVID-related logistics costs and higher software mix as well as
+improved service costs. Through the course of the year, we expect non-GAAP gross margin to improve
+with volume.
+
+Non-GAAP operating expense is expected to remain near first quarter levels through the course of the
+year. The full year non-GAAP operating margin is expected to be approximately flat to 2020 levels.
+While we expect total non-GAAP operating expense to be up on a full year basis as we absorb our recent
+acquisition and invest to take advantage of market opportunities, we remain committed to disciplined
+expense management and expanding operating margin longer term.
+
+I'd also like to note that we expect non-GAAP other income and expense to remain near first quarter levels
+through the course of the year.
+
+Our non-GAAP tax rate on worldwide earnings is expected to be 19.5%, plus or minus 1%. We expect full
+year non-GAAP EPS to grow faster than revenue.
+
+Finally, our Board of Directors has declared a quarterly cash dividend of $0.20 per share, to be paid this
+quarter to stockholders of record.
+In closing, I would like to thank our team for their continued dedication and commitment to Juniper's
+success, especially in this challenging environment. Now I'd like to open the call for questions.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from Simon Leopold with Raymond James.
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc., Research Division
+
+I wanted to just get sort of a very simple one out of the way. I appreciate the commentary on the full year.
+One of the trends that we assume would occur would be expenses rising in the second half of the year
+with some normalization and catch up post the pandemic. I'm thinking about things like travel expenses
+coming back. I'm just wondering how you're thinking about those kind of expenses coming back. Is that
+something you're assuming happens in 2022 rather than later this year? And then I've got a bigger picture
+question afterwards.
+
+Kenneth Bradley Miller
+Executive VP & CFO
+
+Sure. Thank you, Simon. So for Q1, the primary driver of the sequential growth in OpEx, the Q1 guide at
+$510 million really is the acquisitions that we recently closed, and that's about $20 million of OpEx in our
+Q1 number. We expect for the rest of the year to roughly maintain those Q1 levels around $510 million
+plus or minus a bit. We do anticipate there being some cost coming back into the equation when people
+start to travel again, et cetera, perhaps in the second half. However, I do think the new normal is still yet
+to be determined. And at this point, I'm not expecting all the costs to come back. I think we'll be able to
+be conservative and basically efficient with our travel, et cetera, as we move forward. So although I do
+expect some COVID cost to come back, we don't have a large amount baked into our current full year
+forecast at this time.
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc., Research Division
+
+And then in terms of the trend, it seems pretty clear that the Enterprise market vertical will become your
+largest by the end of 2021. And doing business in that space is just very different than Juniper's routes.
+So clearly, you've done something different to get here. But could you talk about how this has affected
+the thinking on the long-term multiyear strategy and the profile of maybe the company's culture, go-to-
+market?
+
+Rami Rahim
+CEO & Director
+
+Yes. I'm happy to address that, Simon. So this would be -- 2020 would be our fourth consecutive year
+of growth in the Enterprise vertical. So this is not a new thing for us. However, I do believe that there
+have been a number of strategic actions that we've taken over the last few years, equipping sales and
+structuring sales in a way that goes after the Enterprise effectively and efficiently. Our organic innovation,
+our inorganic acquisitions have set us up to accelerate this part of our business. So despite the challenges
+that we saw in 2020 as a result of COVID, we grew this vertical, and we grew it nicely. I think we're taking
+share.
+
+I believe our technology and our differentiation has never been stronger. We've created not just market
+share growth and business growth, but mind share growth in the industry. And I think we've done so
+with an eye on doing it as efficiently as possible by focusing on the large enterprises. So a big component
+of our success comes from large Fortune 500, Global 1000 accounts, where the sales investment is as
+efficient as it can be for that enterprise. So for all these reasons, I honestly have never felt better about
+our opportunity in the enterprise space.
+
+Operator
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+Our next question comes from Paul Silverstein with Cowen.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+First off, Ken, in terms of supply constraints, how large an issue and are you disadvantaged vis-à-vis
+Cisco, given the large volume into Broadcom and other suppliers? Or is that just not an issue in terms of
+both revenue growth and the pricing? And I've got a bigger picture follow-up question.
+
+Kenneth Bradley Miller
+Executive VP & CFO
+
+Yes. So we clearly did experience some pretty significant supply constraints in the peak of kind of the
+COVID pandemic, if you will, kind of in the summer months. We've had material improvement since then.
+I would articulate that as we exited the year, we're pretty much back to normal. We might have some
+elevated lead times here and there, but that's more due to demand being beyond our expectation and
+then true supply constraints. I'm very pleased with how the team has really adapted and improved the
+supply as we proceed.
+
+That said, backlog is higher. We're exiting the year with about 20% more backlog than we entered. So
+we are maintaining healthy backlog as we move into this year 2021 and really, the supply constraints,
+extended lead times, et cetera, that we saw through most of the summer months are largely behind
+us at this point. I don't believe we're at a competitive disadvantage. Our team does a great job with
+components manufacturing and component suppliers to negotiate the supply that we need.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+All right. And then on -- I hate to ask you this because I think I asked every quarter, so my apologies,
+but I think it's been an investor concern for a while, which is have you seen any share losses? Are there
+any signs of awards away from you, specifically in cloud for the DCI WAN routing or switching use cases?
+And on the other side of the equation, Rami, it's your comments about ongoing optimism in the cloud, any
+incremental insight you can give in terms of where is the opportunity for the greater subset?
+
+Rami Rahim
+CEO & Director
+
+Certainly, Paul. So the short answer to your question is, no. We have not lost share or footprint in cloud
+routing today, I mean, in cloud period, I should say. We saw our routing up double-digit year-over-year in
+the Q4 time frame. I think that is an indication of the health of the footprint that we have retained in this
+extremely important vertical for us. We continue to see healthy diversification within cloud, both within
+the hyperscale cloud providers where we enjoy footprint across practically all of them, but also among
+the -- what we used to call Tier 2, Tier 3, which we're now calling cloud majors going forward, more and
+more market share in that area as well. I'd also think that there is a greater diversity of technologies that
+we're selling. So it's not just about routing, it's also about switching. It's also about security in this very
+important vertical.
+
+As I look out into 2021, I believe our footprint that we retain within the cloud space is going to work for
+us, right? We didn't anticipate any major additional share taking that's going to happen in 2021 to achieve
+the growth that we believe that we can achieve in '21. But I do think that with the right focus in go-to-
+market, the technology that I know we have, that I know is very competitive, we can, in fact, take some
+additional share as well in this vertical.
+
+Operator
+
+Our next question comes from Tim Long with Barclays.
+
+Timothy Patrick Long
+Barclays Bank PLC, Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+Two, if I could as well. First, maybe, Rami, talk a little bit about the Enterprise side. You mentioned a lot of
+really good cross-selling with Mist, it seems to be doing very well. Could you talk a little bit about kind of
+win rates, deal sizes and kind of how you get more out of that business to keep the ball rolling? And then
+second, you talked obviously, there's a bunch of other acquisitions, you framed for us the size of them.
+Could you talk a little bit about the 3 of them and how easy it's going to be for the sales force to engage
+with those and potentially make 1, 2 or all of them have a similar type of impact and ramp that Mist is
+having on the company?
+
+Rami Rahim
+CEO & Director
+
+Yes, great question, Tim. Thank you. So as just a couple of data points for you to give you an indication
+of just how well we're doing with Mist, our annualized order business for Mist stand-alone in Q4 exceeded
+$200 million. And if you include Mist wireless and wired, so this is EX that's sold really under the Mist
+automation framework, on a stand-alone annualized order basis, it's really around $300 million already. So
+the momentum has been really amazing.
+
+We're going to take the playbook that we implemented and getting our sellers very proficient in being able
+to position the Mist differentiation, the technology and apply that exact same playbook to the acquisitions
+that we've made last year, 128 and Apstra, in particular, which are mostly suited for the Enterprise but
+have applicability in other verticals as well.
+
+With 128, it is a really unique differentiated SD-WAN solution that fit beautifully under the Mist client-to-
+cloud vision, right, where you're extracting data insight telemetry from everything in the path between
+client to cloud and you're doing something really interesting with that data, which is to provide insights
+and improved automation and improved end-user experience for our customers.
+
+Apstra takes this experience-first networking approach that we know has worked so effectively in the
+campus, in client to cloud and applies it to the data center. So honestly, early interest in Apstra, although
+we just closed the deal yesterday, has been -- like exceeded our expectations at this point. The pipeline
+we're building, the interest in customers that want to understand the better together story has been
+extremely encouraging.
+
+And then the last acquisition is a little bit, a smaller one, which is Netrounds, and Netrounds has
+applicability to all verticals, but especially the Service Provider vertical, where we have an ability now to
+sell beyond just the box and connectivity between boxes, but an assured experience, assured SLAs to
+service providers, and we're also very pleased with the early interest from SPs in that technology as well.
+
+Kenneth Bradley Miller
+Executive VP & CFO
+
+Yes. And on the Enterprise kind of customer acquisition question, Tim, I mean, we did mention in Rami's
+prepared remarks too, we did see 125% increase in new logos for Mist. I'd tell you that a good percentage
+of those logos are existing Juniper installed base customers. So really leveraging our installed base with
+the growth asset of Mist is very much part of the strategy to accelerate the Mist growth, but also a good
+percentage of those customers are net new to Juniper. So really, there is a land-and-expand opportunity
+where we might leave with the Mist and the Mist AI engine then expand to the rest of the portfolio. So
+we're really excited about the Enterprise momentum we're seeing from a customer acquisition perspective.
+
+Operator
+
+Our next question comes from Samik Chatterjee with JPMorgan.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+Rami, I think you mentioned in your prepared remarks the stabilization in the Service Provider spending.
+But I think you mentioned that telco -- U.S. telco spending has been weak, whereas you're just kind
+of seeing stress with the cable customers. Can you just kind of talk about how long do you think this
+weakness from U.S. service provider -- in relation to your service provider spending kind of continues?
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+And what kind of impact maybe some of these options going on in the U.S. are having on spending? And I
+have a follow-up.
+
+Rami Rahim
+CEO & Director
+
+Yes, I'd be happy to, Samik. We're very pleased with our results in SP. Though Europe largely played out
+as expected from a revenue standpoint, Q4 probably exceeded our expectations by a bit. We enjoy very
+strong, healthy franchises with service providers around the world. 49 of the top 50 service providers
+worldwide our customers trust Juniper technology.
+
+We did see weakness in some of the largest Tier 1 service providers, especially here in North America. And
+I think for the reason that we all know, there has been a lot of capital expenditure that has been placed
+in spectrum auctions and so forth. So it diverted investments away from the areas of the network, the
+business that we are traditionally strong in. I don't expect that to be the case forever.
+
+If you look out into '21, and we've provided an outlook of further stabilization, i.e., even better results
+than we saw in 2020 in '21, we did not, in that outlook, anticipate a resumption that any significant
+resumption in spending by our large Tier 1 SP. If they do resume spending in the kind of IP technology
+that we develop and sell, then I think that would obviously benefit our business even more.
+
+The strength that we saw has to do with the diversification strategy that we have been executing on.
+So increased penetration in the cable space in this country, Tier 2 and Tier 3 service providers that are
+working very effectively for us and international service providers. You'll notice that we had a very healthy
+quarter in Asia Pacific. I'm very proud of the team in APAC for really showing results, not just in SP, but
+across all verticals, and that's just an indication of the kind of diversification we're driving through our
+business.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+Got it. I had a follow-up on the 400-gig wins that you talked about, I think you said you have 100 wins
+and most of them are in the WAN, but there's a portion of them in data center switching as well. If you
+can just kind of talk about how many of those switching wins are where you already had that position in
+the data center with the customer versus kind of new wins where you displace incumbent or it's new use
+case that's kind of come up and you've managed to gain a position there, which is kind of an incremental
+opportunity?
+
+Rami Rahim
+CEO & Director
+
+Yes. In cloud provider data center switching, many wins are going to be mostly around net new share for
+us because that's where our existing share is not all that high. I don't know the exact split of the business
+that you're asking for, but I'll give you this data point. If you look at the foundation of 400-gig business
+today and measured in a number of customers, in the Q3 of 2020 time frame, our cumulative number
+of customers that invested in 400-gig capable switching technology and compared that to the Q4 time
+frame, same metric, cumulative number of customers that invested in 400-gig switching technology, that's
+doubled. So whereas the revenue from 400-gig switching today is still relatively small in comparison to the
+total switching business, the way we measure it is momentum in wins and momentum in customers and
+you can see that, that momentum is quite solid. That's a very encouraging data point for us.
+
+Operator
+
+Our next question comes from Rod Hall with Goldman Sachs.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+I had a couple of quick number clarifications and a question on the products. So on the numbers, Ken, you
+said 2% to 3% growth and then 1% for acquisitions. Is that 1% on top of the 2% to 3% or is it included?
+That's first question.
+
+Kenneth Bradley Miller
+Executive VP & CFO
+
+Yes, it'd be on top of. So we expect in aggregate 3% to 4% in total.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+Right. Okay. That's what I thought. And then on the gross margins, you said, excluding COVID costs, I'm
+assuming COVID costs there would be just a few tenths of a percent. Could you just confirm that that's
+the case?
+
+Kenneth Bradley Miller
+Executive VP & CFO
+
+Our COVID costs are running between 50 and 100 basis points in any given quarter. So it's a fairly
+material impact to our past few quarters, and I expect it to be similar in Q1. I do think that should come
+down a bit in maybe the second half, but the first half, I expect it to be -- remain in that 50 to 100 basis
+points of impact.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+Okay. So we add 50 to 100 back to account for the COVID costs?
+
+Kenneth Bradley Miller
+Executive VP & CFO
+
+Yes. Once the costs normalize, that's what we'd expect to see, yes.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+Okay. And then on the products, I just wanted to check on Mist again, Rami, that I guess the thing that we
+get back from investors quite a bit is this, it's hard for people to believe the campus networking-oriented
+products like that are going to continue to do well as we reopen. I think a lot of people think, gosh, why
+would people invest in their campus networking. And I know there's reasons for that, namely that you
+don't have a lot of market share there, and there's a lot to go for. But could you just kind of help maybe
+for the broader audience, help us all understand kind of what's going through customers' minds when they
+think about investing in that in the kind of a reopening environment, an environment where maybe more
+people are working from home, long term, that sort of thing?
+
+Rami Rahim
+CEO & Director
+
+Yes, certainly. It's actually a great question, Rod. So the way that we've maintained our momentum
+throughout the pandemic is on focusing on subsegments of the Enterprise and, of course, Cloud and SP,
+but primarily in the Enterprise, that are most resilient to economic perturbations or spending patterns in
+IT. So financial services, higher education, so think here college campuses, U.S. federal government, large
+big-box type retailers, warehouses, these are all areas where investments in IT and networking must be
+made today.
+
+But as we look out beyond the pandemic, and you start to think about what happens when we recover
+from the pandemic, my strong belief is that there will be a pivot towards investments in IT technology
+that's going to be cloud delivered, AI-driven. It's not going to be the complex legacy on-prem traditional
+technologies that, quite frankly, are not important to Juniper, not a part of our strategy. It's the cloud-
+delivered technology that I think will actually see an acceleration as you get out of this COVID crisis.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+So my view is we've done what's necessary to capture share during the pandemic, and we're setting
+ourselves up with a strategy that's going to be geared to where investments are going to be greatest post-
+pandemic.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+So you would be thinking that people are investing to give themselves more resiliency, more workforce
+flexibility, that kind of thing as they think through the other side of the pandemic?
+
+Rami Rahim
+CEO & Director
+
+Absolutely. Whether it is because they need that flexibility or because they want to crush the cost of
+running networks by replacing the human elements of running network with automation. And that is the
+magic of Mist. And again, don't think of Mist as just wireless LAN. Mist is that cloud-delivered AI-powered
+automation framework for wireless, wired and now with 128 Technology WAN that full client to cloud
+experience.
+
+Operator
+
+Our next question comes from Jeff Kvaal with Wolfe Research.
+
+Jeffrey Thomas Kvaal
+Wolfe Research, LLC
+
+I guess my first question is about cloud. And I guess I'm wondering, are there opportunities for you to
+do better than that sort of a growth statement that you gave for the year. And I say that in the context
+of we had a couple of tough years in cloud as you I'm sure know better than I do. And we've had now a
+couple of decent years in cloud given they are flattish or up some. But at the same time, we see these
+cloud companies that are growing their revenues and expanding their CapEx and building new data
+centers at a faster clip than what your revenues are doing. And so I'm wondering if there's an opportunity
+here, whether it's '21 or '22 or down the road to kind of close the gap a little bit and make cloud a more
+sustainable mid or even high single-digit grower.
+
+Rami Rahim
+CEO & Director
+
+Yes. So Jeff, it's a good question. So we've seen now 2 years of growth in cloud. When we provide our
+outlook for '21, we're not assuming any major take share-type opportunities that we score that would
+accelerate beyond just the statement of growth. I mean that's really the thing that I would ask you to
+take note of. If there were 400-gig opportunities that would represent major like net new footprint and
+certainly, that would be additive and I will say this, I mean we do see those opportunities. And we are
+absolutely -- sleeves are rolled up, and we're aggressively fighting for them and actually, I feel kind of
+good about them, but we're not yet at a point where we want to call them in our outlook for '21.
+
+Jeffrey Thomas Kvaal
+Wolfe Research, LLC
+
+Okay. All right. And then secondly, just to follow up on Rod's question a bit. How do you feel like your
+Enterprise customers are now perceiving their willingness to invest? And I think we cycle back a quarter
+or 2, even different companies we talk about, well, they are doing digital transformation, now they aren't,
+seems like not -- our starts to -- feels like these are back. Where are we in the recovery spending zone?
+Are we fully back yet? Or is there more -- is there opportunity for acceleration from here?
+
+Rami Rahim
+CEO & Director
+
+No, I don't think we're fully back yet. I still believe that there are COVID-related headwinds that we --
+what we're facing, and we're anticipating that we will continue to face. In fact, I strongly believe that
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+our Enterprise business would have performed even better in 2020, had it not been for COVID. We're
+not in our outlook for enterprise accounting on a major recovery, a significant recovery from COVID-type
+spending in enterprise, but should that reverse, let's say, in the second half of the year, enterprises go
+back to spending more like they used to, then I think we'll absolutely benefit from that.
+
+As far as your question around appetite for spending, in those verticals that I just mentioned to Rod,
+financial services, campuses, higher education, federal government, large retailers, actually, the appetite
+for investments as measured by large projects is there. We've seen it. And we've won many opportunities
+based on the merits, the differentiation of our technology.
+
+And the last thing I would say is even in the, let's say, the smaller-type enterprises, let's say, mid-sized
+enterprises, where COVID is going to be more of a headwind, more of a factor to be considered in IT
+teams justifying projects, I would argue that we're living at a time now where differentiation matters
+most, right? And I have never felt more strong about the merits of our technology, the differentiation of
+our solution for the enterprise.
+
+Operator
+
+Our next question comes from Sami Badri with Crédit Suisse.
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research Division
+
+The first question is more of a timing and clarification on one of your cloud comments, Rami. You
+mentioned that you are completing some projects, and then you're seeing the commencement of other
+projects. I just want to get an idea on some of the seasonality or just the timing of some of these. Are we
+seeing things kind of wind down right now, which means that things could be kind of slow for a quarter
+or 2 in the Cloud segment and then could they potentially ramp back up very quickly to the back half of
+2021? Is there anything we should be expecting as kind of like the lumpiness in 2021 Cloud revenue?
+
+Rami Rahim
+CEO & Director
+
+Yes. Yes, I'm happy to answer that, Sami. So first, I wouldn't say seasonality because it sort of indicates
+maybe some timing of orders that's based on which quarter of the year. And that's not necessarily what
+we're seeing. What we see within the Cloud vertical are really 2 dynamics. One of them is a natural
+evolution of the deployment of use cases. So there are always going to be older, more mature use cases
+that start to sort of diminish. They're reduced over time. But we're offsetting those older use cases with
+new use cases that we continue to win even within the same customer. So any cloud provider, especially
+hyperscale cloud provider is going to be deploying our technology in a number of different use cases. And
+that natural evolution of use cases has always been there. Some will decline and others will grow.
+
+The second factor within the Cloud vertical is diversity within or among customers, we're seeing really
+healthy diversity among our largest hyperscale cloud customers, and that offsets some of the puts
+and takes of use cases within each of the customers, and we're seeing strength in the cloud majors
+opportunity where there are many customers. So that naturally is going to be a more diverse element of
+our business.
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research Division
+
+Got it. But just to kind of lock on here, first half of 2021 should be relatively like no real surprises or
+should we be kind of expecting lumpiness or anything like that, just so I can frame out the year a little bit?
+
+Rami Rahim
+CEO & Director
+
+No. We're not anticipating any surprises. I mean, like I said, when we provide an outlook of growth in
+cloud, we're totally factoring in this transition of use cases in our business, and we're also, of course,
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+taking into account that we've got a diversity of customers, and we're not counting on any major net new
+footprint wins.
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research Division
+
+Got it. Got it. I wanted to -- I just want to shift gears a little bit back to something that was a big dynamic
+about 2 years ago, the MX, the PTX transition. This hasn't really come up much.
+
+Operator
+
+I apologize. This is the operator, we are -- we have to move on to our next question. Our next question
+comes from David Vogt with UBS.
+
+David Vogt
+UBS Investment Bank, Research Division
+
+Just want to circle back on the enterprise for a second. Clearly, it's becoming a critical driver of the
+company going forward. And the recent M&A's query has been really focused on that segment. I just
+wanted to touch on how do you think about the portfolio today going forward? And where or if there are
+any white spaces that you need to address going forward to really solidify out that market going forward?
+And then I just have a quick follow-up question.
+
+Rami Rahim
+CEO & Director
+
+Yes. Thanks for the question, David. I really do think that we've rounded out our portfolio and our
+position, our solutions for each of our 3 really important use cases. I don't think there are any glaring
+gaps at this point in time. We're always going to be looking for opportunities for value-enhancing M&A.
+But quite frankly, where my mind is at right now, where my focus is at is on landing and integrating
+successfully and achieving the kind of business momentum and success that we saw with Mist to these
+acquisitions that we made last year.
+
+David Vogt
+UBS Investment Bank, Research Division
+
+Great. And just a quick follow-up on the M&A activity. I think last quarter, you mentioned -- pushed the
+closing of 128, you would expect about 1 point of growth this year in 2021 from that transaction. And your
+commentary certainly sounds like the receptiveness or the enthusiasm around Apstra has gotten clearly
+ahead of your expectations. Does that suggest that sort of the expectation from an M&A perspective that
+you outlined today probably is a little bit conservative, given sort of the initial client feedback from the
+transactions that you've completed?
+
+Kenneth Bradley Miller
+Executive VP & CFO
+
+Yes. So we did tweak the language a little bit there, David. We talked about being nearly 1 point of
+growth. We thought that the 128 tech and Netrounds would give us nearly 1 point of growth. We're now
+getting it to -- we do expect a full point of growth from our recent acquisition. So it's a modest change in
+our outlook there.
+
+Jess Ian Lubert
+Vice President of Investor Relations
+
+Operator, we'll take 2 more questions.
+
+Operator
+
+Our next question comes from Aaron Rakers with Wells Fargo. Alex Henderson with Needham.
+
+Alexander Henderson
+Needham & Company, LLC, Research Division
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+So I was hoping you could talk a little bit about the spending patterns that you're seeing from enterprise
+customers, not so much driven by COVID but rather by the impact of the SolarWinds hack. We've spent a
+fair amount of time talking to value-added resellers during the survey work and the like as well as talking
+to individual companies. And it seems quite clear that spending intention around security has ratcheted up
+quite significantly and that the overall IT budgets are also increasing quite meaningfully, which does not
+really put to your commentary about fairly soft conditions on spending, potentially improving once COVID
+is resolved. Have you had conversations with the C-suite types in the large accounts or even intermediate-
+size accounts that are recent enough to get a handle on whether SolarWinds had an impact on spending
+intentions? And while you're at it, did you have any impact on -- as a result of the hack?
+
+Rami Rahim
+CEO & Director
+
+Yes. So there are a few things there's to unpack. First, I want to say, actually, what I mentioned was
+we anticipate enterprise spending to be healthy post COVID. So I actually think that there will be a
+resumption in spend and more tailwinds, an acceleration, if you will, of enterprise spending in many
+different use cases, especially the use cases that we as a company are focused on.
+
+Next, I want to say with respect to Juniper and impact of SolarWinds, we never put that SolarWinds
+product into any of our products that we sell our customers. And of course, once we heard of the news, we
+quickly scoured our own networks and looked for any exposures, and we didn't find that we were in any
+way exposed. So that I'll just get out of the way.
+
+In terms of has SolarWinds or how their security-type incidents increased the appetite for IT leaders or
+CSOs, to focus on spending, especially in security, the answer is absolutely, yes. I mean there is a reason
+that I think it's very important that as a networking company, you also have security competence and you
+embed security as a forethought, not an afterthought in all of the solutions that you sell to address the
+use cases that are important to your business, that's never been more important.
+
+So our security business in Q4 did not grow, but there's a reason for this. The high end of our security,
+where we typically sell into large service providers, cloud providers, that tends to be lumpy. The broader
+part of our security portfolio is, really the strategy there is to embed it into our solutions. So we talked a
+lot about Mist. One element of our client-to-cloud Mist solution is that it's going to be secured by default
+with the technology that we have embedded in our -- the Mist solution portfolio. And for that reason,
+I'm actually quite optimistic about how these security trends and the appetite to invest in security by IT
+departments for our business.
+
+Alexander Henderson
+Needham & Company, LLC, Research Division
+
+So did you talk to any C-suites post this hack broke in December? And one guy put it to me that we wish
+we could have a hack like this every year. If you're going to have a hack, have it in December because it
+spiked spending intention. Have you heard anything along those lines from anybody in the C-suites that
+you talked to?
+
+Rami Rahim
+CEO & Director
+
+Yes. So my remarks were -- Alex, were absolutely based on conversations that I have on an ongoing
+basis with C-suite professionals. So I think a big and very important part of my job is to talk on a regular
+basis to CEOs, CIOs, CTOs of large enterprises, service providers, cloud providers. And the net of it
+is absolutely, security is a top-of-mind consideration. It's driving spending and making sure that our
+customers understand that security is embedded in all of our strategic use case solutions is a big part of
+my job.
+
+Operator
+
+Our last question comes from Ryan Koontz with Rosenblatt Securities.
+
+Ryan Boyer Koontz
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+Rosenblatt Securities Inc., Research Division
+
+Great progress on the routing side with Service Provider stabilizing there. I wonder if you could give us
+any color on some of the use cases you're seeing, some of the new use cases in the enterprise and cloud?
+Is it as simple as the campus and the DCI WAN piece? Or am I missing some other interesting use case?
+
+Rami Rahim
+CEO & Director
+
+Yes. I'm very pleased with our routing progress. In Q4, we saw double-digit routing growth in cloud
+providers and enterprises. Government and cable momentum was strong. MX and PTX grew both on a
+year-over-year and a sequential basis. So it does appear to be broad-based.
+
+The use cases today for us are mostly going to be in core routing and edge routing, some DCI data center
+interconnect. The thing that I'm really excited about when it comes to the opportunity is on our metro
+road map. The metro represents around a $2 billion routing opportunity today that's growing at a healthy
+clip. It's probably the fastest-growing routing submarket of the overall routing market, and it's largely
+untapped by Juniper.
+
+And the good news is this is just another high-performance networking -- network, but it requires certain
+capabilities, certain aspects of your products around footprint and power efficiency and certain types of
+features. These are all within our wheelhouse. And this is a road map that we're executing on. We've
+already introduced the first product to address it, but you can expect a number of new products that
+we introduce this year to complete our metro routing portfolio. Netrounds really fits beautifully into this
+solution because it really provides that automation and SLA assurance end-to-end that's important for the
+metro. So that, I believe, is going to help us in our routing business in '21, but especially in '22 when the
+portfolio is complete.
+
+Operator
+
+There are no further questions at this time. I would like to turn the floor back over to Jess Lubert for any
+closing comments.
+
+Jess Ian Lubert
+Vice President of Investor Relations
+
+Thank you, operator. Before we conclude today's call, I'd like to remind everyone that Juniper will be
+hosting its Virtual 2021 Investor Day on February 12. Executive presentations will start at 10 a.m. Eastern
+Standard time and can be accessed via a link which will be posted to our IR website. If you have any
+questions regarding how to participate in the event, you can reach out to me at jlubert@juniper.net. We
+look forward to hopefully seeing you there. That concludes today's call. Thank you.
+
+Operator
+This concludes today's conference. You may disconnect your lines at this time. Thank you for your
+participation, and have a wonderful evening.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+JUNIPER NETWORKS, INC. FQ4 2020 EARNINGS CALL |  JAN 28, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+

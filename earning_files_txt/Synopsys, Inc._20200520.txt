@@ -1,0 +1,1134 @@
+Synopsys, Inc. NasdaqGS:SNPS
+FQ2 2020 Earnings Call Transcripts
+Wednesday, May 20, 2020 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ2 2020-
+
+-FQ3 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+0.99
+
+Revenue  (mm)
+
+836.52
+
+1.22
+
+861.33
+
+23.23
+
+2.97
+
+1.47
+
+5.22
+
+5.94
+
+945.61
+
+3621.02
+
+3923.58
+
+Currency: USD
+Consensus as of  May-20-2020 1:22 AM GMT
+
+FQ3 2019
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.10
+
+1.13
+
+0.92
+
+0.99
+
+1.18
+
+1.15
+
+1.01
+
+1.22
+
+7.27 %
+
+1.77 %
+
+9.78 %
+
+23.23 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Richard Frank Valera
+Needham & Company, LLC,
+Research Division
+
+Thomas Robert Diffely
+D.A. Davidson & Co., Research
+Division
+
+Lisa Ewbank
+Vice President of Investor
+Relations
+
+Trac Pham
+Chief Financial Officer
+
+ANALYSTS
+
+Adam Gonzalez
+BofA Merrill Lynch, Research
+Division
+
+Gary Wade Mobley
+Wells Fargo Securities, LLC,
+Research Division
+
+Jackson Edmund Ader
+JPMorgan Chase & Co, Research
+Division
+
+Jason Vincent Celino
+KeyBanc Capital Markets Inc.,
+Research Division
+
+Jay Vleeschhouwer
+Griffin Securities, Inc., Research
+Division
+
+John William Pitzer
+Crédit Suisse AG, Research
+Division
+
+Joseph D. Vruwink
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Mitchell Toshiro Steves
+RBC Capital Markets, Research
+Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+Presentation
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the Synopsys Earnings Conference Call
+for the Second Quarter of Fiscal Year 2020. [Operator Instructions] As a reminder, today's call is being
+recorded. At this time, I would like to turn the conference over to Lisa Ewbank, Vice President of Investor
+Relations. Please go ahead.
+
+Lisa Ewbank
+Vice President of Investor Relations
+
+Thank you, Greg. Good afternoon, everyone. Hosting the call today are Aart de Geus, Chairman and Co-
+CEO of Synopsys; and Trac Pham, Chief Financial Officer. Before we begin, I'd like to remind everyone
+that during the course of this conference call, Synopsys will discuss forecasts, targets and other forward-
+looking statements regarding the company and its financial results. While these statements represent
+our best current judgment about future results and performance as of today, our actual results and
+performance are subject to many risks and uncertainties that could cause actual results to differ materially
+from what we expect.
+
+In addition to any risks that we highlight during the call, important factors that may affect our future
+results are described in our most recent SEC reports and today's earnings press release. In addition, we
+will refer to non-GAAP financial measures during the discussion. Reconciliations to their most directly
+comparable GAAP financial measures and supplemental financial information can be found in the earnings
+press release, financial supplement and 8-K that we released earlier today. All of these items plus the
+most recent investor presentation are available on our website at synopsys.com. In addition, the prepared
+remarks will be posted on the site at the conclusion of the call.
+
+Finally, we are all participating from different locations today. Please forgive any delays, technology
+glitches or awkward handoffs in the Q&A session as we navigate this new virtual dynamic.
+
+With that, I'll turn the call over to Aart de Geus.
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Good afternoon. I'm happy to report outstanding second quarter results with record orders, revenue,
+non-GAAP earnings per share and operating cash flow. We substantially exceeded all of our key guidance
+metrics. Revenue was $861 million, with GAAP earnings per share of $0.71 and non-GAAP earnings
+of $1.22. Orders were substantially greater than our internal plan driven primarily by digital design
+software, and we continue to make good progress on our margin expansion goals. As a result of our first
+half strength and the resilience of our business, we are reaffirming our revenue and non-GAAP margin
+guidance for the year while raising our non-GAAP earnings and cash flow targets. Trac will discuss the
+financials in more detail.
+
+Before providing quarterly highlights, let me comment on the market landscape, which is, of course,
+dominated by the COVID-19 pandemic and its substantial recessionary pressure on the global economy.
+While in a matter of weeks, many companies around the world have adapted to widespread work from
+home. The semiconductor sector has stayed busy as the electronic system and system design continues
+unabated. Driven by the sudden need for bandwidth and compute for home, be it for work, schooling
+or entertainment, advanced chip design is not slowing down. We've seen this continuous design activity
+in previous downturns. Regardless of where a company or industry is in its business cycle, continuous
+investment in new technologies, be they AI and machine learning, 5G, IoT, automotive or cloud-end
+markets, is the best way to be ready when the economy turns up again. Synopsys is at the core of this
+enablement.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+Combining that with our time-based business model, our high level of recurring revenue and a
+noncancelable backlog of $4.8 billion, Synopsys is well positioned to withstand the uncertainties of today's
+macro environment. With that context, let me provide some highlights from the quarter, beginning with
+EDA. Our unrelenting innovation push throughout our Fusion Design Platform is driving momentum
+in technical benchmark wins, increased competitive displacements and new breakthrough products.
+In Q2, our hallmark Fusion Compiler product drove a doubling of the number of tapeouts as well as
+significant business commitments by customers ranging from the world's largest microprocessor and
+consumer companies to mobile, networking and automotive system designers. Key competitive wins
+included a leading Asian 5G edge computing chip supplier for next-generation 5-nanometer design, a
+prominent North American graphics company on an advanced gaming GPU and expanding competitive
+displacement at some of the world's leading mobile semis on multiple designs ranging from 12-nanometer
+to 5 nanometer. The Fusion concept, a revolutionary invention with impact that goes far beyond even the
+breakthrough Fusion Compiler solution, resonates very well with our customers and partners. This quarter,
+we expanded our collaboration with Broadcom, who is widely deploying our Fusion Design Platform to
+accelerate delivery of its innovative 7-nanometer and 5-nanometer designs.
+
+And our innovation continues at a rapid pace. In March, we announced several exciting new products,
+including DSO.ai. The result of a multiyear initiative with leading industry partners, it includes learning
+engines that can automatically adjust and optimize throughout the design flow. The result is impressive
+productivity improvements in terms of project time as well as further optimizations in chip performance,
+power and area. Using state-of-the-art AI and machine learning as well as a cloud-based burst
+computation, it enables design teams to tackle more projects, handle larger parts of a project and lets
+designers focus exclusively on leverage high creativity and value-added tasks.
+
+Another seminal new product is a 3DIC Compiler. Advanced designs are now so massive and complex that
+they require a brand-new approach. 3DIC Compiler is a single environment that enables the combination
+of multiple die together on a chip. This provides far better performance and capacity than conventional
+chip and package approaches for customers such as Samsung Electronics, who refer to it as an industry
+disruptor. 3DIC is also a great way to extend the power, performance and density benefits of Moore's Law
+as it supports the high-speed parallelism and massive data needs of new AI architectures. This opens a
+new path to very powerful multi-die computational engines for years to come.
+
+Meanwhile, in custom design, our multiyear innovation push has resulted in a highly competitive product
+that is being used for the most advanced FinFET designs and driving ongoing full-flow competitive
+displacements. For example, Alphawave replaced its legacy custom design tools with our custom design
+platform for development of high-speed connectivity IP. Here too, productivity was the reward as our
+solution helped them meet aggressive design targets in a notably shorter time frame. A major foundry in
+Asia expanded its internal deployment and now has more than 10 custom compiler projects underway. We
+also secured new deployments for memory, silicon IP and microprocessor designs.
+
+Let me now move to our Verification Continuum Platform, where significant technology innovation
+continues to cement our market share leadership. In verification software, we're seeing notable
+expansions at influential hyperscaler companies, traditional semi and systems companies and global
+start-ups. Across the platform, our technology is strong. On the hardware side of our verification
+solution, which caters uniquely to unrelenting design complexity growth, demand for our products is
+also high. Competitively, our emulators and prototyping systems are differentiated by raw speed, higher
+reliability, easier installation and maintenance and overall lower cost of ownership. Just this quarter, 13
+new customers purchased our hardware products, and we have more than 30 repeat orders. Here too,
+we're seeing good momentum with customers ranging from very large semi and systems companies to
+hyperscalers and start-ups. While the timing of hardware deliveries creates a tough comparison with the
+first half of last year, we continue to gain momentum with both new and existing customers.
+
+Now to IP, where we are growing with solid momentum. As the #1 provider of interface, embedded
+memory, logic libraries and foundry specific IP, we provide the broadest portfolio addressing the most
+complex requirements, accelerating time to market and lowering design risk. With more than 330 wins
+for foundry specific 7-nanometer IP, customers are clearly placing their trust in our leadership in high-
+performance cloud-computing applications. Most recently, we achieved significant competitive wins,
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+including a major Internet service as an AI company, who adopted our production proven IP subsystems
+and PCI Express 5.0. And a major Taiwanese fabless semiconductor company who licensed our silicon
+proven HBM2E for multiple networking customers.
+
+Our unrelenting focus on enabling advanced process designs continues. We recently announced availability
+of the broadest portfolio of IP for TSMC's 5-nanometer process for high-performance computing SoCs. A
+multinational technology giant in cloud services and AI selected our PCI Express 5.0, CXL and Foundation
+IP. And a leading e-commerce company chose our Die-to-Die HBI IP because of our performance, power
+and area differentiation.
+
+Our product momentum for ARC processors also continued with the introduction of our first 64 bit
+processor IP. This is our highest performance ARC processor to date, targeting high-end embedded
+applications such as storage, automotive control and infotainment.
+
+Now to Software Integrity. This is one area of our business that felt more of an impact from COVID as
+companies delayed business decisions while working to adapt to shelter-in-place mandates. While revenue
+growth improved sequentially, we did see a slowdown in orders that will moderate our revenue growth
+this year to the low double-digit range before returning to higher growth longer term. The breadth and
+road map of our portfolio are uniquely well suited to serve today's DevSecOps requirements. By providing
+high-value products, a great new platform and strategic consulting services, we are well positioned to help
+companies develop more secure, high-quality software for a very interconnected world.
+
+Industry recognition of our vision and product breadth has grown significantly over the past several
+years. Just a few weeks ago, Gartner updated its Magic Quadrant for Application Security Testing. We
+are pleased to note that Synopsys is again at the farthest top right position in the leader quadrant. We
+made progress during this quarter in several areas. We achieved multiple competitive displacements as
+customers embraced the benefits of our broad portfolio and the integration onto the Polaris Software
+Integrity Platform. We saw a notable broadening of agreements as customers expanded the number of
+products they adopt. One example is a very large global electronics company who replaced the incumbent
+and significantly expanded its adoption to a broader set of our solutions. This quarter, our customer
+base continued to grow with new logos ranging from very well-known consumer electronics leaders to
+hyperscalers, to industrial and financial services companies. Our next objective is to scale this business to
+reach $500 million to $1 billion in revenue over time.
+
+Before I hand it over to Trac, let me comment on our practical handling of the COVID-19 pandemic. I
+will begin with a sincere thank you to the many southwest caregivers who keep us safe. I also want to
+thank our employees, who have shown incredible commitment and agility over the past several months to
+execute on the dual objectives of health and business. I believe that our execution during this period has
+been stellar.
+
+In addition to the rapid actions we took to implement global shelter-in-place orders, we continue to
+partner with our peers, local governments and health agencies to ensure a safe work environment for
+those returning to the office. Our IT, HR, facilities and operations teams have done an amazing job, quickly
+adapting our infrastructure and systems to support work from home.
+
+Our R&D teams continue to execute very well and have effectively worked through some hardware supply
+chain and logical challenges. The large number of new products and excellent benchmark results give
+us strong confidence in our product pipeline. This also applies to our worldwide IP team, which had the
+foresight to rapidly enable remote development and delivery of high demand advanced titles. We are able
+to ship our products and our customers
+
+[Audio Gap]
+
+support from our application engineering teams. Last, as witnessed by the strongest orders quarter on
+record, our sales team also demonstrated stellar execution.
+
+As we now see a gradual opening of businesses in many countries and states, our leadership is planning
+a very gradual shift back to the office in coordination with local authorities and sensitive to our employees
+well-being. In closing, Synopsys is executing well. We delivered outstanding second quarter results with
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+record orders, revenue, non-GAAP earnings per share and operating cash flow. Design activity remains
+strong and enduring. We continue to introduce innovative new products throughout our portfolio and our
+benchmarking strongly. Notwithstanding the extraordinary world circumstances, we continue to target high
+single-digit revenue growth, substantial ops margin expansion, mid-teens non-GAAP earnings per share
+growth and strong operating cash flow.
+
+Trac will now highlight the financial perspective.
+
+Trac Pham
+Chief Financial Officer
+
+Thanks, Aart. Good afternoon, everyone. Our record results are especially noteworthy, in light of the
+considerable challenges faced by ourselves and our customers over the past few months. Given our
+history of strong execution, sometimes it's easy to forget how much hard work goes into delivering
+results like these. So I'd like to add my thanks to our employees for their dedication under these
+difficult circumstances. Complementing our excellent execution in the first half is our very solid business
+foundation, technology leadership, a diverse customer base and nearly 90% recurring revenue. These
+elements position us well for periods of high demand as well as during times of greater stress. This rare
+combination gives us the confidence to reaffirm our annual revenue and non-GAAP margin guidance and
+to increase our non-GAAP earnings and operating cash flow targets.
+
+Now to our second quarter results. All comparisons are year-over-year unless otherwise stated. Orders
+substantially exceeded our plan, driven in large part by EDA, particularly digital design. Ending backlog
+was $4.7 billion. We generated total revenue of $861.3 million, above our target range, driven by broad
+strength and some revenue that moved in from Q3. Semiconductor & System Design segment revenue
+was $773 million, with strong growth in EDA software, moderated by tough hardware comparison over a
+strong Q2 of last year. Excluding hardware, EDA software results remain within our long-term target range
+of mid- to high single digits.
+
+A quick note on hardware. While COVID-19 has presented some minor house related supply chain
+challenges due to shelter-in-place mandates, we're managing through them well. Our contract
+manufacturing partners are gradually increasing capacity. And because our products are considered
+essential, they are top priorities. Software Integrity segment revenue was $88.3 million, 10% of total.
+
+Moving on to expenses. Total GAAP costs and expenses were $735 million, which includes approximately
+$30 million in restructuring costs associated with our previously communicated program to optimize
+resource allocation for sustainable long-term growth. These are not COVID related. Total non-GAAP costs
+and expenses were $640 million, resulting in a non-GAAP operating margin of 25.7%. We are on track
+to generate approximately 2 percentage points of non-GAAP operating margin expansion for the year.
+Adjusted operating margin for the Semiconductor & System Design segment was 27.1%. And for the
+software integrity segment, 13.3%.
+
+Finally, GAAP earnings per share were $0.71 and non-GAAP earnings per share were $1.22, well above our
+target range due to excellent operational execution.
+
+Turning to cash. We generated a record $380 million in the operating cash flow. We initiated a $100 million
+ASR and have now completed $200 million in buybacks year-to-date. We've repurchased $2 billion of
+our stock since 2015, approximately 75% of our free cash flow. Our capital allocation strategy has not
+changed. We'll continue to evaluate the best use of cash each quarter and will remain prudent as the
+global macro environment evolves. Our balance sheet is very strong. We entered the quarter -- we ended
+the quarter with a cash balance of $856 million and total debt of $236 million as we paid down $90 million
+of our revolver.
+
+Now to guidance, which continues to assume the current entity list restrictions remain in place for the rest
+of the year. Consistent with our expectations, revenue was skewed to later in the year due primarily to a
+scheduled timing of hardware and IP deliveries.
+
+For fiscal year 2020, our targets are: revenue of $3.6 billion to $3.65 billion; total GAAP costs and
+expenses between $2.99 billion and $3.03 billion; total non-GAAP costs and expenses between $2.63
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+billion and $2.66 billion, resulting in a non-GAAP operating margin of approximately 27%; GAAP earnings
+of $3.74 to $3.9 per share; non-GAAP earnings of $5.21 to $5.28 per share; cash flow from operations of
+$815 million to $840 million; and capital expenditures of approximately $170 million.
+
+Now to the targets for the third quarter: revenue between $875 million and $905 million; total GAAP costs
+and expenses between $721 million and $737 million; total non-GAAP costs and expenses between $640
+million and $650 million; GAAP earnings of $1.12 to $1.22 per share; and non-GAAP earnings of $1.33 to
+$1.38 per share.
+
+In conclusion, despite the unprecedented challenges faced by our employees and customers around the
+globe, our focused execution, portfolio strength and resilient business model enabled us to deliver a very
+strong quarter, reiterate our full year revenue and non-GAAP margin guidance and raise our non-GAAP
+earnings and cash flow targets. Our strong balance sheet and thoughtful approach to capital allocation
+position us well to navigate the current environment.
+And with that, I'll turn it over to the operator for questions.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] And our first question comes from the line of Rich Valera with Needham &
+Company.
+
+Richard Frank Valera
+Needham & Company, LLC, Research Division
+
+Congrats to the team on delivering very solid results in a challenging environment. First, just on the
+order commentary, I think you said you saw stronger than expected orders primarily in core EDA. I was
+wondering if you could give any color on sort of what drove that strength. And if you thought it was maybe
+timing related? Or if you think that was sort of a net increase in demand relative to your original plan?
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Well, I think there are multiple things have played in all at the same time. Obviously, in a time like this,
+we all pay a lot of attention to execution. And so we'll give some credit to just working hard at it. But I
+think the other thing that happened is that a number of the new products that we introduced last year
+and some that we announced just recently are very attractive and benchmark extremely well. And so the
+hunger for more sophisticated products continues because during the same time frame, what we're seeing
+is that a number of the advanced customers are moving now from 7 to 5 nanometer. And so that has both
+implications on the IP that they're using and on the strength of tools that they want. And so the demand, I
+think, was absolutely there, and it was for us to make sure that we find a way to get at it.
+
+Richard Frank Valera
+Needham & Company, LLC, Research Division
+
+Got it. And just one more on the SIG business. One, could you say what the bookings were there? I know
+they were pretty good last quarter despite the relatively modest revenue growth. And two, any progress
+on getting a business unit, a new business unit head there?
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+So we normally don't disclose the bookings for any subpart of the company. We did communicate that they
+were lower this quarter than expected, and therefore, that has some ramifications going forward. It's not
+completely a surprise because a lot of the interactions early on in the COVID time were very impacted by
+people essentially hustling for shelter or from home. On the recruiting, we have started a search. And so
+we expect that in the next 6 months this will be fulfilled. And now we're looking at candidates.
+
+Richard Frank Valera
+Needham & Company, LLC, Research Division
+
+Congrats again on a nice quarter.
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Thank you very much, Rich.
+
+Operator
+
+Next we turn to the line of Tom Diffely with D.A. Davidson.
+
+Thomas Robert Diffely
+D.A. Davidson & Co., Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+Maybe first a question on the hardware business. At this point, is that completely outsourced? Or do you
+still do -- or do you do a final assembly and test in-house? And just curious if COVID was a bigger issue
+for your suppliers or for your own internal assembly and test.
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Well, it's an excellent question. So we do a little bit of all of that. We outsource, obviously, as much as
+we possibly can. There are -- depending on what the status is of the hardware, we assemble some of it
+ourselves. And as you would expect, when you have a global disruption of all the markets, initially, you
+have to watch out where all the parts are coming from, who is doing the assembly, et cetera. And the
+issues that we looked at initially were HAPS related. I'm quite impressed by how quickly our team was on
+top of that. And after that, the fact that this is essential equipment benefited us as the assembly people
+we work with gave us high priority. And so I think the problem is mostly resolved at this point in time.
+
+Thomas Robert Diffely
+D.A. Davidson & Co., Research Division
+
+Okay. That's great to hear. And then Trac, when I look at the midpoint of guidance for, I guess, the third
+and the implied for the fourth quarter, pretty strong revenue growth, not a lot of model leverage off that
+revenue growth though. I'm curious is that because it's more hardware centric? Is it conservatism or is
+there something else going on?
+
+Trac Pham
+Chief Financial Officer
+
+It is a little bit of the hardware mix. You got COGS ramping up with expenses as well. And the profile
+is that it does have some additional expenses in terms of hiring. But I do expect that you'll see an
+improvement in operating margins from Q3 to Q4.
+
+Operator
+
+And next we turn to the line of Joe Vruwink with Baird.
+
+Joseph D. Vruwink
+Robert W. Baird & Co. Incorporated, Research Division
+
+Apologies if this came up. I joined a little bit late, but just a current events question. I'm wondering if the
+recent proposals around new export restrictions have either impacted Synopsys any way or maybe since
+the April quarter close, caused some of your customers maybe to reconsider certain spending decisions.
+Or just any impacts from the past couple of weeks and some of the news that's been coming out?
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Well, the bottom line of the answer is, no. The recent announcements were 1 or 2 weeks old. And while
+fairly complicated, we're able to get a good sense of it. And our conclusion is it does not affect us beyond
+what is already prohibited in the entity. We have also not had any follow on of customers that we're
+worried in any form. So I think that interpretation has been fairly universal.
+
+Joseph D. Vruwink
+Robert W. Baird & Co. Incorporated, Research Division
+
+Okay. Great. And then on Software Integrity, I guess the qualitative commentary just in terms of some of
+the buy in to Polaris and the fact that you're getting competitive displacements for Polaris at this point,
+that strikes me as pretty positive. So I guess my question is, did it surprise you to have platform traction
+in a more difficult environment created by COVID? And does that give you maybe some optimism and
+thinking about bookings for the back half of your year?
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+Well, we live with optimism, and actually, this is a good example of it because the whole point of a
+platform is to get the benefit of multiple tools that work well together. And by the way, for the buyer, it
+has another benefit, especially for larger companies. They are trying to maintain an environment that is
+not overly complex with tools from many, many different vendors. And so being able to bring multiple
+capabilities together in a structured fashion that over time will gain more and more value because things
+work well together is actually precisely the direction that we are counting on. And the fact that a number
+of customers have actually bought Synopsis precisely for that reason is extremely encouraging.
+
+Operator
+
+And next we turn to the line of Mitch Steves with RBC Capital Markets.
+
+Mitchell Toshiro Steves
+RBC Capital Markets, Research Division
+
+I wanted to focus a little bit on the -- hello? Can you hear me?
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Yes. We can hear you.
+
+Mitchell Toshiro Steves
+RBC Capital Markets, Research Division
+
+Yes. Sorry. Yes, so I wanted to focus a bit on the operating margin here. So the implied number, it looks
+like you guys are going to get to the kind of the high 20s exiting the year. So I really have 2 parts to
+my question. The first one is just that is that correct that you're going to kind of exit at 29%? And then
+secondly, does that imply that '21 should actually be better than your high 20s target? Because now you
+guys have kind of got a work-from-home dynamic, you don't have to have as much T&E expense. It's
+something we've heard that a lot of companies, particularly software companies are able to do. So is there
+any way you guys are going to be able to squeeze extra basis points out of the OpEx line going forward?
+
+Trac Pham
+Chief Financial Officer
+
+Let me work backwards on your question, Mitch. You're right. We are -- we would be exiting in the high
+20s for the year. But keep in mind that it's largely a profile of the revenue ramp. We remain committed to
+our long-term goals of driving margin expansion. But at this point, it's too early to talk about FY '21. We'll
+comment on that later in the year. As far as savings from COVID, certainly, we're seeing some elements
+of that flow through -- that benefit flow through to the results. But the results are largely driven by us
+executing the plan that we set out to do for the year, which is continue to focus on our spending, be more
+diligent about where we're investing and driving a plan that's going to deliver good margin growth this
+year and over time.
+
+Mitchell Toshiro Steves
+RBC Capital Markets, Research Division
+
+Got it. And then just one small one, if I could, I know I've asked multiple questions there. So just was
+there any revenue impact you guys could quantify in terms of what the hardware shipments would have
+been? Or if you had any pushouts in terms of sales? Because I'm curious to why the full year guide didn't
+go up. I would think that you'd be able to get at least above -- towards the high end, I guess, the revenue
+guide. So was there any sort of push out or anything related to COVID in the quarter?
+
+Trac Pham
+Chief Financial Officer
+
+No, not really. COVID had a really small effect on the results or immaterial effect on the financial results.
+As we mentioned, we had some initial challenges with the supply chain when the shelter-in-place
+mandates went into effect, but we were able to overcome that and execute on the numbers for the
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+quarter. Good execution in Q2. The results were strong on its own, but we did see some revenues move
+in from Q3 to Q2. At this point, we're providing our best view of the outlook for hardware, and it really
+reflects a profile of it growing in Q4. And so far, we feel confident in our ability to execute to that. That's
+why we're reaffirming guidance.
+
+Operator
+
+And next we turn to the line of Jackson Ader with JPMorgan.
+
+Jackson Edmund Ader
+JPMorgan Chase & Co, Research Division
+
+The first one to Aart is a follow-up actually on some of the trade restrictions. You addressed, I think, the
+entity list and Huawei's, I guess, tighter restrictions having already been factored in. But what about the
+military end user or military end-use case, I guess, control actions that were put out at the end of April?
+Do you expect any impacts from that?
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+No, we don't. So fundamentally, the guidance that we have given you encompasses all of our
+interpretation of all of the various actions that have been taken over the last 1.5 years. And I think we feel
+very solid in that interpretation at this point in time.
+
+Jackson Edmund Ader
+JPMorgan Chase & Co, Research Division
+
+Okay. All right. Great. And then follow-up. Yes, just quickly on cash flows. Are customers -- are there any
+customers either in Software Integrity or in the Semiconductor business that are looking for maybe some
+payment flexibility? I saw that the provisions for doubtful accounts went up. But just curious where the
+strength in cash flow is expected to come from.
+
+Trac Pham
+Chief Financial Officer
+
+Yes. For the most part, we haven't seen any meaningful impact of that or of customers coming back and
+renegotiating terms. And so far, that's been very positive. We're prepared to -- we're prepared for that
+kind of potential. But so far, we haven't seen much of an impact. The strength in the cash flow outlook is
+really the confidence in the P&L and what we're guiding to, it's pretty solid growth for the year as well as
+good margin improvement, and that's going to eventually translate to cash, and it's a reflection of both
+strong collections and more effective disbursements or lower disbursement.
+
+Operator
+
+And next we turn to the line of Gary Mobley with Wells Fargo Securities.
+
+Gary Wade Mobley
+Wells Fargo Securities, LLC, Research Division
+
+Let me extend my congratulations as well. The 7% sequential increase in backlog is commendable. And --
+but reading between the lines, I see that your average license duration is spiked quite significantly. And so
+does that speak to, I guess, the concentration of the record orders with perhaps one customer renewal?
+Or is there some more diverse overall bookings trend there?
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+It is the second. It's not a single customer at all, it is multiple customers. I think in general, there are
+often variations in length of contracts. At this point in time, it is encouraging that the contracts have not
+become shorter as in times of economic stress, people could be worried about it. That's obviously not be
+the case at all. And I said, from a use and approach to design, we see no difference. If nothing else, there
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+are a number of companies that are really accelerating as they hope to have good opportunities in next
+year with new products. So the technology advances are on track and the business, I think, reflects that
+directly.
+
+Trac Pham
+Chief Financial Officer
+
+Gary, I would also add that the -- it's nice to have at the back that large backlog in an environment like
+this, in general, but particularly in an environment like this. Now the Q2 bookings was not only a record in
+absolute numbers, but we also saw a very good run rate growth in the quarter. So I'm pleased with that
+combination.
+
+Gary Wade Mobley
+Wells Fargo Securities, LLC, Research Division
+
+Okay. And as my follow-up question, with the shelter in place, I guess, largely still intact there in the Bay
+Area and perhaps affecting access to your facilities in access to labs and whatnot. Is that a hindrance to
+completion of some IP deliverables? Is that perhaps an explanation why the fourth quarter may be so
+back-end loaded?
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Well, initially, there were a number of questions of how to best get access to labs. How to manage that?
+Can we manage it? I think there too, we were able to find practical solutions pretty quickly. And I'm
+actually very positively surprised that how well the IP group is executing as we continue to send chips to
+manufacturing as we can -- as we continue to deliver new cores. And so I think the distribution of revenue
+is more a function of the uptakes from the customer than anything else.
+
+Operator
+
+And next we turn to line of Adam Gonzalez with Bank of America.
+
+Adam Gonzalez
+BofA Merrill Lynch, Research Division
+
+First on the Software Integrity business. I'm just wondering if you could elaborate on some of the delayed
+business decisions that you alluded to on -- in the prepared remarks. And then what gives you the
+confidence in the low double-digit growth target that you implied the business would grow this year? And
+then secondly, how have your sales efforts been impacted by the shelter-in-place orders in SIG? And have
+your spending plans changed at all versus what they were last quarter?
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Yes. Let me go backward on that. As the working at home started to become -- acted on with many of
+our customers, it did slow the interaction somewhat. We also saw some slowdown in our ability to hire
+people as quickly as we had planned. And those are the type of things that then tend to impact the orders,
+rates that one gets in. And so one can certainly always point at things that we could do better on the
+circumstances. But all in all, the reception to the type of capabilities that we have and the need have
+not diminished at all. As a matter of fact, you can see how a wave of concern has gone through many
+of our customers as they established work from home and immediately, the security of many of those
+installations was somewhat in question. Now we ourselves barely touched that -- that is not the field
+that we're in. But the secondary ramification of that is that people will look again harder at what to do
+in the software to protect from future security breaches. So from that perspective, I think the business
+opportunity is just as healthy as it was before. The circumstances will evolve. And I think our execution
+can improve and that's what we're focusing on.
+
+Adam Gonzalez
+BofA Merrill Lynch, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+Great. And then my follow-up, just generally speaking, do you see any read across to the EDA industry
+more broadly from the duplication of semis and tech supply chain that we seem to be progressing toward?
+Just asking following up on TSMC's decisions to build a fab in Arizona.
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+I'm sorry, I couldn't hear the first -- you said something across, but I'm not sure what the something was.
+
+Adam Gonzalez
+BofA Merrill Lynch, Research Division
+
+Do you see any read across the EDA industry broadly from the duplication of supply chain efforts with U.S.
+and China?
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+That is an interesting question because whenever supply chain start to duplicate efforts, they actually
+become less efficient, which is actually not a bad thing for the people supplying to them in turn. And so
+I don't think that we see an enormous amount of effort in that yet. But clearly, there are sort of fairly
+big macro discussions on different countries wanting to have a high degree of independence of other
+countries, all the way to manufacturing of semiconductors, as you saw per the recent announcements of
+TSMC. And so I think that we're going to see a fairly dynamic evolution over the next year. And given that
+we're connected to all of those people very well. I certainly intend for us to participate in whatever they're
+going to build and whatever they need to construct in a fashion that is good for our business.
+
+Operator
+
+And next we turn to the line of Jay Vleeschhouwer with Griffin Securities.
+
+Jay Vleeschhouwer
+Griffin Securities, Inc., Research Division
+
+Aart, needless to say, the comments about record orders was quite important and the same about record
+backlog. If I'm not mistaken, the last quarterly record for bookings was 7 years ago. The question is, how
+will this momentum in in EDA influence or your direction or allocation of internal resources? Normally,
+when we see that kind of strength in EDA, again, driven by demand and new product adoption, we would
+see, for instance, a significant ramping up of AE capacity as a coincidental or leading indicator for that kind
+of strength in EDA. So perhaps you could talk about that kind of internal investment you're thinking of
+incrementally for EDA? And conversely, what you might be doing differently in terms of SIG investments
+as you go through this slower period of growth and maybe Trac can comment a little bit more elaborately
+on the -- yes, the restructuring intent? And then my second question is back on EDA. You, in the last year
+on a couple of conversations we've had, spoke about 2 big trends, driving the EDA industry. One was
+moving from the general to the specific or specialty chips, as you call them, and that the next big thing
+in EDA was, as you described it, prototyping, broadly speaking, at different levels of abstraction. I'm sure
+you remember those comments, is there any way to parse how either or both of those is directly having a
+business impact incrementally versus, let's say, older forms of design or older methods?
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Okay. I will try to answer that in less than half an hour. Let me start with the very good results from an
+order perspective. And frankly, I didn't know that was 7 years ago. At that time, we were more colored by
+single large customers making an impact. This was much broader.
+
+Nonetheless, when we entered the global pandemic crisis, it became instantaneously clear that there were
+more questions than answers of what this would do to the market, to the behavior of the customers and
+so on. And it was also instantaneously clear to Synopsys that it was all hands on deck to make sure that
+we maintain strong relationships with the customers, first from a support point of view to make sure that
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+they do well. And secondly, from the perspective of continuing to bring in the business in order for us to
+be able to fund however long the downturn may be.
+
+We executed on that clearly well. And as mentioned, I think one of the very early questions today, I think,
+partially it is because we focus extremely well, but also because we are at a good time with new products
+and new necessities from a design point of view, such as the new nodes, the advanced technologies, the
+increase of IP reuse, et cetera.
+
+And so we will continue to manage the way we've always done, which is we committed to you -- to
+obviously optimize the growth rate, but also to work towards the ops margin improvement, and this helps
+in the right direction.
+
+But this also ties to your next question, which is, what are the key trends behind this from a technology
+point of view. And what I must have called many years ago, specialty chips, now we would call AI and
+machine learning chips because that is really the whole generation that has completely readdressed
+architectures.
+
+And it's important to understand just a little bit why that is relevant to us because no matter what,
+when you do computing engines, such as for AI, you want speed, speed, speed, except these computing
+engines are extremely large machines of parallel small processors with very big data rates and often a big
+bandwidth. And so there, every company that is invested in that is doing their own thing and trying to be
+differentiated. And so they are truly specialty chips.
+
+And what is particularly interesting is a number of these are now splitting into multiple chips and that is
+why 3DIC Compiler is such an interesting product. Because after many, many years of worrying about
+Moore's Law may be slowing down a little bit, and it has slowed down somewhat, although it's much more
+alive than people think, this is a great answer if one can go to multiple chips that are extremely well
+connected. And so the specialty chips, as you call them, are the architectures that are precisely driving the
+notion of bringing more chips together.
+
+Now in that context, the prototyping is just as relevant because the other half of a product is the software
+that runs in it. And the more complex these specialty chips are, the more complex the software is and
+the more there is risk that the software doesn't work when the chip comes out or that the chip doesn't --
+wasn't quite responsive to the software it was intended to be on.
+
+That is where prototyping sits in the middle. It allows people to check and run their software before they
+actually have the hardware. And so I expect that we will see continued attention and growth to this and
+certainly, we are investing strongly in these areas.
+
+So bottom line is nobody will ever argue that strong orders is not a good thing. Obviously, we have to
+execute now in the next few quarters. We'll see what the global economy does. I think that semiconductor
+is actually in a good spot, relatively speaking to most other markets, and we have not seen a slowdown.
+
+Trac Pham
+Chief Financial Officer
+
+Jay, in addition to that, to your question regarding the restructuring, we're committed, and we remain on
+path to driving margins up over time. In addition to that, we'll continue to invest in the business because
+all of the segments that we're in, we're seeing good growth opportunities. The restructuring is really a
+reflection of fine-tuning the investments and making sure that we're placing heavier bets in the areas
+where we think we can get the best combination of growth and profitability.
+
+Operator
+
+And next we turn to the line of Jason Celino with KeyBanc.
+
+Jason Vincent Celino
+KeyBanc Capital Markets Inc., Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+First question, maybe Trac, can you maybe go into the comments around the pull forward of some
+revenues from Q3? Was this more on the EDA side or the hardware side?
+
+Trac Pham
+Chief Financial Officer
+
+Mostly on the EDA side. What we saw in EDA, particularly in Q2, was just a few shorter contracts, they're
+FSAs. And so we saw that benefit. And that's why you might see a little bit higher on the time base
+relative to the upfront. But overall, the profile for the year, there is really good growth and strength across
+the board.
+
+Jason Vincent Celino
+KeyBanc Capital Markets Inc., Research Division
+
+Great. And then my follow-up, the SIG margins did increase 300 basis points, probably the highest SIG
+margins that you reported since breaking that segment out. How much of this was from the restructuring,
+maybe the slower hiring? And then would you look to prioritize managing profitability for this segment,
+while the growth profile is a little more challenged?
+
+Trac Pham
+Chief Financial Officer
+
+It's a little bit of all those things that you described, you're right. The margins did come up to around
+13%. We mentioned at the beginning of the year that we were going to try to invest further in that
+business to invest for growth. I think we're still committed to that plan. And the profile from margins will
+kind of vary from quarter-to-quarter depending on the ramp up in expenses. I would extrapolate that out
+to the full year or as a new plan, we'll continue to balance investing the business while making sure it fits
+into the overall company. So…
+
+Operator
+
+And next we turn to the line of Krish Sankar with Cowen and Company.
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Maybe we can go to the next and come back to the gentleman.
+
+Operator
+
+Our -- next we turn to the line of John Pitzer with Crédit Suisse.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Aart, quick question just going back to China. I appreciate all the color you gave on the recent Huawei
+licensing news from last week and the military use. But I'm just kind of curious, just given how critical
+EDA is to the software to the semiconductor ecosystem and China's desire to kind of build that system out,
+you guys become a really important sort of pawn on the geopolitical sort of chessboard. And so I'm kind
+of curious, you break out Asia Pacific revenue, but you don't break out China revenue specifically. Can you
+help us kind of just ballpark that? And I guess as you look inside of China, what percent of the customers
+are you supporting in China today that if for some reason you couldn't, that demand would probably get
+soaked up somewhere else, i.e., Huawei can't ship into phones, but maybe MediaTek and Qualcomm can?
+And to what percent of the Chinese customers do you think are maybe a lot of start-ups that if you're not
+shipping to them that demand probably doesn't go elsewhere?
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Well, this is a very difficult hypothetical question because there's so many geopolitical forces de facto
+in play at the same time. I can tell you that so far, a number of companies have picked up very quickly
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+where others could not develop themselves. And I expect that to continue because after all, globally
+speaking, it's a very open market, and people jump in when there's an opportunity one way or another.
+And so really since the entity list came about, which was May last year, we obviously have learned how
+to live with that and really have not felt much change. Growth continues well in China. Actually, growth
+continues well overall in the world, but China, particularly. And there are many, many companies that are
+jumping in both there as well as in other parts of the globe.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+That's helpful. And then maybe for a follow-up, just back to SIG. I'm just kind of making sure I
+understand this. Is the growth sort of slowdown here a function of your inability to actually bring on new
+headcount and drive channel growth there? Or is it actual customer activity? And I guess I'm asking the
+question, I'm just trying to get a better sense of why the confidence that once we get through this COVID
+phenomenon growth will reaccelerate there. What metrics are you looking at to support that view?
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Sure. Well, I think the most objective answer has to be that it's a combination of the 2. Meaning that,
+yes, we did see a slowdown as a number of customers just have been sidetracked into their own survival
+challenges in different ways. And that tends to slow down this type of investment. At the same time, and
+you saw a little bit of that in our commenting that our hiring was slower than planned. That is our own
+execution that is in question. So bottom line is, we will need to put -- continue to put effort in bringing
+this part of Synopsys into a very good profile, and we're doing exactly that. Now what gives confidence,
+what gives confidence is that the problem is not shrinking at all, and the solution that we have is getting
+better and better. Now you say, well, that in itself doesn't give you money, but yes, you're right, we have
+to work for that. But the problem will continue to grow. And it will continue to grow because so many
+electronic systems are much more intertwined than they were before. And that will continue to happen in
+the present pathway that electronics is on. Therefore, there will be needed more assurances that the sub
+pieces have built in security in a variety of ways. That certainly is massively the case on software. But as a
+side note, will also increasingly be the case on the hardware side.
+
+So there's nothing that has changed in our opinion of this being a good market, a technically challenging,
+therefore, a particularly good market for us. And the combination of the overall situation and perhaps
+our own execution gave us -- led us to this point. But let's not underestimate, this is actually a very good
+business for Synopsys. It is now growing a bit slower than we wanted this year, but it is well on track to
+have a good future.
+
+Operator
+
+And speakers, we have no further questions in queue.
+
+Aart J. de Geus
+Co-Founder, Chairman & Co-CEO
+
+Well, in that case, let me first thank you to attend. My assumption is that, if not all of you, most of you
+attend from home. So we hope that your home situation, family situations, are also safe and sound. And
+all the more do we appreciate hearing your voice and having your support on a quarterly basis through
+these earnings releases. Please take care of yourself and be well. Bye-bye.
+
+Operator
+And ladies and gentlemen, that does conclude our conference for today. Thank you for your participation
+and for using AT&T conferencing service. You may now disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+SYNOPSYS, INC. FQ2 2020 EARNINGS CALL |  MAY 20, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+

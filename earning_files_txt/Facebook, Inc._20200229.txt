@@ -1,0 +1,1126 @@
+Facebook, Inc. NasdaqGS:FB
+FQ1 2020 Earnings Call Transcripts
+Wednesday, April 29, 2020 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2019-
+
+-FQ1 2020-
+
+-FY 2019-
+
+-FY 2020-
+
+CONSENSUS
+
+CONSENSUS
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+2.57
+
+1.71
+
+Revenue  (mm)
+
+20897.21
+
+17212.23
+
+0.00
+
+3.05
+
+8.52
+
+7.03
+
+70493.18
+
+74045.40
+
+Currency: USD
+Consensus as of  Apr-29-2020 6:36 AM GMT
+
+FQ1 2019
+
+FQ2 2019
+
+FQ3 2019
+
+FQ4 2019
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.60
+
+1.88
+
+1.88
+
+2.57
+
+1.89
+
+1.99
+
+2.12
+
+2.56
+
+18.12 %
+
+5.85 %
+
+12.77 %
+
+(0.39 %)
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+12
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+Call Participants
+
+EXECUTIVES
+
+David M. Wehner
+Chief Financial Officer
+
+Deborah T. Crawford
+Vice President of Investor
+Relations
+
+Mark Elliot Zuckerberg
+Founder, Chairman & CEO
+
+Sheryl Kara Sandberg
+COO & Director
+
+ANALYSTS
+
+Brian Thomas Nowak
+Morgan Stanley, Research Division
+
+Colin Alan Sebastian
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Youssef Houssaini Squali
+SunTrust Robinson Humphrey,
+Inc., Research Division
+
+Douglas Till Anmuth
+JP Morgan Chase & Co, Research
+Division
+
+Eric James Sheridan
+UBS Investment Bank, Research
+Division
+
+Justin Post
+BofA Merrill Lynch, Research
+Division
+
+Mark Stephen F. Mahaney
+RBC Capital Markets, Research
+Division
+
+Ross Adam Sandler
+Barclays Bank PLC, Research
+Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+Presentation
+
+Operator
+
+Good afternoon. My name is Mike, and I will be your conference operator today. At this time, I would like
+to welcome everyone to the Facebook First Quarter 2020 Earnings Conference call. [Operator Instructions]
+This call will be recorded. Thank you very much. Ms. Deborah Crawford, Facebook's Vice President of
+Investor Relations, you may begin.
+
+Deborah T. Crawford
+Vice President of Investor Relations
+
+Thank you. Good afternoon, and welcome to Facebook's First Quarter 2020 Earnings Conference Call.
+Joining me today to discuss our results are Mark Zuckerberg, CEO; Sheryl Sandberg, COO; and Dave
+Wehner, CFO.
+
+Before we get started, I would like to take this opportunity to remind you that our remarks today will
+include forward-looking statements. Actual results may differ materially from those contemplated by
+these forward-looking statements. Factors that could cause these results to differ materially are set
+forth in today's press release and in our annual report on Form 10-K filed with the SEC. Any forward-
+looking statements that we make on this call are based on assumptions as of today, and we undertake no
+obligation to update these statements as a result of new information or future events.
+
+During this call, we may present both GAAP and non-GAAP financial measures. A reconciliation of GAAP to
+non-GAAP measures is included in today's earnings press release. The press release and an accompanying
+investor presentation are available on our website at investor.fb.com.
+
+Finally, we hope that everyone listening today is staying safe. The vast majority of us at Facebook are
+working productively from home, and everyone on this call this afternoon has dialed in remotely.
+
+And now I'd like to turn the call over to Mark.
+
+Mark Elliot Zuckerberg
+Founder, Chairman & CEO
+
+All right. Thanks, everyone, for joining us today. Before we get started, I also just want to say that I know
+that this is a very hard time for a lot of people. I know a lot of you are calling in from New York, where
+this has been particularly tough, although almost everyone has been affected by what's going on in some
+way. So I just want to start by acknowledging that, and taking a moment to thank everyone working on
+the front lines to help all of us get through this.
+
+There is a lot of uncertainty now about the world and what it will look like over the coming months. And
+Sheryl and Dave are going to give some more context on what that means for our business. The impact on
+our business has been significant. And I remain very concerned that this health emergency and, therefore,
+the economic fallout will last longer than people are currently anticipating. And while there are massive
+societal costs, from the current shelter in place restrictions, I worry that reopening certain places too
+quickly before infection rates have been reduced to very minimal levels, will almost guarantee future
+outbreaks and worse longer-term health and economic outcomes.
+
+So with that said, I want to use this time today to discuss how we're responding to COVID, what we're
+seeing across our services and some reflections on how we plan to run the company going forward.
+
+So response has been focused on 3 areas: helping people stay connected while we're all apart; assisting
+the public health response; and working on the economic recovery, especially for small businesses. Now
+I'll start with how we're assisting the public health response.
+
+The first step here is connecting people with authoritative health information. And we built a COVID-19
+information center with authoritative information from health officials and governments and messages
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+encouraging people to stay home, that are coming from public figures they trust. And we put this
+COVID-19 information center at the top of everyone's Facebook app. And so far, we've directed more
+than 2 billion people to it. Equally important is also limiting the spread of misinformation. We don't allow
+content that puts people at imminent risk of physical harm. So when people share hoaxes, like that
+inhaling water cures COVID, which is both false and will be physically harmful if anyone does that, we
+take that down. For other types of misinformation, we partner with independent fact checkers who have
+marked more than 4,000 pieces of content related to COVID as false, which has resulted in more than 40
+million warning labels being seen across our services. And we know that these work because 95% of the
+time when someone sees a warning label, they don't click through to view that content.
+
+Now beyond helping people broadly access high-quality information, we're also focused on helping
+governments and health authorities get better data in a privacy protective way to inform key policy
+decisions that they need to make as well. So we partnered with Carnegie Mellon to run a widespread
+symptom survey on Facebook, and we're using their findings to produce daily county-by-county maps
+of the symptoms that people are experiencing across the country and soon globally as well. And since
+people experiencing symptoms is a precursor to them going to the hospital or getting more seriously ill,
+this tool can help local governments and health officials plan how to allocate scarce resources, like PPE
+and ventilators as well as determine when it's safe to start reopening an area, or when an area will need
+to have tighter shelter orders if symptoms reemerge. And just this morning, we announced that we're
+working to connect these symptom surveys to ground truth infection rate data from large serology and
+PCR studies that are funded separately by the Chan Zuckerberg Initiative in order to more accurately
+determine the true infection and exposure levels globally on a local region basis as well. So this is work
+that we're uniquely positioned to do because Facebook is a global community, and people use their
+authentic identities on our service. So that means that we can make sure that the data is meaningful. But
+we're very focused on doing this in ways that we know are going to be helpful to the health response, and
+that protect people's privacy and human rights, which is why we've primarily focused on how aggregate
+data can help.
+
+Now outside of Facebook, Priscilla and my work at the Chan Zuckerberg Initiative with -- alongside leading
+experts and science and health, continues to inform my views on the best ways for us to assist in this
+health response, and also what we should expect going forward with this disease.
+
+All right. So next, I want to discuss how we're helping people stay connected with the people they care
+about, even while we can't be together during this period. So this is our core mission, and I'm proud of
+how we've supported people around the world during this time. We know that people especially rely on
+social apps in times of crisis, and in times when we can't be together in person. And right now, we are
+experiencing both of those all around the world at the same time. So we're seeing major increases in use
+of our services. For the first time ever, there are now more than 3 billion people actively using Facebook,
+Instagram, WhatsApp or Messenger each month. That includes 2.6 billion people using Facebook alone
+and more than 2.3 billion people using at least one of our services every day. In many of the places that
+have been hardest hit by the virus, messaging volume has increased more than 50%, and voice and video
+calling have more than doubled across Messenger and WhatsApp.
+
+In Italy, for example, we've seen up to 70% more time spent across our apps; Instagram and Facebook
+Live views doubled in 1 week; and we've also seen time and group video calling increased by more than
+1,000% over March. So making sure that our services are stable and reliable during this period is a
+top priority. We're monitoring usage closely and adding capacity in our data centers where we can. The
+investments we've made in shared infrastructure that power all of our different services over the years
+have helped us manage through this. But it has been a challenge while all our teams have been working
+remotely.
+
+Now I'm sharing these numbers to give you a sense of a surge in people relying on these services that
+we're seeing. Obviously, I wish the circumstances were different. And I don't expect that this exact spike
+in usage will sustain over a longer period of time. But in some areas, I think we are seeing an acceleration
+in pre-existing long-term trends, like the dramatic increase in online private social communication that is
+likely to continue. And if nothing else, this usage shows that for a lot of people around the world, these
+services are part of the social infrastructure that brings us together.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+Now even before COVID-19, our product strategy is already focused on building out private social
+platforms and enabling online commerce, so it's well aligned with what people need now. Last week, we
+announced a number of new product improvements around video presence, which has emerged as an
+especially critical part of the private social platform during this time. Our view is that video presence
+includes 3 categories: video calling, video rooms and live video. And we plan to lead and offer the best
+services for social uses in each of those different categories.
+
+Now video calling is when you actually ring a person's phone or computer, and it's by far the most used
+type of video chat. Between WhatsApp and Messenger, there are more than 700 million daily actives
+participating in calls. We're doubling the size of WhatsApp video calls from 4 to 8. And this is important
+because WhatsApp is the most popular end-to-end encrypted calling service. So if you care about privacy
+and encryption, and you want to be able to reach anyone, you're probably using WhatsApp. And now
+you're going to be able to get your whole family or a larger group together on calls.
+
+For video rooms, we announced a completely new product called Messenger Rooms. And the idea here
+is that you can create a room for any activity or event you want, send a link to your friends or have
+them discover your room on Facebook, and then they can just drop in and hang out for a bit. And this is
+different from any other video presence experience because it is serendipitous. You don't have to plan out
+an event and schedule in advance if you don't want. It could be much more spontaneous and fun. And I've
+really enjoyed getting to use this as we've been building out Messenger Rooms internally, and I'm looking
+forward to getting it in more people's hands around the world soon.
+
+Live video is also particularly important right now. People used to primarily livestream physical events,
+but since almost no one is planning physical events right now, live streaming has become the primary
+venue for many events, whether that's the Pope's weekly mass on Facebook Live or DJs hosting dance
+parties on Instagram. Every day, more than 800 million daily actives are engaging with livestreams across
+workout classes, concerts and more. And we pivoted the Facebook events team to help people create
+online events, including enabling people and small businesses to charge people to join their events in
+order to support small businesses that rely on in-person services before.
+
+The last area of our response that I want to discuss is how we're helping with the economic recovery,
+especially for small businesses. Sheryl will talk about this more, but with so many businesses forced to
+close their physical storefronts, more are looking to build their digital presences. And those which already
+invested in their digital presences are increasingly viewing them as their primary storefronts. So we're
+working on a number of ways to deepen this experience, helping people buy items and services directly
+within our apps. And we're going to have a lot more to share on this soon.
+
+Overall, though, our business depends on the success of small businesses, so this is a moment where we
+feel that we're well positioned to be champions for small business' interests and supporters of important
+infrastructure that they're going to need in order to move online.
+
+One aspect of online commerce that I want to mention is the partnership that we just announced with
+Jio Platforms in India. The largest Facebook and WhatsApp communities in the world are in India, and we
+think that there's an especially important opportunity to serve small businesses and enable commerce
+there over the long term. So by bringing together JioMart, which is Jio's small business initiative to
+connect millions of shops across India, with WhatsApp, we think that we're going to be able to create a
+much better shopping and commerce experience. And there's a lot more that we can do here, and I'm
+looking forward to making progress with the team at Jio.
+
+Now beyond our immediate plans to help respond to the pandemic, I also want to share some reflections
+on how we're planning to run the company during this period. I have always believed that in times of
+economic downturn, the right thing to do is to keep investing in building the future, and I believe this
+for a few reasons. First, when the world changes quickly, people have new needs, and that means that
+there are more new things to build. Second, since many big companies will pull back on their investments,
+there are a lot of things that wouldn't otherwise get built but that we can help deliver. And the third, I
+believe that there's a sense of responsibility and duty to invest in the economic recovery and to provide
+stability for your community and stakeholders if you have the ability to do so. And we're in a fortunate
+position to be able to do this. Along with our strong financial position and the important social value our
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+services provide, we're planning to hire at least 10,000 more people in product and engineering roles this
+year so we can continue building and making progress. That said, with advertisers spending less and our
+business performance below expectations, we do plan to moderate some areas of our expense growth,
+especially in business functions. We accepted that our profit margins will decrease this year as we continue
+investing, and Dave will share more on our financial outlook in a few minutes. But this economic pullback
+has certainly reinforced for me the importance of maintaining high margins. Our financial position has
+allowed us to continue investing in building products and making investments like our partnership with Jio
+even when the underlying economic conditions are challenging.
+
+Now as always, I am grateful to everyone on this journey with us, and that's especially true during this
+period. As our services play an especially important role right now in helping people stay connected, in
+assisting the public health response and working on the economic recovery. I really want to thank all of
+our employees who are working hard to deliver these services, and everyone who has believed in us and
+supported our company over the years to help us get to the point where we can deliver these services for
+people around the world.
+
+So thank you. And with that, here is Sheryl to talk more about our business.
+
+Sheryl Kara Sandberg
+COO & Director
+
+Thanks, Mark, and hi, everyone. As Mark said, this is an extraordinarily challenging time. It's a public
+health emergency, a global economic crisis, and a time of great anxiety and personal tragedy for so many.
+My heart goes out to everyone on this call who has lost someone they love, and to everyone for the many
+ways so many are suffering.
+
+Mark talked about how our company has responded during this emergency to keep people safe and
+informed, how we see our responsibilities and how we are thinking about the future. I'm going to talk
+more about the impact we have seen in our business and what we are doing to help other businesses
+survive and recover in this changing landscape.
+
+Our total ad revenue for Q1 was $17.4 billion, which is a 17% year-over-year increase. After a strong
+start to the quarter, we saw a significant impact on our business as a consequence of the pandemic from
+the second week of March onwards. This impact has not been felt evenly. We've seen strong growth in
+gaming and relative stability in technology and e-commerce, which is one of our largest sectors. There are
+a few contributing factors here: first, as people stay at home, these sectors are seeing more use of their
+products and services; second, advertisers in these sectors tend to optimize for measurable objectives,
+and we are generating sales at lower prices due to the overall reduction in ad demand. On the other hand,
+we've seen significant declines in travel and auto as these industries have been hit particularly hard. These
+trends are continuing in the first 2 weeks of Q2, and Dave will share more on this shortly.
+
+Companies of all types are adapting to a world where people aren't walking into their stores or seeing
+their brand on billboards. With more people spending time on our products and services than ever before,
+we are focused on continuing to deliver free and paid tools to help businesses reach the right people at
+the right time, and on finding new ways to support those struggling to keep the lights on and pay their
+employees.
+
+People are looking for businesses on Facebook and Instagram, more than usual during this crisis, so our
+free products are particularly important to the many brick-and-mortar businesses pivoting quickly online.
+Even in the United States, before the crisis, 1 in 3 companies didn't have a website because they can be
+expensive and difficult to set up even in the best of times. A Facebook page or Instagram business profile
+is free, and in a matter of minutes, established as a digital storefront. Many are finding creative ways to
+engage their customers using our free products from gyms offering workouts on Facebook Live, to stores
+and restaurants using WhatsApp and Messenger to reach customers with delivery options.
+
+In Thailand, when Penguin Eat Shabu closed the doors of its 9 restaurants, they started selling to-go
+boxes. They promoted them with Facebook posts and customers could order through Messenger, and they
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+got 350 sales in 1 minute. A second offer led to 2,500 hot pot sales. After initially putting their employees
+on unpaid leave, these sales increased their revenue and helped restore employees to full pay.
+
+Marketers of all sizes have more limited budgets so they need to make every dollar work as hard as
+possible. That means measuring the value of their advertising is more important than ever, which is
+something our personalized ads provide. For years, we have made major investments in systems and tools
+that enable businesses to easily understand their return on investment. In the current environment, these
+investments are paying off.
+
+We are also launching new products to help businesses adapt to changing circumstances. Our teams
+moved quickly to make gift cards available on both Facebook and Instagram, giving customers the option
+to support businesses by paying upfront for products and services they can use later. We also made
+it possible for people to create fundraisers for local businesses with a few simple clicks. Fundraisers
+have been available to support nonprofits and people since 2015. But given the overwhelming interest
+in helping small businesses weather the storm, we made these tools available for businesses as well,
+something we never expected to do.
+
+We also launched temporary service changes to make it easier for businesses to share critical information
+like inventory updates, shipment details or new ways to buy. For example, if a restaurant needs to shift
+to a delivery model, they can now add food delivery links to their Facebook page or Instagram business
+profile. Creating these products quickly in the current environment wasn't easy, and I am grateful to our
+product and engineering teams who are executing so well working from home.
+
+The Business Resource Hub we launched in early May is a one-stop shop where businesses of all sizes can
+find support and virtual training that can help them migrate online. People can take courses on everything
+from how to connect with customers via messaging and Facebook Live to how to increase online sales.
+We are fortunate to be in a strong financial position. We can continue to pay all of our employees and
+contractors during this difficult time, which is why we believe we have a real responsibility to help others,
+especially small businesses around the world. In mid-March, we announced a $100 million grant program
+to help 30,000 small businesses across the more than 30 country we call home. Applications open this
+month, and we are focused on getting cash into their hands as soon as possible. Economic crisis hit
+vulnerable communities the hardest, especially women and women of color and the families who depend
+on them. That's why half of the grants available in the U.S. are earmarked for women minority and
+veteran-owned businesses. We have also worked closely with the U.S. government's small business
+administration to spread the word to small businesses about how to apply for relief loans reaching 30
+million accounts across Facebook and Instagram with this information.
+
+Businesses aren't the only ones facing hardship. Newsrooms are too. At a time when critical information
+is needed to keep community safe, news organizations are seeing steep declines in ad revenue. In late
+March, we announced a $100 million investment to support the news industry, with $25 million in grant
+funding for local news organizations and $75 million in marketing spend to get money to publishers.
+
+We have a responsibility to help during this uncertain time by connecting billions of people when they
+are separated physically, getting vital health information on to people on a dramatic scale and helping
+small businesses survive. I want to close by saying how grateful I am to our partners and teams around
+the world. During this unprecedented time, we are trying to stay closer than ever to businesses large
+and small as they adapt to these significant challenges. I also want to thank our teams for ensuring
+our services keep running and working so hard to launch new products so we can continue making a
+real difference in people's lives. This is such a difficult period for everyone, and we are grateful for the
+important work that is being accomplished by so many.
+
+Now here is Dave.
+
+David M. Wehner
+Chief Financial Officer
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+Thanks, Sheryl, and good afternoon, everyone. Echoing Mark and Sheryl's comments, my thoughts are
+with everyone facing challenges during this difficult and unprecedented time. Before turning to results, I
+wanted to comment briefly on Facebook's operating posture during the crisis.
+
+We took early action to ensure that all our employees were safe and moved to a global work-from-home
+status on March 6 in the week prior to the WHO declaring COVID-19 a global pandemic. We are currently
+operating with over 95% of our full-time employees working from home, with safety being the #1 priority
+for those essential workers who need to come in to our data centers and other facilities. We have been
+able to both support our existing employees and to onboard new employees throughout this period. While
+we are by no means operating at 100% of capacity across every dimension of our operations, we have
+continued to ship new product releases, maintain service availability, review content and stay connected
+with our business customers. Given the circumstances, we have been pleased with the dedication and
+professionalism with which the Facebook team is tackling the challenges presented by this crisis.
+
+Now turning to the results. The COVID-19 pandemic is having a broad impact on our community metrics,
+revenue, expenses and business operations. Our community metrics reflected increase -- reflect increased
+engagement as people around the world have sheltered in place. It's gratifying that people are using our
+family of apps to stay informed and to connect with people and organizations that they care about. In
+March, we estimate that, on average, 2.3 billion people used at least one of our services on a daily basis
+and that approximately 3 billion people were active on a monthly basis.
+
+We have seen increased usage across all of our services, particularly in markets that have been most
+impacted by the virus, including a surge in video and voice calling on Messenger and WhatsApp. People
+around the world have increasingly turned to Facebook as well. Daily active users reached 1.73 billion, up
+11% compared to last year. DAUs represented approximately 67% of the 2.6 billion monthly active users
+in March. MAUs grew 228 million or 10% compared to last year. We expect that we will lose some of this
+increased engagement when shelter-in-place restrictions are relaxed and life returns to a more normal
+cadence which we all look forward to.
+
+Turning now to the financials. Q1 total revenue was $17.7 billion, up 18% or 19% on a constant currency
+basis. Had foreign exchange rates remain constant with Q1 of last year, total revenue would have been
+$275 million higher. Q1 ad revenue was $17.4 billion, up 17% or 19% on a constant currency basis.
+Again, the COVID-19 pandemic had a meaningful impact on our revenue. Revenue was strong from the
+beginning of the quarter through the first week of March when we began to see a steep slowdown in our
+ads business. Particularly in countries that implemented shelter-in-place measures to reduce the spread of
+the virus.
+
+As Sheryl mentioned, there was a great deal of variability by vertical. During the last 3 weeks of March,
+travel and auto were our weakest verticals, and we saw relative strength in gaming, technology and e-
+commerce. These trends have continued into Q2. We have seen relatively comparable pullbacks amongst
+large and small advertisers. COVID-19 had an impact across the globe in Q1. On a regional basis, ad
+revenue growth was strongest in Asia Pacific at 21%, followed by U.S., Canada, Europe and rest of world
+at 16% each.
+
+Turning now to our price and volume metrics. In Q1, the total number of ad impressions served across
+our services increased 39%, and the average price per ad decreased 16%. The growth of impressions
+was primarily driven by Facebook mobile News Feed due to product optimizations we made prior to the
+pandemic as well as from increased engagement that I talked about earlier. The decline in average price
+per ad was largely attributable to the reduction in advertiser demand during the last 3 weeks of March.
+Other revenue was $297 million, up 80% driven primarily by sales of Oculus products. As a reminder, we
+launched Quest in May 2019.
+
+Turning now to expenses. Q1 total expenses were $11.8 billion, up 1% on a reported basis. Excluding the
+$3 billion expense we recorded in Q1 related to our settlement with the FTC Q1 of last year, that is related
+to our settlement with the FTC, total expenses were up 35% year-over-year. Cost of revenue increased
+23%, driven primarily by depreciation related to our infrastructure spend. R&D grew 40% and was
+driven primarily by investments in core product as well as our innovation efforts, particularly in AR/VR.
+Marketing and sales grew 38% and was driven by consumer and growth marketing. Finally, excluding the
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+FTC expense from Q1 of 2019, G&A grew 49%, driven partially by an increase in estimated credit losses
+related to COVID-19. We had over 3,300 net new hires in Q1, primarily in technical functions and ended
+the quarter with over 48,000 full-time employees, up 28% compared to last year. As I mentioned earlier,
+we continue to recruit and onboard new employees successfully while in a work-from-home environment.
+
+Operating income was $5.9 billion representing a 33% operating margin, and our tax rate was 16%. Net
+income was $4.9 billion or $1.71 per share. Capital expenditures were $3.7 billion driven by investments
+in data centers, servers, office buildings and network infrastructure. We had $7.3 billion of free cash flow
+in the quarter, and we repurchased $1.2 billion of our Class A common stock. We ended the quarter with
+$60.3 billion of cash and investments.
+
+As I mentioned last quarter, though we booked the FTC expense in 2019, we did not pay the $5 billion
+settlement amount until the -- after the first quarter of 2020 closed. In addition, this past week, as Mark
+mentioned, we signed an agreement to invest approximately $5.7 billion into Jio Platforms in India. Our
+strong balance sheet proved to be an important asset this quarter, enabling us to commit to a long-term
+growth priority in India even in the midst of a troubled global economy.
+
+Turning now to the outlook. With the COVID-19 crisis, like all companies, we are facing a period of
+unprecedented uncertainty in our business outlook, certainly in the nearly 8 years I've been with
+Facebook. We expect our business performance will be impacted by issues beyond our control, including
+the duration and efficacy of shelter-in-place orders, the effectiveness of economic stimuli around the
+world and the fluctuation of currencies relative to the U.S. dollar. On the latter point alone, since the WHO
+declared COVID-19 as a pandemic, we have seen the U.S. dollar appreciate 5% relative to the foreign
+currencies we do business in.
+
+Given the increasing uncertainty in our business outlook, we are not providing specific revenue
+guidance for the second quarter or full year 2020. Rather, I would like to provide a snapshot of revenue
+performance in the second quarter thus far. There is a tremendous amount of macro uncertainty. So it's
+difficult to extrapolate performance based on a small sample of data. After an initial steep decrease in ad
+revenue in March, we have seen signs of stability reflected in the first 3 weeks of April. Ad revenue has
+been approximately flat compared to the same period a year ago, down from the 17% year-over-year
+growth in the first quarter of 2020. The April trends reflect weakness across all of our user geographies
+as most of our major countries have had some sort of shelter-in-place guidelines in effect. We are
+understandably cautious given that most economists are forecasting a global GDP contraction in Q2,
+which, if history were a guide, would suggest the potential for an even more severe advertising industry
+contraction.
+
+In terms of expenses, we are continuing to monitor the COVID-19 situation and its impact on our business
+and operations, and we'll adjust our plans accordingly. We expect to realize operational savings in certain
+areas, such as travel, events and marketing as well as from slower head count growth in our business
+functions. However, we plan to continue to invest in product development and to recruit technical talent.
+In addition, we have committed over $300 million to date in investments to help our broader community
+during this crisis, which will have an impact on our financial performance this year. As a result, we expect
+total expenses in 2020 to be between $52 billion and $56 billion, down from the prior range of $54 billion
+to $59 billion. While this reflects a moderate reduction in the planned growth rate of total expenses, our
+overall expense growth in the face of expected revenue weakness will have a negative impact on our 2020
+operating margins.
+
+Turning now to capital expenditures. Our significant investments in infrastructure over the past 4 years
+have served us well during this period of high user engagement. We plan to continue to grow our CapEx
+investments to enhance and expand our global infrastructure footprint over the long term. In 2020,
+we now expect capital expenditures to be approximately $14 billion to $16 billion, down from our prior
+range of $17 billion to $19 billion. This reduction reflects a significant decrease in our construction efforts
+related to shelter-in-place orders. Given the strong engagement growth and related demands on our
+infrastructure, this year's CapEx reduction should be viewed as a deferral into 2021 rather than savings.
+
+Turning now to tax. We expect our full year 2020 tax rate will be in the high teens, although we may see
+fluctuations in our quarterly rate depending on our financial results.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+Our thoughts are with those in the community who are facing health challenges during this crisis and with
+those health care workers on the front lines. We are also mindful of the challenges many businesses are
+facing in this crisis, including the 140 million small businesses who use our platform. Our focus is, first and
+foremost, on helping our broad community navigate these challenges.
+With that, Mike, let's open it up for questions.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Brian Nowak from Morgan Stanley.
+
+Brian Thomas Nowak
+Morgan Stanley, Research Division
+
+I have 2. Just the first one for Sheryl or Dave, I appreciate all the color on the different ad verticals
+between gaming, e-commerce, travel and autos, et cetera. I guess I'd be curious to hear about sort of
+what happened in the decline in the ad business you saw in March compared to the stability in April, sort
+of what changed in those verticals? And then understanding you're not giving guidance, but talk to us
+about some of the key verticals that would be needed to sort of bring the business back to growth as we
+go throughout the year. And then the second question for Mark, you talked a little bit about SMBs. I'd
+be curious to hear about some of the key investment areas and initiatives you really think you need to
+execute on to make the SMB offering more comprehensive in '21 and beyond.
+
+David M. Wehner
+Chief Financial Officer
+
+Okay, Brian. Did you want to take that, Sheryl?
+
+Sheryl Kara Sandberg
+COO & Director
+
+Yes, why don't you go first and I'll go second. You take the first. I'll take the second.
+
+David M. Wehner
+Chief Financial Officer
+
+Yes. Sure. Sorry, we're doing our coordination. So Brian, yes, the trends that we saw in the end of Q1,
+we saw a pullback -- pretty broad-based pullback, especially concentrated in some of the areas that we
+talked about, things like travel and auto, but really kind of broad-based, large and small advertisers. We
+saw relative strength even then in a few categories like gaming, where you have always-on campaigns
+that we're able to pick up some supply because the lower pricing kind of cleared at the levels that those
+advertisers were trying to acquire users at. So that is one of the benefits of the auction. And then e-
+commerce, we've seen was not as strong as gaming, but we've seen that show signs of stability as well
+and all of those trends sort of continued into Q2. So I don't think there's a lot of vertical shifts, but I
+think we've seen e-commerce sort of do reasonably well. What we're seeing is really, I think, pretty
+straightforward. We're seeing people who are driving towards online conversion events do well because
+they're able to -- they're able to kind of bid in the auction and get those users and get those results that
+they're looking for. And people who are like looking for off-line or more top-of-funnel brand, there, we've
+seen more pullback in spend.
+
+Sheryl Kara Sandberg
+COO & Director
+
+To your second question on SMBs, there's really 2 parts to this. One is what are we doing now to help
+SMBs weather the storm and come back to the business and be able to pay their employees. And the
+second is the ongoing ad work we do. On the first, I think we've been really focused. We came out early
+with our $100 million grants program, and we're rolling it out very aggressively around the world, trying
+to get money to people very quickly. And we're building specialized products we never would have thought
+of before. Fundraisers were something that we did for nonprofits, for people, not small businesses. So in
+this very difficult time for SMBs, we're really focused on doing everything we can to help them survive and
+even thrive as they help transition online.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+SMBs are also a major part of our business going forward. And on there, it's really the execution we
+do quarter after quarter to make our ads perform. We offer very personalized ads that can be directly
+targeted at small groups. We do that in a very privacy protective way. And those ads are often most
+important for small businesses who can't afford to buy broad-based media. And so all of the work we do to
+continue to allow targeting all of the work we do to make the ads more personalized, all of the work we do
+to make free tools available, which is important for all the online businesses who use our free tools. There
+are 140 million of them as well as the 8 million who are our advertisers and the funnel between those.
+That's the nuts and bolts of our business. We work on it every day. We're continuing to work on it every
+day through this crisis, and we'll continue beyond that.
+
+Operator
+
+Your next question comes from the line of Doug Anmuth from JPMorgan.
+
+Douglas Till Anmuth
+JP Morgan Chase & Co, Research Division
+
+I have 2, I think, probably both for Mark. First, I was hoping you could talk more about the functionality
+of WhatsApp and perhaps other platforms as you expand in India with the Jio Platforms partnership. Are
+there other markets where you could see something similar? Or is the strategy here unique to India?
+And then second, just given the increased engagement with communication tools and voice and video, in
+particular, how is that translating into increased activity in the Feed and within Stories?
+
+Mark Elliot Zuckerberg
+Founder, Chairman & CEO
+
+Sure. I can speak to the first one, and Dave and -- see if there are any stats in particular to share on the
+second one. And for commerce on WhatsApp more broadly, we're very focused on making it. So that small
+businesses can have a presence on all of the apps, right, Facebook, Instagram, WhatsApp and Messenger,
+and can communicate organically with people and then increasingly can do things that can help them drive
+transactions. So we've started rolling out things like catalogs in WhatsApp. We're working on payments
+to build the complete transactions. And we've rolled out a new ad format click to messaging ads, where
+basically a lot of small businesses and different businesses are finding that their message threads with
+people perform better for driving sales than their websites or other presences. They basically buy ads
+inside Facebook or Instagram that send people to chat threads. And then as we build out all these tools
+around that -- around making those threads more valuable, we think that those ads will only increase in
+value, which is the way we're currently thinking about that business.
+
+In India, with Jio, Jio has had this vision for a while. I want to be careful not to put words in their mouth,
+but just from what they've basically described both to us and publicly, about their JioMart vision is there
+are millions of small businesses and shops across India, and they want to try to help get them onto
+a single network that you'll be able to communicate with through WhatsApp and do payments online
+through WhatsApp. So I think of that is a great, very large example of how we can wire up and help small
+businesses in the country where we have the largest WhatsApp community. But certainly, all the products
+and technology that we're building to enable that partnership are going to be things that we want to do
+around the world. So we're very excited about working with them to drive this vision forward, and then
+extending it everywhere over the coming months and years. I mean, Dave, I don't know if you want to
+say anything about the second point. I think it's -- at a high level, I mean, you may have stats that you
+want to share, but I think it's -- we have seen a broad-based increase in use of the product. It's hard to
+know what is just correlated with the pandemic versus people are doing more video chat or messaging.
+So therefore, they also connect more in other parts of the product. But I do think, overall, we believe that
+providing a broad set of social tools for people is -- and just providing more value for people does accrue
+to all of the different services, which is important because, as you know, some of the services for our
+business, we include ads in and some we don't.
+
+David M. Wehner
+Chief Financial Officer
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+Yes. And the only thing I'd add there is, we talked about the 39% increase in ad impressions, and that's
+really driven by engagement increases on our Feed products and Stories products as well as the surge that
+we've seen in the video and messaging. So it really wasn't limited to video on messaging. It was broad-
+based, as Mark said, and that's creating supply on the ad impression side as well.
+
+Operator
+
+Your next question comes from Justin Post from Bank of America Merrill Lynch.
+
+Justin Post
+BofA Merrill Lynch, Research Division
+
+Sheryl, maybe you could talk a little bit about the ad auction dynamics. Are you seeing e-commerce
+and digital replace auto and other categories? And how efficiently is that auction working? And secondly,
+can you give us any color on percent of ads that come from direct response versus brand or maybe CPC
+bidding versus CPM?
+
+David M. Wehner
+Chief Financial Officer
+
+Sure. I can take that, Justin. In terms of the ad auction dynamics, yes, I mean, we are seeing -- when a
+vertical is doing better than the other or people fall out of the auction, we have very dynamic content. It's
+-- and so we're able to backfill that with other bids from other clients. So we're seeing a lot of bidding into
+the system from gaming and e-commerce. As prices come down, it's also more economic and they can get
+the ROIs that they want. So it's a natural way in which those -- that happens and you see a replacement
+effect there. So that's working well. Far more -- by far, the majority of our revenue -- we haven't given
+a specific number on what is direct response, but it's really -- for many years, driven our business, it
+continues to drive our business. And I would say, if anything, COVID has accentuated the importance of
+people who are bidding for online conversions. And so I think we've seen a falloff in some of the more
+sort of broad-based brand advertising right now. And really a focus on those things that are driving direct
+results today, which isn't really surprising, given the economic climate.
+
+Operator
+
+Your next question comes from the line of Ross Sandler from Barclays.
+
+Ross Adam Sandler
+Barclays Bank PLC, Research Division
+
+Just a follow-up to the last question. I think about 4 years ago, you mentioned that the top 100
+advertisers were just under 25% of revenue and coming down. So I guess, how does that mix look today?
+And Dave, I think you mentioned large and small advertisers were kind of pulling back in March and then
+into April, you've got about the same rate. But any more pronounced decel from large versus small, any
+color there? And then second question is, Mark, you mentioned in your opening remarks that something
+along the lines of high margins are important to the company, especially given the economic environment.
+So how do you think about balancing levels of investment with revenue over the long term. Has your
+thinking around that changed versus, I think, you mentioned in a comment maybe 2 years ago, has
+anything changed in the way you're thinking about margins.
+
+David M. Wehner
+Chief Financial Officer
+
+Ross, it's Dave. I'll take that first one. Yes, we've seen sort of a pullback of advertising from both large
+and small advertisers. And I would say, given the uncertain economic climate, we know SMBs are getting
+hit hard. But our business is quite diversified, and there's no one size fits all for SMBs. We've got some
+businesses that are obviously suffering greatly from the shelter-in-place orders, and then we have SMBs
+who are also digital natives and have online objectives, and those are doing relatively better. So we've got
+SMBs who are in gaming and e-commerce and the like. So we are seeing -- we are seeing, I think, a fairly
+diverse range of SMBs. And I would say in terms of the diversity of our business, that remains very high.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+We're not concentrated, but we haven't updated that specific stat that we gave back 4 years ago, but we
+remain very diversified from an advertiser perspective.
+
+Mark Elliot Zuckerberg
+Founder, Chairman & CEO
+
+Sure. I can talk to the margins a bit. Overall, I think during a period like this, there are a lot of new things
+that need to get built. And I think it's important that rather than slamming on the brakes now, as I think
+a lot of companies may, that it's important to keep on building and keep on investing and building for
+the new needs that people have and especially to make up for some of the stuff that other companies
+would pull back on. And I think that's -- in some ways, that's an opportunity. In other ways, I think it's
+a responsibility to keep on investing in the economic recovery. So that's in the near term. But the other
+reflection that I've had is that I think if you're going to have a business, which is primarily advertising
+which is our plan for the long term, then I think you have to recognize that advertising is more volatile
+and sensitive to the macro economy. And therefore, if you're going to have this kind of a business, I think
+you really want to maintain high margins. So in that way when we go through periods like this, you can
+make sure that we remain stable and healthy and able to keep on building the things that are important
+for the long term. So what I guess I'd want to just be clear on is that we are willing to accept a reduction
+in margins in the near term, but we understand, and I personally have an appreciation for the importance
+of maintaining high margins over time. So it's not that we're going to kind of take things down this year
+and then continue taking things down a lot in the future. I think over the coming years, if we invest a lot
+more now, I think we are going to look for ways to manage expenses to make sure that we can maintain
+high margins over time.
+
+Operator
+
+Your next question comes from the line of Youssef Squali from SunTrust.
+
+Youssef Houssaini Squali
+SunTrust Robinson Humphrey, Inc., Research Division
+
+Two questions. Mark, can you discuss the performance of your gaming platform including Oculus so far.
+How satisfied are you with the traction there? And what are you doing to better position the company
+to take advantage of the increased engagement we're seeing on other platforms, competing platforms.
+And maybe, Dave or Sheryl, can you speak to the trend you're seeing in markets where COVID-19 hit
+earlier, say, maybe January and February and how they're performing today? And any learnings from these
+markets?
+
+Mark Elliot Zuckerberg
+Founder, Chairman & CEO
+
+Sure. So I can talk a bit about games. We have a few big areas of investment here. One is just in our
+mobile apps, a massive amount of growth in live streaming. That's -- I talked about live video in my
+opening remarks, and people live streaming gaming content is certainly one big category that's growing
+quickly and that we're investing a lot in. So that, I think, is going quite well. We recently had some pretty
+big launches of an app in that area, and we're going to keep on investing there.
+
+And on the virtual reality side, this has always been a long-term vision. Quest has surpassed our
+expectations. I wish we can make more of them faster during this period. I do think that it's one of those
+areas where as people can't go out into the world as much, the ability to have technology that allows us
+to be physically present or feel present even when we can't be physically together, whether that's Quest
+or Portal, or any of the software that we're building around video presence, that stuff has certainly seen
+especially large spikes in usage. And it's possible that this brings -- accelerate some of the trends around
+adoption of things like virtual or augmented reality, but I'm not sure what will happen there long term. But
+in the near term, I'm quite pleased with how Quest is doing, and I wish we could make more of them.
+
+David M. Wehner
+Chief Financial Officer
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+Youssef, I'll take the second part of that question. So I think probably the market that would be most
+destructive would be a market like China. But I think for us, China is a bit different because we don't have
+users in China. So the business there is China-based advertisers reaching people outside of China. So it's
+hard to extrapolate too much from that. We did see a pullback of revenue in China earlier in the quarter.
+And we have seen a recovery there and a recovery -- but one thing that's hard to know is part of that is
+really kind of mixed up in the verticals as well. China tends to, for us, index pretty highly with gaming and
+e-commerce. And those segments that are driven towards online outcomes where we're seeing relative
+strength. So it's hard to really read too much into the experience.
+
+Operator
+
+Your next question comes from the line of Eric Sheridan from UBS.
+
+Eric James Sheridan
+UBS Investment Bank, Research Division
+
+Maybe 2, if I can. One bigger picture one. Dovetailing all of the comments around e-commerce, I'm
+curious if there's anything you're seeing in terms of the behavior of users on the platform that would make
+you want to accelerate or change the path of product development to capture some of the supply and
+demand you might be seeing as people want to sell in an omnichannel world and some of the demand
+that might be there on the buyer side to connect e-commerce broadly across Facebook's properties as an
+output of the current environment. And then, Dave, maybe if I could just ask one quickly. I don't think you
+called it out, but I am curious if you could identify the credit loss assumption in the quarter and what the
+number might have been. Or is that something we might have to wait for the 10-Q for?
+
+David M. Wehner
+Chief Financial Officer
+
+Mark, did you want to -- do you want to take the e-commerce? Or do you want me to do both?
+
+Mark Elliot Zuckerberg
+Founder, Chairman & CEO
+
+I mean I can talk to it briefly, and then you can add to it if you think that there's more. We are seeing
+increases in some of the consumer behavior around this. But I think the bigger thing is just that for all
+the small businesses that we serve, and a lot of small businesses that are out there that are still primarily
+physical, there's a -- there's been a big push to get online and to do more selling online. And I think that
+there are lots of opportunities for us to support them and building the tools that they need to do this.
+We're seeing a lot of businesses that were primarily physical, now moving towards selling stuff online for
+the first time, and we're seeing a lot of businesses that already had a digital presence now really transition
+to having their digital presence be their primary presence. And that -- I think that, that trend, while there
+may be some short-term spike, I do think plays into a pre-existing long-term trend. And we'll certainly
+want to accelerate that aspect of our product road map to make sure that we can serve a lot of those
+businesses during this period when it can help them with the recovery and get through this. So we're
+working on a lot of work streams there. We'll hopefully have more to share over the coming weeks.
+
+David M. Wehner
+Chief Financial Officer
+
+Yes, Eric, on the bad debt expense, that increased by $193 million, so that will be the number that's in
+the Q. And the majority of that relates to charges, obviously, that we're taking related to the COVID-19
+pandemic and our views on collectability of certain accounts in that environment.
+
+Operator
+
+Your next question comes from the line of Mark Mahaney from RBC.
+
+Mark Stephen F. Mahaney
+RBC Capital Markets, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+Two questions. Mark, at the very beginning, you talked about the economic fallout possibly lasting longer
+than people think. Just any detail behind that. Is there something you're seeing in the data? Is it your
+gut reaction? And then following up a little bit on Eric Sheridan's question, these kind of events, crises
+can create new, I don't know, paths, streams or whatever. So you talked about shopping. What about
+WhatsApp? There's a surge in usage of WhatsApp, is there something that's happened that makes it more
+interesting more -- for long term, more interesting as a monetization vehicle because of the surge in
+usage of WhatsApp?
+
+Mark Elliot Zuckerberg
+Founder, Chairman & CEO
+
+Sure. I can take those 2. I think that we'll see a meaningful economic hit, if I had to predict, for the period
+of the health emergency. And so I think that, as Dave said in his comments, the efficacy of the shelter-in-
+place orders and how well that's going, I think will be a big determinant of how long and how painful the
+economic fallout is from this. So there's certainly a range of outcomes. I don't think I have any particular
+insight that's not public or that you don't have, but I worry that this could be worse than at least some
+people are predicting.
+
+The -- what was the other question, was monetization on WhatsApp? I think that there's a huge
+opportunity on WhatsApp, if for no other reason than that it has 2 billion people using it, and we haven't
+done significant work on building out the business yet. I mean we have some tools there, but we're still
+early in the phase of -- we've built out WhatsApp business. There's tens of millions of businesses that are
+signed up and that are using that. So it's -- there's tremendous demand. People want to communicate
+with businesses. And we've been in the process of building out the infrastructure to do payments and
+more commerce. Ad units like what I mentioned around click-to-messaging ads are performing well. So
+I think all the indicators are positive. But it's just a generally untapped opportunity so far and one that
+we're -- that I think is very exciting to build out over the coming years.
+
+Operator
+
+Your last question comes from the line of Colin Sebastian from Baird.
+
+Colin Alan Sebastian
+Robert W. Baird & Co. Incorporated, Research Division
+
+Great. I guess, first, Dave, I was hoping -- I know this is not a key focus right now, but any updated
+thoughts or a time line on some of the targeting and measurement headwinds that you spoke about on
+the last call? And then with respect to both the ongoing investment priorities as well as the slower growth
+in head count, is there any way you could articulate which areas are seeing that slowdown versus those
+that are getting full support?
+
+David M. Wehner
+Chief Financial Officer
+
+Sure, Colin, I can take both of those. Yes. I mean, the targeting headwinds are having an impact on the
+business but obviously, that's dwarfed by the impact that COVID-19 is having right now. We continue to
+see the 3 factors around targeting, and this hasn't changed the regulatory pressures with GDPR, and CCPA
+and similar regulations. The moves by platforms that make third-party targeting and measurement more
+difficult and then our own moves on launching privacy controls. So these are impacting the whole industry,
+and we believe we're relatively well positioned. We've got a lot of first-party signal. That said, I think
+this will have a broad impact on return on investment and could affect what advertisers are able to find
+and acquire customers effectively for their businesses. They may not be able to grow as quickly as they
+otherwise could. And that could have a negative impact on their growth in the economy and obviously,
+revenue for us. So certainly, it's a challenging time to make it tougher for businesses to grow. But we're
+certainly -- continue to have that headwind in the longer term.
+
+Sorry, I did -- I forgot the investment priorities. We're continuing to focus on recruiting on the tech side,
+so products and engineering. So we're sort of fully going down that path. That's both our core product and
+sort of our innovation efforts. And we are slowing down head count in business functions. So some of the
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+functions related to things like advertising sales, slower in those departments, given the overall economic
+climate. And then there are certain areas there we're just finding efficiencies. There's less travel. There's
+less entertainment. I think that may persist for quite some time. So we're seeing savings there. And we're
+going to be looking at getting marketing efficiencies because obviously prices are coming down on the
+marketing front, so that we can get the same impact for less dollars and also for efficiencies on marketing
+spend. So those are the areas that I would call out.
+
+Deborah T. Crawford
+Vice President of Investor Relations
+
+Great. Thank you for joining us today. We appreciate your time. Stay safe, everybody, and we look
+forward to speaking with you again.
+
+David M. Wehner
+Chief Financial Officer
+
+Thanks, everybody.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for joining us. You may now
+disconnect your lines.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+FACEBOOK, INC. FQ1 2020 EARNINGS CALL |  APR 29, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+

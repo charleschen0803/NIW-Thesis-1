@@ -1,0 +1,1240 @@
+salesforce.com, inc. NYSE:CRM
+FQ1 2021 Earnings Call Transcripts
+Thursday, May 28, 2020 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ1 2021-
+
+-FQ2 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+GUIDANCE
+
+CONSENSUS
+
+EPS 
+Normalized 
+
+0.69
+
+0.70
+
+Revenue  (mm)
+
+4846.63
+
+4865.00
+
+Currency: USD
+Consensus as of  May-28-2020 7:07 PM GMT
+
+1.45
+
+0.38
+
+0.75
+
+3.07
+
+-
+
+3.82
+
+5033.78
+
+20754.01
+
+20000.00
+
+24692.89
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+FQ1 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.47
+
+0.66
+
+0.56
+
+0.69
+
+0.66
+
+0.75
+
+0.66
+
+0.70
+
+40.43 %
+
+13.64 %
+
+17.86 %
+
+1.45 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+12
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Amy E. Weaver
+President, Chief Legal Officer &
+Secretary
+
+Bret Steven Taylor
+President & COO
+
+Brian Millham
+President of Customer Success
+Group
+
+Evan Goldstein
+Senior Vice President of Corporate
+Planning and Operations Finance &
+Strategy
+
+Gavin E. Patterson
+Chairman of Europe, the Middle
+East & Africa and President & CEO
+of Salesforce International
+
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+
+Mark J. Hawkins
+President & CFO
+
+Parker Harris
+Co-Founder, CTO & Director
+
+ANALYSTS
+
+Brent John Thill
+Jefferies LLC, Research Division
+
+James Derrick Wood
+Cowen and Company, LLC,
+Research Division
+
+Mark Ronald Murphy
+JP Morgan Chase & Co, Research
+Division
+
+Sarah Emily Hindlian-Bowler
+Macquarie Research
+
+Stewart Kirk Materne
+Evercore ISI Institutional Equities,
+Research Division
+
+Terrell Frederick Tillman
+SunTrust Robinson Humphrey,
+Inc., Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+Presentation
+
+Operator
+
+Welcome to Salesforce Fiscal 2021 First Quarter Results Conference Call. [Operator Instructions] I would
+now like to hand the conference over to your speaker today, Mr. Evan Goldstein, Senior Vice President of
+Investor Relations. Sir, you may begin.
+
+Evan Goldstein
+Senior Vice President of Corporate Planning and Operations Finance & Strategy
+
+Thanks, Josh. Good afternoon, everyone, and thanks for joining us for our fiscal '21 first quarter results
+conference call. I'm Evan Goldstein, Senior Vice President of Investor Relations. Our results press release,
+SEC filings and a replay of today's call can be found on our IR website at www.salesforce.com/investor.
+
+With me on the call today is Marc Benioff, Chair and CEO; Mark Hawkins, President and CFO; Bret Taylor,
+President and COO; Gavin Patterson, President and CEO of International; Brian Millham, President,
+Customer Success Group; and Amy Weaver, President and Chief Legal Officer. As a reminder, our
+commentary today will primarily be in non-GAAP terms. Reconciliations between our GAAP and non-GAAP
+results and guidance can be found in our earnings press release.
+
+Some of our comments today may contain forward-looking statements that are subject to risks,
+uncertainties and assumptions. In particular, our expectations around the impacts of the COVID-19
+pandemic on our business, results of operations and financial condition and that of our customers and
+partners are uncertain and subject to change. Should any of these materialize or should our assumptions
+prove to be incorrect, actual company results could differ materially from those forward-looking
+statements. A description of these risks, uncertainties and assumptions and other factors that could affect
+our financial results is included in our SEC filings, including our most recent report on Form 10-K. With
+that, let me hand the call over to Marc.
+
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+
+Okay. Thank you so much, Evan, and thank you, everybody, for being on the call today. I hope you
+and your families and colleagues are all healthy and safe. We're in a moment in time anything -- any
+of us, well, that we've ever experienced. And for instance, usually, I'm speaking to you from the top
+of Salesforce Tower, but today, I'm speaking to you from my home, as I suspect many of you are in
+your homes as well. It's another reminder of how the pandemic has dramatically affected all of us,
+our customers and our -- humanity in ways that we could have never imagined. And my heart is with
+everyone who has been affected by this virus, especially those who have lost loved ones.
+
+This pandemic is revealing the culture and the core value of every company. And those of you who
+have followed us closely know that Salesforce has always been deeply committed to serving all of our
+stakeholders. Well, we have really lived this for 2 decades and especially over the last 90 days, the
+foundation of our company is our 4 core values: trust, customer success, innovation and equality. And first
+and foremost among these is the trust that we have with all of our stakeholders.
+
+The story of our first quarter is very much the story of trust, Salesforce and our Ohana rapidly taking
+action to embrace and invest in all of our stakeholders. Indeed, our financial results for the first quarter
+reflect the unprecedented long-term investments that we've made in our employees, in our customers
+and also our communities. And as our fiscal year began, we were coming off an amazing fourth quarter.
+It capped off another record year for Salesforce, and February, the first month of our first quarter of fiscal
+year '21 [ builds ] continued an amazing growth trajectory.
+
+By mid-March, of course, and all of you know, the virus emerged into this global, biological and economic
+crisis. We rapidly pivoted the company to address 3 priorities in support of our stakeholders: keeping our
+employees healthy and safe, guiding our customers to navigate this incredibly challenging situation and
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+supporting our communities around the world. We view this pandemic in 3 phases. The first 90-day phase
+has been about rapid response and investing in all of our stakeholders. We're now entering the second
+phase, reopening safely. And the third phase, which we believe we'll enter next year, will be about a new
+normal. And I want to spend a few minutes on the actions we took during the first quarter and phase 1.
+
+First, we've invested in our employees, their health, their well-being. Well, this remains our highest
+priority. We closed 160 offices around the world in a moment's notice, guided all of our 52,000 employees
+to work from their homes. We settled in remote work situations. As a cloud-first company and with our
+amazing Salesforce platform, well, this transition was extremely smooth. We rapidly learned that we can
+run Salesforce very effectively anywhere, even from our homes. And we found the overall situation was
+taking its toll on many of our employees' mental health as they sequestered into their own homes, as
+it has been for many people all over the world. And so we invested in mental health and mindfulness
+programs to help them. Our core program, B-Well Together, which was initially just designed for our
+employees, well, we've had to open that up publicly to all of our customers, well, the whole world because
+of public demand.
+
+We also invested in our employees' financial stability. We committed to no significant layoffs for the
+first 90 days of the crisis. And in late March, we also gave certainty to our sales team with a onetime
+guaranteed commission for the first quarter, which we knew would close at the height of the crisis, giving
+them tremendous confidence in our ability to take care of them. This was a critical investment in the
+long-term success of our amazing distribution organization. And we invested in our communities. In early
+March, we were asked by Sam Hawgood, the Chancellor of UCSF, to help him acquire PPE. UCSF was
+already running low on PPE. Chancellor Hawgood was looking for ways to protect his doctors and nurses
+and other frontline workers.
+
+But back then, I have to tell you, I didn't even know what PPE was. It turned into a much larger
+and more critical effort almost overnight. And as we received many requests from hospitals, nursing
+homes, essential businesses, the CEOs of some of our largest customers calling us in dire need, well, in
+partnership with UCSF, we helped acquire and distribute more than 50 million pieces of PPE to over 300
+hospitals and first responders globally. And just one example, Salesforce sent a 767 loaded with PPE to
+New York City at the very height of the crisis, masks and gloves and aprons that we acquired, well, they
+were immediately delivered to the state distribution hub at Javits Center. And I'm deeply grateful for our
+relationship with Daniel Zhang, the CEO of Alibaba, who helped get this started and make sure that we
+got the PPE that we so badly needed [ in New York ]. At the same time, we've donated funding, employee
+volunteer time, services to those most in need, focusing on access to care, lost livelihoods, food and
+security and the digital divide. This pandemic has exposed deep structural inequalities across our society
+that we can't ignore. We can see that on TV right now.
+
+But at Salesforce, our core values include our commitment to the equality of every human being, and this
+will be part of our work going forward as it has been for all of us. Look, we also invested in our customers
+actually quite dramatically. Even with our employees working from home, our culture of innovation
+continues to thrive, deploying new products to help customers at this critical moment in time. I was
+especially inspired by the productivity of our incredible engineering organization. And talking with CEOs all
+over the world, it became apparent very quickly that many were looking to Salesforce to help them guide
+through these uncharted waters. Companies were working from home, leaders had little visibility in their
+businesses, no way to easily connect with their remote employees, customers or partners, and they turned
+to Salesforce.
+
+For some of our customers most severely affected by the unprecedented impact of COVID-19, we even
+granted them a temporary financial flexibility. We also created free rapid response Salesforce Care
+products to help companies work to sell the service to market from their homes. And we've already had
+more than 38,000 sign-ups for Salesforce Care led by versions of Salesforce Essentials and Salesforce
+Quip. That's been amazing.
+
+Our Salesforce Care industry solutions for health care and manufacturing, what they've provided proved
+to be crucial for many companies. They're scaling up services to handle increased demand for patient
+management, pivoting to much needed PPE, ventilators in their factories. Tableau, well, they were
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+amazing. They built this incredible free analytics platform, the Tableau Data Hub, tracking the virus and
+being used by dozens of U.S. states and countries around the world. You can see it at public.tableau.com.
+
+And with Tableau Data Hub, New York state posted a set of Tableau dashboards that provide a daily look
+at the latest testing and confirmed case data at both the state and county level. And that data is also used
+by Governor Cuomo during his daily briefings. We're able to do all this because our Salesforce Platform
+provides the agility, the flexibility, the speed, creates solutions not in months or years but in weeks, even
+days. And when everyone sheltered in place, we saw tremendous growth also in our Commerce Cloud's
+weekly order volumes and our Einstein Bot sessions, both were up more than 100% since February 1.
+Einstein predictions increased 5x over this time since last year. We also had an amazing job of happening
+-- pivoting from physical events to virtual events. We developed an online leadership program called
+Leading Through Change. It's had over 75 million views so far, incredible. Program highlights the work our
+customers have been doing during this crisis. It gives them inspiration and guidance. It also shows some
+Salesforce solutions that are available to help them get their jobs done. It's included phenomenal speakers
+like the CEO of Starbucks, Kevin Johnson, and also the CEO of Accenture, Julie Sweet, many more.
+
+And as the virus continued to spread throughout March, we also got a call from Governor Gina Raimondo
+of Rhode Island. Gina is amazing. She needed a way to manage her critical contact tracing, which would
+enable her state's health department to track the virus as it spread and isolate anyone exposed. So this
+became an opt-in manual process where a citizen can report that they've been tested for COVID-19 and
+identify anyone else they've been in contact with. Even those contacts can be notified of their potential
+exposure to the virus and isolate themselves. And Governor Raimondo inspired us to build an app that
+manage this process, scale efficiently and reliably. We're on the phone with her many times. And so we
+did it in just a few weeks on the Salesforce Platform. And in addition to Rhode Island, today, we're now
+helping more than 30 states reduce the spread of COVID-19, including Maryland and Massachusetts,
+Kentucky, Louisiana, California, and great cities in our country like New York City and other countries, too.
+This is an incredibly important effort. We're developing the contact tracing app for Rhode Island, we saw --
+we need to deliver several products now to mitigate the spread of the virus, and we needed to do it rapidly
+but not only for our public sector clients but for our commercial clients as well.
+
+Customers are asking for automation to facilitate the return to work safely, including this contact tracing,
+shift scheduling, workforce assessment, a command center for the crisis, and this was the genesis of our
+Work.com platform, which has rapidly become a significant part of our public sector pipeline and actually a
+meaningful part of our overall pipeline. We've been hugely surprised.
+
+And while all of this was happening, we also delivered $4.87 billion in revenue, up 30% year-over-year.
+We delivered $1.86 billion in operating cash flow. Now that was down slightly year-over-year to many of
+the actions that I just reviewed in response to the pandemic. And as I mentioned earlier, we also provided
+some customers temporary financial flexibility. We also incurred some incremental business expenses,
+such as the onetime commission guarantee for our sales team that I mentioned. But we expect these
+expenses to be largely or, I would say, wholly encapsulated in the first quarter.
+
+We have great confidence that our investments, we already see it in our employees, our customers, our
+communities in the first quarter, well, they're benefiting us. They're benefiting us now in the short term,
+the long term with tremendous strength and tremendous growth. And for the fiscal year 2021, we're
+updating our guide to approximately $20 billion, representing 17% projected growth year-over-year.
+And we believe this guide is very appropriate, given the current biological and economic environment
+worldwide.
+
+Our ability to execute globally with speed through the adverse conditions of March and April, well, I'll tell
+you, that gave us tremendous confidence we can operate successfully in any environment at any time. It
+was incredible. We demonstrated that we have the ability to innovate and meet rapidly changing customer
+demands and needs under any circumstance. And the last few months affirm the strengths we have in our
+amazing customer relationships and our ability to innovate at scale and operate across different industries
+and geographies, companies of all sizes.
+
+And with Customer 360, well, it was clear to us, we have the most complete CRM product portfolio to
+enable digital transformation of any company. I was excited to see in the quarter and for the seventh year
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+in a row, IDC has ranked Salesforce as the #1 CRM. We gained more share in 2019. And we're now seeing
+continuous improvement in our business, in our bookings and our pipeline month-to-date. But we've been
+really surprised by our pipeline growth. It's been incredible. And our pipelines for the second quarter and
+the fiscal year are really strong. I've been on more sales calls with more CEOs in the last 2 months than
+at any time in my career. And there's universal agreement among them. Digital transformation, well, this
+isn't a want to have. It's a must have. Companies and organizations and governments around the world
+have a digital transformation imperative like never before.
+
+And many are accelerating their plans for digital-first work-from-anywhere environment. For example, in
+Q1, we signed an incredible and extensive deal with AT&T. With the vision of AT&T Communications CEO
+Jeff McElfresh, incredible executive, somebody who's just been completely inspiring to me. Well, AT&T is
+moving to a highly accelerated digital-first world to deliver the most amazing 5G service with an incredible
+connected experience for their millions of customers and subscribers across every customer touch point.
+
+And this includes their media properties such as DIRECTV and HBO and Turner Sports and more. But with
+Salesforce, AT&T will further extend this vision of a single view of their customer, single source of truth
+really. With every customer touch point, federated on Customer 360 across retail sales and call centers,
+on messaging and online and in-home service and more, only Salesforce could do that, every customer
+touch point. The AT&T truck pulls up to my office or my home, that's going to be Salesforce. And I walk
+into the AT&T store, and that's going to be Salesforce. And I'm getting an e-mail from AT&T, that's going
+to be Salesforce. And I'm on the phone with the AT&T call center, that's going be Salesforce. And we're
+going to make sure that they have that Customer 360 in hand.
+
+And I'll tell you, when we're integrating all that data, well, MuleSoft is going to connect AT&T's different
+back end systems. Tableau is giving them the ability to understand customer preferences. Einstein is going
+to help them serve more intelligent recommendations and root service cases. I was on the phone just
+yesterday with Jeff McElfresh reviewing the incredible progress of the project. And it was clear to me, this
+is going to empower AT&T to drive more value and build stronger relationships with every customer. And
+we're going to begin deploying this with Jeff and his team to AT&T's employees very, very shortly, our goal
+is by the end of July, and then to tens of thousands of users in the third quarter.
+
+We're thrilled to have also significantly expanded our 15-year partnership with Standard Bank Group,
+the largest bank in Africa. It operates across 20 markets. It's an incredibly important bank to the African
+economy. Standard Bank is going to leverage the full power of our Customer 360, including the Financial
+Services Cloud, the Commerce Cloud, Marketing Cloud, MuleSoft and Einstein, to provide that single view
+of the customer, to build personalized customer journeys and deliver amazing client experiences in retail
+banking across all channels.
+
+And when the livelihoods of Zions Bank customers were threatened by COVID-19, well, the Utah-
+based bank turned to Salesforce and Customer 360 to virtually support a high volume of loan requests.
+They're using our customer communities and our Service Cloud to facilitate conversation with customers,
+automate applications processes, provide tracking and visibility to customers waiting for their loans. Zions
+Bank stood up its loan application portal in 7 days. Even though it's the 38th largest bank in the U.S., it
+became the ninth largest distributor of SBA Payroll Protection Program funds in Round 1 using Salesforce's
+Customer 360 platform.
+
+One of our ISV partners, nCino, well, they built an end-to-end solution for federal SBA CARES Act loans
+for small businesses all on Salesforce, and it processed more than $35 billion in loan applications for its
+banking customers, including Keybanc; IBERIABANK; the world's largest credit union, the Navy Federal
+Credit Union, all running on Salesforce Customer 360. And one of the unique aspects of COVID-19's crisis
+has been deepening our ties with the local and federal governments around the world. Public sector action
+has never been greater. I mean I can't believe how many phone calls I've been on with governors. In
+the public sector, a number of our government customers, agencies, if you will, they chose Salesforce in
+the quarter to begin helping them address COVID-19-related issues, including some of the very largest
+federal agencies. At the state level, we formed a new relationship with the State of California's Office
+of Emergency Services. They implemented Salesforce to create a public health ordering system, an
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+application that helps the state leverage data for urgently needed public health resource across California
+to improve customer service. We did it in days.
+
+And the U.S. Census Bureau, well, they expanded their long-time relationship with Tableau. As the
+agency's data analysis with visualization platform of choice, Tableau partners with the Census Bureau on
+mission-critical data applications in support of the 2020 census and beyond, so important.
+
+Internationally, we also had an incredible deal with Commonwealth of Australia, where we partnered
+with the National Disability Insurance authority to deliver an improved experience for more than 500,000
+participants that are predicated to access disability support by 2025.
+
+Those are some of the highlights from Q1. Now looking ahead, as much of the world is beginning to move
+now into phase 2, what we like to call reopening safely, our Work.com platform is going to become a --
+well, it's going to fill a huge unmet need. Step-by-step, we're seeing the economy is starting to come back
+to life. Salesforce is also beginning to reopen its offices, first throughout Asia. It has to be done safely. It's
+got to be done responsibly, and it's going to be a complex process.
+
+In the new normal, businesses are going to have a new lifestyle, a new lifestyle of masks and PPE, a
+new lifestyle of taking people's temperatures and enforcing social distancing standards, a new lifestyle
+of testing and contact tracing and a new lifestyle of wellness assessments to mitigate interaction with
+the virus. You can see some of the photos on my Twitter feed of our employees entering some of our
+offices, looks very different than it did just 90 days ago. We're going to need a command center to
+monitor return-to-work readiness. They're going to need shift scheduling because businesses are not
+going to bring everyone back at once. They're not all coming back at once that you're going to need social
+distancing. And you're going to need tools for emergency response management, and you're going to need
+expert perspectives from renowned experts because this is changing on a regular basis.
+
+And from our incredible ecosystem and tools and workforce re-skilling, well, we bundled all that in to this
+Work.com suite. You can see it at Work.com. You can see what we built, how we're starting to roll it out,
+who our partners are. It's a platform for enabling our customers to reopen safely. And because it's built
+on our Customer 360 platform, we're able to spin up this entirely new generation of apps in a matter of
+weeks. Amazing.
+
+And I just have to give credit where credit is due, to Governor Gina Raimondo, Rhode Island. It was her
+call to us early on in the crisis that inspired us to build Work.com. She was the visionary that said, "We
+need information technology to mitigate what's happening with the virus until we have a vaccine." Well,
+I'll tell you, at times, even though we have nearly 52,000 people at Salesforce, creating Work.com felt
+like many of our early start-up days with the speed and scrappiness, the laser-focused execution of our
+management team. It was -- this was the best I've ever seen Salesforce.
+
+And we're already returning to work. We're starting to see the return on this investment now. It's
+amazing. In a very short time, Work.com has generated an enormous interest from businesses and
+governments at every level, from our partnerships. And with Work.com, well, we deepened those
+partnerships with the world's largest systems integrators, including Accenture and Deloitte, the PwC and
+IBM, and many of our partners are now building solutions on Work.com as well.
+
+Now it's incredible to see what they've done with risk management and compliance and business
+continuity. And just yesterday, Workday announced that it's going to integrate its employee data directly
+into Work.com to make it easier for employers to centralize critical data and get their businesses up
+and running again. We've enabled and trained all of our salespeople worldwide to be able to talk to our
+customers on how to reopen safely with Work.com.
+
+I've been thrilled, and I'm so thrilled also especially in my Workday partnership with Aneel. Well, that's
+just an amazing company, make Work.com even more valuable to so many of our joint customers. So
+thank you, Aneel, for that.
+
+In the months ahead, I expect Work.com's ecosystem to rapidly become even more robust with even more
+relevant solutions. I've had so many of our customers contact us on how they can integrate their own
+product into Work.com. That's so cool. And as we move deeper into phase 2, Work.com is going to become
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+extremely important to all of our customers. We've learned from this crisis, just as we have every time we
+have been faced with major challenges, well, we saw once again how our values create value. We've seen
+how our agility and our beginner's mind has enabled us to quickly pivot and take action.
+
+And we made investments during Q1 to confront this once-in-a-generation calamity, focusing on our
+employees, delivering relevant innovation for customers and supporting our communities with PPE and
+grants and technology. Well, we could do all this because of proven strength and sustainability of our
+extraordinary business model and our extraordinary technology and our extraordinary Ohana. We know
+that when we invest in all of our stakeholders, we're building the trust, the relationships, the innovation
+and our business for the long term. Pandemic has shown that digital is a lifeblood for every organization,
+whether you're a public sector, state, country or whether you're a commercial organization or a nonprofit
+or an NGO. The new normal, phase 3, it's going to require organizations of all sizes, shapes, geographies,
+well, everyone is going to have to adopt new ways of conducting themselves and especially their customer
+relationships, especially their sales and service, especially their marketing and commerce and especially
+new ways of collaborating and re-skilling workers. Every company is going to have to digitally transform.
+
+Fortune's recent survey of Fortune 500 companies found 3/4 of CEOs, well, they believe this crisis is going
+to force their companies to accelerate their technological transformation. I mentioned Jeff McElfresh of
+AT&T. Well, he's the first one who said that to me. He was the first one who got on the phone with me
+and said, "We're going to accelerate our digital transformation at AT&T." And I believe that Salesforce has
+never been more relevant or more mission-critical to more organizations. No one is better positioned than
+Salesforce to accelerate out of this crisis and bring customers into the new normal.
+
+Now before I turn it over to Mark, I want to make sure you've heard that Gavin Patterson, the former
+CEO of BT Group and our current President and CEO of International, will be our new President and Chief
+Revenue Officer beginning August 1. And you've already heard of one of Gavin's amazing deals, and I
+hope he'll talk about that later on the call. But I'm so thrilled to have Gavin as a member of the team. He's
+just an amazing executive. We've been friends for many years, and he's already had a huge impact on our
+company and on our management team and I could not be happier for Gavin. But I couldn't be happier
+for Salesforce and all of our Ohana, that we're able to have his experience and his capability as part of our
+organization. And with that, I'll turn it over to you, Mark.
+
+Mark J. Hawkins
+President & CFO
+
+Okay. Well, thank you, Marc. And before I begin, you guys, I want to express my thoughts and my best
+wishes for everyone's safety and well-being during this historic time. I'd like to focus my remarks on
+providing additional disclosures and commentary on the company's response to the COVID pandemic and
+our updated fiscal '21 guidance.
+
+As Marc said, our actions in Q1 were focused on investing in our employees, our customers, our
+community in response to COVID-19 and preparing for a post-pandemic future. We continue to believe
+that values drive value, and these Q1 investments in all of our stakeholders will result in long-term equity.
+We want to provide visibility into how our actions in response to COVID-19 affected our financials in Q1 as
+well as our updated guidance.
+
+I'll begin with the top line commentary. Revenue for Q1 was $4.865 billion, up 30% over last year. We saw
+good revenue performance by cloud. Sales Cloud grew 16% with approximately 4 points from significant
+M&A. Service Cloud grew 23% with 2 points from significant M&A. Platform and other grew 62% with 35
+points from significant M&A. And Marketing and Commerce grew 27% with 4 points from significant M&A.
+
+Additionally, we had strong year-over-year revenue performance by region in constant currency. Americas
+grew 29% with 11 points from significant M&A. EMEA grew 41% with 12 points from significant M&A,
+and Asia Pac grew 28%. Additionally, we were pleased to have maintained a revenue attrition rate of less
+than 9% at the end of the quarter. In fact, this is actually down year-over-year and in line sequentially.
+This speaks to the diversity of size, industry and geography within our customer base as well as how
+mission-critical our products are to our customers. As always, we continue to monitor this metric closely to
+determine how the COVID pandemic may impact our customer base going forward.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+Our performance -- our remaining performance obligation, representing all future revenues under
+contract, ended the first quarter at approximately $29.3 billion, up 18% over last year. And as a reminder,
+this metric includes both new business and renewal contracts. In Q1, these contracts were approximately
+3 months shorter in duration on average compared to Q1 of last year. And we believe this is a result of the
+COVID pandemic, and we expect this to normalize in the future. Please note that the contract we signed
+with AT&T entirely resides in noncurrent portion of RPO as our updated revenue guidance assumes no
+contribution from AT&T in FY '21.
+
+Our current remaining performance obligation, or CRPO, which is all the future revenue that is under
+contract and is expected to be recognized as revenue in the next 12 months, was approximately $14.5
+billion, up 23% year-over-year.
+
+Turning to EPS and operating margin. Q1 GAAP EPS was $0.11 and non-GAAP EPS was $0.70. And there
+are a few items I'd like to discuss as they pertain to the Q1 objective of investing in our employees, our
+customers and our community in response to COVID-19 and preparing for the future, which we believe will
+lead to an even stronger business and company.
+
+First, the onetime partial commission guarantee I discussed earlier was approximately $140 million. As
+a partial commission guarantee makes it not eligible for capitalization, this expense will reside in Q1 and
+not in the future periods. Given how sudden and severe the pandemic arrival was in March, we chose
+to take powerful action to care for our employees through this crisis. Second, due to the cancellation
+of our physical events this fiscal year in favor of virtual experiences, all event contracts that included
+cancellation fees for fiscal '21 commitments were expensed in the quarter. This amounts to approximately
+$65 million. We are working with these vendors to renegotiate these contracts as we pivot to digital virtual
+experiences, which means we could see some partial reversal later in the year.
+
+Thirdly, we incurred approximately $25 million in onetime lease impairments due to vacating and
+subleasing offices that will likely return below-market rent due to the COVID pandemic. And finally,
+we prioritize caring for our community by donating approximately $20 million, which came in the
+form of PP&E and cash grants. These unique and mostly onetime variable items were partially offset
+by approximately $75 million in savings, largely from T&E due to shelter-in-place orders. The net of
+these items created approximately 350 basis points of headwind to operating margin compared to our
+expectations in the quarter.
+
+Regarding our strategic investments, we recorded approximately $192 million in realized and unrealized
+gains. This was driven by significant realized gains on the sale of public securities, partially offset by
+unrealized losses within the investment portfolio.
+
+Turning to cash flow. Operating cash flow was $1.86 billion, which was largely impacted by delayed
+payments from customers while sheltering in place and some temporary financial flexibility that we
+granted to certain customers that were most affected by the COVID pandemic. We expect to collect
+the majority of the balance this year and do not expect this to have an impact on our full year cash
+flow. In addition, we previously described this partial commission guarantee also created a headwind to
+our operating cash flow. Should we not have incurred these items above, our Q1 growth rate would be
+consistent with historical rates.
+
+CapEx for the quarter was $323 million, leading to free cash flow, defined as operating cash flow less
+CapEx, of $1.54 billion, down 15% year-over-year.
+
+Turning to guidance for Q2 and fiscal '21. Revenue is now expected to be $4.89 billion to $4.90 billion in
+Q2 and approximately $20 billion for the fiscal year, the latter of which continues to include $50 million
+contribution from Velocity, which is expected to close on June 1. There are 2 important assumptions
+reflected within the guidance that stem from our assumptions that the IT spending growth normalizes
+next year, which we believe to be appropriately conservative and consistent with our learnings as we
+successfully navigated through the great financial crisis.
+
+First, our guidance assumes our revenue attrition rises from less than 9% now to less than 10%
+temporarily for the rest of the fiscal year. Second, the guidance reflects the adjustment to incremental new
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+business expectations that we made due to the COVID pandemic. Another important consideration when
+thinking about our FY '21 guide is the magnitude of the above when applied toward term license products.
+As a reminder, the term license revenue product typically records approximately 50% of the contract's
+TCV immediately to revenue with the remaining balance recorded ratably over the contract term. This
+accounting treatment can create uneven revenue trends between fiscal periods. As you saw during half 2
+of FY '20, this helped drive the revenue outperformance in those quarters.
+
+Additionally, we are pleased to have experienced improving trends within our pipeline and close rates
+between March through today, which leaves us incrementally optimistic about the future. In fact, April was
+better than we anticipated it would be when we started that month. We continue to see additional positive
+trends in May. For Q2, GAAP diluted EPS is expected to be minus $0.02 to minus $0.01, while non-GAAP
+diluted EPS will be $0.66 to $0.67. For fiscal '21, we're expecting GAAP diluted EPS to be minus $0.06 to
+minus $0.04, while non-GAAP diluted EPS will be $2.93 to $2.95.
+
+In light of the COVID pandemic and our actions in Q1 to support our customers, employees and
+communities, we expect our fiscal '21 non-GAAP operating margin to be roughly flat year-over-year on a
+percentage basis. As we prepare for the future, our outlook for the rest of fiscal '21 includes incremental
+discipline and prudence especially in regards to head count, largely due to lower employee attrition rate
+than planned. As always, we continue to monitor our go-to-market capacity to ensure we allocate the
+appropriate investments to achieve our targets both this year and in the future.
+
+For the remainder of the year, we are focused on making ourselves even stronger upon exiting the
+pandemic. As a reminder, our EPS guidance assumes no future contribution from mark-to-market
+accounting as required by ASU 2016-01. For operating cash flow, we're reducing our fiscal '21 operating
+cash flow guidance to 10% to 11% year-over-year growth to align with our updated revenue and margin
+guide. We do not expect to provide incremental temporary financial flexibility. We now expect CapEx to be
+approximately 3% of revenue in fiscal '21, resulting in a free cash flow growth rate of approximately 13%
+to 14% for the fiscal year.
+
+We expect CRPO to be approximately 16% to 17% growth year-over-year in the second quarter, which
+we believe is appropriately conservative and consistent with our revenue guide. In light of the uncertainty
+surrounding the COVID pandemic, we are reassessing our long-term revenue target for fiscal '24 and
+we're planning on giving an update during the Investor Day.
+
+To close, while the COVID pandemic was sudden and a once-in-a-generation crisis, we are proud of the
+investments and relationships we have deepened with our customers, our community and our employees.
+We are confident our actions in these investments will lead to an even stronger business and company
+in the future. And as we move into phase 2, we are strategically well poised with a strong balance sheet
+and a durable business model, we are well positioned to continue to leverage this secular tailwind to drive
+digital transformation.
+I'd like to thank our employees, our customers, our partners, our communities and our shareholders, all
+our shareholders for the continued support, and I wish to each of you and your families and your firms,
+safety and wellness. And with that, we'll open up the call for questions.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions]
+
+And your first question comes from Mark Murphy with JPMorgan.
+
+Mark Ronald Murphy
+JP Morgan Chase & Co, Research Division
+
+Marc, the second week of November should be an interesting one. I am wondering what Einstein might
+be telling you about virtual Dreamforce 2020. Some of us on the call have attended every single one
+in person at Moscone Center. And so just with it going virtual, curious how you're going to maximize
+the impact of Dreamforce so it provides the inspiration that it's known for and also so that it drives the
+pipeline for Q4 and beyond.
+
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+
+Well, that's such a good question, and I'll tell you that, of course, Dreamforce has been such an incredible
+part of our culture, that we're all going to miss Dreamforce this year. But you may see that we've already
+started some amazing things online and we're getting some phenomenal results. In fact, as I mentioned,
+we've already had more than 75 million views, and I think we're having, almost soon, 100 million views
+of our Leading Through Change program. And I don't know if you've had the opportunity to watch or
+participate in Leading Through Change, but it's been incredible.
+
+And that type of virtual program, I believe, is very much going to be something that is going to be a
+permanent part of our culture. We really have been able to inspire our customers and our employees, all
+of our Ohana, including our account executives, and enable them with these programs. And while we're
+certainly going to miss being together at Dreamforce this year, and that's not something that, well, any
+of us could have imagined just 90 days ago, I think that we now see a very clear path to be able to have
+virtual events, build pipeline, build community, build brand, create and deliver new products. And I have a
+lot of confidence in our ability to execute without a physical Dreamforce this year.
+
+And not just Dreamforce, by the way. We -- as Mark mentioned, we canceled all of our physical events
+for this year, and we had to pay an extremely large amount of cancellation fees that all got cost into that
+first quarter number. And so all those world tours and all these other amazing events, we do 1,000 events
+a year, we're just moving as many of them to the virtual programs as well. And not just the big events,
+there's lots of small things happening. So we've got a whole new playbook that we're executing. It's a
+great question. Thank you.
+
+Operator
+
+Your next question comes from Terry Tillman with SunTrust.
+
+Terrell Frederick Tillman
+SunTrust Robinson Humphrey, Inc., Research Division
+
+I guess my question relates to -- it's great seeing the AT&T win. It seems like a great example of the
+digital transformation opportunities. But with Customer 360 and these larger transformational deals, Marc,
+maybe you could give us an update. You talked about strengthening pipeline. How do some of these larger
+transformational deals, how do you see that playing out the rest of the year? Or is that -- some of that
+business harder to come by just because it is more complex?
+
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+Well, I'll give you the beginning of the answer. And then I have been very fortunate this quarter to have
+Brian Millham running our global distribution organization. He's also running it in the second quarter while
+we're bringing Gavin onboard. And Brian has been with us for more than 20 years. Many of you know
+Brian. He's really been the heart and soul of our distribution culture. He's just done a phenomenal job this
+quarter.
+
+And I think that what we see reminds us a lot of -- over a lot of different times in the last 20 years of
+Salesforce, where you have to have a full portfolio of products and deals, small, medium and large, that
+there's an ebb and flow. You're never going to make your number on all large deals or all small deals. You
+have to have a portfolio of transactions, and you have to have that across geographies, product segments,
+verticals. And that's one thing I've been super proud of the distribution organization, their ability to deliver
+that. And then you see that start to manifest in these really strong pipeline. So Brian, do you want to
+comment on that?
+
+Brian Millham
+President of Customer Success Group
+
+Yes, Marc. I think we made the comment earlier, the strengthening of our pipeline over the last couple
+of weeks here has been very encouraging for us. And that strengthening of pipeline comes in all forms,
+as you said. It comes from different segments of our market, different regions of our markets, different
+products. And so we're very encouraged by the future, both the large deals and the small deals that we're
+getting done across our incredible distribution organization. So very, very encouraged as we go forward.
+
+Operator
+
+Your next question comes from Sarah Hindlian with Macquarie.
+
+Sarah Emily Hindlian-Bowler
+Macquarie Research
+
+I hope everybody is well. I guess my first question is for you, Marc, Marc B. You guys are talking about
+this nice pickup in the pipeline. And I'd love a little bit more color about what you're seeing that -- is it
+across certain verticals, markets, products, enterprise, commercial? And then I have a follow-up for Mark
+Hawkins.
+
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+
+Well, thanks. I'm going to have Bret Taylor comment on that because he and I were just talking about that
+today. We've been so inspired by kind of connecting to the first question, how a lot of our programs that
+we put in place. And I'll tell you the 4 dimensions that we've been really focusing on. Of course, we have a
+very large-scale distribution organization. I would say it's more than half of our company. You think about
+that in terms of all the customer-facing organization and it's -- number one, the most important thing is
+to have everyone, especially when you move to an at-home environment, participating. Participation has
+been mission-critical, and that's really where we focus.
+
+What percentage of those sales and service professionals, managers, executives are out there and really
+working with customers, and this is an unusual environment. That provided an opportunity for lots of new
+training, new -- kind of new ideas, new programs. And the second thing is to enable them with that, to
+train them and also introduce them to these new technologies, these products. The third thing that was
+absolutely critical after participation and enablement, making sure that they have a relevant position. I'm
+sure for many of you, as this crisis kind of unfolded, you didn't have something relevant to say, we didn't
+have a lot of time for you. And the reality is Salesforce became incredibly relevant to our customers. First,
+in this core digital transformation, and then next was really how we could provide tremendous value in
+reopening safely. That became the third leg of our stool. The fourth leg became really critical, the tactical
+plays and critical aspects of building that pipeline up. So Bret, you've been the architect of all of these
+things. Can you talk to us about how you put that into place?
+
+Bret Steven Taylor
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+President & COO
+
+Yes, Marc. Thank you. I think that one of the things that you said in your opening script that I'm really
+seeing from our customers is this digital imperative. And across the entire Customer 360, we're really
+seeing that play out in some of -- both the pipeline numbers and the adoption numbers, some of which
+you mentioned on the call. For customer service as an example, our Einstein Bot functionality, which
+provides digital self-service, which is more relevant than ever before, is up over 100% just in February. It
+really reflects that overnight digital transformation of service.
+
+There's marketing. Einstein is doing over 12 million predictions per day, really represents this mass scale
+digital personalization because digital is the one channel really remaining for a lot of our customers
+to engage with their employees. On our Commerce Cloud, GMV was up over 100% year-over-year as
+commerce digitized overnight. Even on industries, as Marc mentioned, the Small Business Administration
+loans process really came out a lot of banks overnight. We helped one of our largest banking customers
+go live in just 72 hours. This is all digital. It's fast. And we're really seeing that relevance point that you
+mentioned, Marc, being extremely important.
+
+I think that every single CEO, every single CIO I talk to has the same message, which is whatever digital
+transformation they have left has just accelerated, thanks to COVID-19. I think these digital aspects of
+our Customer 360 platform have become more relevant than ever before, and you're seeing that in the
+pipeline.
+
+Operator
+
+Your next question comes from Derrick Wood with Cowen.
+
+James Derrick Wood
+Cowen and Company, LLC, Research Division
+
+A question for Mark Hawkins. Implied CRPO bookings growth for Q2 looks to be in the mid-single-digit
+range, if I have my math right, following 20% in Q1. And obviously, a lot of companies are expecting a
+tougher Q2. But can you just walk us through the assumptions here, whether there's any pressure points
+coming from contractions or churn or pushed-out deals or any dynamic you'd call there? And then I know
+you don't guide CRPO beyond the quarter, but given the constructive commentary on the pipeline, any
+color can you give on how we should think about a potential recovery in CRPO bookings in the second
+half?
+
+Mark J. Hawkins
+President & CFO
+
+Sure. First of all, thank you, Derrick, for the question. Happy to do that. When we -- for CRPO, when we
+look at that for the Q2, you should think about it as approximately 16% to 17% growth rate CRPO. So I
+think that aligns well as we think about the revenue going forward in the current year and this temporary
+year of pandemic, if you will. So we think it's appropriate line, number one.
+
+I think in terms of the recovery, the way we had -- and you talked about attrition and things of that
+nature, we -- I just want to be clear that we're actually very pleased in the sense that our attrition actually
+went down year-over-year in Q1. And so from that standpoint, I think it's good. I think what we've tried to
+do is we're appropriately conservative having -- going through this pandemic to assume that it would go
+up some, and we called that out. It still would be -- we would expect that to be temporary in nature. But
+we said for the fiscal year, it will be less than 10%, up some, and that's partly based on the learning from
+the great financial crisis. Heretofore, we were very pleased to see what happened in Q1. But that's a little
+bit of color. We had to make a call and kind of really make sure that we're dialing the same in light of the
+uncertainty that's out there. So I think that would be something to think about.
+
+In terms of the recovery itself from an IT spending standpoint, we think that if you were expecting a
+recovery in FY '22, which begins for us in February, could it be sooner? We see companies that are doing
+that. That's just what we're trying to do when we think it's appropriately conservative, and so that informs
+us in terms of how we think about the demand in environment. But one thing we learned for sure in the
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+great financial crisis is take a good look at what's going on, see the temporary situation and then we
+remember how we navigated through it very successfully and on back to our future.
+
+And we really see that in this particular case, that this is a point in time, a much bigger opportunity that
+we all know about, including $170 billion-plus TAM. That's one of the fastest-growing parts of the market,
+but everything is being impacted temporarily with the pandemic. So that's what I would say and happy to
+have, if Marc wants to add anything to that. Hope that helps, Derrick.
+
+Operator
+
+Your next question...
+
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+
+Well, I'd really like to open that up to Gavin Patterson, our new Chief Revenue Officer. He's been driving
+this incredibly strongly from his office in London, and he's going to be moving to San Francisco shortly.
+You heard about this incredible win that he personally led at this amazing organization called the Standard
+Bank Group. But Gavin, can you just fill in how you see this market unfolding right now?
+
+Gavin E. Patterson
+Chairman of Europe, the Middle East & Africa and President & CEO of Salesforce International
+
+Well, thank you, Marc, and just to say, I'm very excited to be taking on the role in the next few months.
+I've known Salesforce, as you know, for many years, and I've known Marc personally for many years as
+well as a customer at BT, where I was the CEO. And I started my career at Procter & Gamble in brand
+management. So I know the company reasonably well as a customer.
+
+And over the last year or so, I've been more and more involved with the company, initially building an
+advisory board in Europe and then lastly, taking up executive responsibilities for international. And that's
+where I helped steer in the Standard Bank deal at the end of the quarter, which was a big win for us and
+I think very much a platform deal for us in Africa as we open up that market. So there are many things I
+hope I can bring to this job, a customer viewpoint, an international viewpoint, a CEO viewpoint.
+
+But the one thing that's very clear to me is the opportunities are there very clearly. And seeing how the
+organization has been able to adapt in the last couple of months to the shock of the virus and rebuild and
+become even more relevant to customers gives me great confidence that the opportunities are there. And
+as Marc said, the majority of customers that we're talking to are saying, "How can I accelerate digital
+transformation?" And there's no better partner to do that with. So I think certainly the growth potential,
+not just domestically in the U.S., but internationally around the world, I think, exists for us.
+
+Operator
+
+Your next question comes from Kirk Materne with Evercore ISI.
+
+Stewart Kirk Materne
+Evercore ISI Institutional Equities, Research Division
+
+Marc, thanks for all the work you and the team have done to help out in this crisis. You guys have done
+some great things. My question is for Marc B. If we think back to the great financial recession and
+you think about what eventually turned the tide from customers wanting to talk to you about digital
+transformation to customers actually spending on digital transformation, I mean, I think between you,
+Gavin and Bret, you all mentioned that there's a greater understanding of the imperative to spend on
+digital transformation today, yet you obviously have some prudent guidance out there for the second
+half of the year. So when you talk to CEOs, what do you want to start hearing from them that gives
+you confidence that their interest is going to start translating into bookings? Is it simply just business
+confidence, better understanding of sort of what's going to happen in the fall around COVID? Just kind of
+curious so we can keep an eye on some of the broader data points out there and try to triangulate it to
+your thinking on business momentum.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+
+Well, I think it's such a good question because, of course, when you are addressing a market with a set of
+products, capabilities, you're going to have a set of strategies as well as a set of tactics. You're going to
+have plays as well as products, programs, and you're going to do that differently by geography, different
+by industry.
+
+I think we already know that unlike the financial crisis, the way that this has discriminated against
+different industries is quite different than anything we've ever seen before and has been quite shocking
+and for some industries, that will take some time for them to recover. In other industries, it's actually
+been accelerating, and it causes them to grow faster than they anticipated. I mentioned with AT&T. That's
+obviously a company that will transform itself during this moment to become more digital, to become a
+stronger, more customer-centric organization. They're going to accelerate into it.
+
+My personal belief is always that in a moment of crisis, you need to invest through it. Maybe not every
+company can do that but a lot of companies surprisingly can. That's why you have to offer a full portfolio
+of capabilities. I really saw all that come together in the first quarter. I was really impressed with the
+bookings that we achieved in the first quarter. As it kind of started to get crazy in the middle of March, I
+was like, "Wow, what is going to happen at the end of March and then through April?" Well, this was the
+best of Salesforce. This was the best I've ever seen Salesforce perform. I mean it was just incredible to
+see all of our Ohana, the sales organization, service, engineering, across the board.
+
+And then in the second quarter, well, as I mentioned, I'm already really, really inspired by the bookings
+numbers that I started to see and the pipeline numbers. So we're quite optimistic about what the future is
+going to look like for us. And Brian, do you want to fill in a couple of details for us?
+
+Brian Millham
+President of Customer Success Group
+
+I appreciate that, Marc, and I appreciate the question. For us, it's about being very relevant to our
+customers. It's about showing up and listening deeply to what they're going through. And what we're
+finding is we're more relevant than we've ever been to our customers, and that's a great place to be.
+I couldn't be happier with the broad portfolio of products that we have to go address the problems our
+customers are facing today. It's a great product team building incredible products. Work.com is a perfect
+example of something that we've reacted to very, very quickly and are helping our customers address
+these core issues. And when you sit in that position, I think it's why we see our pipeline is accelerating
+right now. So just very, very pleased with where we sit today.
+
+Operator
+
+And your last question comes from Brent Thill with Jefferies.
+
+Brent John Thill
+Jefferies LLC, Research Division
+
+Marc, just back to encouraged by the bookings going into Q2. Can you give any color what you saw from
+April into May? Many tech companies have seen stabilization and improvement. Are you seeing similar
+trends through the month of May? And then maybe for Mark Hawkins just on the expense side. There are
+a lot of questions that this environment may kind of permanently shift some of the expenses across tech.
+Do you think there's some permanent lasting effect that can inherently make you more profitable through
+this as we exit out?
+
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+
+Well, I'd really like to turn it back over to Gavin for a second and Brian and have them address the
+customer environment that we're seeing. And then maybe Bret could fill in the details on the pipeline as
+well. Gavin?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+Gavin E. Patterson
+Chairman of Europe, the Middle East & Africa and President & CEO of Salesforce International
+
+Yes, sorry, sorry, Marc, I was wondering whether you want Brian to get it. Well, what we're seeing is
+confidence is building almost week by week. So clearly, there was a shock that hit the system, particularly
+in March. But as we go in through April and we moved through May, I would say bit by bit, and it's not --
+given that we're at a different stage in the recovery market by market, it's not the same point in every
+market yet, but the broad sense of direction is building confidence, beginning to see get much better
+visibility for bookings, not just in Q2 but into Q3 and Q4 as well.
+
+So I can sense the confidence building in the sales organization. We're not getting carried away with
+ourselves. But going back to a point that's been made a couple of times on the call. The relevance of our
+product set and particularly Work.com is proving that actually more than ever, our products are important
+to our customers and key to the digital revolution and transformation that our customers are going to go
+through. So as I say, I'm pretty bullish about what I'm seeing at the moment, and we'll continue to see it
+grow, I think, from here.
+
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+
+Brian, do you want to fill that in?
+
+Brian Millham
+President of Customer Success Group
+
+Yes. I would just second the comments. We're seeing tremendous confidence in our sales teams right now,
+pipeline growth that is very, very good year-over-year. And those compares are against a quarter where
+we didn't have a pandemic. And so we're feeling very confident about the pipeline growth. As Gavin said
+appropriately, we're not getting overconfident. We need to go out and execute, but we feel very good
+about where we sit. And hate to repeat myself, but in the -- at a time when you need to be relevant and
+you have products that fit the customer need, we feel like we're in a very good position right now. So very,
+very happy with where we are in the early, early months of the quarter.
+
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+
+Bret?
+
+Bret Steven Taylor
+President & COO
+
+Yes. I think echoing both Gavin and Brian's comments, I've had 3 customer meetings already today, and
+every single one had one theme, which is everyone's looking past the pandemic towards the next normal
+and the new normal. And I think all of us have the ability to know that we're not 100% sure what that's
+going to look like. But it's all digital. It's work from anywhere. It's a completely new experience for our
+customers' employees and their customers. And they are looking at our solution as the most relevant
+platform available to really help their customer -- help their company transition to that new normal.
+
+So that's really what we're seeing. I think there's still uncertainty out there, but I think people have
+started this reopening process, and you're seeing it in the momentum in the business.
+
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+
+And I'd like to just kind of give the closing words to -- I'd love to have Amy Weaver give us the closing
+words on her -- because she's been involved in so many of our customer discussions. And Amy, can you fill
+in exactly how you -- how do you see the situation moving forward?
+
+Amy E. Weaver
+President, Chief Legal Officer & Secretary
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+Well, I'm excited to see this moving forward. It has been a whirlwind of a few months. But when I look
+at what we went through and where we're going, what really stands out to me is that everything we
+executed during this quarter and every plan that we're making for the future, we're doing it in line with
+our core values, with trust, with customer success, with innovation and with equality. And I think that we
+found that these values serve the company so well. It leads to a stronger company, stronger relationships
+with our customers, stronger relationships with our communities and really a great position for all of our
+stakeholders. So thrilled to be part of it and looking forward to the next step.
+
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+
+Parker, love for you to wrap it up. You've had the full perspective of 21 years, and you've done a
+phenomenal job developing and delivering Work.com and Customer 360. Can you give us your words of
+wisdom?
+
+Parker Harris
+Co-Founder, CTO & Director
+
+Yes. I think I would just close by saying we're all in our homes right now as everyone is probably listening
+to us, follows in their homes. And yet, as a management team, I think we've never been closer, which is
+kind of odd that we've been sent to our homes and yet, we're operating more closely than ever and faster
+than ever. Marc and I had said, it's kind of like we're back to the start-up days and yet we're a 50,000-
+plus employee company.
+
+And I've had the same experience as Bret was saying in working with our customers, we are no longer
+walking into our customers' offices in suits and having that kind of separation. We're in their homes with
+them, and they trust us. So they're letting us into their homes as we're selling to them and supporting
+them and servicing them. And it's just a sign of, Marc, the success that we've had in building that trust
+with our customers for 21 years and I guess the reason why we're coming through this as we are.
+
+And so I hope all of you out there are also having that same experience and just really proud of what
+we've done as a company during this crisis.
+
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+
+Okay. Back to you, Evan.
+
+Mark J. Hawkins
+President & CFO
+
+Okay. Marc, do you want me to -- maybe I should just tackle the last part of Brent's question there, and
+then we'll go to Evan. One, Brent, we definitely are always looking for opportunities as the environment
+has shifted. It provides an opportunity for us to take a beginner's eye on everything, and we're certainly
+doing that. You heard whether it's pipe gen, whether it's reimagining everything we're doing, certainly
+travel, there are so many different examples, but we're constantly looking at focusing obviously in
+delivering growth, profitability and cash flow over the long term.
+
+We're obviously very excited about the long-term opportunity to serve our customer and help them, and
+we're very aligned. I thought Parker's comment was really awesome about, we're very aligned around
+how to navigate through this and get beyond this point in time and really seize the opportunity for an
+unbelievably strategically positioned situation to serve our customers over the long term. Marc and Evan,
+back to you.
+
+Evan Goldstein
+Senior Vice President of Corporate Planning and Operations Finance & Strategy
+
+Thank you all for joining us for our call today, and we look forward to speaking with you next quarter.
+Hope you are all safe and healthy.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+Operator
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+SALESFORCE.COM, INC. FQ1 2021 EARNINGS CALL |  MAY 28, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+

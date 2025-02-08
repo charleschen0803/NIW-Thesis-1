@@ -1,0 +1,1294 @@
+ANSYS, Inc. NasdaqGS:ANSS
+FQ4 2019 Earnings Call Transcripts
+Thursday, February 27, 2020 1:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2019-
+
+-FQ1 2020-
+
+-FY 2019-
+
+-FY 2020-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+1.99
+
+2.24
+
+12.56
+
+1.25
+
+6.31
+
+6.58
+
+4.28
+
+6.75
+
+471.17
+
+492.49
+
+4.52
+
+351.52
+
+1505.83
+
+1528.41
+
+1.50
+
+1685.88
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Feb-27-2020 11:16 AM GMT
+
+FQ1 2019
+
+FQ2 2019
+
+FQ3 2019
+
+FQ4 2019
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.09
+
+1.28
+
+1.26
+
+1.99
+
+1.29
+
+1.61
+
+1.42
+
+2.24
+
+18.35 %
+
+25.78 %
+
+12.70 %
+
+12.56 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Ajei S. Gopal
+President, CEO & Director
+
+Annette N. Arribas
+Global Investor Relations &
+Insurance Officer
+
+Maria T. Shields
+CFO and Senior VP of Finance &
+Administration
+
+ANALYSTS
+
+Adam Charles Borg
+Stifel, Nicolaus & Company,
+Incorporated, Research Division
+
+Andrew Lodovico DeGasperi
+Joh. Berenberg, Gossler & Co. KG,
+Research Division
+
+Hoi-Fung Wong
+Guggenheim Securities, LLC,
+Research Division
+
+Jackson Edmund Ader
+JP Morgan Chase & Co, Research
+Division
+
+Jason Vincent Celino
+KeyBanc Capital Markets Inc.,
+Research Division
+
+Jay Vleeschhouwer
+Griffin Securities, Inc., Research
+Division
+
+Joseph D. Vruwink
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Mark William Schappel
+The Benchmark Company, LLC,
+Research Division
+
+Matthew Charles Pfau
+William Blair & Company L.L.C.,
+Research Division
+
+Matthew John Swanson
+RBC Capital Markets, Research
+Division
+
+Richard Frank Valera
+Needham & Company, LLC,
+Research Division
+
+Steven Richard Koenig
+Wedbush Securities Inc., Research
+Division
+
+Tyler Maverick Radke
+Citigroup Inc, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Presentation
+
+Operator
+
+Good morning, and welcome to the ANSYS Q4 and Fiscal Year 2019 Earnings Conference call. [Operator
+Instructions] Please note this event is being recorded.
+
+I'd now like to turn the conference over to Annette Arribas. Please go ahead.
+
+Annette N. Arribas
+Global Investor Relations & Insurance Officer
+
+Good morning, everyone. Our earnings release and the related prepared remarks document have been
+posted on the home page of our Investor Relations website this morning. They contain all of the key
+financial information and supporting data relative to our fourth quarter and our full year 2019 financial
+results and business update as well as our initial Q1 and fiscal year 2020 outlook and the key underlying
+assumptions.
+
+I would like to remind everyone that today's presentation contains forward-looking information. In addition
+to any risks and uncertainties that we highlight during the course of this call, important factors that
+may affect our future results are discussed at length in our public filings with the SEC, all of which are
+also available via our website. Additionally, the company's reported results should not be considered an
+indication of future performance as there are risks and uncertainties that could impact our business in the
+future. These statements are based upon our view of the business as of today, and ANSYS undertakes no
+obligation to update any such information.
+
+During this call, and in the prepared remarks, we'll be referring to non-GAAP financial measures unless
+otherwise stated. A discussion of the various items that are excluded and a full reconciliation of GAAP to
+comparable non-GAAP financial measures is included in this morning's earnings release materials and
+related Form 8-K.
+
+I would now like to turn the call over to our CEO, Ajei Gopal, for his opening remarks. Ajei?
+
+Ajei S. Gopal
+President, CEO & Director
+
+Thank you, Annette, and good morning, everyone. Q4 was yet another exceptional quarter for ANSYS,
+capping a stellar year. In the fourth quarter, we delivered record revenue, earnings per share and
+operating cash flow. Let me focus on annual contract value, or ACV, which we believe to be the best
+indicator of the underlying health of our business.
+
+Q4 ACV at well over $0.5 billion in the quarter for the first time in our history, represented growth of
+13% in constant currency, which was particularly gratifying considering the strong baseline set in Q4 of
+2018. For the full year of 2019, ACV grew a robust 12% in constant currency. As we look to 2020, we
+are guiding to over 12% growth in ACV in constant currency at the midpoint of our range. This gives
+us further confidence that we will achieve our goal of $2 billion in ACV by 2022, while maintaining our
+industry-leading margins in the 42% to 44% range. Maria will provide more detail in just a few minutes.
+
+Now let me provide insight into some of the growth drivers in the fourth quarter and for all of 2019.
+During Q4, 10 long-standing customers made 8-figure commitments, and nearly all of the deals over $1
+million included offerings from at least 3 of our product lines. From a geographic perspective, we saw
+strength in all our major territories last year. While North America led with 26% revenue growth for the
+year, I'm delighted that revenue in Europe grew 29% in Q4 and 14% in 2019, both in constant currency.
+For the full year, Asia Pac revenue grew 15% in constant currency despite a modest 2% revenue growth in
+Q4, which was attributable to variations in deal timings. In Japan, we grew revenue 20% in Q4.
+
+From an industry standpoint, high-tech continues to be our largest sector, fueled by electronics and our
+semiconductor solutions and supported by a multiphysics portfolio. And as you will hear shortly, we are
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+continuing to add new capabilities to our product offerings so our customers can keep driving innovation in
+this key industry.
+
+Moving to automotive. Other vendors have signaled weakness in the sector, perhaps, because of their
+focus on legacy programs or their inability to pivot to emerging customer requirements. For ANSYS,
+however, automotive is an area of strength, in part because we have successfully broadened our offerings
+to address key growth drivers, namely solutions for autonomous and electric vehicles. We have seen
+repeated evidence of that success in electric vehicles: first with Volkswagen, which we have previously
+discussed; and now with Porsche. In Q4, we announced that Porsche Motorsport is using ANSYS to create
+an advanced electric powertrain for its electric racecar. After proving itself on the track, Porsche expects to
+use the car's electric powertrain to usher in a new era of commercial e-mobility vehicles.
+
+Moving to other industries. Although energy is going through a transition, we are seeing increased
+demand in that sector, including an extended collaboration with leading energy technology company, Baker
+Hughes. This long-time customer signed a new agreement in Q4 to use ANSYS simulation to drive down
+design and development costs, including additive manufacturing while sparking innovation.
+
+We continue to see success in aerospace and defense, driven by increased customer investment in North
+America. In fact, the aerospace and defense industry is responsible for 4 of our top deals in Q4. The
+complex product challenges facing aerospace and defense organizations require a true multiphysics
+approach, including solutions for electromagnetics, fluids and next-generation materials.
+
+For example, a leading North American gas turbine manufacturer signed an 8-figure deal in Q4 to shorten
+its design cycle using faster, more reliable and accurate combustion simulations. By deploying our Mosaic
+Meshing and enhanced workflows, this industry leader reduced preparation time from hours to minutes
+while getting more consistent and robust results twice as fast. By using ANSYS solutions, we expect this
+global leader to save millions of dollars a year in reduced labor and related costs.
+
+Another large aerospace company is also benefiting from our comprehensive multiphysics portfolio. This
+company faced a complex set of operating conditions that made identifying potential failure mechanisms
+a challenge. It is using our best-in-class electrical, thermal and mechanical products as well as our
+electronics reliability simulation solution from last year's acquisition of DfR to improve designs and to
+mitigate possible failures. This resulted in an 8-figure deal in Q4, and it demonstrates our ability to
+efficiently integrate new technologies into our selling motion.
+
+As you can see, our customers are benefiting from the formidable combination of ANSYS solutions across
+physics. This is a powerful endorsement of the strength of the full portfolio, and it is one that we believe
+other vendors cannot match. We continue to extend our product leadership across the entire portfolio
+with our recently launched ANSYS 2020 R1. R1 accelerates company's digital transformation by enhancing
+the interfaces, functionality, workflows and scalability of our products. R1 includes multiple product and
+technology advances. But in the interest of time, I'll focus on areas of particular interest to the high-tech
+industry.
+
+To make 5G a reality, the industry must develop new array and beam steering technologies that overcome
+millimeter wave impediments such as signal propagation at 28 gigahertz. To overcome those challenges,
+we continue to make major investments in ANSYS HFSS, our flagship product for designing and simulating
+high-frequency electronic products. R1 includes groundbreaking new phased array antenna technology
+that enables 5G designers to model complete antenna arrays, a task that was previously computationally
+prohibitive.
+
+Developing modern antennas is only one challenge in realizing 5G systems. Chip designers must develop
+new architectures to co-locate the chip and the antenna, which introduces topology constraints and
+electromagnetic cross-dock challenges that did not previously exist. We recently announced new product,
+ANSYS RaptorH to solve these challenges. With its unparalleled accuracy, its unmatched capacity and
+speed and its smooth design flow integration for advanced nanometer integrated circuit design, we believe
+RaptorH is the most feature-rich electromagnetic tool in the market for system-on-chip flows. RaptorH
+marries the best-in-class engines from ANSYS RaptorX, which we gained in last year's Helic acquisition,
+and ANSYS HFSS into a single-chip package system design environment. Helic was acquired in Q1 2019,
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+and this product shows the speed at which the ANSYS R&D teams can incorporate new technologies into
+our portfolio.
+
+Our platform strategy is based on an extensible, vendor-neutral architecture that works both on-premises
+and in the cloud. ANSYS Minerva is based on this architecture and empowers companies to solve the
+seemingly intractable problem of dealing with the enormous amount of data created by multiphysics
+simulations of complex systems, such as 5G components and equipment. In R1, Minerva's scalable
+traceability, configuration management and versioning system ensures reliability and connectivity of
+simulation data to drive collaboration and insights across the product life cycle and across departmental
+silos. That traceability is critical to companies like Eaton Corporation that rely on Minerva to streamline
+the user experience when designing and manufacturing parts using additive manufacturing and other
+processes.
+
+These innovations are empowering our customers to solve some of their most challenging product
+problems. Our ongoing commitment to improving our best-in-class solutions is further widening the
+technology gap between us and our competitors. That gap is certainly evident with ANSYS Discovery Live,
+where we have significantly broadened structural use cases and expanded generative design capabilities
+while adding a GPU-based, steady-state computational fluid dynamic solver. This breakthrough enables
+design engineers to predict airflow and heat removal at rates 100x faster than the previous GPU solver
+within Discovery Live. One customer told us that they reduced component design time from 3 months to
+less than 2 weeks.
+
+Q4 marked the first large renewals for the Discovery business, and we are happy to see our early adopters
+expand their commitment to Discovery. On its most recent earnings call, our strategic partner, PTC,
+announced that it was also seeing a ramp-up of adoption in average deal size with its Creo Simulation Live
+product, which incorporates Discovery Live. As I mentioned previously, we expect the near-term financial
+impact of Discovery Live to be modest, but we see a strong long-term opportunity.
+
+Over the course of Q4, we also expanded our relationships with industry leaders, Autodesk, Microsoft and
+Rockwell Automation. With Autodesk, we built on our previously announced automotive workflow between
+our lighting simulation solution, ANSYS SPEOS and Autodesk VRED. Our new connection between ANSYS
+mechanical and Autodesk Fusion will drive revolutionary design and engineering agility for our customers,
+helping them expedite products to market.
+
+Our partnership with Microsoft also expanded, growing beyond our initial collaboration where we
+empowered customers to access high-performance computing on demand via ANSYS Cloud, which runs
+on Microsoft Azure. In Q4, we grew our collaboration to make it easier for customers to adopt and deploy
+Digital Twins. Through our expanded partnership, manufacturers that model and connect ANSYS using
+Azure Digital Twins can optimize asset production and operations using ANSYS Twin Builder. That enables
+users to slash product maintenance costs and speed high-quality products to market.
+
+Similarly, with Rockwell Automation, we're enabling customers to benefit by creating a digital twin of their
+full manufacturing process to create and test virtual what-if scenarios. In doing so industrial companies
+can adapt to market demands with more agility and minimize risk.
+
+We are also continuing to expand the market for simulation by reaching future users. Over 3,000
+universities use our technology for research and teaching, including students at Carnegie Mellon
+University, who are building and testing their own simulations in the newly opened ANSYS Hall. More than
+150,000 people have enrolled in Cornell University's massive online course in simulation based on ANSYS.
+And I'm pleased to announce that we have seen over 1 million downloads of our student products.
+
+I'd like to take a moment now to recognize my colleagues at ANSYS. As you know, the coronavirus is
+a rapidly evolving situation. Our #1 priority remains, of course, the safety and the well-being of our
+employees and their families around the world. And I am humbled and grateful for the commitment that
+our colleagues in China and elsewhere are showing as they continue to drive business execution in difficult
+circumstances.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Switching to our commitment to environmental, social and governance initiatives for just a moment. I'm
+proud that Newsweek recently named us to its 2020 list of America's Most Responsible Companies. And
+I'm delighted that 2020 Women on Board recognized ANSYS as a winning "W" Company for 2019 with at
+least 20% women on our Board of Directors.
+
+To summarize, building on double-digit ACV growth in 2018, 2019 was a record-breaking year for ANSYS.
+These results, combined with our 2020 forecast of double-digit ACV growth and our continued investment
+in our market-leading products, give us further confidence that we will achieve our goal of $2 billion in
+ACV by 2022. So you can understand why I'm excited for 2020 and beyond. As I have told you before, the
+future for ANSYS is brighter than ever.
+
+And with that, I'd like to turn the call over to Maria. Maria?
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+Thank you, Ajei. Good morning, everyone. Let me start off by saying that, financially, 2019 was our
+strongest year ever, and we are very encouraged about 2020, given the momentum in our business. For
+the full year of 2019, we delivered either above the midpoint or well above the high end of the range
+on our initial financial guidance, and we raised full year guidance 3x throughout the course of the year.
+Even more exciting is that we closed the year with a very strong fourth quarter, which included record Q4
+results across all of our key financial metrics. This is quite a testament to both our resilient business model
+and our team's ability to execute, particularly when you consider the very strong comparables for both Q4
+and the full year 2018.
+
+Now I'd like to take a few minutes to provide some additional color on our financial performance, and then
+I will close with an update on our outlook and key assumptions for Q1 and 2020. And consistent with our
+standard practice, my comments will be in terms of non-GAAP unless I state otherwise.
+
+For the fourth quarter, we delivered constant currency revenue growth of 18% and ACV growth of 13%,
+coupled with operating margin and EPS results that will grow above the high end of our Q4 guidance
+ranges. These record results were driven by strong market demand for our industry-leading multiphysics
+portfolio and by continued positive customer and business momentum.
+
+Now let's turn to some of the key financial metrics that I'd like to highlight for the quarter and the year,
+beginning with total revenue. We delivered $492.5 million in Q4, and for the full year, we recognized a
+record $1.5 billion in total revenue, growing 19% in constant currency. Q4 ACV totaled $541 million with
+78% of ACV in the quarter coming from recurring sources. Notably, this is our first quarter ever reporting
+over $0.5 billion in ACV. For 2019, our ACV totaled $1.46 billion, representing constant currency growth
+of 12% with recurring sources making up 77% of the total. We remind investors that we believe that our
+annual ACV is a key metric for gauging our operating performance over time.
+
+In the quarter, an increase in software lease license sales, combined with strong maintenance renewals,
+bolstered our deferred revenue and backlog total to $871 million, a 32% increase over last year's
+comparable balance.
+
+Moving on to profitability. In Q4, we continued to build on our solid performance throughout every quarter
+of 2019 with strong top line results that helped to drive a fourth quarter gross margin of 92% and an
+operating margin of 48%.
+
+For 2019, we finished the year with a gross margin of 91% and an operating margin of 45%. These results
+are evident that, first and foremost, we are committed to managing our business with discipline and,
+secondly, that we are successful in integrating tuck-in acquisitions into our business model while still
+delivering best-in-class margins. These strong margins helped to drive record fourth quarter and full year
+EPS of $2.24 and $6.58, both well above our guidance ranges.
+
+With respect to taxes, our effective tax rate in Q4 was 17% as compared to the 20% to 21% range that
+we had expected. The Q4 rate was favorably impacted by a $6.7 million benefit related to a December tax
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+law change in a foreign jurisdiction. Please keep in mind that this nonrecurring benefit will impact year-
+over-year comparisons in 2020.
+
+Our cash flow from operations totaled $139 million for the fourth quarter and $500 million for 2019,
+and we closed the year with a total of $872 million in cash and short-term investments. Let me add that
+the acquisitions of LSTC and Dynardo had a relatively insignificant impact on the results for the quarter,
+contributing $9 million of revenue and $7 million of ACV.
+
+Now let me turn to the topic of guidance. Before I get into the specific numbers, I would like to briefly
+comment on China, which accounted for just above 4% of our overall revenue in 2019. First, although the
+trade negotiations between the U.S. and China have somewhat improved with the completion of the Phase
+I deal, our full year guidance assumes that the U.S. sanctions on the China-restricted entities announced
+in 2019 will not be lifted. We estimate that the sanctions resulted in approximately $20 million of both ACV
+and revenue primarily booked in the first half of 2019 that we have assumed will not be repeated in 2020.
+Second, the recent outbreak of the coronavirus is bringing new challenges to China and to other countries
+in the region. The outbreak could potentially delay some deals originally planned in the first half of 2020 to
+the second half of the year. This has an insignificant impact on our annual outlook and is factored into our
+Q1 guidance.
+
+Before moving to our outlook for 2020, as I have consistently communicated over the past several years,
+our focus will be on progress against our annual targets as opposed to short-term quarterly results. You
+should expect, as we do, variability in quarterly financial results because ASC 606 revenue recognition
+rules could affect both revenue and related growth numbers based on the number, timing, size and
+duration of multiyear leases.
+
+As I described in detail in our last call, in any given quarter or year, there can be a disconnect between
+the revenue and ACV metrics. In some quarters and years, one metric can be ahead of the other. But
+eventually and often in the subsequent comparable quarter or year, the other metric must be ahead
+because the 2 metrics sum to the same number in the long term. In 2019, constant currency revenue
+growth of 19% disproportionately outpaced ACV growth of 12%, driven by large multiyear lease deals.
+In 2020, however, we expect constant currency ACV growth of 11% to 14% to outpace annual revenue
+growth of 8% to 12%. Note also that in both 2018 and in 2019, the second half of the year was stronger
+than the first, and Q4 was by far our largest quarter. We expect that this trend will continue in 2020.
+
+Going one level down, there are 3 reasons for why the second half will be stronger than the first. First
+is seasonality. The second half of the year, most notably the fourth quarter, continues to get seasonally
+stronger with a number of large multiyear lease deals in the pipeline. This is aligned with the timing of
+many of our customers' annual budgeting and spending cycles. Second is timing of specific deals. Q1 2019
+saw a small number of large multiyear lease contracts that contributed significant revenue in that quarter.
+Naturally, these contracts will not renew this year and, thus, will not contribute significant revenue in this
+quarter.
+
+Even though we expect the total revenue contribution of our multiyear leases in 2020 to increase as
+compared to 2019, this timing of Q1 2019 deals, coupled with the seasonality of large deals, means that
+the first quarter's revenue from multiyear contracts will be lower than Q1 of 2019. Third, the combined
+effect of the China sanction and coronavirus, which I described earlier, delays first half revenue and further
+strengthens projected revenue growth in the second half of 2020.
+
+Let's move on to the details of our outlook. We are initiating our guidance for Q1 and expect non-GAAP
+revenue in the range of $300 million to $320 million and non-GAAP EPS in the range of $0.75 to $0.88.
+For 2020, we expect non-GAAP revenue in the range of $1.64 billion to $1.7 billion or constant currency
+growth in the range of 8% to 12% and EPS in the range of $6.19 to $6.71. Our ACV outlook for 2020 is
+a range of $1.605 billion to $1.650 billion. This represents constant currency ACV growth in the range of
+11% to 14%. With respect to 2020 annual operating cash flow, our initial outlook in the range of $500
+million to $530 million, which considers a full year of interest expense on our term loan.
+
+Looking ahead to Q1. We are expecting operating margins of 27.5% to 30%, which are reflected on the
+lower revenue contribution in Q1 combined with a lower proportion of variable cost. And for the full year
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+2020, we expect margins in the range of 42% to 43%. This aligns with the target range of 42% to 44%
+that we communicated back in September 2019 at our Investor Day event.
+
+To close out from the topic of our outlook for 2020, let me just say that we have a strong pipeline,
+diversified business model and a high level of recurring revenues, all of which contribute to our confidence
+that 2020 will play out similar to the past 2 years. Further details around specific currency rates and other
+key assumptions that have been factored into our outlook for Q1 and 2020 are contained in the prepared
+remarks document.
+
+In summary, we delivered another quarter and year of record financial performance with strength across
+our key financial metrics. Our continued track record of delivering on our financial commitment gives us
+confidence that we will deliver another year of record financial performance in 2020. In addition, we will
+continue to invest in our business while we execute against our strategic priorities in support of delivering
+on our longer-term 2022 ambition.
+Operator, we will now open the phone line to take questions.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from Ken Wong with Guggenheim.
+
+Hoi-Fung Wong
+Guggenheim Securities, LLC, Research Division
+
+Maybe the first question for you, Ajei. You guys have historically been pretty conservative in terms of how
+you guys think about your business. And when we look at that ACV guide of 11% to 14% growth, help us
+understand maybe kind of what type of conservatism has been baked in and where you might see some
+opportunities for improvement as we work our way through the year. And then Maria, any way to help us
+with what the organic ACV growth of the business is for fiscal year '20?
+
+Ajei S. Gopal
+President, CEO & Director
+
+So I'll let Maria jump in as well. But a couple of assumptions that we've built in perhaps that might help
+for the 2020 ACV assumptions. Firstly, as you know, as I said in the comments, Q4 was an amazingly
+strong quarter in terms of ACV. So I'm excited about the performance. I'm excited about the pipeline. I
+think we have a very strong pipeline.
+
+Built into assumptions that there are a couple of headwinds, which perhaps might be relevant. One is
+we've assumed that currency is approximately a point, so that's approximately $15 million of a headwind,
+and that might be relevant to the conversation. And the other is, of course, is we're assuming from the
+China sanctions that there's a headwind from a growth perspective, and Maria mentioned that on the call
+as well, and that's approximately $20 million. And so taking that -- taken together, that's approximately
+2.3% or about 35% -- $35 million headwind coming into ACV for the year. And of course, that mitigates
+what we have in terms of an amazingly strong pipeline.
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+Yes. And Ken, with respect to inorganic contribution, we're expecting currently about 3% to 4% both to
+ACV and revenue will be the inorganic component.
+
+Operator
+
+Our next question comes from Jackson Ader with JPMorgan.
+
+Jackson Edmund Ader
+JP Morgan Chase & Co, Research Division
+
+Just had quick follow-up, Maria. The inorganic contribution, what about for 2019 to both ACV and
+revenue?
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+It was roughly about 3% to 4% as well for the full year.
+
+Jackson Edmund Ader
+JP Morgan Chase & Co, Research Division
+
+Yes. Okay. That's helpful. And then the cash flow outlook. Looks like, again, you guys are looking for kind
+of low single-digit cash flow. And if we look at that as a percent of -- I know revenue can bounce around,
+but even as a percent of ACV, it's kind of coming down again. Can you just comment on maybe free cash
+flow conversion relative to what you would expect in kind of normalized years outside of all the 606 noise?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+So let me talk about a couple of the primary factors that we built into our current outlook for operating
+cash flow. So first and foremost is, as you heard me say on the call, the slightly reduced margin in 2020
+as compared to 2019. I also mentioned, this is the first year that we have interest payments on long-term
+debt that we entered into in connection with the LSTC acquisition. That's about $13 million impact. The
+stronger U.S. dollar. The expectation that we'll have increased tax payments in 2020 related to our strong
+profitability last year. And one other nuance that you may or may not be aware of that relates to another
+accounting change, there is a new accounting standard that we adopted and that others will adopt that
+impacts the treatment of certain items that move from -- historically were treated as investing items that
+now move into operating, and so those will also have a negative impact relative to the cash flows in 2020.
+So the combination of all of those elements is what leads us to the $500 million to $530 million that we
+currently are projecting.
+
+Operator
+
+Our next question comes from Jay Vleeschhouwer with Griffin Securities.
+
+Jay Vleeschhouwer
+Griffin Securities, Inc., Research Division
+
+Ajei, in your prepared remarks, you referred to the new features and capabilities in the 2020 release,
+including the incorporation of some acquired functionality. The question then for that is, could you talk
+about how you have evolved or may yet have to evolve your internal development processes, R&D
+management and the like? I've asked this question of other companies like Adobe, for example, that
+have large complex portfolios, that have also been acquisitive. I'd be curious to understand how you,
+particularly for multiphysics and the non-solver business, have perhaps made some changes, if any, to
+R&D.
+
+And then secondly, also for you. Talk about, if you could, the interplay, as you see it, between services,
+including, in particular technical consulting on the one hand, and your solver and non-solver businesses.
+What is the connection there in terms of services as you see it as either a leading indicator or coincidental
+indicator to support and enable the software business?
+
+Ajei S. Gopal
+President, CEO & Director
+
+So if I understand the question about R&D, and I'll try to answer it as best as I can, and hopefully,
+this gets to the gist of your question, we -- as any sophisticated company with a broad portfolio of
+technologies, we rely on a combination of both organic development, where we have a road map that we
+execute against. And in certain occasions, we rely on acquisitions, and the acquisitions could be because
+there's a technology that we've decided we need, which might be better served by going out and buying a
+company, which has already developed that as opposed to developing ourselves.
+
+We have an amazingly engaged and capable R&D organization, and we continue to drive innovation
+after innovation, and I gave you an example of some of the innovations in HFSS. And if you look at the
+R1 release, you'll see a chapter and verse of all kinds of new features and capabilities that continue to
+enhance our products across a number of different dimensions.
+
+But at the same time, we believe that acquisitions are an important aspect, that there are a number of
+startup companies that have interesting ideas. There are other companies that perhaps maybe a little bit
+more established that have developed great technology like LSTC had. And we are able to bring them in
+and rapidly incorporate them into our R&D processes and our development processes. We have an internal
+mechanism to be able to share information. We have a technical conference, for example, where our R&D
+leaders from around the world and technical leaders can come get together and share information. There's
+a lot of collaboration. And you're seeing that in the results.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+I gave the example of RaptorX. You've seen the results in some of our optics technology where we
+announced ANSYS SPEOS, which brought together some of the work that we had on solid modeling, on
+the SpaceClaim side together with the SPEOS capabilities and so on. You can see that in our autonomous
+offerings, where we have brought together core technology that we've developed over the years as well
+as acquisitions that came in -- as well as technology that came in from acquisitions. You see that in our
+platform strategy, which includes capabilities that we've developed as well as other things that we've
+acquired. So it's a complex equation, but I think that our team is incredibly sophisticated, and we're able
+to deal with that complexity very well. So I think that's the first piece of the -- that's the first piece of your
+question.
+
+The second piece is with respect to services. Look, we have a -- we are not a services company, a
+professional services company. That is not our business model. We're a software business. And for us,
+while we do services, services are fundamentally in support of driving software sales. Now we do have
+a small services organization that supports some of our larger opportunities. And especially when it's in
+a broad -- in new emerging area, we can certainly see an incremental set of requests for the services
+capabilities that we provide. But that's not our business, and we work with service partners around the
+world who can add to the ecosystem. So many of our large channel partners and others can add to the
+ecosystem to provide service delivery to our customers. This is obviously not an area where we are
+focusing on trying to significantly increase our share of the business. As I said, our business model is that
+of a software company.
+
+Operator
+
+Our next question comes from Joe Vruwink with Baird.
+
+Joseph D. Vruwink
+Robert W. Baird & Co. Incorporated, Research Division
+
+The dynamic around 8-figure deals continues to be very impressive. Do you think your performance within
+a specific industry vertical or with the existing 8-figure customers is at a point where ANSYS is maybe
+benefiting from a referral sale dynamic?
+
+Ajei S. Gopal
+President, CEO & Director
+
+If what you're saying in the question is do you believe that customers are seeing that ANSYS has
+technology that can help other people in the marketplace and therefore could help themselves, in
+other words, the customer says, look, I can see what ANSYS is doing elsewhere, and therefore, they're
+in a position to help me, I think customers look to work with winners. I think we're a winner in the
+marketplace, and customers like to work with us. We certainly see customers who appreciate the fact that
+we've invested ahead of the curve, for example, in areas like autonomy and electrification, IoT, where we
+have great capability, and we can demonstrate customer success in the conversations that we're having
+with customers. I hope -- does that answer your question?
+
+Joseph D. Vruwink
+Robert W. Baird & Co. Incorporated, Research Division
+
+Yes, yes, it does. And then going back to the strong pipeline for FY '20. Can you maybe just discuss how
+business conditions outside of China, outside of the affected areas, have changed year-to-date maybe
+relative to your expectation for the ACV pipeline and close rates at the start of the year?
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+Yes. So Joe, what I would say is on a global front, we don't see -- outside of China, we don't see any
+huge changes from the macro environment that existed when we exited Q4. And I think for us, the --
+what gives us confidence relative to our outlook for 2020 is that -- to the topic that you just spoke to Ajei
+about, every single one of those 8-figure deals that were closed in Q4 were in the pipeline when we came
+out with guidance in November. So we successfully were able to close every single one of those, and we
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+know that we've got a strong pipeline of deals that are scheduled to close in Q4 of next year just because
+of the renewal cycle.
+
+They're lighter in Q1 just because of the ones that we closed this year that will not repeat. But we are very
+confident that based on everything that we know today, we've got a strong pipeline. We've got customers
+that are investing heavily in their own digital transformation to keep pace with market expectations. And
+so while it may appear on the surface that Q1's light, when you look at the full year and the fact that
+we're putting up double-digit ACV and revenue growth at the midpoint for the full year, we're very excited
+about the opportunity that we see ahead.
+
+Operator
+
+Our next question comes from Steve Koenig with Wedbush Securities.
+
+Steven Richard Koenig
+Wedbush Securities Inc., Research Division
+
+I'll have one follow-up as well. On the Q4 specifically, it looks like constant currency, you were just about
+at the midpoint of your guide. I'm wondering, could you comment -- that's for ACV. Can you comment on
+what factors could have gotten you to the high end of guide? And conversely, what factors could have led
+you more towards the low end? You came right down in the middle on the fairway, it looks like.
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+Yes. So Steve, what I'll say is there were 2 primary factors that contributed to where we ended up on
+ACV, and both of those, unfortunately, were outside of our control. The first being currency. And the
+second, if you'll recall, we closed the LSTC acquisition right before we gave guidance in November. And
+about 100% of that business came through their channel. We were not able to engage with the channel
+during due diligence, and so as a result, what we discovered once we closed that deal, that the forecasting
+methodologies that their channel used were not necessarily aligned with what a public company would do.
+
+And so as a result, that ended up -- the contributions from the acquisitions were a little bit less than we
+anticipated. So if you take the combination of the forecasting negative, which we have now fixed and have
+been resolved as we head into 2020, and the impact of currency, the 2 of those essentially would have
+brought us closer to the midpoint.
+
+Steven Richard Koenig
+Wedbush Securities Inc., Research Division
+
+Got it. That's helpful, Maria. And then for my follow-up, you explained in some pretty good detail why
+second half looks -- should be somewhat stronger than the first half. I'm wondering specifically relative to
+the coronavirus assumptions and the statement that the full year shouldn't be impacted, I'm wondering
+what inputs are you considering there in terms of the second half bounce-back in making that forecast.
+What kind of -- are you looking at the news? Or does it come from your channel in China? Or what's giving
+you confidence in that assumption, specifically around the outbreak?
+
+Ajei S. Gopal
+President, CEO & Director
+
+So let me take a crack, and then I'll have Maria jump in as well. We are in -- obviously, as you can
+imagine, we are in very close contact with our team in China, and we're working closely with them as
+well as we're in contract with our channel partners in China. We're a software business. And as you can
+imagine, a lot of the activity that needs to be done in order to communicate with customers and work with
+customers can actually be done over the network, it can be done over telephone calls and so forth. And
+we are seeing that our team in China, and I alluded to this in my comments, our team in China is able to
+-- despite the fact that some of our offices are closed, our team in China is able to go in -- to be able to
+work from home and to reach our customers, who are also working from home and are able to get access
+to businesses and so forth.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+And so based upon that and what we're seeing in terms of our ability to move our business forward, we've
+taken a -- we're somewhat conservative. We're moving -- we believe that there will be obviously some
+impact in the sense that there will be some business that will be delayed from the first half to the second
+half. But we believe that the underlying dynamics of the market continue to be strong. The demand for our
+products continues to be high. We're continuing to be able to make progress against opportunities, and so
+we've modeled this as essentially a delay of activity that might have otherwise been scheduled for the first
+half, delaying into the second half. Maria?
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+Yes. And I'll just say, Steve, relative to that commentary, we have factored in into our Q1 outlook some
+prudent caution relative to the coronavirus and the impact that it will have on our Q1 business in China
+specifically.
+
+Operator
+
+Our next question comes from Andrew DeGasperi with Berenberg.
+
+Andrew Lodovico DeGasperi
+Joh. Berenberg, Gossler & Co. KG, Research Division
+
+First, on your partnership with Rockwell. I was just wondering when do you think you expect to see some
+progress there. Should it be consistent with the digital twin opportunity you highlighted at your Investor
+Day? Or would it potentially materialize sooner than that?
+
+Ajei S. Gopal
+President, CEO & Director
+
+So our partnership with Rockwell is very much about the opportunity to help with the manufacturing
+process, and it's the use of digital twins in the manufacturing process to be able to optimize that. So yes,
+it is related to the deployment of digital twin technology. But at the same time, this is not an esoteric long-
+term multiyear activity. We are working actively with customers today. And customers, I think -- working
+together with customers, I think we can demonstrate the benefit of the use of digital twins and being able
+to optimize their manufacturing processes. And I'm not sure if we could talk about specific customers
+today by name, but there's one particular large CPG customer, for example, that we're actively engaged
+with that I'm very excited about.
+
+Andrew Lodovico DeGasperi
+Joh. Berenberg, Gossler & Co. KG, Research Division
+
+Great. And just the last one on -- in terms of the energy sector, you mentioned it was a low growth cycle
+last year, and -- but it picked up in the second half. Can you mention what's changed?
+
+Ajei S. Gopal
+President, CEO & Director
+
+Yes. I think when you look at energy, what's happening is that the industry is transitioning some of its
+investments from where they've historically been, so looking at things like digital transformation, they're
+looking at predictive analytics, material intelligence, additive manufacturing, robotics, autonomous
+systems. So it's not only what they've traditionally looked at, but they're starting to broaden. And of
+course, these are areas where we can now -- we've historically had a lot of investments, and then we can
+continue to broaden our conversations with these service providers in the energy sector to include all of
+these new capabilities where they're seeking to broaden their own solutions. And that's continued to drive
+-- that continues to drive opportunities.
+
+Operator
+
+Our next question comes from Rich Valera with Needham & Company.
+
+Richard Frank Valera
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Needham & Company, LLC, Research Division
+
+Ajei, I appreciate your comments on Discovery Live. Just wondering -- you mentioned you didn't expect it
+to be sort of material near term, but if you could give us any sense of when you think that might be able
+to be a material contributor.
+
+And then what other opportunities might you have beyond the PTC arrangement now, either to sort of
+broaden that agreement as they've broadened out their product line or potentially to partner with other
+players in the CAD industry?
+
+Ajei S. Gopal
+President, CEO & Director
+
+Well, as far as our relationship with PTC is concerned, look, I'm excited about the relationship with PTC.
+I think that they're a great partner. And obviously, they have recently gone through the acquisition of
+Onshape, which is the great technology they brought onboard, and we continue to have conversations
+with them about how our relationship can evolve and grow. So that's an ongoing dialogue we continue to
+have with our partners at PTC.
+
+As far as the first question in terms of the Discovery business in the aggregate, I mean I think that the
+technology is incredible, and we're going after a market opportunity that continues to evolve and develop,
+and that's one of the reasons why we've been incredibly cautious about how we imagine the financial
+impact of this business is going to be. And I think we've been very consistent in saying that this is going
+to be a relatively modest piece of our business for a long time, and that's in part driven by the fact that
+the audience that we're going after is a relatively conservative audience. And adoption of these kinds of
+technologies, unlike the consumer technology, adoption takes time.
+
+We continue to drive the new innovation and the innovations that we -- I described some innovations
+before, I don't want to go through them again. But we continue to drive new innovations and new
+capabilities and that continues to broaden and strengthen our capability in the market. So I'm excited
+about where we are. I believe we've made great progress. We have seen progress with customers who
+have come through the enterprise renewal process. So it wasn't like they were just buying it to evaluate it.
+They're buying it and they're rebuying it. So that's a really positive sign, and we continue to see that as a
+tailwind for the business as we go forward.
+
+Operator
+
+Our next question comes from Matt Pfau with William Blair.
+
+Matthew Charles Pfau
+William Blair & Company L.L.C., Research Division
+
+I just wanted to ask on the LSTC acquisition. How is the integration of that business progressing? You
+mentioned that, historically, they've done majority of their sales through the channel. Are you working
+on transitioning that sales notion more to your internal sales force? And then I do know they have some
+exposure in automotive, and you mentioned that the autonomous and electric was good for ANSYS. How
+about LSTC and their automotive exposure?
+
+Ajei S. Gopal
+President, CEO & Director
+
+So firstly, the area that -- let me start with the last piece. The area where LSTC has a lot of strength in
+automotive is in crash testing. Crash testing, when I meant the more legacy areas, I was talking about
+potentially a transition from electric to the internal combustion engine. And if you start to think about that
+transition, customers are spending more money on electric drivetrains and thinking about that change
+versus internal combustion engines.
+
+However, when you consider now the fact that you have, say, a battery inside a car, and as I've described
+in previous calls, the transition to an electric drivetrain and to a battery-operated car fundamentally
+changes the nature of the design. The chassis changes. Weight assumptions change. There's a
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+fundamental redesign taking place across the car in the aggregate. But that means that you have to
+rethink what it means for collisions and response to collisions. And then of course, the battery, you have
+to worry about battery explosions and battery fires and things of that nature. So you have to really rethink
+and spend a lot of effort understanding how collisions -- because collisions might happen.
+
+You have to make sure that the collisions are not going to be catastrophic, and that means there continues
+to be significant demand even in the new world of electric cars for the kind of work that we're doing, and
+I'm very excited about the opposition there in the marketplace. So that's with respect to the actual end
+market in automotive for LSTC.
+
+As far as the integration of the technology and the product is going, the integration is going really well.
+We are -- the technology is very consistent with what we expected. We were a long-time reseller as well
+of the technology, so we certainly understood it before we did the acquisition. It's consistent with what we
+expected, and it's a great team, and they're great people.
+
+As far as the channel partners are concerned, we're working with those channel partners. They're
+integrating into the ANSYS ecosystem, and we're working with the channel partners. We're honoring those
+relationships and supporting those channel partners because they have some really valuable customer
+relationships and incredible skills and capabilities that we want to maintain within the ANSYS ecosystem.
+So we want those channel partners to grow and thrive within the ANSYS ecosystem. And the good news
+is that we have a vibrant channel relationship already, and those channel partners can grow inside it. And
+we are very supportive of them continuing to be able to grow their business as being part of the broader
+ANSYS family.
+
+Operator
+
+Our next question comes from Jason Celino with KeyBanc Capital Markets.
+
+Jason Vincent Celino
+KeyBanc Capital Markets Inc., Research Division
+
+I understand the lower revenue dynamics driving the lower margins in Q1, but expense growth looks to
+be the highest in Q1. Can you maybe talk about acquisition integration costs, investments or core cost
+timing?
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+Yes. So what I'll say, Jason, is, please keep in mind that Q1 is the first quarter of all 5 of the acquisitions
+coming into play that we did last year. So the combination of the acquisitions along with our own organic
+hiring and a number of digital transformation activities that we've got going in our own business, just
+result in Q1 having a lot less variable cost than if you look across the entire year. So we're excited that we
+will continue to run our business with diligence, that we'll continue to deliver best-in-class margins. But we
+really encourage you to look at the margins over the course of the full year as opposed to just a 90-day
+period.
+
+Jason Vincent Celino
+KeyBanc Capital Markets Inc., Research Division
+
+Great. And then relative -- actually following back to the coronavirus and that pushing some ACV and
+revenue into the second half, I understand that it might delay some work. But can you maybe talk about
+second half resources that would be devoted to that?
+
+Ajei S. Gopal
+President, CEO & Director
+
+When you say resources that would be devoted to that, what specifically you're referring to?
+
+Jason Vincent Celino
+KeyBanc Capital Markets Inc., Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Well, if you think about what it takes to close a deal, if you have got work that was supposed to close
+in first half that is closed in second half, would there be a second half work that would be delayed as a
+result?
+
+Ajei S. Gopal
+President, CEO & Director
+
+I understand what you're saying. No, we don't see any significant impact. I mean when you consider the
+aggregate of our business, it's so large. We're talking about a relatively de minimis amount relative to the
+overall value of our business. So it's a tiny -- it's noise in the big scheme of things from a back-end deal
+closing perspective, the people who actually close the deals as far as the books are concerned.
+
+As far as the actual work with the customers, as I said, a lot of that work is taking place right now,
+where we are able to work with the customer virtually. We are able to do -- continue with telephone calls.
+We're able to continue working over the Internet. We can do webinars. We can do webcasts. Customers
+have access to demo systems as they need to. All of that activity continues to take place. As I said,
+our colleagues in China -- and once again, I want to acknowledge our colleagues in China who've been
+working on the difficult circumstances for a while. Our colleagues in China are able to continue to drive the
+business forward, and they are actively working to do that.
+
+And so we feel like a lot of the spade work that we need is continuing to happen. We will continue to see --
+we will continue to close business in Q1. And -- but we've modeled -- for the sake of being prudent, we've
+modeled the slippage of some business into the second half of the year. And that's, of course, already in
+the guidance.
+
+Operator
+
+Our next question comes from Adam Borg with Stifel.
+
+Adam Charles Borg
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Great. Just a quick one, in the prepared remarks, it was interesting to see some increasing momentum in
+the health care vertical in North America. Maybe you could just talk a little bit more about what's driving
+the strength and what efforts you're devoting against that in 2020.
+
+Ajei S. Gopal
+President, CEO & Director
+
+Yes. So let me just try to take that for a second. Look, we see simulation is becoming increasingly
+important for a sector of the health care market. And while it's a relatively small vertical for us today, I
+think we're making significant progress there, especially in Q4. In the physics -- in physics that's based
+on the health care sector, specifically that we're focused on, which is things like device manufacturing --
+medical devices and so on, we've been working with the regulator of the FDA. We've been working with
+the EU. And we believe that the health care industry is heading more towards things like in silico trials and
+outcomes like personalized medicine, and then physics space simulation will play an even more active role.
+
+And we've, frankly, been very active in this field for a long, long time, maybe for the last decade. And
+we've been engaging globally with policymakers, with academics, with consortia to try to make sure that
+we can explain to the industry and bring the industry and the regulations along to the use of in silico trials,
+and I think we've made significant progress.
+
+Now in Q4 specifically, as I said, we had several larger deals with medical device market leaders,
+specifically focusing on the use of simulation and leading to products that could be deployed more rapidly
+and products that could get regulatory approval more rapidly. So that translates into a very specific value
+proposition to the customers, which is they can get new product to market faster and at lower cost with
+greater probability through the regulation process. And so that's a low-hanging fruit for us, but we see all
+kinds of opportunity in the [indiscernible] still that we're working towards.
+
+Operator
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Our next question comes from Tyler Radke with Citi.
+
+Tyler Maverick Radke
+Citigroup Inc, Research Division
+
+Just 2 quick ones for you, Maria. So I just wanted to clarify the question on ACV performance in Q4. I
+thought you said that if you had the currency play out as you'd originally expected and then some of
+the pipeline forecasting issues with the acquisition, you would have kind of come in, in the midpoint of
+guidance. I guess what kind of prevented you from -- sorry, go ahead.
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+Near the midpoint?
+
+Tyler Maverick Radke
+Citigroup Inc, Research Division
+
+Yes. I guess what would have prevented you from going towards the high end? Were there any types of
+deals that slipped? Or what's kind of the factors there? And then just a quick follow-up. As I think about
+the divergence between operating cash flow, margin and operating income margin, over time, would you
+expect those to kind of triangulate kind of in the same neighborhood? I think they're north of a 10-point
+delta today. But just how to think about those in the long run?
+
+Maria T. Shields
+CFO and Senior VP of Finance & Administration
+
+So Tyler, what I'd say is like any year-end, there are customers that will apply pressure to get better
+discounts or better terms and conditions. And so if you decide to take those deals, then you can always
+end up at the high end of guidance. And if you decide to think about our business as a long-term play and
+not give in to the pressures of giving away software and services that are highly valuable for discounts
+that make a number in Q4 look better, we just choose to run our business for the long term. And so
+there's always ways to make the numbers look better, but are they the right ways for the business in the
+long term? So as we said, we're very excited about our performance in Q4. We closed the deals that were
+in our forecast that mattered. We had a record quarter, and we're excited about what we see ahead for
+2020.
+
+Operator
+
+Our next question comes from Mark Schappel with Benchmark.
+
+Mark William Schappel
+The Benchmark Company, LLC, Research Division
+
+Just one question, Ajei. Could you just clarify your prepared remarks around the improvements you saw in
+the energy sector? Are you seeing broad-based improvements in that industry? Or did your comments just
+pertain to the big deal with Baker Hughes?
+
+Ajei S. Gopal
+President, CEO & Director
+
+No. As I said, I think I mentioned this in one of the earlier questions as well, we are seeing customers
+in the energy sector. And again, we have a definition of the energy sector. We have customers in the
+energy sector who are looking to broaden what they were previously interested in. So it wasn't just the
+conversations that we've been historically having. There are broader conversations about things like
+predictive intelligence and materials and robotics that I mentioned before. Another area that continues to
+be of interest is emissions reduction, things like carbon capture. And so we saw some new opportunities
+that emerge from things like carbon capture with applicability for renewable energy and energy storage,
+battery management, battery systems and things of that nature. So all of those are outside of the
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+traditional business that you might have perhaps associated with the energy sector, and those represent
+incremental opportunities for us as we think about our business going forward.
+
+Operator
+
+Our next question comes from Matthew Swanson with RBC Capital Markets.
+
+Matthew John Swanson
+RBC Capital Markets, Research Division
+
+This is Matt Swanson on for Matt Hedberg. You performed really well in the automotive sector in 2019 by
+going after some of those new dollars around electrification and automation. So far in 2020, it seems like
+PMI data might be improving, areas like Germany, Brexit. It seems like there's less uncertainty from the
+U.K. Could you talk a little bit about the return, maybe if some of those old dollars, and what that could
+mean to the space?
+
+Ajei S. Gopal
+President, CEO & Director
+
+Well, as I said, I think that some of the directions that we've talked about in the automotive industry,
+for 100 years, the automotive industry has been based on assumption that it's an internal combustion
+engine, and it's driven by a human being. And both of those assumptions are being challenged at the
+same time. So we expect -- so a significant amount of the R&D spend is going towards these next-
+generation technologies. It is going towards electrification. It is going towards electric systems. It is also
+going towards electric driving. It's also going towards autonomy. And while we may not necessarily see full
+autonomy in the short term, as we go on this journey to autonomy, we have improved safety systems, we
+have autonomy and limited circumstances and so forth. So that level of investment is an ongoing stream
+of investment that we see happening for multiple years, and we're excited about that.
+
+That being said, when you look at the full portfolio, I think that we have some tremendous strength in the
+automotive industry outside of these new areas that we've talked about. We talked briefly about crash.
+That's an area that we continue to be strong. That's obviously through the acquisition. And we continue to
+be strong in other areas with the portfolio that we've driven. Some other interesting areas like optics have
+also come into our portfolio through acquisitions. So we have a very strong footprint in the automotive
+industry today. We have good capabilities, both for the emerging areas, where there's a lot of R&D spend,
+as well as the more traditional areas. And we're very excited about our position.
+
+Operator
+
+This concludes our question-and-answer session. I would like to turn the conference back over to Ajei
+Gopal for any closing remarks.
+
+Ajei S. Gopal
+President, CEO & Director
+
+Great. Thank you. 2019 was another outstanding year for ANSYS, and we exceeded expectations on many
+of our key financial metrics. We continued to improve execution across the geographies and our go-to-
+market strategies. We broadened our product capabilities, and we announced several new partnerships
+and collaborations. These are important accomplishments, and they continue to move the business in the
+right direction, and they give us confidence in our ability to achieve our long-term targets. We are looking
+forward to another exciting year in 2020.
+
+And in closing, I would like to express my sincere gratitude to our customers and to our partners for their
+support. And of course, a shout out to my ANSYS colleagues. Thank you all for your efforts, and thank you
+for another exceptional quarter and an exceptional year. Thank you all for joining the call. Please enjoy the
+rest of your day.
+
+Operator
+The conference has now concluded. Thank you for attending today's presentation. You may now
+disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+ANSYS, INC. FQ4 2019 EARNINGS CALL |  FEB 27, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+

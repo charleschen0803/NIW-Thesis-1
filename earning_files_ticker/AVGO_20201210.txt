@@ -1,0 +1,913 @@
+Broadcom Inc. NasdaqGS:AVGO
+FQ4 2020 Earnings Call Transcripts
+Thursday, December 10, 2020 10:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2020-
+
+-FQ1 2021-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+GUIDANCE
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+6.20
+
+6.35
+
+2.42
+
+6.36
+
+-
+
+22.06
+
+22.16
+
+0.45
+
+25.29
+
+6432.96
+
+6467.00
+
+0.53
+
+6486.27
+
+6600.00
+
+23858.30
+
+23888.00
+
+0.12
+
+25874.92
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Dec-10-2020 3:52 PM GMT
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+5.36
+
+5.14
+
+5.19
+
+6.20
+
+5.25
+
+5.14
+
+5.40
+
+6.35
+
+SURPRISE
+
+(2.05 %)
+
+0.00 %
+
+4.05 %
+
+2.42 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+BROADCOM INC. FQ4 2020 EARNINGS CALL |  DEC 10, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Beatrice F. Russotto
+Director of Investor Relations
+
+Hock E. Tan
+CEO, President & Executive
+Director
+
+Kirsten Spears
+
+Thomas Krause
+
+ANALYSTS
+
+Craig Matthew Hettenbach
+Morgan Stanley, Research Division
+
+Harlan Sur
+JPMorgan Chase & Co, Research
+Division
+
+Vivek Arya
+BofA Merrill Lynch, Research
+Division
+
+John William Pitzer
+Crédit Suisse AG, Research
+Division
+
+Ross Clark Seymore
+Deutsche Bank AG, Research
+Division
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research
+Division
+
+Toshiya Hari
+Goldman Sachs Group, Inc.,
+Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+BROADCOM INC. FQ4 2020 EARNINGS CALL |  DEC 10, 2020
+
+Presentation
+
+Operator
+
+Welcome to Broadcom Inc.'s Fourth Quarter and Fiscal Year 2020 Financial Results Conference Call. At
+this time, for opening remarks and introductions, I would like to turn the call over to Beatrice Russotto,
+Director of Investor Relations for Broadcom Inc. Please go ahead, ma'am.
+
+Beatrice F. Russotto
+Director of Investor Relations
+
+Thank you, operator, and good afternoon, everyone. Joining me on today's call are Hock Tan, President
+and CEO; as well as the senior leadership team as announced this afternoon, including Tom Krause,
+President, Infrastructure Software Group; Charlie Kawwas, Chief Operating Officer; and Kirsten Spears,
+Chief Financial Officer.
+
+Broadcom also distributed a press release and financial tables after the market closed, describing our
+financial performance for the fourth quarter and fiscal year 2020. If you did not receive a copy, you
+may obtain the information from the Investors section of Broadcom's website at broadcom.com. This
+conference call is being webcast live, and a recording will be available via telephone playback for 1 week.
+It will also be archived in the Investors section of our website at broadcom.com.
+
+During the prepared comments, Hock, Kirsten and Tom will be providing details of our fourth quarter
+and fiscal year 2020 results, guidance for our first quarter as well as commentary regarding the business
+environment. We'll take questions after the end of our prepared comments. Please refer to our press
+release today and our filings with the SEC for information on the specific risk factors that could cause our
+actual results to differ materially from the forward-looking statements made on this call.
+
+In addition to U.S. GAAP reporting, Broadcom reports certain financial measures on a non-GAAP basis. A
+reconciliation between GAAP and non-GAAP measures is included in the tables attached to today's press
+release. Comments made during today's call will primarily refer to our non-GAAP financial results.
+
+And with that, I'll turn the call over to Hock.
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Thank you, Bea. Before I discuss our results, I do want to highlight the senior leadership appointments we
+just made around the same time this afternoon, which is all about ensuring continued growth and success
+of Broadcom. But first and foremost, as you see here, I'm not going anywhere. I'm as committed and
+engaged as ever. But while you often see me and Tom, behind us, we have a very strong bench that has
+gotten us to where we are today. So today, we are elevating some of this deep bench into critical positions
+that will strengthen our organization going forward. Tom, Charlie and Kirsten are among the people who
+sustain the platform and make the phenomenal numbers I'm about to announce happen. And to showcase
+our deep bench of talent at Broadcom, starting in fiscal year '21, we plan to organize a series of analyst
+days on the various businesses where you can hear from our respective general managers about their
+businesses. And to kick this off, the first will occur this January, where Ram Velaga and Alexis Björlin will
+review our networking franchise.
+
+With this, let me now turn to our very strong fourth quarter results. We capped off fiscal 2020 with record
+quarterly revenue and profitability despite the ongoing pandemic and macroeconomic uncertainties. We
+delivered net revenue of $6.5 billion, above the midpoint of our guidance and up 11% sequentially and
+12% -- up 12% year-on-year. Semiconductor solutions revenue was $4.8 billion, increasing 6% year-on-
+year and most notably representing a return to year-on-year revenue growth. Infrastructure software
+revenue was $1.6 billion, up 36% year-on-year, which of course, includes the contribution from Symantec.
+
+Let me now turn first to semiconductors. Networking, which represented approximately 35% of our
+semiconductor solution revenue in the quarter, was up 17% year-on-year, driven by the continued
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+BROADCOM INC. FQ4 2020 EARNINGS CALL |  DEC 10, 2020
+
+strength in cloud data center spending as well as continued spending by telcos in upgrading Edge and core
+networks. Moving on to Q1, we expect this trend of double-digit percentage year-on-year revenue growth
+to continue even as we expect enterprise campus spending to continue to soften.
+
+Turning to broadband, which represented approximately 14% of semiconductor solutions in the quarter.
+That was up 22% year-on-year. Growth was driven by the work-from-home environment and the need
+among service providers as well as consumers to upgrade broadband connectivity, too, as well as within
+the home. We experienced strong adoption of WiFi 6 in next-generation access gateways in telcos and
+consumers. In fact, in this environment, WiFi, where we are very well positioned as a leader, has turned
+into a substantial and growing business for the company. Beyond WiFi, we also experienced strong
+investment by service providers in GPON, that's fiber-to-the-home, and digital subscriber line copper as
+well as cable modems among the cable operators. All this more than offset a decline in video. We expect
+low to mid-teens percentage year-on-year growth -- revenue growth in broadband for Q1 as demand
+continues to remain strong.
+
+Moving on. Wireless revenue, which represented approximately 31% of semiconductor revenue in this
+quarter, was up 43% sequentially in Q4 with the launch of new generation flagship phone by a large North
+American OEM customer. Still, this was down 9% year-on-year given the 1-quarter delay in the ramp
+of production of that program. Accordingly, we expect Q1 fiscal '21 to now be the peak quarter of this
+seasonal ramp, and revenue will compare extremely favorably with the same quarter a year ago, and we
+expect that to be up over 50% year-on-year.
+
+Turning to server storage connectivity that represented approximately 14% of Q4 semiconductor revenue
+-- and was down 9% year-on-year, as expected, reflecting softness in enterprise demand. Turning to Q1,
+we expect revenue to continue to decline. And given the strong Q1 compare in fiscal '20, we expect this to
+be down double digits even as much as perhaps 20%.
+
+Last, turning to industrial, which represented approximately 3% of Q4 semiconductor solution revenue.
+We're seeing demand recovery especially out of China. And consolidated resales -- and here, we sell
+through distributors, of course, were up 4% year-on-year. And we forecast such resales in Q1 to start -- to
+accelerate to mid-teens year-on-year growth as the recovery in industrial and auto continues.
+
+So in summary, our semiconductor solutions segment was up 6% year-on-year in Q4, driven primarily
+by the ramp in wireless as well as continued strength in networking and broadband. Forecasting Q1, we
+expect this ramp in wireless to peak, and broadband and networking demand to remain strong. This will
+drive revenue in the semiconductor segment to increase in Q1 by high-teens percentage year-on-year.
+
+Turning to software. Let me reiterate our business model here. We focus, as we have said many times,
+only on the largest enterprise customers and seek to increase the adoption of the software products to a
+hybrid model, about 90% of which are recurring subscription revenue. We have stepped up investment in
+R&D focused on just these core customers. And we are able to do that by spending much less on our go-
+to-market outside of our large core enterprise customers unlike obviously the other software companies
+who are chasing every last dollar of revenue no matter how much it costs.
+
+So let me tell you -- with 2 years of CA under our belt, let me tell you how we have done. Revenue-wise,
+after 2 years integrating CA onto our platform, Q4 '20 revenue was up 5% year-on-year. For Symantec,
+if you exclude services and hardware, Q4 product revenue of $380 million was up 10% from Q1 fiscal
+'20, which was obviously our first quarter after acquisition. But if we just look at revenue from our core
+accounts in CA, this was in fact up double digits, closer to 12% year-on-year, driven by bookings which
+have continued to grow double digits on an annualized basis. This is obviously -- this growth in core
+accounts has obviously more than offset the plain decline in services and attrition of accounts outside our
+core enterprise customers. That's how we expect to sustain our core software business long term albeit
+at low to mid-single-digit percentage revenue growth. But we intend to drive to a financial outcome that
+is consistent with the Broadcom model. You'll hear more on that from Kirsten when she talks about our
+financial model.
+
+So looking ahead to next quarter, on a year-on-year basis, we expect CA and Symantec software revenue
+to continue to grow in the mid-single digits. However, in Q1 fiscal '21, we expect Brocade to decline
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+BROADCOM INC. FQ4 2020 EARNINGS CALL |  DEC 10, 2020
+
+high single digits, consistent with softness in enterprise markets, resulting in our infrastructure software
+segment revenue to be flat to perhaps up low single-digit percentage year-over-year.
+
+In summary, we expect Q1 consolidated net revenue of $6.6 billion, up approximately 13% year-over-
+year, all derived organically. Today, we are in a unique situation. We started fiscal 2021 with record
+backlog that has now grown to over $14 billion today. But the timing of this conversion of backlog to
+revenue won't be driven by a supply chain which continues to be tight.
+
+Finally, I want to take the opportunity here to thank our team for all their work in fiscal 2020. This
+has undoubtedly been a challenging year, and through it all, all of our employees have demonstrated
+unwavering focus and resilience. Because of their hard work, our mission-critical technologies have never
+been more relevant than they are today.
+
+And with that, let me turn you over to Kirsten.
+
+Kirsten Spears
+
+Thank you, Hock. By way of background, while I've been a part of Broadcom for more than 6 years, my
+history in accounting and reporting roles from legacy companies, Avago and LSI, dates back over 20
+years. I'm proud of the strong finance organization that Broadcom has built and I look forward to working
+together.
+
+I know Hock just gave you the details on revenue, which I'll recap before moving down the P&L to
+discuss our fourth quarter performance, which clearly demonstrates our strong foundation for future
+growth. Consolidated net revenue for the fourth quarter was $6.5 billion, a 12% increase from a year
+ago. Semiconductor solutions revenue was $4.8 billion and represented 75% of our total revenue this
+quarter. This was up 6% year-on-year. Revenue for the infrastructure software segment was $1.6 billion
+and represented 25% of revenue. This was up 36% year-on-year given the inclusion of Symantec.
+
+Continuing down the P&L. Gross margins were 74% of revenue in the quarter, up approximately 370
+basis points year-on-year. The expansion in gross margin year-on-year was driven by favorable product
+mix in semiconductors and a higher percentage of software revenue. Operating expenses were $1.1
+billion, up 10% year-on-year due primarily to the addition of Symantec. Operating income from continuing
+operations was $3.6 billion and represented 56% of revenue. Operating margins were up approximately
+400 basis points year-on-year. Adjusted EBITDA was $3.8 billion and represented 59% of revenue. This
+figure excludes $139 million of depreciation.
+
+Gross margins for our semiconductor solutions segment were approximately 68% in Q4, up 320 basis
+points year-over-year, driven by an improved product mix. This mix included more networking products
+and less wireless. As you know, wireless carries around 10 points less margin on product profitability
+than the rest of our semiconductor portfolio. Operating expenses were $777 million in Q4 or 16% of
+semiconductor solutions revenue compared to $727 million in the prior year period as we continued to
+invest in our business. R&D cost as a percentage of revenue for Q4 was approximately 14%, and SG&A
+as a percentage of revenue was 2%. Operating margins for our semiconductor solutions segment were
+52% in Q4, up 290 basis points year-on-year. All told, in semiconductor solutions, revenue was up 6% and
+operating profit grew 12%.
+
+Gross margins for our infrastructure software segment were 90% in Q4, up 130 basis points year-
+over-year. Cost of revenue primarily includes cost of product support, hosting for our SaaS products,
+professional services and hardware. Operating expenses were $338 million in Q4 or 21% of infrastructure
+software revenue compared to $290 million or 24% of revenue in the prior year period as we generate
+scale through the acquisition of Symantec. R&D cost as a percentage of revenue for Q4 was approximately
+12%, and SG&A as a percentage of infrastructure software revenue was 9%. Operating margin was
+69% in Q4, up 480 basis points year-over-year. Our operating margins reflect our model which is about
+focusing on the largest enterprise customers and increasing our share of their wallet in terms of our
+software portfolio. Given this model, we are able to focus our R&D investments on a strategic group of
+customers and, by doing so, reduce costs primarily on go-to-market. This is how we get to operating
+margin of about 69%, which we believe we can sustain.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+BROADCOM INC. FQ4 2020 EARNINGS CALL |  DEC 10, 2020
+
+Looking at cash flow. We had quarterly free cash flow of $3.2 billion, representing 50% of revenue. This is
+up 36% year-on-year as we managed our working capital more tightly during this pandemic.
+
+Moving on to capital allocation for Q4. We paid our common stockholders $1.3 billion of cash dividends.
+We also paid $185 million in withholding taxes due on vesting of employee equity, resulting in the
+elimination of approximately 500,000 AVGO shares. We ended the quarter with 407 million outstanding
+common shares and 451 million diluted shares. Note that we expect the diluted share count to be
+450 million in Q1. On the financing and balance sheet front, we reduced total debt by $3 billion in the
+quarter. All told, we ended the quarter with $7.6 billion of cash and currently have $12.6 billion of
+liquidity, including our $5 billion revolver. We ended the quarter with $41.1 billion of total debt, of which
+approximately $800 million in short term.
+
+I'll now turn the call over to Tom.
+
+Thomas Krause
+
+Thank you, Kirsten. Let me now recap our financial performance for fiscal year 2020. Our revenue hit a
+new record of $23.9 billion, growing 6% year-on-year. Semiconductor solutions revenue was $17.3 billion,
+down 1% year-over-year. Infrastructure software revenue was $6.6 billion, which included $1.5 billion
+from Brocade, which was down 17% year-on-year; $3.5 billion from CA, which was up 4% year-on-year;
+and the addition of Symantec, which was $1.6 billion.
+
+Gross margin for the year was a record high of 73.5%, up from 71% a year ago. The addition of Symantec
+as well as a beneficial mix in semiconductor product sales drove the gross margin expansion. Additionally,
+operating expenses were $4.6 billion, which included the addition of Symantec. Operating income from
+continuing operations was $12.9 billion, up 8% year-over-year and represented 54% of net revenue.
+Adjusted EBITDA was $13.6 billion, up 8% year-over-year and represented 57% of net revenue. This
+figure excludes $570 million in depreciation. We accrued $644 million of restructuring and integration
+expenses and made $583 million of cash restructuring and integration payments in fiscal 2020. We spent
+$463 million on capital expenditures, and free cash flow represented 49% of revenue or $11.6 billion. Free
+cash flow grew 25% year-over-year.
+
+Now on to capital allocation. For the year, we returned $6 billion to our common stockholders, consisting
+of $5.2 billion in the form of cash dividends and $800 million for the elimination of 2.6 million AVGO
+shares. We also paid $299 million in dividends to our preferred stockholders. I would also note through
+the refinancing and liability management activities we've undertaken this year, our weighted average debt
+maturity is now approximately 6 years with a weighted average interest rate of approximately 3.5%.
+
+Looking ahead to fiscal 2021, we remain committed to returning approximately 50% of our prior year
+normalized free cash flow to stockholders in the form of cash dividends. With that, on the dividend, based
+on approximately $12 billion of free cash flow in fiscal year 2020, we are increasing our target quarterly
+common stock cash dividend starting this quarter to $3.60 per share. This constitutes an increase of 11%
+and assumes a basic outstanding share count of 413 million shares at the end of fiscal 2021. We plan to
+maintain this dividend payout throughout this year, subject to quarterly Board approval. Consistent with
+our capital allocation policy, we will reassess the dividend this time next year based on our fiscal '21 free
+cash flow results.
+
+With that, I'll turn the call back over to Bea.
+
+Beatrice F. Russotto
+Director of Investor Relations
+Thank you, Tom. At this time, we'll open the call for questions. We have Hock, Tom, Kirsten and Charlie
+available to answer any questions. So operator, please go ahead and kick us off.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+BROADCOM INC. FQ4 2020 EARNINGS CALL |  DEC 10, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question will come from Craig Hettenbach with Morgan Stanley.
+
+Craig Matthew Hettenbach
+Morgan Stanley, Research Division
+
+A question for Hock. I think on the call a year ago, you talked about an increase in R&D investment in
+those areas in cloud, photonics, I think wireless infrastructure. So I just wanted to get an update on how
+that's progressing and the visibility into kind of revenue from that R&D investment.
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Okay. That's a very good question. And the investment, we -- the cadence of the investment we're doing
+continues in areas that we see as very strategic in various businesses. And you've seen some of that
+coming out as we continue to do so. For instance, last week, we announced the introduction and ramp --
+and introduction availability of the -- our 800-gig platform for switching, routing and interconnects in the
+basic size, retimers and all that, that goes hand in hand with it. So all about launching 800-gig platform
+and that comes in the form of our new product, Tomahawk 4.
+
+And it's pretty interesting that we're launching it now because our previous generation, which is at 400-
+gig platform, Tomahawk 3, which we introduced over a year ago, of course 1.5 years ago, is just starting
+to ramp. We then will have -- in terms -- into a larger market. And we're already launching an 800 gig. So
+the speed and -- the regularity and the speed at which we are pushing this product is definitely something
+we intend to keep. We're coming out with a newer generation. Probably -- that is probably 2x throughput
+capacity and the regularity of 18 months to 2 years on a consistent basis because that's what our hyper
+cloud customers want. And it makes sense because we need to scale up data centers as CPUs start to hit
+the limitation of the Moore's Law. Now that's one example.
+
+As part of that, as we indicated a year ago, we're stepping our investment in areas of silicon photonics
+basically to enable interconnects at very high throughput, at very high bandwidth. And that's been going
+very, very well. It's a multiyear investment. And as we indicated from the last time we talked about it, we
+are now only on the second year, but we expect to have something that will make -- that will be out to the
+marketplace within a generation or 2 of our platforms in switching and routing. And that's on that aspect
+of it.
+
+In terms of further investments, we have stepped up investment, as I indicated in my report, on WiFi,
+on connectivity of base 802.11ax now. And we launched that platform 2 years ago, very successful.
+And we're already working on -- and we have invested a lot on the next-generation WiFi 7, successor
+to this WiFi 6. In between, we're putting out 6-gigahertz WiFi, that's WiFi 6E, which is the spectrum
+bandwidth recently was approved by the FCC not long ago. And we already have our first product certified
+by the FCC recently. We're the first out there. So we intend to be in the lead, for instance, in this wireless
+connectivity, which by the way, today, as I indicated, represents a very substantial and growing part of our
+business. And it's a testimonial to the reliable investment and success we've gotten in this area.
+
+And so these are some of the things that we have. And most of this investment are multiyear, but you
+do start to see some of the bands, some of the products, some of the launches, some of the revenues
+starting to come in with this level of investments we are making in here.
+
+Operator
+
+Our next question will come from Vivek Arya with Bank of America Securities.
+
+Vivek Arya
+BofA Merrill Lynch, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+BROADCOM INC. FQ4 2020 EARNINGS CALL |  DEC 10, 2020
+
+Good luck to Tom and Kirsten and Charlie in your new roles. Hock, the question is for you on supply
+constraints that several of your peers in semiconductors have mentioned, whether it's in substrates or
+wafers or foundry capacity. I'm curious where does Broadcom stand on this. Is supply a factor in your
+reported results or your Q1 outlook or something that you think can constrain the growth in fiscal '21?
+Just what steps are you taking to make sure it doesn't constrain growth and also, on the other side, make
+sure customers are not double ordering because of all these supply issues?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Well, interesting question. We reported on -- by the way, we reported on this supply constraint at least
+3 months ago when we did our earnings call, in fact probably even earlier than that. We have seen --
+probably even 2 quarters ago, we have seen that supply constraint. And we were one of first to report on
+it. And that supply constraint continues from when we first touched on it 6 months ago. And it's -- in some
+area, it just seems to revolve in different specific areas, where it is. We talked about wafers then -- since
+then, as you correctly pointed out. And we hear in the news substrate is a consideration. And believe me,
+beyond that, wire-bonding is even a possible constraint depending on whether -- like it's more and more
+automotive legacy products come in.
+
+So we operate in an environment -- and I mentioned in my remarks that it's fairly unique. Here, we are
+in the middle of a pandemic. Here, we are where there are winners and losers even in the product lines,
+even in the industry we're in, where there are some businesses where demand is just booming. And we
+touched on that in networking, in broadband and some areas, particularly in enterprise, where they're not
+so strong. But what we also see is supply -- a capacity from our supply chain that is tight. That's what
+we're doing. And we have seen that for months, and we have taken a lot of actions to have address it
+and we continue to do that. We're also one of the largest consumer of those third-party manufacturers in
+semiconductors out there, be they wafers, be they substrates, be they back-end assembly or test capacity.
+We are all in there and we've been seeing it for 6 months.
+
+So best answer is we're managing that. We have -- having said that, we have the backlog in place. And
+we have also, very early on in our fiscal '20, stretched out a supply chain not only based on what we're
+seeing but based on what we anticipate happening. And that has also enabled us to be able to, in a more
+orderly manner, in what I consider a more appropriate manner, put products in the hands of end users
+who need it at the appropriate time. We've done that very well. And having said all that, even as we do
+it, our backlog continues to grow. To give you a sense, I mentioned we have $14 billion -- over $14 billion
+of backlog today. When we started the quarter, our backlog -- and we're shipping in between since then,
+beginning of the quarter, our backlog was $12 billion. So it's accelerating.
+
+But having said that, please don't get carried away in the other aspect. As you know, wireless business
+that we have is seasonal. So we are seeing -- obviously, wireless -- our wireless backlog is a significant
+part of a total backlog. But given the seasonality of it, we obviously have seen a deceleration in the
+bookings that are coming in from our wireless business. But we are seeing, on the other side, acceleration
+and continued strength in orders coming in from the other parts of our business. Networking has always
+remained strong. Broadband continues to be very strong. And now we start to see the smaller part of our
+business, industrial, coming in very, very strong. So one side is offsetting the other, and we continue to
+see this strong backlog, which in a way makes our planning in our supply chain easiest but in some ways
+poses other challenges of making sure we are delivering products to the right consumer -- customers at
+the right time.
+
+Operator
+
+Our next question will come from Harlan Sur with JPMorgan.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+Great job on the quarterly execution, and congratulations to all on the executive appointments. Hock,
+we're still at the very start of the 400-gig networking upgrade cycle with your hyperscale customers. It
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+BROADCOM INC. FQ4 2020 EARNINGS CALL |  DEC 10, 2020
+
+seems like telco service providers are also starting to adopt the white box switch and routing model, which
+is good for your Tomahawk and Jericho chipsets, and then you guys are also benefiting from the optical
+connectivity that goes along with your switching solutions. Beyond this quarter, do you see sustainability
+of the networking upgrade and spending cycle through next year? And then given the wafer and substrate
+constraints, are your lead times in networking expanding beyond 6 months now?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Very good question, Harlan, and thank you for your kind words. To answer the first part, yes, we -- our
+new product generation in 400G platform, as I mentioned earlier, is starting to ramp up in a big way this
+coming -- this fiscal '21, started in '20 with a couple of large hyperscale customers, and it's been a -- and
+it started ramping up with many more fiscal '21 and I'm sure it goes on to '22.
+
+And we do not see a slowdown in the demand. And you're correct. Operator -- service provider and
+operators are also adopting these merchant silicon in the routing platforms on their networks, as I
+mentioned, particularly in core as well as Edge. And we're seeing extreme -- very, very good demand and
+success, as evidenced by the backlog and orders we are getting from service providers and not just hyper
+cloud, particularly service providers on our merchant silicon Jericho family. So that's good. And do I see
+that continuing? Probably as far as you can see, '21. We have -- our lead times is now beyond 6 months to
+answer your question.
+
+So -- and just to add a further thought, we have a policy in this company that we -- and adhere to very,
+very strictly for both -- because of financial governance, any orders placed on us do not -- we do not allow
+to be canceled. All our customers know that. All our partners know that. So we're actually seeing real
+demand out there at least 6 months. And that brings us pretty close to the second -- to the -- or that
+brings us in fact to the second half of fiscal '21 at that point and, I guess as many of you will know, just
+in time for the beginning of a seasonal ramp of the next-generation wireless products. So our '21 visibility
+appears to be remarkably better than we usually have at this point in the beginning of our fiscal year.
+
+Operator
+
+Our next question will come from Stacy Rasgon with Bernstein Research.
+
+Stacy Aaron Rasgon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+I had a question on the wireless trajectory. Last quarter, just given the change in seasonality, you had
+given us a little bit of color -- actually on this quarter, you said it would probably still grow sequentially.
+How should we think about the seasonality into -- I guess is it the May quarter or February just especially
+given there seems to have been a pushout. It looks like wireless in Q4 was -- actually came in a little
+lower than you had expected, and it sounds like some of that's pushing into Q1. So can you -- I guess
+given those dynamics and given that's the seasonal peak in Q1, can you give us some idea similar to what
+you did last quarter on what to expect for the wireless trajectory into fiscal Q2?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Well, that's a tough question. And to begin with, we generally don't talk much about Q2, though I did give
+you guys some indication based on backlog we're sitting today why it's unlikely to flow. But I mean you're
+right. I mean we have this $14 billion of backlog, which continues to grow. And substantially, most of it --
+a lot of it will be filled between Q1 and Q2, to begin with and a bigger picture.
+
+But in the way you ask in respect of wireless, you're correct also in pointing out when we do year-on-year
+comparisons now, it's very interesting because the Q4 fiscal '20, the quarter we just finished and reporting
+on, becomes the first quarterly ramp of our wireless business, and it compares to Q4 fiscal '19, which in
+typical cycles in the past is you see the peak quarter of revenue seasonally for our wireless business. So
+you're comparing an initial ramp against a peak quarter. And that's down, as I indicated, 9% year-on-year.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+BROADCOM INC. FQ4 2020 EARNINGS CALL |  DEC 10, 2020
+
+The big ramp now for this current generation of phones in our wireless business will be our Q1, the
+quarter we are in now. And that compares to the Q1 of fiscal '20 now, which is post big ramp of the last
+generation, which is why I also indicated we're likely to see a 50 -- around a 50% year-on-year step-up
+in our wireless revenue. Now we go on to Q2 -- and I think people -- probably things get back to more
+normalcy, and as always, expect wireless to demonstrate a seasonally -- seasonality as probably the
+bottom quarter of an annual cycle.
+
+Operator
+
+Our next question will come from John Pitzer with Credit Suisse.
+
+John William Pitzer
+Crédit Suisse AG, Research Division
+
+Hock, glad to see that you're sticking around. I guess I want to ask some of the questions around the
+management change and specifically Tom's new position. I'm just kind of curious what that might mean
+for the software infrastructure business longer term and whether or not there's any sort of plan to
+potentially actually spin that business out. And I asked the question because clearly, when you look at
+the core IP you have in your silicon business around I/O, around acceleration and how important those IP
+blocks are, when you look at the sum of the part valuation of overall Broadcom, it just looks dirt cheap.
+You've doubled the operating margins in the software businesses since you acquired those companies
+and you've got great franchises in silicon and yet you're trading at a big discount. Is there a belief that
+perhaps the best way to get value longer term for these businesses might be a spin? And is that part of
+the rationale behind Tom's new position?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+No. I love the fact you speculate so vividly here. But no, there's no plan. I think it's just that the software
+businesses, especially go-to-market, is a very interesting play for this company because Broadcom as a
+whole -- and you look at us, we have around $20 billion, $25 billion roughly, give or take, a few billion
+in revenues, each 1 year. We're a technology company, purveyors out there, technology suppliers to an
+ecosystem. And by that, I mean an ecosystem addresses end users, be they hyper cloud, be they service
+providers or be they basic, large -- while we tend to focus large enterprises out there, like the banks,
+insurance companies, travel agency, whatever the end user. We look at this as our eventual end-use
+customers. That's our ecosystem. And as key product ecosystem, we have partners with the OEMs, some
+distributors, but largely, our key partners are on the OEMs. And these are our partners. These are, in a
+way, important partners that we often sell our products with and through. We look at it that way.
+
+So when you look at it that way, end-use software, infrastructure software, it's no different than the silicon
+solutions, hardware and software tied to it that we sell out there. It's just that we tend to sell silicon
+software through partners, with partners who wrap in a system and go to end users versus infrastructure
+software where we tend to go direct though not all the time. Sometimes, we go with [ MS GS ], service
+providers like IBM, GTS or DXC that sells it through, but ultimately, those end users who uses our
+software. And we look at ecosystem that way, it makes total logical sense that we have a unified platform
+that does everything across. Because at the end of the day, we are still fulfilling to the same end users,
+whether they are semiconductor hardware solutions with software developer kit, SDK, or other operating
+system or straight infrastructure software, some with appliances too, I could add. And so that, to me -- to
+us, long term is very logical. They stay together.
+
+Operator
+
+Our next question will come from Ross Seymore with Deutsche Bank.
+
+Ross Clark Seymore
+Deutsche Bank AG, Research Division
+
+Congrats to all the senior appointments. I guess this one could be for Hock, Tom or Kirsten. I want to talk
+about the capital allocation side. Versus a year ago, you've delevered the balance sheet, pushed out the
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+BROADCOM INC. FQ4 2020 EARNINGS CALL |  DEC 10, 2020
+
+maturities, locked in some good rates. So there doesn't seem to be an issue there. You're comfortable
+enough to raise your dividend significantly. So I wanted to hear what your thoughts are especially given
+the pandemics and what's going on with the backlog being as large as it is as far as how are you thinking
+about the other half of your capital. Any sort of update given the environment? Or is it as simple as you're
+just going to focus on either giving it back with shareholder returns via buybacks or do a deal?
+
+Thomas Krause
+
+Ross, it's Tom. I'll take that one. I think it's very much back to business as usual. I think obviously, 2020,
+we got into the crisis mode earlier in the year. I think we focused a lot on pushing out maturities. We
+added the balance sheet from a liquidity standpoint, which we continue to do. And the markets were very
+favorable and we're able to do all that. I think obviously, business also came back and performed quite
+well. And as Hock's talked about, we've got a decent amount of visibility in the first half and we'll see what
+happens in the second half, but it seems like the year is set up for a reasonable amount of success.
+
+And so I think with that in mind, we're comfortable with our investment-grade credit rating. We have
+delevered. We paid down $3 billion of debt in Q4. We're upping the dividend, as you mentioned, and
+sticking to the policy of giving back about 50% of free cash flow. So that's going to leave us with
+some excess cash. And we always look at it as what are the right relative returns and what's best for
+shareholders, and that usually means buying back stock or doing M&A. And I think we'll certainly look at
+doing both. We're biased toward acquisitions historically, and I think we'll continue to be so as long as we
+can find the right targets and generate the right returns consistent with our business model. So I'd really
+say business as usual, Ross.
+
+Operator
+
+Our next question will come from Timothy Arcuri with UBS.
+
+Timothy Michael Arcuri
+UBS Investment Bank, Research Division
+
+I guess I wanted to follow on John's question. So in addition to the management changes, you're pretty
+much giving us a full segment P&L, which you've never done before. So I guess the question is, why now?
+Is there some investor feedback on maybe that the segmentation will drive a better multiple? I mean, for
+sure, the stock is very inexpensive and it seems like sum of the parts would be a better way to value it.
+But is there some feedback that's giving you the -- driving you to sort of break out a segment P&L?
+
+Hock E. Tan
+CEO, President & Executive Director
+
+Tim, you answered your own question perfectly, yes. We're doing it because we feel that we should give
+more disclosures, more specifics of our various businesses. As you noticed, in addition to giving full P&L,
+almost full P&L to the extent there is, because there's also some amount of allocation. But we try to be
+very representative of our 2 large -- of our 2 segments, semiconductors and infrastructure software.
+
+You will notice that we've been -- especially in semiconductors, we give you a lot now more color and
+breakdown on what drives, what -- which are the particular end-market applications in semiconductors
+and the behavior and the dynamics in each of those verticals. And something we understand, we have
+been perhaps more lacking in the past, which we try to remedy now by giving you guys much more
+details.
+
+And it's also -- in this particular environment, it is very, very important. I think we give it because I
+cannot say that all cylinders are firing like crazy because as you all know, we all know, they're not in this
+environment. We have some cylinders -- and as we indicated very [ lastly ], there are some areas where
+we're very, very -- where it's performing very, very well. And it's performing very well, I should quickly
+hasten to add, not because we are super good in it, which we are, but we're also super good in the other
+areas that are not performing as well also. It's just the economy, the macro economy, the demand and
+unusual situation we're all in.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+BROADCOM INC. FQ4 2020 EARNINGS CALL |  DEC 10, 2020
+
+And so we felt it is appropriate to give you guys more specifics what's driving the overall revenue and
+what has changed because as I also indicated in my last earnings call, when we began this year, we had
+a certain set of expectations, which has dramatically changed now that we finished the year. I expected
+-- I had expected semiconductor as an industry to recover from downturns of 2019, obviously, and
+that 2020 will be a slow, steady recovery, accelerating into the back end. What we didn't expect is in
+actual numbers, it did recover but not everything recovered. And it's -- in a sense, it's a response to the
+requirements, the situation of a pandemic and a work-from-home environment. And so we see those
+businesses that are doing superbly.
+
+And to really explain it, we felt we had to give you more disclosures and which we are. And if we start
+giving you disclosure and as I give you -- go all the way and show you where -- even how the segment --
+the 2 broad segment P&L look like. And one of the other things we want to also demonstrate to you guys,
+loud and clear, is that we have a business model in mind, a thesis, investment thesis when we go and bind
+these specific software companies, some of which may not be in favor when we bought them. But what
+we're looking at as we look at semiconductors is that these are very sustainable franchises, which with the
+right approach, with the right model and the right focus, which we like to think what we described to you
+as the approach we're taking, that we can make them into real, sustainable franchises and generate the
+kind of cash and profit returns that we are demonstrating to you today and that those are sustainable.
+
+Operator
+
+And our final question today will come from Toshiya Hari with Goldman Sachs.
+
+Toshiya Hari
+Goldman Sachs Group, Inc., Research Division
+
+I had a follow-up question for Tom. Now that you'll be leading the software business going forward, what
+are the 1 or 2 top priorities for you in running that business?
+
+And a clarification question. I think, Hock, in your prepared remarks, you talked about the long-term
+growth rate in your software business being in the low to mid-single digits. Is that an organic number? Or
+does that include M&A?
+
+And then on M&A, Tom, if you can speak to the pipeline and software and your thoughts on valuation
+today, that would be helpful.
+
+Thomas Krause
+
+There was just so many questions, I can barely remember the first one but I -- look, I'm excited. I think
+we've got a great team bringing together the go-to-market and the business units under one umbrella. I
+think it will allow us to scale, continue to grow, which we've been doing. We've had some early success,
+and we've got a lot to learn. And so I think this positions us well, and I'm looking forward to it. Beyond
+that, we'll take all the other follow-up questions on the call -- back call, but thanks very much.
+
+Operator
+
+Ladies and gentlemen, thank you for participating in today's question-and-answer session. I would now
+like to turn the call back over to Ms. Beatrice Russotto for any closing remarks.
+
+Beatrice F. Russotto
+Director of Investor Relations
+
+Thank you, operator. So in closing, we did want to note that we'll be kicking off the presentation by our
+General Managers at the JPMorgan Tech Forum on Tuesday, January 12. Hock will be joined by Ram Velaga
+and Alexis Björlin from our networking division to present at that event.
+
+So thank you. That will conclude our earnings call today. And operator, you may end the call.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation. You may
+now disconnect.
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+BROADCOM INC. FQ4 2020 EARNINGS CALL |  DEC 10, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+

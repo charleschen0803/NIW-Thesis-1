@@ -1,0 +1,1311 @@
+DexCom, Inc. NasdaqGS:DXCM
+FQ3 2021 Earnings Call Transcripts
+Thursday, October 28, 2021 8:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ2 2021-
+
+-FQ3 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+Revenue  (mm)
+
+0.44
+
+551.64
+
+Currency: USD
+Consensus as of  Oct-28-2021 1:44 AM GMT
+
+0.65
+
+617.11
+
+2.48
+
+2400.08
+
+3.53
+
+2925.20
+
+FQ3 2020
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.66
+
+0.92
+
+0.29
+
+0.44
+
+0.94
+
+0.91
+
+0.33
+
+0.76
+
+42.42 %
+
+(1.09 %)
+
+13.79 %
+
+72.73 %
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+Call Participants
+
+EXECUTIVES
+
+Jacob Steven Leach
+Executive VP & CTO
+
+Jereme M. Sylvain
+Executive VP, CFO & Chief
+Accounting Officer
+
+Kevin Ronald Sayer
+Executive Chairman, CEO &
+President
+
+Sean Christensen
+Director of Corporate Affairs &
+Head of Investor Relations
+
+ANALYSTS
+
+Anthony Charles Petrone
+Jefferies LLC, Research Division
+
+Lilia-Celine Breton Lozada
+JPMorgan Chase & Co, Research
+Division
+
+Malgorzata Maria Kaczor
+Andrew
+William Blair & Company L.L.C.,
+Research Division
+
+Marie Yoko Thibault
+BTIG, LLC, Research Division
+
+Mathew Justin Blackman
+Stifel, Nicolaus & Company,
+Incorporated, Research Division
+
+Matthew Charles Taylor
+UBS Investment Bank, Research
+Division
+
+Matthew Oliver O'Brien
+Piper Sandler & Co., Research
+Division
+
+Cecilia E. Furlong
+Morgan Stanley, Research Division
+
+Nathan Treybeck
+Wells Fargo Securities, LLC,
+Research Division
+
+Christopher Thomas Pasquale
+Guggenheim Securities, LLC,
+Research Division
+
+Neil Chatterji
+Cowen and Company, LLC,
+Research Division
+
+Danielle Joy Antalffy
+SVB Leerink LLC, Research
+Division
+
+Jeffrey D. Johnson
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Joanne Karen Wuensch
+Citigroup Inc., Research Division
+
+Kyle William Rose
+Canaccord Genuity Corp.,
+Research Division
+
+Pavel S. Molchanov
+Raymond James & Associates, Inc.,
+Research Division
+
+Ravi Misra
+Joh. Berenberg, Gossler & Co. KG,
+Research Division
+
+Steven Michael Lichtman
+Oppenheimer & Co. Inc., Research
+Division
+
+Travis Lee Steed
+Barclays Bank PLC, Research
+Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+Presentation
+
+Operator
+
+Welcome to the DexCom Third Quarter 2021 Earnings Release Conference Call. My name is Darryl, and
+I will be your operator for today's call. [Operator Instructions]. Please note that this conference is being
+recorded. I will now turn the call over to Sean Christensen. Sean, you may begin.
+
+Sean Christensen
+Director of Corporate Affairs & Head of Investor Relations
+
+Thank you, operator, and welcome to DexCom's Third Quarter 2021 Earnings Call. Our agenda begins
+with Kevin Sayer, DexCom's Chairman, President and CEO, who will provide a summary of our progress
+on our third quarter highlights and strategic initiatives; followed by a financial review and outlook from
+Jereme Sylvain, our Chief Financial Officer. Following our prepared remarks, we'll open the call up for
+your questions. Our Chief Technology Officer, Jake Leach, will also be present with us for the Q&A period.
+[Operator Instructions]
+
+Please note that there are also slides available related to our third quarter performance on the DexCom
+Investor Relations website on the Events and Presentations page. With that, let's review our safe harbor
+statement.
+
+Some of the statements we will make in today's call may constitute forward-looking statements. These
+statements reflect management's intentions, beliefs, expectations and assumptions about future events,
+strategies, competition, products, operating plans and performance. All forward-looking statements
+included in this presentation are made as of the date hereof based on information currently available to
+DexCom, are subject to various risks and uncertaintiesand and actual results could differ materially from
+those anticipated in the forward-looking statements. The factors that could cause actual results to differ
+materially from those expressed or implied by any of these forward-looking statements are detailed in
+DexCom's annual report on Form 10-K, most recent quarterly report on Form 10-Q and other filings with
+the Securities and Exchange Commission. Except as required by law, we assume no obligation to update
+any such forward-looking statements after the date of this presentation or to conform these forward-
+looking statements to actual results.
+
+Additionally, during the call, we will discuss certain financial measures that have not been prepared in
+accordance with GAAP with respect to our non-GAAP and cash-based results. Unless otherwise noted, all
+references to financial metrics are presented on a non-GAAP basis. The presentation of this additional
+information should not be considered in isolation or as a substitute for results or superior to results
+prepared in accordance with GAAP. Please refer to the tables in our earnings release and the slides
+accompanying our third quarter earnings presentation for a reconciliation of these measures to their most
+directly comparable GAAP financial measure.
+
+Now I will turn it over to Kevin.
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+Thank you, Sean, and thank you, everyone, for joining us. Today, we reported another strong quarter
+for DexCom with third quarter revenue growth of 30% compared to the third quarter of 2020 and 28%
+growth on an organic basis. This revenue growth rate represents continued momentum from DexCom CGM
+adoption around the world, as we once again achieved a record quarter of new customer growth. The third
+quarter also saw several strategic accomplishments across our teams that lay the foundation for our future
+growth opportunities.
+
+In the U.S., we received FDA clearance for 2 key software solutions that continue to differentiate our
+connected products from those of our competitors and position us as a partner of choice across a health
+care and wearables ecosystem. First, in July, we received FDA clearance for our real-time API. For those
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+of you who are unaware, an API is the tool that allows one app to connect with another app. Prior to this
+clearance, our customers and clinicians could only utilize our retrospective API, which integrated DexCom
+data into third-party apps on a 3-hour delayed basis.
+
+We believe that by putting the power of choice at our users' fingertips with real-time data, we can help
+ease the daily burden of diabetes management and significantly improved quality of life for our customers.
+This tool will be available to partners invited by DexCom, and we already have several that have begun
+the development process to enable real-time displays for their communities. This includes Garmin, which
+became the first partner to launch apps connected to our real-time API 2 weeks ago, bringing DexCom
+readings into their portfolio of wearables and cycling computers.
+
+Second, on the heels of the real-time API clearance, we received FDA clearance in August for the DexCom
+app, an app module. This module was specifically designed for people with nonintensive type 2 diabetes
+and can directly integrate into another third-party health care app. With the integrated DexCom app, it is
+now even easier for our partners to access and display our CGM data, enabling single app solutions that
+simplify the experiences for DexCom users.
+
+UnitedHealth Group became our first partner to launch the integrated DexCom app in app module in
+late September, bringing the embedded app into their Level 2 diabetes care program. Our connectivity,
+software and data infrastructure solutions are our core strength of DexCom. These 2 recent FDA
+clearances reflect the increased investment that we put into software development and we believe
+increase our competitive advantages moving forward. In late September, we also announced the launch of
+DexCom 1 in 4 international markets where we previously had no presence. Bulgaria, Latvia, Lithuania and
+Estonia.
+
+DexCom 1 leverages the G6 hardware platform and a completely redesigned software experience that
+focuses on simplicity, and ease of use for our customers. This is the first product launch in our history that
+started exclusively through the DexCom e-commerce platform, a platform that has been embraced by
+our customers in Canada and the U.K. over the past 2 years. With the proven performance of our CGM
+systems, the new software experience and efficient e-commerce solution and affordable pricing plans, we
+believe that DexCom 1 will be an important product for us as we drive the business toward our long-term
+targets.
+
+Most importantly, this differentiated product is a key step for us to bring DexCom CGM to significantly
+more people with diabetes who previously did not have access to our products. Early feedback around the
+product has been very favorable, and we look forward to seeing the full results from these launches as
+we leverage the full breadth of our expanding product portfolio to achieve our 2020 Investor Day goal of
+tripling our international addressable market by the end of 2023.
+
+Building from the strength of our mobile trial that was published in the Journal of the American Medical
+Association in June, investigators published the results from the extension phase of the trial in Diabetes
+care during the third quarter. In this extension phase, we rerandomized the population who are initially
+on CGM to see if the benefits would be retained for those who stayed on CGM compared to those who
+returned to fingerstick monitoring. Once again, the results were clear. Those who stayed on our G6
+systems maintain greater time and range improvements over the 6-month extension phase compared to
+those who did not. The results confirmed that for the significant population of people with type 2 diabetes
+on basal insulin, there is significant benefit in continuous CGM use to optimize therapy and support
+behavior modifications. Our teams are working hard to leverage the conclusions from mobile into greater
+access to our technology for people with type 2 diabetes. And this is just one area in which we are building
+the foundation for our long-term growth.
+
+We are advancing our pilot efforts with UnitedHealth Level 2, Teladoc's Livongo for Diabetes, WellDoc,
+Onduo and others. We are generating strong clinical evidence for expanded indications for CGM use
+in inpatient settings and for women who are pregnant. We continue to leverage our advantages in
+connectivity by gaining new customers and progressing our pipeline of solutions with our leading insulin
+delivery partners.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+Finally, we continue to advance our G7 scale-up and regulatory efforts during the quarter. We've had
+excellent communication with our notified body in Europe and believe that we remain on track to begin the
+launch of our G7 system in the fourth quarter upon receiving CE Mark clearance. In the U.S., we've made
+great progress in preparation for our regulatory submission. I believe that we are now in the final stages
+of that effort.
+
+We look forward to the comprehensive G7 510(k) submission, including G7 hardware and full Android
+and iOS software to the FDA in the next few weeks. As you can see, our teams are working very hard
+and making great progress to advance our core strategic efforts, whether it is in expanding our product
+portfolio, creating differentiated user experiences or laying the foundation for new market opportunities
+that will drive our future growth. So with that said, let me turn it over now to Jereme for a review of our
+third quarter financial performance. Jereme?
+
+Jereme M. Sylvain
+Executive VP, CFO & Chief Accounting Officer
+
+Thank you, Kevin. As a reminder, unless otherwise noted, the financial metrics presented today will be
+discussed on a non-GAAP basis. Reconciliations to GAAP can be found in today's earnings release as
+well as on our IR website. For the third quarter of 2021, we reported worldwide revenue of $650 million
+compared to $501 million for the third quarter of 2020, representing growth of 30% on a reported basis
+and 28% on an organic basis. In late July, we were proud to complete the acquisition of our distributor in
+Australia and New Zealand. With this acquisition, we began generating revenue for certain non-CGM health
+care products, which we have categorized as inorganic growth for the quarter. This non-CGM distribution
+revenue contributed approximately 2% to our reported growth for the third quarter.
+
+The transition from distributor markets to direct sales is one of several important strategic initiatives
+that we outlined at our 2020 Investor Day as we seek to significantly grow our international presence.
+We believe a larger direct international footprint will give us greater control to leverage our marketing
+strength, invest in accelerating our growth and ensure that the direction of these core markets is aligned
+to our strategic interest.
+
+In terms of the financial impact of the third quarter acquisition, we expect the transaction to be
+approximately neutral to our operating margin for the full year as it was in the third quarter. U.S.
+revenue totaled $490 million in the third quarter compared to $399 million in the third quarter of 2020,
+representing growth of 23%. We continue to see good momentum in the U.S. where we are benefiting
+from the increased market access and field presence that we've enabled over the past year. New customer
+growth remains strong across all segments of the population including people with type 1 diabetes,
+intensively manage people with type 2 diabetes where we have significantly expanded market access in
+the past year and even early adopters in the type 2 non-intensive population.
+
+Our international business grew 57% in the third quarter, totaling $161 million. Excluding the impact
+of non-CGM distribution revenue generated by our acquisition of our distributor in Australia and New
+Zealand, growth for our international business was 46% in the third quarter. We continue to see very
+encouraging growth across the board in our international markets with the majority of our markets
+delivering record sales in the third quarter. Although it is still early, we believe that our strategic moves to
+broaden access in several markets have been very successful thus far and have left us well positioned to
+expand our growth profile internationally, and you see that in the reflected current quarter results.
+
+Along those lines, our global volume growth in the third quarter remained strong, exceeding 40% for the
+quarter. This is well above our 28% organic revenue growth rate and supports the momentum behind
+DexCom CGM globally, as we aggressively seek to advance access to our technology and drive better
+health outcomes and quality of life for people with diabetes.
+
+As Kevin mentioned, the launch of DexCom 1 adds to our product portfolio and provides another key
+element of our strategy to expand access to CGM globally. As we continue to scale our business in
+conjunction with our ambitious plans for customer growth, we are creating tools that allow us to serve
+our growing base in an efficient manner, and the use of our e-commerce platform for the initial DexCom 1
+launch is a good example of that focus.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+Our third quarter gross profit was $446.9 million or 68.7% of revenue compared to 68% of revenue in
+the third quarter of 2020. The year-over-year gross margin expansion is an impressive result, especially
+when you factor in our strategic efforts this year to drive greater mix to the pharmacy channel and
+expanded international access. This is a credit to our teams who have innovated and embrace change
+where necessary to drive efficiencies and position us to maximize our strategic opportunities. We continue
+to demonstrate the ability to leverage both our manufacturing operations and R&D teams to be ever more
+efficient in the delivery of our products.
+
+Operating expenses were $323.1 million for Q3 2021 compared to $245.7 million in Q3 2020. Operating
+expenses, as a percentage of sales were relatively flat year-over-year as we offset investments in software
+development, G7 scale-up and our expanded global commercial sales force with strong leverage of our
+general and administrative functions. Operating income was $123.8 million in the third quarter of 2021
+compared to $95 million in the same quarter of 2020, holding flat 19% of revenue. As this result indicates
+we've been able to retain much of our operating margin this year even as we have significantly reinvested
+in our business.
+
+Adjusted EBITDA was $173.5 million or 26.7% of revenue for the third quarter compared to $146.9 million
+or 29.3% of revenue for the third quarter of 2020. Net income for the third quarter was $89.5 million
+or $0.89 per share. We closed the quarter with approximately $2.7 billion in cash and cash equivalents,
+giving us great financial flexibility to drive our strategic initiatives. This includes the continued build-out of
+our manufacturing facility in Malaysia and G7 scale-up in Mesa, Arizona as well as opportunities that are
+relying on our business objectives, such as our recent distributor acquisition.
+
+Turning to guidance. Our third quarter performance has placed us in a position to once again raise our full
+year 2021 outlook for revenue and margins as we look to wrap up another excellent year. We now expect
+2021 revenue to be between $2.425 billion and $2.450 billion, representing growth of 26% to 27% over
+2020. This guidance includes approximately 100 basis points of non-CGM inorganic growth related to our
+recent distributor acquisition.
+
+Turning to margins. We are increasing our full year 2021 targets. This includes non-GAAP results to be
+approximately at the following levels, which include a neutral impact from our distributor acquisition.
+Gross profit margins of approximately 68%, operating margins of approximately 16%, and adjusted
+EBITDA margins of approximately 25%.
+
+With that, I will now turn the call back to Kevin.
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+There are a number of things that we could celebrate, and I'd like to take the time now to thank all
+of the teams at DexCom and specifically highlight a few things that we are proud of. First, to our new
+DexCom team members in Australia and New Zealand, we are absolutely thrilled to have you with us
+on our journey to empower people to take control of diabetes. We look forward to working together and
+learning from you as we bring our technology to those in need in these key markets. Our operations
+team has provided another highlight in the third quarter as our G6 manufacturing yields reached all-time
+highs, and our warranty rates reached all-time lows. Those are the kind of metrics that lead to the margin
+improvements that we've seen and reflect countless hours of work from our talented employees.
+
+And finally, our R&D team continues to innovate with several updates to our sensor pipeline as well as
+our leadership in data and software solutions. The 2 FDA clearances this quarter are a testament to those
+efforts and a nice validation of the strategy that we discussed to leverage software as a competitive
+advantage and a key area of investment.
+
+As Sean mentioned at the start of the call, we've invited Jake Leach, our Chief Technology Officer, to
+join us for the Q&A portion of the call in order to address any questions around these clearances and our
+product innovation. I would now like to open the call up for Q&A. Sean?
+
+Sean Christensen
+Director of Corporate Affairs & Head of Investor Relations
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+[Operator Instructions] Operator, please provide the Q&A instructions.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] And our first question comes from Jeff Johnson from Baird.
+
+Jeffrey D. Johnson
+Robert W. Baird & Co. Incorporated, Research Division
+
+I know we focused so much on T1 and intensive T2 most of the time, but I wanted to ask this time maybe
+on the nonintensive in the prediabetes markets. I guess I'm wondering more than anything your latest
+thoughts on how big those 2 markets could be over the next year or 2, especially with so many we see
+all these behavioral services popping up with levels and super Sapiens and others in prediabetes and
+obviously, Level 2 and some of the others on the commercial side. it feels like your real-time APIs and
+your app and app approvals would be helpful for some of those programs. So just kind of how do you see
+those 2 markets developing in the short run kind of 1 to 2 years in your market share in those 2 areas,
+maybe over the next couple of years as well?
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+Thank you, Jeff. This is Kevin. I'll take that one. We think those markets can develop nicely. We have
+some work to do on the product labeling side and some work to do with the FDA as we migrate down that
+path, and we've had some of those discussions. But the results are spectacular as we've seen people use
+this product. In fact, we recently got an e-mail from a physician. And again, this is in the type 2 world,
+nonintensive, but was telling us about a recent experience with a patient who had gone from an A1c in the
+12 down to no medications and an A1c of 5.5 or something like that. It works there.
+
+It works there. It works also very much on the -- just the metabolic front-end general, anybody who
+wears a CGM and watches that data, and particularly if you set those lines narrow between like 70 and
+120, if you go above the 120 mark, you ask yourself what you ate. You can usually figure out and go back
+to something that you could do different, the effects of exercise, the effects of poor sleep, the effect of
+stress of an earnings call is going to be demonstrated in CGM graph.
+
+I think it's a wonderful market opportunity. The data has to be presented properly. That's where the Live
+API and the approvals we talked about today come in. The API is a quick way to get there. And Jay knows
+the technical stuff better than me, but the API also requires a person to run a DexCom app and the other
+app. With the other -- the app in app module that we talked about today, some of these larger programs,
+again, like Level 2 with UnitedHealth Group, you have one app experience with like a DexCom button or a
+DexCom experience right in the middle of it. So if you're branding a wellness situation and really want that
+to be your focal point, we can resign in that app and you can have that experience.
+
+So we think both solutions, they offer speed, but they also offer different experiences. And then we'll pick
+the partners we want to work with on both sides. Those that have the best need for 1 versus the other. So
+we're excited for both of them, Jeff. We're very excited for these markets, and it's long been part of our
+long-term strategy. but we need the technology to get there, and our product pipeline truly supports going
+there over time.
+
+Operator
+
+And our next question comes from Robbie Marcus from JPMorgan.
+
+Lilia-Celine Breton Lozada
+JPMorgan Chase & Co, Research Division
+
+This is actually Lilia on for Robbie. Can you talk briefly about dynamics that you're seeing in Europe right
+now? You guys had a great quarter there. So any tangible stories of success from the increased patient
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+access efforts that you've implemented over the last few months? Any color on that you could share would
+be helpful.
+
+Jereme M. Sylvain
+Executive VP, CFO & Chief Accounting Officer
+
+Sure. Yes. Thanks for the question. What you see in Europe, and certainly, it's really in all the markets
+we've gone in with our access strategy as we've moved into various countries and obviously, exchange
+price for access to populations that we historically haven't been able to get to. And what you see in the
+quarter, I think we talked a little bit about on the call is it was a record revenue quarter in most of our
+international markets. So I think you see it playing through on the revenue front. I think you saw a 46%
+organic growth rate outside the U.S., which again, another incredibly strong quarter fueled by a lot of the
+access that we've been able to create.
+
+And then you look at the new patient growth. It's another record quarter for new patient adds in this
+quarter, again, all pointing to some of the access that we've created outside the U.S. So I think some of
+the examples, I think we talked a little bit about them publicly last quarter with Canada, for example,
+in multiple different provinces allowing us access to those publicly reimbursed channels. And I think in
+those channels, you're seeing just that. A lot of people now have the access to DexCom CGM technology,
+and they're taking advantage of that. So we'll continue to expect that to play through. It's why we
+ultimately made the decision to do it. And I think you've seen it play through in the financial results and
+our expectation is you continue to see it play through over the long haul.
+
+Operator
+
+And our next question comes from Danielle Antalffy from SVB Leerink.
+
+Danielle Joy Antalffy
+SVB Leerink LLC, Research Division
+
+Congrats on a really strong quarter. Jereme, just a question for you. You guys have been investing pretty
+significantly in direct-to-consumer marketing and ramping up the sales force initiatives around primary
+care physicians. I'm wondering if you can talk, now we're 3 quarters into this sort of more concerted effort
+in the U.S. And whether we're -- we can really talk about how you're seeing a return on that investment
+as far as incremental new patient adds and maybe just where we are from a primary care physician
+coverage perspective?
+
+Jereme M. Sylvain
+Executive VP, CFO & Chief Accounting Officer
+
+Sure. And absolutely. So where we sit today, and we talked a little bit about it last quarter, but I want to
+reiterate it is, in the U.S., we've doubled our covering prescriber coverage over the past 18 months. And
+so what I mean by that is the amount of physicians that are writing DexCom's scripts has doubled in 18
+months. That's a testament to the work that's being done by the U.S. commercial team, which has been
+fueled by multiple things, certainly, direct-to-consumer advertising, doubling the size of the sales force,
+those all really play into folks adopting the technology.
+
+Just a couple of tangible things, which I think are helpful to see, again, another record quarter for new
+patient adds. I think you can see that playing through. And in many ways, that's driven by the sales force.
+So you see that continued momentum. I'd say the one thing that we have noticed that hasn't prevented
+us from being at completely full effectiveness is some of the impacts of the Delta variant. I think that's
+probably the only thing that we've seen that's been a challenge, and that's just getting access to some of
+these offices when they're no longer seeing folks in person.
+
+And so you've seen a lot of physicians opening up in those locations we're doing incredibly well. So there's
+more to work through, and that's a function of just navigating through these COVID landscapes more than
+anything else. So I think in short, you're seeing the performance, you're seeing the growth, seeing the
+new patient adds, and we've ramped up very nicely. It's been an incredible year for us thus far and very
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+bullish on what it means for next year. So I think that's really the feedback thus far. And again, as we get
+more and more data, we'll continue to share it as it becomes available.
+
+Operator
+
+And our next question comes from Matthew Blackman from Stifel.
+
+Mathew Justin Blackman
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+I wanted to ask about the G6 rollout in Japan. Just any commentary on early trends there. Could you also
+just remind us the sizing of the incremental opportunity in Japan? And how meaningful a contributor do
+you think it could be to either worldwide growth or OUS growth, how would you want to frame it as we
+move into 2022?
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+Yes. This is Kevin. We're early on in that launch with our partner, Terumo. We've got some good traction.
+But literally with launch happening in earlier this summer, we're in a position of educating physicians,
+getting samples out there really teaching people about our product. We think over time, the Japan market
+could be a very good one for us. While there's not a tremendous amount of type 1 diabetes, there's also --
+there is a large amount of type 2 diabetes.
+
+If we can get across that broad spectrum with our product offerings, we can see this being one of our --
+certainly one of our top 8 markets, possibly even a top 4 or 5 in the world as time goes on. We also know
+from a technological perspective, the physicians we've spoken with are very bullish on the performance of
+our product and tremendously value the accuracy and precision of what we do and the connectivity and
+all of those things. So we believe we have the right system for the market. But we're in early phases right
+now.
+
+Jereme M. Sylvain
+Executive VP, CFO & Chief Accounting Officer
+
+Yes. And just to give you -- I know you asked for the size of the market, that's a market of around
+300,000 to 400,000 intensively managed patients across type 1 and type 2. So it's a large market with a
+lot of folks, a smaller prevalence of T1, but obviously, a market that can be an incredible landing spot for
+us in that space.
+
+Operator
+
+And our next question comes from Margaret Kaczor from William Blair.
+
+Malgorzata Maria Kaczor Andrew
+William Blair & Company L.L.C., Research Division
+
+So the question is a little bit more of a theme and an expansion maybe on some of the partnerships
+that you referenced and just getting a better sense around how many of your patients out today, for
+example, may come from these partnerships. And when we talk about expanding them, is that in the
+form of covered lives? Is it something else? And just as a follow-on since Jake on the call, I guess, the
+products and subscription services that you guys may offer these partnerships, how do those evolve, I
+guess, over time? And could that potentially accelerate some of the capabilities that DexCom offers or the
+new products that they offer away from pure technology that you've been in the past towards some of
+these other software or other potential offerings we have?
+
+Jereme M. Sylvain
+Executive VP, CFO & Chief Accounting Officer
+
+Sure. Yes. So let me start with maybe the financials side and how that migrates over time. And then Jake
+is obviously here. He'll take you through the technical aspect of it and why we're so excited about it. So
+today, these partnerships are a combination of expanding TAM and expanding people that would want
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+to access CGM technology over time. And today, it's in the form of sensors. But over time, and as we've
+demonstrated with a couple of other software features, we've obviously added over the past 6 months or
+so, software can be a part of that package. And so we're really -- the monetization of that will come over
+time. Today, it's about how do we get as many folks as possible on sensors to realize the value of CGM.
+So that's how we expand it. Jake, maybe you can take it through just kind of the general theme of where
+we're going in that space.
+
+Jacob Steven Leach
+Executive VP & CTO
+
+Yes, sure, Jereme. Thanks for the question. So really, the way we think about it is the technology that we
+are bringing to market through these software features is really about providing unique experiences for
+customer segments. And so if you think about the type 1 segment or the type 2 segment nonintensive.
+You really -- you're solving different types of problems in those. And so what these software tools such as
+our Live API provide is a way for our partners to serve those needs with DexCom CGM and a connection to
+our product. The real-time API is a real advancement in our cloud strategy, and we're really excited about
+the list of partners that are working to integrate that into their systems to provide their customers with
+unique experiences.
+
+Operator
+
+And our next question comes from Matthew O'Brien from Piper Sandler.
+
+Matthew Oliver O'Brien
+Piper Sandler & Co., Research Division
+
+So a lot of moving parts here, and I'm not sure if I'm doing the math right, but I'm getting like $60 million
+to $70 million of a pricing headwind this quarter. And I'm not sure what the distributor conversion, if that's
+right or not. I guess I'm just asking, is that about right? Are we seeing a little bit more of the pricing
+headwind this quarter than we've seen over the last couple. So we'll see maybe a little less next year. It's
+getting pulled forward to the '21-- And then the reason I'm asking is that the increase sequentially from
+Q3 to Q4 is a little bit below trend line. Is that because you're expecting more of the pricing headwinds to
+be seen here in '21 versus '22?
+
+Jereme M. Sylvain
+Executive VP, CFO & Chief Accounting Officer
+
+Yes. So there's a couple of pieces. So I'll first and foremost, reiterate, the total pricing expectation for the
+year, the $250 million is still the expectation. If anything, we might come a little bit light on that, but that
+still is the expectation. And so then the pricing in Q3 was generally in line with prior quarters, a little bit
+elevated, but it's not a material step change. And that's a function of some of those OUS contracts kicking
+in. So really, that's where we come from a pricing perspective.
+
+So it's not necessarily pulling anything in. We've often talked about 2022 being relatively similar to 2021,
+and we're still on that trajectory. So I wouldn't necessarily expect any of that. To your question on how Q4
+plays out in the guide and doing the math there, and you're doing the math right. One of the things we're
+mindful of, and there's really 2 pieces to it, as you think about it. There's the piece we talked about a little
+bit earlier, which is the Delta variant and getting into new primary care offices and making sure that we're
+seeing that over time before we count on it. So that's the first piece of it, and we're mindful of that.
+
+And then the second piece of it as more and more of our product is fulfilled through the pharmacy, the
+historical trends over time, you're going to see start to migrate just a little bit. You saw it start this year
+in Q1. If you look back to Q1, our sequential pullback from prior year Q4 into Q1 was a bit mooted. And
+you're going to see the same thing in this Q4, which means as more and more goes to the pharmacy, you
+no longer have folks in the DME space than on they have the high deductible health plans, where folks
+are maximizing benefits at the end of the year. So we expect a little bit less seasonality as we progress.
+And in turn, we expect a little seasonality in Q1 of next year. So that's what you're reading into it. That's
+ultimately what comes through in the guide. So you're doing the math right, but those are some of the
+expectations that went into it.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+Operator
+
+And our next question comes from Travis Steed from Barclays.
+
+Travis Lee Steed
+Barclays Bank PLC, Research Division
+
+Jereme, just a follow-up on the distributor. It sounds like the revenue impact this quarter was $13 million,
+all in the OUS line. And just kind of curious how to model that going forward, is that about $13 million a
+quarter for 3 more quarters and then it gets into the base and how to think about, like, is there a pricing
+benefit here without the distributor margin? Just a little more color on the distributor acquisition, if you
+will.
+
+Jereme M. Sylvain
+Executive VP, CFO & Chief Accounting Officer
+
+Sure. So we'll -- so the pricing, we don't necessarily break down the pricing USO, U.S. and the overall
+number. And so at the end of the day, we're on the trajectory of the total company we talked about. And
+so obviously, you guys will do the math. But at the end of the day, we're on that same trajectory. In terms
+of your question on the distributor, the impact of the distributor acquisition on growth in the quarter in our
+CGM business, it rounds to 0%. And so it's because there was 2 months in the quarter and that markup on
+the margin in the distributor market is relatively small. The question is, well, why do you do it? And what
+do you -- it's our ability to control penetrating deeper into these markets, and that's ultimately why we do
+it. It's not to try to get a margin uplift. It's actually to try to control investment.
+
+We're a company that has cash on the balance sheet. We're willing to invest in these markets, and we
+want to continue to invest in these markets. So as we take them direct, the goal is then to reinvest and
+make sure that we're driving adoption. So the impact of the distributor really nominal on our organic
+growth rate, like I said, it rounds to 0. So the 28% is the organic growth rate, even including that. So
+hopefully, that helps you around the acquisition. There isn't much there that changes the results this
+quarter.
+
+Operator
+
+And our next question comes from Matt Taylor from UBS.
+
+Matthew Charles Taylor
+UBS Investment Bank, Research Division
+
+I was hoping you could give me more color on how things are going in the primary care channel. Could
+you give us any sense for how the sales force is maturing, how productive they are and if there's more to
+go there.
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+Yes, this is Kevin. I'll take that. There's still more to go, but it is going very well. Our targets are going
+very well as far as we call on. We've also learned there are some we have not had on the target list,
+and we're expanding that coverage as well. We've had numerous situations where it's taken our person
+several attempts to get into an office. But once they get in, and once we get a person on a DexCom, the
+response is so good based on the quality of the product that we get more. But it is a progressive effort.
+And it doesn't -- we don't walk in and all of a sudden get, hey, here's 50 new patients this month. It takes
+a little time, and we have to build a lot of credibility. But the primary care audience, particularly for those
+on insulin, it's gone very well so far, but it is a process, and it does take some time.
+
+Operator
+
+And our next question comes from Joanne Wuensch from Citi.
+
+Joanne Karen Wuensch
+Citigroup Inc., Research Division
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+It seems to me like the increasing clinical evidence that you're building is going to really help the type 2
+population. But could you give us sort of an update on where you think or what you think you'll need to
+get into the non-intensive type 2s?
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+This is Kevin. I'll take that. We've taken a several-pronged approach to get in there, and we're not going
+to deviate from that approach. We're working with health care professionals who are prescribing product
+for non-intensive type 2 site right now and getting great outcomes. We work with the payer network.
+For example, the Level 2 program at UnitedHealth that's produced some very good results for them and
+very visible in their marketing materials and their efforts. The programs and with the technologies Jake
+outlined, that we got approved today, the app in the app and the interfaces that will be great for partners
+because they do want to control that experience for patients and ultimately getting to people directly.
+
+We've been very successful in our DTC campaigns for the intensive insulin users. There will come a time
+when we'll be able to go direct to those consumers in the type 2 and IT, as we call it, nonintensive insulin
+therapy or not on insulin therapy, get to these guys as well. And we have a high level of confidence in the
+products we're designing and the things we're planning, combined with the ability of our team to reach
+these markets once we turn them loose once we have the opportunity to do so. So we'll go through all
+those steps. We'll continue on all 4 fronts. We're not going to back off on 1 of them.
+
+Operator
+
+And our next question comes from Cecilia Furlong from Morgan Stanley.
+
+Cecilia E. Furlong
+Morgan Stanley, Research Division
+
+I wanted to ask just on gross margin. As you think about 4Q is implied with your updated guidance step
+down, but just what you're factoring in from the international access component versus G7 initial launch,
+not quite being at scale? And how we should think about the trajectory heading into '22?.
+
+Jereme M. Sylvain
+Executive VP, CFO & Chief Accounting Officer
+
+Sure. So the gross margin in Q4, we do expect to take a bit of a step back. Some of it is the international
+access as that ramps up. And the other piece, to your point, is the launch of G7 and turning on all of the
+machine, the depreciation, and therefore, the yields. A majority of that is going to be the G7 launch. And
+the reason why is we're not at full capacity at that point. Now once we get to full capacity, there's no
+reason why we don't get back to our long-term gross margin guide, and we'll get into 2022 when we get
+there. But there's nothing structurally in those lines that would prevent us from meeting what we had
+talked about from our long-term gross margin guide.
+
+There may be ebbs and flows quarter-by-quarter as we ramp up. But I don't expect there to be any issues
+there. So if you're kind of asking the question, well, how would I wait the 2, most of the impact is upon
+the launch of G7 and turning on those machines and the depreciation associated with it. As we get into
+2022 and volumes start to build on those machines and you're able to absorb those fixed costs there's
+nothing structurally that can't get us back to the gross margin profiles that we've set for an organization.
+
+Operator
+
+And our next question comes from Jayson Bedford from Raymond James.
+
+Pavel S. Molchanov
+Raymond James & Associates, Inc., Research Division
+
+This is Pavel on for Jason. I have 2 quick questions here. First, will we see G7 clinical data before U.S.
+approval? And the second one is how close are you guys to getting to the 75% of commercial payers into
+the pharmacy channel?
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+Jacob Steven Leach
+Executive VP & CTO
+
+Yes. So thanks for the question, this is Jake. So the -- we presented actually earlier this year, we
+presented at ATTD G7 data, showing an MARD of sub-9% and a very strong clinical accuracy better than
+G6 in fact. So we're very excited and happy with the result of the U.S. pivotal, and we'll be releasing that
+in the future.
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+Yes. So now that you've seen that data, I think you have a feel for it. And obviously, that data -- as these
+-- as more products launch over time, you'll get access to it. But I think some folks ask, well, how do
+I know what it's going to look like before there is public data available at ATD that should set kind of
+North Star. In terms of the transition, the migration in the pharmacy, we talked about this glide path from
+approximately 50% turning into 2021 or at the end of 2020 into really 75% by the end of 2022. We're
+on that glide path right now. And so we're making headways. We haven't given a specific update as a
+percentage. But as you're charting that course, we're right where we'd be expected and right where you'd
+expect from a linear transition over time. So hopefully, that helps.
+
+Operator
+
+Our next question comes from Larry Biegelsen from Wells Fargo.
+
+Nathan Treybeck
+Wells Fargo Securities, LLC, Research Division
+
+This is Nathan Treybeck on for Larry. Can you just provide us an update on how you're thinking about CGM
+for hospital and gestational diabetes?
+
+Jacob Steven Leach
+Executive VP & CTO
+
+Yes. This is Jake. So let's start on the hospital first. So the way we're thinking about that is that really with
+the accuracy and reliability that we have built into the G6 and G7 systems that it's a great CGM platform
+to then build a purpose-built hospital product. So we're in the early stages of understanding what is the
+exact CGM that meets the needs in the hospital. We've seen good success with G6 under times of COVID
+use in the hospital. It is really serving a need, but it's not exactly the right workflow for the hospitals. And
+so what we want to do is better understand how do we build a CGM that really meets the needs of that
+segment. On the pregnancy side, we're very excited about the building in pregnancy functionality and
+providing information that's important for expected mothers into the G7 product. And so that's part of our
+road map, and we're actively working on building that into the G7.
+
+Operator
+
+And our next question comes from Steven Lichtman from Oppenheimer.
+
+Steven Michael Lichtman
+Oppenheimer & Co. Inc., Research Division
+
+Kevin, you mentioned earlier all the work you continue to do on non-intensive with partners, payers
+and collecting data. Wondering what your latest thoughts are on potential revenue per patient in that
+population or utilization overall for the nonintensive.
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+At this point in time, the total revenue amount per year is still something we model out on a number --
+in a number of cases. What we've learned and what the data that we've seen most recently supports and
+we'll continue to talk about is continuous use of the system provides much better health care outcomes
+than intermittent or sporadic use the things that patients learn with this technology, having that feedback
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+full time provides a much better outcome. With respect to the long-term revenue model, and again, I'm
+speculating a bit here, but I'll just repeat what I say to the team internally, we're solving a much different
+problem for somebody who's not on insulin.
+
+It is not a life-and-death decision for them. So I can see the revenue per patient being lower for this group
+over time even in continuous use, but I don't know how much yet. There will certainly be intermittent
+use models that might be available and lead to good outcomes. But one of the mistakes that a lot of
+these programs make in the beginning is they try and minimize the number of sensors because they're
+worried about the costs, they're trying to control. And in reality, the benefits to these patients and these
+customers who use the systems get -- are derived from CGM data. So we have to balance those things
+and balance that against our current business model as well. But we do believe it's going to be a very
+good population and there was long a belief that all these patients won't want to wear it all the time. No,
+they do. They very much enjoy the data and really like knowing where they are. That has not been a
+problem at all.
+
+Operator
+
+And our next question comes from Ravi Misra from Berenberg.
+
+Ravi Misra
+Joh. Berenberg, Gossler & Co. KG, Research Division
+
+So I guess I'll use my one question on the New Zealand, Australian distributor. Just curious, how quickly
+can you basically get through this, I guess, inorganic revenue in terms of the impact to guidance? Like is
+there still kind of non-CGM revenue that we assume in quarter 4? And maybe help us think about, I guess,
+what the market size that you think you're able to kind of go after with this acquisition? Or do you need to
+do more in this arena, this country or continent space to really get access to the population?
+
+Jacob Steven Leach
+Executive VP & CTO
+
+Sure, I can take that. So when we acquired the distributor, the distributor had multiple different product
+lines. And they have sales reps that cover these multiple different product lines. And so -- and ultimately,
+a distributor is about people, and it's an incredible group of people. And so the key here is making sure we
+keep everybody together. So we'll stay in that line. What we tried to identify for you is the contributions
+to the overall guide in basis points. And so in our guide, we talked about 100 basis points on the full year.
+You'll do the math and figure out what the approximate impact is in Q4. And I think you'll have a pretty
+good feel for it. We'll make sure that we isolated out over the long haul, so that you're able to identify
+what is and what isn't out there.
+
+So I think you can feel comfortable there, provided it's material. In terms of the actual acquisition itself,
+and being able to get into the market, this was -- this is a group of folks who have done an incredible
+job with CGM adoption in that country. And so when we get into these countries, we want to make sure,
+one, we have the team. We make sure that there's nothing in their way from continuing to develop CGM
+awareness and develop CGM adoption. So there's nothing that prevents us under the structure. The
+only thing we mentioned in terms of investment is very similar to the way you've thought about our
+organization in the U.S.
+
+We know that investment in DTC and in sales reps where it makes sense and in sampling. And all of
+the things that we've put in place makes great sense in other markets. You've seen us do some of that
+in Europe. And certainly, we've done some in Canada. And we expect to do more of that. And when
+we take it direct, we can do a little bit more of that. And so that's really what we're talking about. So
+there's nothing structurally that prevents us from taking the acquisition and continuing to proliferate CGM
+adoption in those countries.
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+Yes. This is Kevin. I would just add to that. One of the reasons we do things of this nature, take a look at
+our direct business in Canada and the wins we just had with the provinces and reimbursement there. With
+our financial muscle at the corporate level, we can take much more risk than a distributor could on their
+own. And so we view this investment in Australia and New Zealand as one where we're going to be able to
+go after a broader market increased access reimbursement and really make an impact those -- this team
+needed our muscle to do that financially and we needed their talent to do it as well. So it works for both of
+us.
+
+Operator
+
+And our next question comes from Marie Thibault from BTIG.
+
+Marie Yoko Thibault
+BTIG, LLC, Research Division
+
+Spending a little bit of time on the DexCom 1 site. It strikes me as a very consumer-friendly website.
+And I'm just curious, whether this is sort of a glimpse at the future. I know it's been launched into some
+Eastern European countries. But is this a model that you would look at in terms of sort of flexible pricing
+and subscription plans and bulk order discounts? Is this something that's sort of a preview of the broader
+appeal of CGM may be into prediabetes and end consumer markets?
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+Yes, this is Kevin. This is a very important launch for us. It's the first time we've launched a product
+on a new software platform and had a new product launch. We're in a position now of volume and
+manufacturing wise that we want to get this product to as many people as we can. And what DexCom 1
+represents is really an opportunity where we can get DexCom technology into a geography easier than we
+could if we went through our traditional means with our G Series product. So we're offering this.
+
+And yes, as you talked about, flexible pricing plans, subscription models and things of that nature to get
+this product to this patient group. It definitely can be a precursor of things we can do in the future to take
+advantage of the scale that we've created within the business with our ability to manufacture more and
+again, while the website is very easy to use, I assure you the app that Jake's team and our marketing
+team have developed is every bit as easy to use as the website. This truly is a step-up for us from a
+product experience, and then we'll evaluate those opportunities over time, where we have a market where
+we can increase our volumes and gain more traction with this type of product offering rather than our
+traditional G Series, we will explore that.
+
+Operator
+
+And our next question comes from Josh Jennings from Cowen.
+
+Neil Chatterji
+Cowen and Company, LLC, Research Division
+
+This is actually Neil on for Josh. We've had some consultants recently talked about the potential for
+monitoring other analytes. I was just wondering if you could maybe share any updates there in terms of
+any development plans or program for extending monitoring analytes outside of glucoses like ketones.
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+Sure. Yes. The wearable platform that we've developed with the electrochemical sensors can be extended
+to other analytes, and we do have active research programs within DexCom and also with some of our
+university colleagues that are researching other analytes that we could use on our platform. Today,
+we're not talking about exactly which ones, but we do feel that this platform can be extended to multiple
+analytes and provide more value around the CGM component.
+
+Operator
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+Our next question comes from Anthony Petrone from Jefferies.
+
+Anthony Charles Petrone
+Jefferies LLC, Research Division
+
+And I hope everyone is doing well. Two quick questions. One would be on supply chain constraints. Just
+wondering how that is expected to play out into 2022, hearing a lot about inflationary upward pressure
+on cost of goods sold. So wondering how that's playing out for DexCom and what the offsets are. And
+then as we look into the '05 launch, just maybe an update on what percent of existing Omnipod users are
+currently not users of DexCom solutions?
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+Sure. So I'll go ahead and take the inflationary and supply chain. So I think everybody is -- nobody is
+immune to certain products and certain areas that do have pressure based on supply chain -- supply and
+demand. One of the things I think our team has done, there's 2 pieces of it. One, do you have enough
+product? And two, can you manage the cost? And I think our team has done an incredible job in lining
+up the product. Now that doesn't mean everybody is out of the woods, that everybody's got supply
+chains they're naturally running through. But this team got ahead of it very early and has been working
+collaboratively with all of our suppliers well in advance to make sure that we're properly communicating
+the value of our product and making sure that we're working with them to secure supply.
+
+And that's ongoing, but that work has been done well in advance of everybody else kind of jumping on
+it. So we're very proud of that team. In terms of the inflationary measures, we're in a bit of a unique
+environment. There have been absolutely inflationary measures, but we're also making a lot more
+product. And so you kind of get economies of scale and purchasing power, which offset some of the
+challenges associated with inflation. So our expectation is we're able to navigate both of those and it will
+not impact kind of our longer-term gross margins because of that nature. So -- hopefully that answers
+your question. Maybe I could turn it over to...
+
+Jacob Steven Leach
+Executive VP & CTO
+
+Well, I can answer the Omnipod questions. So with Pod 5, there are a decent amount of folks using
+it. There's some studies out there I don't want to quote them just because I don't know how accurate
+they are. We generally have a good feel for it, although we haven't put it out there publicly. We can
+let Omnipod do that if they want to. But we do know once Omnipod 5 is launched and the integration
+associated with DexCom, it could provide a catalyst certainly for us. The 1 thing we will say is when we
+continue to say it all the time, is CGM first. And so we do believe that a lot of folks do come to CGM and
+then ultimately could choose to go on to an integrated system. And -- Most folks that do get on to our
+product today now are MDI. And so a lot of those are out there. That all being said, another AID system
+with 1 is novel as Omnipod. I think it's certainly something that's interesting. And for patients that like
+patch pumps, I think this is an incredible opportunity for folks to get on that platform.
+
+Operator
+
+And our next question comes from Kyle Rose from Canaccord?
+
+Kyle William Rose
+Canaccord Genuity Corp., Research Division
+
+I just wanted to maybe ask another question on DexCom 1. I mean you've -- you talked a couple of
+times just about patient experience being different and having a different app. And I understand that the
+software is obviously completely different on the e-commerce side, but maybe help us understand just
+what specifically is different from a patient-facing perspective with DexCom 1 versus what we've seen
+historically with G6 and the previous generation products?
+
+Jacob Steven Leach
+Executive VP & CTO
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+Yes, it's Jake. I'll take that one. Yes, DexCom 1 from the beginning, our intent around the design of that
+product was to make it simple. And so that kind of flows through as you mentioned, the e-commerce
+experience, but into the app, the mobile app itself. It's a new -- completely new app architecture for us.
+So it's a new piece of software. And the first part that users will see that's quite different is the onboarding
+module. So we basically spent a lot of time studying human factors and how users use the products,
+particularly in those -- when they're first learning how to use it.
+
+So what the onboard module does is really walks them through a simple process in how to get up and
+running quickly on their CGM. The other thing about it that's different than G6 is it has a simplified alert
+scheme -- So it doesn't have some of the more sophisticated predictive alerts that G6 does it. It has a
+very simple, easy-to-use approachable alert scheme. The other thing that we added is with our current
+G6 system, a lot of the kind of data over time statistics are built into our Clarity software with DexCom 1,
+we've actually incorporated that into the DexCom 1 app. So typical statistics like average glucose time and
+range estimated A1C. That's all built into the single DexCom 1. And then finally, in that vein of simplicity,
+there's no AID connectivity for DexCom 1. It also doesn't have the share remote monitoring feature. So
+it's really about bringing a simple CGM product to people who've never had access to DexCom CGM and
+haven't experienced life without fingersticks.
+
+Operator
+
+And our next question comes from Chris Pasquale from Guggenheim.
+
+Christopher Thomas Pasquale
+Guggenheim Securities, LLC, Research Division
+
+I want to piggyback on that last question because I think that answer was instructive in terms of some
+of the differences here. And so it leads me to wonder who you're targeting specifically with this platform?
+It sounds like with the loss of sharing and predictive alerts, this is probably not going to be a type 1 or a
+pediatric product. Do you see this as a way to get more into the type 2 population specifically? Is it a way
+to approach some emerging market territories where reimbursement may not be in place? I would just
+love some thoughts on where you see this going over time and who this product is really for.
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+It's all of those things. Certainly, you look at the 4 countries we launched in, they're not huge countries,
+but they're markets where we've never been before. So with the e-commerce platform and the creative
+pricing structures we have for subscription plans and things of that nature. It gives a group of people
+access to our technology that have never had it before. And as far as they're not sharing and they're
+not connecting to the ID systems, you're exactly right. It is a lower level of technology with respect to
+net than what we offer. And so it is targeted different people. Certainly, we'll have access to more type 2
+patients and access to insulin users. But again, some of these geographic plays in countries where there
+isn't anything, -- We felt this simpler solution is a better product to offer out of the gate than the other
+one. And then we'll evaluate over time what products we offer where. So you were right on point with
+pretty much all your observations.
+
+Operator
+
+And we have no more questions at this time. I'd like to turn it back to Kevin Sayer for final comments.
+
+Kevin Ronald Sayer
+Executive Chairman, CEO & President
+
+Thank you, and thank you, everyone, for your questions and continued interest and support of DexCom.
+We've once again reported a number of important developments to position DexCom for the future on top
+of outstanding financial performance and continued growth. I'm going to wax a bit philosophical today, but
+my father passed away in late 2020, but he never missed an earnings call. And our routine after the calls
+was very simple. He'd call me up and he'd say, this is what you guys were trying to say, and he was pretty
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+much always right on point. So I'm preparing my closing remarks today, let me reiterate what we're trying
+to tell you.
+
+Leverage and growth continue. Our 28% revenue growth achieved through sensor volume growth in
+excess of 40% demonstrates the continued commitment and talent of our commercial organization.
+Profitability continues to improve as well, yet we remain mindful of the investments we need to make in
+the future. Our global access strategy is working. We continue to achieve the numbers we've achieved
+while we've expanded access to our product globally through strategically shifting our customers to
+channels, which was sold in reduced revenue per customer annually and yet margins have increased.
+
+Next, G7 is on schedule, and it's coming. All of the efforts related to G7 are moving at a frenetic pace
+around here. I've never seen our people so engage in a single-minded purpose. And finally, our software
+development and data platform commitments are going to be critical in the future and you saw big steps
+this quarter. We've spent a great deal of time talking about software as a differentiator today and we
+haven't over the past several months. you're beginning to see -- you're seeing the beginning of a great
+change with DexCom 1 and the data sharing and experience-enhancing technologies recently approved by
+the FDA also demonstrate this. It's only the beginning. Our long-term focus has always been for the data
+generated from our devices to be consumed in a way that really makes an impact on people's lives and on
+their health care in general. Thanks, and everybody, have a great day.
+
+Operator
+Ladies and gentlemen, this concludes today's conference. Thank you for participating. You may now
+disconnect.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+DEXCOM, INC. FQ3 2021 EARNINGS CALL |  OCT 28, 2021
+
+Copyright © 2021 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2021 S&P Global Market Intelligence.
+
+Copyright © 2021 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+

@@ -1,0 +1,1350 @@
+Autodesk, Inc. NasdaqGS:ADSK
+FQ3 2021 Earnings Call Transcripts
+Tuesday, November 24, 2020 10:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ2 2021-
+
+-FQ3 2021-
+
+-FY 2021-
+
+-FY 2022-
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+Revenue  (mm)
+
+0.90
+
+901.76
+
+Currency: USD
+Consensus as of  Nov-24-2020 12:23 AM GMT
+
+0.96
+
+942.15
+
+3.84
+
+3754.60
+
+5.32
+
+4381.97
+
+FQ3 2020
+
+FQ4 2020
+
+FQ1 2021
+
+FQ2 2021
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.72
+
+0.90
+
+0.79
+
+0.90
+
+0.78
+
+0.92
+
+0.85
+
+0.98
+
+8.33 %
+
+2.22 %
+
+7.59 %
+
+8.89 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Andrew Anagnost
+President, CEO & Director
+
+Richard Herren
+
+Simon Mays-Smith
+
+ANALYSTS
+
+Adam Charles Borg
+Stifel, Nicolaus & Company,
+Incorporated, Research Division
+
+Brad Alan Zelnick
+Crédit Suisse AG, Research
+Division
+
+Heather Anne Bellini
+Goldman Sachs Group, Inc.,
+Research Division
+
+Jay Vleeschhouwer
+Griffin Securities, Inc., Research
+Division
+
+Keith Weiss
+Morgan Stanley, Research Division
+
+Matthew George Hedberg
+RBC Capital Markets, Research
+Division
+
+Philip Alan Winslow
+Wells Fargo Securities, LLC,
+Research Division
+
+Saket Kalia
+Barclays Bank PLC, Research
+Division
+
+Steven Richard Koenig
+SMBC Nikko Securities America,
+Inc., Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+Presentation
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the Q3 Fiscal Year 2021 Autodesk
+Earnings Conference Call. [Operator Instructions] Please be advised that today's conference is being
+recorded. [Operator Instructions]
+
+I would now like to hand the conference over to your speaker today, Simon Mays-Smith, Vice President of
+Investor Relations. Thank you. Please go ahead, sir.
+
+Simon Mays-Smith
+
+Thanks, operator, and good afternoon. Thank you for joining our conference call to discuss the results of
+our third quarter of fiscal year '21. On the line is Andrew Anagnost, our CEO; and Scott Herren, our CFO.
+Today's conference call is being broadcast live via webcast. In addition, a replay of the call will be available
+at autodesk.com/investor. You can find the earnings press release, slide presentation and transcript of
+today's opening commentary on our Investor Relations website following this call.
+
+During the course of this call, we may make forward-looking statements about our outlook, future results
+and related assumptions and strategies. These statements reflect our best judgment based on currently
+known factors. Actual events or results could differ materially. Please refer to our SEC filings for important
+risks and other factors, including developments in the COVID-19 pandemic and the resulting impact on
+our business and operations, that may cause our actual results to differ from those in our forward-looking
+statements.
+
+Forward-looking statements made during the call are being made as of today. If this call is replayed
+or reviewed after today, the information presented during the call may not contain current or accurate
+information. Autodesk disclaims any obligation to update or revise any forward-looking statements.
+
+During the call, we will quote a number of numerical growth changes as we discuss our financial
+performance, and unless otherwise noted, each such reference represents a year-on-year comparison. All
+non-GAAP numbers referenced in today's call are reconciled in the press release or the slide presentation
+on our Investor Relations website.
+
+And now I will turn the call over to Andrew.
+
+Andrew Anagnost
+President, CEO & Director
+
+Thank you, Simon, and welcome, everyone, to the call. First off, I hope you and your families are
+remaining safe and healthy. And before jumping into our third quarter results, I would like to thank again
+our employees and the families and communities that support them as well as our partners and customers
+for their sustained commitment during uncertain times. That commitment was reflected in our execution
+and demonstrated the resilience of our business model this past quarter. Together, they enabled us to
+deliver strong Q3 results with billings, revenue, earnings and free cash flow coming in above expectations
+despite the volatile macroeconomic conditions resulting from the pandemic.
+
+I'm pleased to see the acceleration of our SaaS business model, the secular shift to cloud underpinning
+it and the competitive opportunities it brings. We have many miles of opportunity ahead of us.
+Our enterprise customers are undertaking their own digital transformation, and by enabling that
+transformation, we are becoming a strategic partner rather than a software vendor. These strategic
+partnerships are broader than in the past with our customers expanding their Autodesk product portfolio.
+
+Our third quarter results reflect this trend as our enterprise deal activity with large customers accelerated.
+We closed some of the largest transactions in the company's history, including a 9-digit deal. I am proud
+of our team's execution, which positions us well entering the fourth quarter with a strong pipeline of deals.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+In the third quarter, we also saw the ebb and flow of the economic impact of the pandemic. As you know,
+our transition to the cloud means we are able to monitor the usage patterns of our products across the
+globe and see the positive correlation between increasing usage level and new business growth in those
+regions. China, Korea, Japan and most of Europe saw usage levels rise above pre-COVID levels. While
+usage trends in the U.S. and the U.K. have not yet returned to pre-COVID levels, they have stabilized in
+the U.S. and growing sequentially in the U.K.
+
+In line with the usage trends, our new business remains impacted by the pandemic. But the diversity of
+our revenue stream and customer base is helping us deliver strong results.
+
+Now as you know, Scott has decided to take on the next challenge in his career by accepting the CFO
+role at Cisco starting mid-December. Scott has played a huge role in driving the business over the last 6
+years, helping Autodesk successfully navigate the business model transition. We are sad to see him leave,
+but we are also excited for him. Thank you, Scott, for your many contributions to Autodesk, and I wish
+you continued success in the next chapter of your career. Scott is leaving behind a strong team to ensure
+smooth operations while we look for his replacement. We have started the search process, and it is my top
+priority in the near term.
+
+Now I'd like to turn it over to Scott to take you through the details of our quarterly performance and
+guidance for the year. I'll then come back to provide insight into our strategic growth drivers.
+
+Richard Herren
+
+Thanks, Andrew. I'm leaving Autodesk with mixed emotions as I'm excited about what lies ahead for
+me but also sad about leaving my colleagues at Autodesk. The last 6 years have been the most fun and
+rewarding of my entire career as we've transformed the company from a traditional license revenue model
+to a cloud-based recurring revenue model. That transition is now complete, and I leave knowing Autodesk
+is well positioned for the future with leading positions in attractive markets and accelerating momentum.
+
+Looking at the quarter's results. Several factors contributed to our outperformance across all key metrics,
+including strong enterprise deal activity, healthy subscription renewal rates, digital sales, a sequential
+improvement in new business trends and foreign exchange rates.
+
+Total revenue growth came in at 13% as reported, 14% in constant currency, with subscription plan
+revenue growing by 24% and operating margin expanding by 3 percentage points. We previously told you
+that we extended payment terms for customers impacted by the pandemic. The normalization of payment
+terms, combined with improving business trends and strong cash collections in Q3, helped drive healthy
+free cash flow of $340 million. Current RPO, which reflects committed revenue for the next 12 months,
+was up 16%, a slight improvement on the rate of growth we saw in the second quarter. Total RPO was up
+21%.
+
+We again benefited from the diversity of our customer base. Business softness in certain areas like the
+U.S. and parts of Europe was offset by strength in other areas. Digital sales continued to drive double-
+digit billings growth through our online channel supported by accelerated growth in our cloud-based Fusion
+offerings.
+
+We're developing broader strategic relationships with our enterprise customers with multiyear
+commitments. As is typical for most enterprise agreements, the 9-digit deal Andrew mentioned is a 3-year
+commitment billed annually and do not have a meaningful impact on our revenue or cash flow during the
+third quarter.
+
+The run rate business with our partners also continue to perform well. While we're seeing the traction of
+our transition to the named user business model, it results in a subset of our customers optimizing their
+installed base by reducing the number of named user seats needed after they take advantage of our 2-
+for-1 trade-in program. I'm pleased to report that these overall trends are in line with our expectations. As
+we've said in the past, in aggregate, the transition to the named user model is a revenue-neutral event for
+us but enables us to offer more value to our customers in a similar way as other SaaS providers.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+Our net revenue retention rate remained within the 100% to 110% range we laid out in our guidance.
+Our product subscription renewal rates remain strong, reinforcing the critical nature of our products to
+our customers. As in the prior quarter, approximately 40% of the maintenance customers who came up
+for renewal converted to subscriptions. Our maintenance renewal rate declined sequentially, which was
+expected as we are nearing the end of our maintenance program.
+
+Industry collections remained a stable share of our total business in Q3. As anticipated, multiyear
+payments were down year-over-year, but we saw modest sequential improvement in the share of
+multiyear payments across each geography as customers continue to make long-term investments in our
+products.
+
+And finally, during the third quarter, we spent $196 million to buy back 800,000 shares at an average
+price of $231 per share. Year-to-date, we have repurchased 2.12 million shares at an average price of
+approximately $186 per share for a total spend of $393 million.
+
+Now let me turn to our guidance. We are raising the low end of our full year guidance range to a range
+of $3.75 billion to $3.765 billion, bringing the midpoint growth rate up to 15% year-over-year. We're
+also raising our non-GAAP operating margin outlook to the upper end of our prior range, a 4-point
+improvement from last year.
+
+Our fourth quarter performance will benefit from the strength of our third quarter results, but the business
+environment remains uncertain given the current wave of COVID cases. We expect product subscription
+renewal rates to continue to be very healthy. Churn on our maintenance offering will likely accelerate as
+we enter the final stages of ending our maintenance offering. And we expect our net revenue retention
+rate to remain between 100% and 110% for the quarter.
+
+Our pipeline entering the fourth quarter is strong, but we've assumed that new business and multiyear
+contracts will continue to be under pressure. The narrowing of our billings and free cash flow outlook
+range is primarily driven by moderating assumptions around multiyear and the uncertainty presented by
+the current environment. It's a testament to the strategic value of our products to our customers and
+the resiliency of our model that we're still expecting to report 15% revenue growth despite the current
+economic headwinds.
+
+Looking out to our fiscal year 2022, we expect an improving macroeconomic environment as we exit this
+year will result in accelerating growth in new business over the course of fiscal '22. Given our subscription
+model, revenue growth will lag the improving sales environment. As we've said in the past, the path to
+fiscal '23 will not be linear. We expect our fiscal '22 revenue growth to be low to mid-teens and free cash
+flow growth to reaccelerate to approximately 20%.
+
+We're confident in our fiscal '23 free cash flow target of $2.4 billion as we will benefit from improving
+business momentum in fiscal '22 that will provide a tailwind to our revenue and free cash flow growth. In
+fiscal '23, we'll also benefit from the renewals of our fiscal '20 transactions when we restarted multiyear
+payments for a part of our business. Beyond fiscal '23, our continued investment in cloud products and a
+subscription business model, backed by a strong balance sheet, give us a robust foundation and platform
+for double-digit growth.
+
+And now I'd like to turn it back to Andrew.
+
+Andrew Anagnost
+President, CEO & Director
+
+Thank you, Scott. Our strong performance in Q3 once again demonstrates the advantages of our diverse
+customer base, resiliency of our employees, the power of our SaaS offerings and the strength of our
+business model.
+
+At Autodesk University last week, we hosted approximately 100,000 customers and partners and made a
+series of product and partnership announcements as well as our acquisition of Spacemaker, which closed
+yesterday and offers industry-leading functionality to architects. Spacemaker will enable us to support
+design professionals much earlier in their workflow by harnessing AI to rapidly create and evaluate options
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+for a building or urban development. Through automated data capture, smart design, decision support and
+collaboration functionality, Spacemaker enables users to quickly generate, optimize and iterate on design.
+It also offers a fundamental shift in how we imagine and build cities in the future and the time needed to
+evaluate various possible options. I encourage you to check out the demo from last week that is available
+on our website.
+
+We also announced the Autodesk Construction Cloud platform, which unifies our AEC cloud offerings and
+the data held within them, to enable a connected project ecosystem across design and construction.
+Underpinning the Autodesk Construction Cloud is our common data environment, Autodesk Docs. This
+provides seamless navigation, integrated workflows and project controls and enables a single source of
+truth across the project life cycle. Autodesk Build, Quantify and BIM Collaborate bring together the best
+of PlanGrid and BIM 360 with new functionality to create a comprehensive field construction and project
+management solution. For our design customers, BIM Collaborate Pro extends the capabilities of BIM
+360 design on the new platform to create a more seamless exchange of project data between design and
+construction.
+
+During the quarter, Morgan Sindall, a leading construction group in the U.K., committed to Autodesk
+as their strategic platform partner. As Lee Ramsey, Morgan Sindall's Digital Design Director said, "I
+researched all the marketplace solutions. Autodesk stood out for me. Autodesk Construction Cloud
+provides greater integration between different roles and functions, allowing data to be shared across
+projects, silos to be broken and a vast amount of efficiency to be gained."
+
+The breadth of our AEC business has underpinned its resilient performance and enabled it to be a net
+beneficiary from secular and cyclical trends. Despite many construction projects being interrupted, delayed
+or navigating new ways of working because of the pandemic, we are still seeing year-on-year growth
+across all our construction offerings. Our cloud-based products enable our customers to navigate the
+cycle today and to be more efficient and sustainable for tomorrow. Our office-based solutions continue
+to do well, while our field-based solutions improved sequentially, boosted by several competitive wins.
+Customers continue to choose PlanGrid to digitize their processes because it is easy to use and they only
+pay for what they need.
+
+This quarter, our BIM 360 product set records for both worldwide weekly average users and projects. We
+also continue to see adoption with our larger customers and within the infrastructure industry. During the
+quarter, one of the world's leading professional services firms, which serves clients in the infrastructure
+and building sectors, increased its investment with Autodesk. We have been partnering together for over
+15 years, and the renewal of our Enterprise Business Agreement enables this firm to expand its use of BIM
+360 and PlanGrid in order to adapt faster to industry changes and create new markets for its services.
+
+In another instance, Japan's largest homebuilder, Daiwa House Industry Company Ltd., renewed its
+Enterprise Business Agreement with us. The company is making key investments in BIM and has selected
+Autodesk to be a strategic innovation partner to achieve its goals for digital transformation, design
+for manufacturing and industrialized construction. The company is adopting BIM at all levels of the
+organization and has made a commitment to adopt additional Autodesk products, including BIM 360 Docs
+and Design and PlanGrid. We are thrilled to be working with Daiwa House at the forefront of industrialized
+construction.
+
+Our cloud-based platform is also propelling growth in manufacturing by enabling the convergence of
+design and make. On the commercial side, our market-leading cloud-based platform, Fusion 360, enjoyed
+another quarter of accelerating subscriptions, growing scale of deployments and adding competitive
+displacements to end the quarter with over 120,000 subscriptions. At AU, we introduced several
+extensions of Fusion 360 that further encourage adoption and usage of the platform by adding specialist
+functionality. As a reminder, extensions offer expanded tools and functionality that can be added on
+demand to the core Fusion 360 offering. This kind of functional flexibility and cost effectiveness enhances
+the value of our platform for designers, engineers and manufacturers.
+
+We also announced exciting partnerships with Sandvik Coromant and Rockwell Automation. With Sandvik
+Coromant, a metal cutting tools and services company, we took the first step to realize a shared long-term
+vision of accelerating the automation of manufacturing processes by making tool data and manufacturing
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+recommendations available to users of Fusion 360. With Rockwell Automation, a provider of industrial
+automation and information technology, we combined factory layout capabilities available in our industry
+collection with their factory simulation tools. Together, these solutions will help our mutual customers
+digitally design and commission factories in less time and with greater efficiency.
+
+This quarter, we also announced the acquisition of CAMplete, a leading provider of post-processing
+and machine simulation solution. CAMplete bridges the gap between CAM programming and shop floor
+machine tool operations. It allows manufacturers to digitally simulate and verify the machine code that
+drives the production equipment before running it on the shop floor. This will enable our customers to
+identify potential problems in a digital environment at the programming phase that could otherwise scrap
+work or damage machine tools in production.
+
+During the quarter, a large multinational defense, security and aerospace company with an extensive
+global supply chain chose to increase its investment with Autodesk through an Enterprise Business
+Agreement. To stay at the forefront of its industry, the company is using innovative manufacturing
+methods to save time and money and has set a target to 3D print approximately 1/3 of the components
+in its new jet. As it radically changes the way it designs and builds, the company has selected Autodesk
+as a key strategic partner. The adoption of our products is also driving change throughout its supply
+chain, which must adopt new ways of working. With Fusion 360, it now has access to our advanced
+manufacturing solutions to help it realize its business goals.
+
+In education, we continue to expand our footprint. Tinkercad, our fully browser-based product
+development platform for aspiring designers, now has over 30 million users worldwide. Fusion 360 on
+Chromebooks is experiencing rapid adoption at high schools and universities and is replacing entry-level
+browser-based CAD/CAM with professional-grade, career-accelerating Fusion 360.
+
+For instance, the University of Illinois at Urbana-Champagne has now switched to Fusion 360 across
+multiple departments, including biomedical engineering, systems engineering and mechanical engineering.
+Beyond our industry-specific results, we are seeing early adoption of our Premium subscription plan, with
+customers taking advantage of the enhanced subscription offering at renewal. Many of our multiuser
+customers who are transitioning to the named user model are finding great value in the Premium plan due
+to its advanced user analytics, single sign-on capabilities and enhanced support.
+
+For example, Scheuch, a leader in the field of innovative air and environment technology, decided to
+commit to a long-term investment in Premium this quarter, primarily due to SSO and user management
+capabilities. They see Autodesk as a strategic partner as it continues to harmonize its global IT
+infrastructure.
+
+Let me finish by updating you on our progress monetizing noncompliant users. We continue to be sensitive
+to the short-term economic pressure faced by our customers but remain optimistic about the long-term
+opportunity as we demonstrate the value of our cloud-based platform to our customers. For example, in
+China, a customer which left us to try a lower-cost competitor quickly returned due to AutoCAD's superior
+functionality and invested further in Autodesk by purchasing collections for the first time to focus on
+growth.
+
+Our efforts to educate our customers about the benefits of staying compliant with our subscriptions are
+yielding results. We are able to convert them to paying users in a customer-friendly manner. During the
+quarter, we closed 8 deals over $500,000 with our license compliance team.
+
+In closing, we continue to build a strong Autodesk for the long term. Our early and sustained organic and
+strategic investment in critical capabilities like cloud computing and cloud-based collaboration, combined
+with a successful transition to a SaaS business model, give us significant competitive advantages and
+confidence to grow in the double-digit range in the foreseeable future, and we have multiple drivers that
+make us confident in our fiscal '23 free cash flow target of $2.4 billion.
+With that, operator, we would now like to open the call up for questions.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Saket Kalia from Barclays Capital.
+
+Saket Kalia
+Barclays Bank PLC, Research Division
+
+Okay. Great. And Scott, congratulations on the next step. You'll certainly be missed.
+
+Richard Herren
+
+Thanks, Saket.
+
+Saket Kalia
+Barclays Bank PLC, Research Division
+
+Andrew, maybe first for you. A lot to talk about, but one of the questions that I feel like we got a little
+bit, especially during the month of October and November, were what potentially higher infrastructure
+spending spurred by the government could mean for Autodesk. And of course, we don't know what that
+looks like yet, or frankly, even if it will happen, but I was wondering if you could share some of what
+Autodesk maybe saw during the 2009 Recovery and Reinvestment Act as perhaps a frame of reference.
+Does that make sense?
+
+Andrew Anagnost
+President, CEO & Director
+
+Yes, Saket, that makes sense. First off, let me start the question by being super clear. We don't have
+any kind of projections around stimulus or the impact of stimulus on our business in any of our models,
+all right? That's stuff that we leave out because one does not want to leave themselves exposed to the
+vagaries of governments.
+
+However, if we go back to '08 and '09, and I think it's important to remember this, one of the narratives
+out there about Autodesk in '08 and '09 is Autodesk is so exposed to the housing market. Oh, my gosh.
+And the reality was that Autodesk revenue recovered well -- significantly faster than the housing market
+did, and that was because of the distributed nature of our work and our customer base and the projects
+and the sectors that we cover.
+
+Infrastructure spending and stimulus spending, that then absolutely helped because it created a pipeline
+of projects that were new, but we were already recovering before some of the stimulus showed up. And
+I think it's important to recognize that. If you look at what the impact might be if we actually see some
+of this show up and we actually see some important stimulus, obviously, it's going to increase the project
+pipelines of our customers. And that's always good for us.
+
+And it could see more adoption of our portfolio. It could be really good for the construction portfolio. But
+again, Saket, I want to make it super clear, we don't model that kind of stuff in our outlook, and we're not
+expecting it to hit our numbers.
+
+Richard Herren
+
+Yes. Saket, the only other comment that I'd add on top of that is, look, let's say an infrastructure bill
+does get passed. It will take some time for that bill to turn into real projects and for those projects to
+get put out to bid and for that then to downstream, start to drive our business. So even if that were to
+happen, let's say, early in the new administration, I wouldn't expect it to have a material impact on fiscal
+'22 anyway.
+
+Saket Kalia
+Barclays Bank PLC, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+Got it. That's super helpful. Scott, maybe for my follow-up for you. Thanks for the early fiscal '22 guide.
+It's very helpful. I guess with 20% free cash flow growth next year and that target of $2.4 billion in
+fiscal '23, it looks like that acceleration in free cash flow that we're seeing here in fiscal '21 is going to --
+actually in fiscal '21 and '22 is going to continue into '23. Can you just talk a little bit about some of the
+drivers that might contribute to that? You touched on this a little bit on your prepared comments. So I'm
+just wondering if you could double-click on it once more.
+
+Richard Herren
+
+Yes. Sure, Saket. The -- and by the way, you were one of the ones that got it right, actually, as I recall,
+looking at your preview note for what to expect on fiscal '22. And as you know, we've been running
+multiple scenarios. I've been probably driving my team crazy running scenarios over the last 9 months.
+And in each case, we run it not just for the impact to this fiscal year and next fiscal year, out through fiscal
+'23 to even fiscal '25 and beyond. So to have a good sense of how the model responds to a variety of
+different scenarios, that's part of what underpins our confidence in fiscal '23.
+
+But if you step back and say, what are the drivers behind that, I mean, I'll start with the biggest driver.
+You've seen our renewal rates stay steady through this process. And in fact, even modestly, we saw a
+sequential increase in renewal rates. But given the size of our renewal base, that's a big driver longer
+term. And we talked about the net revenue retention rate kind of staying in that 100% to 110% range
+even during the pandemic. So if you take a big renewal base with a high renewal rate and a 100% to
+110% net revenue retention rate, that drives a lot of growth.
+
+Add to that what we're seeing in cloud and the cloud product's acceleration overall. We still have a pretty
+significant opportunity to convert nonpaying users out in front of us. And we've built the leading portfolio
+-- product portfolio in construction. So there's a -- and we've talked again today about the success of our
+manufacturing business and where we're headed there and some of the traction we're beginning to get
+with Fusion 360 and the way we're monetizing that with some of the extensions. So there's a lot behind
+that. That's what drives our confidence not just in this year and some of the early view I gave you of fiscal
+'22 but then how that ramps up out through fiscal '23.
+
+I think there's 2 other quick things that I'd like to add to that. We do -- we're seeing a modest
+improvement in economic activity right now that Andrew talked about. Certain countries are back to pre-
+COVID levels, but it's not consistent. Our expectation is that we will see continued economic improvement
+through next year, but that will -- I doubt it's going to be a straight line, right? I think that will be more
+pronounced in the second half of next year, which means the year will be a bit more back-end loaded.
+And that linearity effects not just revenue. It also affects when we collect cash. A lot of the sales of that
+momentum in the second half of the year will turn into fiscal '23 free cash flow.
+
+And then one other item that I want to get on the call so that you can build it into your model. We do
+see a cash tax impact year-on-year this year to next year of about $50 million to $60 million as our
+profitability has improved fairly significantly. So you add all those together, that's what underpins our
+confidence, the early view of fiscal '22 cash flow and our confidence in the $2.4 billion in fiscal '23.
+
+Operator
+
+Our next question comes from Matt Hedberg from RBC Capital Markets.
+
+Matthew George Hedberg
+RBC Capital Markets, Research Division
+
+Congrats on these numbers in a really difficult situation. I will also offer my congrats to Scott. It's been
+great working with you. Obviously, we'll miss you at Autodesk, but congrats and best of luck.
+
+Andrew, I wanted to ask about the 9-figure, 3-year renewal deal. That is super exciting. I guess I'm
+wondering, can you give us a bit of history on how that customer has grown to this level and maybe the
+opportunity for other enterprise deals of this caliber given your sort of extended platform these days.
+
+Andrew Anagnost
+President, CEO & Director
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+Yes. So we actually broke records a couple of times during this quarter. So these deals are becoming more
+of the norm than not in our quarters. And I want to tell you what essentially underpins all of these. And
+I think it's important and it kind of -- it's the same dynamic in all of them. Our customers look 3 years
+out. They look at what they're trying to do internally transformationally with digital transformation or with
+the transition to BIM or with the transition to the cloud with Fusion and other things associated with that.
+And they ask themselves, okay, what are they going to need in an EBA in order to drive and maintain that
+expansion without coming back and renegotiating the contract with us again. That's what's powering this,
+a strategic discussion about what are the long-term adoption requirements of these customers.
+
+So for instance, a customer might see themselves expanding more into industrialized construction and
+applying both Inventor and Revit more broadly in their process, and they want to make sure they plan
+for that, or they're going to see expansion of Construction Cloud deeper into their processes. So they're
+planning for that. They're saying, well, I'm using this much Construction Cloud this year. I'm going to use
+this much next year or the year after that, the year after that.
+
+So this is what is driving these kinds of deals, this discussion about the 3-year expansion of usage of our
+portfolio in these accounts. And it's not just usage across users. It's usage across breadth of portfolio.
+Otherwise, you couldn't see deals of these size coming through. That's the dynamic that plays out in
+almost all of these deals that we're seeing. Makes sense, Matt?
+
+Matthew George Hedberg
+RBC Capital Markets, Research Division
+
+Got it. Yes. No, that's super helpful. And then maybe just to double-click on the SaaS side. I mean,
+Andrew, you talk to executives every day. And I guess I think we're all excited about the prospects of the
+vaccine. On those conversations though, in a post-COVID world, I mean, do you get a sense that -- you've
+always had a lot of success with 360 SaaS today. But do you think we could see even a bit of a slingshot
+effect as part of these larger deals as customers really effectively race to embrace SaaS potentially for the
+next pandemic at some point?
+
+Andrew Anagnost
+President, CEO & Director
+
+Yes. I actually think it even goes beyond pandemics. It's like once you got a taste of it, you want more
+of it is what's going on, too, okay? Because remember, some of these customers, they were not broadly
+deploying our SaaS solutions prior to the pandemic. And what they're seeing now is, you know what, this
+stuff is important. I need to get on it, and I need to prepare for the future, and this is how I'm going to
+drive my digitization. So we're absolutely going to see continued growth in these SaaS platforms.
+
+It's interesting that you mentioned the vaccine and things like that because what we're seeing when we
+talk to executives right now is everybody doesn't see a change in the time line of how this pandemic is
+going to play out. But all of us, what we're seeing is increasing reduction in uncertainty. It starts with
+vaccine conversations and then more than one vaccine. And then it goes into, hey, the U.S. election is
+getting less uncertain. Who's going to be the President is less uncertain.
+
+So there's this progressive building of uncertainty being removed. And customers are getting more
+and more comfortable about looking at their second half investment scenarios for next year, and SaaS
+is in every one of those conversations, okay? And I think as long as we continue on this trajectory of
+uncertainty being removed, you're going to see people being increasingly comfortable with how they feel
+about the second half of next year.
+
+Operator
+
+Our next question comes from the line of Philip Winslow from Wells Fargo.
+
+Philip Alan Winslow
+Wells Fargo Securities, LLC, Research Division
+
+Congrats on this great quarter. And Scott, obviously, it's been a real pleasure working with you not just at
+Autodesk but going back to Citrix. And we'll definitely miss you, my friend.
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+Richard Herren
+
+Thanks, Phil.
+
+Philip Alan Winslow
+Wells Fargo Securities, LLC, Research Division
+
+I got a question for you in terms of the AEC portfolio. Obviously, very diversified in terms of the sort of
+the stages of, call it, building from design, planning, actual construction. And so I guess sort of a 2-part
+question here. What are you seeing in sort of that portfolio right now and into Q4? And then when you are
+thinking about next fiscal year, how are you expecting sort of the ebbs and flows of that portfolio to play
+out?
+
+Andrew Anagnost
+President, CEO & Director
+
+Yes. Actually, Phil, you're pushing on an important competitive differentiator for us. The breadth of
+capability we have across the entire AEC cycle and the way we're integrating that information in the
+cloud is fairly unique, all right? And what we're seeing -- and this is something that I think you'll see
+progressively again and again. Right now, a lot of people are talking about digital twins, and that's the
+vocabulary that's out there. Obviously, we haven't used that vocabulary very often. But what's going on
+right now is BIM -- 3D BIM is the original digital twin, all right?
+
+And this whole discussion around digital twins and AEC and things associated with it is accelerating the
+dialogue around if I want to do digital twins, I got to do BIM because there's no digital twin without a
+building information model. And you're going to see a continuing ongoing acceleration of the usage of BIM
+upfront in our portfolio, but then what we've layered on top of it is a couple of critical things that make the
+entire portfolio more valuable.
+
+You may have noticed we emphasized this notion in the new Construction Cloud platform around a
+common data environment and all the things that go along with that common data environment. That
+common data environment is not just SaaS-based. It's also ultimately going to be ISO compliant, and
+it's going to allow us to move that building information data all the way through the entire process. So
+you're going to see more and more adoption of what's in Autodesk Build, all the way through from the
+preconstruction planning cycle to the construction site. And that's a pretty powerful differentiator for us.
+
+But the one last thing I want to mention to you, and we talked about this at AU, and I want to make sure
+you paid attention to it, was the rollout of Tandem, Autodesk Tandem. And what was Tandem? So Tandem
+is -- if digital twins start with BIM, Tandem is a way to bring BIM data together from multiple places, from
+our BIM models or our BIM information from other third parties that are building controller information
+perhaps from other BIM-based data from other types of applications and bring it into a single aggregated
+view in the cloud that updates dynamically as the building project progresses.
+
+This puts us at the forefront of bringing the power of BIM to create digital twins to the ability to create
+digital twins in the cloud that actually represent the final state of the project no matter where all that
+project data comes from. So we're pretty excited about this progression and what it means for the
+company. And I think you're going to see a lot of interest and uptake in the approach we're taking.
+
+Philip Alan Winslow
+Wells Fargo Securities, LLC, Research Division
+
+That's awesome. That's super exciting. And an equally as exciting question for Scott, long-term deferred
+revenue. The -- how are you thinking about that next year? Obviously, the guidance for this year is
+hanging out in the mid-20s, but how are you sort of modeling that when you think about cash flow for
+next year and the year after that?
+
+Richard Herren
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+Yes. I think for next year, it stays in that range, Phil, and I don't want to get into doing too much
+forecasting of fiscal '22 until we get to the Q4 earnings call. And obviously, we can give you more detail at
+that point.
+
+But what we're seeing this year is kind of moderating assumptions around multiyear. And of course, that's
+what drives a lot of that long-term deferred. And so you see the sequential trend there in long term. It
+hasn't fallen off the floor. It hasn't fallen off the desk and onto the floor. The multiyear rates are still there,
+but they're not as robust as we have seen historically in maintenance.
+
+I think ultimately, it returns to that level. But frankly, I don't think the moderating multiyear that we see
+this year is a big negative in a sense that given our renewal -- the strength of our renewal rates, we'll
+continue to get that -- collect that cash. We'll just collect it in the subsequent 2 years instead of collecting
+all 3 years upfront. And we'll collect it without the 10% discount that we put in as an incentive for those
+multiyear transactions. So think of it kind of settling in where it is for the foreseeable future. Ultimately, I
+think there's probably a little room for it to run.
+
+Philip Alan Winslow
+Wells Fargo Securities, LLC, Research Division
+
+Awesome. And congrats again on a great quarter.
+
+Richard Herren
+
+Thanks, Phil.
+
+Andrew Anagnost
+President, CEO & Director
+
+Thanks.
+
+Operator
+
+Our next question comes from the line of Heather Bellini from Goldman Sachs.
+
+Heather Anne Bellini
+Goldman Sachs Group, Inc., Research Division
+
+Great. And Scott, I will echo my congratulations and to you as well, Andrew, for the company's execution
+in this challenging macro environment.
+
+I wanted to ask 2 questions. One, if you can share with us kind of, I mean, the competitive positioning
+in construction given your pricing model and how you might see some of the competitors responding. So
+if you could spend some time on that, maybe a little bit more on the differentiation, if that's gotten even
+wider over the course of the pandemic. And then also, if I look at your growth in Asia Pac, you can -- that
+was the best region in terms of growth. How far behind do you think the Americas is from the recovery
+and the solid growth that you're seeing in APAC?
+
+Andrew Anagnost
+President, CEO & Director
+
+All right. So let me start with the competitive positioning on the construction. You're absolutely right,
+Heather, that the pandemic actually gave us an opportunity to lap our competition a bit. The slowdown
+definitely took the wind out of certain parts of the market. However, we didn't slow down. We continued to
+invest, and we put quite a bit of money into rolling out the unified platform.
+
+So what you see with Autodesk Build, which is what we're going to lead with in every new deal, we're
+leading with Autodesk Build over and over again, and we're going to lead internationally, and we're going
+to lead in the U.S. with this, is a comprehensive project management and field management application
+that goes from design all the way through to site management, site execution and layers on the analytics
+associated with Construction IQ and some of the predictive skills, all built on top of Autodesk Docs, all
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+right? So this is a pretty significant change. That platform is highly competitive. As a matter of fact, it's
+differentiated in numerous ways because of its end-to-end capabilities.
+
+In terms of pricing models, here is what's unique about it, Heather. I think it's very important to
+remember this. No one, no one in the industry is more flexible with the way we deliver these applications
+in Autodesk. So if you want to buy named users and deploy named users, we got named users for you.
+That's our primary deployment model for most of our applications. If you want to pay based on project
+turnover, you can do that. If you want to pay based on usage and consumption, you can do that. This
+flexibility is heavily coveted by our customers. And in fact, I think this flexibility has been part and parcel
+of what's allowed us to continue to expand the usage of the Construction Cloud even during what's
+happened over the last year.
+
+So I think technologically, we're now competitively differentiated because we took the pandemic at the
+time to double down on the platform unification and get it out there. And business model-wise, we're
+differentiated. So we're feeling we're in a pretty strong competitive position as we head into the recovery
+next year across all the various markets. We love that we have tough competition in this space. We think
+it's good for us. We think it's good for our customers, but we're feeling really good about where we're at.
+
+Now with regards to the Americas versus APAC, right, here's what I'll say. Usage ramped up fairly quickly
+in Asia Pacific. And like we said earlier, it's definitely above pre-COVID levels in a lot of places, not
+everywhere, but in a lot of places. The U.S., in particular, just seemed to have stalled, all right? Usage
+hasn't fallen back. It's ramped up a little bit as time goes on, but it's not seeing this kind of surge.
+
+I think we should just kind of hold tight for a while and see what the levering out of the uncertainty does
+right now for the usage in the U.S., all right? Between the election results, between the good news about
+vaccine, between the potential that people see about stimulus in their project pipeline, I think we might
+start to see a change. So it'll be interesting what we can talk about on the next earnings call. But I think
+the unwinding of uncertainty matters a lot in our markets.
+
+Operator
+
+Our next question comes from the line of Jay Vleeschhouwer from Griffin Securities.
+
+Jay Vleeschhouwer
+Griffin Securities, Inc., Research Division
+
+Andrew, starting with the 9-figure deal, returning to that subject. It's especially interesting when we
+consider that once upon a time, a $100,000 deal was a big deal for Autodesk. So you're obviously now
+many orders of magnitude beyond that. But the question is, to the extent that there are now, as we
+understand, additional 8-figure deals in the pipeline, how are you thinking about your license management
+and customer success requirements and capacities that you need to invest in and ramp up to support,
+which is obviously going to be a larger propensity for these kinds of deployments?
+
+And then returning to AU for a moment. You made some interesting remarks last week having to do with
+some additional new possible opportunities for the company in manufacturing software, supply chain, even
+smart products you alluded to. Maybe talk about how seriously you mean to pursue those new things.
+
+And then for Scott, first, thank you for the last 25 quarters. And as your going-away question or multipart
+question, Andrew earlier parsed the usage data by geo. Could you do the same thing by perhaps stand-
+alone versus collections and perhaps even by vertical in terms of what you're seeing in the usage
+telemetry there?
+
+Andrew Anagnost
+President, CEO & Director
+
+All right. So it's a classic, Jay, multipart question. All right. So Jay, let me start with the license
+management piece. This is something we take particularly seriously. And I'm really glad you asked about
+it because the license management and the ability to manage these licenses is actually a value-add to our
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+customers. They want to manage this investment in Autodesk asset as an enterprise asset, all right? And
+it's super important in the space that we do this.
+
+One of the reasons we've been moving so quickly to retire legacy models in our user base is because
+that actually holds us back from delivering best-in-class license management for our customers. Every
+customer, every maintenance license is still out there. Every multiuser license that's still based on the old
+desktop paradigm versus what we want to do in the cloud paradigm is holding us back from deploying the
+systems in a way that help our customers manage these things holistically.
+
+The good news is that our EBA customers get a totally different dashboard on how they use our software,
+and they're able to get more per user usage analytics and more data in terms of understanding our
+customer base. But this investment in the sheet of glass that our customers look through in terms of
+managing their relationship with Autodesk is something we've been doing ongoing for years. And you look
+for it to accelerate as we retire the last of these legacy business models and start unifying everything on
+a stack that really provides a high level of control to our customers and a high level of fidelity about what
+their actual usage is. This -- we believe this is a value-add of the portfolio, and you'll see us continue to
+invest in this.
+
+Now with manufacturing investments, I think you want to just pay attention to what we're doing with
+Fusion and the areas we're targeting because we think these are important areas that we want to
+pay attention to. We've integrated certain types of technology in the Fusion. We want to augment
+and supplement and extend those so that Fusion is a professional-grade solution surrounded by other
+professional-grade solutions that tackle significant growth markets inside the manufacturing vertical.
+
+Our first angle of attack within the convergence of design and make and merging advanced manufacturing
+methods with advanced modeling methods, I think you're going to see us attack the convergence of
+mechanical engineering and electrical components inside designs. We've already started doing some
+of that thing, and we're going to do it in a uniquely cloud way. We're going to do it with uniquely
+underpinnings of cloud compute. And we're going to do it in highly differentiated ways but also in ways
+that respect some of the tools our customers are using today.
+
+Richard Herren
+
+And Jay, I'll jump in on the second part. And I guess thank you for the congratulations on my 25th
+Autodesk earnings call. If I get this right, it's your 125th Autodesk earnings call, so a little bit of a
+difference there in terms of history of the company. I'd like to congratulate you as well.
+
+It's interesting, when you look at this, right, we're seeing less of a differential by vertical and more of a
+differential by country. So in other words, the country X is seeing nice robust growth. We see that in both
+the AEC and the manufacturing side. If it's continuing to be somewhat flat and stable, we see that again
+by vertical. So it's -- I'd say the better differentiator in usage is more how is the region performing, how is
+the country performing than it is within that country, is it AEC or manufacturing.
+
+The industry collections versus stand-alone, what I -- I'll just reiterate what I said in the opening
+commentary that industry collections continues to be a stable share of our overall business. So we're
+not seeing a significant mix shift there. We had -- early on, we had seen a mix shift of the new sales
+more towards LTE. And we talked about last quarter that reverted back to the mean, where it had been
+historically. So we're not seeing a significant mix shift at this point either way.
+
+The last thing that I'd add because I know the detail of your spreadsheets, and you're probably -- you
+probably already got everything laid out here. But to give you a sense on our new business growth, and
+in particular, product subscription new business growth from a unit standpoint, no question we've been
+impacted by the pandemic, more so in new business units than in other places. That new business grew
+sequentially from Q2 to Q3. And it's our expectation those units will grow again from Q3 to Q4. So just to
+give you a sense of how things are performing.
+
+Operator
+
+Our next question comes from the line of Brad Zelnick from Crédit Suisse.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+Brad Alan Zelnick
+Crédit Suisse AG, Research Division
+
+Great. So congrats all around, guys. Particularly for Scott, best of everything, especially in your next
+chapter.
+
+And the topic for both of you, I wanted to ask you about innovation. The sheer amount of innovation on
+display at Autodesk University this year was, I guess I'd just say, overflowing. So Andrew, for you, the
+easy question, what excites you the most?
+
+And my parting gift for you, Scott, maybe a little more complex, how should we think about the pace of
+innovation going forward? Because you've always talked about high single, low double-digit spend growth,
+but we're below 7% year-to-date. So should we think about spend growth accelerating meaningfully to the
+high end of your range to recapture the tremendous opportunity ahead?
+
+Andrew Anagnost
+President, CEO & Director
+
+All right. So Brad, I love this question. Innovation is absolutely hypercritical to everything we do. We
+believe we are powering a lot of transformation and a lot of dialogue in the industry right now. We are
+delighted to see our competitors start to talk like we've been talking for years. And I think that's a sign of
+the kind of innovation we're putting into the market.
+
+Here's what I'll tell you I'm really excited about. I am excited about the merger of SaaS, cloud compute
+and machine learning and this transformational power for our industry, all right? This is what gets me up
+every morning right now in terms of what we're going to be able to deliver for our customers. When we
+get more and more of their processes in the cloud, when we're computing more and more with their data
+with ever-decreasing compute cost in the cloud and layering on machine learning, we are going to be able
+to provide our customers with insights and productivity enhancements that are simply beyond anything
+they've imagined right now. And it gets me extremely excited to be part of driving that change into the
+industry and what it means.
+
+Now I can talk about the individual technologies that play into all that. There's lots. But if you talk at a
+high level about what gets me excited, it's that. And one thing I think is before -- as a segue to Scott
+answering his question, I think it's important for you to know that next year, we're probably the largest
+R&D spender in our segment, all right? And I just want you to think about that after all the discussions we
+had going to the business model transformation to all of a sudden be talking about a world where nobody
+-- probably nobody is spending as much in this space on R&D as Autodesk is. I think that is a fundamental
+change and a lot of innovation comes from that much spend. Scott?
+
+Richard Herren
+
+I'm not sure what to add to that, Andrew. I think you said it exactly right. We're in a fortunate position,
+Brad -- and thanks for your kind words, by the way. But we're in a fortunate position in the model where
+we can both grow spending and increase margins year-on-year. And so if you look at the midpoint of the
+updated guide for this year, for fiscal '21, it implies just short of an 8% growth in total spend. So the cost
+of goods sold plus OpEx.
+
+Looking ahead, on top of that, we've invested pretty significantly and grown our investment in R&D,
+headcount for R&D, for sales capacity this year and some of the areas that Andrew just touched on earlier
+in Jay's question about building out our internal systems and our internal infrastructure. So we've invested
+quite a bit in innovation already this year that will obviously carry on into next year. And we've made a
+handful of not large but strategic acquisitions to continue to fuel that innovation.
+
+So we -- I think long term, targeting double-digit revenue growth is somewhat dependent on us
+continuing to invest on the R&D side of things. And I feel really good about the position we're in to be able
+to both drive that investment and increase margins out through fiscal '23.
+
+Operator
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+Our next question comes from the line of Keith Weiss from Morgan Stanley.
+
+Keith Weiss
+Morgan Stanley, Research Division
+
+Excellent. Scott, would it be out of line to try to convince you to stay at Autodesk? I mean it's a lot more
+interesting than like a networking company.
+
+Richard Herren
+
+No. I think the first...
+
+Andrew Anagnost
+President, CEO & Director
+
+It sounded like [ I should have tried harder ], Keith, keep him.
+
+Keith Weiss
+Morgan Stanley, Research Division
+
+Exactly. He's a good one. You should have tried harder to keep him.
+
+On the quarter, 2 things that I wanted to just get a little bit more color on. One is kind of like the pace of
+recovery that you guys are seeing and expecting. It seemed like earlier this year, you might have thought
+it was going to come a little bit faster given what you're seeing in Asia Pac. Maybe that's spreading out
+a little bit. But with the turn in like the current RPO figures this quarter, it looks like you guys are really
+actually -- the whole business is turning a corner here. So one, can you give us kind of your latest thinking
+on the shape of the recovery and kind of what's assumed as we look into FY '22?
+
+And then carrying on, on kind of that total spend commentary, a lot of companies that we talked to saw
+expense savings this year due to COVID and lower T&E spending and just were able to sort of garner
+efficiencies in their overall business, some of which they need to give back in the year ahead as we get
+into a more normalized environment. Is there a big component of that in the Autodesk business that we
+should be thinking about when we're modeling margins into FY '22?
+
+Richard Herren
+
+Yes. So Keith, I'll start, and Andrew, you can add color to it. In terms of what we're seeing, we are seeing
+recovery. Andrew alluded to it and gave some of the specific countries where we're seeing recovery
+already and where we're a level of activity that's above pre-COVID rates. I think someone earlier
+highlighted APAC. APAC has been quite strong for us from that standpoint. We're seeing Continental
+Europe recover nicely as well.
+
+The -- our expectations for Q4 is that we'll continue to see a modestly improving economic environment.
+And as we look at it next year, I think we will continue to see improvement. I'm not sure it's going to
+be a straight line improvement, especially given kind of the current wave, but we'll continue to see
+improvement. And I expect by the second half of the year, that we'll see some pretty good recovery in
+economic activity that clearly will benefit us.
+
+So think of next year as being a little more back-end loaded. And I think that's part of what you see with
+the early look that we've given you on what revenue growth looks like this year. Q4, again, midpoint of the
+guide has revenue growth at about 12%, and op margin for Q4 will be about in line with the full year at
+about 29%. And I think looking at it next year, you'll see both of those grow. Revenue growth will increase
+from there, and op margin will increase from there.
+
+On the specific COVID spend savings, I think we've had the same savings that everyone has had.
+Obviously, T&E, travel expense has been a big savings for us. But as we look at -- and events have gone
+more virtual. I think that will continue. We've had modest amount of savings from the operations of our
+facilities or our offices. As we look at next year though, I don't expect it to be a significant year-on-year
+headwind. Travel, of course, will return, but we're going to build the budget such that I don't expect it to
+come back anywhere near to where it was in, let's say, calendar 2019 or in our fiscal '20.
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+I think if nothing else we've learned, you don't have to be face-to-face with a customer to get that final
+agreement. You don't have to be face-to-face internally to get things done the way we need to get them
+done internally. So I think we'll continue to see ongoing savings in T&E. It'll step up from this year,
+certainly, but it's not going to be a significant headwind for us on spend.
+
+Operator
+
+Our next question comes from the line of Adam Borg from Stifel.
+
+Adam Charles Borg
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Scott, of course, congrats on the new role. Just on some announcements coming out of AU and talking
+a little bit more about Autodesk Build, you mentioned how you're leading with that going forward. You
+do have a big installed base on BIM 360 and PlanGrid. So I was just curious kind of what the migration
+path looks like for those -- those assets to Autodesk Build. And maybe just quickly as a follow-up, on the
+Spacemaker acquisition, any commentary, Scott, on expectations for inorganic revenue growth.
+
+Andrew Anagnost
+President, CEO & Director
+
+Yes. All right. So let me start with the migration path. So for PlanGrid, for those customers that migrate
+from PlanGrid and ultimately migrate onto Build, it's actually not a heavy lift because of the way we
+built the application. PlanGrid's huge innovation and huge value-add to the whole stack is the mobile
+experience. They're really good at it. So what we did is we basically used the PlanGrid experience and the
+PlanGrid team as the mobile experience for Build. So the move from PlanGrid to Build as a progression is
+not a heavy lift.
+
+Now you're right. We have a long tail of customers that are on BIM 360 Field, BIM 360 Next Gen Field.
+Those customers over time are going to be migrating to Build at a pace that makes sense for them. But
+what we've done is we've created environments that allow them to ship during -- as projects sunset and
+they go into new projects. We've got a whole master plan with our customer success organization and
+construction on how they move over time.
+
+We're not going to force anybody to move ahead of time, but we've got a well-crafted plan for how we
+move these people. It's more of a heavy lift for people that are on BIM 360 Field, less of a heavy lift for
+people who are on BIM 360 Next Gen, which is where Docs -- BIM 360 -- Autodesk Docs was built off of,
+and it's a much smaller lift for PlanGrid customers.
+
+Richard Herren
+
+And Adam, to your question on Spacemaker, I'm super excited with the technology. And I don't know if
+you got a chance to see it demoed at AU. But if you didn't, I highly recommend you go take a look at it.
+This is a -- it's obviously tremendously exciting technology and some super talented people that we picked
+up with the Spacemaker acquisition. Impact financially is going to be nominal. It'll actually be slightly
+dilutive, and that's built into our expectations for next year.
+
+There's another effect that I probably should have mentioned earlier, and I want to make sure I get it out
+on the call though. The one thing that will change next year, and that's a slight headwind to us in terms
+of revenue growth year-on-year, we have -- almost all of our products are already ratable, right? There's
+a couple of really small products, one, Vault that we've talked about in the past that did not get over the
+hurdle to get away from upfront revenue recognition.
+
+We've continued to work on that front. We've continued to do things that incorporate much more cloud-
+based functionality. And I think in the first part of next year, Vault will flip from upfront rev rec to full
+ratable rev rec. And that looks like it's about a point of growth. Again, already built into the kind of the
+early view that I gave you of the low double -- low to mid-teens revenue growth for next year. The impact
+of Vault is built into that.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+Obviously, it normalizes in fiscal '23, but once it becomes ratable, the compare points are equivalent. But
+that's one, if you're building your model in that level of detail, think about that being a bit of a headwind
+that's already built into the early view that I've given you on fiscal '22.
+
+Andrew Anagnost
+President, CEO & Director
+
+Yes. I'll make one more comment on Spacemaker just because I kind of forgot to segue to you on that.
+But Spacemaker represents that perfect convergence of SaaS, cloud compute and machine learning into
+solving real-world problems for our customers. I think you're going to see the impact on our business
+accumulate over time as the technology expands and as it connects itself deeper with Revit and other
+parts of the process.
+
+One of the things I love about the Spacemaker team is they have this philosophy about making multiple
+constituents more successful with their objectives. And that's the building owner, the developer, making
+their investment more profitable. That's the city, making sure that the impact on infrastructure is managed
+and controlled. And they also have -- a big customer or a big stakeholder in this is the environment and
+helping architects and city planners make more sustainable decisions in real time for how things are built.
+
+It's the perfect example of how all these things come together to change the way people make design
+decisions and ultimately [ go ] decisions. The look for its impact to expand over time as that team starts
+hooking into other parts of our process, builds out their existing products and inevitably starts moving into
+other parts of the organization, which we always see with acquisitions like this.
+
+Richard Herren
+
+Yes, there's absolutely a lot of synergies that we see with Spacemaker coming in.
+
+Operator
+
+Our next question comes from the line of Steve Koenig from SMBC Nikko.
+
+Steven Richard Koenig
+SMBC Nikko Securities America, Inc., Research Division
+
+Scott, best of luck to you, and thanks for all the hard work you've done with us over the years. Definitely
+appreciate it.
+
+Richard Herren
+
+Yes. Thank you.
+
+Steven Richard Koenig
+SMBC Nikko Securities America, Inc., Research Division
+
+Cool. So I'll just ask one question. Andrew, you had some pretty open, transparent communication
+with customers this last quarter in terms of the letter that was written. And just in terms of looking at
+what those customers were asking for, they were very clearly asking for accelerating the road map in
+architecture and engineering design, which we -- doesn't seem like we've talked a lot about on the call
+today, hasn't been a focus. And if I read between the lines in that communication, the customers also
+seemed a bit frustrated with the transitions they've been going through from maintenance to subscriptions
+to collections and now to named users. And it just seems like there's a little bit of dissonance between
+what they're asking for and what I'm hearing from you on the call today, and I'd love to get your thoughts
+on how -- why is that -- why is there that maybe misperception gap? And what are you guys doing about
+it?
+
+Andrew Anagnost
+President, CEO & Director
+
+Steve, there's absolutely no dissonance, all right? One of the things I think I've said consistently in the
+communication, and I'll take you back to the communication, is we started investing in the road map for
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+Revit well ahead of these communications, all right, from these customers because we made a deliberate
+choice to invest in construction and not in Revit functionality for architects. So these customers are going
+to fairly quickly start to see changes and additions to Revit from the investment we made actually at the
+end of last year.
+
+And I think you're missing something completely. We just spent several hundred million dollars on the
+architecture segment of our space, all right? Spacemaker is squarely targeted at design and architecture,
+and the founders of the Spacemaker are architects, all right? This technology is right on the X. And like I
+said, we just spent a lot of money to do this. And this is right in the X. It's something we've been looking
+at for a while.
+
+So no, there's no dissonance here in terms of where we're focused and where we're -- with regard
+to the migration, look, you got to be -- we started this migration with 2 -- something under 2 million
+maintenance customers. Most of those have come along with us. We never expected that all of them were
+going to come along with us happily. And what we've done is we've reached the end of the tail with some
+maintenance customers that are more frustrated with the changes than not. But at the same time, we've
+added millions of other customers that weren't able to afford some of our solutions before because of the
+upfront cost of these solutions.
+
+So yes, maintenance customers that have been with us, they've seen lots of transitions. They're not done
+yet. We haven't retired all those models yet. But remember, we started with less than 2 million of those.
+We're over 5 million of subscribers right now. A fraction of those are from that maintenance base.
+
+We have to remember, let's look at the big picture here as well as the small picture. I understand and I
+emphasize the frustration of those customers that started on maintenance and journey with us, but we
+have reached so many more customers, so many more architecture firms, so many individual architects,
+so many people that couldn't afford Revit, so many people that couldn't afford that extra seat of AutoCAD,
+so many high-growth companies that as they add seats, they're actually spending less over 5 years than
+they would have with us, adding fees in the perpetual model. That's a big story, and it's transformative for
+the industry in terms of how much value people are able to get now. So let's make sure we stay focused
+on the big picture here.
+
+Steven Richard Koenig
+SMBC Nikko Securities America, Inc., Research Division
+
+Cool. Well, I appreciate your thoughts, and thanks again for the open communication. Good luck to you,
+Scott.
+
+Richard Herren
+
+Thanks, Steve.
+
+Operator
+
+This is all the time we have for Q&A today. I would like to turn the call back over to Simon Mays-Smith for
+closing remarks.
+
+Simon Mays-Smith
+
+Thank you, Gigi, and thanks, everyone, for joining us today. We're looking forward to seeing many of you
+at conferences over the next few weeks. Please do reach out to us if you have any follow-ups on anything
+from this call. So this concludes our call for today. Thank you.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now
+disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+AUTODESK, INC. FQ3 2021 EARNINGS CALL |  NOV 24, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+

@@ -1,0 +1,1293 @@
+L3Harris Technologies, Inc. NYSE:LHX
+FQ1 2020 Earnings Call Transcripts
+Tuesday, May 05, 2020 1:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ1 2020-
+
+-FQ2 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+2.61
+
+2.80
+
+Revenue  (mm)
+
+4596.68
+
+4626.00
+
+Currency: USD
+Consensus as of  May-01-2020 1:00 AM GMT
+
+7.28
+
+0.64
+
+2.75
+
+11.23
+
+13.05
+
+4691.83
+
+18899.30
+
+20031.07
+
+FQ2 2019
+
+FQ3 2019
+
+FQ4 2019
+
+FQ1 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.92
+
+2.39
+
+2.79
+
+2.61
+
+1.96
+
+2.58
+
+2.85
+
+2.80
+
+2.08 %
+
+7.95 %
+
+2.15 %
+
+7.28 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Christopher E. Kubasik
+Vice Chairman, President & COO
+
+Jesus Malave
+Senior VP & CFO
+
+Rajeev Lalwani
+Vice President
+
+William M. Brown
+Executive Chairman & CEO
+
+ANALYSTS
+
+Carter Copeland
+Melius Research LLC
+
+Peter J. Arment
+Robert W. Baird & Co.
+Incorporated, Research Division
+
+Peter John Skibitski
+Alembic Global Advisors
+
+David Egon Strauss
+Barclays Bank PLC, Research
+Division
+
+Robert Alan Stallard
+Vertical Research Partners, LLC
+
+Robert Michael Spingarn
+Crédit Suisse AG, Research Division
+
+Ronald Jay Epstein
+BofA Merrill Lynch, Research
+Division
+
+Sheila Karin Kahyaoglu
+Jefferies LLC, Research Division
+
+Douglas Stuart Harned
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+Gautam J. Khanna
+Cowen and Company, LLC,
+Research Division
+
+Jonathan Phaff Raviv
+Citigroup Inc, Research Division
+
+Michael Frank Ciarmoli
+SunTrust Robinson Humphrey,
+Inc., Research Division
+
+Myles Alexander Walton
+UBS Investment Bank, Research
+Division
+
+Noah Poponak
+Goldman Sachs Group Inc.,
+Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+Presentation
+
+Operator
+
+Greetings, and welcome to the L3Harris Technologies First Quarter Calendar Year 2020 Earnings Call.
+[Operator Instructions]
+
+It is now my pleasure to introduce your host, Mr. Rajeev Lalwani, Vice President, Investor Relations. Thank
+you. You may begin.
+
+Rajeev Lalwani
+Vice President
+
+Thank you, Jess. Good morning, everyone, and welcome to our first quarter calendar year 2020 earnings
+call. On the call with me today are Bill Brown, our CEO; Chris Kubasik, our COO; and Jay Malave, our CFO.
+
+First, a few words on forward-looking statements and non-GAAP measures. Forward-looking statements
+involve risks, assumptions and uncertainties that could cause actual results to differ materially. For more
+information, please see the press release, the presentation and our SEC filings. A reconciliation of non-
+GAAP financial measures to comparable GAAP measures is included in the Investor Relations section of
+our website, which is l3harris.com, where a replay of this call will also be available. And to aid with year-
+over-year comparability following the L3Harris merger, prior year results will be on a pro forma basis as
+reflected in the 8-K filed yesterday.
+
+With that, Bill, I'll turn it over to you.
+
+William M. Brown
+Executive Chairman & CEO
+
+Okay. Well, thank you, Rajeev, and good morning, everyone. As we're all aware, the environment has
+changed considerably since our last update due to the global COVID-19 pandemic. Our top priority
+remains the safety and well-being of our employees while continuing to deliver the mission essential
+products and services to our customers. And I will start by thanking all of our employees for their hard
+work and dedication through this crisis. While we have a resilient portfolio and customer base and we're
+well positioned, we're not immune to the effects of COVID-19.
+
+Despite the solid start to the year, we're trimming our outlook for revenue and earnings per share
+due principally to our commercial aerospace exposure and our recently completed divestiture, plus an
+anticipated softness in international and Public Safety and potential risks from supply chain disruption.
+We moved quickly with cost and other actions to offset these headwinds, holding earnings per share
+within 2% of our prior guidance while increasing our margin outlook and maintaining free cash flow. Our
+core U.S. government business, which represents about 75% of revenue, is performing well and without
+significant challenges.
+
+Earlier today, we reported first quarter results with non-GAAP earnings per share of $2.80, up 21% on
+5% revenue growth. Company margins increased 170 basis points to 17.5%, and adjusted free cash flow
+was $533 million. Total company-funded book-to-bill was 1.11 driving funded backlog up 3% versus the
+prior year. These results were ahead of our expectations. We're actively assessing and monitoring global
+developments and continue to use best practices to mitigate risks related to COVID-19. We've mandated
+work from home for those who can, implemented social distancing and canceled all travel and external
+events. In our production facilities, we've staggered work shifts, redesigned stations and implemented
+stringent cleaning protocols. As of today, all our facilities are up and running with limited disruptions
+reported to date.
+
+We continue to receive a great deal of support from our key customers: the DoD, FAA, NASA and others,
+and a large majority of our programs and facilities as well as those of our suppliers have been deemed
+essential to national security. The DoD has moved quickly to adjust the terms of progress payments to
+drive cash into the industrial base, which we have passed through to our small suppliers and started a
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+dialogue with industry on how to size and cover COVID-19-related costs. These measures combined with
+potential tax deferral benefits through the Cares Act provides some risk mitigation for our company and
+supply chain.
+
+Looking at our credit profile, our balance sheet remains healthy, and we expect to have over $3.5 billion in
+liquidity in the form of cash on hand and revolver availability at the end of the quarter. Jay will discuss this
+in some more detail.
+
+In these uncertain times, we continue to execute well on the strategic priorities that we previously
+outlined, which is helping us deal with the crisis at hand while, at the same time, delivering long-term
+value for our shareholders.
+
+First, we continue to make great progress on integration despite the environment. Our team delivered
+$55 million in net synergies in Q1 from improvements in benefits and overhead costs, and we now expect
+to achieve $165 million of incremental net savings in 2020, up versus our previous expectation of $115
+million as we accelerate savings and manage through the pandemic. And there's no change to achieving
+$300 million in cumulative net savings or about $500 million gross in 2021, which, as we've announced
+before, is about 1 year ahead of schedule.
+
+Second, we continue to drive a culture of operational excellence deep into the company to improve quality
+and productivity and expand margins. This was evident in our first quarter results where we built upon
+last year's performance and delivered E3 savings on top of synergies to offset mix headwinds. For the
+year, the combination of cost synergies and E3 savings allow us to increase full year margin by 25 basis
+points to 17.5% at the midpoint despite the cost-absorption challenge from revenue headwinds and the
+expenses being incurred to fight the pandemic. And on working capital, we continue on the improvement
+trajectory from the stub year with another 2-day operational reduction since year-end and about 10 days
+operationally since the merger closed, primarily from better inventory management. We believe we have
+the tools and proper focus to manage in the current environment, leaving the path of 50 days of working
+capital intact for 2022.
+
+Third is to invest in technology and innovation in anticipation of customer needs to grow revenue in the
+long run, and we expect to sustain our industry-leading spend on R&D despite the pandemic. The team is
+making terrific progress in improving the efficiency and effectiveness of our investments, creating room in
+our budget to support investment in the growing pipeline of revenue synergy opportunities. We have now
+submitted 41 revenue synergy proposals, up 18 from last quarter, with another 3 down selects out of 8 in
+the first quarter, primarily related to classified work in our Space and Aviation Systems segments. To date,
+we've been down selected on 1/2 of the 16 proposals awarded with orders booked in the tens of millions
+and a lifetime revenue potential of over $2 billion.
+
+Our fourth priority is reshaping the portfolio to focus on high-margin, high-growth and technology-
+differentiated businesses, and this has not changed. So far, we've announced 3 transactions representing
+about 3% of revenue that will result in about $1 billion in proceeds. Our Airport Security and Automation
+business, the largest of these announcements, closed yesterday with 2 smaller ones closing later this
+month and by midyear, neither of which have a financing contingency. We're still targeting divestitures in
+the range of 8% to 10% of revenue, including the divestitures announced to date. And while the timing is
+now more fluid, we continue to have active discussions and are committed to maximizing value.
+
+And then finally, our fifth priority is to maximize cash flow and sustainably grow free cash flow per share.
+We're maintaining our adjusted free cash flow guide for 2020 at $2.6 billion to $2.7 billion and remain
+on track to achieve $3 billion in 2022. In the quarter, we generated over $500 million in free cash flow
+and returned $883 million to shareholders, including $700 million in buybacks and dividends which were
+increased 13% in the quarter. For the year, we have now assumed $1.7 billion in share repurchases,
+including the proceeds from divestitures, which leaves us with plenty of liquidity given the environment.
+
+Moving to 2020 guidance. We expect organic revenue growth of 3% to 5% versus the prior 5% to 7% as
+we consider risks related to our commercial aerospace, international and public safety businesses due to
+the pandemic. On margins, again, we are expanding guidance at the upper end and narrowing the range
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+to 17.4% to 17.6%. And we expect earnings per share of $11.15 to $11.55 with our free cash flow outlook
+unchanged.
+
+Overall, I'm proud of the dedication of L3Harris employees and their commitment to the mission at hand,
+and I'm confident in our ability to proactively manage risk so we can navigate these unprecedented times.
+
+So with that, let me turn it over to Chris to provide an update on our operations and segment
+performance.
+
+Christopher E. Kubasik
+Vice Chairman, President & COO
+
+Okay. Thank you, Bill, and good morning, everyone. I'll start with what we're doing from an operational
+standpoint to mitigate business risks due to COVID-19, then shift to our operating performance and
+results. The management team has taken measures to ensure the safety of our employees at our over
+100 facilities. We've modified the work space, especially in areas with high capacity such as our production
+floors in Rochester, New York and Clifton, New Jersey to either create space for individuals between
+workstations or to install partitions when social distancing is impossible. In addition, we've adjusted our
+work schedules by implementing multiple shifts or staggered shifts across our company. And at several
+of our locations that have higher risk, we have already implemented temperature checks and health
+screening before employees enter buildings. We've provided PPE to employees, eliminating travel and
+taking other recommended precautions. The environment changes daily, and these safety protocols are
+mitigating risks and continue to limit disruption for our company.
+
+Turning to supply chain. We're managing risk daily with cross-company crisis teams established to assess
+and develop mitigation plans where needed. We've provided essential certification letters to all of our key
+suppliers globally and continue to engage in active dialogue and analysis to identify areas of vulnerability.
+With the recent changes by the DoD around its progress payment policy, we expect the flow down in
+excess of $100 million of cash to help small businesses during these unprecedented times. As of today,
+we've advanced approximately $80 million and expect to exceed $100 million this week.
+
+Now turning to quarterly segment results on Slide 6. Integrated Mission Systems grew revenue 1% from
+a ramp in our maritime business on classified programs, partially offset by timing in electro optical and
+ISR following double-digit performance last year. Order momentum was broad-based with a funded book-
+to-bill above 1.0 in every IMS sector during the quarter, resulting in the overall segment at 1.37 for the
+quarter and 1.09 since the merger. One highlight was over $800 million in award activity from our leading
+position on the big Safari programs. First quarter operating income was up 22%, and margin expanded
+260 basis points to 14.7% from operational excellence and integration benefits.
+
+On Slide 7, Space and Airborne Systems revenue increased 7% in the quarter. This solid performance was
+driven by a production ramp and increased content on the F-35 platform as well as growth on classified
+programs in Intel and Cyber. Funded book-to-bill was 1.16 for the quarter and about 1.0 since the merger.
+In the quarter, we secured our position as a prime mission integrator for our nation's space domain
+awareness program called MOSSAIC. This award, if fully exercised, has the potential to reach $2 billion.
+Segment operating income was up 12%. And margin expanded 70 basis points to 18.5% driven by strong
+program execution and integration benefits.
+
+On Slide 8, Communication Systems revenue was up 5% for the quarter as DoD Tactical benefited from
+modernization demand that supported weekly deliveries of the 2-channel multiband radio increasing
+by 50% sequentially. Additionally, solid growth in Broadband Communications partially offset by timing
+of sales in international Tactical and prior year strength in Public Safety factored into the growth rate.
+Funded book-to-bill has a slight downshift to 0.8 in the quarter due to timing, though it's been solid at
+1.03 since the merger. Key awards included a $383 million sole source IDIQ from the U.S. Marines for
+next-generation HF radio systems as part of a multiyear modernization effort and an IDIQ for $500 million
+from the U.S. space force to provide secure anti-jam satellite communications for the A3M program.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+Segment operating income was up 11%, and margins expanded 120 basis points to 22.9% in the quarter
+from integration benefits and strong operational performance, partially offset by the mix impact from the
+ramp in Tactical Radio modernization programs.
+
+Lastly, on Slide 9, Aviation Systems revenue grew 11% in the quarter, driven by our defense businesses.
+Orders outpaced sales on the defense side leading to a funded segment book-to-bill of 1.05 for the quarter
+and 1.09 since the merger. Segment operating income was up 40%, and margins expanded 300 basis
+points to 14.5% from improved operational efficiencies and integration benefits.
+
+Looking ahead, we expect the headwinds on the commercial side to pick up. As a result, we've taken a
+number of measures to improve the cost structure based on the market conditions. The downturn has also
+been a triggering event that led to over $300 million of noncash impairments for goodwill and other assets
+of the segment. We're committed to supporting our employees, our supply base and our customers to
+ensure we get through this together.
+
+With that, I'll turn it over to Jay.
+
+Jesus Malave
+Senior VP & CFO
+
+Thank you, Chris. I'll begin with a quick recap of first quarter results before discussing our revised outlook
+and liquidity position. Revenue was up 5%, and EBIT increased 17% leading to EPS growth of 21%.
+We have solid margin expansion of 170 basis points to 17.5% primarily from integration savings and
+pension benefits. Free cash flow for the quarter was $533 million, and we ended the period with 62 days
+in working capital before purchase accounting adjustments. Overall, solid results in the face of a tough
+compare and a deteriorating backdrop.
+
+Okay. Let's now turn to the 2020 outlook on Slide 10, and I'll provide more color on our updated guidance.
+Starting with the top line. Organic revenue is now expected to be up 3% to 5% versus our original
+guidance of up 5% to 7%. About 2/3 of this comes from resetting expectations for our Commercial
+Aerospace businesses due to COVID-19 and its impact on the macro environment. When adjusting for the
+sale of Airport Security and Automation, the remaining business generated about $800 million in sales in
+2019 tied to commercial aerospace through training and avionics equipment.
+
+Commercial Training represents roughly 40% of the sales and includes the manufacturing of simulators
+and training of new pilots as well as those of airlines. And within Avionics, we manufacture and service
+a number of components including collision avoidance systems, transponders as well as voice and data
+recorders. These businesses are tied to broader aviation trends including air traffic, airline profitability and
+OEM production rates, which are all under pressure.
+
+For instance, IATA has forecasted traffic to be down nearly 50% for the year. As a result, our guidance
+now reflects approximately $500 million in revenues or a reduction of about 1/2 of the sales for the
+remainder over the year when compared to 2019. In addition, we factored in pressures at our Public
+Safety Radios business, which in 2019 had $500 million in sales. This business is focused on state and
+local municipalities in North America, which are facing budget and operational constraints due to the
+pandemic leading to an over 10% decline relative to our prior expectation of low single-digit growth.
+
+Finally, on the international front, which comprises roughly 20% of our sales, we are now assuming a
+more flattish outlook versus an increase in the low to mid-single digits previously. In contrast, we expect
+higher revenues from our DoD businesses including Tactical Radios and ISR.
+
+On our margin outlook, Bill talked about the acceleration of integration and productivity benefits that drive
+a 25-basis-points increase in our margin guide to 17.5%, putting us at the upper end of the prior range.
+And that's net of approximately 30 basis points of headwinds associated with fixed cost absorption from
+volume declines that we've offset with expense reductions.
+
+Bringing this down to our full year EPS, we now see $11.15 to $11.55 or $11.35 at the midpoint, down
+$0.20 as compared to our prior guide, midpoint. The range is premised on 217 million shares inclusive of
+the $1.7 billion in share buybacks noted earlier and a 17% tax rate.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+And bridging EPS to our prior guide on Slide 12, we have a $0.15 in headwinds from the timing
+of divestitures and repurchases, while the $0.52 in COVID-related headwinds are nearly offset by
+incremental synergies and improved performance from midpoint to midpoint.
+
+Finally, a quick note on the profile of EPS for the remainder of the year. We expect the pandemic-related
+impact to be most notable in the second quarter with stronger growth anticipated in the second half.
+
+Moving to free cash flow, our guide of $2.6 billion to $2.7 billion is intact, and so is the multiyear outlook.
+For this year, our cash flow is bolstered by accelerated synergies, federal stimulus and cost takeout, which
+will offset the reduced revenues discussed earlier. In our working capital, we'll also look to manage the
+environment, so our 3-day goal of improvement in 2020 remains in place as well.
+
+Moving over to liquidity. As Bill noted earlier, we remain in a strong position. We ended the first quarter
+with over $400 million of cash in hand, net of the April debt maturity, and a $2 billion untapped credit
+revolver. When looking ahead to the end of the second quarter, our liquidity should reach over $3.5 billion
+post divestitures, which would include at least $1.5 billion in cash and full access to the revolver. Also,
+our next debt maturity of $650 million isn't due until early 2021, and our balance sheet is healthy at 2x
+leverage.
+
+Now switching to the segment outlook. We've narrowed our Integrated Mission Systems revenue range to
+be up 5.5% to 7% versus the prior 5% to 7% guidance, driven primarily by strength in our ISR business.
+Segment operating margin is projected to be about 13.5% or a 25-basis-point increase from the previous
+midpoint, reflecting performance to date and increased synergy benefits.
+
+In Space and Airborne Systems, we've also narrowed our revenue range to 6% to 7.5% growth driven
+by modernization and sustainment on the F-35 platform in Mission Avionics. Segment operating margin
+is expected to be 18.75% and is unchanged at the midpoint. Communication Systems revenue is now
+expected to be up between 3.5% to 5% versus the prior guide of 6.5% to 8.5%. This reflects headwinds
+in our public safety business of about 1.5 points and a reduction of international volumes in Tactical
+Radios and Integrated vision. Segment operating margin is anticipated to be about 23.75%. That's up
+100 basis points relative to the prior midpoint, reflecting increased cost and Integration benefits. And
+finally, in Aviation Systems, we are forecasting an organic revenue decline of 1% to 5% year-over-year
+primarily from the factors I noted earlier in Commercial Aerospace. This points to reported revenues of
+approximately $3.4 billion to $3.6 billion for the year post divestitures.
+
+On the Commercial side, revenues are set to be down around 35% organically for the year. And for our
+government-related businesses, which include Mission Networks, Military Training and Defense Aviation
+Products, they are expected to be up in the mid- to high single digits. Segment operating margins are
+expected to be approximately 13.25%, down versus the prior guide by 75 basis points from the midpoint
+due primarily to fixed cost absorption from the volume declines, partially offset by cost actions. The
+margin guide also accounts for the airport security and automation divestiture we closed yesterday.
+
+So to summarize and put it all together, overall, a pullback in our outlook, but one where the pandemic-
+related impacts have been nearly offset by management actions with the remainder being the result of a
+more flexible approach to capital deployment in this environment.
+With that, I'll ask the operator to open the line for questions.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] We will go first to Carter Copeland with Melius Research.
+
+Carter Copeland
+Melius Research LLC
+
+I trust everyone's well. Just a quick clarification and a question. I wondered, Jay, if you could give us a
+little bit more color on the cash bridge on the guidance for all the moving pieces with AS and tax and
+suppliers and progress payments and synergies. I think that would help everyone.
+
+And just bigger picture, Bill or Chris, with respect to how the business -- the combined business is
+evolving, I mean, you highlighted the synergy opportunities, the revenue synergy opportunities, you look
+at that opportunity pipeline, you look at what the business is going to look like in the wake of COVID-19.
+How does all of this influence your thoughts on portfolio and shaping and whatnot? Any updated thoughts
+there would be great.
+
+Jesus Malave
+Senior VP & CFO
+
+Sure, Carter. Let me start with the free cash flow. As we mentioned earlier in the prepared remarks, we
+have the benefit of the progress payments going from 80% to 90%. That's in excess of around $100
+million that's being flowed down to the suppliers. And so net-net, that's a very little impact. There is
+a benefit on stimulus related to taxes, which is helping us offset some of the other impacts across the
+business. But when you take a look at net income, that is moving. But as I mentioned in the prepared
+remarks as well, we've largely offset that. And so with the benefit of the stimulus efforts, we're just
+holding that as a placeholder. We may have to go deeper into supplier payments. We may have to think
+about our pension contributions and things like that. But for the most part, we've held the working capital
+intact up to 3 days. Net income is a little bit lower. We're getting benefits from the stimulus efforts, and
+we're just kind of holding that as a placeholder for other things for later in the year.
+
+William M. Brown
+Executive Chairman & CEO
+
+And Carter, on your question on the sort of long-term outlook, look, we're very pleased with the progress
+of the integration so far. The cost synergies are going very, very well. We're finding great opportunities on
+revenue opportunities. And I think it's testament to the power of the combined portfolios as we laid out
+18 months ago when we announced the merger and the areas that we could offer new mission sets to our
+customers. And the COVID-19 notwithstanding, it's playing out as we had expected. We have much more
+powerful competitive offering, and it's helping us quite substantially in mitigating some of the risks that
+you were seeing coming through in small parts of the portfolio through the pandemic.
+
+Now in the portfolio shaping, we've been at this now for 18 months. We've made some good progress
+here. We've about -- we're about 1/3 of the way through in terms of the revenue we anticipated divesting.
+We had sized that for investors back in early February. That was pre-COVID. We keep looking at the
+portfolio. It's an ongoing process, but we're going to shape our decisions on what is in our portfolio based
+on long-term strategy, our ability to differentiate via technology, our ability to grow and win in those
+segments. And that hasn't changed based on the pandemic. We continue to look at that. I don't know if,
+Chris, if you want to maybe augment that.
+
+Christopher E. Kubasik
+Vice Chairman, President & COO
+
+Yes. Carter, I'll just chime in that when I look at our new business opportunities and some of the things
+we're currently working on, I continue to believe our portfolio is well aligned with our customers' focus
+and desire. You hear a lot about multifunction systems, which we are currently implementing in space. We
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+are submitting white papers on ABMS and, of course, the Navy's coming out with an offering or an RFP
+on spectral. So I think we're well aligned there on the capability front. And then the modular open system
+architecture, I think the F-35 is a good example of those capabilities. So I think it positions us well for the
+long term.
+
+Operator
+
+Our next question comes from David Strauss with Barclays.
+
+David Egon Strauss
+Barclays Bank PLC, Research Division
+
+So, Bill, just wanted to ask on working capital progress. It doesn't sound like the progress payment
+change benefited you at all in Q1, but you got 2 days of sequential improvement. I think you had talked
+about that in Q1, you might have [given back the upside] that you saw in early collections in Q4. And
+so maybe just comment on that. And I think from here, you're only assuming about 1 day of additional
+working capital improvement through the rest of the year.
+
+William M. Brown
+Executive Chairman & CEO
+
+Yes, David. That's all factual. Prog pay didn't really benefit us in the first quarter. It's really just starting
+now in some ways. It's not a big part of our portfolio. It's only about 7% of our revenue, so you're not
+going to see big numbers. And as Jay and others and Chris pointed out, what we're receiving from the
+government through progress payment acceleration, we're flowing that out to the supplier base. So that,
+net-net, won't be a factor in the year.
+
+So we're making good progress. So 2 days, sequentially, 10 days, operationally, since the beginning of
+when we closed on the merger. It's -- I think it's just fantastic work that the team has done. A lot of
+it is coming out of inventory. We're seeing some opportunities elsewhere. We have a lot of inventory
+coming out as we've been pointing out to investors for some time. We're expecting maybe another day
+towards the balance of the year. There's some purchase accounting opportunities here, if you will, in the
+year. So we'll end this year below 60, probably in the 58-day range. And as we look out the next couple
+of years, again, 3 to 4 days per year in '21, 3 to 4 days in '22. So we see ourselves around 50 days of
+working capital by the time we get out into 2022, which, as you know, is still about 5 days higher than
+our peers were at the end of '19 and about 10 days higher than where Harris was before we closed on
+the transaction. So we still see some good opportunities to continue to drive working capital performance
+beyond '22.
+
+Operator
+
+Our next question comes from Robert Stallard of Vertical Research.
+
+Robert Alan Stallard
+Vertical Research Partners, LLC
+
+On the adjustment to the aviation guidance for the year, I was wondering if you could elaborate on
+whether this has resulted from the order intake or the conversations with your customers, or whether it is
+a best estimate at this stage. It's relatively early days.
+
+And in relation to that, Chris, I was wondering if you could comment on what sort of flexibility you have to
+reallocate cost or capacity in the Aerospace business to defense or elsewhere?
+
+William M. Brown
+Executive Chairman & CEO
+
+So, Rob, really on both. I mean Jay went through the details, I think, pretty carefully in his script. So it's
+a business that was $800 million. It's going down to $500 million, so down 40%. We talked about the
+components, to be very clear. Training is about 40%. And effectively, what -- in net debt, we see being
+down 40%, 45% for the year. But effectively, what we've done is that we won't sell any new full flight
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+simulators beyond Q1. So we sort of zeroed that out. That could be conservative, but that's what we've
+assumed so far. It is through conversations with the airlines, with OEMS. It's a pretty detailed bottoms-up
+analysis that the team has done and really has worked on over the last 4 to 6 weeks. I think we've done
+a good job on that. Sixty percent of the businesses is Avionics. We see that business down for the year
+around 30%, but it's got several components. There's a commercial OE and aftermarket component of
+that. Obviously, that's going to be down substantially based on line rates that we're hearing from Airbus
+and Boeing, based on IATA data, on RPK's. There's a piece of it that provides military avionics, in other
+words, provides avionics on a commercial platform that has a military end use. That's relatively stable,
+which is why Avionics isn't being hit quite as much as you might expect.
+
+So for the year, we've got quite a bit of the back end of the year in backlog. We're watching it very,
+very carefully, watching order intake rates. And we think based on what we see today, we've sized it
+appropriately again. But it's a very, very volatile environment, and we're watching it very closely. And I'll
+let maybe Chris talk about some of the shifts that are happening in the workforce.
+
+Christopher E. Kubasik
+Vice Chairman, President & COO
+
+Yes. Robert, we've taken the actions in commercial aviation to reduce the cost with the operating expense
+maybe down $20 million for the remainder of the year. And we've been pretty aggressive with reductions
+in force and furloughs. But to your question, specifically on the engineering front, as of today, we have
+over 50 engineers that were working on the avionics products that have been redeployed to DoD work.
+And now that we're all learning how to work remotely and a little more creatively, not many of those
+individuals needed to relocate. So I think it's a good story relative to the engineering talent.
+
+Operator
+
+Our next question comes from Gautam Khanna with Cowen.
+
+Gautam J. Khanna
+Cowen and Company, LLC, Research Division
+
+Just a couple questions. First, on Communication Systems. I was wondering in the revised guidance, sort
+of what's the anticipated foreign Tactical RF change relative to what the prior was. And at PSPC, how much
+of a lingering drag beyond 2020 do you anticipate seeing as a result of the recession?
+
+William M. Brown
+Executive Chairman & CEO
+
+So, Gautam, I'll maybe touch on both of those pieces. So overall, Tactical, we had, I think, a pretty good
+start to the year. We're up 12%. So DoD was really strong. International was down mid-teens and pretty
+close to what we had expected. It'll be down in that same range in the second quarter as well, recovering
+in the back half. You'll start to see a little softer year-over-year growth in DoD simply because of the tough
+compare. So now what we see international to be is roughly flat for the year. Before, we thought it would
+be up low to mid-single digits, so call that 3%. So now about flat. In that flatness, we still see the APAC,
+or Asia Pacific region, up low double digits. Central Asia, up significantly because of Afghanistan and some
+of the drawdown that's happening there. We still see Middle East, Africa to be up low single digits, but that
+has come down from the last guidance. Europe will be down mid-single digits. We know Western Europe
+is getting a little bit better. Eastern Europe's still going to be down. And then that's really -- those are
+really the bigger pieces here. Central America is roughly flat, and Canada's going to be down as we had
+expected in the year. So overall, we still see DoD being up, in fact, a little bit better, up low to mid-teens,
+around 14%, and now we see international being about flat.
+
+On Public Safety, we've had a very good run here. The last 6 to 8 quarters have been very, very strong,
+has been growing. Like last year was close to 20% growth. Margins were coming up. We've got a great
+product line, better quality, really good execution. So we felt very good about that. This year, we're
+guiding to low single digits, which is in line with the LMR growth rate in North America, as Jay pointed out,
+down more than 10 points from that, so call that down 10%. So it's about $60 -- $50 million, $60 million
+of revenue erosion. We'll see that pretty prominently here in the second quarter. And probably you'll see
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+it about the same through the balance of the year. It's going to be a pretty tough back end of the year for
+Public Safety.
+
+I think beyond 2020, it depends on what happens to the economy state and local tax revenues. Right now
+we're fighting in Q2, not just a revenue impact but just the fact that you have the states and localities
+dealing with COVID and not able to work, doing an installed system that's public safety. So we're hopeful
+it could get a little bit better in '21. But it's too soon to say that, Gautam.
+
+Gautam J. Khanna
+Cowen and Company, LLC, Research Division
+
+Okay. No, that's a very helpful overview. And then just -- maybe I missed it, but the Integration --
+Integrated Vision Systems. What's going on there in terms of decline? Maybe I misheard you in the
+opening remarks. But what sort of -- what changed?
+
+William M. Brown
+Executive Chairman & CEO
+
+You're talking about IMS, the Integrated Mission Systems business?
+
+Jesus Malave
+Senior VP & CFO
+
+Integrated Vision.
+
+William M. Brown
+Executive Chairman & CEO
+
+Oh. Integrated Vision. The Night Vision business?
+
+Gautam J. Khanna
+Cowen and Company, LLC, Research Division
+
+Oh. Integrated Vision Systems. I'm sorry, not IMS, the segment.
+
+Christopher E. Kubasik
+Vice Chairman, President & COO
+
+Okay. Yes, Integrated Vision Systems is performing well on the ENVG program. We're meeting our delivery
+schedules and looking forward to additional opportunities later in the year. That's more domestically. I
+think the question is probably related to some of the opportunities we have in the Mid East, and we talked
+about more conservatism in the Mid East. We have not had any cancellations. What we're seeing are
+delays or hold ups. And I think a lot of that just ties to the -- several factors. The export approval process,
+including congressional notification, is a whole new process, and it's all being done remotely and virtually.
+And some of our international customers are working remotely. Some have closed their ministries, and
+some actually have curfews in place. So we just see all those items contributing to more of a timing issue.
+So we reduced the outlook there, if that helps.
+
+William M. Brown
+Executive Chairman & CEO
+
+But still up low to mid-single digits in Night Vision for the year.
+
+Gautam J. Khanna
+Cowen and Company, LLC, Research Division
+
+Okay. And that will -- compares to -- what was the prior?
+
+William M. Brown
+Executive Chairman & CEO
+
+It was in the low double digits.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+Operator
+
+Our next question is Doug Harned with Alliance Bernstein.
+
+Douglas Stuart Harned
+Sanford C. Bernstein & Co., LLC., Research Division
+
+When you talk about the synergies, you're ahead of plan, $165 million net synergies for 2020. And you've
+had the -- and you've also had, I would assume, some impediments from COVID-19. I mean, this seems
+like awfully good progress. I mean how -- does this give you more optimism when you look at that $300
+million net synergy total overall? And I'd say that from 2 things. One is you're ahead of plan here but also,
+you're ahead of plan, and perhaps you could have even done better had you not had the COVID-19 issues.
+
+William M. Brown
+Executive Chairman & CEO
+
+Yes. We're making really good progress here, Doug. Look, we did move forward the $500 million -- $300
+million, $300 million net, which we expected in calendar '22 to calendar '21. So we're not going to be done
+at the end of '21. We're going to continue to be working this into 2022. And it'll become part of the normal
+operations. So we do expect that the ultimate synergy value coming out of this merger is going to be
+beyond the $500 million and $300 million we've talked about previously because we're seeing it already.
+It's coming forward, and it's likely to go up.
+
+So we had $65 million in a stub year. We started out of the gate very, very quickly. I wouldn't say it
+was conservatism coming into this year, but we were still a fairly new company. There were a lot of
+moving parts in the year. We guided to an incremental $115 million in net synergies earlier this year
+that's getting quite a bit better, more visibility that we're seeing right now in indirect spend. We've seen
+the consolidation of all of our benefits programs now being completely implemented. All of the CHQ and
+segment consolidations are now essentially done. We're just seeing just better progress.
+
+So is there any impact from COVID? It's probably on the fringes. There are going to be some issues that
+we might have that are already embedded in this number that we're talking about here, Doug. Some of
+the opportunities are really supply chain related. They may slip out a little bit. But we feel very good about
+the trajectory we happen to be on. We've got a very seasoned integration team, people that know how to
+work and drive their jobs and are doing a great job remotely. So we feel good about this. And if anything,
+we have maybe a little more opportunity in the year as opposed to risk.
+
+Operator
+
+Our next question is Noah Poponak with Goldman Sachs.
+
+Noah Poponak
+Goldman Sachs Group Inc., Research Division
+
+Bill, just trying to rethink through the 2022 $3 billion free cash flow target as we all do every quarter. And
+at 1 point, it looked pretty conservative. It's now taken the hit of -- if you're going to divest 8% to 10%
+of the revenues and then if there's still aerospace coronavirus impacts that far out. But you're reiterating
+2020 with the business sold to Leidos out of the free cash flow and then the reset Aerospace businesses
+and then the $3 billion is kind of 5% or 6% growth each of the next 2 years. So I guess, one, just kind of
+high level, do you still view that number as having some conservatism in it? Or is it just sort of hanging on
+despite the hits that it's taken? And specifically in the Aerospace businesses, do those need to recover by
+then to get to the $3 billion? Or can they actually just walk along the bottom and you can still get to the
+$3 billion?
+
+Jesus Malave
+Senior VP & CFO
+
+Well, let me start. No. Again, $3 billion, as Bill mentioned, is premised on us being able to continue to get
+improvement in the working capital to around the 50 days. We still see, in spite of the business where we
+-- where things are today, the path to be able to deliver that. We've identified the opportunities and a lot
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+of that, as Bill mentioned, is sitting in inventory. And a lot of those benefits weren't necessarily pegged
+to the Commercial business. There's some of it that was there. And yes, we'll see it, the lower cash flow
+projection than we otherwise would have before the COVID-19 in Commercial. But we have the runway
+and working capital to be able to do that. As Bill mentioned, we see the path. It's not going to -- it's
+certainly going to be more challenging than it was before. But I wouldn't characterize it as hanging on. I
+would say that perhaps our buffer, our cushion is a little bit lower than it was before, but the path is still
+very clear to us.
+
+Noah Poponak
+Goldman Sachs Group Inc., Research Division
+
+Okay. And Jay, just as a quick follow-up on the free cash flow, any ability to articulate to us what the
+ongoing seasonality through the year should be? Because if I remember correctly, you had discussed
+pulling some forward into the fourth quarter of 2019, but then the first quarter of 2020 is better than
+expected. I know you have some -- I know there's a lot of moving pieces in there, but should, actually, the
+free cash flow through the years going forward be relatively level loaded? Or should it be a pretty steep
+ramp through the year?
+
+Jesus Malave
+Senior VP & CFO
+
+It's probably somewhere a mix between the 2. It's been kind of back-end loaded over the past number
+of years. I would say, in 2019, even 2019 was a little bit more level loaded. This year, $533 million are
+pretty consistent with what we did for the companies combined last year. And so our goal is to make it
+more linear throughout the year, but I think there's just some -- there is some natural level of linearity in
+there where it'll probably be still a little bit more back-end loaded there. So yes, it'll still probably stay a
+little back-end loaded but again, a lot better than it's been historically. And 2019, I think, was the start of
+that.
+
+Operator
+
+Our next question, Sheila Kahyaoglu with Jefferies.
+
+Sheila Karin Kahyaoglu
+Jefferies LLC, Research Division
+
+Bill, growth is muted in 2020 at 3% to 5% organic. And just from what we've become accustomed to, I
+understand Aviation is 2 points of that headwind. I guess how do we think about some of the revenue
+capture opportunities and timing, whether it's the 41 proposals you mentioned and the 3 incremental
+down-selects this quarter and -- or how the core business just reaccelerates in '20 and '21?
+
+William M. Brown
+Executive Chairman & CEO
+
+Sheila, thanks so much for the question. The revenue synergies are going to be rolling out over the next
+probably 12 to 18 months. As I mentioned in my prepared remarks, orders are in the tens of millions.
+They could grow more substantial in '21 and '22. They require -- they were down-selects. They have to
+be then finally awarded, and they start to build in time, again, 1.5 years out or so. So yes, we're down --
+we're at 3% to 5% this year.
+
+The Defense business remains very good for us. It's up around 8%. International, as Jay mentioned, we're
+flattish. But the Commercial part of the portfolio, which is Aerospace, Public Safety, is going to be down
+more than 20%. So the Defense piece, the core Defense part of the organization is very healthy. It's high
+single digits. And as we look out in the next year, we've got -- we see good bookings this year. We see a
+very good pipeline, about $64 billion of pipeline of opportunities. It's up about 8% since we closed on the
+merger. We have revenue synergy opportunities that are starting to kick in. So I see us getting back in
+'21, '22 to more in that mid-single-digit range. We -- let's see how the next 9 months play out this year
+and what happens with the COVID pandemic but -- and the budget process beyond '21, but I think things
+should recover. And we'll be in pretty good shape beyond this year.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+Operator
+
+Our next question is Seth Seifman with JPMorgan. Sorry, we've lost his line. We'll move to Jon Raviv with
+Citi.
+
+Jonathan Phaff Raviv
+Citigroup Inc, Research Division
+
+Bill and Jay, can you talk about capital allocation? I do certainly appreciate the message around growing
+free cash flow per share and how repurchases is a big tool for you guys, but can you address -- can you
+address that tool. In an environment where potentially the norm could move against repurchases, what
+else could you do with cash in that kind of dynamic?
+
+William M. Brown
+Executive Chairman & CEO
+
+Well, look, I mean, for -- at the moment, Jon, I mean, our overall philosophy on capital deployment really
+hasn't changed. We're going to drive and generate substantial free cash. We're going to pay an attractive
+dividend that has a payout ratio in the 30%, 35% range. You saw back in February, we raised the dividend
+by 13% -- 10% back in August last year. So we continue to be committed to paying an attractive dividend.
+We don't have -- our leverage ratio, as Jay pointed out, is pretty attractive. Any leading debt that's
+coming due will likely be refinanced, so that won't be a pull on cash. We don't see pension contribution
+for probably another year or 2, depending upon what happens in rates and returns this year. So it does
+leave a lot of capacity for deployment. And at the moment, we're still committed to returning that to
+shareowners in the form of repurchases. I had mentioned in my remarks, for the year, we're going to be
+at $1.7 billion. So we'll return the $1 billion in proceeds from selling STS. Beyond that, we'll pause it. But
+we'll have a tremendous amount of capacity at the back end of the year, lot of liquidity. And I see this sort
+of normalizing as we get into calendar '21.
+
+Operator
+
+Our next question, Ron Epstein with Bank of America.
+
+Ronald Jay Epstein
+BofA Merrill Lynch, Research Division
+
+Can you -- you mentioned the $64 billion of opportunities now with the joint company. Could you talk
+about some of those that are more near term, things we can keep an eye on to keep score on how you're
+doing relative to those $64 billion of opportunities?
+
+Christopher E. Kubasik
+Vice Chairman, President & COO
+
+Ron, it's Chris. We have several opportunities that I think are a little more significant you can track later in
+the third quarter. The current plan is for the Next-gen Jammer contract to be awarded. It's a competitive
+opportunity. I think that'll be interesting to watch. We've talked a lot about our responsive satellites. We've
+been getting orders and continue to get orders on those satellites. So you can track that.
+
+On the ISR front, we've talked a lot about the Peregrine program in Australia that'll have follow-on
+opportunities, but we also have comparable opportunities in Italy and elsewhere around the world. The EW
+capabilities, Bahrain, UAE comes to mind. Clearly, the Tactical Radios, we have a fair amount to go here
+in 2020. And then even on the international front, we're on the maritime team with a variety of OEMs and
+shipbuilders from Romania to Taiwan to Australia, so you'll be able to track those -- highlight those as a
+couple to follow, Ron.
+
+Ronald Jay Epstein
+BofA Merrill Lynch, Research Division
+
+And if I may, just a follow-on quickly. Do you guys have a position on the frigate program that was just
+awarded to [ Mechanica ]? Or not to [Mechanica]. To the FFG [X].
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+Christopher E. Kubasik
+Vice Chairman, President & COO
+
+Yes. Yes.
+
+William M. Brown
+Executive Chairman & CEO
+
+Fincantieri. Yes. Fincantieri.
+
+Ronald Jay Epstein
+BofA Merrill Lynch, Research Division
+
+Fincantieri. Yes.
+
+Christopher E. Kubasik
+Vice Chairman, President & COO
+
+Yes. Yes. Great question. We have -- there were 4 bids. And given our capabilities, we were on all 4 of
+the teams. So as you would imagine, I think we're well positioned with Fincantieri Marinette Marine. And
+more to come on that. Usually, they pick the frigate first and then the second-tier suppliers are negotiated
+and competed. But we feel very comfortable with our capabilities and being able to participate on that
+program.
+
+Ronald Jay Epstein
+BofA Merrill Lynch, Research Division
+
+Okay. Great. Yes. Fincantieri. Yes. Sorry about that. It was my error.
+
+Christopher E. Kubasik
+Vice Chairman, President & COO
+
+Thank you.
+
+Operator
+
+Our next question is Peter Arment with Baird.
+
+Peter J. Arment
+Robert W. Baird & Co. Incorporated, Research Division
+
+Bill, you gave us some color on the international, just flat for this year. I mean what kind of visibility do
+you have or conversations with your customers? I know Chris mentioned that there's -- some export
+offices are closed or some customers are even closed. Just thinking about growth as we exit COVID-19
+worldwide, what kind of bookings do you need to see in the second half of this year?
+
+William M. Brown
+Executive Chairman & CEO
+
+Well, as we said, we think the revenue in international will be roughly flat this year. So clearly, booking
+some of the orders that are important in the back half will require engagement with customers. It's
+happening today via phone, but we're going to have to sort of start to see an ability to see customers,
+demonstrate product, sign contracts, and that's going to require some face-to-face conversations.
+
+So there's been a lot of dialogue happening right now. We're trying to get a sense for the timing of some
+of the opportunity we have in the back end of the year. We think it was appropriate given some of the
+short-term nature of the opportunities in Tactical and Electro-Optical to pull that out, is which -- will be
+done here to recalibrate international for the year. But as this thing starts to open up, we've got a pretty
+good team internationally, and we're -- they're out there meeting with their customers, talking to their
+customers. And we'll see as we get towards the back end of the year how the orders flow through.
+
+Peter J. Arment
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+Robert W. Baird & Co. Incorporated, Research Division
+
+Okay. If I -- just a quick follow-up. Chris, is there any incoming on from WESCAM regarding just from a
+demography perspective, just an opportunity in the COVID-19 world?
+
+Christopher E. Kubasik
+Vice Chairman, President & COO
+
+Yes. No, the WESCAM business is doing quite well. I think if you're referring to doing some sort of thermal
+imaging or such, it's really not at that price point. It's better sticking with their core market and focused
+on the airborne assets. So...
+
+Operator
+
+Our next question comes from Pete Skibitski at Alembic Global.
+
+Peter John Skibitski
+Alembic Global Advisors
+
+Bill, something I've been curious about kind of top-level is this topic of 5G. And I know it's obviously kind
+of a commercial standard, but I've also seen mentioned that DoD is running some pilot projects related
+to 5G as well. So I'm just curious if you can give us your thoughts from a top level on whether or not this
+impacts L3Harris in any way, kind of and/or if you feel like it's a technology you need to be involved in
+developing or in some other way?
+
+William M. Brown
+Executive Chairman & CEO
+
+Yes. Pete, look, it's a good question. I won't be able to give you a complete fulsome answer on this.
+But we've had -- we have an internal team focused on 5G. We're not an inventor, but we certainly have
+applications that are using 5G technology. So we do play in the space. We need to be present in the area.
+We need to find a DoD or defense-related applications of 5G. It's going to affect war fighter effectiveness.
+So we do have specific activities here. I wouldn't say it's a big driver this year. But certainly, over time, it's
+a core capability that we need to have as a leader in spectrum superiority. So clearly, Pete, that's -- it's
+something that is central to our strategy over the next several years.
+
+Operator
+
+Our next question, Myles Walton with UBS.
+
+Myles Alexander Walton
+UBS Investment Bank, Research Division
+
+Maybe, Bill, in addition to the higher-progress payments, the DoD seems to be also being pretty
+aggressive on pulling forward contract awards and getting kind of the money out of the hands of the DoD
+and obligating that as quick as they can. I'm just curious, did you see that in the quarter, obviously, good
+bookings at SAS and IMS? Or is that something that might help bookings continue to be strong in the
+second and third quarter?
+
+William M. Brown
+Executive Chairman & CEO
+
+Look, Myles, it's a good question. Credit due to the folks in DoD, really across the services. We've had
+very active dialogue, both Chris and I and some others on the team with a lot of leaders across DoD and
+across the services, and they've been very aggressive, not just on prog pay but accelerating awards. You
+probably have heard Hondo in the -- at the Navy accelerating quite substantially awards. So we did see
+some opportunities move left, some out of Q2 into Q1, some out of the back half of the year into the front
+half.
+
+Chris mentioned A3M and that's an opportunity. We saw an acceleration of an opportunity in IMS, the
+Virginia [Amp]. So we did see some opportunities moving left. And I think that we'll continue to see that.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+It's -- DoD is really focused on this. They're trying to put money on contract that we then quickly then put
+suppliers on contracts. So we keep, not just cash flowing but opportunities flowing into the supply base, so
+certainly something we're all focused on.
+
+Myles Alexander Walton
+UBS Investment Bank, Research Division
+
+Okay. And clarification, Jay, on the slide on the block of EPS. There's pension called out under operations,
+another $0.28. How much of that $0.28 is pension?
+
+Jesus Malave
+Senior VP & CFO
+
+About $0.10 of -- in that $0.28. There's a lot of moving parts in there, but pension is incremental. About
+$25 million.
+
+Operator
+
+We'll go next to Michael Ciarmoli with SunTrust.
+
+Michael Frank Ciarmoli
+SunTrust Robinson Humphrey, Inc., Research Division
+
+Just as -- I guess as you guys are thinking about COVID-related impacts, disruptions, any other color that
+you have on your broader supply chain? I mean you guys are pretty technology-driven. I'm sure there's a
+lot of smaller components, subsystems, discrete electronics you're procuring. Are you seeing any potential
+risk either from parts procured in the Asia Pacific geography? Or how are you kind of sizing that potential
+risk as you go forward here? Any need to build buffer stock of inventory on certain maybe at-risk product
+lines?
+
+Christopher E. Kubasik
+Vice Chairman, President & COO
+
+Yes. Great question. This is Chris. On any given day, there's tens of millions of revenue risk. It changes on
+a weekly basis. We really started looking at this back in January in the Asian markets. I think we've been
+able to mitigate all that risk. And a lot of this depends on the countries. India shuts down. Mexico shuts
+down. We have to monitor those suppliers, look for second sources. But I think we're doing a real good
+job. We have a dedicated team focused specifically on COVID supply chain, and Bill and I get daily updates
+on the progress. So great question. We're trying to use predictive analysis, identify the risks and mitigate
+it on a regular basis.
+
+Operator
+
+And our final question comes from Robert Spingarn with Crédit Suisse.
+
+Robert Michael Spingarn
+Crédit Suisse AG, Research Division
+
+Two quick things. Bill, on the state and local budget constraints you talked about before in Public
+Safety, how do you think about how the crisis may have revealed any shortcomings in the Public Safety
+communications? And what might be the opportunity coming out of this thing?
+
+And then I have a higher-level question. Just on budget austerity and how you and Chris think about
+the possibility that some -- that the budget, the defense budget at some point will be funding stimulus
+repayment, that sort of thing, not necessarily what we saw 10 years ago but some kind of shift in
+spending priorities at the federal level a couple of years down.
+
+William M. Brown
+Executive Chairman & CEO
+
+So look, really good questions. On public safety, this could drive an accelerated shift from LMR to LTE.
+That's been gaining some steam with FirstNet. Fortunately, we've got a radio that is LMR-LTE capable,
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+both qualified by AT&T and Verizon. So I think we're really well positioned for that transition. I think that
+having a domestic supply base here is important in that particular area. We have certain technologies and
+applications that could allow us to open up new markets that go beyond first responders to health care
+providers, and we've seen that happen over the last couple of months. So the state and local finances, I
+think, will be impacted in the near to medium term, and we've tried to capture that in our thoughts. But it
+could drive an acceleration from LMR to LTE.
+
+And relative to your question on the budget, so as you know, the '21 budget came out a couple of months
+ago from the President including, I think, 2% per year growth in the fight. That obviously was all pre-
+COVID. There's a lot of discussion happening right now between the authorizers and the appropriators of
+what the budget will be for '21. It was -- it came out about flattish from the President. A lot of the things
+that we're focused on are well funded in that, including a lot of the classified budgets look pretty good.
+There's $135 billion of -- sort of, if you will, surplus investment account funding that still remains out
+there. It's going to provide a little bit of tailwind to us.
+
+As you go out into '22, beyond '22 and into '23, you've got an election here. Eventually, you got a $4
+trillion deficit that's going to have to be sort of paid for in some ways. But at the same time, you've got
+a very dangerous world. You could see what the North Koreans are doing, what the Iranians are doing,
+what the Chinese are doing, Russia. So we're going to continue to be tested. The threats remain there,
+and the investments that the DoD is trying to make are really long-term investments in technology.
+They have to sustain beyond the next couple of years. And we're hopeful that, that's -- there'll be a
+bipartisan alignment to make sure we continue to fund DoD. So thanks very much for that question, Rob. I
+appreciate that.
+
+So thank you all for joining the call this morning. During these uncertain times, we're managing risks
+aggressively and taking appropriate actions to drive value for all of our shareowners. I hope we'll soon be
+operating under more favorable conditions. I want to close by thanking our employees for going above
+and beyond to support our customers and our essential missions as well as the health care workers, first
+responders and everyone in the frontline fighting COVID-19. Thank you all, and be safe.
+
+Operator
+Thank you. This concludes today's teleconference. You may disconnect your lines at this time. Thank you
+for your participation, and have a wonderful day.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+L3HARRIS TECHNOLOGIES, INC. FQ1 2020 EARNINGS CALL |  MAY 05, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+

@@ -1,0 +1,1332 @@
+Visa Inc. NYSE:V
+FQ4 2020 Earnings Call Transcripts
+Wednesday, October 28, 2020 9:00 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2020-
+
+-FQ1 2021-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+1.10
+
+1.12
+
+1.82
+
+1.35
+
+5.02
+
+5.04
+
+0.40
+
+5.78
+
+5030.14
+
+5101.00
+
+1.41
+
+5732.41
+
+21779.45
+
+21846.00
+
+0.31
+
+23976.06
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Oct-27-2020 6:55 PM GMT
+
+FQ1 2020
+
+FQ2 2020
+
+FQ3 2020
+
+FQ4 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+1.47
+
+1.35
+
+1.04
+
+1.10
+
+1.46
+
+1.39
+
+1.06
+
+1.12
+
+SURPRISE
+
+(0.68 %)
+
+2.96 %
+
+1.92 %
+
+1.82 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+13
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Alfred Francis Kelly
+Chairman & CEO
+
+Mike Milotich
+Senior Vice President of Investor
+Relations
+
+Vasant M. Prabhu
+Vice Chairman & CFO
+
+ANALYSTS
+
+Bryan Connell Keane
+Deutsche Bank AG, Research
+Division
+
+Dan Dolev
+Mizuho Securities USA LLC,
+Research Division
+
+Daniel Rock Perlin
+RBC Capital Markets, Research
+Division
+
+Tien-Tsin Huang
+JPMorgan Chase & Co, Research
+Division
+
+Darrin David Peller
+Wolfe Research, LLC
+
+Jason Alan Kupferberg
+BofA Merrill Lynch, Research
+Division
+
+Lisa Ann Dejong Ellis
+MoffettNathanson LLC
+
+Ramsey Clark El-Assal
+Barclays Bank PLC, Research
+Division
+
+Robert Paul Napoli
+William Blair & Company L.L.C.,
+Research Division
+
+Sanjay Harkishin Sakhrani
+Keefe, Bruyette, & Woods, Inc.,
+Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+Presentation
+
+Operator
+
+Welcome to Visa's Fiscal Fourth Quarter and Full Year 2020 Earnings Conference Call. [Operator
+Instructions] Today's conference is being recorded. If you have any objections, you may disconnect at this
+time. I would now like to turn the conference over to your host, Mr. Mike Milotich, Senior Vice President of
+Investor Relations. Mr. Milotich, you may now begin.
+
+Mike Milotich
+Senior Vice President of Investor Relations
+
+Thank you, Jordin. Good afternoon, everyone, and welcome to Visa's Fiscal Fourth Quarter and Full
+Year 2020 Earnings Call. Joining us today are Al Kelly, Visa's Chairman and Chief Executive Officer; and
+Vasant Prabhu, Visa's Vice Chairman and Chief Financial Officer. This call is being webcast on the Investor
+Relations section of our website at www.investor.visa.com. A replay will be archived on our site for 30
+days. A slide deck containing financial and statistical highlights has been posted on our IR website.
+
+Let me also remind you that this presentation includes forward-looking statements. These statements are
+not guarantees of future performance, and our actual results could differ materially as a result of many
+factors. Additional information concerning those factors is available on our most recent reports of Forms
+10-K and 10-Q, which you can find on the SEC's website and the Investor Relations section of our website.
+
+For historical non-GAAP financial information disclosed in this call, the related GAAP measures and
+reconciliation are available in today's earnings release.
+
+And with that, let me turn the call over to Al.
+
+Alfred Francis Kelly
+Chairman & CEO
+
+Hey, Mike, thank you, and good afternoon, everyone, and thank you for joining us today.
+
+Our fiscal 2020 started off very strong. And as COVID-19 spread across the globe, certainly, our business
+was impacted. As a result, we were quite thoughtful during the year, adjusting our expenses yet we
+continue to invest in key initiatives to support and fuel growth.
+
+Let me share a few highlights from fiscal 2020 that illustrate our continued momentum. Over 185
+billion payment transactions and almost $9 trillion of payment volume were made on Visa credentials.
+Acceptance points grew 16% to nearly 70 million merchant locations, and that only counts our partners
+like PayPal, Square and Stripe as one each. Contactless penetration grew to 43% of all face-to-face
+transactions around the world, 65% excluding the United States. U.S. tap-to-pay cards reached 255
+million. And globally, there were 23 countries that increased their penetration by 25 points or more over
+fiscal 2019. We expanded wallet partnerships, which now represent over $2 billion in potential credentials
+and nearly 70 million additional potential acceptance locations.
+
+Globally, the number of active credentials in e-commerce, excluding travel, rose 14% since January,
+reinforcing the continued shift by consumers to online shopping. We renewed about 25% of our payments
+volume in fiscal 2020 with key clients and secured several new wins. Over 50% of Visa volume has now
+been renewed over the last 2 years. We expanded tokenization globally, crossing the 1.4 billion tokens
+milestone and enabling over 8,300 issuers across 192 markets. Visa Direct grew to nearly 3.5 billion
+transactions, utilizing 16 card-based networks, 65 domestic ACH schemes, 7 RTP schemes and 5 payment
+gateways.
+
+More than 5,000 client users accessed over 450,000 reports on our Visa Analytics Platform, a powerful
+application suite that delivers data-driven insights and industry benchmarks. And finally, several large
+acquirers leverage CyberSource's robust omni-commerce payments offerings to support their merchant
+customers with innovative capabilities.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+With that backdrop, today, I'd like to first discuss our results, then I'll highlight some key client wins in
+the quarter and client momentum from recent deals contributing to our current performance across our 3
+growth levers: consumer payments, new flows and value-added services. Lastly, I'll provide a very brief
+initial thoughts on 2021.
+
+To start, our fourth quarter results. While the underlying business was in various stages of recovery, we
+saw the acceleration of cash digitization through debit, e-commerce and tap-to-pay and the penetration of
+new flows through Visa Direct. We also advanced our value-added services led by CyberSource, security
+and identity products and our consulting. Payments volume, processed transactions and cross-border
+volumes all showed positive momentum exiting the quarter. From Q3 to Q4, payments volume improved
+14 points. Processed transactions improved 16 points, and cross-border volume improved 5 points.
+
+Net revenues in fiscal fourth quarter were $5.1 billion, a decrease of 17% in constant dollars. The
+decrease in net revenue was approximately 11%, however, with service revenues recognized on a current
+quarter payment volume basis. Non-GAAP EPS was $1.12, a decrease of 23%. Given our strong ability to
+generate cash flow, we returned $2.3 billion of capital to shareholders in the fourth quarter.
+
+Now looking ahead, our strategic focus in 2021 remains the same: accelerating our growth through
+consumer payments, new flows and value-added services, all while fortifying the key foundations of our
+business model: our brand, security, technology and talent.
+
+In consumer payments, we've had success with traditional financial institutions, wallets and fintechs as
+well as merchants.
+
+First, let me hone in on Europe, which has definitely been a key focus for us since the acquisition just over
+4 years ago. Our first Visa client in Europe from 1974, Corner Banca in Switzerland renewed their credit
+relationship and extended its debit for the first time ever. In Denmark, [ Djurslands Bank ] will migrate
+over 200,000 debit cards from a local card scheme to Visa in order to access Visa's risk, data and other
+value-added services. Last quarter, I spoke about our win of the UBS debit business. And this quarter, we
+also renewed the credit business as well.
+
+In the wallet space, Samsung Pay will put virtual Visa debit cards in all Samsung devices in Germany.
+For those issuers in Europe who want to offer a wallet solution to their customers without developing it
+themselves, we recently signed an agreement with a digital wallet company called Vipps. And wrapping
+up Europe with fintech progress, let me highlight global fintech, Revolut, who chose us late last year to
+be their lead issuing partner. In 12 months, Revolut has issued nearly 7 million Visa credentials in over 34
+markets, with plans to expand more in the coming year.
+
+Let me now move to success with traditional FIs in other parts of the world. ING, one of the largest
+banks in Europe, recently expanded their long-term global partnership with Visa for their consumer and
+commercial cards in 12 countries across Europe, EMEA and Asia Pacific.
+
+In Asia Pacific, we renewed with 1 of the top 5 banks in China, Bank of Communications. And we've
+strengthened our strategic partnership with Malaysia-based AmBank, who will now become an exclusive
+Visa credit card issuer. In the United States, we recently won the inaugural debit card for markets by
+Goldman Sachs' digital checking account, with millions of customers, markets, continues to create new
+products, create a full-service digital bank. And we're excited about the opportunity to help make checking
+with debit card functionality an attractive part of their growing product set.
+
+Also in the United States, we announced in the first quarter that we had secured the Venmo credit card
+and are pleased that it has started to roll out, unlocking new ways for Venmo's community of more than
+60 million users to shop, share and split purchases and earn custom automatic cash-back everywhere Visa
+is accepted.
+
+Shopee, the leading e-commerce platform with a large user base in Southeast Asia and Taiwan, is
+launching a Visa co-branded card across 5 Southeast Asian markets.
+
+And our traditional wins in the fourth quarter capped a successful year of renewals that went into effect
+with key partners, including Bank of America, Capital One, Barclays, Santander, Caixa and Al Rajhi.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+Now let me turn to expanding access with digital wallets and fintechs, which are critical to growing
+credentials and acceptance globally. In the last 90 days, we signed multiple deals with digital wallets
+including Yandex in Russia, Wing in Cambodia, PayCo in Korea, Naranja X in Argentina and Easypaisa in
+Pakistan. These wallets represent tens of millions of potential credentials.
+
+Our existing wallet relationships have continued to grow this year. Rappi, Latin America's super app with
+over 30 million users, is now expanding into financial services with its new division, RappiBank, and it has
+chosen Visa as their exclusive network and payments provider. Rappi will leverage their deep knowledge in
+their existing 9 markets to create new payment solutions that drive digital inclusion and cash digitization
+not just for their users but also their carriers, restaurant partners and small businesses.
+
+In Asia Pacific, in the last year, LINE Pay added 1 million credentials and now has approximately 3.5
+million total Visa credentials across Taiwan and Japan. Our partnership with Paytm in India spans both
+acquiring and issuing. And this year, the relationship resulted in approximately 80,000 incremental
+acceptance points and 1.4 million incremental credentials.
+
+We also see cash digitization opportunities with merchants providing payment services to their customers.
+Two to highlight from this quarter, and they're both from Latin America. We're extending our partnership
+with OXXO, the leading convenience chain with nearly 20,000 stores in Latin America, as they establish a
+new fintech arm. This business will exclusively issue Visa credentials in the OXXO wallet and through their
+stores to further their reach of the under- and unbanked.
+
+Visa also partnered with Natura &Co, the fourth largest beauty group in the world, to enable financial and
+digital inclusion. Through a financial services platform, there are nearly 4 million direct selling consultants
+and representatives in the region who will be able to access a digital account, a Visa credential and an
+mPOS, among other services.
+
+This progress in consumer payments is also prevalent in new flows as the pandemic is accelerating the
+migration to digital payments. Governments, merchants and consumers all seek fast, safe and secure
+ways to move money.
+
+Let's look at a few new flows. Cross-border P2P is a Visa Direct use case with significant potential, and we
+made meaningful progress this quarter. Ozan in Turkey plans to launch a global mobile remittance service
+in early 2021 to the underbanked and gig economy workers, representing over 1/4 of Turkey's 83 million
+population. In Russia, VTB Bank, the second largest bank in Russia with 15 million customers, is utilizing
+Visa Direct for card-to-card transfers across 64 countries. Additionally, in Russia, KoronaPay, a leading
+remittance center -- system, I'm sorry, will leverage Visa Direct for cross-border money movement.
+And TD Bank in Canada is offering their retail customers a mobile platform for P2P with cross-border
+capabilities.
+
+Earned wage access and payroll are other use cases that are growing in importance throughout the
+pandemic. This quarter, Wagestream, the market-leading earned wage access provider in Europe, signed
+on to Visa Direct. Also, in the 2 months since earned wage access U.S. provider, Immediate, launched
+Visa Direct as a payment option, the near real-time method is already accounting for 50% of Immediate's
+disbursements. And PNC in the U.S. is providing their commercial clients B2C disbursement solutions such
+as traditional payroll processing.
+
+Another new flow is B2B, which represents $120 trillion volume opportunity. On the card-based B2B front
+in the wake of COVID, we are seeing increased interest for digital payments, including virtual cards. We're
+addressing this demand by: one, engaging with a broad range of issuers and partners; two, expanding
+into new verticals; and three, investing to streamline operations and enable acceptance.
+
+First, in terms of supporting issuance, Visa payables automation, which enables issuers to efficiently offer
+virtual cards to their corporate clients and send back -- send data back to the buyer to aid in reconciliation
+saw an increase of issuers and partners on the platform by almost 50% in FY '20.
+
+Second, relative to expanding into new verticals, we are expanding partners and use cases for virtual
+cards beyond OTA. In Q4, we launched YeePay -- launched with YeePay in China to support a virtual card
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+program in both OTA and education. We also announced a new set of solutions partnering with Stripe to
+enable buyers to use virtual cards for payments, and the initial user is a Citibank health care client.
+
+And third, investing to streamline operations and enable acceptance. Together with partners like Boost, a
+fintech focused on B2B payment acceptance, we are expanding commercial card adoption by streamlining
+the manual acceptance processes for suppliers, enabling automated data reconciliation and offering
+flexible economics.
+
+And now let me turn to our third growth lever, value-added services. Value-added services grew 15%
+in revenue in the fourth quarter and 18% for the full year, a testament to the resilience of this business
+as well as the demand from our clients for support. Often, our value-added services are sold with a
+brand deal. But many times, they're sold after or even on a stand-alone basis. Permanent TSB in Europe
+renewed their credit and debit business earlier this year and subsequently signed an agreement with Visa
+to launch Visa transaction controls, which will provide a powerful and convenient way for cardholders to
+track and manage all payments activity on enrolled accounts and tokens.
+
+In seller solutions, both merchants and acquirers have actively sought CyberSource's offerings throughout
+the pandemic. CyberSource sells direct to merchant and also through robust and fast-growing indirect
+channel with acquirers who can leverage our platform to provide the latest digital capabilities in order
+to attract and maintain merchants. With that in mind, we are very pleased that Barclaycard, one of the
+largest acquirers in Europe, will utilize CyberSource to support their merchants' digital payment journeys,
+e-commerce and omnichannel requirements.
+
+We've also established relationships with acquirers in other regions. This quarter, in CEMEA, we signed
+CyberSource deals with HBL, the largest e-commerce acquirer in Pakistan, Equity Bank Group in sub-
+Saharan Africa and Bank of Abyssinia in Ethiopia.
+
+Before I close, a few words on the acquisition we announced yesterday. YellowPepper is a software
+company with a platform that we see as a universal adapter that allows clients to connect and scale new
+innovative capabilities without having to expend significant technology resources. Through a single API-
+based connection, issuers, processors and governments can access YellowPepper's rich set of APIs to
+initiate secure, real-time money movement transactions across a variety of payment rails using a simple
+alias, something like an e-mail address or a phone number.
+
+For Visa, the acquisition extends our network of network strategy by significantly reducing the time to
+market and cost for issuers and processors, regardless of who owns or operates the payment rails. It
+supports our financial institutions in their quest to modernize their infrastructure and access network-
+agnostic solutions and facilitate an easier -- and it facilitates an easier integration to Visa Direct and Visa
+B2B Connect, which will help to grow new flows and transactions. It enables the further adoption of value-
+added services, both ours as Visa's as well as YellowPepper's. We're excited about the deal, and we expect
+to close it in the next few weeks.
+
+In terms of Plaid, I want to say 2 things. First, we continue to engage with the Department of Justice on
+their review of the acquisition. Second, the Department of Justice's lawsuit yesterday against Visa and
+Bain & Company is related to a dispute over documents they requested as part of their review of the deal.
+Beyond that, we're not going to comment further.
+
+To close, this pandemic has touched all of us. Through it all, I've admired the resilience of our clients who
+worked hard to be there for their customers despite the many obstacles. I'd also have to pay tribute to the
+more than 20,000 extraordinary people who work at Visa. My colleagues have demonstrated dedication,
+creativity and professionalism in the face of extraordinary challenges.
+
+In 2021, we remain committed to making the changes necessary to ensure our organization better reflects
+the world in which we live and work. Visa is proud to lead -- lend our support in the fight for racial and
+social justice within our 4 walls and beyond.
+
+In terms of 2021, Vasant will provide a good deal of detailed commentary, so let me just make a few brief
+points. In 2021, we'll continue to manage the business for the medium and long term while recognizing
+the nearer-term realities. This means: one, we will focus on the opportunities that are being accelerated
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+by COVID-19; two, we will continue to invest to grow our business; and three, we will be thoughtful about
+controlling discretionary expenses.
+
+To be clear, while our business faces clear uncertainty, we have too many attractive growth initiatives
+to pull back on the future. Our long-term strategy, which we covered in depth just 8 months ago at our
+Investor Day, remains more relevant than ever. And I believe Visa has a tremendous opportunity to
+continue transforming secure, reliable and efficient money movement for everyone everywhere.
+
+With that, let me turn the microphone over to Vasant Prabhu.
+
+Vasant M. Prabhu
+Vice Chairman & CFO
+
+Thank you, Al, and good afternoon, everyone. Q4 was the first quarter of recovery from the global
+shutdowns. I'll start with some high-level observations on the trajectory of the recovery so far.
+
+First, the debit business has been the major beneficiary of the accelerated shift to e-commerce and the
+shift away from cash, even for in-person transactions. In the U.S., debit is growing at twice the rate it was
+pre-COVID, and international debit growth has stepped up from 11% to 13% pre-COVID to 17% in the
+fourth quarter. Debit stayed resilient through the shutdowns, growing 8% in the U.S. in Q3 and declining
+only 3% in international markets. Debit growth was strong and stable through the fourth quarter.
+
+Second, credit was hit hard by the pandemic, declining 20% globally in Q3. However, credit has been
+recovering fast, exiting September down only 5% in our major markets with steady improvement through
+the quarter.
+
+Third, as economies reopened, card-present growth in major markets bounced back sharply from a
+44% decline in April to a 4% decline in September, a 40-point recovery. Even as card-present volume
+rebounded, card-not-present growth remained robust. Card-not-present volume, excluding travel, grew
+20% in April, 29% in May and 33% in September. Consumers worldwide are sticking with habits formed
+during the shutdowns.
+
+Fourth, the cross-border recovery has been sluggish since borders remain closed or there are significant
+impediments to crossing borders like quarantines and other such restrictions. From May through August,
+cross-border volumes were persistently down in the mid-40% range.
+
+September saw a 6-point recovery, which has continued into October. This recovery was driven by a few
+corridors where travel is now relatively frictionless, like travel from the U.S. to Mexico and the Caribbean,
+travel from and to the Persian Gulf states and travel to Turkey. The sharp recovery in these corridors
+provide some early indicators for how cross-border travel may recover when borrowers do reopen.
+
+And finally, the recovery so far has been uneven, V-shaped for domestic volumes but L-shaped for cross-
+border volumes. The cross-border business remains a significant and continued drag on revenue growth.
+As a result, net revenue declined 17% in the fourth quarter, approximately 11% when you adjust for the
+service fee lag. This is 10 points better than a similarly adjusted third quarter, driven primarily by the
+domestic rebound.
+
+Moving now to a review of our key business drivers. In Q4, U.S. payments volume was up over 7% with
+consistent growth through the quarter. October volumes through the 21st are up 9%. Debit was up 24%
+in Q4 and up 22% in October. Credit declined 7%, improving through the quarter. In October through the
+21, credit is declining 3%. Card-not-present volume, excluding travel, continued to grow over 30% in the
+quarter, even as card-present spending improved almost to 2019 levels in September.
+
+A quick review of the recovery trend across 10 categories in the U.S. As we did last quarter, we have 3
+groups, each accounting for about 1/3 of our volume. The first group includes categories such as food and
+drug stores, home improvement and retail goods. These categories have consistently grown at or above
+their pre-COVID growth rates in the high teens or even higher every week since mid-April. Through Q4,
+growth remained strong and stable.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+The second group includes categories such as automotive, retail services, department and apparel stores,
+which dropped between 10% to 50% in April and had recovered to growth by the end of June. In the
+fourth quarter, these categories steadily improved and are generally back to pre-COVID growth rates.
+
+The third group includes categories that are the hardest hit by this pandemic: travel, entertainment,
+fuel and restaurants. These categories declined over 50% in April, improved 20 to 45 points through the
+third quarter and are up at least another 10 points with steady improvement every month. Travel is still
+declining over 40% in September, with the largest improvement so far in car rentals and travel services.
+
+Fuel is also still negative but recovered 20 points since June, driven both by gallons purchased and higher
+prices. Restaurant spending is almost back to 2019 levels. International payments volume grew 1% in the
+fourth quarter and 5% excluding China.
+
+A few regional highlights. CEMEA remains our best-performing region, growing 15% in constant dollars
+in the quarter, a 20-point improvement over Q3. The combination of easing COVID restrictions and client
+wins drove the strong growth. Europe improved 19 points over last quarter, growing 9% in constant
+dollars. Growth was strongest in the U.K. as well as Central and Eastern Europe.
+
+Fourth quarter growth in Europe benefited from U.K. cardholders utilizing their Visa credentials to move
+money into higher interest-bearing savings funds. This is not expected to continue growing forward.
+
+Latin America also improved 19 points, growing 6% in constant dollars. Brazil's spend growth was positive
+in the quarter, fueled by a steady recovery in face-to-face spending, very high e-commerce spending and
+client wins. Asia Pacific declined 10% in constant dollars in Q4 or declined 4% excluding China, an 11-
+point improvement since last quarter. China continues to be impacted by the runoff of dual-branded cards
+that have little revenue impact.
+
+There were more COVID-related restrictions in effect across Asia than other parts of the world. Korea and
+New Zealand are the exceptions, where spending is already about 2019 levels.
+
+Processed transactions turned positive in the quarter, up 3%, improving each month as a result of the
+domestic spending recovery. As you know, transaction sizes increased at the height of the pandemic, but
+customer behavior is starting to normalize. Processed transactions growth in October through the 21st is
+4% globally.
+
+Constant dollar cross-border volume, excluding volume within Europe, declined 41% in the fourth quarter.
+As I mentioned earlier, we did start to see some improvement in September and through October led by
+card-present spending in a few corridors where there is less friction at the border. Cross-border volume
+excluding volumes within Europe through October 21 declined 37%. Constant dollar cross-border volume
+including volume within Europe declined 29% in the quarter.
+
+It's important to remember that cross-border volume excluding volumes within Europe drives our
+international fees. The trajectory of the recovery where borders are now open provide some indication of
+how fast the cross-border business could rebound once most borders reopen. For example, travel from
+the U.S. to Mexico saw a 40-point recovery from the trough in April through July, and the trend continued
+through the quarter. This corridor actually grew over 20% in constant dollars in September and October.
+Travel to Turkey, which opened in early August, improved almost 30 points in August itself and remained
+at that level in September. However, at this point, borders remain largely closed.
+
+The World Tourism Organization reported in September that out of 217 countries, 161 countries or 74%
+still had complete or partial closure of their borders to foreign visitors. Of the remaining 56 countries,
+the majority are mandating COVID tests with quarantine. There are very few countries with no COVID
+restrictions. As a result, travel-related spending remains depressed, declining in the mid- to high 60s in Q4
+and through October.
+
+Growth in cross-border e-commerce spend, excluding travel and intra-Europe volume, has been
+consistently in the mid- to high teens since mid-April, led by retail spending.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+Moving to fourth quarter financial results. Fiscal fourth quarter net revenues declined 17% on a nominal
+and constant dollar basis. Adjusted for the service fee lag, net revenues were down approximately 11%,
+a 10-point improvement from a similarly adjusted third quarter. This improvement was driven largely by
+the domestic spending recovery. Service revenues were down 13%, driven by the 12% decline in nominal
+payments volume from the prior quarter.
+
+Data processing grew 4% with strong value-added services growth offset by the mix shifting away from
+higher-yielding cross-border transactions.
+
+International transactions revenues were down 38%, a few points better than cross-border volumes,
+excluding intra-Europe, due to some country mix and currency volatility benefits.
+
+Other revenues grew 5%, led by value-added services, but continued to be negatively impacted by
+declines in the usage of travel-related card benefits and marketing services for clients. Overall, value-
+added services revenue grew 15% for the fourth quarter.
+
+Client incentives were 25% of gross revenues. This step-up in the percentage was due to the revenue
+mix shift away from cross-border and the service fee lag as well as the impact of very significant renewal
+activity this year. Client incentives were a little better than expected due to some deal timing and
+performance adjustments.
+
+Fourth quarter non-GAAP operating expenses declined 4% as expected, primarily driven by professional
+fees, G&A and marketing expenses. These expense reductions were achieved while sustaining investments
+in our longer-term growth initiatives. Non-GAAP nonoperating expense was $126 million for the fiscal
+fourth quarter. Interest income fell through the quarter due to low interest rates. Interest expense was
+higher from the August and April debt issuances. The non-GAAP tax rate was 18.3%. GAAP EPS fell 28%.
+Excluding special items, non-GAAP EPS was $1.12, a decrease of 23%.
+
+On the fourth anniversary of the acquisition of Visa Europe, we had our first mandatory release
+assessment for the preferred B and C stock and released approximately $7.3 billion, giving preferred B
+and C shareholders the opportunity to sell these shares. This did not affect the fully diluted share count.
+
+A quick summary of fiscal year 2020 results. Payment volume increased 2% in constant dollars. Processed
+transactions grew 2%. Cross-border volumes were down 22% excluding volumes within Europe and 16%
+including Europe on a constant dollar basis. For the full year, net revenues decreased 4% in constant
+dollars. Client incentives were 23.4% of gross revenues.
+
+Operating expenses were down 3% on a GAAP basis and up 1% on a non-GAAP basis. GAAP EPS
+decreased 8%, while non-GAAP EPS of $5.04 was down 7% or 6% in constant dollars.
+
+We returned $10.8 billion in capital to shareholders by repurchasing 44.2 million shares of Class A
+common stock at an average price of $183.30 or $8.1 billion and by paying dividends of $2.7 billion.
+
+Looking ahead to fiscal year 2021, I'll start with a few general observations. Fiscal year 2020 was a year of
+2 very distinct halves. The first quarter of fiscal year '20 had no COVID impact. Net revenues grew almost
+10%. Second quarter net revenues grew 6.6% with the COVID impact on our reported numbers mitigated
+by the quarter lag in service fees.
+
+In sharp contrast, net revenues dropped 17% in the second half. As we look ahead, it is important to
+remember that the first half of fiscal year '21 will lap a relatively normal first half of fiscal year '20.
+Another important factor to highlight is the nature of the recovery we have had so far. Helped by the
+accelerated shift to e-commerce and the shift to digital payments even in face-to-face transactions, the
+domestic business has experienced a V-shaped recovery. Processed transactions have largely tracked
+domestic payments volume growth with some impact from the mix shift to higher tickets, which appears
+to be normalizing.
+
+On the other hand, borders remained largely closed, cross-border travel has significant friction in the form
+of quarantines or other requirements, resulting in a very slow recovery in cross-border travel. Also, the
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+cross-border business comes with higher yields. This significant shift in mix is a drag on revenue growth,
+which will continue into fiscal year 2021 until the cross-border business recovers.
+
+Meanwhile, the pandemic is still with us. The environment remains uncertain. It is not possible to reliably
+forecast volume and revenue 4 quarters out. The significant uncertainties include: the impact of spikes
+in COVID infections as we are seeing now; the timing of reopening of borders; the easing of friction
+in crossing borders and its impact on cross-border travel recovery; the positive impact that improved
+therapeutics and a vaccine could have on all this; the timing and size of additional stimulus programs; the
+economic impact once various stimulus programs end.
+
+With that as context, I'll share a few perspectives on fiscal year '21 to try and be as helpful as we can be
+under the circumstances. On the revenue front, given how fiscal year 2020 played out, fiscal year 2021
+will also be a year of 2 very different halves. Net revenue growth is expected to decline in the first half and
+rebound significantly in the second, with the highest growth in the fourth quarter. The level of the decline
+in the first half and the size of the recovery in the second will depend on how some of the unknowns I just
+enumerated play out.
+
+For example, if processed transactions and cross-border travel -- cross-border volume growth stay at
+levels we have seen so far in October through the first fiscal quarter, net revenue would be down in the
+high single to low double-digit range. This includes a 1 to 1.5 point negative impact from the service fee
+lag.
+
+Through fiscal year '21, we expect Visa Direct to continue its robust growth trajectory. We also expect
+value-added services to continue to grow in the mid-teens. There's a little of new pricing in fiscal year '21,
+some benefit from pricing we delayed and some carryover pricing from fiscal year '20.
+
+On client incentives, we finished the fourth quarter of fiscal year '20 at 25%. There are several factors that
+will impact client incentives in fiscal year '21. First, mix. Incentives are tied more to domestic volumes
+than they are to cross-border volumes. The current mix shift away from the cross -- from cross-border
+hurts gross revenues and causes this ratio to increase. When the mix normalizes, this would push the ratio
+down again.
+
+Second, performance. In fiscal year '20, with a sharp decline in volumes, many clients did not meet
+certain volume thresholds and, as such, did not earn corresponding incentives. As volume recovers in
+fiscal year '21, we expect clients will hit thresholds and earn these incentives, which causes a year-over-
+year increase unique to the year of the recovery.
+
+Finally, the impact of renewals. As we have told you, fiscal year '20 was another big year for client
+renewals. We renewed 25% of our volume during the year with another 15% to 20% likely renewed in
+fiscal year '21. Factoring all this in, we currently estimate that fiscal year '21 incentives as a percent of
+gross revenue could be in the 25.5% to 26.5% range. As always, we have given you our best sense of the
+range at this point, and we'll update you through the year as we learn more. First quarter incentives are
+likely to be at the lower end of the range.
+
+Moving to operating expenses. In fiscal year '20, we demonstrated our ability to modulate expenses and
+investments as circumstances change, balancing short-term imperatives with long-term priorities. Non-
+GAAP operating expenses grew 8% in the first half and declined 5% in the second. As Al indicated, we
+remain very bullish about the growth potential of our business, and we'll invest accordingly.
+
+Visa Direct continues its robust growth. B2B Connect is ramping. Our value-added services growth is
+sustaining at mid-teens levels, and our recent acquisitions require investments to scale. We will step
+up investment in all these areas and a few others, such as the Tokyo Olympics. As a result, we plan to
+increase our level of investment through the year, modulating as we learn more about the trajectory of
+the recovery. Our current plan is for expenses to be down in the first quarter, in line with second half
+fiscal year '20 trends. Expenses are expected to grow in the mid-single digits in the second quarter as we
+begin to lap the expense pullbacks from the last fiscal year. At this point, we plan on double-digit expense
+growth in the second half, in part due to the Olympics. However, we will adjust our plans as needed and
+update you as the year progresses.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+We expect nonoperating expense to average $145 million to $150 million each quarter in fiscal year '21 for
+2 primary reasons: first, low uneven negative interest rates on our cash balances; and two, our $4 billion
+in additional debt after we pay off our December bond maturities.
+
+Our fiscal year '21 tax rate is expected to be in the 19% to 19.5% range. It is too early to predict what
+impact the U.S. elections will have on our taxes. As always, we will provide updates, if any, to our tax rate
+expectations as the year progresses.
+
+Capital spending in fiscal year '21 is likely to be around $700 million. We expect to return most of our
+free cash flow back to shareholders in the form of dividends and buybacks. Our Board of Directors has
+authorized an increase of our quarterly dividend to $0.32 starting in the first quarter of fiscal year '21.
+When the Plaid transaction closes, we will let you know what its impact on FY '21 will be.
+
+In summary, as we've done in fiscal year 2020, we will stay flexible and agile as we work through the
+pandemic. As you heard from Al, the opportunity ahead is vast. The shift to e-commerce and away from
+cash is accelerating. Use cases for new payment flows are proliferating and ramping. Our value-added
+services business continues to grow at a healthy clip. We remain as optimistic about our future as we were
+at our Investor Day in February, which now seems like a lifetime ago. Our strategy remains unchanged,
+and in fiscal year '21, we will continue to prioritize and invest in our key growth initiatives.
+
+With that, I'll turn this back to Mike.
+
+Mike Milotich
+Senior Vice President of Investor Relations
+Thank you, Vasant. We will run a little long in order to ensure we have enough time for questions. So with
+that, we're ready to get started. Jordin?
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question comes from Dan Dolev from Mizuho.
+
+Dan Dolev
+Mizuho Securities USA LLC, Research Division
+
+YellowPepper asset, can you give us a little color on maybe its capabilities. You mentioned send money
+with e-mail or anything like that, that you could highlight in terms of the advantages of YellowPepper.
+
+Alfred Francis Kelly
+Chairman & CEO
+
+Dan, it's Al Kelly. This is a company that we're quite familiar with. We invest -- we were an early investor
+with them. We've been working with them. And what they really allow various players throughout, at least
+in the foreseeable future through Latin America, being able to facilitate, getting any kind of -- various
+kinds of services up and going very quickly by connecting to YellowPepper and then YellowPepper taking
+over from there.
+
+And we think as the payments and money movement world continues to grow and diversify, having a
+software platform like YellowPepper that makes it easier for these connections to happen and gives us
+an on-ramp to sell value-added services and accommodate the needs of various clients to have network-
+agnostic solutions, that it's going to give us a good path towards accelerating both core payments as well
+as value-added services and new flows throughout Latin America. And then over time, we'll look to extend
+the capability beyond that region.
+
+Operator
+
+Our next question comes from Bob Napoli from William Blair.
+
+Robert Paul Napoli
+William Blair & Company L.L.C., Research Division
+
+Just on the value-added services, I was hoping to get a little more color about the mix of revenue, if you
+could kind of break it out by whatsoever reasonable products that you could. And which of those products
+are growing the fastest, obviously, Visa Direct?
+
+Alfred Francis Kelly
+Chairman & CEO
+
+Well, Bob, thank you for the question. So first of all, we think of Visa Direct as a new flow, not a value-
+added service. So let me try to give a little more color. So about 2/3 of value-added services are platform
+type of services that are driven by transactions. And obviously, in this environment, some of those
+have done quite well. CyberSource, where people are looking for omnichannel solutions. Risk and fraud
+services, particularly as a lot more transactions have gone online, and people are looking at things like 3D
+Secure 2.0 and our offerings from CardinalCommerce. And then issuer processing has done well given that
+-- what's happening with debit, as Vasant described in his remarks.
+
+About 1/3 -- the other 1/3, so that's about 2/3 of value-added services. The other 1/3 is kind of split
+between service revenue and other revenue. So in service revenue, you have card benefits, which are
+offered as a package. And then in other revenue, you have services that are generally not tied to volumes,
+things like travel-related card benefits, marketing services, data and consulting and analytics. So you
+can imagine in that grouping, there are things that are struggling a little and other things that are
+accelerating. So travel-related card benefits are obviously very sluggish as are marketing services. But
+things like data and consulting and analytics are continuing to grow at pretty robust levels. So that would
+be -- hopefully give you some color.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+I don't know, Vasant, whether you want to add anything to that.
+
+Vasant M. Prabhu
+Vice Chairman & CFO
+
+No. I think we're very pleased with how, as Al said, the platform-based services are growing. Those
+happen to be the ones that have the best margins, and it's things like our fraud services, authentication
+through CardinalCommerce as well as, as Al said, CyberSource. Clearly, with the growth of omni-
+commerce and certainly, everybody -- every merchant wanting to enhance their e-commerce business is
+very helpful to CyberSource, which, as you know, is a gateway for most e-commerce merchants, and then
+with debit doing well, the debit processing business. So those platform services, most of which show up in
+our data processing line from a revenue standpoint, particularly high growth right now.
+
+Operator
+
+Our next question comes from Bryan Keane from Deutsche Bank.
+
+Bryan Connell Keane
+Deutsche Bank AG, Research Division
+
+Just want to ask about the strength in debit. Obviously, even without stimulus, the growth continues to
+be impressive, well above 20%, especially in the U.S. and then obviously picking up internationally. How
+much of that is driven by this move towards contactless and e-comm?
+
+And as we get into next year, does it cause a difficult comp just because the growth rate is so much higher
+than traditional? Or does this growth continue at these rates and maybe somewhat offset by a pickup in
+credit by the time we get to the second half of next year?
+
+Alfred Francis Kelly
+Chairman & CEO
+
+Thanks, Bryan. I'd say there's a number of drivers what's happening with debit. Certainly, I think an
+acceleration of cash displacement at the point of sale, where people are just concerned about cash being a
+carrier of germs. I see that -- I think that trend continues.
+
+Certainly, a significant shift to online purchases and mostly in everyday spend categories, which kind of
+favors debit a bit, I think that's going to stay up at fairly healthy levels.
+
+Thirdly, what we've learned in the past and is being reinforced now is that in these uncertain economic
+times, people probably would prefer to spend the money they have than to borrow the money and hence,
+that's a positive driver for debit. And then Visa Direct obviously helps drive our debit performance as well.
+
+I expect that a lot of this positive momentum will continue. But I think there's no question that if -- and
+let's hope it does, the world gets back to normal quicker than many might predict, that, a, you will see
+credit come back as more discretionary purchases and travel start to bounce back. And maybe some
+purchases start to move -- that are online maybe move back into the face-to-face world. But I think
+a lot of people have gotten very comfortable sitting at their dining room table or in their home office,
+shopping online on e-commerce. So I think a lot of these drivers of what we're seeing in debit over the
+last 6 months have some staying power to them.
+
+Vasant M. Prabhu
+Vice Chairman & CFO
+
+Yes. I mean I'd add a couple of things. And you can see it in some of the charts we provided on the weekly
+trends. I think what's happening about debit, which, as I said in my comments, is the biggest beneficiary
+of the accelerated growth of e-commerce and the shift away from cash, the 2 things you're seeing is that
+even as credit has recovered from declining 20% in April to exiting September down only about 5%, I
+believe, if I remember right, in the major markets, you see the credit line -- the debit line has been very
+steady. It's been growing at the same rate without really being impacted by the recovery of credit. And
+even as card-present trends have improved, you're seeing the debit line hold steady.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+So a lot of it has to be driven by the new use cases we are enabling and new payment flows through Visa
+Direct, as Al said, and also the fact that there has been a true shift away from cash, and most of it has
+gone to debit.
+
+Now clearly, some of it is the stimulus payments. And if you don't have them next year, clearly, some of
+that spending may have been spending that may not sustain, but that remains to be seen.
+
+Operator
+
+Our next question comes from Sanjay Sakhrani from KBW.
+
+Sanjay Harkishin Sakhrani
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+I wanted to sort of follow up on exactly what you were talking about, Vasant. Obviously, there's a recovery
+underway. But to the extent that stimulus isn't renewed, and I know that, that may or may not happen,
+and then you have -- you're going into the winter months where it may be more difficult to travel or eat
+out and such, do you feel like that's a risk to the growth trajectory of the volumes?
+
+And then just a clarification on the incentive guidance, the volume and support guidance. Does that
+include, the numbers you gave, an impact from the lag of the volumes that come back versus what you're
+paying out?
+
+Vasant M. Prabhu
+Vice Chairman & CFO
+
+I'm not sure I fully understood your second question, but I will try to answer it. On the first one, as we
+said, we live in uncertain times, and it's difficult to hazard guesses on what's going to happen when --
+if there are spikes in infections. I would say we are tracking it very closely. And there's really 2 things
+to track: it's spikes in infections and then what is the response from the government. To the extent that
+the response from the government is to impose restrictions and shutdowns, then it does have effects on
+spending. If the response of the government is to largely keep things open, then we see less of an impact.
+So it will be very different region by region and country by country, both linked to the infection rate as well
+as the governmental response.
+
+As it relates to travel, travel habits are changing, as you saw. I mean people can't go everywhere. So
+corridors that are open are getting more of the travel, which is why you saw the Caribbean and Mexico
+actually growing in September and October. And normally, September and October, after schools open,
+tends to be a slowdown in travel. In fact, we're seeing travel continue -- personal travel continue into
+September and October in the corridors that are open.
+
+So what you may see in terms of travel is people really being quite astute about where they can travel.
+And as certain corridors open up, you start to see travel moving into those corridors that may have gone
+elsewhere. So it all makes it very difficult to make any hard predictions about what's going to happen
+next.
+
+As far as your incentives question, I wasn't sure what the question was exactly. But we try to factor in
+everything we know right now, mix shift from cross-border, service fee lag, the renewals we already had
+and what we might expect, to give you the best range we can. We will obviously give you an update as the
+year goes by.
+
+Operator
+
+Our next question comes from Ramsey El-Assal from Barclays.
+
+Ramsey Clark El-Assal
+Barclays Bank PLC, Research Division
+
+You called out a lot of new partnerships and agreements this quarter, Al, in your prepared remarks. And
+I'm just wondering in the context of the pandemic, has the way you structured the agreements changed at
+all? Are incentive levels less performance-based? Or is there -- are there any kind of changes that might
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+have an impact on the way incentives kind of come in down the road in terms of how you're negotiating
+right now?
+
+Alfred Francis Kelly
+Chairman & CEO
+
+Ramsey, as a general rule, I'd say there really hasn't been a lot of change. I think that they've generally
+been fairly similar. I think that for the most part, I think most -- as you know, most of these deals are 5,
+7, sometimes longer years in duration. And I think almost everybody thinks that we're looking at kind of
+a once-in-a-century type of event here. The conversation Sanjay and Vasant were just having, we're not
+sure how long that really lasts, but we're certainly not looking for it to last through the duration of what
+these contracts are.
+
+I think that said, we're certainly thinking about the structure of deals and trying to determine where to
+tweak things here and there. But I wouldn't say that we've made any kind of radical changes to how we're
+structuring the deals, Ramsey.
+
+Operator
+
+Our next question comes from Lisa Ellis from MoffettNathanson.
+
+Lisa Ann Dejong Ellis
+MoffettNathanson LLC
+
+My question is about Europe. This 9.1% growth in Europe this quarter, that is a very strong number,
+stronger than it had been pre-pandemic. Can you talk a little bit about what's going on in Europe? Are
+you starting to see the payoff of the long-term effort there to invigorate that business after the Visa
+Europe transaction? I mean are you seeing just really elevated cash displacements? What are some of the
+underlying dynamics in Europe?
+
+Alfred Francis Kelly
+Chairman & CEO
+
+So Lisa, I'd say a few things. First of all, this movement of funds into these higher-yielding savings
+accounts definitely was a real factor, and that's not going to repeat itself. But beyond that, I think that you
+are seeing the beginnings of traction of a number of fintech deals. I mentioned Revolut in my remarks. But
+Lydia in France comes to mind, ininal, a fintech in Turkey, comes to mind, that are really starting to scale
+up in terms of their relationship with Visa.
+
+I also think that we've had a pretty good track record of deepening some of our existing businesses that
+we renewed as well. I commented on a few of those. But if we go back over the past numbers of earnings
+calls, we commented on others.
+
+And I have made the point that I think that I believe over the last 5 or 6 quarters that Europe has made a
+lot of progress in terms of relationship builds. They're just going to take time to show up in the numbers
+because you're either doing a start-up or you're doing a shift in -- with the client, and both of those just
+simply take time. And they take time to ramp, to get credentials out and then they take time for those
+credentials to ramp in terms of volume.
+
+The other thing I would say is that Open Banking continues to be a strength for us in Europe. And
+we're having good success selling our value-added services, particularly, as I commented in answering
+somebody else's question earlier, some of our products from CardinalCommerce as well as our 3D Secure
+products. So I think it's the beginnings of some of the success that we're -- we think we've been having
+over the last 5 or 6 quarters, plus this kind of onetime deal where people move money via their debit
+cards into these high-yield savings accounts. And we'll have to see what happens, Lisa.
+
+Today, you probably saw both France and Germany announced going into some form of partial lockdowns
+again. So that's obviously not a very positive news vis-a-vis driving volume across the continent.
+
+Operator
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+Our next question comes from Dan Perlin from RBC Capital Markets.
+
+Daniel Rock Perlin
+RBC Capital Markets, Research Division
+
+I just wanted to follow back up again around the notion that cross-border volumes kind of ex intra-Europe
+is probably going to drag on for a bit. And so what I'm trying to understand or kind of reconcile a little bit
+here is the specific opportunities that you might be pursuing maybe more behind the scenes in order to
+offset some lost revenue and lost profits. So rather than kind of a very large drop-down list of products
+and opportunities, I'm thinking of things like increased authorization rates now that you have a lot more e-
+commerce cross-border that's happening that's opening up the funnel for merchants.
+
+Are you able to offset some of those lost profit dollars as a result of those types of things? And then how
+prominently is CyberSource playing in that regard?
+
+Vasant M. Prabhu
+Vice Chairman & CFO
+
+Yes. I mean we're clearly focused on all that, increasing authorization rates in particular corridors, big
+priority. Increasing activation of cards that can be used for cross-border, critical priority. The growth of
+nontravel cross-border business, big priority. Cross-border business for new use cases that Al highlighted
+through Visa Direct like remittances, cross-border business through B2B Connect, all those are revenue
+streams that are new and very exciting and growing well.
+
+It's a big year in '21 to lay the groundwork for Earthport to scale. We've signed up a lot of clients. The
+volume is ramping. We're spending quite a bit of time and effort to ensure that the Earthport platform
+can scale. And a lot of that will be cross-border flows, not necessarily for consumer payments but a whole
+range of other use cases.
+
+So there's a variety of nonspecifically travel-related cross-border use cases that are happening right now
+that we're very excited about. And then we're doing, as you said, the sort of the bread and butter stuff of
+improving authorization rates, reducing fraud and all the things that would make people more willing to
+approve more cross-border transactions.
+
+Operator
+
+Our next question comes from Tien-Tsin Huang from JPMorgan.
+
+Tien-Tsin Huang
+JPMorgan Chase & Co, Research Division
+
+I was thinking about your answer to Lisa's question. And I'm curious if you can -- do you think you can
+shift into another gear and win more business in Europe with Open Banking and the digital shift there? I
+guess I could expand that to other regions as well, but I'm thinking about Europe given the Open Banking
+dynamics.
+
+Alfred Francis Kelly
+Chairman & CEO
+
+I certainly hope so, Tien-Tsin. We are very, very focused on it. I think we've talked about this in the past. I
+mean we really feel like we've been, in the last year, 15 months, really on our front foot in Europe. We've
+got a really good win rate on fintechs. We're having lots of really good discussions with banks about Open
+Banking. In addition to the things I mentioned, we've got our Visa Trusted Listing, which allows customers
+to identify merchants that they trust, which will help users meet the regulatory requirement and have a
+much better user experience for the customer.
+
+We've got the Visa Delegated Authentication, which issuers delegate authentication to merchants or digital
+wallets, which also reduces friction at the point of checkout. So a lot of these discussions have gone very
+well. And I think that people who are clients and potential clients are viewing us as being very supportive
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+of what they have to do to deal with Open Banking downstream. So I believe that our momentum is good,
+and you're going to continue to see it in our numbers.
+
+Tien-Tsin Huang
+JPMorgan Chase & Co, Research Division
+
+Just a quick follow-up, if you don't mind. I know some of the wins you guys have had like Venmo and you
+talked about Revolut, pretty innovative, including on the reward side with things like Venmo. I'm curious if
+also you could see a little bit more of business become available, thinking about travel cards and some of
+the more traditional travel rewards might have less utility here during the pandemic. Are you seeing that?
+Is that an area of focus perhaps?
+
+Alfred Francis Kelly
+Chairman & CEO
+
+Well, I think issuers around the world are dialing back on their spending and their acquisition on travel-
+related cards at this point and looking at alternatives. And even here in the United States, obviously, I
+think you're seeing a lot more activity on things like cash-back than you are on travel co-brand. So I think
+in the near term, that's going to be the case.
+
+I think, though, as travel returns, which I happen to be optimistic that it will -- Vasant basically describes
+how I see it, which is that travel is, for all intents and purposes, shut for consumers. It's not that you're
+even having a choice of to travel or not to travel. In most cases, it's so much of a hassle that -- right now
+that you just don't. It's just not a good experience. And I think as travel can reopen, I think that people
+wanting to see the world, see family and friends and knock places off their bucket list, et cetera, it will
+start to come back. And at that time, I think people will go back to promoting the travel elements of their
+card or the benefits of the card as well as you'll see more attention paid back on the travel-related co-
+brand cards.
+
+Vasant M. Prabhu
+Vice Chairman & CFO
+
+A couple of sort of, let's say, bright spots from some of the early indications here is, as you know, the bulk
+of the cross-border business we have that's card-present and the bulk of our cross-border travel is based
+on personal travel, and that's an important one to note.
+
+And there clearly seems evidence of pent-up demand because any time a corridor opens up, we shared
+the example of Turkey, there's a massive pickup. There are more Americans traveling to Turkey now than
+they did last year by a significant amount because they realized that's one place they can go. We've seen
+that from other parts of the world that are open like travel in and out of Dubai. So we're seeing a lot of
+travel from Europe into the UAE, for example.
+
+So what we are seeing is there is pent-up demand. The corridors which are very few right now that are
+open are getting a lot of it. And as corridors start to open, you will see different travel patterns than you
+saw pre COVID, but there just seems to be a lot of desire to travel.
+
+Operator
+
+Our next question comes from Jason Kupferberg from Bank of America.
+
+Jason Alan Kupferberg
+BofA Merrill Lynch, Research Division
+
+I know back at the Analyst Day, which I agree with you, Vasant, feels a very long time ago, you spent a
+lot of time on B2B. And I wanted to see now that we're 6-plus months into the pandemic, I mean is COVID
+catalyzing accelerated growth in B2B for Visa? And if so, are there some supporting data points you might
+be able to share on that front?
+
+Alfred Francis Kelly
+Chairman & CEO
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+Well, I'll start, Jason, and Vasant can add. I would say that commercial B2B volume in the carded space is
+running pretty close to where you see consumer credit. So it definitely has been hit. And the line and its
+growth has been, as I said, fairly close to the credit line.
+
+That said, we've continued to invest heavily on trying to promote virtual cards as more digital spending
+is going to take place in the B2B arena, and we're continuing to build out and invest in building out the
+B2B Connect network. We're up and have the capability up and going in 80 countries. We're looking to
+expand to the next 30 countries over the next year plus. And so we haven't really taken our investment
+dollars on building for the future down much at all in this area. But there's no question, the volume has
+been impacted by lots of people curtailing their spending and lots of employees around the world working
+from home.
+
+Vasant M. Prabhu
+Vice Chairman & CFO
+
+Yes. I mean just a little more color on the B2B side and the -- as Al said, in the card-based part of the
+business, we're seeing the small business side recover nicely. The large and medium-size side is the one
+that is still somewhat sluggish. We don't have a big travel-related component in our card-based B2B
+business.
+
+On B2B Connect, we continue to build the nodes. A lot of interest, and we have some big new clients that
+will be ramping. And hopefully, we can tell you more about that in the next few quarters.
+
+And then in the very large AR, AP business, there continues to be interest. We are very focused on trying
+to figure out the use cases that have traction and how we create value, but I wouldn't say that there's any
+dramatic shift. It remains the category of people are trying to figure out a way to create value there. So
+we'll again tell you more as things develop.
+
+Operator
+
+Our final question comes from Darrin Peller from Wolfe Research.
+
+Darrin David Peller
+Wolfe Research, LLC
+
+We've seen, obviously, this uplift in the CNP transactions, both online and even off-line, similar with
+contactless. And I think we've been saying, and I think you guys have said also, there's -- your technology
+can handle more of that market share than other local or PIN networks given your investments. I guess,
+first of all, can you just make sure -- just verify if that's true, in your opinion? And then second of all, what
+kind of economic uplift is there from things like the CyberSource and fraud solutions you provide there?
+
+And then Vasant, just a quick follow-up on the incentives comment you made about '21. You mentioned
+incentives are, I think, 26% or so in fiscal '21. Does that assume that cross-border does not -- doesn't
+improve at all in fiscal '21 or it just stays basically October levels to get to that number?
+
+Vasant M. Prabhu
+Vice Chairman & CFO
+
+Well, I mean what happens -- I'll take the second part first. What happens to cross-border is anybody's
+guess, right? So we gave you a range of 25.5% to 26.5%. We have seen, let's say, a 6-point improvement
+from Q3 to Q4. From Q4, 41 down to where it's running in October is a 4-point improvement. So we've
+assumed some modest improvements through the year. So it's not saying that there's no improvement.
+Implied in there is some modest improvement. I think that's probably the best way to think about it. But it
+is a range. It's hard to estimate. We've given you the best range. We'll tell you more as the year goes by.
+
+And then your first question, I don't know, Al, if you were going to take that.
+
+Alfred Francis Kelly
+Chairman & CEO
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+So I was -- so in the case of card-not-present, it's very, very good volume for us as we -- I think at
+Investor Day, we said that $0.15 in every dollar in the world today is -- in face-to-face is spent on a Visa
+card. In the card-not-present world, it's $0.43 on the dollar simply because cash comes out of the picture.
+
+And obviously, as fraud has migrated more to online, as chip on card has depressed fraud in the face-
+to-face world, that gives us an opportunity to work with issuers on driving down fraud by using various
+services and products that we can provide.
+
+And somebody alluded to it earlier. I mean there's still -- in the card-not-present world, still real
+opportunity to drive up authorization rates. I think it was a question asked relative to cross-border.
+And clearly, cross-border authorization rates and card-not-present are lower than authorization rates
+domestically on card-not-present. But in both cases, versus face-to-face, there's real opportunity to
+increase authorization levels to drive more volume.
+
+Darrin, you said something about contactless, too. Obviously, that's in the face-to-face world. And we'll --
+we continue to make and will continue to make real progress there. I think COVID will help accelerate the
+pace in the United States, which is the one market that's been much further behind. I think I said in my
+remarks that contactless transactions represent 43% of face-to-face and across the globe, 65% excluding
+the United States, which gives you the magnitude of how far behind the U.S. is.
+
+I do think though that -- and maybe you meant click-to-pay, I do think click-to-pay will help as well
+accelerate card-not-present as well, particularly for people who are not card on file, but they're just
+logging on to buy for the first time, and they're doing -- they're being a guest. So I think that there's real
+opportunity for click-to-pay to help build a better user experience there. So we certainly remain really
+bullish on what can happen in the card-not-present world.
+
+Mike Milotich
+Senior Vice President of Investor Relations
+
+We'd like to thank you for joining us today. If you have additional questions, please feel free to call or e-
+mail our Investor Relations team. Thanks again, and have a great evening.
+
+Operator
+Thank you for your participation in today's conference. You may disconnect at this time.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+VISA INC. FQ4 2020 EARNINGS CALL |  OCT 28, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+

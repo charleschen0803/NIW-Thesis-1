@@ -1,0 +1,1305 @@
+Arista Networks, Inc. NYSE:ANET
+FQ2 2020 Earnings Call Transcripts
+Tuesday, August 04, 2020 8:30 PM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ2 2020-
+
+-FQ3 2020-
+
+-FY 2020-
+
+-FY 2021-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+CONSENSUS
+
+EPS Normalized 
+
+1.95
+
+2.11
+
+Revenue  (mm)
+
+530.56
+
+540.57
+
+Currency: USD
+Consensus as of  Aug-03-2020 3:35 AM GMT
+
+8.21
+
+1.89
+
+2.14
+
+8.43
+
+9.64
+
+564.37
+
+2217.86
+
+2545.58
+
+FQ3 2019
+
+FQ4 2019
+
+FQ1 2020
+
+FQ2 2020
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+2.41
+
+2.09
+
+1.81
+
+1.95
+
+2.69
+
+2.29
+
+2.02
+
+2.11
+
+11.62 %
+
+9.57 %
+
+11.60 %
+
+8.21 %
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+8
+
+2
+
+ 
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+Call Participants
+
+EXECUTIVES
+
+Anshul Sadana
+Senior VP & COO
+
+Curtis McKee
+Head of Corporate & Investor
+Development
+
+Ita M. Brennan
+CFO , Senior VP & Principal
+Accounting Officer
+
+Jayshree V. Ullal
+President, CEO & Director
+
+ANALYSTS
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC,
+Research Division
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research
+Division
+
+Amit Jawaharlaz Daryanani
+Evercore ISI Institutional Equities,
+Research Division
+
+Benjamin James Bollin
+Cleveland Research Company
+
+Erik Loren Suppiger
+JMP Securities LLC, Research
+Division
+
+James Edward Fish
+Piper Sandler & Co., Research
+Division
+
+Jason Noah Ader
+William Blair & Company L.L.C.,
+Research Division
+
+Jeffrey Thomas Kvaal
+Wolfe Research, LLC
+
+Meta A. Marshall
+Morgan Stanley, Research Division
+
+Michael C. Vidovic
+KeyBanc Capital Markets Inc.,
+Research Division
+
+Paul Jonas Silverstein
+Cowen and Company, LLC,
+Research Division
+
+Roderick B. Hall
+Goldman Sachs Group, Inc.,
+Research Division
+
+Ryan Boyer Koontz
+Rosenblatt Securities Inc.,
+Research Division
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research
+Division
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc.,
+Research Division
+
+George Charles Notter
+Jefferies LLC, Research Division
+
+Tal Liani
+BofA Merrill Lynch, Research
+Division
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+Vinod Krish Srinivasaraghavan
+Oppenheimer & Co. Inc., Research
+Division
+
+Woo Jin Ho
+Bloomberg Intelligence
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+Presentation
+
+Operator
+
+Welcome to the Second Quarter 2020 Arista Networks Financial Results Earnings Conference Call.
+[Operator Instructions] As a reminder, this conference is being recorded and will be available for replay
+from the Investor Relations section at the Arista website following this call.
+
+I will now turn the call over to Mr. Curtis McKee, Director of Corporate and Investor Development. Sir, you
+may begin.
+
+Curtis McKee
+Head of Corporate & Investor Development
+
+Thank you, operator. Good afternoon, everyone, and thank you for joining us. With me on today's call
+are Jayshree Ullal, Arista Networks President and Chief Executive Officer; and Ita Brennan, Arista's Chief
+Financial Officer. This afternoon, Arista Networks issued a press release announcing the results for its fiscal
+second quarter ending June 30, 2020. If you would like a copy of the release, you can access it online at
+our website.
+
+During the course of this conference call, Arista Networks management will make forward-looking
+statements, including those relating to our financial outlook for the third quarter of 2020 fiscal year,
+longer-term financial outlooks, the potential impact of COVID-19 on our business, industry innovation,
+our market opportunity, the benefits of recent acquisitions and the impact of litigation, which are subject
+to the risks and uncertainties that we'll discuss in detail in our documents filed with the SEC, specifically
+in our most recent Form 10-Q and Form 10-K and which could cause actual results to differ materially
+from those anticipated by these statements. These forward-looking statements apply as of today, and you
+should not rely on them as representing our views in the future. We undertake no obligation to update
+these statements after this call.
+
+Also, please note that certain financial measures we use on this call are expressed on a non-GAAP basis
+and have been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP
+financial measures to GAAP financial measures in our earnings press release.
+
+With that, I will turn the call over to Jayshree.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Thank you, Curtis. Thank you, everyone, for joining us this afternoon for our second quarter 2020
+earnings call. To start with, I would like to address the once-in-100-year coronavirus global pandemic and
+reiterate our commitment to employee safety and customer response. At Arista, we recognize our role
+and responsibility in supporting global communications and cloud infrastructure during these mission-
+critical times. We are adjusting to the new work-from-home norm and expect this will continue throughout
+2020 until vaccines or therapeutics emerge. We are working closely with our supply chain and contract
+manufacturers to improve lead times and support our customers in their business continuity initiatives.
+
+Back to Q2 specifics. We delivered revenue of $540.6 million for the quarter with a non-GAAP earnings
+per share of $2.11. A-Care services and software support renewals contributed approximately 22%
+of revenue. Our non-GAAP gross margins were 64.7%, influenced by software and services mix. We
+registered a record number of million-dollar customers as a direct result of our enterprise vertical traction
+and continue to march towards our goal of 1 to 2 new customers a day in the second quarter.
+
+In Q2 2020, cloud titans was the largest vertical. The enterprise is once again our second largest
+performer followed by Tier 2 cloud service providers and financials tied for third place and service
+providers in fourth place. Our vertical mix in the second quarter was consistent with the prior trends that
+we shared with you in May: cloud titans, approximately 40% of the mix; enterprises, including financial
+services, approximately 35% of the mix; and providers approximately 25% of the mix.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+In terms of geography, international contribution was 19% with the Americas at 81%. Regional EMEA
+traction was slower than normal due to pushout of big customer decisions and reduced international cloud
+titan spend in the quarter.
+
+As we predicted, Arista's Cognitive Campus portfolio met its first year $100 million objective ending June
+30, 2020. While we are pleased with the traction, we believe that our new enterprise prospects will take
+time, especially in this COVID era. We remain hopeful and optimistic to double in the next 5 to 6 quarters
+to $200 million, of course, depending on market conditions.
+
+In terms of new innovations, last week, Arista introduced the CloudEOS router for the edge, supporting
+dynamic path selection services across all major cloud providers. Some of the key features include AWS
+transit gateway integration for seamless automated provisioning; elastic consumption of CloudEOS
+across the 3 main cloud providers, AWS, Azure and GCP; declarative provisioning of multi-cloud through
+Hashicorp Terraform; and a dashboard based on Arista's CloudVision for centralized visibility of enterprise
+and cloud resources.
+
+As we review 2020 at the midyear point, there are clearly macro issues outside our control. The number
+of confirmed COVID-19 cases has increased sharply in July. The economic recession is looming, and trade
+wars are escalating. Despite this, Arista experienced a cloud titan recovery and enterprise trend in Q2,
+offset by extended sales cycles in the campus sector.
+
+We're also pleased with the recent leaders recognition in both Forrester's Wave for open programmable
+switches in business-wide SDN with the top score in strategy category and with Gartner's Magic Quadrant
+for data center and cloud networking. Gartner designated us a Magic Quadrant leader for the sixth
+consecutive year. These placements truly validate Arista's premier status in networking.
+
+I believe we are well positioned in cloud networking for data center, routing, campus and new multi-cloud
+monitoring capabilities, enabling network migration from legacy to modern. In these unprecedented times,
+customers seek our compelling advantages, and we expect to emerge even stronger than many of our
+industry peers. We hope you're all being safe and well.
+
+I will now turn the call to our CFO, Ita Brennan, for financial details. Ita?
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+Thanks, Jayshree, and good afternoon. This analysis of our Q2 results and our guidance for Q3 2020 is
+based on non-GAAP and excludes all noncash stock-based compensation impacts, certain acquisition-
+related charges and other nonrecurring items. A full reconciliation of our selected GAAP to non-GAAP
+results is provided in our earnings release.
+
+Total revenues in Q2 were $541 million, down 11% year-over-year but at the upper end of our guidance
+of $520 million to $540 million. Approximately 6% of this decline related to the recognition of $38 million
+of product deferred revenue in the second quarter of 2019. In addition, while overall demand in Q2 was
+reasonably healthy, we continue to experience some COVID-19-related supply challenges, resulting in
+extended lead times and somewhat constrained shipments for the quarter.
+
+Service revenues represented approximately 22% of total revenue, up slightly from 21% last quarter.
+International revenues for the quarter came in at $104.7 million or 19.4% of total revenue, down from
+23% in the first quarter. While the shift in geographical mix on a quarter-over-quarter and year-over-
+year basis was largely due to the location of deployments by our cloud titan customers, we did see some
+pushout of larger opportunities in our in-region businesses also.
+
+Overall gross margin in Q2 was 64.7%, above the midpoint of our guidance of approximately 63% to
+65% compared to last quarter at 65.6%. Operating expenses for the quarter were $144.1 million or
+26.7% of revenue, down from last quarter at $149.3 million. R&D spending came in at $91.6 million or
+17% of revenue, consistent with last quarter. Sales and marketing expense was $41.9 million or 7.8% of
+revenues, down from $46 million last quarter with lower marketing and travel-related spending.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+Our G&A costs came in at $10.6 million or 2% of revenue, down from last quarter of approximately $12
+million. Our operating income for the quarter was $205.7 million or 38.1% of revenue. Other income and
+expense for the quarter was a favorable $8.3 million, and our effective tax rate was approximately 21.9%.
+This resulted in net income for the quarter of $167 million or 30.9% of revenue.
+
+Our diluted share number was 79.3 million shares, resulting in a diluted earnings per share number for the
+quarter of $2.11, down 13.5% from the prior year.
+
+Now turning to the balance sheet. Cash, cash equivalents and investments ended the quarter at
+approximately $2.8 billion. We did not repurchase shares of our common stock during the second quarter.
+As a reminder, we have previously repurchased $494 million or 2.4 million shares against our Board
+authorization to repurchase $1 billion worth of shares over 3 years commencing in Q2 '19. We expect to
+continue to execute opportunistically against the remaining authorization.
+
+We generated $138 million of cash from operations in the second quarter, reflecting solid net income
+performance, somewhat offset by incremental working capital investments. We expect to continue to
+strategically increase inventory levels through the end of the year as we look to improve lead times and
+help buffer against any future COVID-related supply chain disruptions. DSOs came in at 65 days, up from
+61 days in Q1, reflecting the linearity of billings in the period. Inventory turns were 2.3x, down from 2.5
+last quarter. Inventory increased to $327 million in the quarter, up from $262 million in the prior period.
+
+Our total deferred revenue balance was $578 million, down from $597 million in Q1. As a reminder,
+our deferred revenue balance is now almost exclusively services-related. The level of services deferred
+revenue is directly linked to the timing and term of service renewals, which can vary on a quarter-by-
+quarter basis.
+
+Accounts payable days were 59 days, up from 43 days in Q1, reflecting the timing of inventory receipts
+and payments. Capital expenditures for the quarter were $2.1 million.
+
+Now turning to our outlook for the third quarter and beyond. We continue to closely monitor the impact
+of COVID-19 around the world. Local operating restrictions remain in flux, and it is unclear when and
+how these restrictions will finally be resolved. While we made good progress on supply chain and
+manufacturing during the quarter, we still have some work to do to fully return to normal lead time.
+
+On the gross margin front, we would reiterate our overall gross margin outlook of 63% to 65% with
+customer mix being the key driver. We expect to recognize some incremental COVID-related freight and
+supply chain costs in Q3 and Q4, which all other things being equal, would bound gross margins closer to
+the midpoint of our range.
+
+On the spending side, we'll continue to manage spending and investments carefully, prioritizing key
+projects and customer engagements while benefiting from a natural COVID-related reduction in travel,
+marketing and related expenses. You should, however, expect to see us add investments back into the
+model as incremental revenue solidifies.
+
+Finally, our guidance for Q3 reflects our current understanding of COVID-19 and its impact on our business
+and supply chain. This is, however, an inherently uncertain situation, and we will need to continue to
+monitor and attempt to mitigate new challenges as the situation unfolds.
+
+With all of this as a backdrop, our guidance for the third quarter, which is based on non-GAAP results
+and excludes any noncash stock-based compensation impacts and other nonrecurring items is as follows:
+revenues of approximately $570 million to $590 million, gross margin of 63% to 65%, operating margin of
+approximately 37%. Our effective tax rate is expected to be approximately 21.9% with diluted shares of
+approximately 79.6 million shares.
+
+I will now turn the call back to Curtis. Curtis?
+
+Curtis McKee
+Head of Corporate & Investor Development
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+Thank you, Ita. We are now going to move to the Q&A portion of the Arista earnings call. [Operator
+Instructions]
+Thank you for your understanding. Operator, please take it away.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Rod Hall from Goldman Sachs.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+I wanted to start off with the revenue trends and just ask on the verticals, whether you're seeing -- since
+we didn't see the seasonality on the quarters last year, whether what you've seen here is normal or similar
+to what you observed last year in terms of the cloud and other verticals movement from Q1 to Q2. And
+then secondly, I wondered if you guys could comment on the supply impact. I know that you said there
+was -- or we calculated about $14 million of impact last quarter. Are those -- has that all come back to you
+here? And is there any further ongoing impact on revenues in the guidance from supply chain issues? Or
+are those mostly solved now?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Rod, this is Jayshree. So in terms of seasonality, I think things got better in Q2 than we feared from
+COVID, in general. We obviously experienced a very strong comeback from the cloud titans. But we also
+had strong traction on all the other 4 verticals as well. And they pretty much continued in a fairly linear
+fashion throughout the quarter.
+
+And in terms of manufacturing, we are still experiencing inventory issues. We have very long lead times.
+We have improved -- we are improving them. We look to improve them, but we don't expect it to be back
+to normal until probably Q4.
+
+Roderick B. Hall
+Goldman Sachs Group, Inc., Research Division
+
+Okay. Are you still getting a little bit of drag on revenues, Jayshree, because of the supply chain stuff, but
+maybe it sounds like maybe not as much as last quarter.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. We're improving from Q1 to Q2. We'll improve again from Q2 to Q3, but we won't get back to normal
+till Q4.
+
+Operator
+
+Your next question comes from the line of Erik Suppiger from JPM Securities (sic) [ JMP Securities ].
+
+Erik Loren Suppiger
+JMP Securities LLC, Research Division
+
+Back on the supply chain, did it prevent you from shipping from upside -- further upside in the quarter?
+Or were you able to -- because I think you had indicated last that you had inventory -- sufficient inventory
+for the June quarter. Did your supply chain prevent you from being able to make the shipments that you
+anticipated to make?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+So given the guide we gave, Erik, we were able to make a quarter. But if you're asking, could we have
+made more? We could have made more if we had more inventory.
+
+Operator
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+Your next question comes from the line of Jason Ader from William Blair.
+
+Jason Noah Ader
+William Blair & Company L.L.C., Research Division
+
+Can you talk about the demand environment for the enterprise data center? I'm not talking specifically
+about campus but about data center. It seems like you had another good quarter there. Just a little bit of
+why you're winning there? What are some of the learnings, Jayshree, that you've had over the last several
+years selling into that market? Because I know it's a pretty competitive market with a major incumbent.
+So just talk about your success there, the environment and why you're winning.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. No, I think we're winning because of really 3 reasons: quality and support. Our customers are
+seeing us as being superior to our peers in every which way in that department. Our innovation is getting
+stronger and stronger. And then our market recognition, both from industry analysts as our customers,
+and customers tell other customers. So many of these enterprises were aware of us and are now starting
+to make real decisions on us, both existing ones with greater land-and-expand opportunities as well as
+new ones.
+
+Our sales cycles in the enterprises can be long. And so this is really work in progress that's been going on
+for several quarters that we're seeing materialize in Q2. This may sound obvious, but also another aspect
+of our enterprise's success is that the familiar customers are deepening their expansion with us for many
+more use cases. So not only are we winning new projects, but we're also getting more land-and-expand
+opportunity.
+
+So I think we've always pointed to the enterprise being our shining star and our brightest opportunity, and
+now we're seeing that across the board in all the regions.
+
+Operator
+
+Your next question comes from the line of Meta Marshall from Morgan Stanley.
+
+Meta A. Marshall
+Morgan Stanley, Research Division
+
+I just wanted to kind of get an update on how you thought COVID was changing how Tier 2s were thinking
+about build versus leveraging public cloud, just given the acceleration some of them might have seen due
+to kind of COVID or work-from-home.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. No, I think there's 2 ways to really look at Tier 2 cloud, Meta. Sometimes, they make investments.
+And from a cost perspective, they can very much justify their investments as much more cost-effective in
+the long run than going to the public cloud. But other times, they have a hybrid combination of also going
+to the public cloud to manage their cost structure. So you see a bit of both. It's very cyclical in nature, and
+it really depends on which Tier 2 cloud you're talking about.
+
+So some start on their own cloud and continue to grow their workloads, and we experienced some of that
+in Q2. And others slow down a little bit, and we experienced some of that, too, throughout the year. We
+did have some delayed decisions that we hope we can pick up in the second half of the year.
+
+I think a piece of the Tier 2 cloud that's doing well for us is especially CDN. With the work-from-home, as
+you rightly mentioned, the aggregate of all that video bandwidth is starting to create investments, not that
+the video itself is large, but all of the 4K and 8K flows add up to an aggregate bandwidth.
+
+Operator
+
+Your next question comes from the line of Amit Daryanani from Evercore.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+Amit Jawaharlaz Daryanani
+Evercore ISI Institutional Equities, Research Division
+
+I guess, Jayshree, a question to you. In the last couple of quarters, we've seen your revenue decline
+10% to 12% year-over-year, while hyperscale CapEx has continued to go higher. And I totally realize
+hyperscale CapEx is a lot more things than just Arista spend. But as we get into the back half of this
+year, the expectation is hyperscale CapEx will slow down somewhat. And in that context, should we feel
+comfortable that Arista's revenue decline starts to diminish and shrink as we exit the year? Or how do we
+think about that?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Well, Amit, first of all, you're absolutely right to say there is no one-to-one correlation between network
+CapEx and the massive cloud titan CapEx. But if you look at the cloud titan CapEx that was reported,
+some are very high, some are strong, some are flat and some are down. And so I think the titans did
+experience a stronger spend overall, and that did affect our Q2.
+
+But as we said in the last call and I want to reiterate, we originally thought we'd be flat to down. Because
+of the strong CapEx, we now feel good about flattish, which is an improvement from down. So of course,
+we'll monitor this in the second half, but we believe that the overall for the year will be flat for cloud titan.
+
+Operator
+
+Your next question comes from the line of Paul Silverstein from Cowen.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Jayshree, relative to the long-standing concern among investors thought you're all getting kicked off,
+to one extent or another, whether from internally developed/white box solutions or from third-party
+competitors like Cisco and Arista, specifically, obviously, referring to cloud titans. Any insight you can
+share with us regarding your competitive position? Any changes for better or worse?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Thanks, Paul. No change for better or worse in the quarter. As you know, Arista introduced the Switch
+Abstraction Interface. So we continue to have a long history of commitment on Linux, EOS SDK,
+containerized EOS, virtual EOS, disag EOS, SONiC support, FBOSS support, O&L support. So we embrace
+white boxes, and customers embrace Arista's blue boxes, too.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Jayshree, just to be clear, I'm not just referring to decisions that impacted your quarter revenue but
+decisions that might have been made that could impact the latter half of this year or next year for that
+matter.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. We don't -- I don't -- maybe Anshul, if you're there, we can get you to give some color, but we don't
+see any change in the second half. Go ahead, Anshul.
+
+Anshul Sadana
+Senior VP & COO
+
+I would say there's a lot of noise around this topic and obviously created by parties that don't have much
+to lose. But look, we are engaged, as Jayshree mentioned, multiple projects, including a lot of the road
+map for our customers, right? It's not just a box they have to choose. They have to build a network that
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+scales for their business, and we are very heavily involved in their 2021 and 2022 architectures. So the
+high-level message I would give is, don't worry, we will be fine.
+
+Paul Jonas Silverstein
+Cowen and Company, LLC, Research Division
+
+Anshul, I apologize, but is that "don't worry" notwithstanding share loss you'll be fine because there's so
+many projects you'll grow, notwithstanding others gaining some ground? Or are you saying that there will
+be incremental projects annual and not lose share?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Well, I think we can continue in detail. But I think the message you're getting is our fundamental thesis is
+unchanged. We're not seeing architectural shifts or competitive losses. In fact, recent data validates that
+we're #1 spots for the third consecutive year on 100-gig. So -- and our share is increasing every quarter.
+
+Operator
+
+Your next question comes from the line of Jim Suva from Citigroup.
+
+James Dickey Suva
+Citigroup Inc., Research Division
+
+Maybe if we just look even longer term, with 400-gig coming up, yet we have a coronavirus pandemic that
+we're working through, too. And it's harder to have teas and coffees with people in person and such. Any
+visibility you have on 400-gig coming, whether it be discussions? Are they more fruitful, taking longer,
+testing labs? How should I think about that?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Right. Thanks, Jim. Well, I think, as we've always told you, 400-gig trials began at the end of last year.
+But we -- as we said last quarter, we will be delayed from 2020 to some of them may go into 2021 due
+to all the things you mentioned, COVID-related slowdown. You just can't deploy 400-gig over a virtual
+collaboration conference. You have to do new product qualification. You have to get the optics in.
+
+That said, we're very pleased with our progress in 400-gig. And we're winning tons of customers. In fact,
+to date, we won over 50 customers in 400-gig. So we're pleased with the progress, but many of them are
+in trials and early deployment cycles.
+
+Operator
+
+Your next question comes from the line of Aaron Rakers from Wells Fargo.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+I just want to go into the numbers a little bit. Ita, can you help us understand or appreciate the variables
+to gross margin? At 59.5% of product gross margin, it looks like it's the lowest level we've seen. And I
+think, if my memory is correct, your mix between the verticals really didn't change sequentially. So can
+you just unpack the impacts that you're seeing on the gross margin and how we think about product gross
+margin going forward?
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+Yes. I mean I think there's -- the biggest driver is still the customer mix, right? But you're right, it wasn't
+that dislocated between Q1 and Q2. I think if you look at last quarter, we had talked a lot about being able
+to sell some inventory that previously we thought we couldn't sell or we wouldn't sell, and that has given
+us some pickups on the gross margin side. All of that type of stuff will flow through product margins, not
+-- obviously, not through the services.
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+So now as you think about this quarter and honestly, into Q3 and Q4, we have some incremental COVID
+costs that we're also covering around freight, logistics, just supply chain costs of kind of prioritizing supply
+over cost structure, right? So we are going to carry some burden of cost around those activities through
+the end of the year. And that will all show up in that product line, right?
+
+So I think that's -- but we'll move around a bit even outside of the -- just the normal kind of customer mix
+that we've been seeing historically.
+
+Aaron Christopher Rakers
+Wells Fargo Securities, LLC, Research Division
+
+I guess, just to be clear, there's been no change in pricing dynamics competitively in the market that
+you're seeing.
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+I mean there's always puts and takes on pricing. That's how the market works. But nothing out of the
+ordinary or nothing -- anything new or different, right?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+And just to clarify what Ita said, we are experiencing COVID-related greater cost structures. No change in
+competitive or pricing dynamics.
+
+Operator
+
+Your next question comes from the line of Simon Leopold from Raymond James.
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc., Research Division
+
+Jayshree, I appreciate you giving the guidance comment on the cloud titans. I was hoping you could clarify
+what baseline you're using when you talk about flat given that you had the significant revenue recognition
+last year. I guess the number we had been thinking you meant was a base of about $840 million in 2019.
+But I want to make sure I understand what you mean by flat, what you're comparing it to.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. No, that's actually a great question, Simon. I was just simply computing year-over-year relative to
+the revenue we've given, but I didn't get into the color of deferred. Ita, you want to help me with that?
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+Yes. I mean that commentary, Simon, is very much around demand, right? So it's not adjusting as the
+deferred. So if you think about the cloud business year-over-year and you say, okay, it was -- the demand
+was flat, you still need to adjust out the $118 million of deferred on top of that, right? So you will still see
+a decline on a revenue basis for cloud year-over-year even with the demand, as Jayshree described, being
+flat.
+
+Simon Matthew Leopold
+Raymond James & Associates, Inc., Research Division
+
+Could you tell us what dollar value you're using, just to keep our lives simple?
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+At the top of my head, no. But if you take the percentages that we gave you roughly for the mix of the
+business and then adjust the deferred, you'll get there, right? I mean, you know how much the deferred,
+it's about $118 million, and you know what the split of the business was on a demand basis. So you can
+get there. We can take it up afterwards if you want, but it's pretty straightforward.
+
+Operator
+
+Our next question comes from the line of Woo Jin Ho from Bloomberg.
+
+Woo Jin Ho
+Bloomberg Intelligence
+
+So it seems like you may have a new competitor in the switching market, Nokia. And it's not a competition
+question, more so of a market demand question. I'm just curious if the telco providers have changed their
+purchasing or their thoughts around on switching? Because I know that's been a sore spot for you guys for
+quite some time now. I'm wondering if 5G is finally coming into fruition for switching business for you.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Well, I think there's very few details on exactly what the product is, but Nokia is certainly a good service
+provider company. And I believe while their entry into the data center as a switch player will be difficult
+and will be tough to compete, and I don't really see any 400-gig products available despite the marketing.
+We do think -- and we have respect for them as a service provider, and especially combined with optical
+company, they might find some use cases there.
+
+So I don't say we'll see -- like you rightly pointed out, I don't think we'll see a direct competition with
+them, but they may find some use cases combining with optical.
+
+Woo Jin Ho
+Bloomberg Intelligence
+
+Well, is there an opportunity for that telco data center to finally emerge when 5G starts rolling out for you
+guys?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+We are already seeing opportunity with the telco data center independent of 5G rolling out. But we
+certainly see that as independent of Nokia, that's a very real use case that Arista today participates
+strongly in the service provider segment.
+
+Operator
+
+Your next question comes from the line of Jeff Kvaal from Wolfe Research.
+
+Jeffrey Thomas Kvaal
+Wolfe Research, LLC
+
+I was hoping to ask about the trajectory in cloud titans. And traditionally, of course, obviously, you all have
+been very smooth with growth in the cloud titan vertical, and the last couple of years has been a little
+less so. I think many of us have been hoping that 2021 would be back to the smooth trajectory. And I'm
+wondering if the pushout in 400-gig defers that a little bit. Or we should be just a little careful about how
+we look at 2021, given that 400-gig might come late in the first half or even the middle of the year rather
+than at the top of the year?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Thank you, Jeff. I'm going to say a few words and pass it to Anshul. When you look at 400-gig, as I said,
+that's not one you can buy over a cup of coffee. So there's an intense level of testing and proof-of-concept
+labs that go on. And while our cloud visibility and demand is much better understood for 2020, I think it
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+will still take time to make this migration from 100- to 400-gig. And different cloud titans are in different
+stages of that migration.
+
+They are certainly all in varying forms of trials. But I think you're right to say some of them will get off
+to a good start in 2020, late 2021, and some of them will take longer. I think what I can confidently tell
+you is the combination of 100-gig and 400-gig is going to be the mainstream deployment for most of our
+customers. Anshul, you want to add to that on the 400-gig?
+
+Anshul Sadana
+Senior VP & COO
+
+Absolutely. As Jayshree mentioned, there's no real stall effect for 400 in the cloud because the cloud needs
+to deploy capacity. They'll buy whatever is available in the market and qualify it today.
+
+The market is going to bifurcate, going from 100-gig into 200-gig, 400-gig and 2x400-gig in the next 1
+to 2 years. And I think we will participate very well in all of these form factors. But again, the cloud is not
+waiting. They can just build whatever they didn't have today.
+
+Operator
+
+Your next question comes from the line of Samik Chatterjee from JPMorgan.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+Jayshree, you mentioned you're seeing a strong comeback from the cloud earlier. And I'm just wondering
+how you're feeling related to visibility in terms of getting back to more of a mid-teens growth rate and
+spending from cloud customers that you had communicated at the 2019 Analyst Day. And how does this
+set us up for 2021, where I think consensus customers seem to be largely embedding in a double-digit
+growth rate with the cloud?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Thanks, Samik. I don't think I'm ready to say we're going to grow double digits or mid-teens on the
+cloud. Our numbers are so large. We'll be happy to grow in the cloud period, right? And I think our faster
+growth and traction is clearly coming from the enterprise. And -- but the large numbers are clearly being
+contributed from the cloud. So time will tell, but there's too many variables to make a direct correlation for
+that in 2021.
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+Yes. It's a little early to start trying to call a 2021 view just yet with everything -- with all the uncertainty
+that there is, right?
+
+Operator
+
+Your next question comes from the line of Tal Liani from Bank of America.
+
+Tal Liani
+BofA Merrill Lynch, Research Division
+
+Hopefully, you can hear me okay.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes, we can.
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+Yes.
+
+Curtis McKee
+Head of Corporate & Investor Development
+
+Very clear.
+
+Tal Liani
+BofA Merrill Lynch, Research Division
+
+I'm going back to a lot of the questions that kind of danced around it. Last year, if I look at Q1, Q2 and
+Q3, you grew year-over-year 26%, 17% and 16%. Pretty nice growth. And this quarter, yes, you beat
+the numbers, but year-over-year growth is double-digit decline. So I'm trying to understand the color of
+the numbers beneath the surface, meaning, last quarter, you provided us with the numbers for the cloud
+vertical. And I was able to see what was the growth ex cloud vertical. I'm trying to do the same thing to
+see where is the strength, where is the weakness and get some color around it.
+
+So can you help us with 2 things? First is what's the growth with and without cloud? Just so we
+understand the growth in the other verticals? And second, can you give us color on the profile of the cloud
+growth? Meaning, is this an existing customer that started to deploy new architectures, as you mentioned
+in the past and because of that, the demand is going up? Or is it just demand just after a decline, you see
+kind of snapback in demand, et cetera? I'm trying to see if there is any big trend behind the recovery in
+cloud.
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+Yes. I mean, Tal, I don't think we're going to go kind of down to that level of detail. I think if you take
+kind of the year-over-year growth, you have about 6% of that. That relates to the deferred revenue being
+recognized last year. You have a step-down on Facebook, which I think we've talked about before, right?
+They were very active in the first half through Q3 actually of last year. And then we saw that step down
+in the fourth quarter, right? And we know they're running at a lower level. We've shared that previously
+through this year, right?
+
+So those are kind of your big drivers on the cloud without us trying to get into different use cases and
+products and stuff because we're not going to do that. But those are the key kind of drivers around the
+cloud.
+
+And then we've seen strength in some of the other verticals. Jayshree gave the mix of the verticals again
+this quarter. There was nothing that unusual in the mix versus the breakdown that we gave you on the
+last call in the quarter just gone in Q2, right?
+
+So enterprise continued to do well, continued to grow. And cloud was better than we had expected. But
+still, when you look at it over the year, it's not a breakout. It's solidly kind of flattish on a demand basis
+now versus being down when we thought coming into the year.
+
+Tal Liani
+BofA Merrill Lynch, Research Division
+
+And any color maybe -- and my second question, any color about the growth in the cloud vertical?
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+I mean I think you can get there on the math, right? If you take out the deferred and you look at the
+growth on the -- certainly on the revenue basis, you can get there, right? We're saying for the year, we
+think the demand will be flattish for the year, right? So I'm not sure there's much else that we can give
+you at this point.
+
+Tal Liani
+BofA Merrill Lynch, Research Division
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+What I was referring to was in the past, you noted that some of the declines were because customers
+were looking to deploy new types of servers. And as a result, they reduced spending. I'm trying to
+understand whether there is any correlation between that part and between the growth in cloud. Is it
+just a reversion to the mean? Or is there any big trend beneath it and new architectures are deployed, et
+cetera, and that's why demand is going up?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+So look, we have a number of use case expansion, Tal, that's in 2020. And usually, they come in multiple
+flavors, either it's adding an additional spine layer, where they're building a super spine or regional spine.
+It could be expanding racks to increase their server density on the network IO. And these 2, especially --
+or they could be -- they're building out new data centers. So these are the 3 most popular use cases we
+see. And we definitely saw that this quarter, and we expect to see more of that this year.
+
+Operator
+
+Your next question comes from the line of Alex Kurtz from KeyBanc.
+
+Michael C. Vidovic
+KeyBanc Capital Markets Inc., Research Division
+
+This is Michael on for Alex. As we enter the second half of the year and we start to get the OpEx level for
+FY '21, I guess, how would you start to think about the timing of fiscal '21 on leverage and the return to
+more normalized growth?
+
+Ita M. Brennan
+CFO , Senior VP & Principal Accounting Officer
+
+Yes. I mean, I don't know that you should expect us to drive a ton of leverage. I think we talked about
+kind of reinvesting and bringing back some of the investments that we talked about taking out last quarter
+as we see revenue solidify and revenue growth solidify. So I think the operating margin targets that we've
+out there in the long-term model is roughly 35%, plus or minus. We guided 37% for Q3. So I don't know
+that we're looking to drive operating margins that are much higher than that. So we'll continue to invest if
+we're fortunate to see kind of top line growth.
+
+Operator
+
+Your next question comes from the line of James Fish from Piper Sandler.
+
+James Edward Fish
+Piper Sandler & Co., Research Division
+
+Congrats on the quarter. But I just want to understand where you mainly saw the traction on the campus
+side, specifically on from the geos, given what's going on lately in this environment because most of those
+really aren't sitting at a campus anymore. And if I can just sneak in one related to this. Were there any
+pushouts related to cloud titans? I just want to understand correctly if the pushouts were primarily just
+related to cloud titans internationally. Is that the right way to think about it? Or was it something else?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Okay. Let me understand -- I get confused when there's more than one question. So let's start with the
+campus first. So your question was how did we achieve our goals when nobody is in the office. Quite
+simply, when nobody is in the office is everybody's making planning decisions. It's easier to install them in
+the office because no one is there to interrupt with it.
+
+So what we found is that the engagements we've had with both existing customers and new prospects
+in 2019 really helped us achieve our first year goal through the first [ 2 years ]. And there was very
+strong demand in -- and I can't even point to a theme on verticals. It ranged all the way from mid-market
+enterprise to some of our large customers who are familiar with us, who really influenced our decision to
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+be in the campus. And one of the main reasons they want us in the campus is single EOS, high-quality,
+one cloud vision so -- and then one ability to manage both your wired and WiFi.
+
+What was your question, James, on the cloud pricing?
+
+James Edward Fish
+Piper Sandler & Co., Research Division
+
+I just wanted to make sure I was thinking about it correctly with the pushout related -- it sounded like you
+guys said it was related to cloud titans internationally. Is that correct? I mean...
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Oh, no. No, no. What we tried to say was our EMEA business was weak because the cloud titans did not
+order in that country. So the European piece of our cloud titan was weak. And there were some pushouts
+of European customers that pushed out of Q2, which made that number weaker than normal.
+
+Operator
+
+Your next question comes from the line of Ryan Koontz from Rosenblatt Securities.
+
+Ryan Boyer Koontz
+Rosenblatt Securities Inc., Research Division
+
+Circling back to your campus opportunity there, can you maybe walk us through some of your channel
+strategy? How much is direct versus you looking for third-party integrators and such to work with you?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. No, that's a good question, Ryan. Our channel strategy is still in very early stages and evolving.
+In fact, if you do channel checks, I think most of you don't hear enough about Arista. So I would say a
+lot of our first year success was definitely due to our direct customer focus. Maybe that's north of 80%.
+However, we fulfill through the channels, and so our fulfillment to the channels is also 80%. But the
+impact of channels, I think, will kick in more in the second and third year than it did the first.
+
+And I got to give a shout-out to Chris Schmidt and Ed Chapman and a number of folks who are working on
+a suite of channels [ for us ] that is extremely competitive all over the world.
+
+Operator
+
+Your next question comes from the line of Ben Bollin from Cleveland Research.
+
+Benjamin James Bollin
+Cleveland Research Company
+
+Jayshree, I was hoping you could talk a little bit about how you feel the increased mix of work-from-
+home employees across broader enterprise is likely to impact longer-term investments in the campus from
+the enterprise customer. And then also you mentioned a little bit about video service provider, but I'm
+interested if you think there's any corresponding impact as more people are at home, and that might be
+influencing service provider investments.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. No. Ben, both are very good questions. I think it really depends on how long you think work-from-
+home is going to go on. If it's going to go on indefinitely, I think the campus investments will take longer.
+It will still happen. We were expecting to double every year, and maybe we won't double every year, but
+we will attempt to double every 18 months to 2 years.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+So they will -- there's very much a campus requirement, whether you call it the headquarters' campus or
+the regional offices or the branches. And Arista's technology, where we're able to unify wired and wireless
+in a single pane of glass, is powerful. But I think we will see the decision-making take longer. So I still see
+the opportunity as vibrant but the time being longer.
+
+In terms of video and service providers, I think it's a really good question. When you look at our Tier 2
+both cloud providers and service providers, the ramp in video traffic by itself, because it's compressed
+workflows, aren't that great. But the aggregate bandwidth is definitely causing more investment in both
+Tier 2 cloud providers and service provider, whether it's a colo or a peering point or a content provider. So
+we are seeing that the work-from-home is creating an aggregate demand for bandwidth.
+
+Operator
+
+Your next question comes from the line of George Notter from Jefferies.
+
+George Charles Notter
+Jefferies LLC, Research Division
+
+I guess I was going to ask about, I guess, some of the bigger-picture drivers. You talked about 400-gig
+earlier, but Intel recently delayed their 7-nanometer program around CPUs, including server CPUs. And
+I guess I'm wondering if that impacts the server refresh model that many big Internet content providers
+were kind of following. How do you sort of think about that bigger picture?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Thanks, George. I think when it comes to building a network, the philosophy many of the top enterprise
+and cloud clients take, and Anshul alluded to this is build with what we have. So we haven't seen any
+delays in putting the network together because of server depreciation cycles or price acquisition cycles. So
+we don't think the Intel slip will have an immediate impact. It could factor in 2021 or 2022. But right now,
+I think we don't see any impact from the 7-nanometer because they need IO. They need IO independent
+of which CPU it is. So we feel pretty good in the near term.
+
+Operator
+
+Your next question comes from the line of Sami Badri from Crédit Suisse.
+
+Ahmed Sami Badri
+Crédit Suisse AG, Research Division
+
+I just wanted to ask a little bit about the international opportunity there. We've seen a couple of quarters
+of year-on-year decline, and you talked about some pushouts. However, the European region, some of
+the other regions are probably going through something very similar as the United States with more cloud
+application consumption and people working from home, et cetera. I just want to understand what is it
+about the other regions that are not seeing the same magnitude of demand for the same dynamics as
+the U.S. from an architecture perspective, from a product perspective, how Arista inserts into it. Can you
+just give us any color on what explains the decline versus some of the other regions that are holding up
+relatively well?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. So I would say 3 things, Sami. I think, first, we just got a late start on international investments and
+we still see -- we're still looking to see that pay off country by country, and each country has its dynamics.
+It's hard to lump Europe as one.
+
+The second is both quarters that you're referring to was influenced by the cloud titan and how they
+purchased. So they just tended purchase more in the United States than they did in-country, in the region,
+and that affected it.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+And then the third thing I would say is in general, Chris Schmidt and Ashwin Kohli and Anshul and the
+whole team were humming more, and we're having greater enterprise traction in the U.S. and bigger bets
+in the U.S. And we want to see the same, and we have every beliefs and hope that we will see the same,
+but it's taking a bit longer in the international locations.
+
+Operator
+
+Your next question comes from the line of Vinod Srinivasaraghavan from Oppenheimer.
+
+Vinod Krish Srinivasaraghavan
+Oppenheimer & Co. Inc., Research Division
+
+I just want to talk about your outlook. To the extent that you're embedding supply and demand
+headwinds, would you say that the headwinds are mostly, say, like 75%, 80% supply chain-related? Or are
+you seeing or expecting some demand weakness or slowdown in any vertical?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Thanks, Vinod. That's a loaded question that I may not be able to answer to your satisfaction. But I would
+say, at least as it pertains to Q2, demand was strong, and I wish we could have shipped more. And I think
+we will run into a little bit of that in Q3 as well, albeit it's a slow summer cycle.
+
+So we don't yet know about next year or we don't know enough about Q4. But certainly Q2 -- Q1, Q2
+were pressured by supply chain. And the second half, we hope to respond to that supply chain and create
+more demand.
+
+Vinod Krish Srinivasaraghavan
+Oppenheimer & Co. Inc., Research Division
+
+Okay. And is there -- what would you say -- can you just give us a sense of your backlog? Like how much
+of that has kind of been held up?
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Yes. No, we don't talk about backlog, but it's safe to say we have some.
+
+Curtis McKee
+Head of Corporate & Investor Development
+
+So this concludes the Arista Q2 2020 Earnings Call. We have posted a presentation, which provides
+additional information on our fiscal results, which you can access on the Investors section of our website.
+Thank you for joining us today and, everyone, be safe.
+
+Jayshree V. Ullal
+President, CEO & Director
+
+Thank you.
+
+Operator
+Thank you for joining. Ladies and gentlemen, this concludes today's call. You may now disconnect.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+ARISTA NETWORKS, INC. FQ2 2020 EARNINGS CALL |  AUG 04, 2020
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2020 S&P Global Market Intelligence.
+
+Copyright © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+
